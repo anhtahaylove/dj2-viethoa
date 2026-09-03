@@ -31,6 +31,19 @@ PAIRS = (
 BUTTON = re.compile(r"(^button\.|\.button\.)", re.I)
 FLOATING = re.compile(r"\.(info|tooltip|desc\d*|text\d*|line\d+)$", re.I)
 
+# Keys that merely *look* like button faces. Verified against the mod bytecode:
+# Guide-API's four navigation buttons are 18x10 texture sprites, and these keys
+# are returned by ButtonBack/ButtonSearch/ButtonPrev/ButtonNext.getHoveringText(),
+# i.e. they render as a floating hover tooltip, not inside the button. Measuring
+# them against the sprite width produces a false overflow.
+# (javap -c amerifrance/guideapi/button/Button*.class, Guide-API-1.12-2.1.8-63.jar)
+NOT_BUTTON_FACE = {
+    ("guideapi", "button.back.name"),
+    ("guideapi", "button.search.name"),
+    ("guideapi", "button.prev.name"),
+    ("guideapi", "button.next.name"),
+}
+
 
 def load_glyph_widths():
     with zipfile.ZipFile(PACK) as z:
@@ -116,6 +129,8 @@ def main():
             for key, vietnamese in target.items():
                 english = source.get(key)
                 if english is None or not BUTTON.search(key) or FLOATING.search(key):
+                    continue
+                if (mod, key) in NOT_BUTTON_FACE:
                     continue
                 for value in official.get(key, {}).values():
                     if value != english:      # untranslated copies prove nothing

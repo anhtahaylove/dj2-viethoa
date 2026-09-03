@@ -173,3 +173,6 @@ key.cofh.augments=Open Player Augment GUI
 key.cofh.category=CoFH Keys
 key.cofh.multimode=Cycle Item Mode
 tab.cofh.friendList.2=Friends not provided.
+tipped_arrow.effect.absorption=Arrow of Absorption
+tipped_arrow.effect.unluck=Arrow of Misfortune
+tipped_arrow.effect.wither=Arrow of Decay

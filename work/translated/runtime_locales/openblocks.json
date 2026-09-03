@@ -192,5 +192,6 @@
   "openblocks.misc.shape.planes": "Các Mặt Phẳng",
   "openblocks.misc.shape.sphere": "Hình Cầu",
   "openblocks.misc.shape.triangle": "Hình Tam Giác",
-  "stat.openblocks.bricksDropped": "Số gạch đã rơi"
+  "stat.openblocks.bricksDropped": "Số gạch đã rơi",
+  "openblocks.turtle.magnet": "Magnet"
 }

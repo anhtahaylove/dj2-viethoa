@@ -27,3 +27,5 @@ gui.entityFilter.button.whiteList=White List
 gui.entityFilter.customTip.txt=Player usernames must be formatted as [player]:username
 gui.entityFilter.filter.txt=Filter
 generic.configureRedstone.txt=Configure Redstone Control
+generic.no.txt=No
+generic.yes.txt=Yes

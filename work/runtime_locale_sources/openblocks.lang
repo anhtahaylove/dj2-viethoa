@@ -192,3 +192,4 @@ openblocks.misc.shape.planes=Planes
 openblocks.misc.shape.sphere=Sphere
 openblocks.misc.shape.triangle=Triangle
 stat.openblocks.bricksDropped=Bricks dropped
+openblocks.turtle.magnet=Magnet

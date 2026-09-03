@@ -15,5 +15,10 @@
   "mods.tips.atum.4": "Đôi khi có thể tìm thấy Scarab trong Deadwood Log",
   "mods.tips.atum.5": "Wanderer Helmet sẽ giúp bạn nhìn rõ hơn",
   "tooltip.atum.minutesRemaining": "Còn %d Phút",
-  "tooltip.atum.usesRemaining": "Còn %d Lượt Dùng"
+  "tooltip.atum.usesRemaining": "Còn %d Lượt Dùng",
+  "atum.container.sarcophagus": "Sarcophagus",
+  "atum.kiln": "Kiln",
+  "atum.quern": "Quern",
+  "atum.spinningwheel": "Spinning Wheel",
+  "atum:subtitles.pharaohspawn": "Pharaoh gầm gừ"
 }

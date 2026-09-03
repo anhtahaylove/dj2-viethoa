@@ -530,3 +530,5 @@ container.actuallyadditions.shockSuppressor.name=Shock Suppressor
 container.nei.actuallyadditions.coffee.extra.milk=+01:00, -1 Level
 container.nei.actuallyadditions.coffee.maxAmount=Max Amount
 container.nei.actuallyadditions.coffee.special=Special Feature
+actuallyadditions.cflong=Crystal Flux
+actuallyadditions.cft=CF/t

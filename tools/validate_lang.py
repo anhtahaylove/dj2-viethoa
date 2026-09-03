@@ -72,6 +72,17 @@ def _format_tokens(value: str):
     return tokens, bare
 
 
+# Some protected terms are also ordinary English words, so a key whose English
+# is prose using the common noun -- not a reference to the named registry entry
+# -- is exempt. Cleared by reading the key's siblings; see the twin list in
+# tools/validate_translated_locales.py.
+PROTECTED_TERM_EXEMPT_KEYS = {
+    # Thaumcraft focus-effect label; "Projectiles" is the common noun here
+    # (the corpus renders it "Đạn"), not DivineRPG's entity of that name.
+    "focus.thaumicaugmentation.shield.reflect",
+}
+
+
 def validate(src, tgt, protected, source_duplicates=(), target_duplicates=()):
     errors = []
     for key, lineno in source_duplicates:
@@ -99,6 +110,8 @@ def validate(src, tgt, protected, source_duplicates=(), target_duplicates=()):
                 errors.append(Err("URL_LOST", key, f"mất link: {url}"))
         for term in protected:
             if term in s and term not in t:
+                if key in PROTECTED_TERM_EXEMPT_KEYS:
+                    continue
                 errors.append(Err("PROTECTED_TERM", key, f"tên riêng/item bị đổi: {term!r}"))
         # MC nối các chuỗi này lại, nên dấu cách viền là nội dung chứ không
         # phải định dạng: "Máu: " + 20 mà mất dấu cách sẽ ra "Máu:20", và hai

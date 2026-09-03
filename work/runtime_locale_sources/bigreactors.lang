@@ -125,3 +125,5 @@ debug.bigreactors.reactantcontainer.capacity=Capacity: %1$d mB
 debug.bigreactors.reactor.activelycooled=Actively Cooled: %1$s
 debug.bigreactors.reactor.casingheat=Casing Heat: %1$.4f
 debug.bigreactors.reactor.fuelheat=Fuel Heat: %1$.4f
+debug.bigreactors.reactor.coolanttanksIntro:=Coolant Tanks:
+debug.bigreactors.reactor.reactanttanksIntro=Reactant Tanks:

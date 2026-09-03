@@ -73,5 +73,15 @@
   "options.hammercore:skintype.2": "Slim",
   "options.modelPart.hammercore:overrideCape": "Ghi đè Cape",
   "options.modelPart.hammercore:renderSpecial": "Kết xuất đặc biệt",
-  "options.modelPart.hammercore:skinType": "Kiểu Skin"
+  "options.modelPart.hammercore:skinType": "Kiểu Skin",
+  "battery.hammercore:mode.inventory": "Inventory",
+  "battery.hammercore:mode.noshare": "Tắt",
+  "hc.manual_name.wrench": "Wrench",
+  "battery.hammercore:mode.armor_hotbar": "Giáp & thanh nhanh",
+  "definition.hammercore:bt.long": "Số tick cháy",
+  "definition.hammercore:fe.long": "Forge Energy",
+  "hc.manual_cat.hammercore": "Hammer Core",
+  "hc.manual_name.hammercore": "Hammer Core",
+  "recipe.hammercore:type.construct": "Cấu trúc Multiblock",
+  "recipe.hammercore:type.workbenchshapeless": "Chế tạo (không định hình)"
 }

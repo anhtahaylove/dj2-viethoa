@@ -63,5 +63,13 @@
   "option.vanilla.redstone": "Công suất Redstone",
   "option.vanilla.repeater": "Độ trễ Repeater",
   "option.vanilla.silverfish": "Ẩn Silverfish",
-  "option.vanilla.spawntype": "Loại Spawner"
+  "option.vanilla.spawntype": "Loại Spawner",
+  "choice.showhideidmeta": "Hiện ID:Metadata",
+  "choice.showhidewaila": "Hiện/ẩn Waila",
+  "choice.showitem": "Hiển thị vật phẩm",
+  "choice.showliquids": "Chất lỏng",
+  "choice.toggledmaintained": "Bật tắt/Duy trì",
+  "choice.tts": "Đọc tên khối",
+  "hud.item.melonstem": "Melon Stem",
+  "hud.item.pumpkinstem": "Pumpkin Stem"
 }

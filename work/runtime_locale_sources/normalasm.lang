@@ -70,3 +70,5 @@ normalasm.warnscreen.paragraph3.line4=you will likely encounter some problems la
 normalasm.warnscreen.paragraph3.line5=can be disabled in Mods > FermiumASM > Config > Crashes.
 normalasm.warnscreen.summary=Minecraft ran into a problem.
 normalasm.warnscreen.title=Potential problem found!
+normalasm.crashes.problemAction.crash=Crash
+normalasm.crashes.problemAction.log=Log

@@ -987,5 +987,18 @@
   "perk.category.focus.name": "Perk Tiêu Điểm",
   "perk.category.key.name": "Perk Chủ Chốt",
   "perk.category.major.name": "Perk Chính",
-  "perk.category.root.name": "Perk Cội"
+  "perk.category.root.name": "Perk Cội",
+  "crystal.fracture": "Fractured",
+  "inventory.altar.0": "Luminous Crafting Table",
+  "inventory.altar.1": "Starlight Crafting Altar",
+  "amulet.enchantment.level.more": "cấp",
+  "crystal.collectivity": "Khả năng cắt",
+  "crystal.purity": "Độ tinh khiết",
+  "inventory.altar.2": "Celestial Altar",
+  "inventory.altar.3": "Iridescent Altar",
+  "inventory.altar.4": "[NoName-Endgame] Altar",
+  "misc.chaos.resistance.max": "Miễn nhiễm hỗn loạn",
+  "misc.link.link.block": "một khối",
+  "misc.link.stop": "Đã dừng liên kết!",
+  "perk.reader.gui": "Chỉ số đặc quyền"
 }

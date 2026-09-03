@@ -79,5 +79,8 @@
   "invtweaks.settings.moreoptions": "Thêm tùy chọn...",
   "invtweaks.settings.off": "TẮT",
   "invtweaks.settings.on": "BẬT",
-  "invtweaks.settings.shortcuts": "Phím tắt"
+  "invtweaks.settings.shortcuts": "Phím tắt",
+  "invtweaks.key.category": "Inventory Tweaks",
+  "invtweaks.key.sort": "Sắp xếp kho đồ",
+  "invtweaks.loadconfig.done": "Đã nạp cấu hình."
 }

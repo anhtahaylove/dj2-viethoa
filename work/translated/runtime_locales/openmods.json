@@ -62,5 +62,6 @@
   "openmodslib.config.features.blocks": "Bật/tắt block",
   "openmodslib.config.features.items": "Bật/tắt item",
   "openmodslib.config.update_warning": "§c§lLưu ý:§r để đổi cấu hình khi đang chạy, dùng lệnh §l/om_config_s§r hoặc §l/om_config_m§r",
-  "openmodslib.gui.watch_video": "Xem video"
+  "openmodslib.gui.watch_video": "Xem video",
+  "openmodslib.color.orange": "Cam"
 }

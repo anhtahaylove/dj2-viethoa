@@ -28,5 +28,9 @@
   "tooltip.erebus.gliderpoweredkey": "Phím Bay",
   "tooltip.erebus.sprintleggingstier": "Bậc %s",
   "tooltip.erebus.whetstone_2": "Chưa Phù Phép",
-  "tooltip.erebus.whetstonesharpness": "Cấp Sharpness %s"
+  "tooltip.erebus.whetstonesharpness": "Cấp Sharpness %s",
+  "erebus.smoothie.effect.extinguish": "Dập lửa",
+  "erebus.smoothie.effect.heal": "Hồi máu",
+  "erebus.smoothie.effect.milk": "Xóa hiệu ứng",
+  "erebus.smoothie.effect.set_fire": "Tạo lửa"
 }

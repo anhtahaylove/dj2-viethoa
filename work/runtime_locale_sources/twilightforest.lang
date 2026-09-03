@@ -246,3 +246,4 @@ twilightforest.ore_meter.range=Radius: %s, Origin: [%s, %s]
 twilightforest.scepter_charges=%d charges left
 twilightforest.trophy_pedestal.ineligible=You are unworthy.
 twilightforest.twilight_portal.unsafe=It doesn't seem safe here...
+twilightforest.effect.frosted=Frosted

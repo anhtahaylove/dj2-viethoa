@@ -395,5 +395,11 @@
   "parttype.parttypes.integratedtunnels.interface_energy.info": "Gắn một bộ chứa năng lượng vào mạng lưới",
   "parttype.parttypes.integratedtunnels.interface_fluid.info": "Gắn một bồn chất lỏng vào mạng lưới",
   "parttype.parttypes.integratedtunnels.interface_item.info": "Gắn một kho vật phẩm vào mạng lưới",
-  "parttype.parttypes.integratedtunnels.player_simulator.info": "Mô phỏng hành động của người chơi"
+  "parttype.parttypes.integratedtunnels.player_simulator.info": "Mô phỏng hành động của người chơi",
+  "info_book.integratedtunnels.player": "Mô phỏng người chơi",
+  "info_book.integratedtunnels.world.block": "Block",
+  "info_book.integratedtunnels.concepts": "Khái niệm",
+  "info_book.integratedtunnels.section.main": "Đường hầm",
+  "info_book.integratedtunnels.section.tutorials": "Hướng dẫn đường hầm",
+  "info_book.integratedtunnels.world": "Tương tác thế giới"
 }

@@ -41,5 +41,6 @@
   "tooltip.anchor.spawn": "Từ điểm hồi sinh",
   "tooltip.x.exact": "x%1$s",
   "tooltip.y.exact": "y%1$s",
-  "tooltip.z.exact": "z%1$s"
+  "tooltip.z.exact": "z%1$s",
+  "craftcheck.weather.storm": "Trời không có bão."
 }

@@ -88,5 +88,8 @@
   "jecalculation.label.item_stack.fuzzy_meta": "Metadata mờ",
   "jecalculation.label.item_stack.fuzzy_nbt": "NBT mờ",
   "jecalculation.label.ore_dict.name": "Ore: %s",
-  "jecalculation.label.placeholder.name": "Ô giữ chỗ: %s"
+  "jecalculation.label.placeholder.name": "Ô giữ chỗ: %s",
+  "jecalculation.key.category": "Just Enough Calculation",
+  "jecalculation.key.gui_craft": "Mở máy tính chế tạo",
+  "jecalculation.key.gui_math": "Mở máy tính toán học"
 }

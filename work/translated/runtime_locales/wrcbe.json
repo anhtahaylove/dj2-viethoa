@@ -76,5 +76,6 @@
   "wrcbe.param.set.usage1": "VD: freq set public. Đặt tần số từ 1 đến [value] là công khai",
   "wrcbe.param.set.usage2": "VD: freq set shared. Đặt tần số từ [public+1] đến [value] là dùng chung",
   "wrcbe.param.set.usage3": "VD: freq set private. Cho mỗi người chơi [value] tần số riêng",
-  "wrcbe.command.usage1": "tham số: %s"
+  "wrcbe.command.usage1": "tham số: %s",
+  "wrcbe.param.invalid": "Tham số không hợp lệ"
 }

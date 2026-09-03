@@ -41,3 +41,4 @@ craftcheck.meklaser.input=Apply Mekanism Laser.
 craftcheck.weather.clear=Sky too cloudy.
 craftcheck.weather.rain=Not enough rainfall.
 craftcheck.weather.snow=Not enough snowfall.
+craftcheck.weather.storm=Not storming.

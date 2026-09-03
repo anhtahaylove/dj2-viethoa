@@ -173,5 +173,8 @@
   "splash_potion.effect.wither": "Splash Potion of Decay",
   "tab.cofh.friendList.0": "Dùng danh sách này để thêm và bớt Bạn bè!",
   "tab.cofh.friendList.1": "Bạn bè có thể truy cập các block và vật phẩm được bảo vệ của bạn, nếu bạn cho phép.",
-  "tab.cofh.friendList.2": "Chưa cung cấp bạn bè."
+  "tab.cofh.friendList.2": "Chưa cung cấp bạn bè.",
+  "tipped_arrow.effect.wither": "Arrow of Decay",
+  "tipped_arrow.effect.absorption": "Arrow of Absorption",
+  "tipped_arrow.effect.unluck": "Arrow of Misfortune"
 }

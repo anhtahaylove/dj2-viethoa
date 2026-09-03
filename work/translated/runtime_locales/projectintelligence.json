@@ -25,7 +25,7 @@
   "pi.button.paste_hex_value": "Dán Mã Hex",
   "pi.button.paste_value": "Dán Giá Trị",
   "pi.button.prev_page": "Trang trước",
-  "pi.button.previous": "Trước Đó",
+  "pi.button.previous": "Trước",
   "pi.button.save": "Lưu",
   "pi.button.search_settings": "Chế độ tìm kiếm",
   "pi.button.settings.info": "Cài đặt",
@@ -177,5 +177,17 @@
   "pi.style.thick_borders.prop": "Viền Dày",
   "pi.style.transparent.txt": "Trong suốt",
   "pi.style.user_dialogs.prop": "Hộp thoại Người dùng",
-  "pi.style.vanilla_tex.prop": "Kết cấu Vanilla"
+  "pi.style.vanilla_tex.prop": "Kết cấu Vanilla",
+  "pi.lang.mc_default": "MC:",
+  "pi.key.et_world": "ET (Giải thích cái này)",
+  "pi.lang.disable_override": "Tắt ghi đè",
+  "pi.popup.select_language": "Chọn ngôn ngữ",
+  "pi.popup.select_version": "Chọn phiên bản",
+  "pi.search.mode.everywhere": "Mọi nơi",
+  "pi.search.mode.page_only": "Chỉ trang này",
+  "pi.search.mode.selected_mod": "Mod hiện tại",
+  "pi.update.status.dl_master_manifest": "Đang tải bản kê chính",
+  "pi.update.status.dl_mod_documentation": "Đang tải bản cập nhật tài liệu",
+  "pi.update.status.dl_mod_manifests": "Đang tải bản kê mod",
+  "pi.update.status.reload_documentation": "Đang tải lại tài liệu"
 }

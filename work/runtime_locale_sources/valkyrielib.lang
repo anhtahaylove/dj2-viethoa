@@ -62,3 +62,6 @@ valkyrielib.feature.enabled=Is Feature Enabled?
 valkyrielib.module.enabled=Is Module Enabled?
 valkyrielib.range=Range
 valkyrielib.requirements=Requirements
+valkyrielib.chars=Characters
+valkyrielib.documentation.version=Documentation Version
+valkyrielib.strings=Strings

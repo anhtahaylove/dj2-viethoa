@@ -830,5 +830,12 @@
   "tooltip.staff.mode.1": "Chế độ",
   "tooltip.staff.mode.2": "Nhấn %s để đổi chế độ",
   "tooltip.stonetablet.contents": "%d chồng",
-  "tooltip.stonetablet.cursed": "Bị Nguyền"
+  "tooltip.stonetablet.cursed": "Bị Nguyền",
+  "ac.text.none": "Không có",
+  "ac.text.amplifier": "Bộ khuếch đại",
+  "ac.text.deity": "Thần linh",
+  "crystalcluster.postfix": "%s Cluster",
+  "crystalfragment.postfix": "%s Fragment",
+  "crystalshard.postfix": "%s Shard",
+  "decorativestatue.prefix": "Decorative %s"
 }

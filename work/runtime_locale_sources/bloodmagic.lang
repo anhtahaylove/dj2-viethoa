@@ -463,3 +463,6 @@ option.bloodmagic.bloodAltar=Blood Altar
 option.bloodmagic.bypassSneak=Bypass Sneak
 option.bloodmagic.ritualController=Ritual Stones
 option.bloodmagic.teleposer=Teleposer
+bloodmagic.research_name.BLOODMAGIC=Blood Magic
+bloodmagic.research_text.BLOODMAGIC=Sanguine Arcana
+tc.research_category.BLOODMAGIC=Sanguine Arcana

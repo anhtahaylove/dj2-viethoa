@@ -102,3 +102,4 @@ gui.thermaldynamics.transport.name=Viaduct Network
 gui.thermaldynamics.transport.noDest=No Destinations
 gui.thermaldynamics.transport.unnamed=Unnamed
 gui.thermaldynamics.transport.waiting=Waiting for Info
+recipe.thermaldynamics.covers=Cover Crafting

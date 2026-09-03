@@ -16,5 +16,7 @@
   "base.part.bolt": "%s Bolt",
   "base.part.round": "%s Round",
   "base.sidetype.input": "Đầu vào",
-  "base.sidetype.output": "Đầu ra"
+  "base.sidetype.output": "Đầu ra",
+  "base.sidetype.none": "Không có",
+  "error.base.null_part": "Bộ phận null"
 }

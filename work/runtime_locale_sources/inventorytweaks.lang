@@ -79,3 +79,6 @@ invtweaks.settings.moreoptions=More options...
 invtweaks.settings.off=OFF
 invtweaks.settings.on=ON
 invtweaks.settings.shortcuts=Shortcuts
+invtweaks.key.category=Inventory Tweaks
+invtweaks.key.sort=Inventory Sorting
+invtweaks.loadconfig.done=Configuration loaded.

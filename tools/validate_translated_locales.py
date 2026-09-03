@@ -576,6 +576,23 @@ def _sibling_translation_files(stem):
     )
 
 
+# A protected term is a registry display name that must survive translation.
+# The list is derived from every mod's en_us.lang, so a few entries are also
+# ordinary English words ("Projectiles" is a DivineRPG entity name). Where the
+# English string is plainly prose using the common noun -- not a reference to
+# the named thing -- translating it is correct and the guard is what is wrong.
+# Each entry below is cleared by reading the key and its siblings.
+PROTECTED_TERM_EXEMPT = {
+    # Thaumcraft focus-effect label. Siblings are "Health", "Yes", "No" and the
+    # focus description, all translated. "Projectiles" here is the common noun
+    # (the corpus renders it "Đạn" 20+ times), not DivineRPG's entity name.
+    (
+        "work/translated/runtime_locales/thaumicaugmentation.json",
+        "focus.thaumicaugmentation.shield.reflect",
+    ),
+}
+
+
 def validate():
     errors, report = [], {}
     labels = {}
@@ -653,6 +670,8 @@ def validate():
                 # A protected term present in English must survive into Vietnamese.
                 for term in PROTECTED_TERMS:
                     if term in english and term not in vietnamese:
+                        if (rel, key) in PROTECTED_TERM_EXEMPT:
+                            break
                         errors.append(
                             f"protected term dropped {rel}:{key}: {term!r}"
                         )

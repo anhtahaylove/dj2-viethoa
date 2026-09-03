@@ -742,5 +742,16 @@
   "subtitle.roots.spell.time_stop": "Thời gian ngừng lại",
   "subtitle.roots.spell.time_stop_end": "Thời gian trôi lại",
   "subtitle.roots.spell.wildfire": "Lửa phun thành tia",
-  "roots.keybinds.group": "Roots"
+  "roots.keybinds.group": "Roots",
+  "roots.hud.top.pyre.progress": "Tiến độ:",
+  "roots.modifier.is_disabled": "Đã tắt",
+  "roots.modifier.is_enabled": "Bật",
+  "roots.patchouli.false": "không",
+  "roots.patchouli.fey_crafting": "Fey Crafting",
+  "roots.patchouli.true": "có",
+  "roots.hud.grove_stone.valid": "Đá hợp lệ",
+  "roots.hud.top.pyre.progress_info": "giây còn lại",
+  "roots.hud.top.pyre.recipe": "Chế tạo:",
+  "roots.hud.top.pyre.ritual": "Nghi lễ:",
+  "roots.library.reset": "Bỏ chọn"
 }

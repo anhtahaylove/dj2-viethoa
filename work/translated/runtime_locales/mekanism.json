@@ -620,5 +620,9 @@
   "transmission.Items": "Vật phẩm",
   "update.newFeatures": "Tính năng mới",
   "update.toDownload": "để tải xuống",
-  "update.visit": "Truy cập"
+  "update.visit": "Truy cập",
+  "gas.sulfuricacid": "Sulfuric Acid",
+  "oregas.copper": "Copper Ore",
+  "oregas.osmium": "Osmium Ore",
+  "oregas.tin": "Tin Ore"
 }

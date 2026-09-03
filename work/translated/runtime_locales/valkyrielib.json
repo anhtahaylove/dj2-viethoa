@@ -24,7 +24,7 @@
   "gui.valkyrielib.nodefreq": "Tần suất node",
   "gui.valkyrielib.nodesize": "Kích thước node",
   "gui.valkyrielib.page": "Trang",
-  "gui.valkyrielib.prev": "Trước Đó",
+  "gui.valkyrielib.prev": "Trước",
   "gui.valkyrielib.red": "Đỏ",
   "gui.valkyrielib.scrolldown": "Cuộn xuống",
   "gui.valkyrielib.scrollup": "Cuộn lên",
@@ -62,5 +62,8 @@
   "valkyrielib.feature.enabled": "Tính năng đã bật?",
   "valkyrielib.module.enabled": "Mô-đun đã bật?",
   "valkyrielib.range": "Phạm vi",
-  "valkyrielib.requirements": "Yêu Cầu"
+  "valkyrielib.requirements": "Yêu Cầu",
+  "valkyrielib.chars": "Ký tự",
+  "valkyrielib.documentation.version": "Phiên bản tài liệu",
+  "valkyrielib.strings": "Chuỗi"
 }

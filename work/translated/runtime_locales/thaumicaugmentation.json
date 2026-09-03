@@ -351,5 +351,16 @@
   "thaumicaugmentation.text.terraformer_circle_mode": "Hình dạng",
   "thaumicaugmentation.text.terraformer_radius": "Bán Kính",
   "thaumicaugmentation.text.terraformer_square": "Hình vuông",
-  "thaumicaugmentation.command.subcommands": "[thaumicaugmentation] Các lệnh con khả dụng:"
+  "thaumicaugmentation.command.subcommands": "[thaumicaugmentation] Các lệnh con khả dụng:",
+  "focus.thaumicaugmentation.light.intensity": "Intensity",
+  "focus.thaumicaugmentation.shield.reflect_no": "Không",
+  "focus.thaumicaugmentation.shield.reflect_yes": "Có",
+  "tc.research_category.THAUMIC_AUGMENTATION": "Thaumic Augmentation",
+  "thaumicaugmentation.key.category": "Thaumic Augmentation",
+  "thaumicaugmentation.text.biome_empty": "Không có",
+  "thaumicaugmentation.text.energy_none": "Không có",
+  "champion.mod.tainted": "Ô uế",
+  "focus.thaumicaugmentation.shield.reflect": "Phản xạ đạn",
+  "golem.prop.other": "Nhắm mục tiêu khác",
+  "golem.prop.sight": "Cần nhìn thấy"
 }

@@ -89,3 +89,5 @@ extracells.tooltip.item=Item
 extracells.tooltip.mode=Mode
 extracells.tooltip.save=Save
 extracells.gui.craft=Craft
+extracells.block.certustank=Certus Quartz Tank
+extracells.item.fluid.pattern=ME Fluid Pattern

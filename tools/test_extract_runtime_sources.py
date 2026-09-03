@@ -8,6 +8,7 @@ against the JARs the game actually loads.
 """
 
 import json
+import re
 import unittest
 import zipfile
 from pathlib import Path
@@ -155,6 +156,90 @@ class RealPackTests(unittest.TestCase):
         keys = ers.parse_lang(built.read_text(encoding="utf-8"))
         aspects = [k for k in keys if k.startswith("tc.aspect.")]
         self.assertGreaterEqual(len(aspects), 40, "aspect keys regressed below 40")
+
+
+# Vietnamese-only letters: no English or Latin-1 loanword spelling uses these.
+VIETNAMESE_ONLY_LETTERS = re.compile(
+    r"[đĐơƠưƯăĂ]"
+    r"|[ạảãấầẩẫậắằẳẵặẹẻẽếềểễệịỉĩọỏõốồổỗộớờởỡợụủũứừửữựỵỷỹ]"
+)
+# Function words that only co-occur in running Vietnamese prose.
+VIETNAMESE_FUNCTION_WORDS = re.compile(
+    r"\b(và|của|các|được|trong|khi|này|cho|với|từ|một|những|hoặc|nếu|đã|sẽ"
+    r"|bạn|người|không|là|để|thì|nhưng|vào|ra|trên|dưới)\b",
+    re.IGNORECASE,
+)
+
+# 16 enchantment descriptions have no upstream English at all: Divine Journey 2
+# ships `enchantment_descriptions` with the key registered but no value, so this
+# project authored the text. They are Vietnamese on purpose and are the only
+# legitimate Vietnamese in the English source tree.
+PROJECT_AUTHORED_SOURCE_KEYS = 16
+
+
+def looks_vietnamese(value: str) -> bool:
+    """True when a value is Vietnamese prose rather than English.
+
+    Diacritics alone are not enough: `Skál!` (Icelandic, Immersive Engineering)
+    and `"x!(àà)ç"` (a string-escaping example in Integrated Dynamics) are
+    genuine English-locale values that carry accents.
+    """
+    if VIETNAMESE_ONLY_LETTERS.search(value):
+        return True
+    return len({w.lower() for w in VIETNAMESE_FUNCTION_WORDS.findall(value)}) >= 2
+
+
+class EnglishSourcePurityTests(unittest.TestCase):
+    """Guard against re-infecting work/runtime_locale_sources/ with Vietnamese.
+
+    Every validator and test in this project compares an English source against
+    its Vietnamese translation. When the "English" half holds Vietnamese, those
+    checks compare Vietnamese with Vietnamese and pass while proving nothing --
+    which is exactly what happened for 7,014 keys across 68 files, undetected
+    from the first commit until a width check surfaced it. Restoring the real
+    English immediately exposed 74 consistency errors, 38 formatting errors and
+    6 CraftTweaker strings that had lost every color code.
+    """
+
+    @classmethod
+    def setUpClass(cls):
+        cls.sources = sorted((ROOT / "work" / "runtime_locale_sources").glob("*.lang"))
+
+    def test_source_tree_is_present(self):
+        self.assertGreater(len(self.sources), 100, "runtime source tree missing")
+
+    def test_english_sources_are_not_vietnamese(self):
+        offenders = []
+        for path in self.sources:
+            entries = ers.parse_lang(path.read_text(encoding="utf-8"))
+            for key, value in entries.items():
+                if looks_vietnamese(value):
+                    offenders.append(f"{path.name}:{key} = {value[:60]!r}")
+        self.assertLessEqual(
+            len(offenders),
+            PROJECT_AUTHORED_SOURCE_KEYS,
+            "Vietnamese text leaked into the English source tree "
+            f"({len(offenders)} values):\n" + "\n".join(sorted(offenders)[:20]),
+        )
+
+    def test_only_the_known_authored_family_may_be_vietnamese(self):
+        """Pin the exemption to one family so a new leak cannot hide in it."""
+        for path in self.sources:
+            entries = ers.parse_lang(path.read_text(encoding="utf-8"))
+            for key, value in entries.items():
+                if looks_vietnamese(value):
+                    self.assertTrue(
+                        key.startswith("enchantment.") and key.endswith(".desc"),
+                        f"unexpected Vietnamese source value {path.name}:{key}",
+                    )
+
+    def test_detector_catches_a_translated_source_file(self):
+        """The guard must fail on infection, not merely pass when clean."""
+        self.assertTrue(looks_vietnamese("Nhấp chuột phải để mở giao diện"))
+        self.assertTrue(looks_vietnamese("Chế độ: Kết hợp"))
+        self.assertFalse(looks_vietnamese("Right-click to open the interface"))
+        self.assertFalse(looks_vietnamese("Skál!"))
+        self.assertFalse(looks_vietnamese('A sequence of characters, "x!(àà)ç"'))
 
 
 if __name__ == "__main__":

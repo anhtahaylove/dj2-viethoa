@@ -62,3 +62,4 @@ openmodslib.config.features.blocks=Enable/disable blocks
 openmodslib.config.features.items=Enable/disable items
 openmodslib.config.update_warning=§c§lNote:§r to change configuration in runtime, use §l/om_config_s§r or §l/om_config_m§r commands
 openmodslib.gui.watch_video=Watch video
+openmodslib.color.orange=Orange

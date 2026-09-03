@@ -20,5 +20,12 @@
   "baubles.item.desc": "Bauble (%s)",
   "baubles.type.head": "Phần Tử Đầu",
   "button.normal": "Thường",
-  "keybind.baublesinventory": "Baubles Inventory"
+  "keybind.baublesinventory": "Baubles Inventory",
+  "baubles.type.body": "Thân",
+  "baubles.type.trinket": "Any",
+  "button.baubles": "Baubles",
+  "baubles.type.amulet": "Bùa hộ mệnh",
+  "baubles.type.belt": "Thắt lưng",
+  "baubles.type.charm": "Bùa",
+  "baubles.type.ring": "Nhẫn"
 }

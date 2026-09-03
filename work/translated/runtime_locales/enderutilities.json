@@ -365,5 +365,10 @@
   "tile.enderutilities.sound_block.tooltips": "- Đúng vậy, nó phát âm thanh...|lf- Chọn âm thanh bất kỳ trong danh sách đã đăng ký|lf- Có thể điều chỉnh cao độ và âm lượng",
   "tile.enderutilities.tool_workstation.tooltips": "- Dùng để truy cập/thay đổi các module trong vật phẩm modular|lf- Cũng có thể đổi tên miễn phí cho mọi vật phẩm",
   "language.code": "en_US",
-  "language.region": "US"
+  "language.region": "US",
+  "enderutilities.placement_properties.valuenames.inserter.redstone_mode.high": "Cao",
+  "category.enderutilities": "Ender Utilities",
+  "enderutilities.key.activate_unselected": "Kích hoạt mục chưa chọn",
+  "enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.extend": "Mở rộng",
+  "enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.retract": "Thu lại"
 }

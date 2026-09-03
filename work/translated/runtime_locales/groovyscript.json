@@ -38,5 +38,6 @@
   "key.categories.groovyscript": "GroovyScript",
   "keybind.groovyscript.copy": "Sao chép mục đang chọn",
   "keybind.groovyscript.quick_reload": "Tải lại tập lệnh (bỏ qua JEI)",
-  "keybind.groovyscript.reload": "Tải lại tập lệnh và JEI"
+  "keybind.groovyscript.reload": "Tải lại tập lệnh và JEI",
+  "groovyscript.infoparser.weather": "Trạng thái thời tiết EvilCraft"
 }

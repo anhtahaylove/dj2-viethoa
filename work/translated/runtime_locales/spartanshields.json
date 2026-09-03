@@ -101,5 +101,12 @@
   "config.spartanshields:enableTinShield": "Bật Tin Braced Shield",
   "config.spartanshields:enableVoidShield": "Bật Void Plated Shield",
   "config.spartanshields:forceDisableUncraftableTooltips": "Buộc tắt tooltip của shield không chế tạo được",
-  "config.spartanshields:vanillaOnly": "Chỉ dùng Shield Vanilla"
+  "config.spartanshields:vanillaOnly": "Chỉ dùng Shield Vanilla",
+  "mod.spartanshields:abyssalcraft": "AbyssalCraft",
+  "mod.spartanshields:botania": "Botania",
+  "mod.spartanshields:enderio": "Ender IO",
+  "mod.spartanshields:rftools": "RFTools",
+  "mod.spartanshields:thaumcraft": "Thaumcraft",
+  "mod.spartanshields:betterwithmods": "Better With Mods",
+  "mod.spartanshields:redstonearsenal": "Redstone Arsenal"
 }

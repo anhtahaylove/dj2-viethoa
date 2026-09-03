@@ -125,5 +125,7 @@
   "multiblock.validation.turbine.metal_too_near": "%1$s - Block kim loại phải đặt xa rotor bearing hơn mọi rotor blade",
   "multiblock.validation.turbine.mixed_power_systems": "Không thể dùng chung power tap Redstone Flux và Testa trong cùng một turbine",
   "multiblock.validation.turbine.mixed_tiers": "Mọi block trong turbine phải cùng một tier",
-  "multiblock.validation.turbine.shaft_too_short": "Trục rotor phải chạy hết chiều dài lòng turbine"
+  "multiblock.validation.turbine.shaft_too_short": "Trục rotor phải chạy hết chiều dài lòng turbine",
+  "debug.bigreactors.reactor.coolanttanksIntro:": "Bể chất làm mát:",
+  "debug.bigreactors.reactor.reactanttanksIntro": "Bể chất phản ứng:"
 }

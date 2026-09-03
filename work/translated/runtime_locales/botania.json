@@ -2073,5 +2073,19 @@
   "relics.enabled": "Bật Relic",
   "seasonalFeatures.enabled": "Tính năng theo mùa",
   "shedding.enable": "Rụng tự nhiên",
-  "thaumcraftAspects.enabled": "Aspect của TC"
+  "thaumcraftAspects.enabled": "Aspect của TC",
+  "botania.nei.brewery": "Botanical Brewery",
+  "botania.nei.lexica": "Lexica Botania",
+  "botania.nei.orechid": "Orechid",
+  "botania.nei.orechidIgnem": "Orechid Ignem",
+  "botania.nei.petalApothecary": "Petal Apothecary",
+  "botania.nei.pureDaisy": "Pure Daisy",
+  "botania.nei.runicAltar": "Runic Altar",
+  "botania.potion.allure": "Allure",
+  "botania.potion.bloodthirst": "Bloodthirst",
+  "botania.potion.clear": "Absolution",
+  "botania.potion.emptiness": "Emptiness",
+  "botania.potion.featherFeet": "Feather Feet",
+  "botania.potion.soulCross": "Soul Cross",
+  "botania.triggers.manaDetector": "Mana Burst"
 }

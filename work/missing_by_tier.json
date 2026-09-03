@@ -2760,75 +2760,9 @@
   "tier": "T3"
  },
  {
-  "namespace": "abyssalcraft",
-  "key": "ac.text.amplifier",
-  "en": "Amplifier",
-  "tier": "other"
- },
- {
-  "namespace": "abyssalcraft",
-  "key": "ac.text.deity",
-  "en": "Deity",
-  "tier": "other"
- },
- {
-  "namespace": "abyssalcraft",
-  "key": "ac.text.none",
-  "en": "None",
-  "tier": "other"
- },
- {
-  "namespace": "abyssalcraft",
-  "key": "crystalcluster.postfix",
-  "en": "%s Cluster",
-  "tier": "other"
- },
- {
-  "namespace": "abyssalcraft",
-  "key": "crystalfragment.postfix",
-  "en": "%s Fragment",
-  "tier": "other"
- },
- {
-  "namespace": "abyssalcraft",
-  "key": "crystalshard.postfix",
-  "en": "%s Shard",
-  "tier": "other"
- },
- {
-  "namespace": "abyssalcraft",
-  "key": "decorativestatue.prefix",
-  "en": "Decorative %s",
-  "tier": "other"
- },
- {
   "namespace": "actuallyadditions",
   "key": "actuallyadditions.cf",
   "en": "CF",
-  "tier": "other"
- },
- {
-  "namespace": "actuallyadditions",
-  "key": "actuallyadditions.cflong",
-  "en": "Crystal Flux",
-  "tier": "other"
- },
- {
-  "namespace": "actuallyadditions",
-  "key": "actuallyadditions.cft",
-  "en": "CF/t",
-  "tier": "other"
- },
- {
-  "namespace": "aether_legacy",
-  "key": "aether_legacy.general.gameplay_changes.golden_feather",
-  "en": "Golden Feather",
-  "tier": "other"
- },
- {
-  "namespace": "aether_legacy",
-  "key": "aether_legacy.general.gameplay_changes.valkyrie_cape",
-  "en": "Valkyrie Cape",
   "tier": "other"
  },
  {
@@ -2841,90 +2775,6 @@
   "namespace": "agricraft",
   "key": "// ",
   "en": "=======================================",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_arg.direction.optional",
-  "en": "(optional) direction",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_description.peripheralHelp",
-  "en": "Method Help",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_gui.seedAnalyzer",
-  "en": "Seed Analyzer",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_journal.brightness",
-  "en": "Brightness range",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_journal.fruits",
-  "en": "Fruits",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_journal.growthStages",
-  "en": "Growth Stages",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_journal.mutations",
-  "en": "Discovered Mutations",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_nei.below",
-  "en": "Below",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_nei.nearby",
-  "en": "Nearby",
-  "tier": "other"
- },
- {
-  "namespace": "agricraft",
-  "key": "agricraft_nei.needs",
-  "en": "Needs",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "amulet.enchantment.level.more",
-  "en": "levels",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "crystal.collectivity",
-  "en": "Cutting",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "crystal.fracture",
-  "en": "Fractured",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "crystal.purity",
-  "en": "Purity",
   "tier": "other"
  },
  {
@@ -2943,54 +2793,6 @@
   "namespace": "astralsorcery",
   "key": "effect.as.dropmod",
   "en": "Inner Wealth",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "inventory.altar.0",
-  "en": "Luminous Crafting Table",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "inventory.altar.1",
-  "en": "Starlight Crafting Altar",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "inventory.altar.2",
-  "en": "Celestial Altar",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "inventory.altar.3",
-  "en": "Iridescent Altar",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "inventory.altar.4",
-  "en": "[NoName-Endgame] Altar",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "misc.chaos.resistance.max",
-  "en": "Chaos Immunity",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "misc.link.link.block",
-  "en": "a block",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "misc.link.stop",
-  "en": "Stopped linking!",
   "tier": "other"
  },
  {
@@ -3021,12 +2823,6 @@
   "namespace": "astralsorcery",
   "key": "perk.modifier.format.thorns",
   "en": "%%1$s%%3$s",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "perk.reader.gui",
-  "en": "Perk Statistics",
   "tier": "other"
  },
  {
@@ -3390,36 +3186,6 @@
   "tier": "other"
  },
  {
-  "namespace": "atum",
-  "key": "atum.container.sarcophagus",
-  "en": "Sarcophagus",
-  "tier": "other"
- },
- {
-  "namespace": "atum",
-  "key": "atum.kiln",
-  "en": "Kiln",
-  "tier": "other"
- },
- {
-  "namespace": "atum",
-  "key": "atum.quern",
-  "en": "Quern",
-  "tier": "other"
- },
- {
-  "namespace": "atum",
-  "key": "atum.spinningwheel",
-  "en": "Spinning Wheel",
-  "tier": "other"
- },
- {
-  "namespace": "atum",
-  "key": "atum:subtitles.pharaohspawn",
-  "en": "Pharaoh growls",
-  "tier": "other"
- },
- {
   "namespace": "base",
   "key": "base.part.armor.chest",
   "en": "%s Chestplate",
@@ -3654,108 +3420,6 @@
   "tier": "other"
  },
  {
-  "namespace": "base",
-  "key": "base.sidetype.none",
-  "en": "None",
-  "tier": "other"
- },
- {
-  "namespace": "base",
-  "key": "error.base.null_part",
-  "en": "Null Part",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "baubles.type.amulet",
-  "en": "Amulet",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "baubles.type.belt",
-  "en": "Belt",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "baubles.type.body",
-  "en": "Body",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "baubles.type.charm",
-  "en": "Charm",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "baubles.type.ring",
-  "en": "Ring",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "baubles.type.trinket",
-  "en": "Any",
-  "tier": "other"
- },
- {
-  "namespace": "baubles",
-  "key": "button.baubles",
-  "en": "Baubles",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.conflagration",
-  "en": "Curse of Conflagration",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.darkness",
-  "en": "Curse of Darkness",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.hydrophobia",
-  "en": "Curse of Hydrophobia",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.misfortune",
-  "en": "Curse of Misfortune",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.overheating",
-  "en": "Curse of Overheating",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.paranoia",
-  "en": "Curse of Paranoia",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "curse.bewitchment.return_to_sender",
-  "en": "Return to Sender",
-  "tier": "other"
- },
- {
-  "namespace": "bewitchment",
-  "key": "golem.material.dragonsblood",
-  "en": "Dragon's Blood Resin",
-  "tier": "other"
- },
- {
   "namespace": "bewitchment",
   "key": "ritual.bewitchment.conjure_baphomet",
   "en": "Baphomet's Sabbath",
@@ -3852,57 +3516,9 @@
   "tier": "other"
  },
  {
-  "namespace": "bibliocraft",
-  "key": "enchant.deathcompass",
-  "en": "Eternal Compass",
-  "tier": "other"
- },
- {
-  "namespace": "biggercraftingtables",
-  "key": "crafting.big",
-  "en": "Big Recipe",
-  "tier": "other"
- },
- {
-  "namespace": "biggercraftingtables",
-  "key": "crafting.giant",
-  "en": "Giant Recipe",
-  "tier": "other"
- },
- {
-  "namespace": "biggercraftingtables",
-  "key": "crafting.huge",
-  "en": "Huge Recipe",
-  "tier": "other"
- },
- {
   "namespace": "bigreactors",
   "key": "debug.bigreactors.reactantcontainer.tank",
   "en": "[%1$s] %2$s: %3$d",
-  "tier": "other"
- },
- {
-  "namespace": "bigreactors",
-  "key": "debug.bigreactors.reactor.coolanttanksIntro:",
-  "en": "Coolant Tanks:",
-  "tier": "other"
- },
- {
-  "namespace": "bigreactors",
-  "key": "debug.bigreactors.reactor.reactanttanksIntro",
-  "en": "Reactant Tanks:",
-  "tier": "other"
- },
- {
-  "namespace": "bloodmagic",
-  "key": "bloodmagic.research_name.BLOODMAGIC",
-  "en": "Blood Magic",
-  "tier": "other"
- },
- {
-  "namespace": "bloodmagic",
-  "key": "bloodmagic.research_text.BLOODMAGIC",
-  "en": "Sanguine Arcana",
   "tier": "other"
  },
  {
@@ -3927,12 +3543,6 @@
   "namespace": "bloodmagic",
   "key": "ritual.bloodmagic.wardOfSacrosanctityRitual",
   "en": "Ward of Sacrosanctity",
-  "tier": "other"
- },
- {
-  "namespace": "bloodmagic",
-  "key": "tc.research_category.BLOODMAGIC",
-  "en": "Sanguine Arcana",
   "tier": "other"
  },
  {
@@ -4068,90 +3678,6 @@
   "tier": "other"
  },
  {
-  "namespace": "botania",
-  "key": "botania.nei.brewery",
-  "en": "Botanical Brewery",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.nei.lexica",
-  "en": "Lexica Botania",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.nei.orechid",
-  "en": "Orechid",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.nei.orechidIgnem",
-  "en": "Orechid Ignem",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.nei.petalApothecary",
-  "en": "Petal Apothecary",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.nei.pureDaisy",
-  "en": "Pure Daisy",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.nei.runicAltar",
-  "en": "Runic Altar",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.potion.allure",
-  "en": "Allure",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.potion.bloodthirst",
-  "en": "Bloodthirst",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.potion.clear",
-  "en": "Absolution",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.potion.emptiness",
-  "en": "Emptiness",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.potion.featherFeet",
-  "en": "Feather Feet",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.potion.soulCross",
-  "en": "Soul Cross",
-  "tier": "other"
- },
- {
-  "namespace": "botania",
-  "key": "botania.triggers.manaDetector",
-  "en": "Mana Burst",
-  "tier": "other"
- },
- {
   "namespace": "bq_standard",
   "key": "bq_standard.importer.adv_json.name",
   "en": "Advancement Importer (JSON)",
@@ -4188,243 +3714,15 @@
   "tier": "other"
  },
  {
-  "namespace": "bq_standard",
-  "key": "bq_standard.reward.choice",
-  "en": "Choice Reward",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.reward.item",
-  "en": "Item Reward",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.reward.recipe",
-  "en": "Unlock Recipes",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.reward.scoreboard",
-  "en": "Scoreboard Reward",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.reward.xp",
-  "en": "Experience Reward",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.advancement",
-  "en": "Advancement Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.block_break",
-  "en": "Break Block Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.checkbox",
-  "en": "Checkbox Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.crafting",
-  "en": "Crafting Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.fluid",
-  "en": "Fluid Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.hunt",
-  "en": "Mob Hunt Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.interact_entity",
-  "en": "Entity Interaction Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.interact_item",
-  "en": "Item Interaction Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.location",
-  "en": "Location Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.meeting",
-  "en": "Meeting Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.retrieval",
-  "en": "Retrieval Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.scoreboard",
-  "en": "Scoreboard Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.tame",
-  "en": "Tame Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.trigger",
-  "en": "Criterion Trigger Task",
-  "tier": "other"
- },
- {
-  "namespace": "bq_standard",
-  "key": "bq_standard.task.xp",
-  "en": "Experience Task",
-  "tier": "other"
- },
- {
-  "namespace": "brandonscore",
-  "key": "generic.no.txt",
-  "en": "No",
-  "tier": "other"
- },
- {
   "namespace": "brandonscore",
   "key": "generic.ok.txt",
   "en": "OK",
   "tier": "other"
  },
  {
-  "namespace": "brandonscore",
-  "key": "generic.yes.txt",
-  "en": "Yes",
-  "tier": "other"
- },
- {
-  "namespace": "buildinggadgets",
-  "key": "modes.buildinggadgets.axis_chasing",
-  "en": "Build To Me",
-  "tier": "other"
- },
- {
-  "namespace": "buildinggadgets",
-  "key": "modes.buildinggadgets.horizontal_column",
-  "en": "Horizontal Column",
-  "tier": "other"
- },
- {
-  "namespace": "buildinggadgets",
-  "key": "modes.buildinggadgets.horizontal_wall",
-  "en": "Horizontal Wall",
-  "tier": "other"
- },
- {
-  "namespace": "buildinggadgets",
-  "key": "modes.buildinggadgets.stair",
-  "en": "Stair",
-  "tier": "other"
- },
- {
-  "namespace": "buildinggadgets",
-  "key": "modes.buildinggadgets.vertical_column",
-  "en": "Vertical Column",
-  "tier": "other"
- },
- {
-  "namespace": "buildinggadgets",
-  "key": "modes.buildinggadgets.vertical_wall",
-  "en": "Vertical Wall",
-  "tier": "other"
- },
- {
   "namespace": "buildinggadgets",
   "key": "singles.buildinggadgets.confirm",
   "en": "Ok",
-  "tier": "other"
- },
- {
-  "namespace": "chiselsandbits",
-  "key": "chiselsandbits.color.orange",
-  "en": "Orange",
-  "tier": "other"
- },
- {
-  "namespace": "cofh",
-  "key": "tipped_arrow.effect.absorption",
-  "en": "Arrow of Absorption",
-  "tier": "other"
- },
- {
-  "namespace": "cofh",
-  "key": "tipped_arrow.effect.unluck",
-  "en": "Arrow of Misfortune",
-  "tier": "other"
- },
- {
-  "namespace": "cofh",
-  "key": "tipped_arrow.effect.wither",
-  "en": "Arrow of Decay",
-  "tier": "other"
- },
- {
-  "namespace": "cyclopscore",
-  "key": "general.cyclopscore.dev_world",
-  "en": "Dev World",
-  "tier": "other"
- },
- {
-  "namespace": "cyclopscore",
-  "key": "general.cyclopscore.version.updateAvailable",
-  "en": "Update available",
-  "tier": "other"
- },
- {
-  "namespace": "cyclopscore",
-  "key": "infobook.cyclopscore.external",
-  "en": "Web version",
-  "tier": "other"
- },
- {
-  "namespace": "cyclopscore",
-  "key": "infobook.cyclopscore.next_page",
-  "en": "Next page",
-  "tier": "other"
- },
- {
-  "namespace": "cyclopscore",
-  "key": "infobook.cyclopscore.parent_section",
-  "en": "Parent section",
-  "tier": "other"
- },
- {
-  "namespace": "cyclopscore",
-  "key": "infobook.cyclopscore.previous_page",
-  "en": "Previous page",
   "tier": "other"
  },
  {
@@ -4542,30 +3840,6 @@
   "tier": "other"
  },
  {
-  "namespace": "draconicevolution",
-  "key": "upgrade.level.1",
-  "en": "Basic",
-  "tier": "other"
- },
- {
-  "namespace": "draconicevolution",
-  "key": "upgrade.level.2",
-  "en": "Wyvern",
-  "tier": "other"
- },
- {
-  "namespace": "draconicevolution",
-  "key": "upgrade.level.3",
-  "en": "Draconic",
-  "tier": "other"
- },
- {
-  "namespace": "draconicevolution",
-  "key": "upgrade.level.4",
-  "en": "Chaotic",
-  "tier": "other"
- },
- {
   "namespace": "enderio",
   "key": "enderio.activated.name",
   "en": "Double-Layer Capacitor",
@@ -4587,186 +3861,6 @@
   "namespace": "enderio",
   "key": "enderio.top.tank.content.middle",
   "en": "/",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.beneath.darknessimmunityitems",
-  "en": "Darkness Immunity Items",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.custom_assets.assetmoverjsonfiles",
-  "en": "Asset Mover JSON Files",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.material_tweaker.armorprotection",
-  "en": "Armor Protection",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.material_tweaker.armortoughness",
-  "en": "Armor Toughness",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.material_tweaker.attackspeed",
-  "en": "Attack Speed",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.material_tweaker.stacksize",
-  "en": "Stack Size",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.mob_health_bar.distancemultipliers",
-  "en": "Distance Multipliers",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.mob_health_bar.mobblacklist",
-  "en": "Mob Blacklist",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.features.mob_health_bar.onlyrenderwithequipment",
-  "en": "Only Render With Equipment",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.forced_resourcepack.resourcepacks",
-  "en": "Default Resourcepacks",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.itemphysic.render_tooltip",
-  "en": "%dx %s",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.availablekeys",
-  "en": "Available Keys",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.confirmreset",
-  "en": "Confirm?",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.key",
-  "en": "Key",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.showall",
-  "en": "Show All",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.showconflicts",
-  "en": "Show Conflicts",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.shownone",
-  "en": "Show Unbound",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.sort",
-  "en": "Sort",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.sortaz",
-  "en": "A->Z",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.sortnone",
-  "en": "None",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.sortza",
-  "en": "Z->A",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.options.togglefree",
-  "en": "Toggle Free",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.bp_opener.validitems",
-  "en": "Valid Items",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.ds_huds.potionhudhidelist",
-  "en": "Potion HUD Hide List",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.rustic.listberrybushblocks",
-  "en": "Berry Bush Blocks",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.rustic.listbiomesblacklist",
-  "en": "Biome Blacklist",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.simple_difficulty.temperaturepotions",
-  "en": "Temperature Potions",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.simple_difficulty.thirstpotions",
-  "en": "Thirst Potions",
-  "tier": "other"
- },
- {
-  "namespace": "endermodpacktweaks",
-  "key": "endermodpacktweaks.tweaks.waila.overrideblockname",
-  "en": "Override Block Name",
-  "tier": "other"
- },
- {
-  "namespace": "enderutilities",
-  "key": "category.enderutilities",
-  "en": "Ender Utilities",
   "tier": "other"
  },
  {
@@ -4909,56 +4003,8 @@
  },
  {
   "namespace": "enderutilities",
-  "key": "enderutilities.key.activate_unselected",
-  "en": "Activate Unselected",
-  "tier": "other"
- },
- {
-  "namespace": "enderutilities",
-  "key": "enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.extend",
-  "en": "Extend",
-  "tier": "other"
- },
- {
-  "namespace": "enderutilities",
-  "key": "enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.retract",
-  "en": "Retract",
-  "tier": "other"
- },
- {
-  "namespace": "enderutilities",
-  "key": "enderutilities.placement_properties.valuenames.inserter.redstone_mode.high",
-  "en": "High",
-  "tier": "other"
- },
- {
-  "namespace": "enderutilities",
   "key": "language.name",
   "en": "English",
-  "tier": "other"
- },
- {
-  "namespace": "erebus",
-  "key": "erebus.smoothie.effect.extinguish",
-  "en": "Puts Out Fires",
-  "tier": "other"
- },
- {
-  "namespace": "erebus",
-  "key": "erebus.smoothie.effect.heal",
-  "en": "Heals",
-  "tier": "other"
- },
- {
-  "namespace": "erebus",
-  "key": "erebus.smoothie.effect.milk",
-  "en": "Clears Effects",
-  "tier": "other"
- },
- {
-  "namespace": "erebus",
-  "key": "erebus.smoothie.effect.set_fire",
-  "en": "Makes Fire",
   "tier": "other"
  },
  {
@@ -5304,42 +4350,6 @@
   "tier": "other"
  },
  {
-  "namespace": "evilcraft",
-  "key": "info_book.second_age.tools.rejuvenated_flesh",
-  "en": "Rejuvenated Flesh",
-  "tier": "other"
- },
- {
-  "namespace": "extendedcrafting",
-  "key": "ec.interface.none",
-  "en": "NONE",
-  "tier": "other"
- },
- {
-  "namespace": "extendedcrafting",
-  "key": "ec.interface.recipe",
-  "en": "Recipe",
-  "tier": "other"
- },
- {
-  "namespace": "extendedcrafting",
-  "key": "guide.entry.interface",
-  "en": "Automation Interface",
-  "tier": "other"
- },
- {
-  "namespace": "extendedcrafting",
-  "key": "guide.entry.singularity",
-  "en": "Singularities",
-  "tier": "other"
- },
- {
-  "namespace": "extendedcrafting",
-  "key": "guide.entry.table_crafting",
-  "en": "Table Crafting",
-  "tier": "other"
- },
- {
   "namespace": "extendedcrafting",
   "key": "guide.extendedcrafting.name",
   "en": "Extended Crafting Guide",
@@ -5347,20 +4357,8 @@
  },
  {
   "namespace": "extracells",
-  "key": "extracells.block.certustank",
-  "en": "Certus Quartz Tank",
-  "tier": "other"
- },
- {
-  "namespace": "extracells",
   "key": "extracells.block.walrus.name",
   "en": "Walrus",
-  "tier": "other"
- },
- {
-  "namespace": "extracells",
-  "key": "extracells.item.fluid.pattern",
-  "en": "ME Fluid Pattern",
   "tier": "other"
  },
  {
@@ -5485,126 +4483,6 @@
  },
  {
   "namespace": "extrautils2",
-  "key": "generator.xu_wall",
-  "en": "Great Wall",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.blank",
-  "en": "Machine Block",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:crusher",
-  "en": "Crusher",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:enchanter",
-  "en": "Enchanter",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:furnace",
-  "en": "Furnace",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator",
-  "en": "Furnace Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_culinary",
-  "en": "Culinary Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_death",
-  "en": "Death Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_dragonsbreath",
-  "en": "Halitosis Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_enchant",
-  "en": "Dischantment Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_ender",
-  "en": "Ender Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_ice",
-  "en": "Frosty Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_lava",
-  "en": "Magmatic Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_netherstar",
-  "en": "Netherstar Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_overclock",
-  "en": "Overclocked Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_pink",
-  "en": "Pink Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_potion",
-  "en": "Potion Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_slime",
-  "en": "Slimey Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_survival",
-  "en": "Survival Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "machine.extrautils2:generator_tnt",
-  "en": "Explosive Generator",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
   "key": "modifier.brittle.name",
   "en": "Magically Brittle",
   "tier": "other"
@@ -5631,12 +4509,6 @@
   "namespace": "extrautils2",
   "key": "modifier.xu_xp_boost.name",
   "en": "Experience Boost",
-  "tier": "other"
- },
- {
-  "namespace": "extrautils2",
-  "key": "tipped_arrow.effect.oily",
-  "en": "Tipped Arrow",
   "tier": "other"
  },
  {
@@ -5713,102 +4585,6 @@
  },
  {
   "namespace": "galacticraftcore",
-  "key": "checklist.create_grapple.key",
-  "en": "Create Grapple Hook",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "checklist.equip_oxygen_suit.key",
-  "en": "Equip Oxygen Suit",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "checklist.equip_parachute.key",
-  "en": "Equip Parachute",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "galaxy.milky_way",
-  "en": "Milky Way",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "item_group.galacticraft_blocks",
-  "en": "Galacticraft Blocks",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "item_group.galacticraft_items",
-  "en": "Galacticraft Items",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "moon.moon",
-  "en": "Moon",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.curseforge",
-  "en": "CurseForge",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.jupiter",
-  "en": "Jupiter",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.mercury",
-  "en": "Mercury",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.neptune",
-  "en": "Neptune",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.overworld",
-  "en": "Overworld",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.saturn",
-  "en": "Saturn",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.uranus",
-  "en": "Uranus",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "planet.venus",
-  "en": "Venus",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "satellite.spacestation.overworld",
-  "en": "Overworld Space Station",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
   "key": "schematic.moonbuggy.name",
   "en": "Moon Buggy",
   "tier": "other"
@@ -5826,36 +4602,6 @@
   "tier": "other"
  },
  {
-  "namespace": "galacticraftcore",
-  "key": "solarsystem.sol",
-  "en": "Sol",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftcore",
-  "key": "star.sol",
-  "en": "Sol",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftplanets",
-  "key": "checklist.craft_grapple_hook.key",
-  "en": "Craft Grapple Hook",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftplanets",
-  "key": "checklist.equip_shield_controller.key",
-  "en": "Equip Shield Controller",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftplanets",
-  "key": "checklist.thermal_padding.key",
-  "en": "Equip Thermal Suit",
-  "tier": "other"
- },
- {
   "namespace": "galacticraftplanets",
   "key": "gas.carbondioxide.name",
   "en": "Carbon Dioxide",
@@ -5865,18 +4611,6 @@
   "namespace": "galacticraftplanets",
   "key": "gas.nitrogen.name",
   "en": "Nitrogen",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftplanets",
-  "key": "planet.asteroids",
-  "en": "Asteroids",
-  "tier": "other"
- },
- {
-  "namespace": "galacticraftplanets",
-  "key": "planet.mars",
-  "en": "Mars",
   "tier": "other"
  },
  {
@@ -5899,32 +4633,8 @@
  },
  {
   "namespace": "groovyscript",
-  "key": "groovyscript.infoparser.weather",
-  "en": "EvilCraft Weather state",
-  "tier": "other"
- },
- {
-  "namespace": "groovyscript",
   "key": "groovyscript.packmode.hard.name",
   "en": "Hard",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "battery.hammercore:mode.armor_hotbar",
-  "en": "Armor & Hotbar",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "battery.hammercore:mode.inventory",
-  "en": "Inventory",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "battery.hammercore:mode.noshare",
-  "en": "Off",
   "tier": "other"
  },
  {
@@ -5953,20 +4663,8 @@
  },
  {
   "namespace": "hammercore",
-  "key": "definition.hammercore:bt.long",
-  "en": "Burn Ticks",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
   "key": "definition.hammercore:bt.short",
   "en": "BT",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "definition.hammercore:fe.long",
-  "en": "Forge Energy",
   "tier": "other"
  },
  {
@@ -5976,99 +4674,9 @@
   "tier": "other"
  },
  {
-  "namespace": "hammercore",
-  "key": "hc.manual_cat.hammercore",
-  "en": "Hammer Core",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "hc.manual_name.hammercore",
-  "en": "Hammer Core",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "hc.manual_name.wrench",
-  "en": "Wrench",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "recipe.hammercore:type.construct",
-  "en": "Multiblock Structure",
-  "tier": "other"
- },
- {
-  "namespace": "hammercore",
-  "key": "recipe.hammercore:type.workbenchshapeless",
-  "en": "Crafting (Shapeless)",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "desc.immersiveengineering.flavour.drill.fuel",
-  "en": "Fuel:",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "desc.immersiveengineering.flavour.skyhook.noLimit",
-  "en": "Unlimited speed",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "desc.immersiveengineering.flavour.skyhook.speedLimit",
-  "en": "Limited speed",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "immersiveengineering.potion.concreteFeet",
-  "en": "Concrete Feet",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "immersiveengineering.potion.conductive",
-  "en": "Conductive",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "immersiveengineering.potion.flammable",
-  "en": "Flammable",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "immersiveengineering.potion.flashed",
-  "en": "Flashed",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "immersiveengineering.potion.slippery",
-  "en": "Slippery",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "immersiveengineering.potion.stunned",
-  "en": "Stunned",
-  "tier": "other"
- },
- {
   "namespace": "immersiveengineering",
   "key": "modifier.thermalinversion.name",
   "en": "Thermal Inversion",
-  "tier": "other"
- },
- {
-  "namespace": "immersiveengineering",
-  "key": "recipe.immersiveengineering.hammerCrushing",
-  "en": "Crushing",
   "tier": "other"
  },
  {
@@ -6247,42 +4855,6 @@
  },
  {
   "namespace": "integratedtunnels",
-  "key": "info_book.integratedtunnels.concepts",
-  "en": "Concepts",
-  "tier": "other"
- },
- {
-  "namespace": "integratedtunnels",
-  "key": "info_book.integratedtunnels.player",
-  "en": "Player Simulation",
-  "tier": "other"
- },
- {
-  "namespace": "integratedtunnels",
-  "key": "info_book.integratedtunnels.section.main",
-  "en": "Tunnels",
-  "tier": "other"
- },
- {
-  "namespace": "integratedtunnels",
-  "key": "info_book.integratedtunnels.section.tutorials",
-  "en": "Tunnel Tutorials",
-  "tier": "other"
- },
- {
-  "namespace": "integratedtunnels",
-  "key": "info_book.integratedtunnels.world",
-  "en": "World Interaction",
-  "tier": "other"
- },
- {
-  "namespace": "integratedtunnels",
-  "key": "info_book.integratedtunnels.world.block",
-  "en": "Block",
-  "tier": "other"
- },
- {
-  "namespace": "integratedtunnels",
   "key": "parttype.parttypes.integratedtunnels.exporter_energy.name",
   "en": "Energy Exporter",
   "tier": "other"
@@ -6339,60 +4911,6 @@
   "namespace": "integratedtunnels",
   "key": "parttype.parttypes.integratedtunnels.player_simulator.name",
   "en": "Player Simulator",
-  "tier": "other"
- },
- {
-  "namespace": "inventorytweaks",
-  "key": "invtweaks.key.category",
-  "en": "Inventory Tweaks",
-  "tier": "other"
- },
- {
-  "namespace": "inventorytweaks",
-  "key": "invtweaks.key.sort",
-  "en": "Inventory Sorting",
-  "tier": "other"
- },
- {
-  "namespace": "inventorytweaks",
-  "key": "invtweaks.loadconfig.done",
-  "en": "Configuration loaded.",
-  "tier": "other"
- },
- {
-  "namespace": "jecalculation",
-  "key": "jecalculation.key.category",
-  "en": "Just Enough Calculation",
-  "tier": "other"
- },
- {
-  "namespace": "jecalculation",
-  "key": "jecalculation.key.gui_craft",
-  "en": "Open crafting calculator",
-  "tier": "other"
- },
- {
-  "namespace": "jecalculation",
-  "key": "jecalculation.key.gui_math",
-  "en": "Open math calculator",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.affectedByLooting.text",
-  "en": "Affected by Looting",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.any",
-  "en": "Any",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.burning.text",
-  "en": "When on fire",
   "tier": "other"
  },
  {
@@ -6492,144 +5010,6 @@
   "tier": "other"
  },
  {
-  "namespace": "jeresources",
-  "key": "jer.equipmentDrop.text",
-  "en": "Dropped Equipment",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.kingSlime.text",
-  "en": "King Slimes only",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.mob.exp",
-  "en": "Experience Dropped",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.mob.spawn",
-  "en": "Spawn Biome:",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.new.moon",
-  "en": "New",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.powered.text",
-  "en": "When powered",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.raining.text",
-  "en": "When raining",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.randomAspect.text",
-  "en": "Random Aspect",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.rareDrop.text",
-  "en": "Rare Drop",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.slimeBall.text",
-  "en": "Tiny Slimes only",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.third_quarter.moon",
-  "en": "Third Quarter",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.thundering.text",
-  "en": "When storming",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.wet.text",
-  "en": "When wet",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.worldgen.biomes",
-  "en": "Spawn Biomes",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.worldgen.dimensions",
-  "en": "Valid Dimensions",
-  "tier": "other"
- },
- {
-  "namespace": "jeresources",
-  "key": "jer.worldgen.silkTouch",
-  "en": "Silk Touch Needed",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.common.entity_display.large_dots",
-  "en": "Large Dots",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.common.entity_display.large_icons",
-  "en": "Large Icons",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.common.entity_display.small_dots",
-  "en": "Small Dots",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.common.off",
-  "en": "Off",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.common.on",
-  "en": "On",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.debug.region_info_toggle",
-  "en": "Toggle region info",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.feature.fairplay",
-  "en": "FairPlay",
-  "tier": "other"
- },
- {
   "namespace": "journeymap",
   "key": "jm.minimap.compass.e",
   "en": "E",
@@ -6654,195 +5034,9 @@
   "tier": "other"
  },
  {
-  "namespace": "journeymap",
-  "key": "jm.minimap.orientation.compass",
-  "en": "Compass",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.minimap.orientation.oldnorth",
-  "en": "Old North",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.minimap.orientation.playerheading",
-  "en": "My Heading",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.server.edit.slider.update.post",
-  "en": " ticks",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.server.edit.slider.update.pre",
-  "en": "Update Every",
-  "tier": "other"
- },
- {
-  "namespace": "journeymap",
-  "key": "jm.webmap.automap_dialog_none",
-  "en": "None",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lightningcraft.crusher_recipe_category",
-  "en": "Lightning Crusher",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:autorepair",
-  "en": "Auto-Repair",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:autosmelt",
-  "en": "Auto-Smelting",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:endersword",
-  "en": "Void Step",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:feathersword",
-  "en": "In the Wind",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:fortunebonus",
-  "en": "Luck",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:heavensword",
-  "en": "Dimensional Punch",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:icesword",
-  "en": "Frozen Solid",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:inventoryleuser",
-  "en": "Requires LE",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:invincibility",
-  "en": "Full Set: Invincibility",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:mysticboots",
-  "en": "Travel II",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:mysticchest",
-  "en": "Resistance II",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:mysticlegs",
-  "en": "Sustenance",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:quickfarm",
-  "en": "Quick Farm",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:skyboots",
-  "en": "Travel I",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:skychest",
-  "en": "Resistance I",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:skyhelm",
-  "en": "Night Vision",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:soulsword",
-  "en": "Soul Fracture",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:summoner",
-  "en": "Summoning",
-  "tier": "other"
- },
- {
-  "namespace": "lightningcraft",
-  "key": "lore.lightningcraft:zombiesword",
-  "en": "Grave Uprising",
-  "tier": "other"
- },
- {
   "namespace": "lightningcraft",
   "key": "modifier.lightningcraft:repair.name",
   "en": "Auto-Repair",
-  "tier": "other"
- },
- {
-  "namespace": "mekanism",
-  "key": "gas.sulfuricacid",
-  "en": "Sulfuric Acid",
-  "tier": "other"
- },
- {
-  "namespace": "mekanism",
-  "key": "oregas.copper",
-  "en": "Copper Ore",
-  "tier": "other"
- },
- {
-  "namespace": "mekanism",
-  "key": "oregas.osmium",
-  "en": "Osmium Ore",
-  "tier": "other"
- },
- {
-  "namespace": "mekanism",
-  "key": "oregas.tin",
-  "en": "Tin Ore",
-  "tier": "other"
- },
- {
-  "namespace": "modulardiversity",
-  "key": "craftcheck.weather.storm",
-  "en": "Not storming.",
   "tier": "other"
  },
  {
@@ -7023,174 +5217,6 @@
   "namespace": "mysticalworld",
   "key": "forge.biome.tags.wet.name",
   "en": "Wet",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.average",
-  "en": "Average",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.baseHeight",
-  "en": "Base Height",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.biome",
-  "en": "Biome",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.climate",
-  "en": "Climate",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.cold",
-  "en": "Cold",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.coordinates",
-  "en": "Coordinates",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.fillerBlock",
-  "en": "Filler Block",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.heightVariation",
-  "en": "Height Variation",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.high",
-  "en": "High",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.highHumidity",
-  "en": "High Humidity",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.none",
-  "en": "None",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.notFound",
-  "en": "Not Found",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.ocean",
-  "en": "Ocean",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.precipitation",
-  "en": "Precipitation",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.rain",
-  "en": "Rain",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.rainfall",
-  "en": "Rainfall",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.samples",
-  "en": "Samples",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.searching",
-  "en": "Searching",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.selectBiome",
-  "en": "Select Biome",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.snow",
-  "en": "Snow",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.startSearch",
-  "en": "Start Search",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.topBlock",
-  "en": "Top Block",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.veryLow",
-  "en": "Very Low",
-  "tier": "other"
- },
- {
-  "namespace": "naturescompass",
-  "key": "string.naturescompass.warm",
-  "en": "Warm",
-  "tier": "other"
- },
- {
-  "namespace": "normalasm",
-  "key": "normalasm.crashes.problemAction.crash",
-  "en": "Crash",
-  "tier": "other"
- },
- {
-  "namespace": "normalasm",
-  "key": "normalasm.crashes.problemAction.log",
-  "en": "Log",
-  "tier": "other"
- },
- {
-  "namespace": "openblocks",
-  "key": "openblocks.turtle.magnet",
-  "en": "Magnet",
-  "tier": "other"
- },
- {
-  "namespace": "openmods",
-  "key": "openmodslib.color.orange",
-  "en": "Orange",
   "tier": "other"
  },
  {
@@ -7386,120 +5412,6 @@
   "tier": "other"
  },
  {
-  "namespace": "projectintelligence",
-  "key": "pi.key.et_world",
-  "en": "ET (Explain This)",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.lang.disable_override",
-  "en": "Disable Override",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.lang.mc_default",
-  "en": "MC:",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.popup.select_language",
-  "en": "Select Language",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.popup.select_version",
-  "en": "Select Version",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.search.mode.everywhere",
-  "en": "Everywhere",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.search.mode.page_only",
-  "en": "This Page Only",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.search.mode.selected_mod",
-  "en": "Current Mod",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.update.status.dl_master_manifest",
-  "en": "Fetching Master Manifest",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.update.status.dl_mod_documentation",
-  "en": "Downloading Doc Updates",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.update.status.dl_mod_manifests",
-  "en": "Fetching Mod Manifests",
-  "tier": "other"
- },
- {
-  "namespace": "projectintelligence",
-  "key": "pi.update.status.reload_documentation",
-  "en": "Reloading Documentation",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "inventoryGen.create",
-  "en": "Create New Loot Table",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "inventoryGen.custom",
-  "en": "Custom Loot Table",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "inventoryGen.mod",
-  "en": "Mod Lot Table",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "inventoryGen.none",
-  "en": "No Loot Table",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "inventoryGen.vanilla",
-  "en": "Vanilla Loot Table",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.blockpattern",
-  "en": "Block Pattern",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.blockpattern.ingredient.delete",
-  "en": "Delete Blocks",
-  "tier": "other"
- },
- {
   "namespace": "reccomplex",
   "key": "reccomplex.direction.all",
   "en": "All Sides",
@@ -7549,42 +5461,6 @@
  },
  {
   "namespace": "reccomplex",
-  "key": "reccomplex.maze",
-  "en": "Maze",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.maze.connector.default",
-  "en": "Default Connector",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.mazerule.connect.ensure",
-  "en": "Ensure Connection",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.mazerule.connect.prevent",
-  "en": "Prevent Connection",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.mazerule.connectall.additive",
-  "en": "Additive",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.mazerule.connectall.subtractive",
-  "en": "Subtractive",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
   "key": "reccomplex.parameters.pos.x",
   "en": "x",
   "tier": "other"
@@ -7603,98 +5479,8 @@
  },
  {
   "namespace": "reccomplex",
-  "key": "reccomplex.placer.factors.limit.rays.matcher.direction",
-  "en": "Ray Direction",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.placer.factors.match.dest",
-  "en": "Ensure",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.reachability.groups.default",
-  "en": "Default (No Group)",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.reachability.groups.next",
-  "en": "Next Group",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.reachability.groups.previous",
-  "en": "Previous Group",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.rotation",
-  "en": "Rotation",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.rotation.clockwise.0",
-  "en": "No rotation",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.rotation.clockwise.1",
-  "en": "90° Clockwise",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.rotation.clockwise.2",
-  "en": "180° Clockwise",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.rotation.clockwise.3",
-  "en": "270° Clockwise",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
   "key": "reccomplex.save.full",
   "en": "%s: %s",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.save.submit",
-  "en": "[Submit]",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.selection.area.additive",
-  "en": "Additive",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.selection.area.subtractive",
-  "en": "Subtractive",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.spawncommand.preset.entity",
-  "en": "Spawn Entity",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.tileentity.nbt",
-  "en": "Tile Entity NBT",
   "tier": "other"
  },
  {
@@ -7761,90 +5547,6 @@
   "namespace": "reccomplex",
   "key": "reccomplex.transformer.replace.uniformity.true",
   "en": "Uniformly",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.worldscript.mazeGen.rules",
-  "en": "Rules",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.worldscript.multi.none",
-  "en": "No scripts",
-  "tier": "other"
- },
- {
-  "namespace": "reccomplex",
-  "key": "reccomplex.worldscript.strucGen.mode.simple",
-  "en": "Simple Mode",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.hud.grove_stone.valid",
-  "en": "Valid stone",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.hud.top.pyre.progress",
-  "en": "Progress:",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.hud.top.pyre.progress_info",
-  "en": "seconds remaining",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.hud.top.pyre.recipe",
-  "en": "Crafting:",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.hud.top.pyre.ritual",
-  "en": "Ritual:",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.library.reset",
-  "en": "De-select",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.modifier.is_disabled",
-  "en": "Disabled",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.modifier.is_enabled",
-  "en": "Enabled",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.patchouli.false",
-  "en": "no",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.patchouli.fey_crafting",
-  "en": "Fey Crafting",
-  "tier": "other"
- },
- {
-  "namespace": "roots",
-  "key": "roots.patchouli.true",
-  "en": "yes",
   "tier": "other"
  },
  {
@@ -8106,90 +5808,6 @@
   "tier": "other"
  },
  {
-  "namespace": "solarflux",
-  "key": "research_name.solarflux:brass_solar_panel",
-  "en": "Brass Solar Panel",
-  "tier": "other"
- },
- {
-  "namespace": "solarflux",
-  "key": "research_name.solarflux:thaumium_solar_panel",
-  "en": "Thaumium Solar Panel",
-  "tier": "other"
- },
- {
-  "namespace": "solarflux",
-  "key": "tc.research_category.SOLARFLUX",
-  "en": "Solar Flux",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:abyssalcraft",
-  "en": "AbyssalCraft",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:betterwithmods",
-  "en": "Better With Mods",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:botania",
-  "en": "Botania",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:enderio",
-  "en": "Ender IO",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:redstonearsenal",
-  "en": "Redstone Arsenal",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:rftools",
-  "en": "RFTools",
-  "tier": "other"
- },
- {
-  "namespace": "spartanshields",
-  "key": "mod.spartanshields:thaumcraft",
-  "en": "Thaumcraft",
-  "tier": "other"
- },
- {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.container.compDrawers",
-  "en": "Compacting Drawers",
-  "tier": "other"
- },
- {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.container.drawer_controller",
-  "en": "Drawer Controller",
-  "tier": "other"
- },
- {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.container.drawers",
-  "en": "Drawers",
-  "tier": "other"
- },
- {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.container.framingTable",
-  "en": "Framing Table",
-  "tier": "other"
- },
- {
   "namespace": "storagedrawers",
   "key": "storagedrawers.material.acacia",
   "en": "Acacia",
@@ -8232,39 +5850,9 @@
   "tier": "other"
  },
  {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.waila.empty",
-  "en": "<Empty>",
-  "tier": "other"
- },
- {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.waila.nolimit",
-  "en": "Stack Limit: ∞",
-  "tier": "other"
- },
- {
-  "namespace": "storagedrawers",
-  "key": "storagedrawers.waila.sorting",
-  "en": "Sorting",
-  "tier": "other"
- },
- {
   "namespace": "tconstruct",
   "key": "modifier.mending_moss.name",
   "en": "Mending Moss",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "champion.mod.tainted",
-  "en": "Tainted",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "focus.thaumicaugmentation.light.intensity",
-  "en": "Intensity",
   "tier": "other"
  },
  {
@@ -8281,62 +5869,8 @@
  },
  {
   "namespace": "thaumicaugmentation",
-  "key": "focus.thaumicaugmentation.shield.reflect",
-  "en": "Reflect Projectiles",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "focus.thaumicaugmentation.shield.reflect_no",
-  "en": "No",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "focus.thaumicaugmentation.shield.reflect_yes",
-  "en": "Yes",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
   "key": "focus.thaumicaugmentation.ward.name",
   "en": "Ward",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "golem.prop.other",
-  "en": "Target Others",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "golem.prop.sight",
-  "en": "Require Sight",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "tc.research_category.THAUMIC_AUGMENTATION",
-  "en": "Thaumic Augmentation",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "thaumicaugmentation.key.category",
-  "en": "Thaumic Augmentation",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "thaumicaugmentation.text.biome_empty",
-  "en": "None",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicaugmentation",
-  "key": "thaumicaugmentation.text.energy_none",
-  "en": "None",
   "tier": "other"
  },
  {
@@ -8355,18 +5889,6 @@
   "namespace": "thaumicenergistics",
   "key": "card.tinkerae.name",
   "en": "Tinker with Matter/Energy",
-  "tier": "other"
- },
- {
-  "namespace": "thaumicenergistics",
-  "key": "tc.research_category.THAUMICENERGISTICS",
-  "en": "Energistics",
-  "tier": "other"
- },
- {
-  "namespace": "thermaldynamics",
-  "key": "recipe.thermaldynamics.covers",
-  "en": "Cover Crafting",
   "tier": "other"
  },
  {
@@ -8479,12 +6001,6 @@
  },
  {
   "namespace": "twilightforest",
-  "key": "twilightforest.effect.frosted",
-  "en": "Frosted",
-  "tier": "other"
- },
- {
-  "namespace": "twilightforest",
   "key": "twilightforest.shader.alpha_yeti",
   "en": "Alpha Yeti",
   "tier": "other"
@@ -8574,24 +6090,6 @@
   "tier": "other"
  },
  {
-  "namespace": "valkyrielib",
-  "key": "valkyrielib.chars",
-  "en": "Characters",
-  "tier": "other"
- },
- {
-  "namespace": "valkyrielib",
-  "key": "valkyrielib.documentation.version",
-  "en": "Documentation Version",
-  "tier": "other"
- },
- {
-  "namespace": "valkyrielib",
-  "key": "valkyrielib.strings",
-  "en": "Strings",
-  "tier": "other"
- },
- {
   "namespace": "waila",
   "key": "choice.format.background",
   "en": "Background Color",
@@ -8637,72 +6135,6 @@
   "namespace": "waila",
   "key": "choice.format.modname",
   "en": "Mod Name",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "choice.showhideidmeta",
-  "en": "Show ID:Metadata",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "choice.showhidewaila",
-  "en": "Show/Hide Waila",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "choice.showitem",
-  "en": "Display Item",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "choice.showliquids",
-  "en": "Liquids",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "choice.toggledmaintained",
-  "en": "Toggled/Maintained",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "choice.tts",
-  "en": "Narrate Blocks",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "hud.item.melonstem",
-  "en": "Melon Stem",
-  "tier": "other"
- },
- {
-  "namespace": "waila",
-  "key": "hud.item.pumpkinstem",
-  "en": "Pumpkin Stem",
-  "tier": "other"
- },
- {
-  "namespace": "wawla",
-  "key": "villager.wawla.witch",
-  "en": "Witch",
-  "tier": "other"
- },
- {
-  "namespace": "wawla",
-  "key": "villager.wawla.zombie",
-  "en": "Zombie",
-  "tier": "other"
- },
- {
-  "namespace": "wrcbe",
-  "key": "wrcbe.param.invalid",
-  "en": "Invalid param",
   "tier": "other"
  }
 ]

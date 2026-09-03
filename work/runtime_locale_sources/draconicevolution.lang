@@ -696,3 +696,7 @@ upgrade.de.upgradeLevelToHigh.info=Upgrade level too high for this item
 upgrade.de.upgradeNA.info=Upgrade Not Applicable for this item
 upgrade.de.upgradePrevLevelRequired.info=Previous level must be applied first
 upgrade.de.upgrades.info=Upgrades
+upgrade.level.1=Basic
+upgrade.level.2=Wyvern
+upgrade.level.3=Draconic
+upgrade.level.4=Chaotic

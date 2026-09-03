@@ -28,5 +28,8 @@
   "container.giantcreatingtable.name": "Giant Creating Table",
   "container.hugecraftingtable.name": "Huge Crafting Table",
   "container.hugecreatingtable.name": "Huge Creating Table",
-  "bigger.creating.usage": "Cách Sử Dụng:"
+  "bigger.creating.usage": "Cách Sử Dụng:",
+  "crafting.big": "Công thức lớn",
+  "crafting.giant": "Công thức khổng lồ",
+  "crafting.huge": "Công thức cực lớn"
 }

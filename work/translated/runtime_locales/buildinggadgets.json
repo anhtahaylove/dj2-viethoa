@@ -143,5 +143,11 @@
   "tooltip.gadget.undo": "Hoàn Tác",
   "tooltip.pasteContainer.amount": "Số lượng",
   "tooltip.pasteContainer.creative.amountMsg": "Số lượng: Vô hạn!",
-  "tooltip.template.name": "Tên"
+  "tooltip.template.name": "Tên",
+  "modes.buildinggadgets.axis_chasing": "Xây về phía tôi",
+  "modes.buildinggadgets.horizontal_column": "Cột ngang",
+  "modes.buildinggadgets.horizontal_wall": "Tường ngang",
+  "modes.buildinggadgets.stair": "Cầu thang",
+  "modes.buildinggadgets.vertical_column": "Cột dọc",
+  "modes.buildinggadgets.vertical_wall": "Tường dọc"
 }

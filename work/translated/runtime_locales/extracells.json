@@ -89,5 +89,7 @@
   "extracells.tooltip.storage.gas.types": "Đã dùng %s trong số %s loại khí.",
   "extracells.tooltip.storage.physical.bytes": "Đã dùng %s trong số %s byte vật phẩm.",
   "extracells.tooltip.storage.physical.content": "Chứa %s vật phẩm.",
-  "extracells.tooltip.storage.physical.types": "Đã dùng %s trong số %s loại vật phẩm."
+  "extracells.tooltip.storage.physical.types": "Đã dùng %s trong số %s loại vật phẩm.",
+  "extracells.block.certustank": "Certus Quartz Tank",
+  "extracells.item.fluid.pattern": "ME Fluid Pattern"
 }

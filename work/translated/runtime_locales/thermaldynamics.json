@@ -102,5 +102,6 @@
   "tab.thermaldynamics.retrieverItem.0": "Kéo vật phẩm từ các kho chứa khác trên mạng này vào kho chứa đang gắn.",
   "tab.thermaldynamics.retrieverItem.1": "Dùng tùy chọn bộ lọc để kiểm soát vật phẩm nào được lấy về.",
   "tab.thermaldynamics.servoItem.0": "Rút vật phẩm ra khỏi kho chứa đang gắn.",
-  "tab.thermaldynamics.servoItem.1": "Dùng tùy chọn bộ lọc để kiểm soát vật phẩm nào được rút ra."
+  "tab.thermaldynamics.servoItem.1": "Dùng tùy chọn bộ lọc để kiểm soát vật phẩm nào được rút ra.",
+  "recipe.thermaldynamics.covers": "Chế tạo Cover"
 }

@@ -36,3 +36,6 @@ info.solarflux.solar.panel.upgrade=Solar panel upgrade
 info.solarflux.sun.intensity=Light Level: %d%%
 info.solarflux.upgrades.installed=Upgrades
 tc.aspect.sol=The Sun
+research_name.solarflux:brass_solar_panel=Brass Solar Panel
+research_name.solarflux:thaumium_solar_panel=Thaumium Solar Panel
+tc.research_category.SOLARFLUX=Solar Flux

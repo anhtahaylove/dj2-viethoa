@@ -530,5 +530,7 @@
   "tooltip.actuallyadditions.previouslyBag": "Trước Đây Là \"Bag\"",
   "tooltip.actuallyadditions.previouslyDoubleFurnace": "Trước đây là \"Double Furnace\"",
   "tooltip.actuallyadditions.previouslyVoidBag": "Trước đây là \"Void Bag\"",
-  "tooltip.actuallyadditions.unlocName.desc": "Unlocalized Name của Meta"
+  "tooltip.actuallyadditions.unlocName.desc": "Unlocalized Name của Meta",
+  "actuallyadditions.cflong": "Crystal Flux",
+  "actuallyadditions.cft": "CF/t"
 }

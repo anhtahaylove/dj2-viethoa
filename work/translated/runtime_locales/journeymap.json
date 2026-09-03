@@ -390,7 +390,7 @@
   "jm.server.edit.chkbox.world.id.tooltip3": "§4CẢNH BÁO§f: Nếu §c[tắt]§f rồi §9[bật lại]§f trên một server đang hoạt động thì toàn bộ dữ liệu bản đồ của người dùng sẽ bị đặt lại.",
   "jm.server.edit.label.admin.edit": "Quản Trị Máy Chủ",
   "jm.server.edit.label.button.next.tooltip": "Tiếp",
-  "jm.server.edit.label.button.previous.tooltip": "Trước Đó",
+  "jm.server.edit.label.button.previous.tooltip": "Trước",
   "jm.server.edit.label.selection.default": "Thuộc Tính Chiều Không Gian Mặc Định",
   "jm.server.edit.label.selection.default.tooltip": "Các thiết lập tại đây sẽ là mặc định cho mọi dimension mới được tạo.",
   "jm.server.edit.label.selection.dimension": "%1$s id: %2$s",
@@ -632,5 +632,18 @@
   "key.journeymap.zoom_out": "Thu Nhỏ",
   "jm.server.edit.option.all": "Tất cả",
   "jm.server.edit.option.none": "Không có",
-  "jm.server.edit.option.op": "Op"
+  "jm.server.edit.option.op": "Op",
+  "jm.common.off": "Tắt",
+  "jm.common.on": "Bật",
+  "jm.webmap.automap_dialog_none": "Không có",
+  "jm.common.entity_display.large_dots": "Chấm lớn",
+  "jm.common.entity_display.large_icons": "Biểu tượng lớn",
+  "jm.common.entity_display.small_dots": "Chấm nhỏ",
+  "jm.debug.region_info_toggle": "Bật/tắt thông tin vùng",
+  "jm.feature.fairplay": "FairPlay",
+  "jm.minimap.orientation.compass": "La bàn",
+  "jm.minimap.orientation.oldnorth": "Hướng bắc cũ",
+  "jm.minimap.orientation.playerheading": "Hướng của tôi",
+  "jm.server.edit.slider.update.post": " tick",
+  "jm.server.edit.slider.update.pre": "Cập nhật mỗi"
 }

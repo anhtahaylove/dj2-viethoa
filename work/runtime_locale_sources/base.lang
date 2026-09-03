@@ -16,3 +16,5 @@ base.part.bolt=%s Bolt
 base.part.round=%s Round
 base.sidetype.input=Input
 base.sidetype.output=Output
+base.sidetype.none=None
+error.base.null_part=Null Part

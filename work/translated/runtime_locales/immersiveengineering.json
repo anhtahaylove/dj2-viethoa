@@ -398,7 +398,7 @@
   "gui.immersiveengineering.blastFurnace": "Blast Furnace",
   "gui.immersiveengineering.blastFurnace.fuel": "Nhiên liệu Blast Furnace",
   "gui.immersiveengineering.config.arcfurnace.distribute": "Chia đều đầu vào",
-  "gui.immersiveengineering.config.assembler.clearRecipe": "Xóa Công Thức",
+  "gui.immersiveengineering.config.assembler.clearRecipe": "Xóa công thức",
   "gui.immersiveengineering.config.assembler.nonRecursiveIngredients": "Không dùng đệ quy nguyên liệu",
   "gui.immersiveengineering.config.assembler.recursiveIngredients": "Dùng đệ quy nguyên liệu",
   "gui.immersiveengineering.config.earmuffs.noisegate": "Ngưỡng chặn tiếng ồn",
@@ -919,5 +919,15 @@
   "subtitle.immersiveengineering.spray": "Chất lỏng phun ra",
   "subtitle.immersiveengineering.sprayFire": "Chất lỏng cháy phun ra",
   "subtitle.immersiveengineering.tesla": "Tesla Coil phóng điện",
-  "stat.skyhookOneCm": "Quãng đường bằng Skyhook"
+  "stat.skyhookOneCm": "Quãng đường bằng Skyhook",
+  "desc.immersiveengineering.flavour.drill.fuel": "Nhiên liệu:",
+  "immersiveengineering.potion.flammable": "Flammable",
+  "recipe.immersiveengineering.hammerCrushing": "Nghiền",
+  "desc.immersiveengineering.flavour.skyhook.noLimit": "Tốc độ không giới hạn",
+  "desc.immersiveengineering.flavour.skyhook.speedLimit": "Tốc độ giới hạn",
+  "immersiveengineering.potion.concreteFeet": "Chân bê tông",
+  "immersiveengineering.potion.conductive": "Dẫn điện",
+  "immersiveengineering.potion.flashed": "Lóa mắt",
+  "immersiveengineering.potion.slippery": "Trơn trượt",
+  "immersiveengineering.potion.stunned": "Choáng"
 }

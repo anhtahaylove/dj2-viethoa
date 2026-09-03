@@ -14,7 +14,7 @@
   "ec.interface.auto_extract": "Tự động rút",
   "ec.interface.auto_insert": "Tự động nạp vào",
   "ec.interface.back": "Quay lại",
-  "ec.interface.clear": "Xóa Công Thức",
+  "ec.interface.clear": "Xóa công thức",
   "ec.interface.eject_desc": "Interface sẽ tự động đẩy vật phẩm từ ô đầu vào sang ô đầu ra nếu vật phẩm không thể đưa vào table.",
   "ec.interface.extract_desc": "Interface sẽ tự động rút vật phẩm vào kho đồ theo hướng đã chỉ định.",
   "ec.interface.insert_desc": "Interface sẽ tự động chèn vật phẩm từ kho đồ theo hướng đã chỉ định.",
@@ -79,5 +79,10 @@
   "tooltip.ec.ultimate_ingot": "Quyền năng càng lớn, trách nhiệm càng...",
   "tooltip.ec.ultimate_nugget": "Từng bước nhỏ...",
   "tooltip.ec.unlimited_input": "Đầu Vào Không Giới Hạn",
-  "ec.interface.config": "Cấu hình"
+  "ec.interface.config": "Cấu hình",
+  "ec.interface.recipe": "Recipe",
+  "ec.interface.none": "Không có",
+  "guide.entry.interface": "Automation Interface",
+  "guide.entry.singularity": "Singularities",
+  "guide.entry.table_crafting": "Chế tạo trên bàn"
 }

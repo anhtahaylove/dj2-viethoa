@@ -88,3 +88,6 @@ jecalculation.label.placeholder.name=Placeholder: %s
 jecalculation.config.force_client=Force Client
 jecalculation.command.state.active=Server active.
 jecalculation.command.state.inactive=Server inactive.
+jecalculation.key.category=Just Enough Calculation
+jecalculation.key.gui_craft=Open crafting calculator
+jecalculation.key.gui_math=Open math calculator

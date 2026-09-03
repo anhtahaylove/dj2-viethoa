@@ -696,5 +696,9 @@
   "upgrade.de.upgradeLevelToHigh.info": "Cấp nâng cấp quá cao đối với vật phẩm này",
   "upgrade.de.upgradeNA.info": "Nâng cấp không áp dụng được cho vật phẩm này",
   "upgrade.de.upgradePrevLevelRequired.info": "Phải áp dụng cấp trước đó trước",
-  "upgrade.de.upgrades.info": "Nâng cấp"
+  "upgrade.de.upgrades.info": "Nâng cấp",
+  "upgrade.level.1": "Basic",
+  "upgrade.level.2": "Wyvern",
+  "upgrade.level.3": "Draconic",
+  "upgrade.level.4": "Chaotic"
 }

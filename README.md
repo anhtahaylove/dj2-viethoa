@@ -10,10 +10,10 @@ script trong `tools/`.
 
 | Chỉ số | Giá trị |
 |---|---|
-| Coverage | **82,4%** (22.321 / 27.075 khóa trong phạm vi) |
-| Backlog T2 / T3 / chưa phân tier | 271 / 189 / 991 |
+| Coverage | **83,5%** (22.611 / 27.075 khóa trong phạm vi) |
+| Backlog T2 / T3 / chưa phân tier | 271 / 189 / 563 |
 | Validator | 0 lỗi |
-| pytest | 142 passed |
+| pytest | 146 passed |
 | `verify_release.py` | exit 0 |
 
 Backlog không phải là "nợ dịch" thuần: phần lớn dòng T2 còn lại là tên chòm sao
@@ -24,11 +24,13 @@ Riêng T2 đã cạn trên thực tế: trong 271 dòng còn lại chỉ có 2 d
 thuần (`%s`, `%s/%s`), phần còn lại là registry mirror, tên riêng, protected
 term hoặc ký hiệu. Số này sẽ không giảm thêm.
 
-Tier `other` (991 dòng) đã được phân loại bằng `tools/triage_other_tier.py`:
-**547 dòng cố ý giữ English** (tên item/block, khuôn tên `%s Bolt` của GregTech,
-tên nghi lễ/phép/brew, tên biome, cú pháp lệnh, shader id, frame animation từng
-ký tự) và **444 dòng là nợ dịch thật** — hầu hết là nhãn UI ngắn ở
-`jeresources`, `reccomplex`, `extrautils2` và `endermodpacktweaks`. Chạy
+Tier `other` ban đầu có 991 dòng, đã được phân loại bằng
+`tools/triage_other_tier.py`: **547 dòng cố ý giữ English** (tên item/block,
+khuôn tên `%s Bolt` của GregTech, tên nghi lễ/phép/brew, tên biome, cú pháp
+lệnh, shader id, frame animation từng ký tự) và **444 dòng là nợ dịch thật**.
+Wave 19 đã dịch xong 428 dòng trong số đó (16 dòng còn lại là chữ cái la bàn
+`N/S/E/W`, ký hiệu đơn vị `FE`/`CF` và khuôn `%s: %s` — giữ English), đưa tier
+`other` xuống còn **563 dòng**. Chạy
 `python tools/triage_other_tier.py --list <namespace>` để xem chi tiết từng mod.
 
 ## Cấu trúc thư mục
@@ -49,6 +51,8 @@ ký tự) và **444 dòng là nợ dịch thật** — hầu hết là nhãn UI 
 | `tools/restore_english_sources.py` | Dựng lại nửa English của `work/runtime_locale_sources/` từ JAR và `resources/`. Chạy `--write` để ghi, không tham số để xem báo cáo. |
 | `tools/check_button_widths.py` | Đo bề rộng pixel chuỗi Việt bằng `glyph_sizes.bin` thật, so với bản English và mẫu tham chiếu, phát hiện nguy cơ tràn nút. |
 | `tools/triage_other_tier.py` | Phân loại tier `other` thành "cố ý giữ English" và "nợ dịch thật", kèm thống kê theo namespace. |
+| `tools/report_cross_store_conflicts.py` | Tìm khoá trùng giữa các family (`runtime_locales`, `books_*`, `p2_*`) có bản dịch khác nhau. |
+| `tools/test_extract_runtime_sources.py` | Ngoài test harvest, còn có `EnglishSourcePurityTests` chống việc `work/runtime_locale_sources/` bị nhiễm tiếng Việt trở lại. |
 
 ## Artifact phát hành hiện hành
 
@@ -154,6 +158,9 @@ pytest trước khi commit.
 | `936a6fc` | 438 nhãn thuộc 28 namespace | 82,0% |
 | `6613794` | 404 nhãn thuộc 8 namespace | 82,4% |
 | `f7dabd4` | Sửa tên đơn vị Quintillion trong EMC postfix | 82,4% |
+| `41ed0a0` | Cập nhật README theo wave 18 | 82,4% |
+| `d73eb7c` | Khôi phục nguồn English thật, sửa các lỗi bị che | 82,4% |
+| wave 19 | 428 nhãn `other` thuộc 60 namespace, dọn xung đột cross-family | 83,5% |
 
 Vài lỗi đáng nhớ mà các gate đã bắt được:
 
@@ -182,6 +189,21 @@ Vài lỗi đáng nhớ mà các gate đã bắt được:
   wave 18** mà vẫn exit 0. Đã bổ sung `nested_pack_mismatch`: mở ZIP lồng, so
   hash với bản standalone; gate được kiểm bằng cách cố tình chèn pack cũ và xác
   nhận verify chuyển sang exit 1.
+- **Key `button.*` không phải lúc nào cũng là mặt nút** (wave 19): bốn khóa
+  `button.*.name` của Guide-API bị `check_button_widths.py` báo tràn khung suốt
+  nhiều wave. Đọc bytecode (`javap -c ButtonBack.class`) cho thấy chúng được
+  dùng trong `getHoveringText()` — tức là **tooltip khi rê chuột**, còn nút thật
+  chỉ là texture 18×10 không vẽ chữ. Tooltip không bị giới hạn bởi bề rộng nút,
+  nên đây là cảnh báo giả; đã thêm `NOT_BUTTON_FACE` kèm chú giải nguồn gốc.
+  Bài học: trước khi rút gọn một nhãn cho vừa khung, hãy xác minh trong mod xem
+  chuỗi đó có thật sự được vẽ lên mặt nút hay không.
+- **File dịch chết** (wave 19): `work/translated/p2_thermalexpansion.json` và
+  `work/translated/orphans-test.json` không nằm trong `include_stems` của
+  `build_pack.py`, nên **chưa bao giờ được ship**. Chúng vẫn tạo ra 22 "xung đột
+  cross-family" giả trong `report_cross_store_conflicts.py`. Điều đáng chú ý:
+  bản dịch trong file chết lại **đúng convention hơn** bản đang ship (sentence
+  case so với Title Case), nên trước khi xoá phải đối chiếu từng khoá — 20 nhãn
+  `thermalexpansion` đã được sửa theo tiền lệ corpus rồi mới xoá file.
 
 ## Build và kiểm định
 

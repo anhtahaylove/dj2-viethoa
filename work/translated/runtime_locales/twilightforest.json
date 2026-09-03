@@ -246,5 +246,6 @@
   "twilightforest.ore_meter.range": "Bán kính: %s, Gốc: [%s, %s]",
   "twilightforest.scepter_charges": "Còn %d lần dùng",
   "twilightforest.trophy_pedestal.ineligible": "Bạn không xứng đáng.",
-  "twilightforest.twilight_portal.unsafe": "Ở đây có vẻ không an toàn..."
+  "twilightforest.twilight_portal.unsafe": "Ở đây có vẻ không an toàn...",
+  "twilightforest.effect.frosted": "Đóng băng"
 }

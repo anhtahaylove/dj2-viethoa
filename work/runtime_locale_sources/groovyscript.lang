@@ -38,3 +38,4 @@ key.categories.groovyscript=GroovyScript
 keybind.groovyscript.copy=Copy focused
 keybind.groovyscript.quick_reload=Reload Scripts (skip JEI)
 keybind.groovyscript.reload=Reload Scripts and JEI
+groovyscript.infoparser.weather=EvilCraft Weather state

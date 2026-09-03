@@ -188,5 +188,6 @@
   "mod.chiselsandbits.pretty.axis-z": "Bắc/Nam",
   "mod.chiselsandbits.pretty.facing-south": "Nam",
   "mod.chiselsandbits.tapemeasure.bit": "Bit",
-  "mod.chiselsandbits.tapemeasure.block": "Block"
+  "mod.chiselsandbits.tapemeasure.block": "Block",
+  "chiselsandbits.color.orange": "Cam"
 }

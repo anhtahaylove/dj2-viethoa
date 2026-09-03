@@ -70,5 +70,7 @@
   "normalasm.warnscreen.paragraph3.line4": "nhiều khả năng bạn sẽ gặp sự cố về sau. Cảnh báo này",
   "normalasm.warnscreen.paragraph3.line5": "có thể tắt trong Mods > FermiumASM > Config > Crashes.",
   "normalasm.warnscreen.summary": "Minecraft đã gặp sự cố.",
-  "normalasm.warnscreen.title": "Phát hiện sự cố tiềm ẩn!"
+  "normalasm.warnscreen.title": "Phát hiện sự cố tiềm ẩn!",
+  "normalasm.crashes.problemAction.log": "Log",
+  "normalasm.crashes.problemAction.crash": "Sập"
 }

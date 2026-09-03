@@ -23,5 +23,15 @@
   "agricraft_tooltip.storage": "Hạt Giống Bị Khóa",
   "agricraft_tooltip.strength": "Sức Mạnh",
   "agricraft_tooltip.unidentified": "Chưa Xác Định",
-  "agricraft_tooltip.waterLevel": "Mực nước"
+  "agricraft_tooltip.waterLevel": "Mực nước",
+  "agricraft_arg.direction.optional": "hướng (tùy chọn)",
+  "agricraft_description.peripheralHelp": "Trợ giúp phương thức",
+  "agricraft_gui.seedAnalyzer": "Seed Analyzer",
+  "agricraft_journal.brightness": "Phạm vi độ sáng",
+  "agricraft_journal.fruits": "Quả",
+  "agricraft_journal.growthStages": "Các giai đoạn sinh trưởng",
+  "agricraft_journal.mutations": "Đột biến đã khám phá",
+  "agricraft_nei.below": "Bên dưới",
+  "agricraft_nei.nearby": "Gần đây",
+  "agricraft_nei.needs": "Cần"
 }

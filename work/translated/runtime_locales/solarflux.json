@@ -36,5 +36,8 @@
   "info.solarflux.solar.panel.upgrade": "Nâng cấp solar panel",
   "info.solarflux.sun.intensity": "Mức Sáng: %d%%",
   "info.solarflux.upgrades.installed": "Nâng cấp",
-  "tc.aspect.sol": "Mặt Trời"
+  "tc.aspect.sol": "Mặt Trời",
+  "research_name.solarflux:brass_solar_panel": "Brass Solar Panel",
+  "research_name.solarflux:thaumium_solar_panel": "Thaumium Solar Panel",
+  "tc.research_category.SOLARFLUX": "Solar Flux"
 }

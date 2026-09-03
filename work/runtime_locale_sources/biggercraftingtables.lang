@@ -28,3 +28,6 @@ container.giantcreatingtable.name=Giant Creating Table
 container.hugecraftingtable.name=Huge Crafting Table
 container.hugecreatingtable.name=Huge Creating Table
 bigger.creating.usage=How to Use:
+crafting.big=Big Recipe
+crafting.giant=Giant Recipe
+crafting.huge=Huge Recipe

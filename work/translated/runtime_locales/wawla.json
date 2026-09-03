@@ -49,5 +49,7 @@
   "tooltip.wawla.vanilla.fuse": "Ngòi Nổ",
   "tooltip.wawla.vanilla.input": "Đầu vào",
   "tooltip.wawla.vanilla.output": "Đầu ra",
-  "tooltip.wawla.yes": "§a✔"
+  "tooltip.wawla.yes": "§a✔",
+  "villager.wawla.zombie": "Zombie",
+  "villager.wawla.witch": "Witch"
 }

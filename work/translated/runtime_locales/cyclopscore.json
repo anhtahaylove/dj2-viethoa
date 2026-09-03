@@ -62,5 +62,11 @@
   "multiblock.cyclopscore.error.size.cube": "Kích thước %s không tạo thành khối lập phương vì các chiều không bằng nhau.",
   "multiblock.cyclopscore.error.size.exact": "Tìm thấy kích thước %s, trong khi yêu cầu đúng %s.",
   "multiblock.cyclopscore.error.size.max": "Tìm thấy kích thước %s, trong khi tối đa là %s.",
-  "multiblock.cyclopscore.error.size.min": "Tìm thấy kích thước %s, trong khi tối thiểu là %s."
+  "multiblock.cyclopscore.error.size.min": "Tìm thấy kích thước %s, trong khi tối thiểu là %s.",
+  "infobook.cyclopscore.next_page": "Trang sau",
+  "infobook.cyclopscore.previous_page": "Trang trước",
+  "general.cyclopscore.dev_world": "Thế giới phát triển",
+  "general.cyclopscore.version.updateAvailable": "Có bản cập nhật",
+  "infobook.cyclopscore.external": "Bản web",
+  "infobook.cyclopscore.parent_section": "Mục cha"
 }

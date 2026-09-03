@@ -59,5 +59,6 @@
   "tooltip.thaumicenergistics.device_missing_channel": "Thiết bị thiếu kênh",
   "tooltip.thaumicenergistics.device_offline": "Thiết bị ngừng hoạt động",
   "tooltip.thaumicenergistics.device_online": "Thiết bị đang hoạt động",
-  "tooltip.thaumicenergistics.wip": "ĐANG PHÁT TRIỂN, KHÔNG SỬ DỤNG"
+  "tooltip.thaumicenergistics.wip": "ĐANG PHÁT TRIỂN, KHÔNG SỬ DỤNG",
+  "tc.research_category.THAUMICENERGISTICS": "Energistics"
 }

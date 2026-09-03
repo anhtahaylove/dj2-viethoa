@@ -193,5 +193,10 @@
   "tile.treasure_t3.description": "Tier 3 Treasure Chest xuất hiện trong Venus Dungeon. Có thể mở sau khi đánh bại trùm cuối.",
   "tile.walkway.walkway.description": "Walkways dùng để trang trí và kết nối các khối trong khi vẫn giữ phong cách không gian.",
   "tile.walkway.walkway_pipe.description": "Fluid Pipe Walkways dùng để chạy đường ống bên dưới một bề mặt hoàn toàn có thể đi lại.",
-  "tile.walkway.walkway_wire.description": "Aluminum Wire Walkways dùng để chạy dây dẫn bên dưới một bề mặt hoàn toàn có thể đi lại."
+  "tile.walkway.walkway_wire.description": "Aluminum Wire Walkways dùng để chạy dây dẫn bên dưới một bề mặt hoàn toàn có thể đi lại.",
+  "planet.asteroids": "Asteroids",
+  "planet.mars": "Mars",
+  "checklist.craft_grapple_hook.key": "Chế tạo Grapple Hook",
+  "checklist.equip_shield_controller.key": "Trang bị Shield Controller",
+  "checklist.thermal_padding.key": "Trang bị Thermal Suit"
 }
