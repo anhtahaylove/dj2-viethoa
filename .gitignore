@@ -29,6 +29,7 @@ __pycache__/
 /work/elyprism-locale-gap-candidates.json
 /work/elyprism-effective-ui-gaps.json
 /work/session-home-dj2-hits.json
+/work/identical_english_audit.json
 
 # Poster art is a rebuildable ~1MB binary; font PNGs stay as release evidence
 release/**/*Poster*.png

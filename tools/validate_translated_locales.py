@@ -431,6 +431,26 @@ CONSISTENCY_EXEMPT = {
     # family's `shatter_void` = "Voiding" -> "Hủy Vật Phẩm". One shared wording
     # would make either the biome or the spell read wrong.
     "roots.modifiers.modifiers.voiding_scythe",
+    # Wave-21 identical-to-English audit. Three homograph splits where the same
+    # bare English word is a tooltip word in one mod and a technical/registry
+    # token in the others, so one shared wording cannot serve both.
+    "enderutilities.tooltip.item.basic",       # Ender Tool tooltip TIER word, set
+                                               # with `advanced` -> "Nâng cao" in
+                                               # the same addTooltipLines call;
+                                               # Mekanism's `tier.Basic` composes
+                                               # item names ("Basic Factory") and
+                                               # DraconicEvolution's upgrade ladder
+                                               # is a proper-name tier, both English
+    "enderutilities.tooltip.item.end",         # END POINT of the Ruler's measured
+                                               # position pair, set with
+                                               # `item.start` -> "Bắt đầu"; the
+                                               # collision is Extra Utilities'
+                                               # biome name for The End dimension
+    "enderutilities.tooltip.item.fluid",       # Ender Bucket's stored-fluid tooltip
+                                               # label, set with `cached.fluid` ->
+                                               # "Chất lỏng thấy lần cuối"; the
+                                               # `Fluid` collisions are value-type
+                                               # and channel-type registry tokens
 }
 
 

@@ -4,8 +4,8 @@
   "excluded_dev_only": 2772,
   "excluded_empty": 51,
   "in_scope": 27075,
-  "translated": 22612,
-  "identical_to_english": 3286,
+  "translated": 22618,
+  "identical_to_english": 3280,
   "missing": 1177,
   "coverage_pct": 83.5,
   "pack_lang_keys": 31076

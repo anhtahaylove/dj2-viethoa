@@ -10,11 +10,12 @@ script trong `tools/`.
 
 | Chỉ số | Giá trị |
 |---|---|
-| Coverage | **83,5%** (22.612 / 27.075 khóa trong phạm vi) |
+| Coverage | **83,5%** (22.618 / 27.075 khóa trong phạm vi) |
 | Backlog T2 / T3 / chưa phân tier | 270 / 189 / 563 |
 | Nợ dịch thật trong backlog | **0** (cả ba tier) |
+| Khóa trùng English đã rà | 3.280 (còn lại đều cố ý giữ English) |
 | Validator | 0 lỗi |
-| pytest | 176 passed |
+| pytest | 192 passed |
 | `verify_release.py` | exit 0 |
 
 Backlog không phải là "nợ dịch" thuần: phần lớn dòng T2 còn lại là tên chòm sao
@@ -167,7 +168,8 @@ pytest trước khi commit.
 | `41ed0a0` | Cập nhật README theo wave 18 | 82,4% |
 | `d73eb7c` | Khôi phục nguồn English thật, sửa các lỗi bị che | 82,4% |
 | `d56786e` | 428 nhãn `other` thuộc 60 namespace, dọn xung đột cross-family | 83,5% |
-| wave 20 | Rà hết T2/T3/`other`: 0 nợ dịch còn lại, thêm pytest gate xung đột | 83,5% |
+| `ee628a0` | Rà hết T2/T3/`other`: 0 nợ dịch còn lại, thêm pytest gate xung đột | 83,5% |
+| wave 21 | Rà 3.286 khóa trùng English (6 nợ ẩn), gate EOL, chuỗi build hợp nhất | 83,5% |
 
 Vài lỗi đáng nhớ mà các gate đã bắt được:
 
@@ -248,14 +250,11 @@ Vài lỗi đáng nhớ mà các gate đã bắt được:
 # 1. Kiểm tra bản dịch trước khi build
 python tools/validate_runtime_locales.py
 python tools/validate_translated_locales.py
+python tools/check_line_endings.py
 
-# 2. Dựng resource pack và các bundle
-python tools/build_pack.py
-python tools/build_client_overlays.py
-python tools/build_client_bundle.py
-python tools/build_server_overlay.py
-python tools/build_release_manifest.py
-python tools/build_final_acceptance.py
+# 2. Dựng toàn bộ artifact theo đúng thứ tự (coverage -> pack -> ... -> acceptance)
+python tools/build_release_chain.py
+# xem thứ tự mà không chạy: python tools/build_release_chain.py --dry-run
 
 # 3. Kiểm định
 python -m pytest tools/ -q
