@@ -10,8 +10,8 @@ script trong `tools/`.
 
 | Chỉ số | Giá trị |
 |---|---|
-| Coverage | **81,0%** |
-| Backlog T2 / T3 / chưa phân tier | 273 / 276 / 1.749 |
+| Coverage | **82,4%** (22.321 / 27.075 khóa trong phạm vi) |
+| Backlog T2 / T3 / chưa phân tier | 271 / 189 / 991 |
 | Validator | 0 lỗi |
 | pytest | 142 passed |
 | `verify_release.py` | exit 0 |
@@ -19,6 +19,10 @@ script trong `tools/`.
 Backlog không phải là "nợ dịch" thuần: phần lớn dòng T2 còn lại là tên chòm sao
 Astral Sorcery, tên nghi lễ và phép AbyssalCraft/Blood Magic — những chuỗi **cố
 ý giữ English**. Con số coverage vì vậy sẽ không bao giờ chạm 100%.
+
+Riêng T2 đã cạn trên thực tế: trong 271 dòng còn lại chỉ có 2 dòng là ký hiệu
+thuần (`%s`, `%s/%s`), phần còn lại là registry mirror, tên riêng, protected
+term hoặc ký hiệu. Số này sẽ không giảm thêm.
 
 ## Cấu trúc thư mục
 
@@ -83,6 +87,8 @@ Sau khi resource-pack helper chạy, phải tải ngược file qua URL đã c�
 - Tips, guide books, Patchouli/Tinkers manuals, advancement prose và tooltip đã review.
 - Client menu/default language/config và các message script an toàn.
 - Batch UI/command/status/help mới cho FTBUtilities, FTBLib, FTBBackups, JEI, JEI Utilities, JEI Resources, Ender Utilities, Actually Additions và Extra Utilities 2.
+- Nhãn giao diện Astral Sorcery (journal, perk), EnderIO, Mekanism, BiblioCraft,
+  Botania, Bewitchment, EvilCraft, ProjectE, Tinkers' Construct và Quark.
 - Biome-counter message được dịch nhưng vẫn giữ `Mortum`, `Hell`, `Magical Forest`, `Ocean` bằng English.
 
 Tên item, block, fluid, mob, biome, dimension, machine, multiblock, material, mod và proper name quan trọng tiếp tục giữ English để tra JEI/Wiki và tránh phá registry/parser.
@@ -112,7 +118,40 @@ Cú pháp lệnh giữ nguyên English vì người chơi phải gõ đúng từ
 
 Đồng âm khác nghĩa xử lý bằng `CONSISTENCY_EXEMPT` trong
 `tools/validate_translated_locales.py`, kèm chú giải lý do — ví dụ `Ocean` là
-biome vanilla, khác `Ocean` là tên chòm sao Octans.
+biome vanilla, khác `Ocean` là tên chòm sao Octans; hay `Pillar` là chế độ xây
+của Mercurial Eye, khác `Pillar` là tên hình dạng microblock.
+
+Một số chuỗi trông như từ nhưng không phải: `pe.transmutation.learned*` của
+ProjectE là animation hiện từng **ký tự** của chữ "Learned!", nên toàn bộ nhóm
+key này giữ English.
+
+## Lịch sử phát hành
+
+Mỗi wave đều đi hết chuỗi validator → build → publish → install → verify →
+pytest trước khi commit.
+
+| Commit | Nội dung | Coverage |
+|---|---|---|
+| `e7c76c1` | Đưa dự án vào Git, 2.535 file | — |
+| `3cb7738` | 64 nhãn config UniversalTweaks | — |
+| `8a45f78` | Sửa 2 khuôn tên item GregTech + 5 nhãn UI | 79,8% |
+| `70b3c1f` | 419 nhãn Astral Sorcery, Extra Utilities 2, EnderIO | 81,0% |
+| `936a6fc` | 438 nhãn thuộc 28 namespace | 82,0% |
+| `6613794` | 404 nhãn thuộc 8 namespace | 82,4% |
+| `f7dabd4` | Sửa tên đơn vị Quintillion trong EMC postfix | 82,4% |
+
+Vài lỗi đáng nhớ mà các gate đã bắt được:
+
+- **Khuôn tên item bị dịch** (`8a45f78`): `base.part.bolt` và `base.part.round`
+  của GregTech là khuôn `%s Bolt`/`%s Round`, dịch chúng làm hỏng hàng loạt tên
+  trong JEI.
+- **Key tự bịa** (`70b3c1f`): trong lúc sửa consistency collision đã tạo một key
+  không tồn tại trong JAR; từ đó mọi sửa đổi phải kiểm `set(vi) ⊆ set(source)`.
+- **Dịch từng ký tự** (`6613794`): 16 key animation của ProjectE bị dịch theo
+  từng chữ cái và làm mất một key.
+- **Sai bậc đơn vị** (`f7dabd4`): `Quintillion` (10¹⁸) bị dịch thành "Tỷ tỷ"
+  trong khi chuỗi trước đó là 10¹² "Nghìn tỷ" → 10¹⁵ "Triệu tỷ"; test doubling
+  bắt được, giá trị đúng là "Nghìn triệu tỷ".
 
 ## Build và kiểm định
 
