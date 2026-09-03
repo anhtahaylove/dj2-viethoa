@@ -24,6 +24,13 @@ Riêng T2 đã cạn trên thực tế: trong 271 dòng còn lại chỉ có 2 d
 thuần (`%s`, `%s/%s`), phần còn lại là registry mirror, tên riêng, protected
 term hoặc ký hiệu. Số này sẽ không giảm thêm.
 
+Tier `other` (991 dòng) đã được phân loại bằng `tools/triage_other_tier.py`:
+**547 dòng cố ý giữ English** (tên item/block, khuôn tên `%s Bolt` của GregTech,
+tên nghi lễ/phép/brew, tên biome, cú pháp lệnh, shader id, frame animation từng
+ký tự) và **444 dòng là nợ dịch thật** — hầu hết là nhãn UI ngắn ở
+`jeresources`, `reccomplex`, `extrautils2` và `endermodpacktweaks`. Chạy
+`python tools/triage_other_tier.py --list <namespace>` để xem chi tiết từng mod.
+
 ## Cấu trúc thư mục
 
 | Đường dẫn | Nội dung |
@@ -34,6 +41,14 @@ term hoặc ký hiệu. Số này sẽ không giảm thêm.
 | `work/protected_terms.json` | Thuật ngữ bắt buộc giữ English, được validator kiểm tự động |
 | `tools/` | Script build, validator, installer và test |
 | `release/` | Artifact phát hành hiện hành (không track trong Git) |
+
+### Công cụ kiểm tra bổ sung
+
+| Script | Mục đích |
+|---|---|
+| `tools/restore_english_sources.py` | Dựng lại nửa English của `work/runtime_locale_sources/` từ JAR và `resources/`. Chạy `--write` để ghi, không tham số để xem báo cáo. |
+| `tools/check_button_widths.py` | Đo bề rộng pixel chuỗi Việt bằng `glyph_sizes.bin` thật, so với bản English và mẫu tham chiếu, phát hiện nguy cơ tràn nút. |
+| `tools/triage_other_tier.py` | Phân loại tier `other` thành "cố ý giữ English" và "nợ dịch thật", kèm thống kê theo namespace. |
 
 ## Artifact phát hành hiện hành
 
@@ -152,6 +167,21 @@ Vài lỗi đáng nhớ mà các gate đã bắt được:
 - **Sai bậc đơn vị** (`f7dabd4`): `Quintillion` (10¹⁸) bị dịch thành "Tỷ tỷ"
   trong khi chuỗi trước đó là 10¹² "Nghìn tỷ" → 10¹⁵ "Triệu tỷ"; test doubling
   bắt được, giá trị đúng là "Nghìn triệu tỷ".
+- **Nguồn English bị nhiễm tiếng Việt** (wave 19): 7.014 khóa trong
+  `work/runtime_locale_sources/` chứa **bản dịch tiếng Việt thay vì English
+  gốc**. Vì mọi validator và test đều so `source` với `translated`, chúng thực
+  chất đang so tiếng Việt với chính nó — guard trở nên **mù hoàn toàn** trên
+  phần lớn corpus. Sau khi dựng lại nguồn từ JAR + `resources/`
+  (`tools/restore_english_sources.py`), các gate lập tức phát hiện 74 lỗi
+  consistency và 38 lỗi định dạng đã tồn tại từ nhiều wave trước, trong đó có
+  6 chuỗi CraftTweaker **mất toàn bộ mã màu `§`**. Bản dịch không mất chữ nào —
+  6.373/6.396 khóa vẫn khớp — nhưng bài học là: nếu một gate không bao giờ đỏ,
+  hãy nghi ngờ dữ liệu đầu vào của chính nó.
+- **Bundle lồng nhau bị cũ** (wave 19): `verify_release.py` chỉ hash các ZIP
+  ngoài, nên client bundle và server overlay từng mang resource pack **trước
+  wave 18** mà vẫn exit 0. Đã bổ sung `nested_pack_mismatch`: mở ZIP lồng, so
+  hash với bản standalone; gate được kiểm bằng cách cố tình chèn pack cũ và xác
+  nhận verify chuyển sang exit 1.
 
 ## Build và kiểm định
 

@@ -1,7 +1,7 @@
-chat.thermalfoundation.augment.install.failure=Không thể lắp augment.
-chat.thermalfoundation.augment.install.success=Đã lắp augment thành công!
-chat.thermalfoundation.upgrade.install.failure=Không thể nâng cấp block.
-chat.thermalfoundation.upgrade.install.success=Đã nâng cấp block thành công!
+chat.thermalfoundation.augment.install.failure=Unable to install augment.
+chat.thermalfoundation.augment.install.success=Augment successfully installed!
+chat.thermalfoundation.upgrade.install.failure=Unable to upgrade block.
+chat.thermalfoundation.upgrade.install.success=Block successfully upgraded!
 info.thermalfoundation.diagram.erase=Use while sneaking to erase.
 info.thermalfoundation.diagram.redprint.0=Use on a block to copy its settings.
 info.thermalfoundation.diagram.redprint.1=Use on a block to transfer stored settings.

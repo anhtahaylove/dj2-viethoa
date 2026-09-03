@@ -16,6 +16,7 @@ line silently disappears in game while every byte-level check still passes.
 """
 from pathlib import Path
 import json, re, sys
+from collections import Counter
 
 ROOT = Path(__file__).resolve().parents[1]
 PAIRS = (
@@ -360,6 +361,69 @@ CONSISTENCY_EXEMPT = {
     # BiggerCraftingTables, where "Huge" is the tier name of the Huge Crafting
     # Table itself and stays English like every other registry-object name.
     "patchouli.gui.lexicon.button.resize.size5",
+    # `Pull` is EnderIO's conduit I/O direction ("Hút" = draw items in), but
+    # ActuallyAdditions' info.*.gui.pull labels the button that takes an item
+    # OUT of the machine's slot -- "Lấy ra". Different actions, same English.
+    "enderio.gui.machine.ioMode.pull",
+    "enderio.gui.machine.ioMode.pull.colored",
+    "info.actuallyadditions.gui.pull",
+    # `Download` as a title-case menu action (cyclopscore/hammercore version
+    # notices) vs ftblib's sentence-case button; each mod follows its own
+    # surrounding casing and p2_ftblib already ships the sentence-case form.
+    "general.cyclopscore.version.download",
+    "chat.hammercore:newversion.clickdwn",
+    "gui.download",
+    # --- Wave 19. Surfaced only after the English sources were restored: the
+    # sources had been overwritten with Vietnamese, so this guard was comparing
+    # Vietnamese against Vietnamese and reported nothing. Each key was cleared
+    # by reading its siblings and its family precedent.
+    # Common/Rare/Uncommon: IndustrialForegoing's Infinity Drill rarity family
+    # keeps all five tiers English as drill-tier names; CraftTweaker's excavator
+    # rarity family translates all six as prose.
+    "text.industrialforegoing.tooltip.infinitydrill.common",
+    "text.industrialforegoing.tooltip.infinitydrill.rare",
+    "text.industrialforegoing.tooltip.infinitydrill.uncommon",
+    # Creative: Mekanism tier.* names machine tiers and keeps Basic/Elite/
+    # Ultimate/Creative English; Botania's label is plain prose.
+    "botaniamisc.creative",
+    # Hover: SimplyJetpacks hud.state.* are HUD status names kept English 4/4;
+    # Mekanism's jetpack tooltip is a sentence.
+    "tooltip.jetpack.hover",
+    # Shocking/Unnatural: Tinkers' modifier.*.name keeps proper modifier names
+    # English 67/71; AE2 achievement titles translate 51/52.
+    "achievement.ae2.ChargedQuartz",
+    "achievement.ae2.Fluix",
+    # Dim: IntegratedDynamics' diagnostics column abbreviates Dimension;
+    # Astral Sorcery's is a brightness step (Dim/Faint/Bright).
+    "astralsorcery.journal.constellation.dst.weak",
+    # Usage: Astral Sorcery bookmarks a how-to-use section; Mekanism's
+    # gui.usage is an energy consumption rate.
+    "gui.usage",
+    # Structure: EvilCraft names a built structure; Mekanism reports whether
+    # a multiblock is correctly formed.
+    "gui.structure",
+    # Fill: Draconic Evolution's chest mode fills existing stacks; Mekanism
+    # fills a tank.
+    "gui.draconiumChest.fMode.fill.btn",
+    # Point: Quark's emote wheel entry is the pointing gesture; Draconic
+    # Evolution's is a numeric point value.
+    "quark.emote.point",
+    # Volume: Mekanism reports a tank's capacity; EnderUtilities' sound block
+    # and IntegratedDynamics' aspect mean audio loudness.
+    "gui.volume",
+    # Chiseling: Chisel's JEI category title names the crafting action;
+    # Botania's page text describes chiselling stone in prose.
+    "chisel.jei.title",
+    # full: Roots reports the moon phase; Galacticraft reports a container
+    # being full.
+    "roots.message.sense_time.moon.0",
+    # Index/Normal/Entities: the Necronomicon keys are book furniture and are also
+    # owned by books_abyssalcraft.json, which build_pack.py requires to agree, so
+    # they keep the book's wording (Mục lục / Bình thường / Thực thể) while the GUI
+    # keys elsewhere keep the UI wording (Chỉ mục / Thường / Các Entity).
+    "necronomicon.index",
+    "necronomicon.normal",
+    "necronomicon.information.entities",
 }
 
 
@@ -378,6 +442,42 @@ def parse_lang(text):
         key, value = line.split("=", 1)
         out.setdefault(key.strip(), value.rstrip("\r\n"))
     return out
+
+
+# Botania lexicon pages whose Vietnamese word order moves a highlighted noun.
+# Every one was checked by hand: same &-codes, same number of spans, and each
+# span still wraps the same proper name as the English. Listed explicitly so a
+# NEW reordering has to be reviewed rather than silently accepted.
+AMP_REORDER_OK = {
+    "botania.page.dandelifeon4",
+    "botania.page.gaiaRitual0",
+    "botania.page.grassSeeds0",
+    "botania.page.heiseiDream0",
+    "botania.page.loonium0",
+    "botania.page.monocle0",
+    "botania.page.pistonRelay0",
+    "botania.page.pistonRelay2",
+    "botania.page.spectranthemum0",
+    "botania.page.tcIntegration3",
+    "botania.page.terraPick4",
+}
+
+
+def balanced_spans(text):
+    """True when every &-colour span in `text` is closed with &0.
+
+    An unclosed span bleeds its colour over the rest of the tooltip, so a
+    reordered string is only safe if the spans still pair up.
+    """
+    depth = 0
+    for code in AMP.findall(text):
+        if code[1] == "0":
+            if depth == 0:
+                return False
+            depth -= 1
+        else:
+            depth += 1
+    return depth == 0
 
 
 def tokens(text):
@@ -518,7 +618,22 @@ def validate():
                 checked += 1
                 ta, tb = tokens(english), tokens(vietnamese)
                 if ta != tb:
-                    errors.append(f"token mismatch {rel}:{key}: {ta} != {tb}")
+                    # Vietnamese word order moves the highlighted noun, so a
+                    # &-span can legitimately appear at a different position.
+                    # That is safe ONLY when the same codes are all still
+                    # present (same multiset) and every span stays balanced;
+                    # a lost or invented code still renders wrong, and %s/%d
+                    # order is never negotiable, so both stay strict.
+                    reordered_amp_only = (
+                        key in AMP_REORDER_OK
+                        and ta["format"] == tb["format"]
+                        and ta["color"] == tb["color"]
+                        and ta["url"] == tb["url"]
+                        and Counter(ta["amp"]) == Counter(tb["amp"])
+                        and balanced_spans(vietnamese)
+                    )
+                    if not reordered_amp_only:
+                        errors.append(f"token mismatch {rel}:{key}: {ta} != {tb}")
                 # A real newline truncates the .lang entry in game.
                 if "\n" in vietnamese or "\r" in vietnamese:
                     errors.append(f"raw newline {rel}:{key}")

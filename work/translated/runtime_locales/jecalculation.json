@@ -18,7 +18,7 @@
   "jecalculation.gui.common.label.ore": "OreDict",
   "jecalculation.gui.common.label.placeholder": "Ô Giữ Chỗ",
   "jecalculation.gui.common.output": "Đầu Ra",
-  "jecalculation.gui.common.search": "Tìm Kiếm",
+  "jecalculation.gui.common.search": "Tìm kiếm",
   "jecalculation.gui.craft.help": "Chào mừng đến giao diện chính của mod. Trước tiên, nên dùng hai nút ở góc trên bên phải để nhập công thức, từ đó bạn có thể tạo và chỉnh sửa công thức. Mọi phép tính đều cần công thức đã được ghi lại.\\fĐể tính chi phí của một vật phẩm, hãy chọn vật phẩm từ danh sách của JEI rồi đặt vào ô ở góc trên bên trái sau khi đã ghi lại mọi công thức cần dùng. Kết quả sẽ hiện trong các ô phía dưới. Bốn nút cho phép hiển thị đầu vào, đầu ra, chất xúc tác và các bước chế tạo.\\fNút ở góc trên bên trái cho phép bạn chỉnh sửa và lấy nhãn. Nhãn là phần rất quan trọng của mod. Về cơ bản, đó là những thứ có thể đặt vào một ô, gồm ItemStack, FluidStack, mục OreDict hoặc chỉ là placeholder. Nhãn được dùng trong quá trình tính toán. Thông thường chúng hoạt động khá thông minh nếu được cấu hình đúng.",
   "jecalculation.gui.craft.history": "Lịch Sử",
   "jecalculation.gui.craft.inventory_disabled": "Đã tắt dò túi đồ",

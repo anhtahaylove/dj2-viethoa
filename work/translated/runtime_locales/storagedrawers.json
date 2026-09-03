@@ -65,7 +65,7 @@
   "storagedrawers.config.upgrades.level4Mult": "Hệ số sức chứa (IV)",
   "storagedrawers.config.upgrades.level5Mult": "Hệ số sức chứa (V)",
   "storagedrawers.config.upgrades.level6Mult": "Hệ số sức chứa (VI)",
-  "storagedrawers.container.upgrades": "Nâng Cấp",
+  "storagedrawers.container.upgrades": "Nâng cấp",
   "storagedrawers.drawers.sealed": "Nội dung được niêm phong bên trong",
   "storagedrawers.material": "Vật liệu: %s",
   "storagedrawers.msg.cannotAddUpgrade": "Không lắp được nâng cấp đó vào drawer này.",

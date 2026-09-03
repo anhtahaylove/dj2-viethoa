@@ -23,7 +23,7 @@
   "commands.rcimportschematic.missing": "Không tìm thấy tệp '%s' trong %s",
   "commands.rclist.next": "Trang Sau",
   "commands.rclist.none": "Không có cấu trúc",
-  "commands.rclist.previous": "Trang Trước",
+  "commands.rclist.previous": "Trang trước",
   "commands.rclookup.reply.generates": "%s: §bCó sinh ra§r, tác giả: %s, là %s, %s",
   "commands.rclookup.reply.nolink": "§oKhông có liên kết§r",
   "commands.rclookup.reply.silent": "%s: §bKhông hoạt động§r, tác giả: %s, là %s, %s",

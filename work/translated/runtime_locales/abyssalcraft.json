@@ -1,6 +1,6 @@
 {
   "ac.amplifier.duration": "Thời Lượng",
-  "ac.amplifier.power": "Điện",
+  "ac.amplifier.power": "Năng lượng",
   "ac.amplifier.range": "Phạm vi",
   "ac.rending.essence_aw": "Abyssal Wasteland Essence được tạo ra bằng cách thu hoạch Abyssal Wasteland Energy từ các thực thể Coralium.",
   "ac.rending.essence_dl": "Dreadlands Essence được tạo ra bằng cách thu hoạch Dreadlands Energy từ các thực thể Dread.",
@@ -626,7 +626,7 @@
   "necronomicon.text.entity.shadowmonster.1": "Shadow Monster là cư dân của The Dark Realm và có thể được tìm thấy tại Darklands Mountains.",
   "necronomicon.text.entity.shadowmonster.2": "Shadow Monster là bóng sống tồn tại tự nhiên trong The Dark Realm, nhưng có thể lan tới Omothol và xa đến tận Darklands. Shadow Monster là dạng tiến hóa trung gian của bóng sống.",
   "necronomicon.text.entity.shadowtitan.1": "Shadow Titan là cư dân của The Dark Realm.",
-  "necronomicon.text.entity.shadowtitan.2": "Shadow Titan là những bóng sống hùng mạnh lang thang trong The Dark Realm. So với Shadow Beast, Shadow Titan có giáp và mạnh hơn.",
+  "necronomicon.text.entity.shadowtitan.2": "Shadow Titan là những bóng sống hùng mạnh lang thang trong The Dark Realm. So với Shadow Beast, Shadow Titan có giáp và mạnh hơn. ",
   "necronomicon.text.entity.shuboffspring.1": "Dark Offspring là những quái thú ghê tởm, trông như sự kết hợp giữa dê và cây chết, đồng thời là hậu duệ của Shub-Niggurath.",
   "necronomicon.text.entity.shuboffspring.2": "Hiếm khi có thể tìm thấy những quái thú này trong rừng (phổ biến nhất ở Roofed Forests và Darklands Forests). Nếu bỗng nghe thấy tiếng cừu từ hư không, bạn sẽ biết mình đang đến gần một con. Khả năng gặp chúng cao nhất là vào ban đêm khi trăng non.",
   "necronomicon.text.entity.skeletongoliath.1": "Skeleton Goliath là những Skeleton khổng lồ cầm Cudgel, lang thang khắp Abyssal Wasteland. Không rõ nguồn gốc.",

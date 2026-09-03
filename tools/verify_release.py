@@ -96,6 +96,30 @@ def inspect_release_dir():
                 "build_bytes": src.stat().st_size,
                 "release_bytes": published.stat().st_size,
             })
+    # The client bundle and server overlay each embed a COPY of the resource
+    # pack. Hashing only the outer ZIPs missed a real ship bug: both bundles
+    # carried a pre-wave-18 pack while the standalone ZIP was current, so the
+    # translations were absent in game for anyone installing from a bundle.
+    out["nested_pack_mismatch"] = []
+    if PACK.exists() and RELEASE_DIR.joinpath(PACK.name).exists():
+        canonical = hashlib.sha256(
+            (RELEASE_DIR / PACK.name).read_bytes()
+        ).hexdigest()
+        for container in (BUNDLE, SERVER_OVERLAY):
+            published = RELEASE_DIR / container.name
+            if not published.exists():
+                continue
+            with zipfile.ZipFile(published) as zf:
+                inner = [n for n in zf.namelist() if n.endswith(PACK.name)]
+                if not inner:
+                    out["nested_pack_mismatch"].append(
+                        f"{container.name}: no embedded {PACK.name}")
+                    continue
+                for name in inner:
+                    got = hashlib.sha256(zf.read(name)).hexdigest()
+                    if got != canonical:
+                        out["nested_pack_mismatch"].append(
+                            f"{container.name}!{name}: differs from standalone pack")
     sums = RELEASE_DIR / "SHA256SUMS.txt"
     out["checksums_present"] = sums.exists()
     if sums.exists():
@@ -141,6 +165,7 @@ def main():
     pub = report["published_release"]
     if pub["exists"]:
         bad = bad or pub["stale"] or pub["missing"] or pub["checksum_mismatch"]
+        bad = bad or pub.get("nested_pack_mismatch")
         bad = bad or not pub["checksums_present"]
     if bad:
         raise SystemExit(json.dumps(report, ensure_ascii=False, indent=2))

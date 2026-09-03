@@ -1,11 +1,11 @@
-tooltip.plustic.globalmodifier.info=Kho đồ được liên kết tại [x=%d, y=%d, z=%d] và chiều không gian %d
-tooltip.plustic.portlymodifier.info=Thực thể: %s
-tooltip.plustic.ignoblemodifier.info=Độ thấp kém: §1%f
-tooltip.plustic.portal.info=Điểm dịch chuyển: [x=%d, y=%d, z=%d]; chiều không gian %d
-tooltip.plustic.toggle.info=Nhấp để bật/tắt
-tooltip.plustic.sapphire.warn=§cSapphire của AoA 3 là một vật liệu khác
-item.katana.desc=Katana là vũ khí đặc biệt tung combo lên mục tiêu.\nBổ trợ cho Shuriken
-item.laser_gun.desc=Laser Gun là vũ khí "cận chiến" đặc biệt (xét theo vài khía cạnh) bắn ra những phát chuẩn xác từ xa, nhưng ngốn cả độ bền lẫn năng lượng. Nó còn đổi chế độ được để nung chảy khối.\nSát thương phụ thuộc vào laser medium, không phải đoạn ống.
+tooltip.plustic.globalmodifier.info=Linked inventory at [x=%d, y=%d, z=%d] and dimension %d
+tooltip.plustic.portlymodifier.info=Entity: %s
+tooltip.plustic.ignoblemodifier.info=Ignobility: §1%f
+tooltip.plustic.portal.info=Teleportation point: [x=%d, y=%d, z=%d]; dimension %d
+tooltip.plustic.toggle.info=Click to toggle
+tooltip.plustic.sapphire.warn=§cAoA 3 Sapphire is a different material
+item.katana.desc=The Katana is a special weapon that unleashes combos on the target(s).\nComplements the Shuriken
+item.laser_gun.desc=The Laser Gun is a special "melee" (in some ways) weapon that fires accurate shots from afar, but requires both durability and energy. It can also change mode to enable smelting of blocks.\nAttack depends on the laser medium, not the pipe piece.
 gui.header.toggle=Toggle Modifiers
 gui.toggle.armor=%s (Armor)
 gui.toggle.tool=%s (Tool)

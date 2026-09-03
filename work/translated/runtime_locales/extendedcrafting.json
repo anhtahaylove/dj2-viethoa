@@ -54,7 +54,7 @@
   "message.ec.nbt_requires_crafttweaker": "CẢNH BÁO: Việc sao chép NBT yêu cầu cài đặt CraftTweaker.",
   "tooltip.ec.crafting": "Chế tạo: %sx %s",
   "tooltip.ec.crafting_table": "Trang Trí",
-  "tooltip.ec.eject": "Đẩy Ra",
+  "tooltip.ec.eject": "Đẩy ra",
   "tooltip.ec.ejecting": "Đang đẩy ra...",
   "tooltip.ec.empty": "Trống",
   "tooltip.ec.items_required": "Vật phẩm cần thiết:",

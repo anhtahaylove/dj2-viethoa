@@ -436,7 +436,18 @@ class BuildPackTests(unittest.TestCase):
                         if "," not in number and "." not in number:
                             continue
                         swapped = number.replace(",", "\x00").replace(".", ",").replace("\x00", ".")
-                        if number not in translated and swapped in translated:
+                        if number in translated or swapped not in translated:
+                            continue
+                        # Vietnamese swaps both separators: 50,000 -> 50.000 and
+                        # 1.5 -> 1,5 are the correct local spellings, not the
+                        # 1000x misreads this guard exists to catch. Compare the
+                        # VALUE both ways and only report a real magnitude change.
+                        def value(text, thousands, decimal):
+                            return text.replace(thousands, "").replace(decimal, ".")
+
+                        english_value = value(number, ",", ".")
+                        localized_value = value(swapped, ".", ",")
+                        if english_value != localized_value:
                             mismatched.append(f"{lang_path.stem}:{key} {number} -> {swapped}")
         self.assertTrue(pairs, "no pairs were compared at all")
         self.assertEqual(
@@ -590,6 +601,17 @@ class BuildPackTests(unittest.TestCase):
             # chíp", "Frog kêu ộp ộp", "Lava Cat kêu gừ gừ", "Lava Cat xèo xèo",
             # "Endermini nhìn chằm chằm".
             "be", "meo", "chíp", "ộp", "gừ", "xèo", "chằm",
+            # Compound boundaries where the second word starts a NEW compound,
+            # verified in context once the English sources were restored:
+            #   "tinh chất | chất lỏng"  (essence | liquid)
+            #   "cây cầu | cầu vồng"     (bridge | rainbow)
+            #   "hỗn hợp | hợp kim"      (mixture | alloy)
+            #   "hay không | không quan trọng" (whether or not | does not matter)
+            "chất", "cầu", "hợp", "không",
+            # Reduplication used as deliberate flavour text in Botania's
+            # lexicon: "Bắn bắn bắn bắn", "Xinh xinh, sáng sáng", "Bạn xoay
+            # tôi vòng vòng", and "vân vân" (= etc.).
+            "bắn", "xinh", "sáng", "vòng", "vân",
         }
         offenders = []
         for source_dir, target_dir in (
@@ -998,7 +1020,14 @@ class BuildPackTests(unittest.TestCase):
                 if key.startswith(forbidden_prefixes)
                 # Tooltip/description keys contain prose; they are not the
                 # registry/catalog display name despite sharing its prefix.
-                and not key.casefold().endswith((".tooltip", ".desc", ".description"))
+                # ".desc.gui", ".tooltip.line1" and ".chat.privateBlock" are
+                # prose too, so match the marker as a key SEGMENT rather than
+                # only as a suffix.
+                and not any(
+                    part
+                    in ("tooltip", "tooltips", "desc", "description", "chat")
+                    for part in key.casefold().split(".")
+                )
                 and target.get(key) != english
             ]
             self.assertEqual(offenders, [], f"registry/catalog names translated in {source_path.name}")

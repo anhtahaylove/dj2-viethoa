@@ -75,7 +75,7 @@
   "tooltip.itembus.slot": "1 Ô",
   "tooltip.itembus.slots": "%s Ô",
   "tooltip.machinery.blueprint.required": "Cần Blueprint",
-  "tooltip.machinery.blueprint.upgrades": "Nâng Cấp",
+  "tooltip.machinery.blueprint.upgrades": "Nâng cấp",
   "tooltip.machinery.chance.in": "Xác suất tiêu thụ: %s",
   "tooltip.machinery.chance.in.never": "Không bị tiêu hao.",
   "tooltip.machinery.chance.out": "Xác suất sản xuất: %s",

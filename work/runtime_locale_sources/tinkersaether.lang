@@ -1,5 +1,5 @@
-item.dart.desc=Dart là loại đạn dùng cho Dart Shooter. Một chồng cho rất nhiều phát bắn, và chúng cải biến được như mọi công cụ khác.\nKhông chịu ảnh hưởng của trọng lực, nhưng sát thương thấp.
-item.dart_shooter.desc=Dart Shooter, hay Blowgun, cho phép bạn bắn phi tiêu cực chuẩn.\nChỉ cần đừng hít vào là được!
+item.dart.desc=The Darts are the ammo used for Dart Shooters. One stack provides many shots, and they can be modified as any tool.\nUnaffected by gravity, but do little damage.
+item.dart_shooter.desc=The Dart Shooter, or Blowgun, lets you shoot darts with great accuracy.\nJust try not to inhale!
 modifier.antigrav.desc=§oScrew gravity!§r\nMake effective blocks float when you shift+rclick, using 4 durability.
 modifier.antigrav.name=Antigravity
 modifier.cushy.desc=§oLike a cushion.§r\nSilky, but doesn't hurt much.

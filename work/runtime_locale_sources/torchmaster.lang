@@ -1,9 +1,9 @@
-tile.torchmaster.mega_torch.lit.tooltip=Ngăn quái vật thù địch sinh ra tự nhiên trong phạm vi khá rộng quanh đuốc.
-tile.torchmaster.mega_torch.unlit.tooltip=Ngăn quái vật thù địch sinh ra tự nhiên trong phạm vi khá rộng quanh đuốc.
-tile.torchmaster.terrain_lighter.tooltip=Tự động đặt đuốc. Cần đuốc, nhiên liệu và tín hiệu redstone.
-tile.torchmaster.dread_lamp.tooltip=Ngăn động vật thụ động như mực, dơi hoặc mèo rừng sinh ra tự nhiên trong phạm vi lớn quanh đèn.
-tile.torchmaster.feral_flare_lantern.tooltip=Từ từ chiếu sáng một khu vực rộng lớn. Khi gỡ đèn, ánh sáng sẽ dần biến mất.
-item.torchmaster.frozen_pearl.tooltip=Xóa ánh sáng còn sót lại từ Feral Flare Lantern.
+tile.torchmaster.mega_torch.lit.tooltip=Prevents natural spawning of hostile monsters in a decent radius around the torch.
+tile.torchmaster.mega_torch.unlit.tooltip=Prevents natural spawning of hostile monsters in a decent radius around the torch.
+tile.torchmaster.terrain_lighter.tooltip=Automatically places torches. Needs torches, fuel and a redstone signal.
+tile.torchmaster.dread_lamp.tooltip=Prevents natural spawning of passive animals like squids, bats or ocelots in a big radius around the lamp.
+tile.torchmaster.feral_flare_lantern.tooltip=Slowly illuminates a large area. Removing the lantern causes the lights to slowly decay.
+item.torchmaster.frozen_pearl.tooltip=Clears residual lights from a Feral Flare Lantern.
 command.torchmaster.entity_dump.completed=Entities have been dumped to the log file.
 command.torchmaster.torch_list.completed=Torches have been dumped to the log file.
 container.torchmaster.terrain_lighter=Terrain Lighter

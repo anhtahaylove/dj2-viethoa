@@ -1,4 +1,4 @@
-patchouli.gui.lexicon.progress_tooltip.info=Hoàn thành các Tiến trình để mở khóa thêm!
+patchouli.gui.lexicon.progress_tooltip.info=Complete Advancements to unlock more!
 patchouli.gui.lexicon.landing_info=(Placeholder landing text, define your own in your book json file!)
 patchouli.gui.lexicon.editor.info=This is an editor for Patchouli book entries. It's meant to be used for development or translation. There's no use for it if you're a player.$(br2)Please reference the $(l:https://github.com/Vazkii/Patchouli/wiki/Text-Formatting-101)Patchouli wiki$() for usable control codes.
 patchouli.gui.lexicon.index.info=An index of every chapter available in this book.$(br2)You may search through the index, or any other category, by simply typing in your query. A search bar will then appear to assist you.

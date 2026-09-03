@@ -1,9 +1,9 @@
 battery.hammercore:mode.armor=Armor
 battery.hammercore:mode.hotbar=Hotbar
-chat.hammercore:corrupt=Mod %s đã bị hỏng!
-chat.hammercore:newversion=Đã phát hiện phiên bản mới của mod %s: %s.
+chat.hammercore:corrupt=Mod %s has been corrupted!
+chat.hammercore:newversion=New version for mod %s detected: %s.
 chat.hammercore:newversion.clickdwn=Download
-chat.hammercore:newversion.clickdwn.detail=Nhấp để mở trang tải xuống chính thức của mod trong trình duyệt.
+chat.hammercore:newversion.clickdwn.detail=Click to open browser at mod's official download page.
 gamerules.hc_falldamagemult=Fall damage multiplier for all entities.
 gamerules.hc_flightspeed=Flight speed multiplier for all players.
 gamerules.hc_rainfall=Set to false to disable rainfall.

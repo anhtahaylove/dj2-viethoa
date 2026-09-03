@@ -22,7 +22,7 @@
   "gui.netvistool.cfg.enable_machine_nodes.info": "Khi bật, các node máy trong mạng sẽ được hiển thị. (Node máy là bất kỳ máy nào hỗ trợ kết nối AE)",
   "gui.netvistool.cfg.enable_p2p.info": "Khi bật, các liên kết giữa những P2P tunnel sẽ được hiển thị.",
   "gui.netvistool.button.colour": "Cấu Hình Màu",
-  "gui.netvistool.button.render": "Tùy chọn hiển thị",
+  "gui.netvistool.button.render": "Tùy chọn render",
   "gui.netvistool.cfg.cable_node_colour32": "Màu Dense Cable",
   "gui.netvistool.cfg.cable_node_colour8": "Màu Cable",
   "gui.netvistool.cfg.enable_cable_connections": "Hiện Kết Nối Cable",
