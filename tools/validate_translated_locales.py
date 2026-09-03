@@ -87,6 +87,25 @@ CONSISTENCY_EXEMPT = {
                                                # message. Shipped as English `Chat`;
                                                # the config-screen sense follows
                                                # ftbutilities.chat -> "Trò chuyện"
+    # --- Wave-18 batch. Homographs cleared by reading each key and its family.
+    "reccomplex.gui.random.weight.custom.short",  # one-letter ABBREVIATION of "Custom"
+                                                 # in a weight picker -> "T" for "Tùy
+                                                 # chỉnh"; botania.rank1's `C` is a
+                                                 # rank BADGE letter and stays English
+    "reccomplex.gui.random.weight.default.short",  # same picker, abbreviation of
+                                                 # "Default" -> "MĐ"; botania.rank0's
+                                                 # `D` is the lowest rank badge
+    "pe.pe_mercurial_eye.mode1",               # Mercurial Eye BUILD MODE "Creation"
+                                               # -> "Kiến tạo"; the Astral Sorcery
+                                               # collision is constellation Aevitas'
+                                               # proper trait name, kept English
+    "pe.pe_mercurial_eye.mode6",               # Mercurial Eye build mode "Pillar"
+                                               # -> "Trụ"; multipart's `Pillar` is a
+                                               # microblock EDGE SHAPE name
+    "knowledge.astralsorcery.fragment.exploration.crystalgrowth.bookmark",
+                                               # journal bookmark for crystal
+                                               # "Splitting" -> "Tách"; Tinkers'
+                                               # `Splitting` is a tool modifier name
     # Contextual UI/manual variants reviewed in the progression-priority batch.
     "info.cofh.holdShiftForDetails",                    # sentence-style UI capitalization
     "text.industrialforegoing.tooltip.hold_shift",      # same prompt, lower-case prose

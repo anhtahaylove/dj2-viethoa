@@ -34,3 +34,4 @@ gui.teslacorelib.work_energy.work_energy_buffer=Work Energy Buffer
 gui.teslacorelib.work_energy.work_energy_line_1=%s of %s
 gui.teslacorelib.work_energy.work_energy_line_2=max: %s / tick
 gui.teslacorelib.work_energy.work_energy_line_3=~ every %s ticks
+gui.teslacorelib.energy.statistic=%s (%s)

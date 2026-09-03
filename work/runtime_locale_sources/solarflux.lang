@@ -35,3 +35,4 @@ info.solarflux.shift=Shift
 info.solarflux.solar.panel.upgrade=Solar panel upgrade
 info.solarflux.sun.intensity=Light Level: %d%%
 info.solarflux.upgrades.installed=Upgrades
+tc.aspect.sol=The Sun

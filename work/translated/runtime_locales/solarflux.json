@@ -35,5 +35,6 @@
   "info.solarflux.shift": "Shift",
   "info.solarflux.solar.panel.upgrade": "Nâng cấp solar panel",
   "info.solarflux.sun.intensity": "Mức Sáng: %d%%",
-  "info.solarflux.upgrades.installed": "Nâng Cấp"
+  "info.solarflux.upgrades.installed": "Nâng Cấp",
+  "tc.aspect.sol": "Mặt Trời"
 }

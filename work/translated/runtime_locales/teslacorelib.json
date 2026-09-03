@@ -34,5 +34,6 @@
   "gui.teslacorelib.work_energy.work_energy_buffer": "Bộ đệm năng lượng làm việc",
   "gui.teslacorelib.work_energy.work_energy_line_1": "%s trên %s",
   "gui.teslacorelib.work_energy.work_energy_line_2": "tối đa: %s / tick",
-  "gui.teslacorelib.work_energy.work_energy_line_3": "~ mỗi %s tick"
+  "gui.teslacorelib.work_energy.work_energy_line_3": "~ mỗi %s tick",
+  "gui.teslacorelib.energy.statistic": "%s (%s)"
 }

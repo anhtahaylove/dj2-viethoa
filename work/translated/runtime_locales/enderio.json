@@ -1294,5 +1294,6 @@
   "modifier.enderport.name": "Vanishing",
   "tipped_arrow.effect.enderio.confusion": "Arrow of Confusion",
   "tipped_arrow.effect.enderio.floating": "Arrow of Rising",
-  "tipped_arrow.effect.enderio.withering": "Arrow of Decay"
+  "tipped_arrow.effect.enderio.withering": "Arrow of Decay",
+  "enderio.top.rf.header.avg": "§eVào/Ra:"
 }
