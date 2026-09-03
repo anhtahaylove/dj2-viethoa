@@ -54,6 +54,26 @@ class FinalAcceptanceTests(unittest.TestCase):
             f"disk, so it proves nothing about the shipped release: {drift}",
         )
 
+    def test_the_tracked_release_copy_matches_the_generated_one(self):
+        """`release/` carries the copy git tracks as shipped evidence.
+
+        build_final_acceptance.py only writes build/, so the tracked copy went
+        three waves without being refreshed and certified a pack that had been
+        rebuilt twice since. The build/ copy is untracked scratch, so the
+        tracked one is what anybody auditing the release actually reads.
+        """
+        generated = self.ACCEPTANCE.read_bytes()
+        shipped = (
+            ROOT / "release" / "DJ2_Viet_Hoa_2.23.4" / "FINAL_ACCEPTANCE_CURRENT.json"
+        ).read_bytes()
+        self.assertEqual(
+            hashlib.sha256(shipped).hexdigest(),
+            hashlib.sha256(generated).hexdigest(),
+            "the tracked acceptance record under release/ differs from the one "
+            "build_final_acceptance.py generated, so the shipped evidence "
+            "describes a different build than the artifacts beside it",
+        )
+
     def test_acceptance_describes_the_font_mode_actually_shipped(self):
         record = json.loads(self.ACCEPTANCE.read_text(encoding="utf-8"))
         claim = json.dumps(record.get("fixes", {}), ensure_ascii=False)
