@@ -449,5 +449,22 @@
   "reccomplex.worldscript.strucGen.simple.generators": "Generator",
   "reccomplex.worldscript.strucGen.simple.generators.tooltip": "Các ID công trình, phân tách bằng dấu phẩy<br>Ví dụ: §oTowerRed,TowerBlue,TowerYellow§r",
   "reccomplex.worldscript.strucGen.tooltip": "Tạo công trình từ các tùy chọn có trọng số.",
-  "reccomplex.mazerule.connect.end": "Kết thúc"
+  "reccomplex.mazerule.connect.end": "Kết thúc",
+  "commands.rcarea.get": "%s đến %s",
+  "commands.rcchunkpos.get": "[%d,%d]",
+  "commands.rccopy.suggest": "Sao chép",
+  "commands.rceval.result.false": "Sai",
+  "commands.rceval.result.true": "Đúng",
+  "commands.rcforget.forget": "Quên %s",
+  "commands.rcforget.success": "Đã quên %s!",
+  "commands.rclookup.reply.comment": "Ghi chú: %s",
+  "commands.rclookup.reply.noauthor": "§oKhông rõ§r",
+  "commands.rcpos.get": "[%d,%d,%d]",
+  "commands.rcpos.none": "§okhông đâu cả§r",
+  "commands.rcremember.success": "Đã ghi nhớ %s!",
+  "commands.rcsearch.lookup": "Tra cứu",
+  "commands.rcsize.get": "[%d,%d,%d]",
+  "commands.selectSet.get": "Đang chọn: %s",
+  "reccomplex.parameters.command": "chiều không gian",
+  "reccomplex.parameters.command.arguments": "chiều không gian"
 }

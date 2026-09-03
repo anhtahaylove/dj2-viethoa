@@ -67,5 +67,11 @@
   "recipe.hammercore:clickthrough": "Bấm Để Xem Công Thức",
   "recipe.hammercore:return": "Quay lại",
   "recipe.hammercore:type.smelting": "Nung chảy",
-  "recipe.hammercore:type.workbench": "Chế tạo"
+  "recipe.hammercore:type.workbench": "Chế tạo",
+  "options.hammercore:skintype.0": "Kế thừa",
+  "options.hammercore:skintype.1": "Classic",
+  "options.hammercore:skintype.2": "Slim",
+  "options.modelPart.hammercore:overrideCape": "Ghi đè Cape",
+  "options.modelPart.hammercore:renderSpecial": "Kết xuất đặc biệt",
+  "options.modelPart.hammercore:skinType": "Kiểu Skin"
 }

@@ -26,5 +26,6 @@
   "gui.entityFilter.button.players": "Người Chơi",
   "gui.entityFilter.button.whiteList": "Danh sách cho phép",
   "gui.entityFilter.customTip.txt": "Tên người chơi phải có dạng [player]:username",
-  "gui.entityFilter.filter.txt": "Bộ lọc"
+  "gui.entityFilter.filter.txt": "Bộ lọc",
+  "generic.configureRedstone.txt": "Cấu hình điều khiển Redstone"
 }

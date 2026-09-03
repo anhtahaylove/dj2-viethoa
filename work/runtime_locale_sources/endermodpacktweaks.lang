@@ -175,3 +175,4 @@ msg.endermodpacktweaks.update.newversion=-> Available Version: [ %s ]
 msg.endermodpacktweaks.update.oldversion=-> Current Version: [ %s ]
 msg.endermodpacktweaks.update.openurl=More Info (Opens Browser!)
 msg.endermodpacktweaks.update.title=An update is available for %s!
+cfg.endermodpacktweaks.minecraft.wither=Wither

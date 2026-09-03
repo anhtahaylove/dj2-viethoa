@@ -191,5 +191,6 @@
   "openblocks.misc.shape.pentagon": "Hình Ngũ Giác",
   "openblocks.misc.shape.planes": "Các Mặt Phẳng",
   "openblocks.misc.shape.sphere": "Hình Cầu",
-  "openblocks.misc.shape.triangle": "Hình Tam Giác"
+  "openblocks.misc.shape.triangle": "Hình Tam Giác",
+  "stat.openblocks.bricksDropped": "Số gạch đã rơi"
 }

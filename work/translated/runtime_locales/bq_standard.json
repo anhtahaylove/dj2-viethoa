@@ -35,5 +35,6 @@
   "bq_standard.tooltip.fixed_loot": "Bộ vật phẩm: %s",
   "bq_standard.tooltip.fixed_loot_size": "Chứa %s vật phẩm",
   "bq_standard.tooltip.loot_chest": "Độ hiếm: %s",
-  "bq_standard.tooltip.loot_table": "Bảng vật phẩm: %s"
+  "bq_standard.tooltip.loot_table": "Bảng vật phẩm: %s",
+  "bq_standard.reward.command": "Phần thưởng lệnh"
 }

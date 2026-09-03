@@ -350,5 +350,6 @@
   "thaumicaugmentation.text.terraformer_circle": "Hình tròn",
   "thaumicaugmentation.text.terraformer_circle_mode": "Hình dạng",
   "thaumicaugmentation.text.terraformer_radius": "Bán Kính",
-  "thaumicaugmentation.text.terraformer_square": "Hình vuông"
+  "thaumicaugmentation.text.terraformer_square": "Hình vuông",
+  "thaumicaugmentation.command.subcommands": "[thaumicaugmentation] Các lệnh con khả dụng:"
 }

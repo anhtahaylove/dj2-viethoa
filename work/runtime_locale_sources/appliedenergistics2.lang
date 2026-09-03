@@ -393,3 +393,4 @@ waila.appliedenergistics2.p2p_input_many_outputs=Linked (Input Side) - §4%d§r 
 waila.appliedenergistics2.p2p_input_one_output=Linked (Input Side) - 1 Output
 waila.appliedenergistics2.p2p_output_many_inputs=Linked (Output Side) - §2%d§r Inputs
 waila.appliedenergistics2.p2p_output_one_input=Linked (Output Side) - 1 Input
+stat.ae2.TurnedCranks=Turned Cranks

@@ -78,3 +78,4 @@ guide.entry.quantum_compression=Quantum Compression
 ec.interface.back=Back
 ec.interface.off=OFF
 ec.interface.on=ON
+ec.interface.config=Config

@@ -363,5 +363,7 @@
   "tile.enderutilities.portal_panel.tooltips": "- Dùng để kích hoạt Portal làm từ các khối Portal Frame|lf- Bảng điều khiển phải được đặt trên một khối Portal Frame|lf- Khung đó phải nối với vòng/viền khung portal thực tế|lf  qua một \"đường\" Portal Frame _liên tục_|lf  (không được có khoảng trống chéo)|lf- Tuy nhiên, bản thân viền khung portal có thể có \"góc chéo\"|lf- Dùng Link Crystal loại Location hoặc Portal để chọn đích đến",
   "tile.enderutilities.quick_stacker_advanced.tooltips": "- Phiên bản Quick Stacker cố định, có nhiều tùy chỉnh hơn",
   "tile.enderutilities.sound_block.tooltips": "- Đúng vậy, nó phát âm thanh...|lf- Chọn âm thanh bất kỳ trong danh sách đã đăng ký|lf- Có thể điều chỉnh cao độ và âm lượng",
-  "tile.enderutilities.tool_workstation.tooltips": "- Dùng để truy cập/thay đổi các module trong vật phẩm modular|lf- Cũng có thể đổi tên miễn phí cho mọi vật phẩm"
+  "tile.enderutilities.tool_workstation.tooltips": "- Dùng để truy cập/thay đổi các module trong vật phẩm modular|lf- Cũng có thể đổi tên miễn phí cho mọi vật phẩm",
+  "language.code": "en_US",
+  "language.region": "US"
 }

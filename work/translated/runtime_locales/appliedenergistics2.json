@@ -393,5 +393,6 @@
   "waila.appliedenergistics2.p2p_input_many_outputs": "Đã liên kết (Phía đầu vào) - §4%d§r đầu ra",
   "waila.appliedenergistics2.p2p_input_one_output": "Đã liên kết (Phía đầu vào) - 1 đầu ra",
   "waila.appliedenergistics2.p2p_output_many_inputs": "Đã liên kết (Phía đầu ra) - §2%d§r đầu vào",
-  "waila.appliedenergistics2.p2p_output_one_input": "Đã liên kết (Phía đầu ra) - 1 đầu vào"
+  "waila.appliedenergistics2.p2p_output_one_input": "Đã liên kết (Phía đầu ra) - 1 đầu vào",
+  "stat.ae2.TurnedCranks": "Số lần quay tay quay"
 }

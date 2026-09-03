@@ -629,3 +629,6 @@ key.journeymap.minimap_type=Change Map Type
 key.journeymap.toggle_waypoints=Toggle all Waypoints
 key.journeymap.zoom_in=Zoom In
 key.journeymap.zoom_out=Zoom Out
+jm.server.edit.option.all=All
+jm.server.edit.option.none=None
+jm.server.edit.option.op=Op

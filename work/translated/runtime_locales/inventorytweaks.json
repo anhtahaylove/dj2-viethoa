@@ -63,5 +63,21 @@
   "invtweaks.sort.inventory.error": "[2] Không sắp xếp được túi đồ",
   "invtweaks.sort.releaseitem.error": "[5] Không thả được vật phẩm",
   "invtweaks.loadconfig.invalidkeywords": "Phát hiện từ khóa không hợp lệ",
-  "invtweaks.propsfile.loaded": "Đã tải thuộc tính mod"
+  "invtweaks.propsfile.loaded": "Đã tải thuộc tính mod",
+  "invtweaks.settings.advanced.autoequip": "Tự động mặc giáp",
+  "invtweaks.settings.advanced.serverassist": "Di chuyển vật phẩm phía máy chủ",
+  "invtweaks.settings.advanced.sortonpickup": "Sắp xếp khi nhặt",
+  "invtweaks.settings.advanced.sortonpickup.soloonly": "Chỉ chơi đơn",
+  "invtweaks.settings.advanced.sounds": "Bật âm thanh",
+  "invtweaks.settings.autorefill": "Tự động nạp lại",
+  "invtweaks.settings.beforebreak": "Nạp lại thân thiện với sửa chữa",
+  "invtweaks.settings.chestbuttons": "Nút rương",
+  "invtweaks.settings.disableci": "Tắt CI",
+  "invtweaks.settings.exit": "Xong",
+  "invtweaks.settings.key": "Phím sắp xếp:",
+  "invtweaks.settings.middleclick": "Nhấp chuột giữa",
+  "invtweaks.settings.moreoptions": "Thêm tùy chọn...",
+  "invtweaks.settings.off": "TẮT",
+  "invtweaks.settings.on": "BẬT",
+  "invtweaks.settings.shortcuts": "Phím tắt"
 }

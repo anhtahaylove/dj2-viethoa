@@ -4,9 +4,9 @@
   "excluded_dev_only": 2772,
   "excluded_empty": 51,
   "in_scope": 27075,
-  "translated": 21932,
-  "identical_to_english": 2695,
-  "missing": 2448,
-  "coverage_pct": 81.0,
-  "pack_lang_keys": 29805
+  "translated": 22199,
+  "identical_to_english": 2866,
+  "missing": 2010,
+  "coverage_pct": 82.0,
+  "pack_lang_keys": 30243
 }

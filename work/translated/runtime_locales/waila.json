@@ -46,5 +46,22 @@
   "waila.keybind.recipe": "Hiện công thức",
   "waila.keybind.usage": "Hiện cách dùng",
   "waila.keybind.wailaconfig": "Màn hình cấu hình",
-  "waila.keybind.wailadisplay": "Hiện/Ẩn"
+  "waila.keybind.wailadisplay": "Hiện/Ẩn",
+  "cfg.theme.dark": "Tối",
+  "cfg.theme.vanilla": "Vanilla",
+  "option.capability.energyinfo": "Hiện dữ liệu năng lượng",
+  "option.capability.tankinfo": "Hiện dữ liệu bồn chứa",
+  "option.general.registry": "Hiện dữ liệu registry",
+  "option.general.showcrop": "Hiện độ lớn cây trồng",
+  "option.general.showents": "Hiện thực thể",
+  "option.general.showhp": "Hiện máu thực thể",
+  "option.vanilla.comparator": "Chế độ Comparator",
+  "option.vanilla.furnacedisplay": "Hiện tiến độ lò nung",
+  "option.vanilla.growthvalue": "Giá trị tăng trưởng",
+  "option.vanilla.jukebox": "Đĩa Jukebox",
+  "option.vanilla.leverstate": "Trạng thái Lever",
+  "option.vanilla.redstone": "Công suất Redstone",
+  "option.vanilla.repeater": "Độ trễ Repeater",
+  "option.vanilla.silverfish": "Ẩn Silverfish",
+  "option.vanilla.spawntype": "Loại Spawner"
 }

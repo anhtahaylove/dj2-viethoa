@@ -105,3 +105,7 @@ modifier.jetpackpancakehippos.name=Jetpack Pancake Hippos (%s)
 modifier.musicofthespheres.name=Music of the Spheres
 modifier.unnamed.name=He Who Must Not Be Named
 stat.battery_cell.energy.name=Energy Capacity: §6%s RF
+stat.battery_cell.name=Battery Cell
+stat.laser_medium.name=Laser Medium
+stat.laser_medium.power.name=Laser Power: %s
+stat.laser_medium.range.name=Range: %s

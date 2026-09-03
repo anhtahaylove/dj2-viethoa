@@ -78,5 +78,6 @@
   "tooltip.ec.ultimate_component": "Không gì tốt hơn ta...",
   "tooltip.ec.ultimate_ingot": "Quyền năng càng lớn, trách nhiệm càng...",
   "tooltip.ec.ultimate_nugget": "Từng bước nhỏ...",
-  "tooltip.ec.unlimited_input": "Đầu Vào Không Giới Hạn"
+  "tooltip.ec.unlimited_input": "Đầu Vào Không Giới Hạn",
+  "ec.interface.config": "Cấu hình"
 }

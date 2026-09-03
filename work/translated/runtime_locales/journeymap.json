@@ -629,5 +629,8 @@
   "key.journeymap.minimap_type": "Đổi Kiểu Bản Đồ",
   "key.journeymap.toggle_waypoints": "Bật/Tắt Toàn Bộ Waypoint",
   "key.journeymap.zoom_in": "Phóng To",
-  "key.journeymap.zoom_out": "Thu Nhỏ"
+  "key.journeymap.zoom_out": "Thu Nhỏ",
+  "jm.server.edit.option.all": "Tất cả",
+  "jm.server.edit.option.none": "Không có",
+  "jm.server.edit.option.op": "Op"
 }

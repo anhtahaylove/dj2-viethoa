@@ -458,5 +458,10 @@
   "ritual.bloodmagic.willConfig.void": "Nghi lễ không còn dùng Demon Will nữa",
   "ritual.bloodmagic.zephyrRitual": "Call of the Zephyr",
   "death.attack.ritual_damage": "%1$s đã bị hiến tế cho một nghi lễ.",
-  "death.attack.ritual_damage.player": "%2$s đã hiến tế %1$s cho một nghi lễ."
+  "death.attack.ritual_damage.player": "%2$s đã hiến tế %1$s cho một nghi lễ.",
+  "option.bloodmagic.array": "Alchemy Array",
+  "option.bloodmagic.bloodAltar": "Blood Altar",
+  "option.bloodmagic.bypassSneak": "Bỏ qua khi lén đi",
+  "option.bloodmagic.ritualController": "Ritual Stones",
+  "option.bloodmagic.teleposer": "Teleposer"
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T11:17:29",
+  "generated": "2026-09-03T11:42:44",
   "tests": "run `python -m unittest discover -s tools -p \"test_*.py\"`",
   "verify_release": "python tools/verify_release.py",
   "verify_server_delivery": "python tools/verify_server_delivery.py",
@@ -14,22 +14,22 @@
   },
   "artifacts": {
     "resource_pack": {
-      "bytes": 1922615,
+      "bytes": 1927729,
       "entries": 833,
-      "sha1": "75223ebfa0573ff41b473f5f2a361eea9adc872f",
-      "sha256": "6c203b9d1ea04ec4cbf544cb5a312ab1a63ba8a67aadb8658e1d85f6aedc0c13"
+      "sha1": "3965e98de94298ebb80037bbb1dd12ac79167894",
+      "sha256": "eb8e987de05f0467ab649a403571e8abc19173b6f6815d4a99ad658e04a6ae21"
     },
     "client_bundle": {
-      "bytes": 1854627,
+      "bytes": 1859693,
       "entries": 42,
-      "sha1": "ea5846e2351fedb9a44cafdb2ce95bff1feb676d",
-      "sha256": "5e35ca93dd823f275c368f843a21c01561addb6cc5aee1edbf5b3446757ebe81"
+      "sha1": "db0a6f3a1af8692e767403cf0411cb5af2127ced",
+      "sha256": "9b4b63e7a78f27af9debeb7f65a2acb95aa13f2d92c7c54268b3b63b27060f5b"
     },
     "server_overlay": {
-      "bytes": 1830345,
+      "bytes": 1835408,
       "entries": 7,
-      "sha1": "c30a42c3fbf0e552c8411f230b799cfcf3b59968",
-      "sha256": "4b9002f0bedb5044534e854c2543e5f80142e5b02a4da6c8fcf0681e9d23f511"
+      "sha1": "d20370ab7aaafded6f23b23ad590c706b7370c94",
+      "sha256": "241739eb348a482796603bad2851cb979955c1768d6df6d7265ffd5829c725bc"
     }
   }
 }

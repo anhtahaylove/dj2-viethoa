@@ -175,5 +175,6 @@
   "msg.endermodpacktweaks.update.newversion": "-> Phiên Bản Có Sẵn: [ %s ]",
   "msg.endermodpacktweaks.update.oldversion": "-> Phiên Bản Hiện Tại: [ %s ]",
   "msg.endermodpacktweaks.update.openurl": "Thêm Thông Tin (Mở Trình Duyệt!)",
-  "msg.endermodpacktweaks.update.title": "Đã có bản cập nhật cho %s!"
+  "msg.endermodpacktweaks.update.title": "Đã có bản cập nhật cho %s!",
+  "cfg.endermodpacktweaks.minecraft.wither": "Wither"
 }

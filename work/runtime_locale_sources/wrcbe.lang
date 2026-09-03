@@ -75,3 +75,4 @@ wrcbe.param.set.usage=Usage: freq set [public | shared | private] [value]
 wrcbe.param.set.usage1=Eg. freq set public. Sets frequencies 1 to [value] as public
 wrcbe.param.set.usage2=Eg. freq set shared. Sets frequencies [public+1] to [value] as shared
 wrcbe.param.set.usage3=Eg. freq set private. Gives each player [value] private frequencies
+wrcbe.command.usage1=params: %s
