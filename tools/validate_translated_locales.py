@@ -72,6 +72,11 @@ CONSISTENCY_EXEMPT = {
                                               # EVERY key holding it is listed. integrateddynamics
                                               # and thaumcraftfix keep `World` as a
                                               # data-type / registry word
+    "jm.waypoint.chat",                        # JourneyMap waypoint ORIGIN, i.e. the
+                                               # waypoint was created from a chat
+                                               # message. Shipped as English `Chat`;
+                                               # the config-screen sense follows
+                                               # ftbutilities.chat -> "Trò chuyện"
     # Contextual UI/manual variants reviewed in the progression-priority batch.
     "info.cofh.holdShiftForDetails",                    # sentence-style UI capitalization
     "text.industrialforegoing.tooltip.hold_shift",      # same prompt, lower-case prose
