@@ -666,12 +666,6 @@
   "tier": "T2"
  },
  {
-  "namespace": "aether_legacy",
-  "key": "key.aether.category",
-  "en": "Aether",
-  "tier": "T2"
- },
- {
   "namespace": "appliedenergistics2",
   "key": "gui.appliedenergistics2.CellWorkbench",
   "en": "Cell Workbench",
@@ -1194,18 +1188,6 @@
   "tier": "T2"
  },
  {
-  "namespace": "ftbutilities",
-  "key": "key.ftbutilities.trash",
-  "en": "Trash Can",
-  "tier": "T2"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "sidebar_button.ftbutilities.trash_can",
-  "en": "Trash Can",
-  "tier": "T2"
- },
- {
   "namespace": "galacticraftcore",
   "key": "container.cargoloader.name",
   "en": "Cargo Loader",
@@ -1507,12 +1489,6 @@
  },
  {
   "namespace": "reccomplex",
-  "key": "reccomplex.mazerule.connect.end",
-  "en": "End",
-  "tier": "T2"
- },
- {
-  "namespace": "reccomplex",
   "key": "reccomplex.transformer.pillar",
   "en": "Pillar",
   "tier": "T2"
@@ -1521,12 +1497,6 @@
   "namespace": "roots",
   "key": "container.roots.soil.name",
   "en": "Elemental Soil",
-  "tier": "T2"
- },
- {
-  "namespace": "roots",
-  "key": "roots.keybinds.group",
-  "en": "Roots",
   "tier": "T2"
  },
  {

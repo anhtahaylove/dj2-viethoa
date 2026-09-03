@@ -102,3 +102,5 @@ team_config.ftbutilities.blocks_interact=Required Level for Block Interactions
 team_config.ftbutilities.explosions=Enable Explosions in Claimed Chunks
 team_config.ftbutilities.fake_players=Allow Fake Players to Interact With Blocks
 team_config.ftbutilities.use_items=Required Level for Using Items
+key.ftbutilities.trash=Trash Can
+sidebar_button.ftbutilities.trash_can=Trash Can

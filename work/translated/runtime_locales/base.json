@@ -13,8 +13,8 @@
   "base.block_side.opposite": "Mặt Đối Diện",
   "base.info.empty": "Trống",
   "base.info.nofluid": "Không có chất lỏng",
-  "base.part.bolt": "%s Tia Sét",
-  "base.part.round": "%s Làm Tròn",
+  "base.part.bolt": "%s Bolt",
+  "base.part.round": "%s Round",
   "base.sidetype.input": "Đầu vào",
   "base.sidetype.output": "Đầu ra"
 }

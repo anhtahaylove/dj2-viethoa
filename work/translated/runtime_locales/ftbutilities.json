@@ -102,5 +102,7 @@
   "team_config.ftbutilities.blocks_interact": "Cấp Độ Cần Có Để Tương Tác Với Block",
   "team_config.ftbutilities.explosions": "Bật Nổ Trong Chunk Đã Chiếm",
   "team_config.ftbutilities.fake_players": "Cho Phép Fake Player Tương Tác Với Block",
-  "team_config.ftbutilities.use_items": "Cấp Độ Cần Có Để Dùng Vật Phẩm"
+  "team_config.ftbutilities.use_items": "Cấp Độ Cần Có Để Dùng Vật Phẩm",
+  "key.ftbutilities.trash": "Trash Can",
+  "sidebar_button.ftbutilities.trash_can": "Trash Can"
 }

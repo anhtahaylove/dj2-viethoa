@@ -72,6 +72,11 @@ CONSISTENCY_EXEMPT = {
                                               # EVERY key holding it is listed. integrateddynamics
                                               # and thaumcraftfix keep `World` as a
                                               # data-type / registry word
+    "reccomplex.mazerule.connect.end",         # maze-rule path endpoint, the pair of
+                                               # reccomplex.mazerule.connect.start ->
+                                               # "Bắt đầu". The colliding keys name
+                                               # THE END dimension, a proper noun that
+                                               # stays English
     "jm.waypoint.chat",                        # JourneyMap waypoint ORIGIN, i.e. the
                                                # waypoint was created from a chat
                                                # message. Shipped as English `Chat`;

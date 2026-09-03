@@ -387,5 +387,6 @@
   "tab.aether_weapons": "Vũ khí Aether",
   "title.aether_legacy.slider.name": "the Slider",
   "title.aether_legacy.sun_spirit.name": "Sun Spirit",
-  "title.aether_legacy.valkyrie_queen.name": "Valkyrie Queen"
+  "title.aether_legacy.valkyrie_queen.name": "Valkyrie Queen",
+  "key.aether.category": "Aether"
 }

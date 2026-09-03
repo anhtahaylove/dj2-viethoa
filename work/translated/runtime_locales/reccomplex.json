@@ -448,5 +448,6 @@
   "reccomplex.worldscript.strucGen.rotation.random": "Ngẫu nhiên (nếu có thể xoay)",
   "reccomplex.worldscript.strucGen.simple.generators": "Generator",
   "reccomplex.worldscript.strucGen.simple.generators.tooltip": "Các ID công trình, phân tách bằng dấu phẩy<br>Ví dụ: §oTowerRed,TowerBlue,TowerYellow§r",
-  "reccomplex.worldscript.strucGen.tooltip": "Tạo công trình từ các tùy chọn có trọng số."
+  "reccomplex.worldscript.strucGen.tooltip": "Tạo công trình từ các tùy chọn có trọng số.",
+  "reccomplex.mazerule.connect.end": "Kết thúc"
 }
