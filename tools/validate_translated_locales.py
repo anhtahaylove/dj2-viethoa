@@ -424,6 +424,13 @@ CONSISTENCY_EXEMPT = {
     "necronomicon.index",
     "necronomicon.normal",
     "necronomicon.information.entities",
+    # Void: a homograph split, not a wording drift. Mystical World's biome tag
+    # and Storage Drawers' WAILA line name the empty-space noun ("Hư không"),
+    # while this Roots spell modifier is the VERB -- its own description says
+    # drops are "destroyed and their drops voided", so it follows the same
+    # family's `shatter_void` = "Voiding" -> "Hủy Vật Phẩm". One shared wording
+    # would make either the biome or the spell read wrong.
+    "roots.modifiers.modifiers.voiding_scythe",
 }
 
 

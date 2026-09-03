@@ -125,6 +125,70 @@ def add_lang_family(stage, report, all_errors, source_dir, translated_dir, to_na
             merge_namespace_entries(stage, namespace, target)
 
 
+def lang_family_specs():
+    """Every translated .lang family the build ships, in merge order.
+
+    Extracted so the cross-store conflict gate can resolve each store to the
+    namespace it actually merges into. A key that appears in two stores is only
+    a real conflict when both stores feed the SAME namespace; the p2/books
+    prefixes deliberately map different stems onto one namespace, and separate
+    namespaces never collide at merge time.
+    """
+    return [
+        {
+            "source_dir": SOURCE,
+            "translated_dir": TRANS,
+            "to_namespace": lambda stem: stem.removeprefix("p2_"),
+            "include_stems": {
+                "requious_frakto",
+                "p2_chisel",
+                "p2_groovyscript",
+                "p2_roots",
+                "p2_ftbutilities",
+                "p2_ftblib",
+                "p2_ftbbackups",
+                "p2_jei",
+                "p2_jeiutilities",
+                "p2_jeresources",
+                "p2_enderutilities",
+                "p2_actuallyadditions",
+                "p2_extrautils2",
+            },
+        },
+        {
+            "source_dir": SOURCE / "books",
+            "translated_dir": TRANS,
+            "to_namespace": lambda stem: stem.removeprefix("books_"),
+            # `books_bloodmagic` is excluded: its 274 guide keys are registered
+            # by the JAR under `bloodmagicguide`, never under `bloodmagic`.
+            # Emitting them here produced a second, dead copy of every entry
+            # that the game never read, and the two copies had already drifted
+            # apart (36 keys, including 12 real tab characters MC 1.12 cannot
+            # draw). The single surviving copy lives in
+            # work/translated/runtime_locales/.
+            "include_stems": {p.stem for p in (SOURCE / "books").glob("*.lang")} - {"books_bloodmagic"},
+        },
+        {
+            "source_dir": SOURCE / "tooltips",
+            "translated_dir": TRANS / "tooltips",
+            "to_namespace": lambda stem: stem,
+            "include_stems": None,
+        },
+        {
+            "source_dir": SOURCE / "advancements",
+            "translated_dir": TRANS / "advancements",
+            "to_namespace": lambda stem: stem,
+            "include_stems": None,
+        },
+        {
+            "source_dir": ROOT / "work" / "runtime_locale_sources",
+            "translated_dir": TRANS / "runtime_locales",
+            "to_namespace": lambda stem: stem,
+            "include_stems": None,
+        },
+    ]
+
+
 def apply_runtime_locale_casing(stage):
     """Rename runtime vi_vn locales to the exact casing used by each active JAR.
 
@@ -260,69 +324,20 @@ def build(output=None, stage=None):
         all_errors.extend((spec["source"], error) for error in errors)
         write_dual_locale(stage, spec["namespace"], spec["english_locale"], target)
     add_enchantment_descriptions(stage, report, all_errors)
-    add_lang_family(
-        stage,
-        report,
-        all_errors,
-        SOURCE,
-        TRANS,
-        lambda stem: stem.removeprefix("p2_"),
-        include_stems={
-            "requious_frakto",
-            "p2_chisel",
-            "p2_groovyscript",
-            "p2_roots",
-            "p2_ftbutilities",
-            "p2_ftblib",
-            "p2_ftbbackups",
-            "p2_jei",
-            "p2_jeiutilities",
-            "p2_jeresources",
-            "p2_enderutilities",
-            "p2_actuallyadditions",
-            "p2_extrautils2",
-        },
-    )
-    add_patchouli_metadata(stage, report, all_errors)
-    add_lang_family(
-        stage,
-        report,
-        all_errors,
-        SOURCE / "books",
-        TRANS,
-        lambda stem: stem.removeprefix("books_"),
-        # `books_bloodmagic` is excluded: its 274 guide keys are registered by
-        # the JAR under `bloodmagicguide`, never under `bloodmagic`. Emitting
-        # them here produced a second, dead copy of every entry that the game
-        # never read, and the two copies had already drifted apart (36 keys,
-        # including 12 real tab characters MC 1.12 cannot draw). The single
-        # surviving copy lives in work/translated/runtime_locales/.
-        include_stems={p.stem for p in (SOURCE / "books").glob("*.lang")} - {"books_bloodmagic"},
-    )
-    add_lang_family(
-        stage,
-        report,
-        all_errors,
-        SOURCE / "tooltips",
-        TRANS / "tooltips",
-        lambda stem: stem,
-    )
-    add_lang_family(
-        stage,
-        report,
-        all_errors,
-        SOURCE / "advancements",
-        TRANS / "advancements",
-        lambda stem: stem,
-    )
-    add_lang_family(
-        stage,
-        report,
-        all_errors,
-        ROOT / "work" / "runtime_locale_sources",
-        TRANS / "runtime_locales",
-        lambda stem: stem,
-    )
+    for spec_index, spec in enumerate(lang_family_specs()):
+        add_lang_family(
+            stage,
+            report,
+            all_errors,
+            spec["source_dir"],
+            spec["translated_dir"],
+            spec["to_namespace"],
+            include_stems=spec["include_stems"],
+        )
+        # Patchouli's book metadata must land between the p2 family and the
+        # books family, exactly as before this loop was extracted.
+        if spec_index == 0:
+            add_patchouli_metadata(stage, report, all_errors)
     # Apply source-JAR casing only after every locale family has been merged;
     # otherwise a later family can recreate vi_vn beside vi_VN on Windows.
     add_advancement_literals(stage, report)

@@ -1512,12 +1512,6 @@
   "tier": "T2"
  },
  {
-  "namespace": "roots",
-  "key": "roots.modifiers.modifiers.voiding_scythe",
-  "en": "Void",
-  "tier": "T2"
- },
- {
   "namespace": "tconstruct",
   "key": "gui.craftingstation.name",
   "en": "Crafting Station",

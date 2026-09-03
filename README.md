@@ -10,28 +10,34 @@ script trong `tools/`.
 
 | Chỉ số | Giá trị |
 |---|---|
-| Coverage | **83,5%** (22.611 / 27.075 khóa trong phạm vi) |
-| Backlog T2 / T3 / chưa phân tier | 271 / 189 / 563 |
+| Coverage | **83,5%** (22.612 / 27.075 khóa trong phạm vi) |
+| Backlog T2 / T3 / chưa phân tier | 270 / 189 / 563 |
+| Nợ dịch thật trong backlog | **0** (cả ba tier) |
 | Validator | 0 lỗi |
-| pytest | 146 passed |
+| pytest | 176 passed |
 | `verify_release.py` | exit 0 |
 
 Backlog không phải là "nợ dịch" thuần: phần lớn dòng T2 còn lại là tên chòm sao
 Astral Sorcery, tên nghi lễ và phép AbyssalCraft/Blood Magic — những chuỗi **cố
 ý giữ English**. Con số coverage vì vậy sẽ không bao giờ chạm 100%.
 
-Riêng T2 đã cạn trên thực tế: trong 271 dòng còn lại chỉ có 2 dòng là ký hiệu
-thuần (`%s`, `%s/%s`), phần còn lại là registry mirror, tên riêng, protected
-term hoặc ký hiệu. Số này sẽ không giảm thêm.
+Wave 20 đã rà hết cả ba tier bằng `tools/triage_other_tier.py`: **1.022 dòng
+còn lại đều cố ý giữ English, không còn nợ dịch nào**. Phân bố lý do:
 
-Tier `other` ban đầu có 991 dòng, đã được phân loại bằng
-`tools/triage_other_tier.py`: **547 dòng cố ý giữ English** (tên item/block,
-khuôn tên `%s Bolt` của GregTech, tên nghi lễ/phép/brew, tên biome, cú pháp
-lệnh, shader id, frame animation từng ký tự) và **444 dòng là nợ dịch thật**.
-Wave 19 đã dịch xong 428 dòng trong số đó (16 dòng còn lại là chữ cái la bàn
-`N/S/E/W`, ký hiệu đơn vị `FE`/`CF` và khuôn `%s: %s` — giữ English), đưa tier
-`other` xuống còn **563 dòng**. Chạy
-`python tools/triage_other_tier.py --list <namespace>` để xem chi tiết từng mod.
+| Lý do giữ English | T2 | T3 | `other` |
+|---|---|---|---|
+| Protected term / tên item, block, registry | 206 | — | 265 |
+| Tên riêng (chòm sao, nghi lễ, phép, brew, biome, potion, entity) | 41 | — | 131 |
+| Cú pháp lệnh người chơi phải gõ | — | 98 | 12 |
+| Tên mod bên thứ ba (`cfg.universaltweaks.*`) | — | 91 | — |
+| Khuôn format, ký hiệu, mã màu, đơn vị, notation | 12 | — | 61 |
+| Id nội bộ (shader, loot table, structure, transformer, style) | 1 | — | 46 |
+| Khuôn tên item (`%s Bolt`, GregTech) | — | — | 39 |
+| Tiêu đề màn hình lặp lại tên registry | 10 | — | 9 |
+| **Tổng** | **270** | **189** | **563** |
+
+Chạy `python tools/triage_other_tier.py --tier <T2\|T3\|other>` để xem thống kê,
+thêm `--list <namespace>` để xem chi tiết từng mod.
 
 ## Cấu trúc thư mục
 
@@ -50,8 +56,8 @@ Wave 19 đã dịch xong 428 dòng trong số đó (16 dòng còn lại là ch�
 |---|---|
 | `tools/restore_english_sources.py` | Dựng lại nửa English của `work/runtime_locale_sources/` từ JAR và `resources/`. Chạy `--write` để ghi, không tham số để xem báo cáo. |
 | `tools/check_button_widths.py` | Đo bề rộng pixel chuỗi Việt bằng `glyph_sizes.bin` thật, so với bản English và mẫu tham chiếu, phát hiện nguy cơ tràn nút. |
-| `tools/triage_other_tier.py` | Phân loại tier `other` thành "cố ý giữ English" và "nợ dịch thật", kèm thống kê theo namespace. |
-| `tools/report_cross_store_conflicts.py` | Tìm khoá trùng giữa các family (`runtime_locales`, `books_*`, `p2_*`) có bản dịch khác nhau. |
+| `tools/triage_other_tier.py` | Phân loại backlog T2/T3/`other` thành "cố ý giữ English" và "nợ dịch thật", kèm thống kê lý do và namespace (`--tier`, `--list`). |
+| `tools/report_cross_store_conflicts.py` | Tìm khoá mà hai store **cùng nạp vào một namespace** lại có bản dịch khác nhau (exit 1 nếu có); `--all` in cả các cặp vô hại. |
 | `tools/test_extract_runtime_sources.py` | Ngoài test harvest, còn có `EnglishSourcePurityTests` chống việc `work/runtime_locale_sources/` bị nhiễm tiếng Việt trở lại. |
 
 ## Artifact phát hành hiện hành
@@ -160,7 +166,8 @@ pytest trước khi commit.
 | `f7dabd4` | Sửa tên đơn vị Quintillion trong EMC postfix | 82,4% |
 | `41ed0a0` | Cập nhật README theo wave 18 | 82,4% |
 | `d73eb7c` | Khôi phục nguồn English thật, sửa các lỗi bị che | 82,4% |
-| wave 19 | 428 nhãn `other` thuộc 60 namespace, dọn xung đột cross-family | 83,5% |
+| `d56786e` | 428 nhãn `other` thuộc 60 namespace, dọn xung đột cross-family | 83,5% |
+| wave 20 | Rà hết T2/T3/`other`: 0 nợ dịch còn lại, thêm pytest gate xung đột | 83,5% |
 
 Vài lỗi đáng nhớ mà các gate đã bắt được:
 
@@ -204,6 +211,36 @@ Vài lỗi đáng nhớ mà các gate đã bắt được:
   bản dịch trong file chết lại **đúng convention hơn** bản đang ship (sentence
   case so với Title Case), nên trước khi xoá phải đối chiếu từng khoá — 20 nhãn
   `thermalexpansion` đã được sửa theo tiền lệ corpus rồi mới xoá file.
+- **"Xung đột" giữa hai store không cùng namespace là báo giả** (wave 20):
+  `report_cross_store_conflicts.py` từng so mọi cặp store, nên 7.354 khoá trùng
+  giá trị và 28 khoá ở namespace khác nhau đều bị đếm là xung đột. Build merge
+  theo **từng namespace**, nên chỉ khi hai store cùng nạp vào một namespace mà
+  giá trị khác nhau thì mới có khoá bị ghi đè. Đã viết lại reporter dùng chung
+  `lang_family_specs()` với `build_pack.py` (một nguồn sự thật cho ánh xạ
+  store → namespace) và thêm `tools/test_report_cross_store_conflicts.py` để
+  chặn hồi quy; gate được kiểm bằng mutation: chèn một giá trị khác vào
+  `p2_roots.json` làm pytest exit 1, khôi phục thì xanh lại.
+- **Regex triage bỏ sót placeholder có số** (wave 20): `COMMAND` chỉ khớp
+  `<abc>`/`[abc]` nên `<x1> <y1> [dim1]` và `[params...]` bị coi là nợ dịch, dù
+  đó là cú pháp lệnh người chơi phải gõ. Sau khi mở rộng regex và bổ sung các
+  quy tắc suy ra từ corpus (giá trị là protected term của **bất kỳ** mod nào,
+  tiêu đề màn hình lặp lại tên registry cùng namespace, tên mod bên thứ ba,
+  khuôn format không còn chữ nào để dịch), backlog 1.022 dòng còn lại **không
+  còn nợ dịch nào**. Mọi quy tắc mới đều được kiểm ngược trên toàn corpus đã
+  ship để chắc chắn không có false positive (0 dòng đã dịch bị quy tắc mới
+  nhận nhầm là "giữ English").
+- **`OK` không dịch, nhưng `Confirm` thì dịch** (wave 20): hai khoá
+  `generic.ok.txt` và `singles.buildinggadgets.confirm` có giá trị English là
+  `OK`/`Ok`. Corpus cho thấy `Cancel` → `Hủy` và `Confirm` → `Xác Nhận`, nhưng
+  `OK` được giữ nguyên ở **mọi** vị trí đã ship (`actuallyadditions`, `waila`).
+  Bài học: quyết định theo tiền lệ của **chính chuỗi đó**, không suy từ chuỗi
+  cùng nhóm chức năng.
+- **`Void` là hai từ khác nhau** (wave 20): `roots.modifiers.modifiers.shatter_void`
+  = `Voiding` (động từ, "phá huỷ vật phẩm" → `Hủy Vật Phẩm`) còn
+  `forge.biome.tags.void.name` = `Void` (danh từ, "Hư không"). Khi dịch
+  `voiding_scythe` theo tiền lệ động từ, validator consistency báo lệch thuật
+  ngữ. Đây là homograph thật nên đã thêm `CONSISTENCY_EXEMPT` đúng khoá, và
+  mutation-test xác nhận exemption không che lệch ở các khoá `Void` khác.
 
 ## Build và kiểm định
 

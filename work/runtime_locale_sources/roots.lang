@@ -591,6 +591,7 @@ roots.modifiers.modifiers.unholy_vanquisher=Unholy Vanquisher
 roots.modifiers.modifiers.unholy_vanquisher.desc=Does increased damage to the undead.
 roots.modifiers.modifiers.verticality=Verticality
 roots.modifiers.modifiers.verticality.desc=Shoots you straight up, regardless of where you're looking.
+roots.modifiers.modifiers.voiding_scythe=Void
 roots.modifiers.modifiers.voiding_scythe.desc=Items that are broken by this spell are instead destroyed and their drops voided.
 roots.modifiers.modifiers.waterfall=Waterfall
 roots.modifiers.modifiers.waterfall.desc=Deals water damage to affected creatures.
