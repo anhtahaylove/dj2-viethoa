@@ -1,0 +1,25 @@
+{
+  "name": "Gramary",
+  "icon": "roots:gramary",
+  "category": "crafting_armor_tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:gramary",
+      "text": "Không chỉ là vỏ cây và thảo mộc buộc lại bằng dây, đây còn là kho chứa ma thuật dùng khi imbue để thêm phép mới vào thư viện của bạn.$(br2)$(warning) Bạn cần ít nhất một Gramary để tiếp tục tiến triển trong Roots."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/introduction",
+        "spells/introduction2",
+        "spells/library",
+        "spells/modifiers",
+        "crafting/imbuer"
+      ]
+    }
+  ]
+}

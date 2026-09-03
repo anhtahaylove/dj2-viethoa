@@ -1,0 +1,14 @@
+setIcon(<rftoolsdim:empty_dimension_tab>)
+setTitle("Kẻ du hành Dimension")
+setDescription("Chế tạo Empty Dimension Tab để có thể tạo Dimension tùy chỉnh bằng RFTools!")
+
+addParent("triumph:dj2/root")
+setPos(71,284)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasEmptyDimensionTab", "minecraft:inventory_changed")
+criteria.addItem(<rftoolsdim:empty_dimension_tab>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:23_dimension_hopper")

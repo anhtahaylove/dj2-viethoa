@@ -1,0 +1,37 @@
+{
+  "name": "Copper",
+  "icon": "mysticalworld:copper_ore",
+  "category": "ores",
+  "flags": "roots:copper",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:copper_ore",
+      "text": "Copper Ore xuất hiện phổ biến khắp thế giới ở nhiều độ cao khác nhau. Có thể nung quặng thành Copper Ingot để chế tạo công cụ."
+    },
+    {
+      "type": "smelting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:copper_ore",
+      "title": "Copper Ingots",
+      "text": "Công cụ và vũ khí bằng Copper có cấp khai thác tương đương sắt."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:copper_axe",
+      "recipe2": "mysticalworld:copper_hoe",
+      "title": "Copper Tools"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:copper_knife",
+      "recipe2": "mysticalworld:copper_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:copper_shovel",
+      "recipe2": "mysticalworld:copper_sword"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lord Beelzebub",
+  "category": "greater_demons",
+  "icon": "minecraft:rotten_flesh",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ngươi có biết mình đã làm gì không? Ngươi cố tìm hiểu bọn ta trong vô minh, nhưng chỉ hoài công."
+    },
+    {
+      "type": "text",
+      "text": "Sẽ đến lúc ta tìm đến ngươi. Ngươi sẽ chứng kiến quyền năng của ta. Và khi biết danh ta, ngươi sẽ khiếp sợ bỏ chạy. Bầy tôi của ta sẽ phủ tối bầu trời."
+    },
+    {
+      "type": "text",
+      "text": "Một sinh vật giống ruồi, bị nghiền nát và mang khuôn mặt người, nằm bẹp trên trang giấy này. Nó còn bốc mùi kinh khủng."
+    },
+    {
+      "type": "text",
+      "text": "Ngươi chẳng thể làm gì để ngăn cản ta. Moloch, Lilith, Herne, Leonard, Baphomet—tất cả chỉ là những hình bóng mờ nhạt trong đại cục. Ta là thứ ẩn sâu bên dưới."
+    }
+  ]
+}

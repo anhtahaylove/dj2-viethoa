@@ -1,0 +1,7 @@
+{
+  "name": "Cơ chế nghi lễ",
+  "sortnum": 3,
+  "parent": "rituals",
+  "description": "Phần này trình bày chi tiết về các nghi lễ và những thành phần được sử dụng trong đó.",
+  "icon": "roots:chiseled_runestone"
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "path": "assets/thermalfoundation/lang/en_US.lang"
+    }
+  ]
+}

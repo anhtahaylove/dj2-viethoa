@@ -1,0 +1,537 @@
+### LO: astralsorcery_03
+perk.astralsorcery.ds_inc_potion_duration.name	Increased PotionEffect Duration
+perk.astralsorcery.dsc_gem_path.name	More Perk Effect
+perk.astralsorcery.epi_armara.desc.1	Other 'Epiphany' nodes may be unlocked without
+perk.astralsorcery.epi_armara.desc.2	requiring a connection to the existing perks
+perk.astralsorcery.epi_evorsio.desc.1	Other 'Epiphany' nodes may be unlocked without
+perk.astralsorcery.epi_evorsio.desc.2	requiring a connection to the existing perks
+perk.astralsorcery.epi_vicio.desc.1	Other 'Epiphany' nodes may be unlocked without
+perk.astralsorcery.epi_vicio.desc.2	requiring a connection to the existing perks
+perk.astralsorcery.ev_gem_path.name	More Perk Effect
+perk.astralsorcery.ev_inc_potion_duration.name	Increased PotionEffect Duration
+perk.astralsorcery.evorsio.desc	Gain experience by breaking blocks
+perk.astralsorcery.flight_life_armor.name	Increased Movement Speed
+perk.astralsorcery.flight_ms_dodge.name	Increased Dodge Chance
+perk.astralsorcery.gelu_inc_perkexp.name	Increased Perk Experience
+perk.astralsorcery.inc_ats_ailm.name	Increased Attack Speed
+perk.astralsorcery.inc_cull_crit.name	Increased Critical Hit Chance
+perk.astralsorcery.inc_cull_ms.name	Increased Movement Speed
+perk.astralsorcery.inc_leech_vamp.name	Added Life Leech
+perk.astralsorcery.inc_life_rec.name	Increased Life Recovery
+perk.astralsorcery.inc_mine_perk.name	Increased Mining Speed
+perk.astralsorcery.key_add_fortune.desc	+1 level of Fortune.
+perk.astralsorcery.key_ailments.desc	Adds a chance to poison, slow or ignite enemies on it.
+perk.astralsorcery.key_arc_chains.desc	Lightning Arc bolts chain 1 additional time
+perk.astralsorcery.key_arc_chains_major.desc	Lightning Arc bolts chain 2 additional times
+perk.astralsorcery.key_armor_life_conversion.desc.1	Convert all increases and decreases of armor to life.
+perk.astralsorcery.key_armor_life_conversion.desc.2	You have no armor.
+perk.astralsorcery.key_armor_life_conversion.name	Bastion of Flesh
+perk.astralsorcery.key_bleed.desc.1	Adds a chance that mobs bleed after being hit
+perk.astralsorcery.key_bleed.desc.2	dealing damage to them for the bleed duration
+perk.astralsorcery.key_bleed_inc_duration.name	Increased Bleed Duration
+perk.astralsorcery.key_bleed_inc_duration_greater.name	Increased Bleed Duration
+perk.astralsorcery.key_chain_mining.desc.1	Breaking a block has a chance of breaking up to 4
+perk.astralsorcery.key_chain_mining.desc.2	nearby blocks of the same type.
+perk.astralsorcery.key_chain_mining_chance.desc	+15%% added chance of Chained Mining
+perk.astralsorcery.key_chain_mining_chance.name	Added Chained Mining Chance
+perk.astralsorcery.key_chain_mining_chance_greater.desc	+100%% chance of Chained Mining
+perk.astralsorcery.key_chain_mining_chance_greater.name	Increased Chained Mining Chance
+perk.astralsorcery.key_chain_mining_double.desc.1	+50%% added chance of triggering additional
+perk.astralsorcery.key_chain_mining_double.desc.2	Mining Chains when triggering one
+perk.astralsorcery.key_chain_mining_length.desc	+1 added Chained Mining Length
+perk.astralsorcery.key_chain_mining_length.name	Added Chained Mining Length
+perk.astralsorcery.key_chain_mining_length_greater.desc	+3 added Chained Mining Length
+perk.astralsorcery.key_chain_mining_length_greater.name	Greater Chained Mining Length
+perk.astralsorcery.key_cheat_death.desc	Can save you from death in dire situations.
+perk.astralsorcery.key_cull_attack.desc	Enemies hit below 15%% of their maximum life are instantly killed.
+perk.astralsorcery.key_damage_armor.desc.1	5%% of damage taken is instead directly applied
+perk.astralsorcery.key_damage_armor.desc.2	to your armor per armor piece worn.
+perk.astralsorcery.key_digtypes.desc.1	A pickaxe can be used instead of
+perk.astralsorcery.key_digtypes.desc.2	an axe or shovel
+perk.astralsorcery.key_digtypes_path_add.name	Added Mining Speed
+perk.astralsorcery.key_digtypes_path_node_inc.name	Increased Mining Speed
+perk.astralsorcery.key_disarm.desc	Attacks have a chance of disarming the target
+perk.astralsorcery.key_disarm_path_node.name	More Melee Damage
+perk.astralsorcery.key_dst_less_dmg.name	Less Projectile Damage
+perk.astralsorcery.key_enrich_path_node.name	Increased Mining Speed
+perk.astralsorcery.key_growables.desc	Plants around you grow faster
+perk.astralsorcery.key_growables_path_node.name	Increased Life Recovery
+perk.astralsorcery.key_lastbreath.desc.1	More Damage and Mining Speed
+perk.astralsorcery.key_lastbreath.desc.2	the more health you're missing
+perk.astralsorcery.key_lastbreath_path_node.name	Increased Mining Speed
+perk.astralsorcery.key_lightning_arc.desc.1	Hitting mobs has a chance
+perk.astralsorcery.key_lightning_arc.desc.2	to spawn chaining lightning bolts
+perk.astralsorcery.key_lightning_arc.desc.3	between the hit and nearby monsters
+perk.astralsorcery.key_lights_path_ms.name	Increased Movement Speed
+perk.astralsorcery.key_magnet_drops.desc.1	Items dropped when mining or slaying monsters are
+perk.astralsorcery.key_magnet_drops.desc.2	directly transferred to your inventory.
+perk.astralsorcery.key_mantle_flight.desc.1	The vicio mantle now grants flight
+perk.astralsorcery.key_mantle_flight.desc.2	instead of elytra gliding.
+perk.astralsorcery.key_mending.desc	Occasionally your armor repairs itself a bit
+perk.astralsorcery.key_mending_path_node.name	Added Dodge Chance
+perk.astralsorcery.key_mending_path_node_1.name	Increased Dodge Chance
+perk.astralsorcery.key_no_armor.desc.1	Take 30% less damage when wearing
+perk.astralsorcery.key_no_armor.desc.2	less than 2 armor pieces.
+perk.astralsorcery.key_no_armor_resist.name	Increased Elemental Resistance
+perk.astralsorcery.key_no_knockback.desc	You cannot be knocked back.
+perk.astralsorcery.key_path_swim_conversion.name	Increased Swimming Speed
+perk.astralsorcery.key_phoenix_path.name	Increased Elemental Resistance
+perk.astralsorcery.key_projectile_distance.desc.1	The further away the enemy hit by a projectile is,
+perk.astralsorcery.key_projectile_distance.desc.2	the more damage the projectile deals. If the enemy
+perk.astralsorcery.key_projectile_distance.desc.3	is closer, your attack deals significantly less damage.
+perk.astralsorcery.key_projectile_proximity.desc.1	The closer the enemy hit by a projectile, the
+perk.astralsorcery.key_projectile_proximity.desc.2	more damage the projectile deals. If the monster
+perk.astralsorcery.key_projectile_proximity.desc.3	is further away, it deals significantly less damage.
+perk.astralsorcery.key_rampage.desc.1	Adds a chance to gain increased speed,
+perk.astralsorcery.key_rampage.desc.2	attack speed and damage after killing an enemy.
+perk.astralsorcery.key_rampage_path_node_crit.name	Added Critical Hit Chance
+perk.astralsorcery.key_redfood_path_dodge.name	Increased Dodge Chance
+perk.astralsorcery.key_reduced_food.desc	Reduces your overall need for food.
+perk.astralsorcery.key_rem_badeffects.desc	Regenerating life may remove a negative status effect.
+perk.astralsorcery.key_spawn_lights.desc	Places light sources close to you in caves
+perk.astralsorcery.key_step_assist.desc	Stepping up single blocks seems way easier.
+perk.astralsorcery.key_stepassist_path_movespeed.name	Increased Movement Speed
+perk.astralsorcery.key_stone_enrichment.desc.1	Stone near you might
+perk.astralsorcery.key_stone_enrichment.desc.2	turn into more valuable stone
+perk.astralsorcery.key_sweep_range.desc.1	+2 levels to Sweeping Edge.
+perk.astralsorcery.key_sweep_range.desc.2	Sweeping Edge also works on ranged attacks.
+perk.astralsorcery.key_sweep_range.name	Area of Effect
+perk.astralsorcery.key_swim_conversion.desc.1	Increases and decreases to Movement Speed also
+perk.astralsorcery.key_swim_conversion.desc.2	apply to Swimming Speed at 50%% of their value.
+perk.astralsorcery.key_void_trash.desc.1	Voids all dropped trash items.
+perk.astralsorcery.key_void_trash.desc.2	Occasionally yield valuable ore when voiding trash.
+perk.astralsorcery.key_void_trash.name	Trash to Treasure
+perk.astralsorcery.less_hrv_speed.name	Added Mining Speed
+perk.astralsorcery.life_gem_path.name	More Perk Effect
+perk.astralsorcery.magnet_ats_reach.name	Increased Attack Speed and Reach
+perk.astralsorcery.major_ats_inc_ats.name	Increased Attack Speed
+perk.astralsorcery.major_inc_encheffect.desc.1	Enchantments gained by the Resplendent Prism   @@KEEP: Resplendent Prism
+perk.astralsorcery.major_inc_encheffect.desc.2	have 15%% increased levels.
+perk.astralsorcery.major_inc_encheffect.name	Increased Amulet Effectiveness
+perk.astralsorcery.major_perk_eff_nt.name	Increased Perk Effect
+perk.astralsorcery.major_perk_exp_nt.name	Increased Perk Experience
+perk.astralsorcery.med_add_life.name	Added Maximum Life
+perk.astralsorcery.med_inc_hrv_speed.name	Increased Mining Speed
+perk.astralsorcery.med_inc_life.name	Increased Maximum Life
+perk.astralsorcery.med_inc_melee_damage.name	Increased Melee Damage
+perk.astralsorcery.med_inc_ms.name	Increased Movement Speed
+perk.astralsorcery.med_inc_proj_damage.name	Increased Projectile Damage
+
+### LO: extrautils2_01
+attribute.name.extrautils2.armorpiercingattackdamage	Armor Piercing Damage
+extrautils2.text.a.strange.and.weak.sapling	A strange and weak sapling.
+extrautils2.text.above.s.gp.s	Above %s GP: %s
+extrautils2.text.additionally.these.ingots.do.not	Additionally these ingots do not stack
+extrautils2.text.aggressively.spawns.mobs.when.in	Aggressively spawns mobs when in darkness.
+extrautils2.text.an.entire.world.contained.within	An entire world contained within a small glass globe. Perhaps our universe is not so different?
+extrautils2.text.analogcrafter	Analog Crafting Box
+extrautils2.text.boosts.max.level.of.enchanting.tables	Boosts max level of enchanting tables by 2.5 levels
+extrautils2.text.by.your.generators.combined.i.am	By your generators combined, I am RAINBOW GENERATOR
+extrautils2.text.can.be.mined.infinitely.without.being	Can be mined infinitely without being destroyed.
+extrautils2.text.click.for.recipesr	§9Click for recipes§r
+extrautils2.text.craft.a.regular.magic.snow.globe	Craft a regular magic snow globe and take it on a world tour to special biomes to activate it.
+extrautils2.text.craft.an.empty.sun.crystal.first	Craft an empty Sun Crystal first, then throw the crystal on the ground in direct sunlight.   @@KEEP: Sun Crystal
+extrautils2.text.cur.power.given.s.gp	Cur Power Given: %s GP
+extrautils2.text.current.efficiency.boost.s	Current efficiency boost: %s
+extrautils2.text.demon_ingot_lore	Legends tell of ancient creatures from before the dawn of humans, whose bodies were deformed by the heavens. They fled to a strange realm beneath the earth and built elaborate temples of worship to their new homeland. They infused the bones of their dead with dark energy and weaved constructs of living flame. But their most powerful creations were lava wells where they would throw special metals, hoping that their tribute would be answered with riches.
+extrautils2.text.difficulty.set.to.peaceful	Difficulty set to peaceful.
+extrautils2.text.distribute.input.items.evenly.among	Distribute input items evenly among existing stacks
+extrautils2.text.do.not.craft.unless.ready	 - Do not craft unless ready -
+extrautils2.text.drum.s.s.s	Drum: %s (%s / %s)
+extrautils2.text.enchanter.requires.a.full.set.of	Enchanter requires a full set of nearby bookshelves, or other enchantment boosting blocks   @@KEEP: Enchanter
+extrautils2.text.entering.the.deep.dark	Entering the Deep Dark!
+extrautils2.text.error.divide.by.diamond	ERROR: Divide by diamond
+extrautils2.text.explosion.in.s	Explosion in %s
+extrautils2.text.feast.on.their.blood	Feast on their blood
+extrautils2.text.flight.of.the.majestic.beast	Flight of the majestic beast!
+extrautils2.text.found.in.dungeon.chests	Found in dungeon chests.
+extrautils2.text.generates.power.from.wind	Generates power from wind.
+extrautils2.text.generates.s.rf.at.s.rftick	Generates %s RF at %s RF/Tick
+extrautils2.text.gives.gp.for.adjacent.flowing.water	Gives GP for adjacent flowing water blocks.
+extrautils2.text.gives.power.during.daylight.hours	Gives power during daylight hours.
+extrautils2.text.gives.power.during.night.hours	Gives power during night hours.
+extrautils2.text.gives.s.gp.when.adjacent.to.lava	Gives %s GP when adjacent to lava.
+extrautils2.text.gives.s.gp.when.placed.over.fire	Gives %s GP when placed over fire.
+extrautils2.text.grid.is.overloaded	Grid is overloaded
+extrautils2.text.hack.n.slash.hack.n.slash.hack.n	Hack n' slash! Hack n' slash! Hack n' slash! Hack n' slash! Hack n' slash!
+extrautils2.text.hey.you.lets.go.kill.everything	Hey you, let's go kill everything!
+extrautils2.text.hold.s.when.placing.to.reverse.flow	Hold %s when placing to reverse flow.
+extrautils2.text.hold.s.when.placing.to.reverse.pushpull	Hold %s when placing to reverse push/pull.
+extrautils2.text.hope.you.got.a.receipt	Hope you got a receipt.
+extrautils2.text.hope.you.got.x.receipt	Hope you got x receipt.
+extrautils2.text.i.feel.sharp	I feel... sharp.
+extrautils2.text.if.present.the.quarry.will.autodestroy	If present, the quarry will auto-destroy any items that do NOT match the filter.
+extrautils2.text.im.hungry.feed.me	I'm hungry, feed me.
+extrautils2.text.im.ready.and.willing	I'm ready and willing.
+extrautils2.text.in.addition.itemsfluidsenergy.can	In addition, items/fluids/energy can travel through the portal
+extrautils2.text.increase.the.number.of.items	Increase the number of items
+extrautils2.text.increase.the.number.of.items.pulled	Increase the number of items pulled to x stack
+extrautils2.text.increases.speed.of.operations	Increases speed of operations.
+extrautils2.text.is.a.fake.made.out.of.cardboard	is a fake made out of cardboard.
+extrautils2.text.is.a.fake.made.out.of.enchanted.cardboard	is a fake made out of enchanted cardboard.
+extrautils2.text.is.x.fake.made.out.of.cardboard	is x fake made out of cardboard.
+extrautils2.text.is.x.fake.made.out.of.enchanted.cardboard	is x fake made out of enchanted cardboard.
+extrautils2.text.jet.propulsion.at.your.fingertips	Jet propulsion at your fingertips!
+extrautils2.text.keep.ancillary.items.in.input	Keep Ancillary Items In Input
+extrautils2.text.keep.at.least.one.item.in.each.slot	Keep at least one item in each slot (does not apply to items that do not stack)
+extrautils2.text.let.the.essence.of.life.and.death	Let the essence of life and death flow freely.
+extrautils2.text.level.x.level.x.level.x	Level 1: 4x, Level 2: 16x, Level 3: 64x
+extrautils2.text.max.file.size.is.s.kb	Max file size is %s kb
+extrautils2.text.max.power.s.gp	Max Power: %s GP
+extrautils2.text.max.storage.s.rf	Max Storage: %s RF
+extrautils2.text.max.transfer.s.rft	Max Transfer: %s RF/T
+extrautils2.text.max.upgrades.s	Max Upgrades: %s
+extrautils2.text.mechanical.users.mechanical.miners	'Mechanical Users', 'Mechanical Miners' and 'Scanners' interact with the remote block.   @@KEEP: Mechanical Miner | Mechanical User
+extrautils2.text.mine.blocks.from.a.hypothetical.dimension	Mine blocks from a hypothetical dimension that might have existed
+extrautils2.text.mine.blocks.from.x.hypothetical.dimension	Mine blocks from x hypothetical dimension that might have existed
+extrautils2.text.mob.soul.released	Mob soul released.
+extrautils2.text.mobs.body.is.dead	Mob's body is dead.
+extrautils2.text.mobs.drop.experience	Mobs drop experience
+extrautils2.text.mobs.drop.playerkill.only.items	Mobs drop 'Player-kill only' items
+extrautils2.text.move.ancillary.items.to.output	Move Ancillary Items To Output
+extrautils2.text.murder.death.kill	Murder! Death! Kill!
+extrautils2.text.must.be.crafted.in.a.vanilla.crafting	Must be crafted in a vanilla crafting table.
+extrautils2.text.must.have.clear.line.of.sight.to	Must have clear line of sight to sky.
+extrautils2.text.no.biome.marker	No biome marker.
+extrautils2.text.no.nearby.tiles	No nearby tiles
+extrautils2.text.no.power.handlers	No Power Handlers
+extrautils2.text.no.power.usedgenerated	No Power Used/Generated
+extrautils2.text.nonmatching.items.will.be.lost.to	Non-matching items will be lost to the aether.
+extrautils2.text.northsouth.blocks.must.be.clear	North/south blocks must be clear
+extrautils2.text.on.close.inspection.this.s	On close inspection, this %s
+extrautils2.text.only.fire.can.stop.its.spread	Only fire can stop its spread.
+extrautils2.text.only.players.on.your.team.can.access	Only players on your team can access your inventories
+extrautils2.text.operates.when.adjacent.to.lava	Operates when adjacent to lava.
+extrautils2.text.operates.when.placed.over.fire	Operates when placed over fire.
+extrautils2.text.origin.s.s.s	Origin: [%s, %s, %s]
+extrautils2.text.place.climographs.within.s.blocks	Place Climographs within %s blocks of Terraformer   @@KEEP: Terraformer
+extrautils2.text.place.within.s.blocks	Place within %s blocks
+extrautils2.text.plant.on.redstone.ore	Plant on redstone ore.
+extrautils2.text.power.boosted.by.full.moon	Power boosted by full moon.
+extrautils2.text.power.boosted.by.rain	Power boosted by rain.
+extrautils2.text.power.given.s.gp	Power Given: %s GP
+extrautils2.text.power.penalty.level.s.gp	Power Penalty (level 1): +%s GP
+extrautils2.text.power.penalty.level.s.s.gp	Power Penalty (level %s): +%s GP
+extrautils2.text.power.penalty.s.gp	Power Penalty: +%s GP
+extrautils2.text.power.reduced.by.rain	Power reduced by rain.
+extrautils2.text.power.required.s.gp	Power Required: %s GP
+extrautils2.text.power.s.s.gp	Power: %s / %s GP
+extrautils2.text.press.shift.for.more.details	<Press Shift for more details>
+extrautils2.text.processing.s.s.s	Processing %s, %s, %s
+extrautils2.text.progressive.efficiency.loss	Progressive Efficiency Loss:
+extrautils2.text.quarry.level.s	Quarry Level: %s
+extrautils2.text.range.is.set.to.zero	Range is set to zero.
+extrautils2.text.range.s.blocks	Range: +/- %s blocks
+extrautils2.text.rare.drop.from.wither.skeletons	Rare drop from wither skeletons
+extrautils2.text.reduces.health.to.half.a.heart.but	Reduces health to half a heart, but doesn't kill
+extrautils2.text.reduces.health.to.half.x.heart.but	Reduces health to half x heart, but doesn't kill
+extrautils2.text.requires.actuators.to.be.attached	Requires Actuators to be attached to all sides
+
+### LO: abyssalcraft_03
+ac.ritual.shubniggurathCharm.desc	A Shub-Niggurath Charm is made by infusing a Ritual Charm with Shub-Niggurath Engraved Coins.   @@KEEP: Shub-Niggurath Engraved Coin | Shub-Niggurath Charm | Ritual Charm
+ac.ritual.shubniggurathStatue.desc	A Shub-Niggurath Statue is created by infusing a Monolith Stone with Shadow Shoggoth Flesh, an Abyssal Wasteland Essence, a Dreadlands Essence and an Omothol Essence.   @@KEEP: Abyssal Wasteland Essence | Shub-Niggurath Statue | Shadow Shoggoth Flesh | Dreadlands Essence | Omothol Essence | Monolith Stone
+ac.ritual.sorAWupgrade	Abyssal Wasteland Staff of Rending   @@KEEP: Abyssal Wasteland Staff of Rending
+ac.ritual.sorAWupgrade.desc	An Abyssal Wasteland Staff of Rending is created by infusing a Staff of Rending with Abyssal Stone, Coralium-plagued Flesh and and a Shadow Gem.   @@KEEP: Abyssal Wasteland Staff of Rending | Coralium-plagued Flesh | Staff of Rending | Abyssal Stone | Shadow Gem
+ac.ritual.sorDLupgrade	Dreadlands Staff of Rending   @@KEEP: Dreadlands Staff of Rending
+ac.ritual.sorDLupgrade.desc	A Dreadlands Staff of Rending is created by infusing an Abyssal Wasteland Staff of Rending with Dreadstone, Dread Fragment and and a Shadow Gem.   @@KEEP: Abyssal Wasteland Staff of Rending | Dreadlands Staff of Rending | Dread Fragment | Shadow Gem | Dreadstone
+ac.ritual.sorOMTupgrade	Omothol Staff of Rending   @@KEEP: Omothol Staff of Rending
+ac.ritual.sorOMTupgrade.desc	An Omothol Staff of Rending is created by infusing a Dreadlands Staff of Rending with Omothol Stone, Omothol Flesh and and a Shadow Gem.   @@KEEP: Dreadlands Staff of Rending | Omothol Staff of Rending | Omothol Stone | Shadow Gem
+ac.ritual.spiritTablet.desc	A Spirit Tablet is created by infusing a Life Crystal with 4 Spirit Tablet Shards. It's a tool that allows you to move Items between Blocks by having the Items move on their own. Read more about it in the Omothol section of the book.   @@KEEP: Spirit Tablet | Life Crystal
+ac.ritual.spowerCharm	Shub-Niggurath Charm (Power)   @@KEEP: Shub-Niggurath Charm
+ac.ritual.spowerCharm.desc	A Power Shub-Niggurath Charm is made by infusion a Shub-Niggurath Charm with Glowstone Dust and Shadow Fragments.   @@KEEP: Shub-Niggurath Charm | Shadow Fragment | Glowstone Dust
+ac.ritual.srangeCharm	Shub-Niggurath Charm (Range)   @@KEEP: Shub-Niggurath Charm
+ac.ritual.srangeCharm.desc	A Range Shub-Niggurath Charm is made by infusion a Shub-Niggurath Charm with Arrows and Shadow Fragments.   @@KEEP: Shub-Niggurath Charm | Shadow Fragment
+ac.ritual.summonAsorah	Ritual of The Sleeper
+ac.ritual.summonSacthoth	Ritual of Shadows
+ac.ritual.weather	Ritual of Downpour
+ac.ritual.weather.desc	By sacrificing 8 Feathers, you can control the weather of the Biome you're inside (provided it can rain there). If it's not raining, it will rain. If it's raining, it will start thundering. If it's thundering the rain and thunder will cease.
+ac.ritual.ydurationCharm	Yog-Sothoth Charm (Duration)   @@KEEP: Yog-Sothoth Charm
+ac.ritual.ydurationCharm.desc	A Duration Yog-Sothoth Charm is made by infusion a Yog-Sothoth Charm with Redstone Dust and Shadow Fragments.   @@KEEP: Yog-Sothoth Charm | Shadow Fragment
+ac.ritual.yogsothothCharm.desc	A Yog-Sothoth Charm is made by infusing a Ritual Charm with Yog-Sothoth Engraved Coins.   @@KEEP: Yog-Sothoth Engraved Coin | Yog-Sothoth Charm | Ritual Charm
+ac.ritual.yogsothothStatue.desc	A Yog-Sothoth Statue is created by infusing a Monolith Stone with Omothol Shoggoth Flesh, an Abyssal Wasteland Essence, a Dreadlands Essence and an Omothol Essence.   @@KEEP: Abyssal Wasteland Essence | Omothol Shoggoth Flesh | Yog-Sothoth Statue | Dreadlands Essence | Omothol Essence | Monolith Stone
+ac.ritual.ypowerCharm	Yog-Sothoth Charm (Power)   @@KEEP: Yog-Sothoth Charm
+ac.ritual.ypowerCharm.desc	A Power Yog-Sothoth Charm is made by infusion a Yog-Sothoth Charm with Glowstone Dust and Shadow Fragments.   @@KEEP: Yog-Sothoth Charm | Shadow Fragment | Glowstone Dust
+ac.ritual.yrangeCharm	Yog-Sothoth Charm (Range)   @@KEEP: Yog-Sothoth Charm
+ac.ritual.yrangeCharm.desc	A Range Yog-Sothoth Charm is made by infusion a Yog-Sothoth Charm with Arrows and Shadow Fragments.   @@KEEP: Yog-Sothoth Charm | Shadow Fragment
+ac.spell.detachment.desc	Removes one piece of equipment from the target causing it to fall on the ground. Equipped item is chosen randomly from among its equipped/held items.
+ac.spell.displayRoutes.desc	Reveals any active Item transport routes within 16 blocks of the caster.
+ac.spell.entropy.desc	Draw energy straight from the ground as it crumbles to dust.
+ac.spell.floating.desc	As long as you're casting the spell, you're as light as a feather, allowing you to walk on air. Who needs gravity anyways?
+ac.spell.graspofcthulhu	Grasp of Cthulhu
+ac.spell.graspofcthulhu.desc	Damages the target over time while holding them in place. The damage can never reduce the target to 0HP or less
+ac.spell.invisibility	Hide from the Eye
+ac.spell.invisibility.desc	Caster or target goes Invisible for 5 minutes.
+ac.spell.lifedrain.desc	Siphon the lifeforce of your enemy to heal your wounds.
+ac.spell.mining.desc	Superheat the ground in a straight line, melting any stone and leaving all ores intact.
+ac.spell.oozeremoval.desc	Disperses any Shoggoth Ooze in the vicinity of the caster.   @@KEEP: Shoggoth Ooze
+ac.spell.sirenssong.desc	By singing to a creature's very soul you encourage it to join your team. (Useless on Players.)
+ac.spell.stealvigor.desc	The target is temporarily weakened while the caster claims their strength.
+ac.spell.teleportHome	When cast, teleports you back to your spawn point from wherever you are (including other dimensions).
+ac.spell.teleporthostiles.desc	By sacrificing the life of an innocent child, the dark ones are pushed away. Cast the spell while targeting an animal baby, and all mobs within 50 blocks will be teleported away from you.
+ac.spell.toggleState	Toll The Bell
+ac.spell.toggleState.desc	Starts/stops the Item transportation of all blocks within a 16 block radius of the player (or the block they're looking at).
+ac.spell.undeathtodust	Undeath to Dust
+ac.spell.undeathtodust.desc	Instantly disintegrate one undead creature, leaving nothing behind.
+ac.structure.archway.blocks	6x Wall Block (any);4x Stair Block (any);6x Slab Block (any);1x Statue (any);1x Monolith Stone   @@KEEP: Monolith Stone
+ac.structure.basic.blocks	15x Monolith Stone;4x Monolith Stone Pillar;4x Statue (any)   @@KEEP: Monolith Stone Pillar | Monolith Stone
+ac.structure.totempole.blocks	3x Statue (any);1x Monolith Stone   @@KEEP: Monolith Stone
+ac_itemblacklist	Entity Item Blacklist
+ac_mod_compat.tooltip	Mod Compatibility Configuration
+advancements.abyssalcraft.abyssaln	Everything you weren't meant to know
+advancements.abyssalcraft.darkrealm	Bottom of the pit.
+advancements.abyssalcraft.enterabyss	Welcome to the wasteland
+advancements.abyssalcraft.enterdreadlands	Welcome to hell... erm The Dreadlands
+advancements.abyssalcraft.enteromothol	Welcome to your end, seriously.
+advancements.abyssalcraft.findpsdlL	Now that's one odd rock
+advancements.abyssalcraft.ghoulhead	The hunt begins
+advancements.abyssalcraft.gk1	The undead key
+advancements.abyssalcraft.gk2	The Dreaded key
+advancements.abyssalcraft.gk3	The Ancient key
+advancements.abyssalcraft.killasorah	One down, 2 more to go
+advancements.abyssalcraft.killchagaroth	Fall of the Dreadbeast
+advancements.abyssalcraft.killdragon	Undead undead redead
+advancements.abyssalcraft.killdreadguard	Smite the plague
+advancements.abyssalcraft.killghoul	Killed a Depths Ghoul   @@KEEP: Depths Ghoul
+advancements.abyssalcraft.killjzahar	To kill a god... if gods were puppets...
+advancements.abyssalcraft.killomotholelite	That thing was awfully strong
+advancements.abyssalcraft.locatejzahar	A wild J'zahar appears
+advancements.abyssalcraft.makecrystalbag	Store all of your crystals here!
+advancements.abyssalcraft.makecrystalbag.desc	Crafted a Crystal Bag. They can be upgraded.
+advancements.abyssalcraft.makeengraver	Infinite counterfeit coins!
+advancements.abyssalcraft.makematerializer	Create your own materials
+advancements.abyssalcraft.maketransmutator	Break all laws of physic!
+advancements.abyssalcraft.necrou1	Knowledge of the Wasteland
+advancements.abyssalcraft.necrou2	Knowledge of the Corrupted
+advancements.abyssalcraft.necrou3	Knowledge of the Unknown
+advancements.abyssalcraft.orangehead	The medical head
+advancements.abyssalcraft.ritual	The Dark Arts
+advancements.abyssalcraft.ritualbreed	Reproduction through magic
+advancements.abyssalcraft.ritualcreate	No need for a Workbench
+advancements.abyssalcraft.ritualsummon	Behold the wrath of the Necronomicon!   @@KEEP: Necronomicon
+advancements.abyssalcraft.summonasorah	The fallen has returned!
+advancements.abyssalcraft.summonchagaroth	Lair of The Dreadbeast
+advancements.abyssalcraft.wilsonhead	The grumpy head
+key.configurator_filter.desc	Open the Spirit Tablet Filter inventory   @@KEEP: Spirit Tablet
+key.configurator_mode.desc	Change Spirit Tablet Mode   @@KEEP: Spirit Tablet
+key.configurator_path.desc	Clear the path in the Spirit Tablet   @@KEEP: Spirit Tablet
+key.staff_mode.desc	Change Staff of The Gatekeeper Mode   @@KEEP: Staff of The Gatekeeper
+key.use_cage.desc	Capture mob with Interdimensional Cage   @@KEEP: Interdimensional Cage
+lingering_potion.effect.Antimatter	Lingering Potion of Annihilation
+lingering_potion.effect.Cplague	Lingering Potion of Coralium Plague
+lingering_potion.effect.Dplague	Lingering Potion of Dread Plague
+splash_potion.effect.Antimatter	Splash Potion of Annihilation
+splash_potion.effect.Cplague	Splash Potion of Coralium Plague
+splash_potion.effect.Dplague	Splash Potion of Dread Plague
+tipped_arrow.effect.Antimatter	Arrow of Annihilation
+tipped_arrow.effect.Cplague	Arrow of Coralium Plague
+tipped_arrow.effect.Dplague	Arrow of Dread Plague
+
+### LO: roots_03
+roots.modifiers.modifiers.sense_home.desc	Be given a sign that points towards your spawn location.
+roots.modifiers.modifiers.sense_hostiles.desc	Highlights nearby hostile creatures for a duration.
+roots.modifiers.modifiers.sense_liquids.desc	Highlights nearby liquids.
+roots.modifiers.modifiers.sense_ores.desc	Highlights either all nearby ores or the ore held in your off-hand.
+roots.modifiers.modifiers.sense_plants.desc	Highlights nearby growing plants and plant life.
+roots.modifiers.modifiers.sense_spawners.desc	Highlights nearby spawners.
+roots.modifiers.modifiers.sense_time.desc	Sense details about time.
+roots.modifiers.modifiers.shatter_fortune.desc	Increases the level of fortune applied to block breaking by 2.
+roots.modifiers.modifiers.shatter_silk_touch.desc	Blocks broken are broken as though done with the Silk Touch enchantment.
+roots.modifiers.modifiers.shatter_void.desc	Instead of breaking blocks, blocks are instantly destroyed and deleted.
+roots.modifiers.modifiers.sickly_ray.desc	Afflicts damaged targets with a sickening poison.
+roots.modifiers.modifiers.silk_scythe.desc	Blocks broken are broken as though done with the Silk Touch enchantment.
+roots.modifiers.modifiers.singularity.desc	Targets a single block only.
+roots.modifiers.modifiers.slow_fall.desc	Grants you the slow fall effect once the boost ends.
+roots.modifiers.modifiers.slow_falling.desc	Creatures affected are granted slow fall.
+roots.modifiers.modifiers.slow_fire.desc	Damaged creatures are also slowed.
+roots.modifiers.modifiers.slowing.desc	Slows creatures who are damaged by the cloud.
+roots.modifiers.modifiers.slowing_drain.desc	Slows creatures that are affected by the drain.
+roots.modifiers.modifiers.slowing_ray.desc	Afflicts damaged targets with slowness.
+roots.modifiers.modifiers.slowing_trap.desc	Slows creatures who are affected by the trap.
+roots.modifiers.modifiers.smelting_ray.desc	Blocks broken are processed as though smelted in a furnace.
+roots.modifiers.modifiers.spectral_drain.desc	Has a chance to drain the life of a faint spirit if no other targets are available.
+roots.modifiers.modifiers.speed.desc	Increases your movement speed.
+roots.modifiers.modifiers.spider_unsuffrage.desc	Affected arachnids are damaged harshly.
+roots.modifiers.modifiers.spirit_bubble.desc	Undead deal decreased damage to you.
+roots.modifiers.modifiers.spread.desc	Increases the radius of the storm.
+roots.modifiers.modifiers.stoneskin.desc	Additionally grants resistance for a duration.
+roots.modifiers.modifiers.strength_of_flame	Strength of Flame
+roots.modifiers.modifiers.strength_of_flame.desc	Grants you strength.
+roots.modifiers.modifiers.strong_gusts.desc	The winds blow creatures further and higher.
+roots.modifiers.modifiers.suction.desc	Reverses the effects, sucking affected creatures towards you instead.
+roots.modifiers.modifiers.taller.desc	Increases the height dug to three blocks, regardless of the size.
+roots.modifiers.modifiers.targeted_drain.desc	Drains only from the creature targeted.
+roots.modifiers.modifiers.targeted_harvest.desc	Reduces the radius of the spell to the eight squares around you.
+roots.modifiers.modifiers.thoughtful.desc	Prevents overconsumption of saturation and the creation of overhealing.
+roots.modifiers.modifiers.time_slip.desc	After the effect ends, creatures are slowed for a duration.
+roots.modifiers.modifiers.undead_rejection.desc	Affected undead are damaged harshly.
+roots.modifiers.modifiers.underwater_increase.desc	Increase the effectiveness of the spell when cast underwater.
+roots.modifiers.modifiers.unholy_command.desc	Forces affected undead creatures to instead fight for you.
+roots.modifiers.modifiers.unholy_vanquisher.desc	Does increased damage to the undead.
+roots.modifiers.modifiers.verticality.desc	Shoots you straight up, regardless of where you're looking.
+roots.modifiers.modifiers.voiding_scythe.desc	Items that are broken by this spell are instead destroyed and their drops voided.
+roots.modifiers.modifiers.waterfall.desc	Deals water damage to affected creatures.
+roots.modifiers.modifiers.weakened_response.desc	Affected creatures have weakness applied to them.
+roots.modifiers.modifiers.weakening_cloud.desc	Applies weakness to affected creatures.
+roots.modifiers.modifiers.weakening_thorns.desc	Afflicts damaged targets with weakness.
+roots.modifiers.modifiers.weakening_trap.desc	Afflicts damaged targets with weakness
+roots.modifiers.modifiers.weakness.desc	Entities who are disarmed are also weakened.
+roots.modifiers.modifiers.wider.desc	Increases the width dug to three blocks, regardless of the size.
+roots.modifiers.modifiers.wider_ray.desc	Causes the width of the ray to widen.
+roots.modifiers.modifiers.withering.desc	Affected creatures are stricken with withering.
+roots.modifiers.modifiers.withering_ray.desc	Afflicts damaged targets with the withering effect.
+roots.modifiers.modifiers.yellow_light.desc	Creates a light that is yellow.
+roots.modifiers.modifiers.yield.desc	Causes harvested items to be processed by any relevant mortar & pestle recipe.
+roots.patchouli.conflicts_with	$(bold)Conflicts with: $()
+roots.quiver.broke	All of the arrows broke.
+roots.quiver.fragile	This grown arrow cannot be picked up.
+roots.quiver.quiver_full	Your quiver is full.
+roots.ritual.condition.invalid	Failed to start ritual: unknown reason
+roots.ritual.condition.invalid_summon	Failed to start ritual: no valid combination of summoning items found on nearby catalyst plates.
+roots.ritual.condition.items	Failed to start ritual: invalid items.
+roots.ritual.condition.pillar	Failed to start ritual: requires %s.
+roots.ritual.condition.pillar.types	%d of %d-high %s pillars.
+roots.ritual.condition.standing_stones	Failed to start ritual: requires %s.
+roots.ritual.condition.standing_stones.types	%d of %d-high stones
+roots.ritual.transmutation.birch_jungle	Obtained through the Ritual of Transmutation. The wood of nearby birch trees will transform into that of jungle trees.
+roots.ritual.transmutation.birch_jungle_leaves	Obtained through the Ritual of Transmutation. The leaves of nearby birch trees will transform into those of a jungle tree.
+roots.ritual.transmutation.deadbush_cocoa	Obtained through the Ritual of Transmutation. Nearby dead bushes will transform into cocoa beans.
+roots.ritual.transmutation.pumpkin_cactus	Obtained through the Ritual of Transmutation. Pumpkins planted upon sand will turn into cactuses.
+roots.ritual.transmutation.pumpkin_melon	Obtained through the Ritual of Transmutation. Pumpkins with water or flowing water below them will transform into melon blocks.
+roots.runic_shears.cooldown	The fey's equivalent has nothing to gift you at this time.
+roots.runic_shears.tooltip1	%s a block or entity to attempt to collect a Fey Gift.
+roots.runic_shears.tooltip2	%s an entity to attempt to extract its Life Essence.   @@KEEP: Life Essence
+
+### LO: aether_legacy_02
+lore.aether_legacy.blue_berry	Harvested from Berry Bushes, this is the most common food source in the Aether. It has very weak hunger restoration. You can enchant these in an Altar for much better hunger restoration.   @@KEEP: Berry Bush
+lore.aether_legacy.blue_cape	A Blue Cape that has a silky feeling to it. It's crafted using Blue Wool.   @@KEEP: Blue Cape | Blue Wool
+lore.aether_legacy.blue_moa_egg	An Egg laid by a Blue Moa. Hatching this provides a Blue Moa with 3 mid-air jumps. The most common Moa.
+lore.aether_legacy.candy_cane	Found in presents under Holiday trees! They can be used to repair Candy Cane swords, and are a very tasty treat.   @@KEEP: Candy Cane
+lore.aether_legacy.candy_cane_sword	A sword made from decorative candy. Randomly drops Candy Canes when used. These are dropped from presents that are under Holiday Trees.   @@KEEP: Candy Cane
+lore.aether_legacy.carved_slab	Crafted from Carved Stone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!   @@KEEP: Carved Stone
+lore.aether_legacy.carved_stairs	Crafted from Sentry Stone. Stairs are useful for adding verticality to builds and are often used for decoration too!   @@KEEP: Sentry Stone
+lore.aether_legacy.carved_stone	The Stone found in Bronze Dungeons. This stone has a gray color to it, and can be mined as a decorative block.
+lore.aether_legacy.carved_wall	Crafted from Carved Stone. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!   @@KEEP: Carved Stone
+lore.aether_legacy.chain_gloves	A very rare part of chain armor, it is needed to complete the Chain Armor set.
+lore.aether_legacy.chest_mimic	It may look like a normal chest, but it really isn't. As soon as you right click on it, a chest mimic will pop out! These appear in Bronze and Silver dungeons.
+lore.aether_legacy.cloud_staff	A staff with a light and fluffy top. It summons small Cloud Sentries to fight next to the user for a short period of time by shooting large Iceballs.
+lore.aether_legacy.cold_aercloud	A cold cloud found in the skies of the Aether. It can be used to make Parachutes, and break drops that would otherwise be very dangerous.   @@KEEP: Parachute
+lore.aether_legacy.cold_parachute	A quickly made parachute. It's fluffy to the touch and is made from Cold Aerclouds. It has one use.   @@KEEP: Cold Aercloud
+lore.aether_legacy.crystal_fruit_leaves	Crystal Leaves that are home to White Apples.   @@KEEP: Crystal Leaves | White Apple
+lore.aether_legacy.crystal_leaves	Leaves that come from Crystal Trees, they generate on floating islands. Sometimes they have fruit on them, which can cure poison.
+lore.aether_legacy.dart_enchanted	The ammo for Enchanted Dart Shooters. This is the strongest of the darts, made by enchanting Golden Darts.   @@KEEP: Enchanted Dart Shooter | Golden Dart
+lore.aether_legacy.dart_golden	The ammo for Golden Dart Shooters. Crafted with Skyroot Sticks and Golden Amber, enchanting these converts them to Enchanted Darts.   @@KEEP: Golden Dart Shooter | Enchanted Dart | Skyroot Stick | Golden Amber
+lore.aether_legacy.dart_poison	The ammo for Poison Dart Shooters, these are made by infecting Golden Darts with poison!   @@KEEP: Poison Dart Shooter | Golden Dart
+lore.aether_legacy.dart_shooter_enchanted	A Dart Shooter which shoots Enchanted Darts, the strongest one!   @@KEEP: Enchanted Dart | Dart Shooter
+lore.aether_legacy.dart_shooter_golden	A Dart Shooter which shoots Golden Darts, enchanting it on an Altar improves it's attack power!   @@KEEP: Dart Shooter | Golden Dart
+lore.aether_legacy.dart_shooter_poison	A Dart Shooter which shoots Poison Darts. Shooting this at something infects them with a deadly poison!   @@KEEP: Dart Shooter | Poison Dart
+lore.aether_legacy.decorated_holiday_leaves	Holiday Leaves that have been decorated with lovely little baubles for extra holiday cheer!   @@KEEP: Holiday Leaves
+lore.aether_legacy.diamond_gloves	Part of the Diamond Armor set, it is needed to complete the Diamond Armor set.
+lore.aether_legacy.dungeon_key_bronze	A dull key that is dropped from the Slider after being defeated. You can use it to claim the treasure you earned!
+lore.aether_legacy.dungeon_key_golden	A key that has a shiny finish. It is dropped by the Sun Spirit after you defeat him. You can use it to claim the legendary treasure in the back room!   @@KEEP: Sun Spirit
+lore.aether_legacy.dungeon_key_platinum	Only the true holder knows what unlocks with this key.
+lore.aether_legacy.dungeon_key_silver	A reflective key that is given to you by the Valkyrie Queen after defeating her. Use it to claim the treasure she left behind!   @@KEEP: Valkyrie Queen
+lore.aether_legacy.enchanted_aether_grass	Aether Grass enchanted which allows for increasing harvest rates of Blue Berries.   @@KEEP: Aether Grass
+lore.aether_legacy.enchanted_blueberry	An excellent food source, it tastes quite good and restores a massive amount of hunger.
+lore.aether_legacy.enchanted_gravitite	After putting Gravitite Ore into an Altar and enchanting it, you get Enchanted Gravitite. This can be made into Gravitite Tools and Armor. When powered with a Redstone signal, Enchanted Gravitite Blocks will float into the air, similarly to Gravitite Ore.   @@KEEP: Enchanted Gravitite | Gravitite Ore
+lore.aether_legacy.enchanter	Used to enchant items and repair armor. They are powered by Ambrosium Shards. The enchanting process can take some time, but if you place an Enchanted Gravitite block under it, the process is sped up by a huge amount.   @@KEEP: Enchanted Gravitite | Ambrosium Shard
+lore.aether_legacy.flaming_sword	An ancient sword which flames its foes to a burning crisp. It almost hurts to touch! Using this on animals can make them drop cooked meat!
+lore.aether_legacy.freezer	You can freeze various items using this, such as Aerclouds, or Water Buckets. It's source of power is Icestone. You can speed up the freezing process by placing an Icestone under the Freezer.
+lore.aether_legacy.ginger_bread_man	Found in presents under Holiday trees, these are the most common of Christmas items. They are very abundant when dropped from presents.
+lore.aether_legacy.golden_aercloud	A golden cloud found in small quantities, higher in the air than normal. The properties are similar to Cold Aerclouds, but the Parachutes they produce have much more durability.   @@KEEP: Cold Aercloud | Parachute
+lore.aether_legacy.golden_amber	These round golden orbs can be obtained by mining Golden Oak Logs with a Gravitite Axe. Their main purpose is to craft Golden Darts, and Dart Shooters.   @@KEEP: Golden Oak Log | Gravitite Axe | Dart Shooter | Golden Dart
+lore.aether_legacy.golden_feather	A fluffy feather found in Silver Dungeons. When worn, the wearer becomes lighter than air and can descend slowly.
+lore.aether_legacy.golden_gloves	Part of the Golden Armor set, it is needed to complete the Gold Armor set.
+lore.aether_legacy.golden_oak_leaves	These golden Leaves generate with Golden Oak trees. They spawn golden particles in a radius of 5 blocks. They yield Golden Oak Saplings when decayed.   @@KEEP: Golden Oak Sapling
+lore.aether_legacy.golden_oak_log	Skyroot Log which contains Golden Amber inside. When broken with an Axe they drop Skyroot Logs, and if the Axe is Gravitite, they will drop Golden Amber.   @@KEEP: Golden Amber | Skyroot Log
+lore.aether_legacy.golden_oak_sapling	These large saplings when planted will grow into huge Golden Oak trees! You can use Bone Meal to speed up the process.
+lore.aether_legacy.golden_parachute	The best parachute in the Aether. It has 20 uses and is made with Golden Aerclouds.   @@KEEP: Golden Aercloud
+lore.aether_legacy.golden_pendant	An aesthetic accessory made of gold.
+lore.aether_legacy.golden_ring	An aesthetic accessory made of gold.
+lore.aether_legacy.gravitite_axe	Part of Aether's best tool tier, this Axe not only can make wood blocks float, but it can mine Golden Oak logs for Golden Amber!   @@KEEP: Golden Amber
+lore.aether_legacy.gravitite_boots	Part of Aether's best armor set, when the full set is worn, you get an extra high jump!
+lore.aether_legacy.gravitite_chestplate	Part of Aether's best armor set, when the full set is worn, you get an extra high jump!
+lore.aether_legacy.gravitite_gloves	Part of Aether's best armor set, needed to complete the Gravitite set.
+lore.aether_legacy.gravitite_helmet	Part of Aether's best armor set, when the full set is worn, you get an extra high jump!
+lore.aether_legacy.gravitite_leggings	Part of Aether's best armor set, when the full set is worn, you get an extra high jump!
+lore.aether_legacy.gravitite_ore	This is Aether's rarest ore. It has floating properties and will float upward when there is nothing above it. These can be Enchanted into Enchanted Gravitite Blocks.   @@KEEP: Enchanted Gravitite
+lore.aether_legacy.gravitite_pickaxe	Part of Aether's best tool tier, when mining with this powerful tool, you can right-click on any stone block and it will levitate into the air! You can mine any ore with this Pickaxe.
+lore.aether_legacy.gravitite_shovel	Part of Aether's best tool tier, this shovel has the special ability to make dirt blocks, or sand levitate! When combined with enchantments such as Efficiency, it will instantly break Aether Dirt!   @@KEEP: Aether Dirt
+lore.aether_legacy.gravitite_sword	Part of Aether's best tool tier, when attacking with this powerful weapon, anything you hit will be flung into the air, causing lots of damage! Use this to your advantage, as it works even while your sword is cooling down!
+lore.aether_legacy.green_leaves	These leaves generate with Skyroot Trees. They can drop Skyroot Saplings when decaying.   @@KEEP: Skyroot Sapling
+lore.aether_legacy.gummy_swet_blue	A sweet smelling gummy, it can be found in random chests in Bronze and Silver dungeons. It restores the player’s hunger to full. Very useful for boss fights.
+
+### LO: integratedtunnels_04
+config.integratedtunnels.general.importerWorldBlockBaseConsumptionEnabled	World block importer base consumption (enabled)
+config.integratedtunnels.general.importerWorldEnergyBaseConsumptionDisabled	World energy importer base consumption (disabled)
+config.integratedtunnels.general.importerWorldEnergyBaseConsumptionEnabled	World energy importer base consumption (enabled)
+config.integratedtunnels.general.importerWorldFluidBaseConsumptionDisabled	World fluid importer base consumption (disabled)
+config.integratedtunnels.general.importerWorldFluidBaseConsumptionEnabled	World fluid importer base consumption (enabled)
+config.integratedtunnels.general.importerWorldItemBaseConsumptionDisabled	World item importer base consumption (disabled)
+config.integratedtunnels.general.importerWorldItemBaseConsumptionEnabled	World item importer base consumption (enabled)
+config.integratedtunnels.general.interfaceEnergyBaseConsumption	Energy interface base consumption
+config.integratedtunnels.general.interfaceFluidBaseConsumption	Fluid interface base consumption
+config.integratedtunnels.general.interfaceItemBaseConsumption	Item interface base consumption
+config.integratedtunnels.general.inventoryUnchangedTickTimeout	Timeout for unchanged inventory
+config.integratedtunnels.general.playerSimulatorBaseConsumptionDisabled	Player simulator base consumption (disabled)
+config.integratedtunnels.general.playerSimulatorBaseConsumptionEnabled	Player simulator base consumption (enabled)
+config.integratedtunnels.modcompat	Mod compatibility settings
+info_book.integratedtunnels.concepts.text1	&lIntegrated Tunnels&r adds 3 part types for the different transport types, namely &oImporters&r, &oExporters&r and &oInterfaces&r.
+info_book.integratedtunnels.concepts.text2	Importers (blue) always try to pull from a target, to Interfaces (white) in the same network.
+info_book.integratedtunnels.concepts.text3	Exporters (orange) always try to push to a target, from Interfaces (white) in the same network. Items in this case will always transfer from left to right.
+info_book.integratedtunnels.concepts.text4	You could add multiple interfaces to your network, and assign priorities to specify which should be filled/emptied first.
+info_book.integratedtunnels.concepts.text5	Furthermore, you can also add multiple Importers and Exporter, again with relative priorities.
+info_book.integratedtunnels.concepts.text6	Using &lIntegrated Dynamics&r variables, you have to specify what items should be moved. If you want to keep it simple, and just move everything, simply use a blank &lVariable Card&r.   @@KEEP: Variable Card
+info_book.integratedtunnels.concepts.text7	Note that if you have an autocrafting mod such as &lIntegrated Crafting&r installed, then you will be able to use the &oCraft&r setting in exporters. This will make it so that if an ingredient is not available for export, that it should be crafted.
+info_book.integratedtunnels.energy.text1	Move energy over the network. Import energy into the network using &lEnergy Importers&r into &lEnergy Interfaces&r. Export energy from the network using &lEnergy Exporters&r from &lEnergy Interfaces&r.
+info_book.integratedtunnels.fluid.text1	Move fluids over the network. Import fluids into the network using &lFluid Importers&r into &lFluidInterfaces&r. Export fluids from the network using &lFluid Exporters&r from &lFluid Interfaces&r.
+info_book.integratedtunnels.introduction.text1	&lIntegrated Tunnels&r is an extension to &lIntegrated Dynamics&r to transfer items, fluids and energy over &lIntegrated Dynamics&r networks.
+info_book.integratedtunnels.introduction.text2	You can use &lIntegrated Dynamics&r logic to configure filters, which can be as complex as you desire. &o"I want to send 3 enchantable pickaxes with a damage value less than 10 to this chest every tick"&r or &o"I want to fill this tank until it has 1000mB of oil, but only when my machine is working and if I have less than 10 iron ingots in this chest"&r No problem! &lIntegrated Tunnels&r can do that for you, and it will do it efficiently as well!
+info_book.integratedtunnels.item.text1	Move items over the network. Import items into the network using &lItem Importers&r into &lItem Interfaces&r. Export items from the network using &lItem Exporters&r from &lItem Interfaces&r.   @@KEEP: Item Interface | Item Importer
+info_book.integratedtunnels.player.text1	Any experienced Minecrafter knows that the less you have to click, the better. With the &lPlayer Simulator&r, you can automate away a large part of this tedious clicking. It allows you to automate clicking with any hand and item. Advanced properties allow you to change things like click positions and so on.
+info_book.integratedtunnels.tutorials.break_stone	Break Only Stone Blocks
+info_book.integratedtunnels.tutorials.break_stone.text1	Make a &lVariable Card&r containing a reference to the &8Stone&0 item value. Place this inside a &lWorld Block Importer&r to break only Stone blocks. Also have a look at the various aspect properties to see if you can manage to silk touch the Stone to avoid receiving just Cobblestone.   @@KEEP: Variable Card | Cobblestone
+info_book.integratedtunnels.tutorials.click_sword	Click with Sword
+info_book.integratedtunnels.tutorials.click_sword.text1	All this clicking and such can be quite boring, why not let a &lPlayer Simulator&r do it for you? Start by crafting one, and insert a &lVariable Card&r containing a &oDiamond Sword&r to let it attack autonomously using &oDiamond Swords&r from your item network.   @@KEEP: Variable Card
+info_book.integratedtunnels.tutorials.drop_all_items	Drop All Items
+info_book.integratedtunnels.tutorials.drop_all_items.text1	Place an empty &lVariable Card&r inside a &lWorld Item Exporter&r to drop all items from the network on the ground.   @@KEEP: Variable Card
+info_book.integratedtunnels.tutorials.export_enchantable_items	Export Enchantable Items
+info_book.integratedtunnels.tutorials.export_enchantable_items.text1	Export all enchantable items to the target inventory. This can be done using a certain &lOperator&r.
+info_book.integratedtunnels.tutorials.export_items_limit	Export Items with Limit
+info_book.integratedtunnels.tutorials.export_items_limit.text1	Read the number of items in the target inventory using an &lInventory Reader&r, and only move items until the total number of items is larger than &610&0.
+info_book.integratedtunnels.tutorials.import_all_items	Import All Items
+info_book.integratedtunnels.tutorials.import_all_items.text1	Place an empty &lVariable Card&r inside a &lItem Importer&r to import all items into the network from a target inventory.   @@KEEP: Variable Card | Item Importer
+info_book.integratedtunnels.tutorials.import_items_list	Import Item List
+info_book.integratedtunnels.tutorials.import_items_list.text1	Import all items a certain list to the target inventory. An item list can be created by reading it from any &lInventory Reader&r.
+info_book.integratedtunnels.tutorials.importer_exporter.text1	&oItem Importers&r will move items from the target towards one of the &oItem Interfaces&r. &oItem Exporters&r do the opposite, they will move items from any of the &oItem Interfaces&r to the target.   @@KEEP: Item Interface | Item Importer
+info_book.integratedtunnels.tutorials.interfaces.text1	&oInterfaces&r are parts that can be attached to &lCables&r. An item, fluid and energy version exists for them, which respectively connect to inventories, tanks and energy machines. &oInterfaces&r make the target accessible to the network.
+info_book.integratedtunnels.tutorials.introduction.text1	This section contains several tutorials that help you to learn &lIntegrated Tunnels&r, the &lIntegrated Dynamics&r add-on for item, fluid and energy transfer.
+info_book.integratedtunnels.tutorials.pickup_items_limit	Pick up Items with Limit
+info_book.integratedtunnels.tutorials.pickup_items_limit.text1	Write a constant number &65&0 to a &lVariable Card&r, and place it inside a &lWorld Item Importer&r to pick up 5 items at a time from the target space.   @@KEEP: Variable Card | Item Importer
+info_book.integratedtunnels.tutorials.place_logwood.text1	Try creating a system using the &lWorld Block Exporter&r that only places wooden logs. Do this using the &lOredictionary Values&r operator to retrieve a list of all &ologWood&r oredictionary items.
+info_book.integratedtunnels.tutorials.world_block_importer_exporter	World Block Importer Exporter
+info_book.integratedtunnels.tutorials.world_block_importer_exporter.text1	Instead of dropping items in the world or picking them up, you can also break and place blocks using the &lWorld Block Importer&r and &lWorld Block Exporter&r. Various aspect properties allow you to change properties such as whether or not the blocks should be silk touched when breaking.
+info_book.integratedtunnels.tutorials.world_item_importer_exporter	World Item Importer Exporter   @@KEEP: Item Importer
+
+### LO: evilcraft_03
+info_book.evilcraft.first_age.new_world.dark_temple.text1	There seem to be certain structures in this world that were built by some kind of ancient civilization that was able to infuse certain environmental powers into items. These processes however seem to degrade the natural balance of the environment the more this process is used. This is possibly the main reason why that civilization isn’t around anymore today...
+info_book.evilcraft.first_age.new_world.dark_temple.text2	Using &1Dark Gems&0 I was able to enhance existing &1Glass Bottles&0 to be able to contain environmental weather. Throwing such a &1Weather Container&0 inside the core of such a temple will absorb the current weather into the bottle.   @@KEEP: Weather Container | Dark Gem
+info_book.evilcraft.first_age.new_world.dark_temple.text3	I also discovered that certain items can be empowered using the special properties of thunderstorms. These items can also be empowered when they are directly struck by lightning, but it seems very unlikely to predict where lightning is going to strike, or is it...?
+info_book.evilcraft.first_age.new_world.dark_temple.text4	These temples seem emit some kind of energy, maybe I can find some way to detect this and discover new temples in the world?
+info_book.evilcraft.first_age.new_world.darkened_apple.text	As you are reading this book, you might have already come across this item. Combining an &1Apple&0 and a &1Dark Gem&0 results in a special &1Apple&0 that when eaten inflicts large amounts of damage for a certain time. If the entity dies because of this effect, it will leave behind some kind of anomaly. I have yet to discover any uses for this phenomenon...   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.new_world.evil_dungeon.text	While caving, I occasionally encounter these grim rooms with &4Blood&0 spread all over the floor. These &4Blood&0 traces are probably caused by the battles of previous explorers with the countless mobs inhabiting these dungeons.
+info_book.evilcraft.first_age.new_world.introduction.text	I have discovered several strange new things lately. They all give off some eerie vibe, the longer I am around those things, the more I feel accustomed to it... Not all of these things might be very useful right away, but I might have some ideas to use them for something else.
+info_book.evilcraft.first_age.new_world.libelle.text	It seems that there are some new creatures in this world. This creature appears to be a pretty large type of dragonfly. During the day time it is a rather peaceful creature, but do not be fooled, for if you would venture too close in proximity of this insect, it will try to poison you as though it being some kind of self defense. At night however, this beasty becomes subdued by an ancient evil and kills everything in its path. I deem myself lucky they have no other weapons besides actively looking me up at night to come and poison me. I managed to kill quite a few of these annoying things and carved some interesting poison sacs from their bodies. I have thrown them in a &1Bucket of Water&0 and the water really absorbs the poison well when I throw in four of these. I have long done the same with &lPoisonous Potato’s&r as well. It can be useful in a pinch for defending my evil lair... Ehm, I mean house... I named this creature after the dutch word for it’s kind, because I did not want to let it be confused with ordinary dragon flies, for obvious reasons...
+info_book.evilcraft.first_age.new_world.nether_fish.text	Once upon a time while I was visiting hell, I discovered a block of &1Netherrack&0 that was a bit harder to break than normally. But after breaking the block, I noticed a little creature popping out and it started to attack me. It lit me on fire and I took some mild damage, luckily I was able to kill it without much trouble.   @@KEEP: Netherrack
+info_book.evilcraft.first_age.new_world.weather_container_benefits	Weather Container Benefits   @@KEEP: Weather Container
+info_book.evilcraft.first_age.new_world.weather_container_benefits.text	Weather that is contained in these bottles can be reactivated when the bottles are thrown against something. But instead of breaking them, it might be more interesting to use them to craft several other neat items.
+info_book.evilcraft.first_age.new_world.werewolf.text	Whilest I was exploring this world, I have taken rest in many villages. One of the towns I rested in had a strange looking fellow in it. I started talking to him and it soon struck me he was not as interested in emeralds as the other people in his town. In fact he started asking more and more questions about the dark ore I had discovered, we talked away hours and hours. He was so keen about getting his hands on them and other objects I have discovered that we ended up trading things for most of the rest of the day. When night had fallen, he took me to his house in the village and he said I was most welcome to spend the night in his spare bedroom. I said I already rented a room at the local inn but thanked him for his kindness anyway. As I crawled into bed in the inn, I took a last glance at the moon, as I usually do before going to sleep and I saw it was a nice full moon. As I closed my eyes, all of a sudden, I heard a loud distressed shout and after that a wolf-like growl. The whole village was looking through their windows and we saw a tall wolf, walking on its hindlegs. Everyone cowered in fear, but I, without fear nor doubt, took up my trusty dagger and gave it a pretty good beating. It was a very strong creature, his fur will make a nice memento to his great fight...When I woke up the next morning to conclude my trading session of the day before, my strange trading friend had taken a leave. There where claw marks all over his house and there was &4Blood&0 on the floor, I still wonder if the strange wolve ate him... Or if perhaps he was a werewolf, as the villagers gossip on... It looks like I can convert his drops to regular items when just placing them inside a &1Crafting Table&0.   @@KEEP: Crafting Table
+info_book.evilcraft.first_age.relics.enchantments.breaking.text	&l&nCurse of Breaking&r&NThis enchantment exists in three stages, it looks like it does exactly the opposite of the Unbreaking enchant. This doesn’t seem very useful, does it? Maybe I should find a way to get rid of this.
+info_book.evilcraft.first_age.relics.enchantments.life_stealing.text	&l&nLife Stealing&r&NThe three stages of this enchant on offensive weapons allows you to steal parts of the life you take from others.
+info_book.evilcraft.first_age.relics.enchantments.poison_tip.text	&l&nPoison Tip&r&NWhen applying some poison to your weapons, you have a chance of poisoning your victims.This enchantment exists in three stages. It looks like you can make a basic version of this enchantment by adding a poisonous material to a regular book.
+info_book.evilcraft.first_age.relics.enchantments.unusing.text	&l&nUnusing&r&NI was getting tired of my favorite tools breaking everytime I wasn’t paying attention to them. This I why I devised a new enchantment that makes tools unusable when they are about to break, giving myself enough time to repair it to its former glory.
+info_book.evilcraft.first_age.relics.enchantments.vengeance.text	&l&nCurse of Vengeance&r&NTools with this enchanment will spawn Vengeance Spirits when used.   @@KEEP: Vengeance Spirit
+info_book.evilcraft.first_age.relics.humanoid_flesh.text	You might never have noticed before, but when players die they seem to drop a part of their flesh. Eating it seems to be dangerous, maybe eating it at night-time might be more safe. I wouldn’t recommend eating your own flesh though, that’s just nasty, try eating one of your friends instead!
+info_book.evilcraft.first_age.vengeance_spirits.catching_spirits.text1	On some of my adventures I discovered some strange purple boxes which contained some distorted spirits. It looks like these spirits were captured a long time ago and have since been degrading, I don’t think they can be restored to their original state though.
+info_book.evilcraft.first_age.vengeance_spirits.catching_spirits.text2	I was able to reverse-engineer these boxes to be able to craft them myself. In this process, I also discovered how to freeze spirits so that they can be absorbed by these boxes. I enhanced the &1Vengeance Ring&0 with this technology to make a &1Vengeance Focus&0 that can be used to target spirits and catch them. Maybe I can use these contained spirits for something later...   @@KEEP: Vengeance Focus | Vengeance Ring
+info_book.evilcraft.first_age.vengeance_spirits.introduction	After Monsters Die
+info_book.evilcraft.first_age.vengeance_spirits.introduction.text1	Other people find it strange, but I always watch closely when beasts die. I noticed that they mostly give off some strange dark-purple aura which quickly fades again.

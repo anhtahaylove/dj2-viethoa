@@ -1,0 +1,705 @@
+[
+  {
+    "registry_id": "abyssalcraft:coralium",
+    "key": "enchantment.abyssalcraft.coralium.desc",
+    "english": "Inflicts the Coralium Plague on hit",
+    "origin": {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "abyssalcraft:dread",
+    "key": "enchantment.abyssalcraft.dread.desc",
+    "english": "Inflicts the Dread Plague on hit",
+    "origin": {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "abyssalcraft:iron_wall",
+    "key": "enchantment.abyssalcraft.iron_wall.desc",
+    "english": "Reduces the amount of knockback applied when hit by an attack",
+    "origin": {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "abyssalcraft:light_pierce",
+    "key": "enchantment.abyssalcraft.light_pierce.desc",
+    "english": "Increases damage against Shadow mobs",
+    "origin": {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "abyssalcraft:multi_rend",
+    "key": "enchantment.abyssalcraft.multi_rend.desc",
+    "english": "Drains energy from mobs surrounding the target",
+    "origin": {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "abyssalcraft:sapping",
+    "key": "enchantment.abyssalcraft.sapping.desc",
+    "english": "Increases the amount of energy a Staff of Rending can drain",
+    "origin": {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "astralsorcery:enchantment.as.nightvision",
+    "key": "enchantment.astralsorcery.enchantment.as.nightvision.desc",
+    "english": "Grants the wearer night vision.",
+    "origin": {
+      "jar": "astralsorcery-1.12.2-1.10.27.jar",
+      "path": "assets/astralsorcery/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "astralsorcery:enchantment.as.smelting",
+    "key": "enchantment.astralsorcery.enchantment.as.smelting.desc",
+    "english": "Blocks mined with this enchantment will have their drops smelted, as though in a furnace.",
+    "origin": {
+      "jar": "astralsorcery-1.12.2-1.10.27.jar",
+      "path": "assets/astralsorcery/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "bewitchment:magic_protection",
+    "key": "enchantment.bewitchment.magic_protection.desc",
+    "english": "Reduces damage from magic.",
+    "origin": {
+      "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+      "path": "assets/bewitchment/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "bibliocraft:bibliocraft.deathcompassench",
+    "key": "enchantment.bibliocraft.bibliocraft.deathcompassench.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "bibliocraft:bibliocraft.readingench",
+    "key": "enchantment.bibliocraft.bibliocraft.readingench.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "cofhcore:holding",
+    "key": "enchantment.cofhcore.holding.desc",
+    "english": "Increases the storage capacity of certain items.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:insight",
+    "key": "enchantment.cofhcore.insight.desc",
+    "english": "Increases experience gain when using the item.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:leech",
+    "key": "enchantment.cofhcore.leech.desc",
+    "english": "Restores health when a mob is killed.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:multishot",
+    "key": "enchantment.cofhcore.multishot.desc",
+    "english": "The bow will fire additional arrows with each shot. Only one arrow is consumed.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:smashing",
+    "key": "enchantment.cofhcore.smashing.desc",
+    "english": "Harvested ores will be smashed to pieces, improving yield.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:smelting",
+    "key": "enchantment.cofhcore.smelting.desc",
+    "english": "Harvested blocks will automatically be smelted, as if by a Furnace.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:soulbound",
+    "key": "enchantment.cofhcore.soulbound.desc",
+    "english": "The item will remain with the owner after an untimely demise.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "cofhcore:vorpal",
+    "key": "enchantment.cofhcore.vorpal.desc",
+    "english": "Randomly performs powerful attacks and decapitations.",
+    "origin": {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "divinerpg:aftershock",
+    "key": "enchantment.divinerpg.aftershock.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "divinerpg:rive",
+    "key": "enchantment.divinerpg.rive.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "draconicevolution:enchant_reaper",
+    "key": "enchantment.draconicevolution.enchant_reaper.desc",
+    "english": "When applied to a weapon this enchant increases that chance that a mob killed by sad weapon will drop their soul. This enchantment is best applied to Draconic Evolution weapons as it stacks with their built in reaper modifier.",
+    "origin": {
+      "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+      "path": "assets/draconicevolution/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "endercore:autosmelt",
+    "key": "enchantment.endercore.autosmelt.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "endercore:xpboost",
+    "key": "enchantment.endercore.xpboost.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "enderio:repellent",
+    "key": "enchantment.enderio.repellent.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "enderio:shimmer",
+    "key": "enchantment.enderio.shimmer.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "enderio:soulbound",
+    "key": "enchantment.enderio.soulbound.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "enderio:witherarrow",
+    "key": "enchantment.enderio.witherarrow.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "enderio:witherweapon",
+    "key": "enchantment.enderio.witherweapon.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "evilcraft:breaking",
+    "key": "enchantment.evilcraft.breaking.desc",
+    "english": "Your tools break faster",
+    "origin": {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "evilcraft:life_stealing",
+    "key": "enchantment.evilcraft.life_stealing.desc",
+    "english": "Steal health from attacked mobs",
+    "origin": {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "evilcraft:poison_tip",
+    "key": "enchantment.evilcraft.poison_tip.desc",
+    "english": "Damaged mobs get poisoned",
+    "origin": {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "evilcraft:unusing",
+    "key": "enchantment.evilcraft.unusing.desc",
+    "english": "Tools become unusable when having one durability left",
+    "origin": {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "evilcraft:vengeance",
+    "key": "enchantment.evilcraft.vengeance.desc",
+    "english": "Using a tool will spawn Vengeance Spirits",
+    "origin": {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "extrautils2:xu.bladerang",
+    "key": "enchantment.extrautils2.xu.bladerang.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "extrautils2:xu.boomereaperang",
+    "key": "enchantment.extrautils2.xu.boomereaperang.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "extrautils2:xu.burnerang",
+    "key": "enchantment.extrautils2.xu.burnerang.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "extrautils2:xu.kaboomerang",
+    "key": "enchantment.extrautils2.xu.kaboomerang.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "extrautils2:xu.zoomerang",
+    "key": "enchantment.extrautils2.xu.zoomerang.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "lightningcraft:elec_aura",
+    "key": "enchantment.lightningcraft.elec_aura.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "lightningcraft:hand_of_thor",
+    "key": "enchantment.lightningcraft.hand_of_thor.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "minecraft:aqua_affinity",
+    "key": "enchantment.minecraft.aqua_affinity.desc",
+    "english": "Increases mining speed while underwater. ",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:bane_of_arthropods",
+    "key": "enchantment.minecraft.bane_of_arthropods.desc",
+    "english": "Increases damage against arthropods such as Spiders and Silverfish.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:binding_curse",
+    "key": "enchantment.minecraft.binding_curse.desc",
+    "english": "Prevents the enchanted item from being removed from an armor slot.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:blast_protection",
+    "key": "enchantment.minecraft.blast_protection.desc",
+    "english": "Reduces damage from explosions and explosion knockback.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:depth_strider",
+    "key": "enchantment.minecraft.depth_strider.desc",
+    "english": "Increases movement speed while under water.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:efficiency",
+    "key": "enchantment.minecraft.efficiency.desc",
+    "english": "Increases mining speed of the tool.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:feather_falling",
+    "key": "enchantment.minecraft.feather_falling.desc",
+    "english": "Reduces fall damage and ender pearl teleportation damage.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:fire_aspect",
+    "key": "enchantment.minecraft.fire_aspect.desc",
+    "english": "Causes additional fire damage when used to attack a mob.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:fire_protection",
+    "key": "enchantment.minecraft.fire_protection.desc",
+    "english": "Reduces the effects of fire damage. Also reduces the burn time when set on fire.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:flame",
+    "key": "enchantment.minecraft.flame.desc",
+    "english": "Arrows fired from the bow will deal additional fire damage. ",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:fortune",
+    "key": "enchantment.minecraft.fortune.desc",
+    "english": "Some blocks like coal and diamond ore may drop additional items.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:frost_walker",
+    "key": "enchantment.minecraft.frost_walker.desc",
+    "english": "Freezes water under the player into cracked ice.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:infinity",
+    "key": "enchantment.minecraft.infinity.desc",
+    "english": "Allows the bow to fire normal arrows for free. You must have at least one arrow for this to work.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:knockback",
+    "key": "enchantment.minecraft.knockback.desc",
+    "english": "Increases the knockback strength of the weapon.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:looting",
+    "key": "enchantment.minecraft.looting.desc",
+    "english": "Mobs will drop more loot when killed.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:luck_of_the_sea",
+    "key": "enchantment.minecraft.luck_of_the_sea.desc",
+    "english": "Increases the chance of getting good loot while fishing.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:lure",
+    "key": "enchantment.minecraft.lure.desc",
+    "english": "Decreases the amount of time it takes for a fish to bite the hook.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:mending",
+    "key": "enchantment.minecraft.mending.desc",
+    "english": "Repairs the durability of armor and tools with EXP.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:power",
+    "key": "enchantment.minecraft.power.desc",
+    "english": "Increases the damage of arrows fired from the bow.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:projectile_protection",
+    "key": "enchantment.minecraft.projectile_protection.desc",
+    "english": "Reduces damage from projectiles such as arrows and fire balls.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:protection",
+    "key": "enchantment.minecraft.protection.desc",
+    "english": "Reduces damage from most sources. ",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:punch",
+    "key": "enchantment.minecraft.punch.desc",
+    "english": "Increases the knockback strength of arrows fired by the bow.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:respiration",
+    "key": "enchantment.minecraft.respiration.desc",
+    "english": "Extends the amount of time the player can spend under water. Also improves vision while under water.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:sharpness",
+    "key": "enchantment.minecraft.sharpness.desc",
+    "english": "Increases the damage of the item.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:silk_touch",
+    "key": "enchantment.minecraft.silk_touch.desc",
+    "english": "Allows fragile blocks such as glass to be collected.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:smite",
+    "key": "enchantment.minecraft.smite.desc",
+    "english": "Increases damage against undead mobs such as zombies and skeletons.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:sweeping",
+    "key": "enchantment.minecraft.sweeping.desc",
+    "english": "Increases the damage of sweeping attacks.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:thorns",
+    "key": "enchantment.minecraft.thorns.desc",
+    "english": "Causes damage to enemies when they attack you.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:unbreaking",
+    "key": "enchantment.minecraft.unbreaking.desc",
+    "english": "Causes the tool to lose durability at a slower rate.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "minecraft:vanishing_curse",
+    "key": "enchantment.minecraft.vanishing_curse.desc",
+    "english": "Destroyes the enchanted item if you die with it in your inventory.",
+    "origin": {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "openblocks:explosive",
+    "key": "enchantment.openblocks.explosive.desc",
+    "english": "Triggers explosions of varying size when jumping or taking damage.",
+    "origin": {
+      "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+      "path": "assets/openblocks/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "openblocks:flim_flam",
+    "key": "enchantment.openblocks.flim_flam.desc",
+    "english": "Causes a number of negative effects to nearby players.",
+    "origin": {
+      "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+      "path": "assets/openblocks/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "openblocks:last_stand",
+    "key": "enchantment.openblocks.last_stand.desc",
+    "english": "Instead of dying when taking fatal damage, the player is left with 1 health at the cost of experience, costs based on damage and reduced by the total level of Last Stand on all equipment.",
+    "origin": {
+      "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+      "path": "assets/openblocks/lang/en_us.lang"
+    },
+    "status": "existing"
+  },
+  {
+    "registry_id": "simplyjetpacks:fuel_efficiency",
+    "key": "enchantment.simplyjetpacks.fuel_efficiency.desc",
+    "english": null,
+    "origin": null,
+    "status": "missing"
+  },
+  {
+    "registry_id": "spartanshields:ssenchspikes",
+    "key": "enchantment.spartanshields.ssenchspikes.desc",
+    "english": "Deals damage to enemies that hit the shield when blocking",
+    "origin": {
+      "jar": "SpartanShields-1.12.2-1.5.5.jar",
+      "path": "assets/spartanshields/lang/en_us.lang"
+    },
+    "status": "existing"
+  }
+]

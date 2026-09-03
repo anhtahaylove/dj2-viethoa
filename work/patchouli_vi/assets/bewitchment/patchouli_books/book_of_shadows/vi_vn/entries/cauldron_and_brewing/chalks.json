@@ -1,0 +1,31 @@
+{
+  "name": "Chalks",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:focal_chalk",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chalk được dùng trong [Circle Rites] để tập trung và dẫn truyền sức mạnh. Hình vẽ Chalk Circle cũng quan trọng không kém các nguyên liệu dùng trong nghi lễ."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:ritual_chalk",
+      "text": "Dạng Chalk đầu tiên, vừa có thể dùng riêng, vừa làm nền cho các loại Chalk khác."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:focal_chalk",
+      "text": "Cốt lõi của mọi nghi lễ vòng tròn."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:fiery_chalk",
+      "text": "Dùng cho các nghi lễ mang bản chất ma quỷ hơn."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:phasing_chalk",
+      "text": "Dùng cho các nghi lễ cần giao tiếp với dimension khác hoặc qua khoảng cách lớn."
+    }
+  ]
+}

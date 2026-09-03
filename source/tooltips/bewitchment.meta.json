@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+      "path": "assets/bewitchment/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item.thermaldynamics.filter.info": "Giới hạn thứ được phép đi qua nó.",
+  "item.thermaldynamics.relay.info": "Truyền tín hiệu redstone.",
+  "item.thermaldynamics.retriever.info": "Hút vật phẩm/chất lỏng ở xa về phía nó.",
+  "item.thermaldynamics.servo.info": "Rút vật phẩm/chất lỏng ra khỏi thứ gì đó.",
+  "tile.thermaldynamics.duct.energySuper.info": "Không có điện dung dư.",
+  "tile.thermaldynamics.duct.fluidBasic.info": "Sẽ vỡ nếu thứ bên trong quá nóng hoặc quá lạnh.",
+  "tile.thermaldynamics.duct.fluidHardened.info": "Thứ bên trong có thể ở nhiệt độ bất kỳ.",
+  "tile.thermaldynamics.duct.fluidSuper.info": "Tốc độ truyền không giới hạn khi được tạo áp suất.",
+  "tile.thermaldynamics.duct.itemFast.info": "Vật phẩm di chuyển nhanh hơn.",
+  "tile.thermaldynamics.duct.structure.info": "Cung cấp kết cấu."
+}

@@ -1,0 +1,298 @@
+{
+  "entries": [
+    {
+      "key": "dj2.quest.db.268.desc",
+      "en": "Find a room with some Parasecta or Dramix Altars inside the Dungeon of Arcana! Place your Wizards Book on one of them to spawn Parasecta / Dramix!%n%nDefeat it and collect your loot, the Dungeon Tokens!",
+      "vi_current": "Tìm một căn phòng có Parasecta Altar hoặc Dramix Altar bên trong Dungeon of Arcana! Đặt Wizards Book của bạn lên một trong số chúng để triệu hồi Parasecta / Dramix!%n%nĐánh bại nó và thu thập chiến lợi phẩm của bạn: Dungeon Token!",
+      "must_keep": "Dungeon Tokens"
+    },
+    {
+      "key": "dj2.quest.db.251.desc",
+      "en": "Once you've collected 8 pieces of Firelights, you can obtain 2 Water Buckets to make an infinite Water source.%n%nUsing this, make Mushrooms and Mushroom Stew for food!",
+      "vi_current": "Sau khi thu thập được 8 mảnh Firelights, bạn có thể nhận 2 Xô nước để tạo một nguồn Nước vô hạn.%n%nHãy dùng nguồn nước này để tạo Nấm và Súp nấm làm thức ăn!",
+      "must_keep": "Mushroom Stew"
+    },
+    {
+      "key": "dj2.quest.db.489.desc",
+      "en": "Break down some Platinum, Iridium, or Gold in the Fission Multiblock to obtain some Yttrium!",
+      "vi_current": "Phân rã một ít Platinum, Iridium hoặc Gold trong cấu trúc đa khối Fission để thu được Yttrium!",
+      "must_keep": "Multiblock"
+    },
+    {
+      "key": "dj2.quest.db.1609.title",
+      "en": "[UTILITY] Fey Light",
+      "vi_current": "[TIỆN ÍCH] Ánh sáng Fey",
+      "must_keep": "Fey Light"
+    },
+    {
+      "key": "dj2.quest.db.1735.desc",
+      "en": "Use the immense power of the heavens themselves to fuel your arcane purposes!%n%nBy placing an Attuned Crystal atop the Ritual Pedestal, you will cause the Ritual Pedestal to emit an effect based on the Constellation Attuned to. The Attuned Crystal will gradually decay and lose effectiveness as it §4fractures§r. Fractured Crystals can be repaired by being dropped in Liquid Starlight.%n%nPlacing a Ritual Anchor 5 blocks above the Pedestal will allow the effect to be relocated to a paired Ritual Anchor elsewhere, allowing for more precise utilization of the Ritual.%n%nDirecting additional Starlight towards the Ritual Pedestal will increase the strength of the ritual, although it requires placing Lenses above the ritual to reflect the refracted light for full efficiency. It will also increase the rate the Attuned Crystal fractures.%n%n%nEach Attunement to the Major and Minor Constellations has its own effect which may be worth exploring. Instead of providing a distinct effect, Faint Constellations apply a modifier to the effect of the Major or Minor Constellation. One of the Faint Constellations corrupts the ritual, causing it to have inverted effects.%n%n%n%nWhen attuned to the Major or Minor Constellation:%n%n§6Discidia§r, non-owner entities are constantly damaged. When Corrupted, entities are healed and given Resistance, and the owner is dealt damage.%n§6Armara§r, prevents mobs from spawning, pushes projectiles away, and gives all entities Resistance. When Corrupted, gives all non-player entities a number of beneficial effects and will drop significantly more items when killed.%n§6Vicio§r, players gain the ability to fly. When Corrupted, players lose flying and gain Mining Fatigue and Slowness.%n§6Aevitas§r, entities gain the Regeneration potion effect and crops have their growth accelerated. When Corrupted, entities gain a number of negative effects and crops are broken.%n§6Evorsio§r, breaks blocks. When Corrupted, places various blocks instead.%n§6Lucerna§r, prevents mobs from spawning. When Corrupted, prevents night from passing.%n§6Mineralis§r, generates random ores in the area. When Corrupted, tries to generate those same ores where an entity already is.%n§6Horologium§r, accelerates the tick rate of Tile Entities, which are indicated by particles. They cannot include any Applied Energistics 2 blocks or most Astral Sorcery blocks. When Corrupted, stops entities and Tile Entities from moving - which can affect bosses.%n§6Octans§r, generates drops from fishing. When Corrupted, places water in the area and generates drops from fishing.%n§6Bootes§r, generates the drops an animal would have if killed without killing. When Corrupted, causes animals to drop significantly more items when killed and kills them.%n§6Fornax§r, smelts blocks in world. When Corrupted, freezes fluids instead.%n§6Pelotrio§r, spawns mobs that are valid in the current location. When Corrupted, converts entities between forms and causes mobs to drop significantly more items when killed.%n%nWhen attuned to the Faint Constellation:%n%n§6Gelu§r, increases the size affect but decreases the potency.%n§6Ulteria§r, amplifies the effect significantly but decreases the size.%n§6Alcara§r, Corrupts the ritual, amplifies the effect, and increases the size, but significantly increases the rate the Attuned Crystal fractures.%n§6Vorux§r, amplifies the effect and increases the size, but slightly increases the rate the Attuned Crystal fractures.",
+      "vi_current": "Hãy dùng sức mạnh vô biên của chính thiên giới để tiếp năng lượng cho những mục đích bí thuật của bạn!%n%nKhi đặt một Attuned Crystal lên Ritual Pedestal, bạn sẽ khiến Ritual Pedestal tạo ra hiệu ứng dựa trên Chòm sao mà viên pha lê được đồng điệu. Attuned Crystal sẽ dần suy giảm và mất hiệu lực khi nó §4nứt vỡ§r. Có thể sửa chữa các Fractured Crystal bằng cách thả chúng vào Liquid Starlight.%n%nĐặt một Ritual Anchor cao hơn Pedestal 5 khối sẽ cho phép chuyển hiệu ứng đến một Ritual Anchor đã ghép cặp ở nơi khác, giúp bạn tận dụng Nghi lễ chính xác hơn.%n%nDẫn thêm Starlight về phía Ritual Pedestal sẽ tăng sức mạnh của nghi lễ, mặc dù để đạt hiệu suất tối đa, bạn cần đặt các Lens phía trên nghi lễ nhằm phản chiếu ánh sáng khúc xạ. Việc này cũng làm Attuned Crystal nứt vỡ nhanh hơn.%n%n%nMỗi kiểu đồng điệu với Chòm sao Chính và Chòm sao Phụ đều có hiệu ứng riêng đáng để khám phá. Thay vì tạo ra một hiệu ứng riêng biệt, các Chòm sao Mờ áp dụng một hiệu chỉnh lên hiệu ứng của Chòm sao Chính hoặc Chòm sao Phụ. Một trong các Chòm sao Mờ sẽ làm tha hóa nghi lễ, khiến hiệu ứng của nó bị đảo ngược.%n%n%n%nKhi được đồng điệu với Chòm sao Chính hoặc Chòm sao Phụ:%n%n§6Discidia§r, các thực thể không phải chủ nhân liên tục nhận sát thương. Khi bị Tha hóa, các thực thể được hồi máu và nhận Kháng cự, còn chủ nhân sẽ nhận sát thương.%n§6Armara§r, ngăn mob sinh ra, đẩy các vật thể bay ra xa và cho mọi thực thể Kháng cự. Khi bị Tha hóa, mọi thực thể không phải người chơi nhận một số hiệu ứng có lợi và sẽ rơi ra nhiều vật phẩm hơn đáng kể khi bị tiêu diệt.%n§6Vicio§r, người chơi có khả năng bay. Khi bị Tha hóa, người chơi mất khả năng bay và chịu Mệt mỏi khi đào cùng Chậm chạp.%n§6Aevitas§r, các thực thể nhận hiệu ứng thuốc Tái tạo và cây trồng phát triển nhanh hơn. Khi bị Tha hóa, các thực thể chịu một số hiệu ứng bất lợi và cây trồng bị phá hủy.%n§6Evorsio§r, phá vỡ các khối. Khi bị Tha hóa, thay vào đó sẽ đặt nhiều loại khối khác nhau.%n§6Lucerna§r, ngăn mob sinh ra. Khi bị Tha hóa, ngăn màn đêm trôi qua.%n§6Mineralis§r, tạo ra quặng ngẫu nhiên trong khu vực. Khi bị Tha hóa, cố gắng tạo chính những quặng đó tại vị trí đang có thực thể.%n§6Horologium§r, tăng tốc độ tick của các Tile Entity, được biểu thị bằng các hạt hiệu ứng. Chúng không thể bao gồm bất kỳ khối Applied Energistics 2 nào hoặc phần lớn các khối Astral Sorcery. Khi bị Tha hóa, ngăn thực thể và Tile Entity di chuyển — hiệu ứng này có thể tác động đến cả boss.%n§6Octans§r, tạo ra vật phẩm thu được từ câu cá. Khi bị Tha hóa, đặt nước trong khu vực và tạo ra vật phẩm thu được từ câu cá.%n§6Bootes§r, tạo ra những vật phẩm mà động vật sẽ rơi ra nếu bị giết nhưng không giết chúng. Khi bị Tha hóa, khiến động vật rơi ra nhiều vật phẩm hơn đáng kể khi bị giết, đồng thời giết chúng.%n§6Fornax§r, nung chảy các khối trong thế giới. Khi bị Tha hóa, thay vào đó sẽ đóng băng chất lỏng.%n§6Pelotrio§r, sinh ra những mob hợp lệ tại vị trí hiện tại. Khi bị Tha hóa, chuyển đổi thực thể giữa các dạng và khiến mob rơi ra nhiều vật phẩm hơn đáng kể khi bị tiêu diệt.%n%nKhi được đồng điệu với Chòm sao Mờ:%n%n§6Gelu§r, tăng phạm vi ảnh hưởng nhưng giảm cường độ.%n§6Ulteria§r, khuếch đại hiệu ứng đáng kể nhưng giảm phạm vi.%n§6Alcara§r, Tha hóa nghi lễ, khuếch đại hiệu ứng và tăng phạm vi, nhưng làm Attuned Crystal nứt vỡ nhanh hơn đáng kể.%n§6Vorux§r, khuếch đại hiệu ứng và tăng phạm vi, nhưng làm Attuned Crystal nứt vỡ nhanh hơn đôi chút.",
+      "must_keep": "Regeneration"
+    },
+    {
+      "key": "dj2.quest.db.788.desc",
+      "en": "Cosmic Meatballs are made of a bunch of Cosmic Neutronium items! Once you got some Meatballs, use them in the Ultimate Stew...!",
+      "vi_current": "Cosmic Meatball được làm từ cả đống vật phẩm Cosmic Neutronium! Khi đã có vài viên Meatball, hãy dùng chúng trong Ultimate Stew...!",
+      "must_keep": "Cosmic Meatballs"
+    },
+    {
+      "key": "dj2.quest.db.253.desc",
+      "en": "Use Dream Stone and Dream Dirt in the Crafting Table to obtain all of the Ores listed to the right.%n%nSome additional ones are also available if you want to make tools, weapons, or anything else out of them. Look up the usage of Dream Dirt or Dream Stone, and scroll to the end to see their recipes!%n%nThese are: Lapis, Realmite, Arlemite, Rupee, Quartz, and Salt Ores.",
+      "vi_current": "Dùng Dream Stone và Dream Dirt trong Bàn chế tạo để thu được tất cả các loại Quặng được liệt kê bên phải.%n%nNgoài ra còn có một số loại khác nếu bạn muốn dùng chúng để chế tạo công cụ, vũ khí hoặc bất kỳ thứ gì khác. Hãy tra cứu công dụng của Dream Dirt hoặc Dream Stone rồi cuộn xuống cuối để xem công thức!%n%nBao gồm: Quặng Lapis, Realmite, Arlemite, Rupee, Quartz và Salt.",
+      "must_keep": "Crafting Table"
+    },
+    {
+      "key": "dj2.quest.db.253.desc",
+      "en": "Use Dream Stone and Dream Dirt in the Crafting Table to obtain all of the Ores listed to the right.%n%nSome additional ones are also available if you want to make tools, weapons, or anything else out of them. Look up the usage of Dream Dirt or Dream Stone, and scroll to the end to see their recipes!%n%nThese are: Lapis, Realmite, Arlemite, Rupee, Quartz, and Salt Ores.",
+      "vi_current": "Dùng Dream Stone và Dream Dirt trong Bàn chế tạo để thu được tất cả các loại Quặng được liệt kê bên phải.%n%nNgoài ra còn có một số loại khác nếu bạn muốn dùng chúng để chế tạo công cụ, vũ khí hoặc bất kỳ thứ gì khác. Hãy tra cứu công dụng của Dream Dirt hoặc Dream Stone rồi cuộn xuống cuối để xem công thức!%n%nBao gồm: Quặng Lapis, Realmite, Arlemite, Rupee, Quartz và Salt.",
+      "must_keep": "Salt Ore"
+    },
+    {
+      "key": "dj2.quest.db.218.desc",
+      "en": "Craft an Essentia Infusion Provider!%n%nUsing your Thaumic Energistics system, you can provide Essentia for regular Infusions with this. No need for Jars anymore!%n%nHowever, since \"vanilla\" Infusion itself cannot be fully automated, I recommend using this in the Auto Infusion Matrix, a custom Modular Machinery Multiblock.",
+      "vi_current": "Chế tạo một Essentia Infusion Provider!%n%nVới hệ thống Thaumic Energistics của mình, bạn có thể dùng thiết bị này để cung cấp Essentia cho các quá trình Infusion thông thường. Không cần Jar nữa!%n%nTuy nhiên, vì bản thân Infusion \"nguyên bản\" không thể được tự động hóa hoàn toàn, tôi khuyên bạn nên dùng thiết bị này trong Auto Infusion Matrix, một cấu trúc đa khối Modular Machinery tùy chỉnh.",
+      "must_keep": "Multiblock"
+    },
+    {
+      "key": "dj2.quest.db.1643.desc",
+      "en": "Craft some Floral Fertilizers and use it to gather up all 16 colors of Botania Flowers!%n%nYou can craft them into Petals, plant them, grow them with Bone Meal, and finally shear them to get more.",
+      "vi_current": "Chế tạo một ít Floral Fertilizer và dùng chúng để thu thập đủ cả 16 màu hoa Botania!%n%nBạn có thể chế tạo chúng thành Petal, trồng xuống, dùng Bone Meal để thúc lớn và cuối cùng dùng kéo cắt để thu được nhiều hơn.",
+      "must_keep": "Botania Flower"
+    },
+    {
+      "key": "dj2.quest.db.265.desc",
+      "en": "Combine Dirty Pearls, Acid, and Emerald to conjure an Ender Pearl.%n%nThen upgrade it into an Eye of the Nightmare using some Blaze Powder, a slice of Glistering Melon and some Shiny Pearls!",
+      "vi_current": "Kết hợp Dirty Pearl, Acid và Emerald để triệu tạo một Ender Pearl.%n%nSau đó, nâng cấp nó thành Eye of the Nightmare bằng một ít Blaze Powder, một lát Glistering Melon và vài viên Shiny Pearl!",
+      "must_keep": "Shiny Pearls"
+    },
+    {
+      "key": "dj2.quest.db.265.desc",
+      "en": "Combine Dirty Pearls, Acid, and Emerald to conjure an Ender Pearl.%n%nThen upgrade it into an Eye of the Nightmare using some Blaze Powder, a slice of Glistering Melon and some Shiny Pearls!",
+      "vi_current": "Kết hợp Dirty Pearl, Acid và Emerald để triệu tạo một Ender Pearl.%n%nSau đó, nâng cấp nó thành Eye of the Nightmare bằng một ít Blaze Powder, một lát Glistering Melon và vài viên Shiny Pearl!",
+      "must_keep": "Dirty Pearls"
+    },
+    {
+      "key": "dj2.quest.db.1714.title",
+      "en": "Botanical Brewery",
+      "vi_current": "Xưởng Pha Chế Thảo Mộc",
+      "must_keep": "Botanical Brewery"
+    },
+    {
+      "key": "dj2.quest.db.837.desc",
+      "en": "Smelt your Grout into Seared Bricks and enter Tinkers' Construct!",
+      "vi_current": "Nung Grout thành Seared Brick và bước vào thế giới Tinkers' Construct!",
+      "must_keep": "Seared Bricks"
+    },
+    {
+      "key": "dj2.quest.db.636.desc",
+      "en": "Dimensional Shard Ores spawn in any non-void RFTools Dimension from Y=2 to Y=64. Find some and mine up some!%n%nYou'll need a lot of these going forward, so set up a Quarry or Digital Miner in a (preferably pleasant) Dimension of your choice to mine some up.",
+      "vi_current": "Quặng Dimensional Shard xuất hiện trong mọi RFTools Dimension không phải hư không, từ Y=2 đến Y=64. Hãy tìm và khai thác một ít!%n%nSau này bạn sẽ cần rất nhiều, vì vậy hãy thiết lập Quarry hoặc Digital Miner trong một Chiều không gian tùy chọn (tốt nhất là nơi dễ chịu) để khai thác chúng.",
+      "must_keep": "Dimensional Shard Ore"
+    },
+    {
+      "key": "dj2.quest.db.968.desc",
+      "en": "Obtain some Stalagnate commonly found near Thornvines! Simply chop them with an Axe, you can't obtain the leafy version, but you can obtain Stalagnate Seeds to regrow the plant.",
+      "vi_current": "Thu thập một ít Stalagnate, thường được tìm thấy gần Thornvine! Chỉ cần chặt chúng bằng Axe; bạn không thể thu thập phiên bản có lá, nhưng có thể lấy Stalagnate Seed để trồng lại cây.",
+      "must_keep": "Thornvines"
+    },
+    {
+      "key": "dj2.quest.db.1298.desc",
+      "en": "Create some Fertilizer with your Sewage Composter! You can use it as Bone Meal, Brown Dye, an input for the Plant Fertilizer Machine, or to create some Crystalline Brown Slime Ingots.",
+      "vi_current": "Tạo một ít Fertilizer bằng Sewage Composter! Bạn có thể dùng nó như Bột xương, Thuốc nhuộm Nâu, nguyên liệu đầu vào cho Plant Fertilizer Machine, hoặc để tạo ra một ít Crystalline Brown Slime Ingots.",
+      "must_keep": "Brown Dye"
+    },
+    {
+      "key": "dj2.quest.db.1149.desc",
+      "en": "Craft some Wooden, Stone, and finally Iron Spikes! This damages any mob standing on top or right besides it. Great for a mob farm!",
+      "vi_current": "Hãy chế tạo Wooden Spike, Stone Spike và cuối cùng là Iron Spike! Chúng gây sát thương cho mọi mob đứng trên hoặc ngay bên cạnh. Rất phù hợp cho trại mob!",
+      "must_keep": "Iron Spikes"
+    },
+    {
+      "key": "dj2.quest.db.24.desc",
+      "en": "Fill up your Abyssalnomicon entirely! Once you've done so, jump down into the void in Omothol to enter the final AbyssalCraft dimension, the Dark Realm! To get back, simply Right Click with your Key in the air, or Right Click on the ground to make a portal.%n%nYou have one final objective in AbyssalCraft: Summon and defeat Sacthoth, Harbinger of Doom!%n%nTo do so, set up a Ritual circle out of 9 Dark Ethaxium Bricks, and open your Abyssalnomicon, go to the Rituals section, then Abyssalnomicon, and scroll all the way to the last page (page 20), and perform the Ritual described there: the Ritual of Shadows in the Dark Realm!%n%nAfter successfully summoning and defeating Sacthoth, he will drop his sword, Sacthoth's Soul Reaper Blade. By slaying monsters with this sword, it'll collect Souls and get stronger and stronger.%n%nThough you might want to remove these souls and see what effect that'll have...",
+      "vi_current": "Nạp đầy hoàn toàn Abyssalnomicon của bạn! Sau khi hoàn tất, hãy nhảy xuống hư không ở Omothol để tiến vào chiều không gian cuối cùng của AbyssalCraft, Dark Realm! Để quay lại, chỉ cần nhấp chuột phải với Key khi đang hướng vào không trung, hoặc nhấp chuột phải xuống mặt đất để tạo một cổng dịch chuyển.%n%nBạn còn một mục tiêu cuối cùng trong AbyssalCraft: triệu hồi và đánh bại Sacthoth, Harbinger of Doom!%n%nĐể làm vậy, hãy dựng một vòng Nghi lễ bằng 9 Dark Ethaxium Brick, mở Abyssalnomicon, vào mục Rituals, rồi Abyssalnomicon, cuộn đến tận trang cuối cùng (trang 20) và thực hiện Nghi lễ được mô tả tại đó: Ritual of Shadows trong Dark Realm!%n%nSau khi triệu hồi và đánh bại Sacthoth thành công, hắn sẽ đánh rơi thanh kiếm Sacthoth's Soul Reaper Blade. Khi tiêu diệt quái vật bằng thanh kiếm này, nó sẽ thu thập Linh hồn và ngày càng trở nên mạnh hơn.%n%nDù vậy, có lẽ bạn sẽ muốn lấy những linh hồn này ra và xem việc đó sẽ gây ra hiệu ứng gì...",
+      "must_keep": "Ethaxium Bricks"
+    },
+    {
+      "key": "dj2.quest.db.24.desc",
+      "en": "Fill up your Abyssalnomicon entirely! Once you've done so, jump down into the void in Omothol to enter the final AbyssalCraft dimension, the Dark Realm! To get back, simply Right Click with your Key in the air, or Right Click on the ground to make a portal.%n%nYou have one final objective in AbyssalCraft: Summon and defeat Sacthoth, Harbinger of Doom!%n%nTo do so, set up a Ritual circle out of 9 Dark Ethaxium Bricks, and open your Abyssalnomicon, go to the Rituals section, then Abyssalnomicon, and scroll all the way to the last page (page 20), and perform the Ritual described there: the Ritual of Shadows in the Dark Realm!%n%nAfter successfully summoning and defeating Sacthoth, he will drop his sword, Sacthoth's Soul Reaper Blade. By slaying monsters with this sword, it'll collect Souls and get stronger and stronger.%n%nThough you might want to remove these souls and see what effect that'll have...",
+      "vi_current": "Nạp đầy hoàn toàn Abyssalnomicon của bạn! Sau khi hoàn tất, hãy nhảy xuống hư không ở Omothol để tiến vào chiều không gian cuối cùng của AbyssalCraft, Dark Realm! Để quay lại, chỉ cần nhấp chuột phải với Key khi đang hướng vào không trung, hoặc nhấp chuột phải xuống mặt đất để tạo một cổng dịch chuyển.%n%nBạn còn một mục tiêu cuối cùng trong AbyssalCraft: triệu hồi và đánh bại Sacthoth, Harbinger of Doom!%n%nĐể làm vậy, hãy dựng một vòng Nghi lễ bằng 9 Dark Ethaxium Brick, mở Abyssalnomicon, vào mục Rituals, rồi Abyssalnomicon, cuộn đến tận trang cuối cùng (trang 20) và thực hiện Nghi lễ được mô tả tại đó: Ritual of Shadows trong Dark Realm!%n%nSau khi triệu hồi và đánh bại Sacthoth thành công, hắn sẽ đánh rơi thanh kiếm Sacthoth's Soul Reaper Blade. Khi tiêu diệt quái vật bằng thanh kiếm này, nó sẽ thu thập Linh hồn và ngày càng trở nên mạnh hơn.%n%nDù vậy, có lẽ bạn sẽ muốn lấy những linh hồn này ra và xem việc đó sẽ gây ra hiệu ứng gì...",
+      "must_keep": "Dark Ethaxium Bricks"
+    },
+    {
+      "key": "dj2.quest.db.564.desc",
+      "en": "Craft a Seed Analyzer and place an Agricultural Journal inside to keep track of analyzed plants. You can use this machine to check your 10/10/10'ing progress for each Seed.%n%nThe Gardening Trowel is an easy way to move plants.%n%nThe Clipper is a very powerful tool that lets you duplicate Seeds. Though you could always just use more Crop Sticks to mutate more.",
+      "vi_current": "Chế tạo Seed Analyzer và đặt Agricultural Journal vào bên trong để theo dõi các loài cây đã phân tích. Bạn có thể dùng cỗ máy này để kiểm tra tiến độ nâng từng Seed lên 10/10/10.%n%nGardening Trowel là một cách dễ dàng để di chuyển cây trồng.%n%nClipper là một công cụ rất mạnh cho phép bạn nhân bản Seed. Dù vậy, bạn luôn có thể dùng thêm Crop Stick để tạo ra nhiều đột biến hơn.",
+      "must_keep": "Crop Sticks"
+    },
+    {
+      "key": "dj2.quest.db.332.desc",
+      "en": "The Stellar Refraction Table can give you Enchanted Books over the maximum vanilla level. Using Mending III, gained from Aevitas, Sharpness VII & Power VII, gained from Discidia, and Feather Falling, gained from Vicio, craft the Enchanter's PhD.%n%nYou've earned it.%n%n(These can be placed anywhere in the Crafting window, and the Books may have other enchantments on them.)",
+      "vi_current": "Stellar Refraction Table có thể tạo cho bạn những Enchanted Books vượt quá cấp độ tối đa của vanilla. Hãy dùng Mending III nhận được từ Aevitas, Sharpness VII & Power VII nhận được từ Discidia, cùng Feather Falling nhận được từ Vicio để chế tạo bằng Tiến sĩ Phù phép.%n%nBạn xứng đáng với nó.%n%n(Có thể đặt chúng ở bất kỳ đâu trong cửa sổ Crafting, và các Books có thể mang thêm những enchantment khác.)",
+      "must_keep": "Enchanter"
+    },
+    {
+      "key": "dj2.quest.db.1413.title",
+      "en": "Mob Imprisonment Tool",
+      "vi_current": "Công cụ Giam giữ Sinh vật",
+      "must_keep": "Mob Imprisonment Tool"
+    },
+    {
+      "key": "dj2.quest.db.286.desc",
+      "en": "Return from Vethea using the Portal located right where you spawned in.%n%nUsing a Dungeon Token, some Ignition (from the end of Bewitchment), an Impetus Crystal, Lightning Grenade (gathered from an Environmental Accumulator) and Clean Pearls you've just obtained craft some Lightning Charges! This will open LightningCraft for you!",
+      "vi_current": "Trở về từ Vethea bằng Portal nằm ngay tại nơi bạn đã xuất hiện.%n%nDùng một Dungeon Token, một ít Ignition (từ phần cuối của Bewitchment), một Impetus Crystal, Lightning Grenade (thu được từ Environmental Accumulator) và Clean Pearl bạn vừa kiếm được để chế tạo một ít Lightning Charge! Điều này sẽ mở khóa LightningCraft cho bạn!",
+      "must_keep": "Clean Pearls"
+    },
+    {
+      "key": "dj2.quest.db.1065.desc",
+      "en": "Use your Relic Ingots to craft some Relic Blocks and create an Atum Kiln! This is a multiblock structure made of 2 Kiln blocks and 6 Small Limestone Bricks in a 2x2. The Kiln blocks go on top in the same row besides each other. This machine is mainly used to create some Atum-specific items, but can smelt some furnace recipes.",
+      "vi_current": "Dùng Relic Ingot để chế tạo Relic Block và xây dựng một Atum Kiln! Đây là một cấu trúc đa khối kích thước 2x2, được tạo thành từ 2 Kiln block và 6 Small Limestone Brick. Hai Kiln block nằm cạnh nhau ở hàng trên cùng. Cỗ máy này chủ yếu dùng để tạo ra một số vật phẩm dành riêng cho Atum, nhưng cũng có thể nung một số công thức của furnace.",
+      "must_keep": "Limestone Bricks"
+    },
+    {
+      "key": "dj2.quest.db.1065.desc",
+      "en": "Use your Relic Ingots to craft some Relic Blocks and create an Atum Kiln! This is a multiblock structure made of 2 Kiln blocks and 6 Small Limestone Bricks in a 2x2. The Kiln blocks go on top in the same row besides each other. This machine is mainly used to create some Atum-specific items, but can smelt some furnace recipes.",
+      "vi_current": "Dùng Relic Ingot để chế tạo Relic Block và xây dựng một Atum Kiln! Đây là một cấu trúc đa khối kích thước 2x2, được tạo thành từ 2 Kiln block và 6 Small Limestone Brick. Hai Kiln block nằm cạnh nhau ở hàng trên cùng. Cỗ máy này chủ yếu dùng để tạo ra một số vật phẩm dành riêng cho Atum, nhưng cũng có thể nung một số công thức của furnace.",
+      "must_keep": "Small Limestone Bricks"
+    },
+    {
+      "key": "dj2.quest.db.575.desc",
+      "en": "Craft the Fire and Nether Seeds! These will allow you to craft several important things, including Sand!",
+      "vi_current": "Hãy chế tạo Hạt giống Lửa và Nether! Chúng sẽ cho phép bạn chế tạo một số thứ quan trọng, bao gồm cả Cát!",
+      "must_keep": "Nether Seeds"
+    },
+    {
+      "key": "dj2.quest.db.304.desc",
+      "en": "Gather the components to assemble the Lightningcraft Infusion Multiblock!%nIn addition to the listed components, you will need any Item Output Hatch, a Small or larger Item Input Hatch, and at least a Huge Energy Input Hatch.%n%nThis will allow you to process recipes faster and for higher output than the Lightningcraft Infuser, but more importantly, without the significant TPS lag the Infuser causes. It will also allow for additional recipes, such as the Mystic Ingot.%n%nThe Lightningcraft Infusion Multiblock can be upgraded:%n- By replacing the Skyfather Air Terminal atop the structure with an LE Reciever (Tier 3), the energy cost will be halved.%n- By replacing the Advanced Lightning Cell below the structure with a Mystic Lightning Cell, the processing speed will be doubled.%n- By instead replacing the Advanced Lightning Cell below the structure with an RF Lightning Generator, the processing speed will be 5 times faster!",
+      "vi_current": "Thu thập các thành phần để lắp ráp Lightningcraft Infusion Multiblock!%nNgoài các thành phần được liệt kê, bạn sẽ cần một Item Output Hatch bất kỳ, một Item Input Hatch cỡ Small hoặc lớn hơn, và ít nhất một Energy Input Hatch cỡ Huge.%n%nCỗ máy này cho phép bạn xử lý công thức nhanh hơn và thu được sản lượng cao hơn Lightningcraft Infuser, nhưng quan trọng hơn cả là không gây ra tình trạng giật TPS nghiêm trọng như Infuser. Nó cũng mở khóa thêm các công thức, chẳng hạn như Mystic Ingot.%n%nLightningcraft Infusion Multiblock có thể được nâng cấp:%n- Thay Skyfather Air Terminal trên đỉnh cấu trúc bằng LE Reciever (Tier 3) để giảm một nửa chi phí năng lượng.%n- Thay Advanced Lightning Cell bên dưới cấu trúc bằng Mystic Lightning Cell để tăng gấp đôi tốc độ xử lý.%n- Hoặc thay Advanced Lightning Cell bên dưới cấu trúc bằng RF Lightning Generator để tăng tốc độ xử lý lên gấp 5 lần!",
+      "must_keep": "Huge Energy Input Hatch"
+    },
+    {
+      "key": "dj2.quest.db.189.desc",
+      "en": "Use more Mysterious Leaking Souls to craft Aconitum, Belladonna, and Wormwood Seeds.",
+      "vi_current": "Dùng thêm Mysterious Leaking Souls để chế tạo Hạt giống Aconitum, Belladonna và Wormwood.",
+      "must_keep": "Wormwood Seeds"
+    },
+    {
+      "key": "dj2.quest.db.330.desc",
+      "en": "The Attunement Altar is a multiblock structure that will allow you to attune a large variety of things.%nTo specify what to attune to, place down Spectral Relays in the locations needed to form a Constellation. This is indicated by blue sparks when holding a Constellation Paper.%nThen, wait for that Constellation to be in the sky at night.%nThe nodes around the central Altar will lift up with the pure, channeled force of the Starlight.%nNow, toss an item that can be attuned, such as Rock Crystals or Celestial Crystals, onto the Altar.%n%nAlternatively, Attune yourself and unlock the powerful world of Perks! Experience will be gained based on what you attune yourself to. Experience required to level up has been modified by a custom formula via Astral Level Tweak, making early levels easy to obtain and keeping later levels feasible. The level cap is 100, so go wild and see what you can do.",
+      "vi_current": "Attunement Altar là một cấu trúc đa khối cho phép bạn đồng điệu nhiều loại thứ khác nhau.%nĐể chỉ định đối tượng đồng điệu, hãy đặt các Spectral Relays tại những vị trí cần thiết để tạo thành một Chòm sao. Khi cầm Constellation Paper, các vị trí này sẽ được biểu thị bằng những tia lửa màu xanh lam.%nSau đó, hãy chờ Chòm sao đó xuất hiện trên bầu trời vào ban đêm.%nCác nút xung quanh Altar trung tâm sẽ bay lên nhờ sức mạnh thuần khiết, được hội tụ của ánh sao.%nBây giờ, hãy ném một vật phẩm có thể đồng điệu, chẳng hạn như Rock Crystals hoặc Celestial Crystals, lên Altar.%n%nHoặc bạn có thể đồng điệu chính mình và mở khóa thế giới Perks đầy quyền năng! Bạn sẽ nhận được kinh nghiệm dựa trên thứ mà mình đồng điệu cùng. Lượng kinh nghiệm cần để lên cấp đã được điều chỉnh bằng một công thức tùy chỉnh thông qua Astral Level Tweak, giúp các cấp đầu dễ đạt được trong khi các cấp sau vẫn nằm trong tầm với. Giới hạn cấp độ là 100, vì vậy hãy thỏa sức khám phá xem bạn có thể làm được những gì.",
+      "must_keep": "Starlight"
+    },
+    {
+      "key": "dj2.quest.db.1089.desc",
+      "en": "Obtain some Flax Seeds by either finding an Oasis and breaking the tall grass there, or finding some in a treasure chest!",
+      "vi_current": "Kiếm một ít Flax Seed bằng cách tìm một Oasis rồi phá cỏ cao ở đó, hoặc tìm chúng trong rương kho báu!",
+      "must_keep": "Flax Seeds"
+    },
+    {
+      "key": "dj2.quest.db.873.desc",
+      "en": "Craft an LV Wire Coil and 2 LV Wire Connectors. By attaching the Wire Connectors to Machines, Generators, or Capacitors, and connecting them with a Wire, you'll be able to transfer power between them!%n%nLV Wires can stretch out up to 16 blocks apart, and cannot be obstructed by any blocks. The LV Wire can only transfer 2048 RF/tick. So if you have multiple machines, you might need to upgrade it to MV or HV. If you don't want to replace your entire system of wires, you can craft Transformers to change between LV and MV, or MV and HV.%n%nWire Connectors can only be used as inputs or outputs. Craft Wire Relays if you'd like some throughputs as well.%n%nAny wire can be easily disconnected with a pair of Engineers' Wire Cutters.",
+      "vi_current": "Chế tạo một LV Wire Coil và 2 LV Wire Connectors. Bằng cách gắn Wire Connectors vào Máy móc, Máy phát điện hoặc Tụ điện rồi nối chúng bằng Wire, bạn sẽ có thể truyền điện giữa chúng!%n%nLV Wires có thể kéo dài tối đa 16 khối và không được có bất kỳ khối nào cản trở. LV Wire chỉ có thể truyền 2048 RF/tick. Vì vậy, nếu có nhiều máy, bạn có thể cần nâng cấp lên MV hoặc HV. Nếu không muốn thay thế toàn bộ hệ thống dây điện, bạn có thể chế tạo Transformers để chuyển đổi giữa LV và MV, hoặc giữa MV và HV.%n%nWire Connectors chỉ có thể được dùng làm đầu vào hoặc đầu ra. Hãy chế tạo Wire Relays nếu bạn cũng cần các điểm trung chuyển.%n%nCó thể dễ dàng ngắt kết nối bất kỳ loại dây nào bằng một chiếc Engineers' Wire Cutters.",
+      "must_keep": "Generator"
+    },
+    {
+      "key": "dj2.quest.db.1441.desc",
+      "en": "The Ender Inhibitor prevents Endermen or other similar entities from teleporting while within its radius - a must-have for a mob farm.",
+      "vi_current": "Ender Inhibitor ngăn Enderman và các thực thể tương tự dịch chuyển tức thời khi ở trong bán kính tác dụng của nó — một thiết bị không thể thiếu cho trang trại quái vật.",
+      "must_keep": "The Ender"
+    },
+    {
+      "key": "dj2.quest.db.409.desc",
+      "en": "Enough with the Lightning strikes!%n%nWith the RF Lightning Generator, you can convert RF directly into LE!%nYou can also increase the speed of your Lightningcraft Infusion Multiblock by x5 compared to the base.",
+      "vi_current": "Quá đủ với những cú sét đánh rồi!%n%nVới RF Lightning Generator, bạn có thể chuyển đổi trực tiếp RF thành LE!%nBạn cũng có thể tăng tốc độ của cấu trúc đa khối Lightningcraft Infusion lên gấp 5 lần so với tốc độ cơ bản.",
+      "must_keep": "Multiblock"
+    },
+    {
+      "key": "dj2.quest.db.247.desc",
+      "en": "Make some Seared Bricks and set up a basic Smeltery! You can obtain Lava from Fire Crystals, and you can create some useful alloys to make powerful tools and weapons!%n%nMake sure to create a powerful Cleaver or Longsword and some kind of ranged weapon!",
+      "vi_current": "Chế tạo một ít Seared Brick và dựng một Smeltery cơ bản! Bạn có thể lấy Lava từ Fire Crystal và tạo ra những hợp kim hữu ích để chế tạo công cụ cùng vũ khí mạnh mẽ!%n%nNhớ chế tạo một Cleaver hoặc Longsword thật mạnh, cùng một loại vũ khí tầm xa!",
+      "must_keep": "Seared Bricks"
+    },
+    {
+      "key": "dj2.quest.db.282.desc",
+      "en": "Use Sand, Lava, and Polished Pearls to create Soul Sand!%n%nUse Soul Sand, Glass, and any kind of Pearls to make a Soul Vial! Collect 4 types of mobs (1 from each layer) to later Powered Spawn them in your base for their loot!",
+      "vi_current": "Dùng Sand, Lava và Polished Pearl để tạo Soul Sand!%n%nDùng Soul Sand, Glass và bất kỳ loại Pearl nào để chế tạo Soul Vial! Hãy thu thập 4 loại mob (mỗi tầng 1 loại) để sau này triệu hồi chúng bằng Powered Spawner tại căn cứ và thu chiến lợi phẩm!",
+      "must_keep": "Polished Pearls"
+    },
+    {
+      "key": "dj2.quest.db.6.title",
+      "en": "The Collector",
+      "vi_current": "Kẻ Thu Thập",
+      "must_keep": "Collector"
+    },
+    {
+      "key": "dj2.quest.db.857.desc",
+      "en": "Harvest some Yellow Flowers (Dandelions, Sunflowers, etc.), and turn them into Yellow Dye!",
+      "vi_current": "Thu hoạch một số Hoa Vàng (Bồ công anh, Hướng dương, v.v.), rồi biến chúng thành Thuốc nhuộm Vàng!",
+      "must_keep": "Yellow Flower"
+    },
+    {
+      "key": "dj2.quest.db.1104.desc",
+      "en": "Craft Steel or Golden Rings and Pendants and turn them into Ice Rings and Pendants in your Freezer!",
+      "vi_current": "Chế tạo Nhẫn và Mặt dây chuyền bằng Steel hoặc Gold, rồi biến chúng thành Ice Ring và Ice Pendant trong Freezer của bạn!",
+      "must_keep": "Golden Ring"
+    },
+    {
+      "key": "dj2.quest.db.396.desc",
+      "en": "Craft two Tier 1 Boosters! This will let you fly farther with your Rockets...!",
+      "vi_current": "Chế tạo hai Booster Tier 1! Chúng sẽ giúp bạn bay xa hơn bằng Rocket...!",
+      "must_keep": "Tier 1 Booster"
+    },
+    {
+      "key": "dj2.quest.db.1231.title",
+      "en": "Emperor of Empowerer",
+      "vi_current": "Hoàng đế Cường hóa",
+      "must_keep": "Empowerer"
+    },
+    {
+      "key": "dj2.quest.db.965.desc",
+      "en": "Use some Shears to obtain some Thornvines! If you wanna get a lot, make sure to break them from the bottom, since blocks that pop off and are not broken by Shears will just disappear.",
+      "vi_current": "Dùng Shears để thu thập một ít Thornvine! Nếu muốn lấy thật nhiều, hãy nhớ phá chúng từ dưới lên, vì những khối tự bung ra mà không bị phá bằng Shears sẽ biến mất.",
+      "must_keep": "Thornvines"
+    },
+    {
+      "key": "dj2.quest.db.1103.desc",
+      "en": "Slay some of the creatures in Iceika to obtain their precious Ice Shards!",
+      "vi_current": "Tiêu diệt một số sinh vật ở Iceika để lấy những Ice Shard quý giá của chúng!",
+      "must_keep": "Ice Shards"
+    },
+    {
+      "key": "dj2.quest.ql.20.desc",
+      "en": "Blast off with GalactiCraft, and the Laser Focus Multiblock!",
+      "vi_current": "Phóng lên cùng GalactiCraft và cấu trúc đa khối Laser Focus!",
+      "must_keep": "Multiblock"
+    },
+    {
+      "key": "dj2.quest.db.284.desc",
+      "en": "Use a Lava Bucket and Clean Pearls to make some Blaze Rods!",
+      "vi_current": "Dùng Lava Bucket và Clean Pearl để tạo một ít Blaze Rod!",
+      "must_keep": "Clean Pearls"
+    },
+    {
+      "key": "dj2.quest.db.859.desc",
+      "en": "Create a Totem Whittling Knife to unlock Chapter 2: Dancing on a Totem Pole!",
+      "vi_current": "Tạo một Totem Whittling Knife để mở khóa Chương 2: Nhảy múa trên cột Totem!",
+      "must_keep": "Totem Pole"
+    },
+    {
+      "key": "dj2.quest.db.743.title",
+      "en": "Quasi Quantum Supercomputer Singularity",
+      "vi_current": "Điểm kỳ dị Siêu máy tính Giả Lượng tử",
+      "must_keep": "Singularity"
+    },
+    {
+      "key": "dj2.quest.db.1148.desc",
+      "en": "\"Here is Goldey!\"%n%nUpgrade your Iron Spikes into Golden Ones. These might not deal as much damage, however anything killed by them drops experience!",
+      "vi_current": "\"Goldey đây rồi!\"%n%nNâng cấp Iron Spike thành Golden Spike. Chúng có thể không gây nhiều sát thương bằng, nhưng bất cứ thứ gì bị chúng tiêu diệt đều sẽ rơi kinh nghiệm!",
+      "must_keep": "Iron Spikes"
+    },
+    {
+      "key": "dj2.quest.db.1008.desc",
+      "en": "Craft a Crystal Growth Accelerator and place it next to a block of Water! Provide energy to it through Glass Cables and throw Certus Quartz Seeds inside. Watch as they turn into Pure Certus Quartz Crystals! Note that this machine requires a lot of power. It's recommended that you break up your line of Glass Cables with a Toggle Bus, place a Lever next to it, and only turn it on when you need the Crystal Growth Accelerators to be active.%nYou can technically place up to 6 of these around the water for even faster growth, although placing the 6th will prevent you from accessing the water.",
+      "vi_current": "Chế tạo một Crystal Growth Accelerator và đặt nó cạnh một khối Water! Cấp năng lượng cho nó qua Glass Cable rồi ném Certus Quartz Seed vào trong. Hãy quan sát chúng biến thành Pure Certus Quartz Crystal! Lưu ý rằng cỗ máy này cần rất nhiều năng lượng. Bạn nên ngắt quãng đường Glass Cable bằng một Toggle Bus, đặt một Lever bên cạnh và chỉ bật nó khi cần Crystal Growth Accelerator hoạt động.%nVề lý thuyết, bạn có thể đặt tối đa 6 máy quanh khối nước để tinh thể phát triển nhanh hơn nữa, mặc dù đặt máy thứ 6 sẽ khiến bạn không thể tiếp cận khối nước.",
+      "must_keep": "Certus Quartz Seeds"
+    }
+  ]
+}

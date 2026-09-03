@@ -1,0 +1,12 @@
+{
+  "name": "Water Protection Poppet",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_waterprotection",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_waterprotection",
+      "text": "Bảo vệ chủ nhân khỏi chết đuối trong một thời gian ngắn."
+    }
+  ]
+}

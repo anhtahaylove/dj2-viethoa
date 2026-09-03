@@ -1,0 +1,30 @@
+{
+  "name": "Staff",
+  "icon": "roots:staff",
+  "category": "crafting_armor_tools",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:staff",
+      "text": "Staff là một trong những thành phần thiết yếu của $(cat:spells)phép thuật$() và việc $(l:spells/introduction)thi triển phép thuật$().$(br2)Thay vì truyền phép thuật trực tiếp vào Staff, trước tiên chúng được truyền vĩnh viễn vào $(l:spells/library)Spell Library$() của bạn bằng một $(l:crafting/gramary)gramary$()."
+    },
+    {
+      "type": "text",
+      "text": "$(info) Để thêm phép thuật vào Staff, chỉ cần cầm nó và nhấn '$(k:roots.keybinds.spell_library)' để mở $(l:spells/library)Spell Library$().$(br2)Giao diện này cho phép bạn thay đổi các phép thuật đang trang bị, điều chỉnh thứ tự phép thuật và bật/tắt các modifier. Mọi chi tiết đều được giải thích trong mục Spell Library. "
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/introduction",
+        "spells/introduction2",
+        "spells/library",
+        "spells/modifiers",
+        "crafting/imbuer",
+        "crafting/imposer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Sigils",
+  "description": "Sigils được đặt trên các khối hoặc vách ngăn làm từ Dragon’s Blood Wood để lan tỏa hiệu ứng ra khu vực lân cận. Sigils chỉ là mực và giấy nên sẽ tự phân hủy theo thời gian. $(l)Có thể đưa Sigils vào danh sách đen hoặc danh sách trắng bằng cách nhấp chuột phải vào chúng bằng Taglock.",
+  "icon": "bewitchment:textures/gui/patchouli/icons/book_of_shadows/sigil.png",
+  "sortnum": 7
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Gall Apple",
+  "icon": "mysticalworld:gall_apple",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:gall_apple",
+      "text": "Có thể thu hoạch Gall Apple từ những cây bị ấu trùng ong bắp cày ký sinh. Thông thường, bạn có thể bắt đầu quá trình này bằng cách dùng $(l:items/wasp_attractant)Wasp Attractant$() lên cây sồi hoặc sồi đen.$(br2)Những 'quả táo' này chứa nhiều $(l:items/tannins)Tannins$(), dùng để sản xuất da thuộc."
+    }
+  ]
+}

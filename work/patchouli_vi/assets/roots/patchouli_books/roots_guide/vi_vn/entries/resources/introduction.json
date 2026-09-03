@@ -1,0 +1,25 @@
+{
+  "name": "Giới thiệu về tài nguyên",
+  "icon": "minecraft:writable_book",
+  "category": "resources",
+  "priority": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một pháp sư khôn ngoan nên luôn chuẩn bị sẵn một số tài nguyên. Một số có thể được thu thập trực tiếp, còn số khác có thể cần $(l:crafting/introduction)công cụ$() có thể chế tạo, $(l:rituals/introduction)nghi lễ$() hoặc $(l:spells/introduction)phép thuật$() cụ thể.$(br2)Một số tài nguyên được chế tạo theo cách truyền thống hoặc bằng thiết bị chuyên dụng; số khác được thu thập từ các thực thể bằng công cụ đặc biệt."
+    },
+    {
+      "type": "text",
+      "text": "Ví dụ, để lấy $(l:resources/bark)Bark$(), bạn cần chế tạo $(l:crafting/knives)Knife$(); tương tự, $(l:resources/petals)Petals$() cần $(l:crafting/mortar_and_pestle)Mortar & Pestle$().$(br2)Các tài nguyên phức tạp hơn cần hệ thống chế tạo phức tạp hơn, chẳng hạn $(l:resources/runestone)Runestone$() cần $(l:crafting/fey_crafter)Fey Crafter$(), còn $(l:resources/mystic_feather)Mystic Feathers$() và $(l:resources/fey_leather)Fey Leather$() cần $(l:crafting/runic_shears)Runic Shears$().$(br2)$(info) Dù đến từ nguồn nào, mỗi $(cat:resource)mục tài nguyên$() đều nêu chính xác cách thu thập và liên kết đến phương thức đó."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears",
+        "crafting/knives"
+      ]
+    }
+  ]
+}

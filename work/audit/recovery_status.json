@@ -1,0 +1,1090 @@
+{
+  "books": [
+    {
+      "name": "books_abyssalcraft",
+      "source": 338,
+      "target": 338,
+      "covered": 338,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_actuallyadditions",
+      "source": 325,
+      "target": 325,
+      "covered": 325,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_astralsorcery",
+      "source": 167,
+      "target": 167,
+      "covered": 167,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_bloodmagic",
+      "source": 274,
+      "target": 274,
+      "covered": 274,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_botania",
+      "source": 1377,
+      "target": 780,
+      "covered": 780,
+      "missing": 597,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_immersiveengineering",
+      "source": 478,
+      "target": 305,
+      "covered": 305,
+      "missing": 173,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_thaumcraft",
+      "source": 475,
+      "target": 108,
+      "covered": 108,
+      "missing": 367,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "books_thaumicaugmentation",
+      "source": 225,
+      "target": 108,
+      "covered": 108,
+      "missing": 117,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    }
+  ],
+  "tooltips": [
+    {
+      "name": "abyssalcraft",
+      "source": 167,
+      "target": 167,
+      "covered": 167,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "actuallyadditions",
+      "source": 29,
+      "target": 29,
+      "covered": 29,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "aether_legacy",
+      "source": 14,
+      "target": 14,
+      "covered": 14,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "agricraft",
+      "source": 38,
+      "target": 38,
+      "covered": 38,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "alchemistry",
+      "source": 9,
+      "target": 9,
+      "covered": 9,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "appliedenergistics2",
+      "source": 98,
+      "target": 98,
+      "covered": 98,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "astralsorcery",
+      "source": 116,
+      "target": 116,
+      "covered": 116,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "atum",
+      "source": 7,
+      "target": 7,
+      "covered": 7,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "avaritia",
+      "source": 9,
+      "target": 9,
+      "covered": 9,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "betterbuilderswands",
+      "source": 12,
+      "target": 12,
+      "covered": 12,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "betternether",
+      "source": 2,
+      "target": 2,
+      "covered": 2,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "betterquesting",
+      "source": 12,
+      "target": 12,
+      "covered": 12,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bewitchment",
+      "source": 60,
+      "target": 60,
+      "covered": 60,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bhc",
+      "source": 10,
+      "target": 10,
+      "covered": 10,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bibliocraft",
+      "source": 3,
+      "target": 3,
+      "covered": 3,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "biggercraftingtables",
+      "source": 1,
+      "target": 1,
+      "covered": 1,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "biometweaker",
+      "source": 2,
+      "target": 2,
+      "covered": 2,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bloodmagic",
+      "source": 143,
+      "target": 143,
+      "covered": 143,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "botania",
+      "source": 38,
+      "target": 38,
+      "covered": 38,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bq_standard",
+      "source": 3,
+      "target": 3,
+      "covered": 3,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bqtweaker",
+      "source": 1,
+      "target": 1,
+      "covered": 1,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "buildinggadgets",
+      "source": 50,
+      "target": 50,
+      "covered": 50,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "chiselsandbits",
+      "source": 19,
+      "target": 19,
+      "covered": 19,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "cofh",
+      "source": 66,
+      "target": 66,
+      "covered": 66,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "commoncapabilities",
+      "source": 1,
+      "target": 1,
+      "covered": 1,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "craftingtweaks",
+      "source": 2,
+      "target": 2,
+      "covered": 2,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "cucumber",
+      "source": 3,
+      "target": 3,
+      "covered": 3,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "cyclopscore",
+      "source": 9,
+      "target": 9,
+      "covered": 9,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "demagnetize",
+      "source": 3,
+      "target": 3,
+      "covered": 3,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "divinerpg",
+      "source": 193,
+      "target": 193,
+      "covered": 193,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "draconicadditions",
+      "source": 3,
+      "target": 3,
+      "covered": 3,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "draconicevolution",
+      "source": 36,
+      "target": 36,
+      "covered": 36,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "endercore",
+      "source": 9,
+      "target": 9,
+      "covered": 9,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "enderio",
+      "source": 398,
+      "target": 372,
+      "covered": 372,
+      "missing": 26,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "endermodpacktweaks",
+      "source": 78,
+      "target": 78,
+      "covered": 78,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "enderutilities",
+      "source": 107,
+      "target": 107,
+      "covered": 107,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "erebus",
+      "source": 48,
+      "target": 48,
+      "covered": 48,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "evilcraft",
+      "source": 4,
+      "target": 4,
+      "covered": 4,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "extendedcrafting",
+      "source": 16,
+      "target": 16,
+      "covered": 16,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "extracells",
+      "source": 16,
+      "target": 16,
+      "covered": 16,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "ftblib",
+      "source": 5,
+      "target": 5,
+      "covered": 5,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "ftbutilities",
+      "source": 24,
+      "target": 24,
+      "covered": 24,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "galacticraftcore",
+      "source": 103,
+      "target": 103,
+      "covered": 103,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "galacticraftplanets",
+      "source": 39,
+      "target": 39,
+      "covered": 39,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "groovyscript",
+      "source": 2,
+      "target": 2,
+      "covered": 2,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "hammercore",
+      "source": 3,
+      "target": 3,
+      "covered": 3,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "immersiveengineering",
+      "source": 62,
+      "target": 36,
+      "covered": 36,
+      "missing": 26,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "industrialforegoing",
+      "source": 20,
+      "target": 0,
+      "covered": 0,
+      "missing": 20,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "integrateddynamics",
+      "source": 22,
+      "target": 0,
+      "covered": 0,
+      "missing": 22,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "integratednbt",
+      "source": 19,
+      "target": 0,
+      "covered": 0,
+      "missing": 19,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "integratedtunnels",
+      "source": 2,
+      "target": 0,
+      "covered": 0,
+      "missing": 2,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "inventorytweaks",
+      "source": 14,
+      "target": 0,
+      "covered": 0,
+      "missing": 14,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "ironchest",
+      "source": 9,
+      "target": 0,
+      "covered": 0,
+      "missing": 9,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "jecalculation",
+      "source": 3,
+      "target": 0,
+      "covered": 0,
+      "missing": 3,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "jei",
+      "source": 28,
+      "target": 0,
+      "covered": 0,
+      "missing": 28,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "journeymap",
+      "source": 153,
+      "target": 0,
+      "covered": 0,
+      "missing": 153,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "mekanism",
+      "source": 121,
+      "target": 0,
+      "covered": 0,
+      "missing": 121,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "mob_grinding_utils",
+      "source": 44,
+      "target": 0,
+      "covered": 0,
+      "missing": 44,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "modulardiversity",
+      "source": 55,
+      "target": 0,
+      "covered": 0,
+      "missing": 55,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "modularmachinery",
+      "source": 33,
+      "target": 0,
+      "covered": 0,
+      "missing": 33,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "moretweaker",
+      "source": 1,
+      "target": 0,
+      "covered": 0,
+      "missing": 1,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "mysticalagradditions",
+      "source": 1,
+      "target": 0,
+      "covered": 0,
+      "missing": 1,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "mysticalagriculture",
+      "source": 11,
+      "target": 0,
+      "covered": 0,
+      "missing": 11,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "mysticalworld",
+      "source": 3,
+      "target": 0,
+      "covered": 0,
+      "missing": 3,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "natura",
+      "source": 46,
+      "target": 0,
+      "covered": 0,
+      "missing": 46,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "normalasm",
+      "source": 13,
+      "target": 0,
+      "covered": 0,
+      "missing": 13,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "omniwand",
+      "source": 1,
+      "target": 0,
+      "covered": 0,
+      "missing": 1,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "openblocks",
+      "source": 49,
+      "target": 0,
+      "covered": 0,
+      "missing": 49,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "patchouli",
+      "source": 1,
+      "target": 0,
+      "covered": 0,
+      "missing": 1,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "plustic",
+      "source": 6,
+      "target": 0,
+      "covered": 0,
+      "missing": 6,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "projecte",
+      "source": 10,
+      "target": 0,
+      "covered": 0,
+      "missing": 10,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "quantumflux",
+      "source": 5,
+      "target": 0,
+      "covered": 0,
+      "missing": 5,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "quark",
+      "source": 10,
+      "target": 0,
+      "covered": 0,
+      "missing": 10,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "reborncore",
+      "source": 10,
+      "target": 0,
+      "covered": 0,
+      "missing": 10,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "reccomplex",
+      "source": 126,
+      "target": 0,
+      "covered": 0,
+      "missing": 126,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "rftools",
+      "source": 10,
+      "target": 0,
+      "covered": 0,
+      "missing": 10,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "roots",
+      "source": 83,
+      "target": 0,
+      "covered": 0,
+      "missing": 83,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "simple_trophies",
+      "source": 1,
+      "target": 0,
+      "covered": 0,
+      "missing": 1,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "simplyjetpacks",
+      "source": 78,
+      "target": 0,
+      "covered": 0,
+      "missing": 78,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "spartanshields",
+      "source": 22,
+      "target": 0,
+      "covered": 0,
+      "missing": 22,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "storagedrawers",
+      "source": 41,
+      "target": 0,
+      "covered": 0,
+      "missing": 41,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "tconstruct",
+      "source": 47,
+      "target": 0,
+      "covered": 0,
+      "missing": 47,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "thaumcraft",
+      "source": 13,
+      "target": 0,
+      "covered": 0,
+      "missing": 13,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "thaumicaugmentation",
+      "source": 10,
+      "target": 0,
+      "covered": 0,
+      "missing": 10,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "thaumicenergistics",
+      "source": 8,
+      "target": 0,
+      "covered": 0,
+      "missing": 8,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "thermalfoundation",
+      "source": 4,
+      "target": 0,
+      "covered": 0,
+      "missing": 4,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "tinkersaddons",
+      "source": 5,
+      "target": 0,
+      "covered": 0,
+      "missing": 5,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "torchmaster",
+      "source": 8,
+      "target": 0,
+      "covered": 0,
+      "missing": 8,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "totemic",
+      "source": 9,
+      "target": 0,
+      "covered": 0,
+      "missing": 9,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "twilightforest",
+      "source": 54,
+      "target": 0,
+      "covered": 0,
+      "missing": 54,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "valkyrielib",
+      "source": 1,
+      "target": 0,
+      "covered": 0,
+      "missing": 1,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "wawla",
+      "source": 6,
+      "target": 0,
+      "covered": 0,
+      "missing": 6,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "zenutils",
+      "source": 2,
+      "target": 0,
+      "covered": 0,
+      "missing": 2,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    }
+  ],
+  "patchouli": [
+    {
+      "name": "alchemistry",
+      "source": 73,
+      "target": 73,
+      "covered": 73,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bewitchment",
+      "source": 829,
+      "target": 552,
+      "covered": 552,
+      "missing": 277,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "bigreactors",
+      "source": 210,
+      "target": 210,
+      "covered": 210,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "mysticalworld",
+      "source": 187,
+      "target": 187,
+      "covered": 187,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "roots",
+      "source": 832,
+      "target": 288,
+      "covered": 288,
+      "missing": 544,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    },
+    {
+      "name": "twilightforest",
+      "source": 344,
+      "target": 344,
+      "covered": 344,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    }
+  ],
+  "tconstruct": [
+    {
+      "name": "tconstruct",
+      "source": 101,
+      "target": 101,
+      "covered": 101,
+      "missing": 0,
+      "extra": 0,
+      "dups": 0,
+      "error": ""
+    }
+  ]
+}

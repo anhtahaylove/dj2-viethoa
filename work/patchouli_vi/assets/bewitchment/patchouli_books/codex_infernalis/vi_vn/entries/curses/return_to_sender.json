@@ -1,0 +1,12 @@
+{
+  "name": "Return to Sender",
+  "category": "curses",
+  "icon": "minecraft:ghast_tear",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:return_to_sender",
+      "text": "Tạo một lá chắn ma thuật quanh mục tiêu, khiến mọi lời nguyền nhắm vào họ bị phản ngược về chính kẻ đã nguyền họ."
+    }
+  ]
+}

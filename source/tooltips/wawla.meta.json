@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang"
+    }
+  ]
+}

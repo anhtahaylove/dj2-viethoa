@@ -1,0 +1,21 @@
+{
+  "name": "Cambion",
+  "category": "lesser_demons",
+  "icon": "minecraft:iron_sword",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Không như những Lesser Demon khác thống trị các Fortress of Hell hay ẩn mình ngoài những góc khuất của thực tại, Cambion sống cuộc đời khốn khổ trên Earth. Cambion là con lai giữa demon và humanoid, thường mang dòng máu của Leonard nhất, nhưng không phải lúc nào cũng vậy."
+    },
+    {
+      "type": "text",
+      "text": "Mối kết hợp ô uế phổ biến nhất là giữa demon đực (đặc biệt là Leonard) và humanoid cái, nhưng trường hợp ngược lại cũng từng được ghi nhận. Ngoài ra, một số Cambion vốn là con người đã cố thăng hóa thành demon nhờ Leonard, nhưng sự “thăng hóa” này rất đáng ngờ và hiếm khi thành công."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:cambion",
+      "scale": 0.8,
+      "text": "$(o)Những Đứa Trẻ Bị Lãng Quên"
+    }
+  ]
+}

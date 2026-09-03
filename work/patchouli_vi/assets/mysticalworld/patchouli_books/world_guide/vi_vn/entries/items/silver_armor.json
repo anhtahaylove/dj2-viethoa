@@ -1,0 +1,22 @@
+{
+  "name": "Silver Armor",
+  "icon": "mysticalworld:silver_chestplate",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:silver_ingot",
+      "text": "Silver tạo nên bộ giáp sáng bóng tuyệt đẹp, vừa tăng sát thương tấn công vừa gây sát thương lên mọi Undead đánh trúng bạn!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_helmet",
+      "recipe2": "mysticalworld:silver_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_leggings",
+      "recipe2": "mysticalworld:silver_boots"
+    }
+  ]
+}

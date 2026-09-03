@@ -1,0 +1,12 @@
+{
+  "name": "Hydrophobia",
+  "category": "curses",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:hydrophobia",
+      "text": "Mục tiêu di chuyển chậm hơn và chìm nhanh hơn trong nước, đồng thời chịu nhiều sát thương hơn từ các sinh vật thủy sinh thù địch."
+    }
+  ]
+}

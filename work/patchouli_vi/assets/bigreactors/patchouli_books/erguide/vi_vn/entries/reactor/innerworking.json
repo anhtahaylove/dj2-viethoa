@@ -1,0 +1,17 @@
+{
+  "name": "Nguyên lý hoạt động",
+  "icon": "bigreactors:reactorfuelrod",
+  "category": "bigreactors:reactor",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Reactor $(l:reactor/passive)tạo năng lượng$(/l) hoặc $(l:reactor/active)làm chất làm mát hóa hơi$(/l) bằng cách nào?$(br2)Bằng nhiệt.$(br2)$(l:reactor/reactants)Nhiên liệu$(/l) bị chiếu xạ sẽ nóng lên, các $(l:reactor/moderators)chất điều tiết$(/l) hấp thụ một phần bức xạ và truyền nhiệt ra khỏi $(l:reactor/part-fuelrod)Fuel Rods$(/l), hướng về $(l:reactor/part-casing)Casing$(/l).$(br2)Cuối cùng, nhiệt của Casing sẽ tạo năng lượng hoặc làm $(l:misc/coolantsystem)chất làm mát$(/l) hóa hơi."
+    },
+    {
+      "type": "text",
+      "text": "Truyền nhiệt ra khỏi $(l:reactor/part-fuelrod)Fuel Rods$(/l) là một yếu tố rất quan trọng khi thiết kế Reactor, và các $(l:reactor/moderators)chất điều tiết$(/l) đóng vai trò then chốt. Cũng cần lưu ý rằng bức xạ truyền theo mọi hướng vuông góc với trục của chồng $(l:reactor/part-fuelrod)Fuel Rods$(/l).$(br2)$(italic)Xin lưu ý: dù mô tả này đủ sát để bạn tạo ra những Reactor tối ưu nhất có thể, nó vẫn đơn giản hóa quá mức những gì thực sự diễn ra bên trong Reactor.$()"
+    }
+  ]
+}

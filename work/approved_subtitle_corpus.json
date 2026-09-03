@@ -1,0 +1,800 @@
+{
+  "wave": "subtitle",
+  "mods": [
+    "abyssalcraft",
+    "aether_legacy",
+    "botania",
+    "enderio",
+    "evilcraft",
+    "immersiveengineering",
+    "lightningcraft",
+    "mysticalworld",
+    "patchouli",
+    "quark",
+    "roots",
+    "simplyjetpacks",
+    "thaumicaugmentation"
+  ],
+  "rows": [
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.dreadguard.barf",
+      "en": "Dreadguard barfs"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.dreadguard.death",
+      "en": "Dreadguard dies"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.dreadguard.hit",
+      "en": "Dreadguard hurts"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.ghoul.pete.idle",
+      "en": "Pete groans"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.golem.death",
+      "en": "Golem dies"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.golem.hit",
+      "en": "Golem hurts"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.jzahar.blast",
+      "en": "BOOM"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.jzahar.charge",
+      "en": "J'zahar intensifies"
+    },
+    {
+      "namespace": "abyssalcraft",
+      "key": "subtitle.abyssalcraft.sacthoth.death",
+      "en": "Sacthoth dies"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aeboss.slider.awaken",
+      "en": "Slider awakens"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aeboss.slider.collide",
+      "en": "Slider smashes"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aeboss.slider.death",
+      "en": "Slider breaks"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aeboss.slider.move",
+      "en": "Slider slides"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.aerbunny.death",
+      "en": "Aerbunny dies"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.aerbunny.hurt",
+      "en": "Aerbunny squeals"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.aerbunny.lift",
+      "en": "Aerbunny squeaks"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.aerwhale.death",
+      "en": "Aerwhale cries"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.aerwhale.say",
+      "en": "Aerwhale whistles"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.cockatrice.attack",
+      "en": "Cockatrice shoots"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.cockatrice.flap",
+      "en": "Cockatrice flaps"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.cockatrice.say",
+      "en": "Cockatrice calls"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.moa.egg",
+      "en": "Moa plops"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.moa.flap",
+      "en": "Moa flaps"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.moa.say",
+      "en": "Moa calls"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.phyg.death",
+      "en": "Phyg dies"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.phyg.hurt",
+      "en": "Phyg hurts"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.phyg.say",
+      "en": "Phyg oinks"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.sheepuff.death",
+      "en": "Sheepuff dies"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.sheepuff.hurt",
+      "en": "Sheepuff hurts"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.sheepuff.say",
+      "en": "Sheepuff baahs"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.swet.attack",
+      "en": "Swet attacks"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.swet.death",
+      "en": "Swet dies"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.swet.jump",
+      "en": "Swet squishes"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.swet.squish",
+      "en": "Swet squishes"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.zephyr.say",
+      "en": "Zephyr blows"
+    },
+    {
+      "namespace": "aether_legacy",
+      "key": "subtitles.aemob.zephyr.shoot",
+      "en": "Zephyr spits"
+    },
+    {
+      "namespace": "botania",
+      "key": "botania.subtitle.agricarnation",
+      "en": "Agricarnation glimmers"
+    },
+    {
+      "namespace": "botania",
+      "key": "botania.subtitle.equipBauble",
+      "en": "Bauble equips"
+    },
+    {
+      "namespace": "botania",
+      "key": "botania.subtitle.lightRelay",
+      "en": "Luminizer whooshes"
+    },
+    {
+      "namespace": "botania",
+      "key": "botania.subtitle.potionCreate",
+      "en": "Brewery finishes"
+    },
+    {
+      "namespace": "botania",
+      "key": "botania.subtitle.terraformRod",
+      "en": "Land terrraforms"
+    },
+    {
+      "namespace": "botania",
+      "key": "botania.subtitle.terrasteelCraft",
+      "en": "Terrasteel finishes"
+    },
+    {
+      "namespace": "enderio",
+      "key": "subtitles.entity.enderman.teleport",
+      "en": "Something teleports"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "subtitles.evilcraft.effect.page.flipmultiple",
+      "en": "Flip Pages"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "subtitles.evilcraft.effect.page.flipsingle",
+      "en": "Flip Page"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "subtitles.evilcraft.effect.vengeancebeam.base",
+      "en": "Vengeance Beam"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.chargeFast",
+      "en": "Charging capacitors"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.chargeSlow",
+      "en": "Charging capacitors"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.railgunFire",
+      "en": "Railgun fire"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.revolverFire",
+      "en": "Gunshot"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.revolverReload",
+      "en": "Reload"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.spark",
+      "en": "Electrical sparks"
+    },
+    {
+      "namespace": "immersiveengineering",
+      "key": "subtitle.immersiveengineering.spray",
+      "en": "Fluid spray"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.mob.demon_soldier.death",
+      "en": "Demon Soldier dies"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.mob.demon_soldier.hurt",
+      "en": "Demon Soldier hurts"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.mob.demon_soldier.idle",
+      "en": "Demon Soldier"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.mob.underworld_ghast.death",
+      "en": "Underghast dies"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.mob.underworld_ghast.hurt",
+      "en": "Underghast hurts"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.mob.underworld_ghast.moan",
+      "en": "Underghast moans"
+    },
+    {
+      "namespace": "lightningcraft",
+      "key": "subtitle.portal.underworld",
+      "en": "Underworld Portal"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.endermini.death",
+      "en": "Endermini dies"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.endermini.hit",
+      "en": "Endermini hurt"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.endermini.idle",
+      "en": "Endermini chirps"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.endermini.portal",
+      "en": "Endermini teleports"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.endermini.scream",
+      "en": "Endermini screams"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.endermini.stare",
+      "en": "Endermini stares"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.aggro",
+      "en": "Fox yips"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.bark",
+      "en": "Fox barks"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.bite",
+      "en": "Fox bites"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.death",
+      "en": "Fox dies"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.eat",
+      "en": "Fox eats"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.idle",
+      "en": "Fox yips"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.sleep",
+      "en": "Fox sleeps"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.sniff",
+      "en": "Fox sniffs"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.fox.spit",
+      "en": "Fox spits"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.lava_cat.ambient",
+      "en": "Lava Cat meows"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.lava_cat.death",
+      "en": "Lava Cat dies"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.lava_cat.hurt",
+      "en": "Lava Cat hurt"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.lava_cat.purr",
+      "en": "Lava Cat purrs"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.lava_cat.purreow",
+      "en": "Lava Cat purreows"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.lava_cat.sizzle",
+      "en": "Lava Cat sizzles"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.ambient",
+      "en": "Silkworm chirps"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.death",
+      "en": "Silkworm dies"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.eat",
+      "en": "Silkworm eats"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.egg.use",
+      "en": "Silkworm Egg breaks"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.hurt",
+      "en": "Silkworm hurt"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.plop",
+      "en": "Silkworm plops"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.silkworm.step",
+      "en": "Silkworm walks"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.sprout.ambient",
+      "en": "Sprout wanders"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.entity.squid.milk",
+      "en": "Squid milked"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.item.pearleporter.use",
+      "en": "Pearleporter Activated"
+    },
+    {
+      "namespace": "mysticalworld",
+      "key": "mysticalworld.subtitles.item.unripe_pearl.use",
+      "en": "Unripe Pearl Teleportation"
+    },
+    {
+      "namespace": "patchouli",
+      "key": "patchouli.subtitle.book_flip",
+      "en": "Page Turns"
+    },
+    {
+      "namespace": "patchouli",
+      "key": "patchouli.subtitle.book_open",
+      "en": "Book Opens"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.boat_add_item",
+      "en": "Boat is decorated"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.clank_pickarang",
+      "en": "Pickarang clanks"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.do_it",
+      "en": "Motivation"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.frog_die",
+      "en": "Frog croaks"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.frog_hurt",
+      "en": "Frog squeaks"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.frog_idle",
+      "en": "Frog ribbits"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.frog_jump",
+      "en": "Frog hops"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.growl",
+      "en": "Monsters arise"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.hurt_stoneling",
+      "en": "Stoneling cries"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.kill_stoneling",
+      "en": "Stoneling breaks"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.pipe_pickup",
+      "en": "Pipe absorbs"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.pipe_pickup_lenny",
+      "en": "Pipe succ"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.pipe_shoot",
+      "en": "Pipe ejects"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.pipe_shoot_lenny",
+      "en": "Pipe nuts"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.purr",
+      "en": "Stoneling \"purrs\""
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.soulpowder_scream",
+      "en": "Soul escapes"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.subtitles.sponge_hiss",
+      "en": "Sponge dries"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.imbuer.add_item",
+      "en": "Item added"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.imbuer.finished",
+      "en": "Imbuer complete"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.imbuer.remove_item",
+      "en": "item removed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.imbuer.use",
+      "en": "Imbuing proceeds"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.mortar.add_item",
+      "en": "Item added"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.mortar.remove_item",
+      "en": "Item removed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.mortar.use",
+      "en": "Items crushed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.pyre.add_item",
+      "en": "Item added"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.event.pyre.remove_item",
+      "en": "Item removed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.acid_cloud",
+      "en": "Acid billows"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.acid_cloud_alt",
+      "en": "Acid billows"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.chrysopoeia",
+      "en": "Transmutation occurs"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.disarm",
+      "en": "Creatures disarmed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.geas",
+      "en": "Geas enforced"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.geas_end",
+      "en": "Geas ends"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.growth_infusion",
+      "en": "Growth applied"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.harvest",
+      "en": "Crops harvested"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.life_drain",
+      "en": "Life drained"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.magnetism",
+      "en": "Objects attracted"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.nature_scythe",
+      "en": "Nature pruned"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.petal_shell_break",
+      "en": "Shell breaks"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.radiance",
+      "en": "Radiance beam"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.reach",
+      "en": "Reach begins"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.reach_end",
+      "en": "Reach ends"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.sanctuary",
+      "en": "Sanctuary enforced"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.saturate",
+      "en": "Food absorbed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.second_wind",
+      "en": "Breath refilled"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.sense_animals",
+      "en": "Animals sensed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.sense_danger",
+      "en": "Danger sensed"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.shatter",
+      "en": "Blocks shattered"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.sky_soarer",
+      "en": "Skyward bound"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.storm_cloud",
+      "en": "Storm begins"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.storm_cloud_end",
+      "en": "Storm ends"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.summers_thaw",
+      "en": "Winter thaws"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.time_stop",
+      "en": "Time ceases"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.time_stop_end",
+      "en": "Time begins"
+    },
+    {
+      "namespace": "roots",
+      "key": "subtitle.roots.spell.wildfire",
+      "en": "Flame jets"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "subtitle.simplyjetpacks.jetpack",
+      "en": "*Jetpack Noises*"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "subtitle.simplyjetpacks.rocket",
+      "en": "*Rocket Noises*"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.subtitle.altar_summon",
+      "en": "Otherworldly boom"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.subtitle.altar_summon_start",
+      "en": "Otherworldly noises"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.subtitle.focus_water_impact",
+      "en": "Water splashes"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.subtitle.rift_energy_zap",
+      "en": "Impetus zaps"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.subtitle.spooky",
+      "en": "Spooky noises"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.subtitle.spooky_wind",
+      "en": "Wind howls"
+    }
+  ]
+}

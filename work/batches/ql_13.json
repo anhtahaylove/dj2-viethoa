@@ -1,0 +1,481 @@
+{
+  "chapter_index": 13,
+  "title_key": "dj2.quest.ql.13.title",
+  "chapter_title_en": "16. Diamonds from Dirt",
+  "desc_key": "dj2.quest.ql.13.desc",
+  "chapter_desc_en": "Grow through Mystical Agriculture, and Perfect your Essence.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.13.title",
+      "en": "16. Diamonds from Dirt"
+    },
+    {
+      "key": "dj2.quest.ql.13.desc",
+      "en": "Grow through Mystical Agriculture, and Perfect your Essence."
+    },
+    {
+      "key": "dj2.quest.db.565.title",
+      "en": "Get ID'd, son"
+    },
+    {
+      "key": "dj2.quest.db.565.desc",
+      "en": "Integrate your seeds with Menril."
+    },
+    {
+      "key": "dj2.quest.db.566.title",
+      "en": "Tier 3 Seeds"
+    },
+    {
+      "key": "dj2.quest.db.566.desc",
+      "en": "Oh, right - some Seeds might need a prior seed to be crafted. For instance, Dye Seeds require Mystical Flower Seeds from the prior tier."
+    },
+    {
+      "key": "dj2.quest.db.567.title",
+      "en": "Thaumic"
+    },
+    {
+      "key": "dj2.quest.db.567.desc",
+      "en": "Some basic Thaumcraft seeds. You'll get more later, hold your horses."
+    },
+    {
+      "key": "dj2.quest.db.568.title",
+      "en": "Crystallized Seeds"
+    },
+    {
+      "key": "dj2.quest.db.568.desc",
+      "en": "Salt 'n Pepper!"
+    },
+    {
+      "key": "dj2.quest.db.569.title",
+      "en": "Tier 2 Seeds"
+    },
+    {
+      "key": "dj2.quest.db.569.desc",
+      "en": "As before - unable to be planted, but required for all the seeds on this tier."
+    },
+    {
+      "key": "dj2.quest.db.570.title",
+      "en": "Frigid"
+    },
+    {
+      "key": "dj2.quest.db.570.desc",
+      "en": "No, that's not the right temperature.%n%nUsed to create Ice and Snow."
+    },
+    {
+      "key": "dj2.quest.db.571.title",
+      "en": "Tier 1 Seeds"
+    },
+    {
+      "key": "dj2.quest.db.571.desc",
+      "en": "Tier 1 Seeds! These can't be planted - they're only a crafting material - but are required to make any resource seed.%n%nLater on you'll be able to get faster and large amounts of drops and duplicate seeds, but until you unlock Agricraft at the start of Astral Sorcery, you're limited to how many seeds you craft yourself."
+    },
+    {
+      "key": "dj2.quest.db.572.title",
+      "en": "Wooden"
+    },
+    {
+      "key": "dj2.quest.db.572.desc",
+      "en": "How much wood could a woodchuck chuck if a woodchuck could chuck wood? As much wood as a woodchuck could chuck, if a woodchuck could chuck wood.%n%nUsed to create logs, and can be combined with nature essence to create saplings."
+    },
+    {
+      "key": "dj2.quest.db.573.title",
+      "en": "Flowering"
+    },
+    {
+      "key": "dj2.quest.db.573.desc",
+      "en": "Can be processed into all the vanilla Dyes."
+    },
+    {
+      "key": "dj2.quest.db.574.title",
+      "en": "Obby"
+    },
+    {
+      "key": "dj2.quest.db.574.desc",
+      "en": "Rock Solid."
+    },
+    {
+      "key": "dj2.quest.db.575.title",
+      "en": "§4HOT"
+    },
+    {
+      "key": "dj2.quest.db.575.desc",
+      "en": "Craft the Fire and Nether Seeds! These will allow you to craft several important things, including Sand!"
+    },
+    {
+      "key": "dj2.quest.db.576.title",
+      "en": "Now in HD"
+    },
+    {
+      "key": "dj2.quest.db.576.desc",
+      "en": "Did you know that modern monitors can display 16,777,216 colors in each pixel? Although the human eye can't really differentiate between most of them. We can only decipher between a couple thousand colors."
+    },
+    {
+      "key": "dj2.quest.db.577.title",
+      "en": "All the mats"
+    },
+    {
+      "key": "dj2.quest.db.577.desc",
+      "en": "Crunch!%n%nMany of these will be used in recipes to create alloy seeds - on this tier, or future tiers!"
+    },
+    {
+      "key": "dj2.quest.db.578.title",
+      "en": "Greenery"
+    },
+    {
+      "key": "dj2.quest.db.578.desc",
+      "en": "Welcome to the jungle.%n%nCan be used to craft multiple different types of plants, and can craft an even larger variety when combined with other Essences!"
+    },
+    {
+      "key": "dj2.quest.db.579.title",
+      "en": "Mob Seeds"
+    },
+    {
+      "key": "dj2.quest.db.579.desc",
+      "en": "Cruelty free."
+    },
+    {
+      "key": "dj2.quest.db.580.title",
+      "en": "Burning"
+    },
+    {
+      "key": "dj2.quest.db.580.desc",
+      "en": "Christmas!"
+    },
+    {
+      "key": "dj2.quest.db.581.title",
+      "en": "Grainy"
+    },
+    {
+      "key": "dj2.quest.db.581.desc",
+      "en": "You can get rid of your Fire Water + Vacuum Chest now."
+    },
+    {
+      "key": "dj2.quest.db.582.title",
+      "en": "Tier 4 Seeds"
+    },
+    {
+      "key": "dj2.quest.db.582.desc",
+      "en": "I'm sure you get the idea."
+    },
+    {
+      "key": "dj2.quest.db.583.title",
+      "en": "HOPping"
+    },
+    {
+      "key": "dj2.quest.db.583.desc",
+      "en": "But is it Bunny or Pogo Stick?"
+    },
+    {
+      "key": "dj2.quest.db.584.title",
+      "en": "Tier 5 Seeds"
+    },
+    {
+      "key": "dj2.quest.db.584.desc",
+      "en": "I really hope you got the idea."
+    },
+    {
+      "key": "dj2.quest.db.585.title",
+      "en": "Thermal"
+    },
+    {
+      "key": "dj2.quest.db.585.desc",
+      "en": "Seeds for each Thermal mob. You'll need them to get Mithril Seeds in the next tier."
+    },
+    {
+      "key": "dj2.quest.db.586.title",
+      "en": "Dimensional"
+    },
+    {
+      "key": "dj2.quest.db.586.desc",
+      "en": "That's two. Two dimensions. That's not enough."
+    },
+    {
+      "key": "dj2.quest.db.587.title",
+      "en": "A Bath"
+    },
+    {
+      "key": "dj2.quest.db.587.desc",
+      "en": "Ah, there we go.%n%nUsed to create water buckets, and can be combined with earth essence to create clay."
+    },
+    {
+      "key": "dj2.quest.db.588.title",
+      "en": "Gummy Bears hate it! Find out how this gardener makes all his profit..."
+    },
+    {
+      "key": "dj2.quest.db.588.desc",
+      "en": "I know I'm making bad puns. Don't RUB it into my face!"
+    },
+    {
+      "key": "dj2.quest.db.589.title",
+      "en": "Take a Bath"
+    },
+    {
+      "key": "dj2.quest.db.589.desc",
+      "en": "Ugh, so dirty. You need to bathe.%n%nUsed to craft Dirt, and can be combined with other Essences to create related items, such as Clay and Sand."
+    },
+    {
+      "key": "dj2.quest.db.590.title",
+      "en": "Alloyed Seeds"
+    },
+    {
+      "key": "dj2.quest.db.590.desc",
+      "en": "\"But Platinum isn't an alloy\" you cry!%n%nYou know what I meant."
+    },
+    {
+      "key": "dj2.quest.db.591.title",
+      "en": "Mob Seeds 2"
+    },
+    {
+      "key": "dj2.quest.db.591.desc",
+      "en": "If Mob Seeds is so good, why haven't they made..."
+    },
+    {
+      "key": "dj2.quest.db.592.title",
+      "en": "§cSummit"
+    },
+    {
+      "key": "dj2.quest.db.592.desc",
+      "en": "The Master Infusion Crystal converts all tiers, is unbreakable, and can make Perfectium!%n%nTip: Setup a crafter to passively craft Insanium Blocks using this, and then convert down when your system needs it."
+    },
+    {
+      "key": "dj2.quest.db.593.title",
+      "en": "§cSurpass"
+    },
+    {
+      "key": "dj2.quest.db.593.desc",
+      "en": "It converts Supremium into Insanium."
+    },
+    {
+      "key": "dj2.quest.db.594.title",
+      "en": "§bStrengthen"
+    },
+    {
+      "key": "dj2.quest.db.594.desc",
+      "en": "It converts Superium into Supremium."
+    },
+    {
+      "key": "dj2.quest.db.595.title",
+      "en": "§6Increase"
+    },
+    {
+      "key": "dj2.quest.db.595.desc",
+      "en": "It converts Intermedium into Superium."
+    },
+    {
+      "key": "dj2.quest.db.596.title",
+      "en": "§aProgress"
+    },
+    {
+      "key": "dj2.quest.db.596.desc",
+      "en": "It converts Prudentium into Intermedium."
+    },
+    {
+      "key": "dj2.quest.db.597.title",
+      "en": "§eInfusion?"
+    },
+    {
+      "key": "dj2.quest.db.597.desc",
+      "en": "In order to get higher tiers of Essence, you will need to use Infusion Crystals. Each tier has less durability than the prior, but is required in order to convert the listed tier of Essence.%n%nNote: %n%n%nEventually, you will unlock the Master Infusion Crystal, which is unbreakable and capable of crafting every tier of essence!%n%n%n%n... eventually.%n%n"
+    },
+    {
+      "key": "dj2.quest.db.598.title",
+      "en": "Tier 6 Seeds"
+    },
+    {
+      "key": "dj2.quest.db.598.desc",
+      "en": "Well, this is the last group of seeds. Goodbye.%n... I'll miss you."
+    },
+    {
+      "key": "dj2.quest.db.599.title",
+      "en": "§6Intermedium"
+    },
+    {
+      "key": "dj2.quest.db.599.desc",
+      "en": "Craft some §6Intermedium Essence§r with your §aPrudentium Infusion Crystal§r."
+    },
+    {
+      "key": "dj2.quest.db.600.title",
+      "en": "§aPrudentium"
+    },
+    {
+      "key": "dj2.quest.db.600.desc",
+      "en": "Craft some §aPrudentium Essence§r with your §eInferium Infusion Crystal§r."
+    },
+    {
+      "key": "dj2.quest.db.601.title",
+      "en": "Time to stop your Wither farm!"
+    },
+    {
+      "key": "dj2.quest.db.601.desc",
+      "en": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⠀⠀⢰⣶⣶⣶⣶⣶⠀⠀⠀⠀⠀⣶⣶⣶⣶⣶⡄⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⠀⠀⠸⠿⠿⠿⠿⠿⠀⠀⠀⠀⠀⠿⠿⠿⠿⠿⠇⠀⠀⣿⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿%n⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿%n⣿⣿⣿⣷⣶⣶⣶⣶⡆⠀⠀⠀⠀⢰⣶⣶⣶⣶⣶⠀⢸⣿⣿⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⣿⣿⣿⡇⠀⢠⣶⣶⣶⣶⣶⡆⠀⠀⠀⠀⣶⣶⣶⣶⣾⣿⣿%n⣿⣿⣿⡟⠛⠛⠛⠛⠃⠀⠀⠀⠀⠘⠛⠛⠛⠛⠛⠀⢸⣿⣿⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⣿⣿⣿⡇⠀⠘⠛⠛⠛⠛⠛⠃⠀⠀⠀⠀⠛⠛⠛⠛⢻⣿⣿%n⣿⣿⣿⡇⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠸⠿⠿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠿⠿⠿⠇⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⢸⣿⣿%n⣿⣿⣿⡇⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⣿⣿%n⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣻⣏⣉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⠀⠀⠀⠀⠀⠀⠀⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠋⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣚⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠟⠛⠛⠛⠛⠀⠀⠀⠀⠀⠀⠀⠛⠛⠛⠛⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⡒⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⠶⠶⠶⠶⠀⠀⢸⣿⡇⠀⠀⠷⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠸⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣦⣄⣠⣀⣤⣠⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣼⣭⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿"
+    },
+    {
+      "key": "dj2.quest.db.602.title",
+      "en": "§bSuperium"
+    },
+    {
+      "key": "dj2.quest.db.602.desc",
+      "en": "Craft some §bSuperium Essence§r with your §6Intermedium Infusion Crystal§r."
+    },
+    {
+      "key": "dj2.quest.db.603.title",
+      "en": "§cSupremium"
+    },
+    {
+      "key": "dj2.quest.db.603.desc",
+      "en": "Craft some §cSupremium Essence§r with your §bSuperium Infusion Crystal§r."
+    },
+    {
+      "key": "dj2.quest.db.604.title",
+      "en": "§5Insanium"
+    },
+    {
+      "key": "dj2.quest.db.604.desc",
+      "en": "Craft some §5Insanium Essence§r with your §cSupremium Infusion Crystal§r."
+    },
+    {
+      "key": "dj2.quest.db.605.title",
+      "en": "Most Woke"
+    },
+    {
+      "key": "dj2.quest.db.605.desc",
+      "en": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣾%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣰⣶⣾⣿⣿⣿⣿⣿⣿%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣄⠀⠀⣀⣀⣠⣤⣤⣶⣶⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣤⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿%n⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠛⠉⠀⠀%n⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠀⠀⠀⠀⠀⣀⣀⡀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⢰⣶⣤⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⢀⣾⣿⣿⣿⡿⠿⠛⠋⠉⠙⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⣀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⢰⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠈⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⠙⠛⠛⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⡟⢿⣿⣿⣿⣷⡄⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⣠⣴⣄⣀⣠⣴⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⠉⠛⠟⠋⠁⠀⠈⠙⠟⠃⠀⠈⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀%n⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠓⠀⠀⠀⠀⠀⠀%n⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⣹⣿⣿⣿⣿⣿⡿⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠙⠻⢿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀%n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀"
+    },
+    {
+      "key": "dj2.quest.db.606.title",
+      "en": "Teleportless"
+    },
+    {
+      "key": "dj2.quest.db.606.desc",
+      "en": "Ha! They can't teleport away if they're rooted down!"
+    },
+    {
+      "key": "dj2.quest.db.607.title",
+      "en": "Precious"
+    },
+    {
+      "key": "dj2.quest.db.607.desc",
+      "en": "You so%n%n%n****in%n%n%nPRECIOUS%n%n%nWhen you%n%n%nGROWWWWW...!"
+    },
+    {
+      "key": "dj2.quest.db.608.title",
+      "en": "An Enderman's fever dream"
+    },
+    {
+      "key": "dj2.quest.db.608.desc",
+      "en": "No more alloying! ... Well, at least far less. Yay!"
+    },
+    {
+      "key": "dj2.quest.db.609.title",
+      "en": "Of Mithril and Mana"
+    },
+    {
+      "key": "dj2.quest.db.609.desc",
+      "en": "Good luck crafting!"
+    },
+    {
+      "key": "dj2.quest.db.610.title",
+      "en": "Get Abyssal'd"
+    },
+    {
+      "key": "dj2.quest.db.610.desc",
+      "en": "Who doesn't like mining in remote AbyssalCraft Dimensions?!%n%n%n... Yeah that's what I thought. Me neither.%n%n%nSo, here you go!"
+    },
+    {
+      "key": "dj2.quest.db.611.title",
+      "en": "Tinkering"
+    },
+    {
+      "key": "dj2.quest.db.611.desc",
+      "en": "Hammer and Anvil no more."
+    },
+    {
+      "key": "dj2.quest.db.612.title",
+      "en": "MOAR ALLOYZ"
+    },
+    {
+      "key": "dj2.quest.db.612.desc",
+      "en": "GIVE ME MOAAAARRRRRR!!%n%n%nNOW I CAN REMOVE AAALLLLL ALLOY SMELTERS, MUHHAHAHAHAHAHAAAAA....!!%n%n%n%n%n%n%n%n... Huhhhh.%n%n%nOr not all, but some.%n%nAnyway, that's still a win!"
+    },
+    {
+      "key": "dj2.quest.db.613.title",
+      "en": "Thaumic Ingots"
+    },
+    {
+      "key": "dj2.quest.db.613.desc",
+      "en": "Upgrade your seed through a chain of definitely-just-thaumcraft-seeds-don't-look-at-the-third-one. Remember that once you unlock Agricraft Crop Sticks at the start of Astral Sorcery you can duplicate Seeds."
+    },
+    {
+      "key": "dj2.quest.db.614.title",
+      "en": "Patternless"
+    },
+    {
+      "key": "dj2.quest.db.614.desc",
+      "en": "There are a lot of quest titles and quest descriptions, and these seeds really haven't been giving me much to work with, you know? Cut me some slack, I'm trying my best. Like, what could you come up with for Wither Skeleton Seeds, Titanium Seeds, and End Steel Seeds? I know I could have arranged them differently, perhaps shuffled these and Sortless around, but that would ruin the theme of Sortless requiring just the base tier 4 seed, with Patternless requiring an additional (or two!) seed to be crafted. Really, the name of this quest is a lie, because I made sure there's a pattern for everything. It's important to notice the patterns - they tell you a lot about how something works. Or doesn't, depending. As is the case here - there is a pattern, but it's not something you can construct a name based on. It's not a pattern substantial enough to create with. Some patterns just aren't there enough to impact the world. But maybe you can never be certain of the pattern of a thing. Your perception of an instance may change with time, and while the patterns within it will not, is perception not reality? Does your perception of a pattern create the pattern? Is a pattern but a social construct we create to comfort ourselves in the chaotic cosmos that encompasses all we might ever know? So perhaps a better name for this quest would be \"Patternless?\" However, that attracts less attention than a statement delivered with certainty, such as \"Patternless.\" And if one believed that attention creates what is given attention, would it not be in the interests of a creator to attract as much attention as possible? In each mind that gives it attention, their work is replicated.%nSo is birthed clickbait, the art form of creating predominantly visual stimuli that increases the value of a product in the prospective buyer's mind beyond what they would have otherwise believed it to be. Clickbait is often said to be a misrepresentation of the contents of the product, but this is a misunderstanding of the term. For example, this quest name was misleading, but was not clickbait, as it was not designed and likely did not increase your internal evaluation of the quest within. Clickbait can be misleading, but it is far more commonly used to highlight the best qualities of the product within. This understanding of clickbait includes advertising, although advertising frequently induces the belief in value, and is not limited to simply increasing it.%nAnother aspect of this concept is memes - that of actions or information spreading and mutating via imitation of others. It is most commonly used to refer to jokes shared on the internet, but ideas spreading and mutating via imitation is as old as humanity. Gossip and fireside tales are examples of memes prior to the internet. The folk tales told varied based on the teller, but the most successful elements were consistently included in them. The characters have different names or faces, the setting may change, the exact actions vary, but the themes remain.%nThe creation of a meme and creation of clickbait are, while unique in purpose, similar in action and goal: to get people to spend their attention on it, using references and hooks to increase engagement. Some people do this for fun, as a hobby, as a creative outlet. Others do it for profit, to convince you that entry is worth the price. Everything you know influences your choices. And now you know this. Will this knowledge change what you do? Would you even know if it had? In this essay, I will..."
+    },
+    {
+      "key": "dj2.quest.db.615.title",
+      "en": "Sortless"
+    },
+    {
+      "key": "dj2.quest.db.615.desc",
+      "en": "All jumbled up."
+    },
+    {
+      "key": "dj2.quest.db.616.title",
+      "en": "Ghastly"
+    },
+    {
+      "key": "dj2.quest.db.616.desc",
+      "en": "No one likes Ghast Spawners, they're too bulky. Soooo here we go."
+    },
+    {
+      "key": "dj2.quest.db.617.title",
+      "en": "Earthy"
+    },
+    {
+      "key": "dj2.quest.db.617.desc",
+      "en": "Finally - full Mana Pools."
+    },
+    {
+      "key": "dj2.quest.db.618.title",
+      "en": "From Meteors they fall. From Earth they grow."
+    },
+    {
+      "key": "dj2.quest.db.618.desc",
+      "en": "Don't be so Cheesy. You won't need to use any more Cheesy Wafers to craft these."
+    },
+    {
+      "key": "dj2.quest.db.626.title",
+      "en": "Project Red (and Blue and Green)"
+    },
+    {
+      "key": "dj2.quest.db.626.desc",
+      "en": "All the ProjectRed Seeds!"
+    },
+    {
+      "key": "dj2.quest.db.653.title",
+      "en": "Planting chemicals underground (Questionable?)"
+    },
+    {
+      "key": "dj2.quest.db.653.desc",
+      "en": "Psst!%n%n%nHey, you!%n%n%n...%n%n%nYes, you!%n%n%n...%n%n%nWanna make Alchemistry easier...?%n%n%n...%n%n%nNo, it's completely free and you DON'T have to sell your soul for it.%n%n%n...%n%n%nTRUST ME!%n%n%n...%n%n%nNo?%n%n%n...%n%n%nWell, alright then..."
+    },
+    {
+      "key": "dj2.quest.db.654.title",
+      "en": "Come on Come on Rock ya Crystal"
+    },
+    {
+      "key": "dj2.quest.db.654.desc",
+      "en": "I wanna Rock right now%nI want I wanna Rock right now%nI want I wanna Rock right now%nNow, now, Rock right now%nI want I wanna Rock right now%nI want I wanna Rock right now%nI want I wanna Rock right nooow%n%nI wanna plant, I wanna plant in the light%nI wanna Rock, I wanna Rock yo Crystal,%nI wanna go, I wanna go for a ride,%nUp in the music & Rock yo Crystal right,%n%nRock that Crystal, come on come on Rock that Crystal, (Rock your Crystal)%nRock that Crystal, come on come on Rock, ya, Crystal,%nRock that Crystal, come on come on Rock that Crystal (Rock yo Crystal)%nRock that Crystal, come on come on Rock, ya, Crystal!%n%nLet me see your Crystal Rock,%nShakin' from the bottom to the top,%nFreak to what the DJ2 drop,%nWe be the ones to make it hot, (To make it hot)%nElectric shock, energy like a billion watts,%nSpace be boom and the speakas pop,%nGalactic gone and miss the spot,%nWe bumpin' in your parkin' lot!%n%nWhen you comin' up in the spot,%nDon't bring nothin' we call pink dot,%n'Cause we running around the clock,%nHit the lights and then turn them off,%nIf you bring that don't make you soft,%nLike the jungle we run the block,%nNo one rollin' the way we Rock! (Way we Rock)%n%nI want I wanna Rock right now%nI want I wanna Rock right now%nI want I wanna Rock right nooow%n%nI wanna plant, I wanna plant in the light%nI wanna Rock, I wanna Rock yo Crystal,%nI wanna go, I wanna go for a ride,%nUp in the music & Rock yo Crystal right,%n%nRock that Crystal, come on come on Rock that Crystal, (Rock that Crystal)%nRock that Crystal, come on come on Rock, ya, Crystal,%nRock that Crystal, come on come on Rock that Crystal (Rock your Crystal)%nRock that Crystal, come on come on Rock, ya, Crys-Cry-ta-tal-tal-tal!%n%nSuper fly Soils, All on my,%nSuper fly Soils, All on my,%nSuper fly Soils, All on my%nSuper -- Super fly Soils,%n%nYeah, you could be big,%nBut, 'long as you feel like you're all,%nYou could be the model type,%nSkinny with no appetite,%nShort stacks, black or white,%nLong as you do what you like,%nCrystal outta sight.%nCrystal (Crystal Outta Sight.)%n%nIt does the plant step,%nAnd the large grow,%nIt does the cabbage patch,%nAnd the bus stop.%nIt like Water, it love Irrigation,%nIt like the Rainy, she feel Large Flow.%nIt like the Sunshine, and the Fresh Air,%nIt like to Vitamin D, and Care, yo.%n%nGet a little crazy, get a little stupid,%nGet a little crazy... (little crazy, little crazy)%n%nI wanna plant, I wanna plant in the light%nI wanna Rock, I wanna Rock yo Crystal,%nI wanna go, I wanna go for a ride,%nUp in the music & Rock yo Crystal right,%n%nRock yo Crystal right,%nRock yo Crystal - Yeah!%n%nCome on. (Yeah!)%n%nRock that Crystal, come on come on Rock that Crystal, (Rock that Crystal)%nRock that Crystal, come on come on Rock, ya, Crystal,%n%nWhoa-oh oh-oh oh-oh-oh-oh!%nWhoa-oh oh-oh oh-oh-oh-oh!%nWhoa-oh oh-oh oh-oh-oh-oh!%nWhoa-oh oh-oh oh-oh-oh-oh!%n%nI wanna -- I wanna Rock right now!%nI wanna - I wanna Rock%nI wanna - I wanna Rock%nWhoa-oh oh-oh oh-oh-oh-oh!%nI wanna - I wanna Rock%nI wanna - I wanna Rock%nWhoa-oh oh-oh oh-oh-oh-oh!%nWhoa-oh oh-oh oh-oh-oh-oh!%n%nI wanna -- I wanna Rock right now!%nI wanna -- I wanna Rock right now!%nI wanna -- I wanna Rock right now!%nNow Now, Rock right now.%nI wanna -- I wanna Rock right now!%nI wanna -- I wanna Rock right now!%nI wanna -- I wanna Rock right nooowwwww...!"
+    },
+    {
+      "key": "dj2.quest.db.656.title",
+      "en": "Capturing the Power of the Sun"
+    },
+    {
+      "key": "dj2.quest.db.656.desc",
+      "en": "No need to travel to Venus anymore! WE'LL DO IT LIVE!"
+    }
+  ]
+}

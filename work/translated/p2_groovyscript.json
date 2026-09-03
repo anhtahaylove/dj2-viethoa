@@ -1,0 +1,9 @@
+{
+  "groovyscript.command.copy.hover": "Nhấp để sao chép:",
+  "groovyscript.command.copy.copied_start": "Đã sao chép [",
+  "groovyscript.command.copy.copied_end": "] vào clipboard",
+  "groovyscript.jei.category.groovyscript:fluid_recipe.name": "Công thức Fluid trong thế giới",
+  "groovyscript.jei.category.groovyscript:explosion.name": "Công thức vụ nổ",
+  "groovyscript.jei.category.groovyscript:burning.name": "Công thức đốt cháy",
+  "groovyscript.jei.category.groovyscript:piston_push.name": "Công thức đẩy bằng Piston"
+}

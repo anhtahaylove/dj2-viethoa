@@ -1,0 +1,3 @@
+# Safe player-facing tooltip/prose candidates.
+biometweaker.cfg.reload.tooltip=Press to reload BiomeTweaker configuration and scripts.
+biometweaker.cfg.layout.tooltip=This GUI will let you generate an image that shows the biome layout of a world.

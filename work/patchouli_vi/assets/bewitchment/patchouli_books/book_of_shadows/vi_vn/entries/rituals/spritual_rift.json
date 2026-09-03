@@ -1,0 +1,15 @@
+{
+  "name": "Spiritual Rift",
+  "category": "rituals",
+  "icon": "bewitchment:spectral_dust",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tạm thời xé rách bức màn ngăn cách, cho phép các thực thể tâm linh một lần nữa bước đi trên Trái Đất. Chỉ hoạt động vào ban đêm"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:spiritual_rift"
+    }
+  ]
+}

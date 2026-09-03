@@ -1,0 +1,18 @@
+{
+  "name": "Minoshroom",
+  "icon": "twilightforest:trophy:6",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/minoshroom",
+  "sortnum": 5040,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:minoshroom{HandItems:[{id:\"twilightforest:minotaur_axe\",Count:1}]}",
+      "text": "Hắn chỉ muốn bổ... hỏi bạn một câu thôi."
+    },
+    {
+      "type": "text",
+      "text": "Quái thú đáng sợ của Labyrinth này có thể nhanh chóng tiêu diệt bất kỳ nhà thám hiểm bất cẩn nào. Vũ khí ưa thích của chúng, Diamond Minotaur Axe, có thể phá tan mọi phòng tuyến, còn đòn xung kích có thể bất ngờ hạ gục bất kỳ ai chỉ trong một cú.$(br)Hãy hết sức thận trọng khi tìm cách tiêu diệt Minoshroom."
+    }
+  ]
+}

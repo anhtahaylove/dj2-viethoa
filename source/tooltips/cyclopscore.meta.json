@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+      "path": "assets/cyclopscore/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Tổng quan về Liquifier",
+  "icon": "alchemistry:liquifier",
+  "category": "liquifier_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Liquifier là một cỗ máy dùng năng lượng, có thể chuyển đổi các nguyên tố và hợp chất của Alchemistry thành dạng chất lỏng tương ứng"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:liquifier"
+    }
+  ]
+}

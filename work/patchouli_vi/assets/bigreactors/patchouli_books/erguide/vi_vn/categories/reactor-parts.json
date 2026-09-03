@@ -1,0 +1,7 @@
+{
+  "name": "Các bộ phận của Reactor",
+  "description": "Reactor được xây dựng từ các bộ phận sau.$(br2)Một số bộ phận là bắt buộc, số khác là tùy chọn: trang của từng bộ phận sẽ nêu rõ điều này cùng mọi yêu cầu hoặc hạn chế khác.",
+  "icon": "bigreactors:reactorcontroller",
+  "parent": "bigreactors:reactor",
+  "sortnum": 3
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Poppets",
+  "category": "gear",
+  "icon": "bewitchment:poppet",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Poppets là những con búp bê nhỏ được liên kết với một mục tiêu, thường là chủ nhân, để bảo vệ họ khỏi mọi loại tổn hại. Tuy vậy, các phù thủy cũng có thể dùng Poppets để yểm voodoo lên kẻ chống đối mình. Phù thủy có thể mang Poppets theo người hoặc đặt chúng trên một chiếc kệ đặc biệt để giữ an toàn. $(o)Spanish Moss là nguyên liệu thiết yếu để tạo Poppets, vì vậy đến đầm lầy tìm kiếm có thể là một ý hay."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet",
+      "text": "Poppet nền tảng cho mọi công thức chế tạo; nó không có tác dụng và không thể được liên kết. $(br)$(o)Lưu ý: Poppets phải được liên kết mới có thể hoạt động. Để liên kết, hãy cầm một poppet ở một tay và taglock của mục tiêu ở tay kia."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_tool",
+      "text": "Giống phiên bản dành cho giáp, poppet sẽ vỡ thay cho công cụ của bạn, giữ lại công cụ cho một lần sử dụng cuối cùng."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_binding",
+      "text": "Làm chậm những kẻ tấn công bạn"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_clumsy",
+      "text": "Có cơ hội khiến kẻ tấn công đánh rơi vũ khí"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_deathprotection",
+      "text": "Giúp bạn thoát chết một lần duy nhất"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_earthprotection",
+      "text": "Giảm sát thương khi rơi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_flameprotection",
+      "text": "Giảm sát thương do lửa"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_waterprotection",
+      "text": "Bảo vệ chủ nhân khỏi chết đuối trong thời gian ngắn"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_hungerprotection",
+      "text": "Giảm sát thương do đói và hồi một ít độ no cho người dùng"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_spiritbane",
+      "text": "Giảm sát thương từ các linh hồn"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_vampiric",
+      "text": "Chuyển sát thương bạn phải chịu sang đối tượng mà nó được liên kết. $(r)Phải mang trong hành trang"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_voodooprotection",
+      "text": "Bảo vệ khỏi vampiric poppet và voodoo poppet. (W.I.P)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_voodoo",
+      "text": "Liên kết nó với một mục tiêu rồi nhấp chuột phải khi có Bone Needles trong hành trang để gây một ít sát thương cho mục tiêu đó."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_wasting",
+      "text": "Khiến bất kỳ ai tấn công chủ nhân của poppet này bị đói"
+    }
+  ]
+}

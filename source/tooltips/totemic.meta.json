@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Totemic-1.12.2-0.11.7.jar",
+      "path": "assets/totemic/lang/en_us.lang"
+    }
+  ]
+}

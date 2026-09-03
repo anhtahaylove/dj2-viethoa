@@ -1,0 +1,19 @@
+{
+  "name": "Elder",
+  "category": "trees",
+  "icon": "bewitchment:elder_sapling",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Elder",
+      "text": "Elder là loài cây thường thấy trong các khu rừng xanh tốt, gồm Forest và Birch Forest. Cây này gắn liền với trí tuệ, còn cây non của nó tạo ra làn khói Drop of Wisdom. Chổi phép làm từ gỗ cây này thuộc hàng nhanh nhất. Cây cũng cho ra những quả mọng mọng nước mang mùi hương giống cha bạn."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/elder.png"
+      ],
+      "border": true
+    }
+  ]
+}

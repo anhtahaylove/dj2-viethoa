@@ -1,0 +1,20 @@
+{
+  "tool": "bolt",
+  "text": [
+    {
+      "text": "Bolt là vật phóng hạng nặng có khả năng xuyên giáp. Khi được nạp vào crossbow, Bolt gây sát thương lớn và xuyên qua một nửa giáp của mục tiêu."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Sát thương gây ra phụ thuộc vào cả crossbow lẫn bolts. Trang Bolt Crafting hướng dẫn cách chế tạo các bộ phận."
+    }
+  ],
+  "properties": [
+    "Ammo for Crossbows",
+    "50% Armor Penetration",
+    "Có thể nhặt lại",
+    "One stack contains many shots"
+  ]
+}

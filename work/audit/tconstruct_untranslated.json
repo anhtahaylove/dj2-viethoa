@@ -1,0 +1,232 @@
+[
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/intro/welcome.json",
+    "key": "title",
+    "value": "Surviving the first day and beyond"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/language.lang",
+    "key": "material.craft_partbuilder",
+    "value": "Can be crafted in the Part Builder"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/language.lang",
+    "key": "material.craft_casting",
+    "value": "Can be cast from %s"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/language.lang",
+    "key": "wood.flavour",
+    "value": "How much wood could a woodchuck chuck if a woodchuck could chuck wood?"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/bane_of_arthropods.json",
+    "key": "effects[0]",
+    "value": "Deals massive damage to spiders and silverfish"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/beheading.json",
+    "key": "effects[1]",
+    "value": "Adding more Obsidian and Ender Pearls increases the chance of decapitation"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/diamond.json",
+    "key": "effects[2]",
+    "value": "Mining level increased by one, up to Obsidian"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/extratrait.json",
+    "key": "effects[0]",
+    "value": "Adds traits of another part"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/extratrait.json",
+    "key": "effects[1]",
+    "value": "Traits are equal to swapping the part"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/extratrait.json",
+    "key": "effects[2]",
+    "value": "The embossment is final and can't be changed"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/glowing.json",
+    "key": "effects[0]",
+    "value": "Places a lightsource on low light level"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/harvestheight.json",
+    "key": "effects[0]",
+    "value": "Increases the height of the area affected"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/harvestheight.json",
+    "key": "effects[2]",
+    "value": "Does not work for weapons"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/harvestheight.json",
+    "key": "effects[3]",
+    "value": "Can be combined with Width++"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/harvestwidth.json",
+    "key": "effects[0]",
+    "value": "Increases the width of the area affected"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/harvestwidth.json",
+    "key": "effects[2]",
+    "value": "Does not work for weapons"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/harvestwidth.json",
+    "key": "effects[3]",
+    "value": "Can be combined with Height++"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/haste.json",
+    "key": "effects[0]",
+    "value": "Each redstone dust increases mining speed by a small amount"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/knockback.json",
+    "key": "effects[1]",
+    "value": "Each piston increases the knockback distance"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/luck.json",
+    "key": "effects[1]",
+    "value": "Tool use has a chance to increase the luck"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/luck.json",
+    "key": "effects[3]",
+    "value": "Not compatible with Silky"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/mending_moss.json",
+    "key": "effects[2]",
+    "value": "Slowly repairs the tool over time"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/mending_moss.json",
+    "key": "effects[3]",
+    "value": "Has to be in hotbar or offhand to repair"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/necrotic.json",
+    "key": "effects[1]",
+    "value": "Add more bones to increase the heal"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/reinforced.json",
+    "key": "effects[0]",
+    "value": "Adds a chance to not consume durability"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/reinforced.json",
+    "key": "effects[1]",
+    "value": "Stacks with previous levels of Reinforced"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/silktouch.json",
+    "key": "effects[0]",
+    "value": "Allows blocks to be harvested directly"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/silktouch.json",
+    "key": "effects[1]",
+    "value": "Not compatible with Luck or Auto-Smelt"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/soulbound.json",
+    "key": "effects[0]",
+    "value": "Tool remains in your inventory after death"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/modifiers/soulbound.json",
+    "key": "effects[2]",
+    "value": "Does NOT require a modifier"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/arrow.json",
+    "key": "properties[1]",
+    "value": "Can be picked back up"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/battlesign.json",
+    "key": "properties[2]",
+    "value": "Can be used as a shield"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/bolt.json",
+    "key": "properties[2]",
+    "value": "Can be picked back up"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/broadsword.json",
+    "key": "properties[2]",
+    "value": "Can use offhand"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/crossbow.json",
+    "key": "properties[3]",
+    "value": "Needs to be loaded before firing"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/excavator.json",
+    "key": "properties[3]",
+    "value": "Effective on dirt, sand and gravel"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/hammer.json",
+    "key": "properties[3]",
+    "value": "Effective on stone and ores"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/hatchet.json",
+    "key": "properties[3]",
+    "value": "Doesn't use durability on leaves"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/kama.json",
+    "key": "properties[0]",
+    "value": "Harvests crops on right click"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/longbow.json",
+    "key": "properties[3]",
+    "value": "Can use regular arrows, but they're less effective"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/mattock.json",
+    "key": "properties[2]",
+    "value": "Effective on dirt and wood"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/scythe.json",
+    "key": "properties[3]",
+    "value": "Effective on crops and plants"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/shortbow.json",
+    "key": "properties[2]",
+    "value": "Can be used with vanilla arrows"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/shortbow.json",
+    "key": "properties[3]",
+    "value": "Can use regular arrows, but they're less effective"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/shovel.json",
+    "key": "properties[1]",
+    "value": "Effective on dirt, sand and gravel"
+  },
+  {
+    "file": "work/tconstruct_vi/assets/tconstruct/book/vi_vn/tools/shuriken.json",
+    "key": "properties[4]",
+    "value": "Can be thrown from the offhand"
+  }
+]

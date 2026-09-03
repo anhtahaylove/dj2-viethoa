@@ -1,0 +1,6 @@
+{
+  "name": "Brazier",
+  "description": "Brazier là một thiết bị dùng để đốt thuốc thử, chủ yếu nhằm tác động đến cõi linh hồn hoặc tiềm thức. Sau khi thêm các thuốc thử thích hợp vào Brazier, phải dùng Flint and Steel châm lửa để kích hoạt nó.",
+  "icon": "bewitchment:textures/gui/patchouli/icons/book_of_shadows/brazier.png",
+  "sortnum": 5
+}

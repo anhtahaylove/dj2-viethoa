@@ -1,0 +1,15 @@
+{
+  "name": "Tổng quan Electrolyzer",
+  "icon": "alchemistry:electrolyzer",
+  "category": "electrolyzer_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Electrolyzer là một máy dùng năng lượng, cho vật phẩm xúc tác phản ứng với chất lỏng để tạo ra đầu ra. Mỗi khi máy xử lý xong, chất điện phân có khả năng bị tiêu hao. Có thể xem xác suất này trong JEI bằng cách di chuột lên vật phẩm xúc tác trong công thức tương ứng"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:electrolyzer"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+      "path": "assets/extendedcrafting/lang/en_us.lang"
+    }
+  ]
+}

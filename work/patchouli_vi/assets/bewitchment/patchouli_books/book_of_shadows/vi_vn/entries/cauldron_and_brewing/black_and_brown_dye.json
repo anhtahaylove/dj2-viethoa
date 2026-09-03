@@ -1,0 +1,21 @@
+{
+  "name": "Thuốc nhuộm đen và nâu",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:iron_gall_ink",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một số cách khác để tạo ra những màu này"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:iron_gall_ink",
+      "text": "Một lựa chọn thay thế Ink Sacs không gây hại đến sinh vật. Có người cho rằng nó rất cần thiết để tạo ra các khế ước ma quỷ…"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:catechu_brown",
+      "text": "Một lựa chọn làm từ gỗ, thay thế cocoa beans để tạo thuốc nhuộm nâu."
+    }
+  ]
+}

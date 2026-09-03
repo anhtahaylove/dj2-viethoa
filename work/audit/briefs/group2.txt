@@ -1,0 +1,537 @@
+### LO: evilcraft_01
+broom.evilcraft.shiftinfo	<Shift for broom info>
+broom.modifiers.evilcraft.shiftinfo	<Shift for broom info>
+broom.parts.evilcraft.cap_gem_dark.name	Dark Gem Cap   @@KEEP: Dark Gem
+broom.parts.evilcraft.cap_gem_darkpower.name	Dark Power Gem Cap   @@KEEP: Dark Power Gem
+broom.parts.evilcraft.cap_gem_diamond.name	Diamond Gem Cap
+broom.parts.evilcraft.cap_gem_emerald.name	Emerald Gem Cap
+broom.parts.evilcraft.cap_gem_lapis.name	Lapis Gem Cap
+broom.parts.evilcraft.cap_gem_quartz.name	Quartz Gem Cap
+broom.parts.evilcraft.cap_head_creeper.name	Creeper Skull Cap
+broom.parts.evilcraft.cap_head_player.name	Player Skull Cap
+broom.parts.evilcraft.cap_head_skeleton.name	Skeleton Skull Cap
+broom.parts.evilcraft.cap_head_wither.name	Wither Skull Cap
+broom.parts.evilcraft.cap_head_witherskeleton.name	Wither Skeleton Skull Cap
+broom.parts.evilcraft.cap_head_zombie.name	Zombie Skull Cap
+broom.parts.evilcraft.cap_metal_alubrass.name	Aluminum Brass Metal Cap
+broom.parts.evilcraft.cap_metal_ardite.name	Ardite Metal Cap
+broom.parts.evilcraft.cap_metal_cobalt.name	Cobalt Metal Cap
+broom.parts.evilcraft.cap_metal_copper.name	Copper Metal Cap
+broom.parts.evilcraft.cap_metal_gold.name	Gold Metal Cap
+broom.parts.evilcraft.cap_metal_iron.name	Iron Metal Cap
+broom.parts.evilcraft.cap_metal_manyullyn.name	Manyullyn Metal Cap
+broom.parts.evilcraft.cap_metal_silver.name	Silver Metal Cap
+broom.parts.evilcraft.cap_metal_thaumium.name	Thaumium Metal Cap
+broom.parts.evilcraft.rod_endstone.name	End Stone Rod   @@KEEP: Stone Rod
+broom.parts.evilcraft.shiftinfo	<Shift for broom parts info>
+config.evilcraft.IC2	Industrial Craft 2
+config.evilcraft.biome	Biome generation settings
+config.evilcraft.biome_extract.craftingBlacklist	Biome Extract crafting blacklist   @@KEEP: Biome Extract
+config.evilcraft.biome_extract.creativeTabVariants	Biome Extract Creative Tab variants   @@KEEP: Biome Extract
+config.evilcraft.biome_extract.envirAccCooldownTime	Biome Extract Enviroment cooldown   @@KEEP: Biome Extract
+config.evilcraft.biome_extract.hasRecipes	Biome Extract recipes   @@KEEP: Biome Extract
+config.evilcraft.biome_extract.usageBlacklist	Biome Extract usage blacklist   @@KEEP: Biome Extract
+config.evilcraft.blood_chest.addRandomBadEnchants	Blood Chest random bad enchant   @@KEEP: Blood Chest
+config.evilcraft.blood_chest.mBPerDamage	Blood Chest required blood per HP   @@KEEP: Blood Chest
+config.evilcraft.blood_chest.repairTConstructTools	Blood Chest repair Tinkers' Construct   @@KEEP: Blood Chest
+config.evilcraft.blood_chest.ticksPerDamage	Blood Chest repair time   @@KEEP: Blood Chest
+config.evilcraft.blood_extractor.autoFillBuckets	Blood Extractor auto-fill buckets   @@KEEP: Blood Extractor
+config.evilcraft.blood_extractor.containerSize	Blood Extractor container size   @@KEEP: Blood Extractor
+config.evilcraft.blood_extractor.maximumMobMultiplier	Blood Extractor maximal mob multiplier   @@KEEP: Blood Extractor
+config.evilcraft.blood_extractor.minimumMobMultiplier	Blood Extractor minimum mob multiplier   @@KEEP: Blood Extractor
+config.evilcraft.blood_infuser.itemBlacklist	Blood Chest blacklisted items   @@KEEP: Blood Chest
+config.evilcraft.blood_pearl.slownessDuration	Blood Pearl slowness duration
+config.evilcraft.blood_stained_block.blockBlacklist	Blood stained block blacklist
+config.evilcraft.blood_stained_block.blockWhitelist	Blood stained block whitelist
+config.evilcraft.blood_stained_block.bloodMBPerHP	MB blood per HP
+config.evilcraft.bound_blood_drop.maxCapacity	Bound Blood Drop maximal mB capacity   @@KEEP: Bound Blood Drop
+config.evilcraft.bound_blood_drop.maxUpdateTicks	Soul network update interval
+config.evilcraft.box_of_eternal_closure.injectLootTables	Box of Eternal Closure loot tables   @@KEEP: Box of Eternal Closure
+config.evilcraft.broom.bloodUsage	Broom blood usage per tick
+config.evilcraft.broom.bloodUsageBlockBreak	Broom blood usage per block break
+config.evilcraft.broom.broomModifierTooltips	Broom modifier tooltips
+config.evilcraft.broom.broomPartTooltips	Broom part tooltops
+config.evilcraft.broom.guiOverlayPosition	GUI overlay position
+config.evilcraft.broom.guiOverlayPositionOffsetX	GUI overlay X offset
+config.evilcraft.broom.guiOverlayPositionOffsetY	GUI overlay Y offset
+config.evilcraft.broom.lootChests	Broom in loot chests
+config.evilcraft.burning_gem_stone.maxDamage	Burning GemStone maximal damage   @@KEEP: Burning GemStone
+config.evilcraft.colossal_blood_chest.baseConcurrentItems	Colossal Blood Chest concurrent items   @@KEEP: Colossal Blood Chest
+config.evilcraft.colossal_blood_chest.baseMBPerDamage	Colossal Blood Chest blood / damage   @@KEEP: Colossal Blood Chest
+config.evilcraft.colossal_blood_chest.ticksPerDamage	Colossal Blood Chest repair time   @@KEEP: Colossal Blood Chest
+config.evilcraft.condensed_blood.injectLootTables	Condensed Blood loot tables   @@KEEP: Condensed Blood
+config.evilcraft.dark_ore.blocksPerVein	Dark Ore per vein   @@KEEP: Dark Ore
+config.evilcraft.dark_ore.endY	Dark Ore maximal spawn height   @@KEEP: Dark Ore
+config.evilcraft.dark_ore.startY	Dark Ore minimal spawn height   @@KEEP: Dark Ore
+config.evilcraft.dark_ore.veinsPerChunk	Dark Ore veins per chunk   @@KEEP: Dark Ore
+config.evilcraft.dark_tank.autoFillBuckets	Dark Tank auto-fill buckets   @@KEEP: Dark Tank
+config.evilcraft.dark_tank.creativeTabFluids	Dark tank Creative Tab variants
+config.evilcraft.dark_tank.maxTankCreativeSize	Maximal Creative Dark tank size
+config.evilcraft.dark_tank.maxTankSize	Maximal Dark tank size
+config.evilcraft.dark_tank.staticBlockRendering	Dark Tank static block rendering   @@KEEP: Dark Tank
+config.evilcraft.ender_tear.chanceDrop	Ender Tear drop chance   @@KEEP: Ender Tear
+config.evilcraft.ender_tear.injectLootTables	Ender Tear loot tables   @@KEEP: Ender Tear
+config.evilcraft.ender_tear.mbLiquidEnder	Liquid ender from Ender Tear   @@KEEP: Ender Tear
+config.evilcraft.entangled_chalice.staticBlockRendering	Entangled Chalice static block rendering   @@KEEP: Entangled Chalice
+config.evilcraft.entity_attack_vengeance_beam.crossBeamsExplosions	Vengeance beam cross explosion
+config.evilcraft.entity_lightning_bomb.fuse	Lighting bomb fuse
+config.evilcraft.envir_acc.defaultProcessItemSpeed	Envir. Acc. item move speed
+config.evilcraft.envir_acc.defaultProcessItemTickCount	Envir. Acc. item process time
+config.evilcraft.envir_acc.defaultTickCooldown	Envir. Acc. cooldown time
+config.evilcraft.exalted_crafter.shiftCraftingGrid	Exalted Crafter shift click   @@KEEP: Exalted Crafter
+config.evilcraft.excrement_pile.poisonEntities	Excrement poison to mobs
+config.evilcraft.gem_stone_torch.area	GemStone Torch area   @@KEEP: Stone Torch
+config.evilcraft.general.analytics	Send anonymous analytics
+config.evilcraft.general.bloodConverters	Blood conversion ratios
+config.evilcraft.general.bloodGuiOverlay	Blood GUI overlay
+config.evilcraft.general.bloodGuiOverlayPosition	GUI overlay position
+config.evilcraft.general.bloodGuiOverlayPositionOffsetX	GUI overlay X offset
+config.evilcraft.general.bloodGuiOverlayPositionOffsetY	GUI overlay Y offset
+config.evilcraft.general.crashOnInvalidRecipe	Crash on invalid Recipe
+config.evilcraft.general.crashOnModCompatCrash	Crash on Compatibility issue
+config.evilcraft.general.darkTempleChestChance	Dark Temple loot chest chance
+config.evilcraft.general.darkTempleDimensions	Dark Temple allowed dimensions
+config.evilcraft.general.darkTempleFrequency	Dark Temple frequency
+config.evilcraft.general.darkTempleMaxHeight	Dark Temple maximal spawn height
+config.evilcraft.general.darkTempleMaxPillarLength	Dark Temple  maximal pillar height
+config.evilcraft.general.darkTempleMinHeight	Dark Temple minimal spawn height
+config.evilcraft.general.darkTempleMinimumChunkDistance	Dark Temple minimal chunk distance
+config.evilcraft.general.dieWithoutAnyReason	Die without any reason
+config.evilcraft.general.evilDungeonDimensions	Evil Dungeon allowed dimensions
+config.evilcraft.general.extraSilverfish	Extra Nether Monster Egg block spawns   @@KEEP: Nether Monster Egg
+config.evilcraft.general.mbFlowRate	MB flow rate
+config.evilcraft.general.minimumPotionTypesArraySize	Minimal size of potion array
+config.evilcraft.general.thaumcraftVengeanceSpiritWarp	Temp. warp on Vengeance Spirit hit   @@KEEP: Vengeance Spirit
+config.evilcraft.hardened_blood_shard.additionalDropped	Hardened Blood Shard additional amount   @@KEEP: Hardened Blood Shard
+config.evilcraft.hardened_blood_shard.minimumDropped	Hardened Blood Shard minimal amount   @@KEEP: Hardened Blood Shard
+config.evilcraft.invig_pendant.capacity	Invigorating Pendant capacity   @@KEEP: Invigorating Pendant
+config.evilcraft.invig_pendant.fireUsage	Invigorating Pendant fire blood usage   @@KEEP: Invigorating Pendant
+config.evilcraft.invig_pendant.reduceDuration	Invigorating Pendant duration reduction   @@KEEP: Invigorating Pendant
+config.evilcraft.invig_pendant.usage	Invigorating Pendant blood usage   @@KEEP: Invigorating Pendant
+config.evilcraft.kineticator.consumeHoldoff	Kineticator blood usage   @@KEEP: Kineticator
+config.evilcraft.kineticator.moveXP	Kineticator xp attraction   @@KEEP: Kineticator
+config.evilcraft.kineticator.tickHoldoff	Kineticator check timeout   @@KEEP: Kineticator
+config.evilcraft.life_stealing.healModifier	Life Stealing Heal Modifier
+config.evilcraft.modcompat	Mod compatibility settings
+config.evilcraft.necromancer_staff.capacity	Necromancer Staff capacity   @@KEEP: Necromancer Staff
+config.evilcraft.necromancer_staff.usage	Necromancer Staff blood usage   @@KEEP: Necromancer Staff
+config.evilcraft.nether_monster_block.veinsPerChunk	Nether Monster Egg veins per chunk   @@KEEP: Nether Monster Egg
+config.evilcraft.origins_of_darkness.injectLootTables	Origins of Darkness loot tables   @@KEEP: Origins of Darkness
+config.evilcraft.poisonous_libelle.hasAttackDamage	Poisonous Libelle damage   @@KEEP: Poisonous Libelle
+config.evilcraft.poisonous_libelle.minY	Poisonous Libelle minimal Y-level   @@KEEP: Poisonous Libelle
+config.evilcraft.poisonous_libelle.poisonChance	Poisonous Libelle poison chance   @@KEEP: Poisonous Libelle
+config.evilcraft.potentia_sphere.enderPearlRecipe	Ender pearl recipe
+config.evilcraft.primed_pendant.capacity	Primed Pendant capacity   @@KEEP: Primed Pendant
+config.evilcraft.primed_pendant.potionMultipliers	Primed Pendant potion multipliers   @@KEEP: Primed Pendant
+config.evilcraft.primed_pendant.usage	Primed Pendant blood usage   @@KEEP: Primed Pendant
+
+### LO: aether_legacy_01
+aether_legacy.general.dimension.aether_dimension_id	Aether Dimension ID
+aether_legacy.general.gameplay_changes.disable_eternal_day	Disable Eternal Day
+aether_legacy.general.gameplay_changes.disable_startup_loot	Disable Startup Loot
+aether_legacy.general.gameplay_changes.max_life_shards	Maximum Life Shards   @@KEEP: Life Shard
+aether_legacy.general.gameplay_changes.repeat_sun_spirit_dialog	Repeat Sun Spirit Dialogue   @@KEEP: Sun Spirit
+aether_legacy.general.gameplay_changes.skyroot_bucket_only	Skyroot Bucket Only   @@KEEP: Skyroot Bucket
+aether_legacy.general.gameplay_changes.sun_altar_multiplayer	Disable Sun Altar's Operator Requirement   @@KEEP: Sun Altar
+aether_legacy.general.spawnrates	Mob Spawnrate Options
+aether_legacy.general.visual_options.install_resourcepack	Install Resource Pack
+aether_legacy.general.visual_options.legacy_altar_name	Classic Altar Name
+aether_legacy.general.visual_options.menu_button	Aether Menu Button
+aether_legacy.general.visual_options.trivia_disabled	Disable Aether Trivia
+aether_legacy.general.visual_options.updated_aercloud_colors	Updated Aercloud Colors
+aether_legacy.general.world_gen	World Generation Options
+aether_legacy.general.world_gen.pink_aerclouds	Pink Aercloud Generation   @@KEEP: Pink Aercloud
+aether_legacy.general.world_gen.seasonal_christmas	Automatic Holiday Tree Generation
+aether_legacy.general.world_gen.tallgrass_enabled	Tall Grass Generation
+gui.item.developer_stick.notdev	You aren't skilled enough to use this item!
+gui.item.life_shard.maxshards	You can only use a total of %s life shards.
+gui.loading.enteraether	Ascending to the Aether
+gui.loading.exitaether	Descending from the Aether
+gui.queen.answer.0	This is a sanctuary for us Valkyries who seek rest.
+gui.queen.answer.1	Very well then. Bring me ten medals from my subordinates to prove your worth, then we'll see.
+gui.queen.defeated	You are truly... a mighty warrior...
+gui.queen.dialog.0	What can you tell me about this place?
+gui.queen.dialog.1	I wish to fight you!
+gui.queen.fight	This will be your final battle!
+gui.queen.lost	As expected of a human.
+gui.queen.nomedals	Try defeating some weaker valkyries first.
+gui.queen.peaceful	Sorry, I don't fight with weaklings.
+gui.queen.ready	If you wish to challenge me, strike at any time.
+gui.skyroot_bed.respawn_point	Respawn point set
+gui.slider.apple	This message is only here because KingPhygieBoo asked Kino a random item and he said apple.
+gui.slider.far	It seems I'm too far away to wake it.
+gui.slider.notpickaxe	Hmm. Perhaps I need to attack it with a Pickaxe?
+gui.spirit.dead	Such bitter cold... is this the feeling... of pain?
+gui.spirit.line0	You are certainly a brave soul to have entered this chamber.
+gui.spirit.line1	Begone human, you serve no purpose here.
+gui.spirit.line10	Did your previous death not satisfy your curiosity, human?
+gui.spirit.line2	Your presence annoys me. Do you not fear my burning aura?
+gui.spirit.line3	I have nothing to offer you, fool. Leave me at peace.
+gui.spirit.line4	Perhaps you are ignorant. Do you wish to know who I am?
+gui.spirit.line5.1	I am a sun spirit, embodiment of Aether's eternal daylight. As
+gui.spirit.line5.2	long as I am alive, the sun will never set on this world.
+gui.spirit.line6.1	My body burns with the anger of a thousand beasts. No man,
+gui.spirit.line6.2	hero, or villain can harm me. You are no exception.
+gui.spirit.line7.1	You wish to challenge the might of the sun? You are mad.
+gui.spirit.line7.2	Do not further insult me or you will feel my wrath.
+gui.spirit.line8	This is your final warning. Leave now, or prepare to burn.
+gui.spirit.line9	As you wish, your death will be slow and agonizing.
+gui.spirit.playerdied	Such is the fate of a being who opposes the might of the sun.
+gui.sun_altar.cycle_catchup	The sun is still moving to its correct position.
+gui.sun_altar.eternal_day	The sun spirit is still in control of this realm.
+gui.sun_altar.permission	You don't have permission to perform this action.
+gui.treasure_chest.bronze	Bronze Treasure Chest   @@KEEP: Treasure Chest
+gui.treasure_chest.gold	Gold Treasure Chest   @@KEEP: Treasure Chest
+gui.treasure_chest.platinum	Platinum Treasure Chest   @@KEEP: Treasure Chest
+gui.treasure_chest.silver	Silver Treasure Chest   @@KEEP: Treasure Chest
+gui.valkyrie.dialog.1	What's that? You want to fight? Aww, what a cute little human.
+gui.valkyrie.dialog.2	You're not thinking of fighting a big, strong Valkyrie are you?
+gui.valkyrie.dialog.3	I don't think you should bother me, you could get really hurt.
+gui.valkyrie.dialog.attack.1	I'm not going easy on you!
+gui.valkyrie.dialog.attack.2	You're gonna regret that!
+gui.valkyrie.dialog.attack.3	Now you're in for it!
+gui.valkyrie.dialog.defeated.1	Alright, alright! You win!
+gui.valkyrie.dialog.defeated.2	Okay, I give up! Geez!
+gui.valkyrie.dialog.defeated.3	Oww! Fine, here's your medal...
+gui.valkyrie.dialog.medal.1	Umm... that's a nice pile of medallions you have there...
+gui.valkyrie.dialog.medal.2	That's pretty impressive, but you won't defeat me.
+gui.valkyrie.dialog.medal.3	You think you're a tough guy, eh? Well, bring it on!
+gui.valkyrie.dialog.nofight	So be it then. Goodbye adventurer.
+gui.valkyrie.dialog.nomedals	Take your time.
+gui.valkyrie.dialog.player.denyfight	On second thought, I'd rather not.
+gui.valkyrie.dialog.player.havemedals	I'm ready, I have the medals right here!
+gui.valkyrie.dialog.player.lackmedals	I'll return when I have them.
+gui.valkyrie.dialog.playerdead.1	You want a medallion? Try being less pathetic.
+gui.valkyrie.dialog.playerdead.2	Maybe some day, %s... maybe some day.
+gui.valkyrie.dialog.playerdead.3	Humans aren't nearly as cute when they're dead.
+gui.valkyrie.dialog.ready	Now then, let's begin!
+key.aether.accessory_menu	Open Accessories Menu
+lore.aether_legacy.aechor_petal	The petal of an Aechor Plant, they have a sweet aroma to them. These are a Moa's favorite food, and can be used to feed baby Moas.   @@KEEP: Aechor Plant
+lore.aether_legacy.aerogel	The result of the Aether's unique climate and lava combining. It can be crafted into various decorative blocks and is blast resistant.
+lore.aether_legacy.aerogel_slab	Crafted from Aerogel. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!
+lore.aether_legacy.aerogel_stairs	Crafted from Aerogel. Stairs are useful for adding verticality to builds and are often used for decoration too!
+lore.aether_legacy.aerogel_wall	Crafted from Aerogel. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!
+lore.aether_legacy.aether_dirt	A pale dirt. It can be found in the Aether, and can also be used to grow the native trees. It can grow into grass with enough light.
+lore.aether_legacy.aether_grass	Grass found in the Aether dimension. It can be used to grow the trees native to the Aether. It is much more pale than normal Grass.
+lore.aether_legacy.aether_portal	I'm sad you had to cheat that in to check what it does. ~Kino
+lore.aether_legacy.aether_tune	A music disc that plays Aether Tune by Noisestorm.
+lore.aether_legacy.agility_cape	A slightly rare cape, it can be seen in Bronze and Silver Dungeons. It makes the wearer's legs stronger, therefore they can walk up blocks instantly.
+lore.aether_legacy.ambrosium_ore	The most common ore in the Aether. The drops can be doubled with Skyroot tools.
+lore.aether_legacy.ambrosium_shard	Aether's coal equivalent, they have a healing property when eaten, and restore a small amount of health.
+lore.aether_legacy.ambrosium_torch	The main light source for the Aether, made with a Skyroot Stick and Ambrosium.   @@KEEP: Skyroot Stick
+lore.aether_legacy.angelic_slab	Crafted from Angelic Stone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!   @@KEEP: Angelic Stone
+lore.aether_legacy.angelic_stairs	Crafted from Angelic Stone. Stairs are useful for adding verticality to builds and are often used for decoration too!   @@KEEP: Angelic Stone
+lore.aether_legacy.angelic_stone	Angelic Stone is the main block that makes up Silver Dungeons. There is a chance some of them can be traps when generated in dungeons, but you cannot collect them as traps. It is unbreakable until you have defeated the boss, but it's worth it for that block.   @@KEEP: Angelic Stone
+lore.aether_legacy.angelic_wall	Crafted from Angelic Stone. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!   @@KEEP: Angelic Stone
+lore.aether_legacy.ascending_dawn	A music disc that plays Ascending Dawn by Emile van Krieken.
+lore.aether_legacy.berry_bush	These bushes can be found all over the Aether. They provide Blue Berries when broken, and then turn into bare stems. If placed on Enchanted Aether Grass the drops are doubled.   @@KEEP: Enchanted Aether Grass
+lore.aether_legacy.berry_bush_stem	This is the result of harvesting the Blue Berries from a Berry Bush. It can take some time for them to grow back.   @@KEEP: Berry Bush
+lore.aether_legacy.black_moa_egg	An Egg laid by a Black Moa. Hatching this provides a Black Moa with 8 mid-air jumps, the best and most rare one!
+lore.aether_legacy.blue_aercloud	A pale blue cloud found close to the ground. It has very bouncy properties, and can help you reach high places.
+
+### LO: botania_01
+18stones.enabled	Enable 1.8 Stones
+advancement.botania:signalFlareStun	See the Lights
+advancement.botania:signalFlareStun.desc	Stun 100 or more mobs at once with a Signal Flare   @@KEEP: Signal Flare
+advancement.botania:terraformRodCraft	World is Mine
+advancement.botania:terraformRodCraft.desc	Create a Rod of the Terra Firma and change the world   @@KEEP: Rod of the Terra Firma
+armorModels.enable	Custom Armor Models
+baubleRender.enabled	Enable Bauble Rendering
+blockBreakingParticles.enabled	Block Break Particles
+blockBreakingParticlesTool.enabled	Tool Block Break Particles
+botania.armorset.elementium.desc	Chance for pixies to apply potion effects
+botania.armorset.elementium.name	Great Fairy's Blessing
+botania.armorset.manasteel.desc	10%% less Mana cost on Mana Tools and Rods
+botania.armorset.manaweave.desc0	35%% less Mana cost on Mana Tools and Rods
+botania.armorset.manaweave.desc1	Increased proficiency with Magical Rods
+botania.armorset.terrasteel.desc0	20%% less Mana cost on Mana Tools and Rods
+botania.armorset.terrasteel.desc1	Regen even if hunger isn't topped off
+botania.armorset.terrasteel.desc2	Passive Mana generation on Mana Tablets   @@KEEP: Mana Tablet
+botania.armorset.terrasteel.name	Will of the Ancients
+botania.armorset.will0.desc	Critical Hits apply a strong weakness effect (Will of Ahrim)   @@KEEP: Will of Ahrim
+botania.armorset.will0.shortDesc	Critical Hits apply a strong weakness effect
+botania.armorset.will1.desc	Critical Hit damage increases with lower HP (Will of Dharok)   @@KEEP: Will of Dharok
+botania.armorset.will1.shortDesc	Critical Hit damage increases with lower HP
+botania.armorset.will2.desc	Critical Hits heal for a portion of damage dealt (Will of Guthan)   @@KEEP: Will of Guthan
+botania.armorset.will2.shortDesc	Critical Hits heal for a portion of damage dealt
+botania.armorset.will3.desc	Critical Hits apply a strong slowness effect (Will of Torag)   @@KEEP: Will of Torag
+botania.armorset.will3.shortDesc	Critical Hits apply a strong slowness effect
+botania.armorset.will4.desc	Critical Hits pierce through armor (Will of Verac)   @@KEEP: Will of Verac
+botania.armorset.will4.shortDesc	Critical Hits pierce through armor
+botania.armorset.will5.desc	Critical Hits apply a wither effect (Will of Karil)   @@KEEP: Will of Karil
+botania.armorset.will5.shortDesc	Critical Hits apply a wither effect
+botania.baubletooltip	Press &b%s&7 to open the Baubles menu
+botania.baubletype.amulet	Equippable in the &aAmulet&7 slot
+botania.baubletype.belt	Equippable in the &aBelt&7 slot
+botania.baubletype.ring	Equippable in the &aRing&7 slot
+botania.challenge.animalFarm.desc	Create an automated animal farm with all farmable animal types. Bonus points if the food doesn't need to be put in manually.
+botania.challenge.apothecaryRefill.desc	Create a system that automatically refills the Petal Apothecary if it's empty. Bonus points if the system can also automatically create flowers, given the components.   @@KEEP: Petal Apothecary
+botania.challenge.autoQuarry.desc	Create a mining quarry that digs for ores and stone underground. It should dig out chunks of land and output all of the mined resources, sorting them. Bonus points if it can relocate automatically after it's done with an area.
+botania.challenge.battery.desc	Create a Mana Battery, a system where mana enters one pool and comes out of another, with a good amount of pools as a buffer. Bonus points if the input or output can be changed.
+botania.challenge.boneMealFarm	Bone Meal-type Farm
+botania.challenge.boneMealFarm.desc	Create an automated farm that utilizes bone meal to quickly grow crops on demand. Bonus points if the Drum of the Wild isn't used.   @@KEEP: Drum of the Wild
+botania.challenge.cobbleGen.desc	Create an automated cobblestone generator and harvester. Bonus points if it also creates smooth stone without a furnace.
+botania.challenge.entropinnyumSetup.desc	Create a system that automatically crafts TNT and safely feeds it to an Entropinnyum flower, creating mana. Bonus points if the sand and gunpowder required for the TNT don't need to be put in manually.   @@KEEP: Entropinnyum
+botania.challenge.flowerFarm.desc	Create an automated farm of all 16 colors of botania flowers. Bonus points if the flowers are sorted.
+botania.challenge.fullCropFarm	Full Crop Farm
+botania.challenge.fullCropFarm.desc	Create a crop farm with all types of crops (wheat, carrot, potato, beetroot, melon, pumpkin, cocoa, and nether wart) that runs at full efficiency. Bonus points if the outputs are sorted.
+botania.challenge.kekimurusSetup.desc	Fully automate a Kekimurus, every part of the system must be automated and self-sustaining. Bonus points if only one crafty crate is used.   @@KEEP: Kekimurus
+botania.challenge.mobTower.desc	Create a tower style mob farm. Mobs must be sorted and put into specific chambers at the end. Spawners can be used. Bonus points if the farm functions at 100% efficiency without a player's interaction.
+botania.challenge.orechid.desc	Create a system that allows for the Orechid flower to be fully automated. Bonus points if the output is smelted and sorted.
+botania.challenge.potionBrewer.desc	Create a system that can make all types of brews automatically on demand. Bonus points if it keeps a set of incense always ignited in the player's base.
+botania.challenge.pureDaisy	Auto Pure Daisy   @@KEEP: Pure Daisy
+botania.challenge.pureDaisy.desc	Completely automate the Pure Daisy. Bonus points if only one spreader is used and/or if the wood/stone input is also automated.   @@KEEP: Pure Daisy
+botania.challenge.recordFarm.desc	Create a system that produces records through the death of creepers at the hand of skeletons. Bonus points if it doesn't require a player's presence.
+botania.challenge.reedFarm	Sugar Cane Farm
+botania.challenge.reedFarm.desc	Create an automated sugar cane farm. Bonus points for not using pistons.
+botania.challenge.runeCrafter.desc	Create a system that can craft all runes on demand or keep them stocked. Every part of this system must be automated and self-sustaining, including the item inputs. Bonus points if only one Runic Altar block is used. You must be pretty crazy to try this one.   @@KEEP: Runic Altar
+botania.challenge.shulkMeNotSetup	Shulk Me Not Setup   @@KEEP: Shulk Me Not
+botania.challenge.shulkMeNotSetup.desc	Create a system that allows for a Shulk Me Not to produce mana automatically, without any mana, items or entities coming from outside the system. Bonus points if no unnecessary mob infighting happens.   @@KEEP: Shulk Me Not
+botania.challenge.spectrolusSetup.desc	Create a system that feeds a Spectrolus, generating mana. Aside from raw mana, no items may be input from outside the system. Bonus points if it operates at 100% efficiency, never wasting any wool.   @@KEEP: Spectrolus
+botania.challenge.treeFarm.desc	Create an automated, self-sustaining tree farm. Bonus points if it can do multiple types of tree.
+botania.flowerType.passiveGenerating	Passive Generating Flower
+botania.gui.lexicon.header	Lexica Botania, %s Edition Table of Contents   @@KEEP: Lexica Botania
+botania.gui.lexicon.wip	(This entry is a Work In Progress. It's not even its final form)
+botania.nei.lexicaNoInfo	(there's no Extra Info for this entry, sorry!)
+botania.nei.petalApothecaryAnySeeds	Any seeds can be used to complete this recipe
+botania.nei.quickInfo:item.bone~0	You're gonna have a bad time
+botania.nei.quickInfo:item.enderAirBottle~15	You can get this by right clicking with a Glass Bottle while in the End
+botania.nei.quickInfo:item.lexicon~0	What exactly did you expect?
+botania.nei.quickInfo:item.terrasteel~4	You can get Terrasteel by tossing the right materials on a Terrestrial Agglomeration Plate   @@KEEP: Terrestrial Agglomeration Plate
+botania.nei.quickInfo:tile.livingrock0~0	You can create Livingrock by placing Stone next to a Pure Daisy   @@KEEP: Livingrock | Pure Daisy
+botania.nei.quickInfo:tile.livingwood0~0	You can create Livingwood by placing Wood next to a Pure Daisy   @@KEEP: Livingwood | Pure Daisy
+botania.tagline.aIntro	The next step in the Journey...
+botania.tagline.agricarnation	Grows crops faster
+botania.tagline.animatedTorch	Compact systems with a floating redstone torch
+botania.tagline.apothecary	What you use to make flowers
+botania.tagline.arcanerose	Mana from experience
+botania.tagline.astrolabe	A tool to help create planes
+botania.tagline.auraRing	Passive Mana Generator in a Ring   @@KEEP: Generator
+botania.tagline.autocraftingHalo	An Assembly Halo that crafts for you   @@KEEP: Assembly Halo
+botania.tagline.avatar	Rod effects in a block
+botania.tagline.azulejo	Blue and white decorative tiles
+botania.tagline.bIntro	Accessories that provide power
+botania.tagline.banners	Lots of new banner patterns
+botania.tagline.baubleBox	A handy container to store your Baubles
+botania.tagline.bcIntegration	Gates for interaction with Botania
+botania.tagline.bellows	Make Mana Pools' transferring and Furnaces faster   @@KEEP: Mana Pool
+botania.tagline.blackHoleTalisman	Infinite storage of a block in a single slot
+botania.tagline.blackLotus	Rare loot that can make mana
+botania.tagline.blazeBlock	Compact blaze storage and a renewable obsidian source
+botania.tagline.bloodPendant	Crystalized brews in pendant form
+botania.tagline.brewery	Create brews, more effective potions
+botania.tagline.bubbell	Makes underwater bubbles
+botania.tagline.cacophonium	Mimic mob sounds
+botania.tagline.canopyDrum	Destroy leaves en masse with mana bursts
+botania.tagline.clayconia	Creates clay from sand
+botania.tagline.clip	A Mana Blaster upgrade that lets it have multiple lenses   @@KEEP: Mana Blaster
+botania.tagline.cloudPendant	Gives you double jump
+
+### LO: abyssalcraft_02
+ac.ritual.econOMTupgrade.desc	An Omothol Energy Container is created by infusing a Dreadlands Energy Container with Ethaxium Bricks, Dark Ethaxium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Dreadlands Energy Container | Omothol Energy Container | Dark Ethaxium Bricks | Shadow Gem Shard | Ethaxium Bricks | Coralium Gem
+ac.ritual.econOWupgrade	Overworld Energy Container   @@KEEP: Overworld Energy Container
+ac.ritual.econOWupgrade.desc	An Overworld Energy Container is created by infusing an Energy Container with Cobblestone, Darkstone Cobblestone, Shadow Gem Shards and Coralium Gems.   @@KEEP: Overworld Energy Container | Darkstone Cobblestone | Energy Container | Shadow Gem Shard | Coralium Gem | Cobblestone
+ac.ritual.epAWupgrade	Abyssal Wasteland Energy Pedestal   @@KEEP: Abyssal Wasteland Energy Pedestal
+ac.ritual.epAWupgrade.desc	An Abyssal Wasteland Energy Pedestal is created by infusing an Overworld Energy Pedestal with Abyssal Stone Bricks, Coralium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Abyssal Wasteland Energy Pedestal | Overworld Energy Pedestal | Abyssal Stone Bricks | Shadow Gem Shard | Coralium Bricks | Coralium Gem
+ac.ritual.epDLupgrade	Dreadlands Energy Pedestal   @@KEEP: Dreadlands Energy Pedestal
+ac.ritual.epDLupgrade.desc	A Dreadlands Energy Pedestal is created by infusing an Abyssal Wasteland Energy Pedestal with Dreadstone Bricks, Abyssalnite Stone Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Abyssal Wasteland Energy Pedestal | Dreadlands Energy Pedestal | Abyssalnite Stone Bricks | Dreadstone Bricks | Shadow Gem Shard | Coralium Gem
+ac.ritual.epOMTupgrade	Omothol Energy Pedestal   @@KEEP: Omothol Energy Pedestal
+ac.ritual.epOMTupgrade.desc	An Omothol Energy Pedestal is created by infusing a Dreadlands Energy Pedestal with Ethaxium Bricks, Dark Ethaxium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Dreadlands Energy Pedestal | Omothol Energy Pedestal | Dark Ethaxium Bricks | Shadow Gem Shard | Ethaxium Bricks | Coralium Gem
+ac.ritual.epOWupgrade	Overworld Energy Pedestal   @@KEEP: Overworld Energy Pedestal
+ac.ritual.epOWupgrade.desc	An Overworld Energy Pedestal is created by infusing an Energy Pedestal with Cobblestone, Darkstone Cobblestone, Shadow Gem Shards and Coralium Gems.   @@KEEP: Overworld Energy Pedestal | Darkstone Cobblestone | Shadow Gem Shard | Energy Pedestal | Coralium Gem | Cobblestone
+ac.ritual.erAWupgrade	Abyssal Wasteland Energy Relay   @@KEEP: Abyssal Wasteland Energy Relay
+ac.ritual.erAWupgrade.desc	An Abyssal Wasteland Energy Relay is created by infusing an Overworld Energy Relay with Abyssal Stone Bricks, Coralium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Abyssal Wasteland Energy Relay | Overworld Energy Relay | Abyssal Stone Bricks | Shadow Gem Shard | Coralium Bricks | Coralium Gem
+ac.ritual.erDLupgrade	Dreadlands Energy Relay   @@KEEP: Dreadlands Energy Relay
+ac.ritual.erDLupgrade.desc	A Dreadlands Energy Relay is created by infusing an Abyssal Wasteland Energy Relay with Dreadstone Bricks, Abyssalnite Stone Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Abyssal Wasteland Energy Relay | Abyssalnite Stone Bricks | Dreadlands Energy Relay | Dreadstone Bricks | Shadow Gem Shard | Coralium Gem
+ac.ritual.erOMTupgrade	Omothol Energy Relay   @@KEEP: Omothol Energy Relay
+ac.ritual.erOMTupgrade.desc	An Omothol Energy Relay is created by infusing a Dreadlands Energy Relay with Ethaxium Bricks, Dark Ethaxium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Dreadlands Energy Relay | Omothol Energy Relay | Dark Ethaxium Bricks | Shadow Gem Shard | Ethaxium Bricks | Coralium Gem
+ac.ritual.erOWupgrade	Overworld Energy Relay   @@KEEP: Overworld Energy Relay
+ac.ritual.erOWupgrade.desc	An Overworld Energy Relay is created by infusing an Energy Relay with Cobblestone, Darkstone Cobblestone, Shadow Gem Shards and Coralium Gems.   @@KEEP: Overworld Energy Relay | Darkstone Cobblestone | Shadow Gem Shard | Coralium Gem | Energy Relay | Cobblestone
+ac.ritual.ethaxiumIngot.desc	An Ethaxium Ingot is created by Infusing a Life Crystal with Ethaxium Bricks.   @@KEEP: Ethaxium Bricks | Ethaxium Ingot | Life Crystal
+ac.ritual.hasturCharm.desc	A Hastur Charm is made by infusing a Ritual Charm with Hastur Engraved Coins.   @@KEEP: Hastur Engraved Coin | Hastur Charm | Ritual Charm
+ac.ritual.hasturStatue.desc	A Hastur Statue is created by infusing a Monolith Stone with Abyssal Shoggoth Flesh, an Abyssal Wasteland Essence, a Dreadlands Essence and an Omothol Essence.   @@KEEP: Abyssal Wasteland Essence | Abyssal Shoggoth Flesh | Dreadlands Essence | Omothol Essence | Monolith Stone | Hastur Statue
+ac.ritual.hdurationCharm	Hastur Charm (Duration)   @@KEEP: Hastur Charm
+ac.ritual.hdurationCharm.desc	A Duration Hastur Charm is made by infusion a Hastur Charm with Redstone Dust and Shadow Fragments.   @@KEEP: Shadow Fragment | Hastur Charm
+ac.ritual.hpowerCharm	Hastur Charm (Power)   @@KEEP: Hastur Charm
+ac.ritual.hpowerCharm.desc	A Power Hastur Charm is made by infusion a Hastur Charm with Glowstone Dust and Shadow Fragments.   @@KEEP: Shadow Fragment | Glowstone Dust | Hastur Charm
+ac.ritual.hrangeCharm	Hastur Charm (Range)   @@KEEP: Hastur Charm
+ac.ritual.hrangeCharm.desc	A Range Hastur Charm is made by infusion a Hastur Charm with Arrows and Shadow Fragments.   @@KEEP: Shadow Fragment | Hastur Charm
+ac.ritual.interdimensionalcage.desc	An Interdimensional Cage is created by infusing a Shard of Oblivion with Iron Bars. It can use Potential Energy to capture Entities. The amount of PE required is determined by the Entity's metric volume (ratio: 100 PE/m³), so larger entities require more PE to capture. PE is only drained when you capture an Entity.   @@KEEP: Interdimensional Cage | Shard of Oblivion | Iron Bars
+ac.ritual.jdurationCharm	J'zahar Charm (Duration)   @@KEEP: J'zahar Charm
+ac.ritual.jdurationCharm.desc	A Duration J'zahar Charm is made by infusion a J'zahar Charm with Redstone Dust and Shadow Fragments.   @@KEEP: Shadow Fragment | J'zahar Charm
+ac.ritual.jpowerCharm	J'zahar Charm (Power)   @@KEEP: J'zahar Charm
+ac.ritual.jpowerCharm.desc	A Power J'zahar Charm is made by infusion a J'zahar Charm with Glowstone Dust and Shadow Fragments.   @@KEEP: Shadow Fragment | Glowstone Dust | J'zahar Charm
+ac.ritual.jrangeCharm	J'zahar Charm (Range)   @@KEEP: J'zahar Charm
+ac.ritual.jrangeCharm.desc	A Range J'zahar Charm is made by infusion a J'zahar Charm with Arrows and Shadow Fragments.   @@KEEP: Shadow Fragment | J'zahar Charm
+ac.ritual.jzaharCharm.desc	A J'zahar Charm is made by infusing a Ritual Charm with J'zahar Engraved Coins.   @@KEEP: J'zahar Engraved Coin | J'zahar Charm | Ritual Charm
+ac.ritual.jzaharStaff	Staff of The Gatekeeper   @@KEEP: Staff of The Gatekeeper
+ac.ritual.jzaharStaff.desc	A Staff of The Gatekeeper is created by infusing a Staff of Rending with an Abyssal Wasteland Essence, a Dreadlands Essence, an Omothol Essence, Eldritch Scales and Ethaxium Ingots.   @@KEEP: Abyssal Wasteland Essence | Staff of The Gatekeeper | Dreadlands Essence | Staff of Rending | Omothol Essence | Eldritch Scale
+ac.ritual.jzaharStatue.desc	A J'zahar Statue is created by infusing a Monolith Stone with Eldritch Scales, an Abyssal Wasteland Essence, a Dreadlands Essence and an Omothol Essence.   @@KEEP: Abyssal Wasteland Essence | Dreadlands Essence | Omothol Essence | J'zahar Statue | Monolith Stone | Eldritch Scale
+ac.ritual.lesserScroll.desc	A Lesser Scroll is created with 2 Books, a Wasteland's Thorn and a Luminous Thistle   @@KEEP: Wasteland's Thorn | Luminous Thistle | Lesser Scroll
+ac.ritual.massEnchantment.desc	By presesenting 8 Enchanted Books and an Item on the altar, all of the Enchantments will be combined and applied on the Item. You can use any combination of Enchantments, and all levels will be combined, so multiple instances of the same Enchantment can surpass the normal boundaries.
+ac.ritual.moderateScroll.desc	A Moderate Scroll is created with 2 Books, a Dread Fragment and a Dreaded Shard of Abyssalnite   @@KEEP: Dreaded Shard of Abyssalnite | Moderate Scroll | Dread Fragment
+ac.ritual.ndurationCharm	Nyarlathotep Charm (Duration)   @@KEEP: Nyarlathotep Charm
+ac.ritual.ndurationCharm.desc	A Duration Nyarlathotep Charm is made by infusion a Nyarlathotep Charm with Redstone Dust and Shadow Fragments.   @@KEEP: Nyarlathotep Charm | Shadow Fragment
+ac.ritual.npowerCharm	Nyarlathotep Charm (Power)   @@KEEP: Nyarlathotep Charm
+ac.ritual.npowerCharm.desc	A Power Nyarlathotep Charm is made by infusion a Nyarlathotep Charm with Glowstone Dust and Shadow Fragments.   @@KEEP: Nyarlathotep Charm | Shadow Fragment | Glowstone Dust
+ac.ritual.nrangeCharm	Nyarlathotep Charm (Range)   @@KEEP: Nyarlathotep Charm
+ac.ritual.nrangeCharm.desc	A Range Nyarlathotep Charm is made by infusion a Nyarlathotep Charm with Arrows and Shadow Fragments.   @@KEEP: Nyarlathotep Charm | Shadow Fragment
+ac.ritual.nyarlathotepCharm.desc	A Nyarlathotep Charm is made by infusing a Ritual Charm with Nyarlathotep Engraved Coins.   @@KEEP: Nyarlathotep Engraved Coin | Nyarlathotep Charm | Ritual Charm
+ac.ritual.nyarlathotepStatue.desc	A Nyarlathotep Statue is created by infusing a Monolith Stone with Dreaded Shoggoth Flesh, an Abyssal Wasteland Essence, a Dreadlands Essence and an Omothol Essence.   @@KEEP: Abyssal Wasteland Essence | Dreaded Shoggoth Flesh | Nyarlathotep Statue | Dreadlands Essence | Omothol Essence | Monolith Stone
+ac.ritual.oblivionCatalyst.desc	An Oblivion Catalyst is created by infusing an Eye of Ender with Shards of Oblivion and Redstone Dust.   @@KEEP: Oblivion Catalyst
+ac.ritual.powerCharm	Ritual Charm (Power)   @@KEEP: Ritual Charm
+ac.ritual.powerCharm.desc	A Power Ritual Charm is made by infusion a Ritual Charm with Glowstone Dust and Shadow Fragments.   @@KEEP: Shadow Fragment | Glowstone Dust | Ritual Charm
+ac.ritual.powerStone	Dreadlands Infused Powerstone   @@KEEP: Dreadlands Infused Powerstone
+ac.ritual.powerStone.desc	A Dreadlands Infused Powerstone is created by infusing Coralium Infused Stone with Dreadlands Essences.   @@KEEP: Dreadlands Infused Powerstone | Coralium Infused Stone | Dreadlands Essence
+ac.ritual.purging	Ritual of Purging
+ac.ritual.purging.desc	By presenting 4 Crystallized Calcium Clusters and a large amount of energy, you purge every trace of the Dread Plague (and the Dreadlands) from the area, putting a stop to it here (also kills nearby mobs). While it renders the area uninhabitable, no plagues will be able to spread here. Doesn't work in the Dreadlands.   @@KEEP: Crystallized Calcium
+ac.ritual.rangeCharm	Ritual Charm (Range)   @@KEEP: Ritual Charm
+ac.ritual.rangeCharm.desc	A Range Ritual Charm is made by infusion a Ritual Charm with Arrows and Shadow Fragments.   @@KEEP: Shadow Fragment | Ritual Charm
+ac.ritual.respawnJzahar	Ritual of reversed time
+ac.ritual.respawnJzahar.desc	If you in some way failed to obtain an Essence of The Gatekeeper, you can revert time and fight J'zahar again. Can only be performed at the Ritual Altar inside the Temple of J'zahar (X=4, Y=54, Z=85).   @@KEEP: Essence of The Gatekeeper | Ritual Altar
+ac.ritual.resurrection.desc	By presenting crystallized compounds resembling the elements of life, a living sacrifice and a Name Tag with the name of a fallen companion, you resurrect it. The Crystal size scale with the companion (Shards for something the size of a Chicken, Clusters for a Horse, normal for anything inbetween). Life has limits, however.
+ac.ritual.saAWupgrade	Abyssal Wasteland Sacrificial Altar   @@KEEP: Abyssal Wasteland Sacrificial Altar
+ac.ritual.saAWupgrade.desc	An Abyssal Wasteland Sacrificial Altar is created by infusing an Overworld Sacrificial Altar with Abyssal Stone Bricks, Coralium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Abyssal Wasteland Sacrificial Altar | Overworld Sacrificial Altar | Abyssal Stone Bricks | Shadow Gem Shard | Coralium Bricks | Coralium Gem
+ac.ritual.saDLupgrade	Dreadlands Sacrificial Altar   @@KEEP: Dreadlands Sacrificial Altar
+ac.ritual.saDLupgrade.desc	A Dreadlands Sacrificial Altar is created by infusing an Abyssal Wasteland Sacrificial Altar with Dreadstone Bricks, Abyssalnite Stone Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Abyssal Wasteland Sacrificial Altar | Dreadlands Sacrificial Altar | Abyssalnite Stone Bricks | Dreadstone Bricks | Shadow Gem Shard | Coralium Gem
+ac.ritual.saOMTupgrade	Omothol Sacrificial Altar   @@KEEP: Omothol Sacrificial Altar
+ac.ritual.saOMTupgrade.desc	An Omothol Sacrificial is created by infusing a Dreadlands Sacrificial Altar with Ethaxium Bricks, Dark Ethaxium Bricks, Shadow Gem Shards and Coralium Gems.   @@KEEP: Dreadlands Sacrificial Altar | Dark Ethaxium Bricks | Shadow Gem Shard | Ethaxium Bricks | Coralium Gem
+ac.ritual.saOWupgrade	Overworld Sacrificial Altar   @@KEEP: Overworld Sacrificial Altar
+ac.ritual.saOWupgrade.desc	An Overworld Sacrificial Altar is created by infusing a Sacrificial Altar with Cobblestone, Darkstone Cobblestone, Shadow Gem Shards and Coralium Gems.   @@KEEP: Overworld Sacrificial Altar | Darkstone Cobblestone | Sacrificial Altar | Shadow Gem Shard | Coralium Gem | Cobblestone
+ac.ritual.sdurationCharm	Shub-Niggurath Charm (Duration)   @@KEEP: Shub-Niggurath Charm
+ac.ritual.sdurationCharm.desc	A Duration Shub-Niggurath Charm is made by infusion a Shub-Niggurath Charm with Redstone Dust and Shadow Fragments.   @@KEEP: Shub-Niggurath Charm | Shadow Fragment
+
+### LO: aether_legacy_03
+lore.aether_legacy.gummy_swet_golden	A sour tasting gummy, it can be found in random chests in Bronze and Silver dungeons. It restores the player’s hunger to full. Very useful for boss fights.
+lore.aether_legacy.healing_stone	Obtained from enchanting Holystone, it can be used as a reliable healing source, providing Regeneration. It has a surprisingly juicy flavor.   @@KEEP: Regeneration | Holystone
+lore.aether_legacy.hellfire_slab	Crafted from Hellfire Stone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!   @@KEEP: Hellfire Stone
+lore.aether_legacy.hellfire_stairs	Crafted from Hellfire Stone. Stairs are useful for adding verticality to builds and are often used for decoration too!   @@KEEP: Hellfire Stone
+lore.aether_legacy.hellfire_stone	A warm, red stone that makes up 90%% of Gold Dungeon interior. It cannot be destroyed until the Sun Spirit is defeated.   @@KEEP: Sun Spirit
+lore.aether_legacy.hellfire_wall	Crafted from Hellfire Stone. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!   @@KEEP: Hellfire Stone
+lore.aether_legacy.holiday_leaves	Leaves on Christmas trees! It snows near them, and there is always presents nearby!
+lore.aether_legacy.holy_sword	An ancient sword which does heavy amounts of damage to undead foes. A perfect weapon for traversing the Overworld.
+lore.aether_legacy.holystone	The Aether's native rock. It can be used in various ways such as creating tools, construction, as well being able to be crafted into Holystone Bricks.   @@KEEP: Holystone Brick
+lore.aether_legacy.holystone_axe	One of Aether's stone tools, it mines faster than Skyroot Tools, as well as dropping random Ambrosium Shards.   @@KEEP: Ambrosium Shard
+lore.aether_legacy.holystone_brick	Used as a building material native to the Aether. It is made from Holystone and is more sturdy than it too.   @@KEEP: Holystone
+lore.aether_legacy.holystone_brick_slab	Crafted from Holystone Bricks. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!   @@KEEP: Holystone Brick
+lore.aether_legacy.holystone_brick_stairs	Crafted from Holystone Bricks. Stairs are useful for adding verticality to builds and are often used for decoration too!   @@KEEP: Holystone Brick
+lore.aether_legacy.holystone_brick_wall	Crafted from Holystone Bricks. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!   @@KEEP: Holystone Brick
+lore.aether_legacy.holystone_pickaxe	One of Aether's stone tools, it can mine Zanite, and will randomly drop Ambrosium Shards while mining.   @@KEEP: Ambrosium Shard
+lore.aether_legacy.holystone_shovel	One of Aether's stone tools, it can mine Quicksoil, and all other blocks a Stone Shovel can mine, except it drops random Ambrosium Shards.   @@KEEP: Ambrosium Shard | Quicksoil
+lore.aether_legacy.holystone_slab	Crafted from Holystone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!   @@KEEP: Holystone
+lore.aether_legacy.holystone_stairs	Crafted from Holystone. Stairs are useful for adding verticality to builds and are often used for decoration too!   @@KEEP: Holystone
+lore.aether_legacy.holystone_sword	One of Aether's stone tools, it can drop Ambrosium Shards at random while attacking.   @@KEEP: Ambrosium Shard
+lore.aether_legacy.holystone_wall	Crafted from Holystone. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!   @@KEEP: Holystone
+lore.aether_legacy.ice_pendant	A pendant which allows you to freeze water, and lava when walked on.
+lore.aether_legacy.ice_ring	A ring which allows you to freeze water, and lava when walked on.
+lore.aether_legacy.icestone	Icestone is a common ore that can be used as fuel for a Freezer. It can be used to freeze nearby liquids such as Lava and Water.
+lore.aether_legacy.incubator	Used to incubate Moa's. You use Ambrosium Torches for the fuel. The process can take quite some time, but it is worth the wait once your Moa of choice hatches!   @@KEEP: Ambrosium Torch
+lore.aether_legacy.invisibility_cape	A cloak that makes the wearer completely invisible! Since mobs cannot see you, they cannot attack you. Sneak up on your enemies with it!
+lore.aether_legacy.iron_bubble	A common dungeon loot. It allows for the wearer to breathe underwater for a longer time than normal.
+lore.aether_legacy.iron_gloves	Part of the Iron Armor set, it is needed to complete the Iron Armor set.
+lore.aether_legacy.iron_pendant	An aesthetic accessory made of iron.
+lore.aether_legacy.iron_ring	An aesthetic accessory made of iron.
+lore.aether_legacy.jeb_hammer	A mysterious hammer that shoots projectiles out of it. At one point it vanished from existence. It's said this was actually Jeb's hammer at one point.
+lore.aether_legacy.leather_gloves	Dyeable gloves to match your leather tunic! This is needed to complete the Leather armor set.
+lore.aether_legacy.legacy	A music disc that plays Legacy by xJonL.
+lore.aether_legacy.life_shard	A very rare item found in Gold Dungeons. Using this will give you an extra permanent heart! The feeling of using it is very strange, and hard to describe.
+lore.aether_legacy.light_angelic_stone	The Light version of Angelic Stone. It is less common than Angelic Stone, but it looks really nice as a decorative block.   @@KEEP: Angelic Stone
+lore.aether_legacy.light_hellfire_stone	The Light version of Hellfire Stone. It can be found in Gold Dungeons along with Hellfire stone, but like it's counterpart, it cannot be collected until the boss is defeated.   @@KEEP: Hellfire Stone
+lore.aether_legacy.lightning_knife	Small knives that when thrown, summon lightning bolts where they land.
+lore.aether_legacy.lightning_sword	An ancient sword which summons lightning to its foes.
+lore.aether_legacy.lore_book	A large book containing many lore entries written by the wise Lorist. It describes every object in detail.
+lore.aether_legacy.mossy_holystone	A more aged Holystone, it is found near dungeons, and has pale colored vines growing on it, very decorative.   @@KEEP: Holystone
+lore.aether_legacy.mossy_holystone_slab	Crafted from Mossy Holystone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building’s roofing!   @@KEEP: Mossy Holystone
+lore.aether_legacy.mossy_holystone_stairs	Crafted from Mossy Holystone. Stairs are useful for adding verticality to builds and are often used for decoration too!   @@KEEP: Mossy Holystone
+lore.aether_legacy.mossy_holystone_wall	Crafted from Mossy Holystone. Can be used for decorative enclosures and defences. Great for keeping nasty intruders away!   @@KEEP: Mossy Holystone
+lore.aether_legacy.nature_staff	A staff that can allow for commanding tamed Moas. It can allow them to sit on the ground.
+lore.aether_legacy.neptune_boots	Found in Silver Dungeons, this armor allows for water walking. The full set is a much better replacement for the Depth Strider enchantment.
+lore.aether_legacy.neptune_chestplate	Found in Silver Dungeons, this armor allows for water walking. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.   @@KEEP: Iron Bubble
+lore.aether_legacy.neptune_gloves	Found in Silver Dungeons, these gloves are requires to complete the Neptune Armor set, which allows for underwater walking.
+lore.aether_legacy.neptune_helmet	Found in Silver Dungeons, this armor allows for water walking. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.   @@KEEP: Iron Bubble
+lore.aether_legacy.neptune_leggings	Found in Silver Dungeons, this armor allows for water walking. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.   @@KEEP: Iron Bubble
+lore.aether_legacy.notch_hammer	A mighty hammer which shoots heavy projectiles at mobs. It's said that Notch actually held this hammer.
+lore.aether_legacy.obsidian_boots	A super powerful armor, more powerful than Diamond, this armor is only obtainable by standing in water while wearing Phoenix Armor, converting it to Obsidian.
+lore.aether_legacy.obsidian_chestplate	A super powerful armor, more powerful than Diamond, this armor is only obtainable by standing in water while wearing Phoenix Armor, converting it to Obsidian.
+lore.aether_legacy.obsidian_gloves	Needed to complete the Obsidian Armor set, you can convert Phoenix Gloves into Obsidian by standing in water while wearing them.   @@KEEP: Phoenix Gloves
+lore.aether_legacy.obsidian_helmet	A super powerful armor, more powerful than Diamond, this armor is only obtainable by standing in water while wearing Phoenix Armor, converting it to Obsidian.
+lore.aether_legacy.obsidian_leggings	A super powerful armor, more powerful than Diamond, this armor is only obtainable by standing in water while wearing Phoenix Armor, converting it to Obsidian.
+lore.aether_legacy.orange_moa_egg	An Egg laid by an Orange Moa. Hatching this provides an Orange Moa with 2 mid-air jumps, but extreme speed. This Moa is quite common.
+lore.aether_legacy.phoenix_boots	Found in Gold Dungeons, when fully worn, this armor set allows for Fire Resistance, you can swim in Lava as well. Be careful when standing in water, as it will turn into Obsidian armor.
+lore.aether_legacy.phoenix_bow	Found as a dungeon loot, this bow is very heated, and can shoot flaming arrows! It's warm to the touch.
+lore.aether_legacy.phoenix_chestplate	Found in Gold Dungeons, when fully worn, this armor set allows for Fire Resistance, you can swim in Lava as well. Be careful when standing in water, as it will turn into Obsidian armor.
+
+### LO: astralsorcery_01
+amulet.enchantment.add_to_existing_all.name	+%s %s to all existing Enchantments
+amulet.enchantment.add_to_existing_specific.name	+%s %s to existing %s
+amulet.enchantment.add_to_specific.name	+%s %s to %s
+astralsorcery.config.title.overview	Astral Sorcery Configuration
+astralsorcery.constellation.aevitas.capeeffect	Bathed in the power creation, you find your hunger recovers with an emanated aura of healing. Furthermore, plants twist to your essence when within close proximity, changing into others of their kind.
+astralsorcery.constellation.aevitas.effect	Being exposed to focused light of this Constellation will flowers and plants nearby to flourish and greatly increase their bounty.
+astralsorcery.constellation.aevitas.enchantments	The light of creation accelerates new growth from injury, mending equipment and greatly healing the living.
+astralsorcery.constellation.aevitas.ritual	The ritual suffuses the area with an invigorated lifeforce - all nearby living entities experience regeneration, while nearby crops flourish and grow at an accelerated rate.
+astralsorcery.constellation.alcara.effect	All things in the universe have their own subtle harmony to them. The light of this Constellation corrupts those vibrations, twisting them to other ends.
+astralsorcery.constellation.alcara.enchantments	Resonant vibrations in tools cause blocks to more easily separate from their surroundings, and fish of the sea are drawn to them. Drinkers see themselves fade from view as their body vibrates against light itself.
+astralsorcery.constellation.alcara.trait	Instilling symbiotic resonance can greatly increase the power of a note. The slightest discordant infection can corrupt even the most beautiful of sounds, however.
+astralsorcery.constellation.armara.capeeffect	A mantle infused with this Constellation's light will slowly collect it over time, manifesting into protective barriers which can completely deflect attacks for as long as the barrier remains.
+astralsorcery.constellation.armara.effect	A repulsive force pushes away from the light of this Constellation, much like a shield or protective barrier.
+astralsorcery.constellation.armara.enchantments	The protective nature of this Constellation imbues potions to allow the consumer to resist harm, or imbues equipment to protect the wielder.
+astralsorcery.constellation.armara.ritual	Channeling the repulsive forces that emit from this light into the near area creates a small force field, reflecting projectiles and pushing mobs outside its range.
+astralsorcery.constellation.bootes.capeeffect	Wearing a mantle attuned to this Constellation causes Flares to flock to you, following you in your travels and aiding you in combat.
+astralsorcery.constellation.bootes.effect	These dim rays keep animals content and interested.
+astralsorcery.constellation.bootes.enchantments	Tools exposed to this light causes rage to temper while held, as blocks can be harvested with more care. Imbibing a potion instilled with this Constellation's light will have their hunger satiated for a while, preserving animal life.
+astralsorcery.constellation.bootes.ritual	When exposed to this spectrum of Starlight, animals close to it seem to relax and become fecund, but strangely ooze resources.   @@KEEP: Starlight
+astralsorcery.constellation.discidia.capeeffect	Once infused with this Constellation's light, a mantle will draw strength from your enemies' blows, empowering your own against them. Once hit, the wearer gains a portion of the damage taken as additional damage to be dealt with each hit.
+astralsorcery.constellation.discidia.effect	Light from this Constellation seems to be unstoppable, piercing both materials and creatures alike.
+astralsorcery.constellation.discidia.enchantments	The violent nature of this Constellation saturates potions to grant strength to the consumer, or sharpens tools and empowers bows.
+astralsorcery.constellation.discidia.ritual	Dispersing the strong light into small discordant energies in the area creates a damaging field, lashing out at all enemies nearby.
+astralsorcery.constellation.evorsio.capeeffect	This infused cloak enhances your destructive potential, allowing you to break down walls with ease and severely damage hoards of enemies when one of them dies from your hand while in proximity to others.
+astralsorcery.constellation.evorsio.effect	Shattering and destructive; the piercing light of this Constellation forces its way even through most solid materials.
+astralsorcery.constellation.evorsio.enchantments	Tools bathed in the light of this Constellation more easily perform their intended tasks, and a drinker of this light gains a destructive efficiency to their actions.
+astralsorcery.constellation.evorsio.ritual	Dispersing the light of this Constellation in its focused essence with a ritual causes thorough destruction, and disintegrates any solid blocks nearby.
+astralsorcery.constellation.fornax.capeeffect	While wearing the likeness of these stars, fire regenerates your flesh rather than scorching it. Furthermore, while also wearing flame itself, the heat is channeled into the ground you stand on: either burning or melting it down entirely.
+astralsorcery.constellation.fornax.effect	A strong force and intense heat follow closely to this Constellation's light. Looking at it makes you feel uncomfortably warm.
+astralsorcery.constellation.fornax.enchantments	Wielding tools that were directly exposed to these strong rays is very uncomfortable, and everything you strike or mine burns away before you. However, drinking potions imbued with this light seem to imbue you with fire instead.
+astralsorcery.constellation.fornax.ritual	Carefully distributing the energies of this Constellation over an area prevent it from setting fires, but the sustained heat will cause nearby blocks to become molten or burn.
+astralsorcery.constellation.gelu.effect	The cold depths of the Astral seem a perfect match for this chilly Constellation's supernatural powers.
+astralsorcery.constellation.gelu.enchantments	The supernatural cold freezes water, condenses air to slow your fall, and makes tools harder to break. It provides protection from fire when consumed as a liquid.
+astralsorcery.constellation.gelu.trait	As the insidious cold diminishes output with it's deep chill, so too does it spread wide its embrace.
+astralsorcery.constellation.horologium.capeeffect	Wearers of a mantle attuned to time are able to freeze everything nearby when being attacked or in a dangerous situation. There is a delay before time can be so abruptly disturbed again, however. Due to Starlight interactions with Fornax, fire damage will not trigger this effect.   @@KEEP: Starlight
+astralsorcery.constellation.horologium.effect	This Constellation seems to shift in time. Not only is finding it difficult, but its rays seem to twist time, causing things they shine upon to act much faster than usual.
+astralsorcery.constellation.horologium.enchantments	Warped and twisted in time, harvesting things with tools that were even just briefly exposed to this Constellation's light yield far more resources than usual. Potions on the other hand grant the drinker increased speed in all things.
+astralsorcery.constellation.horologium.ritual	This ritual materializes the Constellation's affinity for things mechanical and ticking, where machinery nearby works at an increased pace.
+astralsorcery.constellation.lucerna.capeeffect	Simply wearing a mantle infused with this Constellation's light will unsettle mobs around you, revealing their location. Areas where mobs may be summoned in great numbers by magical cages see exceptional reactions.
+astralsorcery.constellation.lucerna.effect	The light of this Constellation seems immensely bright despite it being far away. Bright enough that it may inhibit enemies from arising entirely in its area.
+astralsorcery.constellation.lucerna.enchantments	Imbibing the light of this Constellation temporarily banishes the darkness from the drinker's eyes. Bathing a helmet in this light accomplishes the same effect, permanently.
+astralsorcery.constellation.lucerna.ritual	While only Starlight, the fundamental brightness contained within prevents hostile creatures from arising in the area.   @@KEEP: Starlight
+astralsorcery.constellation.mineralis.capeeffect	A mantle infused with this Constellation finds itself drawn to sought materials, allowing the wearer to determine the nearby locations of the currently held block.
+astralsorcery.constellation.mineralis.effect	Standing in the light of this Constellation, the very stone of the world seems to glow strangely and its shape seems to change ever so slightly over time.
+astralsorcery.constellation.mineralis.enchantments	Also known as the "Coal Miner's Cure", those who drink a potion exposed to Mineralis report greater fortune in their endeavors; the same result has been observed in tools equally exposed.
+astralsorcery.constellation.mineralis.ritual	Igneous processes are accelerated within nearby stone, resulting in new mineral growth where previously there was none.
+
+### LO: evilcraft_04
+info_book.evilcraft.first_age.vengeance_spirits.introduction.text2	I noticed that I can use some of the &1Crushed Dark Gem&0 to construct a ring which allows me to fully see those auras of the mobs I kill, though it looks like they can see me as well. They always try to follow me and when they touch me they do some minor damage after which they dissolve into thin air.   @@KEEP: Crushed Dark Gem
+info_book.evilcraft.first_age.vengeance_spirits.introduction.text3	Activating the ring gives me some amazing powers but this seems to attract and anger some spirits, although most of these spirits are unrecognisable for some reason...
+info_book.evilcraft.first_age.vengeance_spirits.spirit_protection.text1	These spirits can do some nasty damage if you’re not careful. I noticed that these spirits seem to be annoyed by &1Dark Gems&0, but they still ignore feeling that if they see you. The power of fire and a larger amount of &1Dark Gems&0 seems to change the way the spirits attack you though. Instead of taking damage, you will now only be a bit more hungry, which might be better than the alternative.   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.vengeance_spirits.spirit_protection.text2	A completely different alternative to spirit protection, is to simply make yourself invisible to these spirits. It looks like the &1Spectral Glasses&0 allow you to see any spirit without them being able to see you, unless they were already out for your soul. This does however require some otherwordly material to craft, maybe I'll come across it later.   @@KEEP: Spectral Glasses
+info_book.evilcraft.preface.text1	It would seem this world holds more than meets the eye. There are things I will conclude in this book, my writings of acquired knowledge of the obscurity that resides here. I have discovered a dark way of living with the creatures of this world. “&oWhat evil will come of this&r”, I ask myself? “&oEvil lurks in every corner&r”, I hear a dark voice within me reply. I have discovered a few secrets within this vast world of silly villagers and zombies, something their puny minds will never comprehend.
+info_book.evilcraft.preface.text2	Many kinds of magic exist in this world, but the kind you can achieve with &4Blood&0 seems different. I've noticed people cutting themselves for obtaining &4Blood&0, I prefer to spare my strength for some other things...
+info_book.evilcraft.second_age.abusing_spirits.infusing_spirits.text	Having &1Vengeance Spirits&0 contained in boxes is not very useful by itself. I theorized that it might be possible to revive the spirits using some &4Blood&0...   @@KEEP: Vengeance Spirit
+info_book.evilcraft.second_age.abusing_spirits.spirit_furnace.text1	I finally succeeded in reviving &1Vengeance Spirits&0, or at least partially. The revived spirits seem to be too weak to live in the real world, but they seem to have all the properties and materials of real mobs though. There is however a use for this discovery, when building a large machine that can contain the resulting mob it will, at the cost of a large amount of &4Blood&0, revive the spirit and immediately cook it alive. This will result in the drops of these mobs to be collected in the machine’s inventory. It looks like the &1Box of Eternal Closure&0 can indefinitely be reused without the spirit ever getting out of it.   @@KEEP: Box of Eternal Closure | Vengeance Spirit
+info_book.evilcraft.second_age.abusing_spirits.spirit_furnace.text2	You will need a bunch of tough blocks, like &1Dark Bricks&0 infused with some &4Blood&0 to make sure the spirits can’t get out. You will need to build a cubic structure of these blocks so that the mob you wish to reanimate has room enough to fit in the inside of the structure. A zombie for example is one block wide and two blocks high, so you will need a structure of three blocks wide and four blocks high with a hollow space inside. If the mob you try to contain is very large you might even need to build a structure that is as large as a nine-by-nine, not too shabby!   @@KEEP: Dark Brick
+info_book.evilcraft.second_age.abusing_spirits.spirit_furnace.text3	You will also need a single &1Spirit Furnace&0 block somewhere in the structure. This block can easily be connected to other inventories or tanks using the known means. You will see a distinct red glow when the structure has been successfully assembled.   @@KEEP: Spirit Furnace
+info_book.evilcraft.second_age.abusing_spirits.spirit_reanimator.text1	After the discovery of the &1Spirit Furnace&0 I was still determined to revive those spirits. To solve the problem of unstable mobs I put them inside &1Eggs&0, as an attempt to stabilize them. This process still requires some substantial amount of &4Blood&0 and of course an empty &1Egg&0.   @@KEEP: Spirit Furnace
+info_book.evilcraft.second_age.abusing_spirits.spirit_reanimator.text2	Because of this more advanced process, spirits will be completely used up, so only one &1Egg&0 can be created per &1spirit&0.
+info_book.evilcraft.second_age.abusing_spirits.spirit_reanimator.text3	Some mobs however seem to refuse to enter the &1Egg&0, so their spirits will be lost forever.
+info_book.evilcraft.second_age.after_death.garmonbozia.text1	What if it was possible to imbue the darkest thoughts and emotions into this world. This could prove to be an immense source of unimaginable power. With the discovery of vengeance, darkness and blood, I think I may have the essential elements.
+info_book.evilcraft.second_age.after_death.garmonbozia.text2	Combining these elements resulted in a strange spiritual energy. It is so otherwordly, that it does not have its own material, which is why it is observed as some kind of creamed corn.
+info_book.evilcraft.second_age.after_death.garmonbozia.text3	My subjects say I have gone too far with this, the fools.
+info_book.evilcraft.second_age.after_death.spirit_killing101.text1	After handling spirits one after the other, I became quite comfortable with being among them. Because of that, I was able to notice some of their specific traits, and even fears! They seem to dislike anything having to do with 'endings' in any form.
+info_book.evilcraft.second_age.after_death.spirit_killing101.text2	I was always annoyed by the fact that those nasty spirits could attack me, and there was nothing I could do against them. That is why I investigated a way to damage them. It looks like their fear of endings was grounded, because those things damage them. Using some 'end'-relics, I was able to transform my &1Vengeance Focus&0 to an improved version which is able to damage them.   @@KEEP: Vengeance Focus
+info_book.evilcraft.second_age.after_death.spirit_killing101.text3	This new focus appeared to be strong enough to completely 'kill' any spirit. But to my suprise, they drop some stuff. This includes some things that their old physical form carried and also some ghastly dust, which seems to carry the spirits' darkest parts and may prove useful in the future...
+info_book.evilcraft.second_age.blood_extraction.text1	Using some &1Spikes&0, I was able to make a simple utility to obtain some &4Blood&0 from various places. When killing certain beasts, this item will fill up with &4Blood&0 when it is somewhere within your inventory. Sometimes you might come across some &4Blood&0 stains on the ground, a simple shift + right click will put some of the &4Blood&0 in your extractor. These &4Blood&0 stains seem to form when something falls to death from a great height, this might come in handy one day...
+info_book.evilcraft.second_age.blood_extraction.text2	A simple right click with this item will place one bucket of &4Blood&0 on the ground.
+info_book.evilcraft.second_age.blood_extraction.text3	This will be useful until I find some less manual ways to get my hands on some &4Blood&0.
+info_book.evilcraft.second_age.blood_extraction.text4	By default, the size of these extractors are a bit limited. But it looks like I can just combine multiple &1Blood Extractors&0 inside a crafting grid to increase the capacity, it can even be combined with &1Dark Tanks&0 for even more storage capacity.   @@KEEP: Blood Extractor | Dark Tank
+info_book.evilcraft.second_age.blood_infusion.advanced_blood_infusion	Advanced Blood Infusion
+info_book.evilcraft.second_age.blood_infusion.advanced_blood_infusion.text1	Soon after my first &1Blood Infuser&0 was built, I started to think of some optimizations to make the machine faster and more efficient. Using the &1Crushed Dark Gems&0 I was able to construct materialized &1Promises&0 which the &1Blood Infuser&0 actually seems to adhere to, it looks like the machine is actually alive in some way...   @@KEEP: Crushed Dark Gem | Blood Infuser

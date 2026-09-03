@@ -1,0 +1,25 @@
+{
+  "name": "Rotor Bearing",
+  "icon": "bigreactors:turbinebearing",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinebearing",
+      "link_recipe": true,
+      "title": "Rotor Bearing",
+      "text": "Rotor Bearing là phần đế của cụm $(l:turbine/rotor)Rotor$(/l) trong Turbine.$(br2)Nó phải được đặt trên một mặt của Turbine, thường ở chính giữa, rồi nối tiếp bằng một số khối $(l:turbine/part-rotorshaft)Rotor Shaft$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:turbinebearing",
+      "title": "Rotor Bearing"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() cần đúng một khối duy nhất$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

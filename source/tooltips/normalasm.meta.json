@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "fermiumasm-5.31.jar",
+      "path": "assets/normalasm/lang/en_us.lang"
+    }
+  ]
+}

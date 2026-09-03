@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Erebus-1.0.32.jar",
+      "path": "assets/erebus/lang/en_us.lang"
+    }
+  ]
+}

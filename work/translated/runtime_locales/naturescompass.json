@@ -1,0 +1,17 @@
+{
+  "string.naturescompass.back": "Quay lại",
+  "string.naturescompass.distance": "Khoảng cách",
+  "string.naturescompass.found": "Đã Tìm Thấy",
+  "string.naturescompass.info": "Thông Tin",
+  "string.naturescompass.low": "Thấp",
+  "string.naturescompass.medium": "Vừa",
+  "string.naturescompass.name": "Tên",
+  "string.naturescompass.radius": "Bán Kính",
+  "string.naturescompass.search": "Tìm Kiếm",
+  "string.naturescompass.sortBy": "Sắp Xếp theo",
+  "string.naturescompass.source": "Nguồn",
+  "string.naturescompass.status": "Trạng thái",
+  "string.naturescompass.teleport": "Dịch chuyển",
+  "string.naturescompass.temperature": "Nhiệt độ",
+  "string.naturescompass.veryHigh": "Rất Cao"
+}

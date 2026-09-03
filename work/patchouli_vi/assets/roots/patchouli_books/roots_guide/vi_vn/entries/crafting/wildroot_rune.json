@@ -1,0 +1,21 @@
+{
+  "name": "Wildroot Rune",
+  "icon": "roots:wildroot_rune",
+  "category": "crafting_decoration",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:wildroot_rune",
+      "text": "Khối $(italic)thuần túy để trang trí$() này rất đẹp nhưng không có công dụng nào khác.$(br2)$(warning) Nó không được tính là một phần của $(l:rituals/standing_stones)cột Wildwood khắc rune$() và được coi là một khối hoàn toàn riêng biệt."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/wildwood",
+        "herbs/wildroot"
+      ]
+    }
+  ]
+}

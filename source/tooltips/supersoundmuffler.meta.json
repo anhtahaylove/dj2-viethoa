@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "supersoundmuffler-revived_1.12.2_1.0.2.10.jar",
+      "path": "assets/supersoundmuffler/lang/en_US.lang"
+    }
+  ]
+}

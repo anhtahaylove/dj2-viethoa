@@ -1,0 +1,29 @@
+{
+  "name": "Access Port",
+  "icon": "bigreactors:reactoraccessport",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactoraccessport",
+      "link_recipe": true,
+      "title": "Access Port",
+      "text": "Access Port chuyển vật liệu rắn (thường là thỏi) thành chất phản ứng nhiên liệu để nạp vào $(l:reactor/part-fuelrod)Fuel Rods$(/l) và cấp năng lượng cho Reactor.$(br2)Trong giao diện đồ họa, bạn có thể đặt chế độ cho Port: ở $(bold)chế độ đầu vào$(), Port sẽ nhận vật liệu nguồn nhiên liệu; ở $(bold)chế độ đầu ra$(), nó sẽ xuất chất thải."
+    },
+    {
+      "type": "text",
+      "text": "Có thể dùng $(l:misc/wrench)wrench$(/l) để đổi chế độ của Port.$(br2)Bạn cũng có thể dùng giao diện đồ họa để đưa vật liệu vào và lấy ra thủ công."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactoraccessport",
+      "title": "Access Port"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không, nhưng dù sao bạn vẫn cần vài cái$(br)$(l)Vị trí hợp lệ:$() mọi mặt (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() có$(br)$(l)Wrench:$() có thể dùng $(l:misc/wrench)wrench$(/l) để chuyển đổi chế độ của Port"
+    }
+  ]
+}

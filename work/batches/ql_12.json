@@ -1,0 +1,521 @@
+{
+  "chapter_index": 12,
+  "title_key": "dj2.quest.ql.12.title",
+  "chapter_title_en": "15. Playing with Blood",
+  "desc_key": "dj2.quest.ql.12.desc",
+  "chapter_desc_en": "Sacrifice to Blood Magic and murder with EvilCraft!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.12.title",
+      "en": "15. Playing with Blood"
+    },
+    {
+      "key": "dj2.quest.ql.12.desc",
+      "en": "Sacrifice to Blood Magic and murder with EvilCraft!"
+    },
+    {
+      "key": "dj2.quest.db.0.title",
+      "en": "Peace and darkness"
+    },
+    {
+      "key": "dj2.quest.db.0.desc",
+      "en": "Extend your Incense Altar to the max tier, adding a 2x3 rectangle of Obsidian Paths on all four sides. This will increase your Tranquility maximum to 300, meaning x4 as much Life Essence from self-sacrifice before Runes of Self Sacrifice are applied!%n%nIf you're unsure of the exact setup, you can read more here: https://ftb.fandom.com/wiki/Incense_Altar"
+    },
+    {
+      "key": "dj2.quest.db.820.title",
+      "en": "Soft and Caring"
+    },
+    {
+      "key": "dj2.quest.db.820.desc",
+      "en": "Extend your Incense Altar to the next tier, adding a 2x3 rectangle of Worn Stone Bricks Paths on all four sides. This will increase your Tranqulity maximum to 200.%n%nIf you're unsure of the exact setup, you can read more here: https://ftb.fandom.com/wiki/Incense_Altar"
+    },
+    {
+      "key": "dj2.quest.db.1525.title",
+      "en": "Tier 3 Essences"
+    },
+    {
+      "key": "dj2.quest.db.1525.desc",
+      "en": "Craft one of each of the Tier 3 Essences. This requires at least the Magician Blood Orb, although higher tiers can be used."
+    },
+    {
+      "key": "dj2.quest.db.1526.title",
+      "en": "Tier 2 Essences"
+    },
+    {
+      "key": "dj2.quest.db.1526.desc",
+      "en": "Craft one of each of the Tier 2 Essences. This requires at least the Apprentice Blood Orb, although higher tiers can be used."
+    },
+    {
+      "key": "dj2.quest.db.1527.title",
+      "en": "The Magician will suffer"
+    },
+    {
+      "key": "dj2.quest.db.1527.desc",
+      "en": "The Magician's Blood Orb fills your personal network up to 150,000 LP."
+    },
+    {
+      "key": "dj2.quest.db.1528.title",
+      "en": "Smelling Stones"
+    },
+    {
+      "key": "dj2.quest.db.1528.desc",
+      "en": "Craft 24 Stone Brick Paths, and place them down in 2x3s extending from the Wooden Paths. They are valid up to one block above or below the level of the Wooden Paths. In the new 64 blocks of valid space, place various crops and other natural things to increase the amount of Tranquility, up to a maximum of 120. Remember that variation is important, as there is diminishing value from the same type of block."
+    },
+    {
+      "key": "dj2.quest.db.1529.title",
+      "en": "Sniff the Wood"
+    },
+    {
+      "key": "dj2.quest.db.1529.desc",
+      "en": "Craft 36 Wooden Paths, and place them down in 3x3s in each cardinal direction from the Incense Altar, up to one block above or below the original level. In the diagonal 3x3 areas, place various crops and other natural things to increase the amount of Tranquility, up to a maximum of 60. Note that variation is important, as there is diminishing value from the same type of block."
+    },
+    {
+      "key": "dj2.quest.db.1530.title",
+      "en": "Reinforce the Altar"
+    },
+    {
+      "key": "dj2.quest.db.1530.desc",
+      "en": "Runes can be used interchangeably with Blank Runes to form a Blood Altar structure.%nThe Rune of Self Sacrifice increases the amount of LP each heart supplies when using a dagger by 10%%, additively.%nThe Speed Rune increases the speed that crafting and filling Blood Orbs by 20%%, additively."
+    },
+    {
+      "key": "dj2.quest.db.1531.title",
+      "en": "Reinforced"
+    },
+    {
+      "key": "dj2.quest.db.1531.desc",
+      "en": "Craft a Reinforced Slate in your tier 2 Blood Altar."
+    },
+    {
+      "key": "dj2.quest.db.1532.title",
+      "en": "Red and Ready"
+    },
+    {
+      "key": "dj2.quest.db.1532.desc",
+      "en": "Craft the Frozen Blood Core, and weep for what you have wrought."
+    },
+    {
+      "key": "dj2.quest.db.1533.title",
+      "en": "Blood doesn't grow on trees!"
+    },
+    {
+      "key": "dj2.quest.db.1533.desc",
+      "en": "It grows in them. And it hungers."
+    },
+    {
+      "key": "dj2.quest.db.1534.title",
+      "en": "Investigation Successful"
+    },
+    {
+      "key": "dj2.quest.db.1534.desc",
+      "en": "Did not break... that's interesting. Must investigate even further."
+    },
+    {
+      "key": "dj2.quest.db.1535.title",
+      "en": "Wheel Attempts"
+    },
+    {
+      "key": "dj2.quest.db.1535.desc",
+      "en": "Response when fall from big cliff same as the previous experiments. Further investigation still needed."
+    },
+    {
+      "key": "dj2.quest.db.1536.title",
+      "en": "Enduring Eternally"
+    },
+    {
+      "key": "dj2.quest.db.1536.desc",
+      "en": "Craft a Promise of Tenacity III. This can be used in a couple EvilCraft machines, but most importantly in the Blood Infuser, where it unlocks new recipes. Replaces the Promise of Tenacity II."
+    },
+    {
+      "key": "dj2.quest.db.1537.title",
+      "en": "Maintaining in Despite"
+    },
+    {
+      "key": "dj2.quest.db.1537.desc",
+      "en": "Craft a Promise of Tenacity II. This can be used in a couple EvilCraft machines, but most importantly in the Blood Infuser, where it unlocks new recipes. Replaces the Promise of Tenacity I."
+    },
+    {
+      "key": "dj2.quest.db.1538.title",
+      "en": "Glod's Guarantee"
+    },
+    {
+      "key": "dj2.quest.db.1538.desc",
+      "en": "Using a Promise of Tenacity I, use an Empowered Glod Block with a full tank of Blood to get a Gold Promise Acceptor."
+    },
+    {
+      "key": "dj2.quest.db.1539.title",
+      "en": "Gleaming red"
+    },
+    {
+      "key": "dj2.quest.db.1539.desc",
+      "en": "Place down five sources of blood, and toss a Dark Gem into it. It will consume all 5 buckets of blood to produce a single Dark Power Gem."
+    },
+    {
+      "key": "dj2.quest.db.1540.title",
+      "en": "Gork"
+    },
+    {
+      "key": "dj2.quest.db.1540.desc",
+      "en": "When killing mobs with a Blood Extractor in your inventory, it will gain blood. The Blood Extractor can be used like a bucket to place down the blood into the world, and can also auto-supply any tank that can hold blood in your inventory. The amount of Blood produced increases with the health of the mob.%n%n§6§lNote:§r If you combine it with itself OR Dark Tanks, it will increase its internal tank."
+    },
+    {
+      "key": "dj2.quest.db.1541.title",
+      "en": "Soul Smith"
+    },
+    {
+      "key": "dj2.quest.db.1541.desc",
+      "en": "Create a Hellfire Forge. It has 4 slots for items to craft, a slot in the center for the crafting result, a bar to display crafting progress, and a space for a Tartaric Gem.%n%nThis machine is crucial to automate, so here is a step by step guide on how to do so most efficiently for items that take multiple of the same inputs (like the Air Reagent).%n%nThe issue is that the input Glass Bottles stack, not allowing you to start the craft. There are two solutions for this. The first method is to use Integrated Dynamics:%n%n§lStep 1.§r Set up an ME Interface on Blocking Mode into a Chest.%n%n§lStep 2.§r Connect an Item Interface to it, and set 4 Item Exporters onto the Hellfire Forge, then in \"Export All Items\" -> set each to a distinct slot (0, 1, 2, 3, respectively), Quantity to 1. This makes it so items will be placed evenly between slots.%n%n§lStep 3.§r Make 4 Variable Cards (an empty variable card is considered \"True\") and add one to each Item Exporter in the \"Export All Items\" slot.%n%n§lStep 4.§r To extract, use an Item Filter for the outputs or use an Item Importer to import from Slot 5.%n%nThe second method is to use item renaming:%n%n§lStep 1.§r Make an Inscriber Name Press. This can be done by crafting a Certus Quartz or Nether Quartz Cutting Knife, right click to open up its GUI, place in an Iron Ingot and rename it to something.%n%n§lStep 2.§r Place the Name Press inside an Inscriber and connect it to your system through an ME Interface. This can be used to rename any input item to the desired name.%n%n§lStep 3.§r Create a Pattern that renames the item you need multiple of (for example, a Glass Bottle) to your desired name, then automatically pull the Bucket out of your Interface and transfer it to the Hellfire Forge automation setup.%n%n§lStep 4.§r Create a Pattern for an item you'd like to automate that uses one renamed item and one regular item (for example, the Air Reagent uses 2 Glass Bottles - one should be renamed, one can stay unnamed).%n%n§lStep 5.§r Connect an ME Interface to a Chest that's next to your Hellfire Forge. This Chest will receive the input ingredients. Connect the Chest to the Hellfire Forge with a Limited Item Filter, and filter for both the renamed and regular input items. All other items can be inserted with a separate Item Conduit or on a separate channel.%n%n§lNote:§r You'll get access to full Will automation in Chapter 17."
+    },
+    {
+      "key": "dj2.quest.db.1542.title",
+      "en": "Red \"Meat\""
+    },
+    {
+      "key": "dj2.quest.db.1542.desc",
+      "en": "Using Coagulated Blood from Tinkers Construct, make a Hardened Blood Droplet."
+    },
+    {
+      "key": "dj2.quest.db.1543.title",
+      "en": "Barely Hanging On"
+    },
+    {
+      "key": "dj2.quest.db.1543.desc",
+      "en": "Craft a Promise of Tenacity I. This can be used in a couple EvilCraft machines, but most importantly in the Blood Infuser, where it unlocks new recipes."
+    },
+    {
+      "key": "dj2.quest.db.1544.title",
+      "en": "Mork"
+    },
+    {
+      "key": "dj2.quest.db.1544.desc",
+      "en": "The Blood Altar consumes Life Essence to convert items. It has multiple tiers, and some recipes are locked behind higher tiers."
+    },
+    {
+      "key": "dj2.quest.db.1545.title",
+      "en": "They Merge into a Common Soul"
+    },
+    {
+      "key": "dj2.quest.db.1545.desc",
+      "en": "Craft a Common Tartaric Gem, which can hold up to 1024 Demonic Will, unlocking the ability to craft more expensive recipes with it."
+    },
+    {
+      "key": "dj2.quest.db.1546.title",
+      "en": "Meets a Slightly Larger Soul"
+    },
+    {
+      "key": "dj2.quest.db.1546.desc",
+      "en": "Craft a Lesser Tartaric Gem, which can hold up to 256 Demonic Will, unlocking the ability to craft more expensive recipes with it."
+    },
+    {
+      "key": "dj2.quest.db.1547.title",
+      "en": "Funky Potions"
+    },
+    {
+      "key": "dj2.quest.db.1547.desc",
+      "en": "Craft an Alchemy Table. The size of two blocks, this has 6 input slots, 1 output slot, and a Blood Orb slot. It requires a bound Blood Orb, and consumes LP from the bound player to craft items. The tier of the Blood Orb affects what items can be crafted.%n%nIt is crucial to automate this machine as soon as possible, for all required ingredients. Also automate all steps that go into these ingredients.%n%nRead the quest to the left of this one, if you're unsure how to automate items that take multiple of the same input."
+    },
+    {
+      "key": "dj2.quest.db.1548.title",
+      "en": "They see you"
+    },
+    {
+      "key": "dj2.quest.db.1548.desc",
+      "en": "Craft the Vengeance Ring, which can be enabled to provide multiple positive potion effects - but, when killing most mobs, will spawn a Vengeance Spirit. Vengeance Spirits can only be harmed by the Piercing Vengeance Focus."
+    },
+    {
+      "key": "dj2.quest.db.1549.title",
+      "en": "Diamatine's Duty"
+    },
+    {
+      "key": "dj2.quest.db.1549.desc",
+      "en": "Using a Promise of Tenacity II, use an Empowered Diamatine Block with a full tank of Blood to get a Diamond Promise Acceptor."
+    },
+    {
+      "key": "dj2.quest.db.1550.title",
+      "en": "Running Red"
+    },
+    {
+      "key": "dj2.quest.db.1550.desc",
+      "en": "Craft a Blood Infuser. This is the fundamental machine in EvilCraft. It can craft more items and store more blood at higher tiers, which are gained through Promises of Tenacity."
+    },
+    {
+      "key": "dj2.quest.db.1551.title",
+      "en": "Bloody Heart"
+    },
+    {
+      "key": "dj2.quest.db.1551.desc",
+      "en": "Light Hardened Blood on fire to get Hardened Blood Shards, and use these to craft a Blood Infusion Core, the throbbing heart of many EvilCraft machines."
+    },
+    {
+      "key": "dj2.quest.db.1552.title",
+      "en": "A Bite of Darkness"
+    },
+    {
+      "key": "dj2.quest.db.1552.desc",
+      "en": "WARNING: DO NOT EAT. Enjoyed by animals about to read a book."
+    },
+    {
+      "key": "dj2.quest.db.1553.title",
+      "en": "THE LAST CRAFTING*"
+    },
+    {
+      "key": "dj2.quest.db.1553.desc",
+      "en": "*Not actually the last crafting. Terms and conditions may apply. Extended use may cause excessive particles. Please consult a doctor to see if Ender Crafting is right for you. If crafting lasts longer than 3 minutes contact a doctor and install more Ender Alternators."
+    },
+    {
+      "key": "dj2.quest.db.1554.title",
+      "en": "When will it end?"
+    },
+    {
+      "key": "dj2.quest.db.1554.desc",
+      "en": "Kill an Enderman and have him spawn a Vengeance Spirit, and then use the Vengeance Focus and a Box of Eternal Closure to trap an Enderman to make a Block of Ender."
+    },
+    {
+      "key": "dj2.quest.db.1555.title",
+      "en": "The Apprentice will bleed"
+    },
+    {
+      "key": "dj2.quest.db.1555.desc",
+      "en": "The Apprentice's Blood Orb fills your personal network up to 25,000 LP."
+    },
+    {
+      "key": "dj2.quest.db.1556.title",
+      "en": "Hung with Madness"
+    },
+    {
+      "key": "dj2.quest.db.1556.desc",
+      "en": "Craft the Coralium Decorated Blood Star, and scream the madness you hath seen."
+    },
+    {
+      "key": "dj2.quest.db.1557.title",
+      "en": "Runes for the Altar"
+    },
+    {
+      "key": "dj2.quest.db.1557.desc",
+      "en": "Craft 8 Blood Runes, which are used to increase the tier of the Blood Altar. I suggest using the Inspectoris Scandalum to see where to place the blocks. Right Click to change the tier it displays, and Shift+Right Click on a Blood Altar to display it."
+    },
+    {
+      "key": "dj2.quest.db.1558.title",
+      "en": "Bloodomation"
+    },
+    {
+      "key": "dj2.quest.db.1558.desc",
+      "en": "Sucks up Blood from the ground and puts it into nearby tanks, or, more usefully, when the Spiked Plate does damage to a mob."
+    },
+    {
+      "key": "dj2.quest.db.1559.title",
+      "en": "Dull as Dust"
+    },
+    {
+      "key": "dj2.quest.db.1559.desc",
+      "en": "Create Dull Dust, and then Infuse it to get Bloodied Dust, an essential crafting component."
+    },
+    {
+      "key": "dj2.quest.db.1560.title",
+      "en": "Tier 1 Reagents"
+    },
+    {
+      "key": "dj2.quest.db.1560.desc",
+      "en": "Craft one of each of the Tier 1 Reagents."
+    },
+    {
+      "key": "dj2.quest.db.1561.title",
+      "en": "Tier 1 Essences"
+    },
+    {
+      "key": "dj2.quest.db.1561.desc",
+      "en": "Craft one of each of the Tier 1 Essences. This requires at least the Weak Blood Orb, although higher tiers can be used."
+    },
+    {
+      "key": "dj2.quest.db.1562.title",
+      "en": "The Weak will die"
+    },
+    {
+      "key": "dj2.quest.db.1562.desc",
+      "en": "The Weak Blood Orb fills your personal network up to 5,000 LP. Bind to you by Right Clicking with it."
+    },
+    {
+      "key": "dj2.quest.db.1563.title",
+      "en": "Locked Away"
+    },
+    {
+      "key": "dj2.quest.db.1563.desc",
+      "en": "Craft a Box of Eternal Closure. By default, it comes with a Vengeance Spirit inside. Place it down and Right Click on it to open it. Shoot a spirit with a Vengeance Focus to trap it inside the box."
+    },
+    {
+      "key": "dj2.quest.db.1564.title",
+      "en": "You shoot them"
+    },
+    {
+      "key": "dj2.quest.db.1564.desc",
+      "en": "Shooting a Vengeance Spirit won't kill it, but it will weaken it enough that a nearby open Box of Eternal Closure can suck them in."
+    },
+    {
+      "key": "dj2.quest.db.1565.title",
+      "en": "When Small Soul"
+    },
+    {
+      "key": "dj2.quest.db.1565.desc",
+      "en": "Craft a Petty Tartaric Gem (I suggest two or three). The Petty Tartaric Gem holds up to 64 Demonic Will, and will automatically absorb Demonic Will you pick up. You can transfer will between Tartaric Gems by holding Right Click with it in your hand."
+    },
+    {
+      "key": "dj2.quest.db.1566.title",
+      "en": "Snared"
+    },
+    {
+      "key": "dj2.quest.db.1566.desc",
+      "en": "Right Click to throw a Rudimentary Snare. Any mob it hits will have a chance to gain a particle effect, which will cause the mob to drop Demonic Will.%nThe value of Demonic Will increases with the health of the mob."
+    },
+    {
+      "key": "dj2.quest.db.1567.title",
+      "en": "Do it Tomorrow"
+    },
+    {
+      "key": "dj2.quest.db.1567.desc",
+      "en": "Can stack up to 3 slots of 4 in a single Promise of Tenacity III machine, allowing for incredibly efficient operations."
+    },
+    {
+      "key": "dj2.quest.db.1568.title",
+      "en": "Overflowing Oaths"
+    },
+    {
+      "key": "dj2.quest.db.1568.desc",
+      "en": "Your every word a vow, your every breath a promise."
+    },
+    {
+      "key": "dj2.quest.db.1569.title",
+      "en": "Tier 2 Reagents"
+    },
+    {
+      "key": "dj2.quest.db.1569.desc",
+      "en": "Craft one of each of the Tier 2 Reagents."
+    },
+    {
+      "key": "dj2.quest.db.1570.title",
+      "en": "True Vengeance"
+    },
+    {
+      "key": "dj2.quest.db.1570.desc",
+      "en": "At long last, you can kill the Vengeance Spirits. Simply slay vanilla mobs for Vengeance Spirits to spawn, then pew pew them down. They drop extra goodies too!"
+    },
+    {
+      "key": "dj2.quest.db.1571.title",
+      "en": "To gain, lose"
+    },
+    {
+      "key": "dj2.quest.db.1571.desc",
+      "en": "Using the Sacrificial Dagger near a Blood Altar will reduce your life, and fill up the Blood Altar in exchange."
+    },
+    {
+      "key": "dj2.quest.db.1572.title",
+      "en": "Burnt Out"
+    },
+    {
+      "key": "dj2.quest.db.1572.desc",
+      "en": "Craft Arcane Ashes. This 20 durability tool will create a special crafting location when Right Clicked on the ground. Place two items in it and it will make some cool effects and craft an item, typically a Sigil, for you. Some items will cause it to become an Alchemy Array, which gives unique and special effects (look in the guidebook)."
+    },
+    {
+      "key": "dj2.quest.db.1573.title",
+      "en": "Tier 3 Reagents"
+    },
+    {
+      "key": "dj2.quest.db.1573.desc",
+      "en": "Craft one of each of the Tier 3 Reagents."
+    },
+    {
+      "key": "dj2.quest.db.1574.title",
+      "en": "Know Thy God"
+    },
+    {
+      "key": "dj2.quest.db.1574.desc",
+      "en": "The Sigil of Divination will allow you to view new information about various Blood Magic blocks when held. Its main uses are finding out how much LP is in your personal network by Right Clicking, how much Blood is in the Blood Altar, and the Tranquility of an Incense Altar."
+    },
+    {
+      "key": "dj2.quest.db.1575.title",
+      "en": "Absent Assurances"
+    },
+    {
+      "key": "dj2.quest.db.1575.desc",
+      "en": "You vaguely gesture at the possibility of you following up."
+    },
+    {
+      "key": "dj2.quest.db.1576.title",
+      "en": "Enori's Esimorp"
+    },
+    {
+      "key": "dj2.quest.db.1576.desc",
+      "en": "Using the Blood Infuser, use an Empowered Enori Block with a full tank of Blood to get an Iron Promise Acceptor."
+    },
+    {
+      "key": "dj2.quest.db.1577.title",
+      "en": "Any%%"
+    },
+    {
+      "key": "dj2.quest.db.1577.desc",
+      "en": "Can stack up to 3 slots of 4 in a single Promise of Tenacity III machine, allowing for incredibly fast operations."
+    },
+    {
+      "key": "dj2.quest.db.1578.title",
+      "en": "Burning Candles"
+    },
+    {
+      "key": "dj2.quest.db.1578.desc",
+      "en": "Place the Incense Altar on a 3x3 square. By default, it has 20 Tranquility, which will give you a 20%% bonus to the value of blood sacrificed when nearby. Your Sacrificial Dagger will become enhanced when this is active, and will take 90%% of your health. This has a cooldown of 20 seconds due to the Soul Fray effect."
+    },
+    {
+      "key": "dj2.quest.db.1579.title",
+      "en": "S P E E D W A L K E R"
+    },
+    {
+      "key": "dj2.quest.db.1579.desc",
+      "en": "The Effortless Ring gives auto-step, makes your hunger reduce slower, and makes you walk a bit faster. It can be equipped as a bauble."
+    },
+    {
+      "key": "dj2.quest.db.1580.title",
+      "en": "From Snow White"
+    },
+    {
+      "key": "dj2.quest.db.1580.desc",
+      "en": "After feeding the apple to an animal, let it die and throw a Book onto the resulting particles. This is the guidebook for Evilcraft."
+    },
+    {
+      "key": "dj2.quest.db.1581.title",
+      "en": "Imbue the Altar"
+    },
+    {
+      "key": "dj2.quest.db.1581.desc",
+      "en": "Runes can be used interchangeably with Blank Runes to form a Blood Altar structure.%nThe Rune of Sacrifice increases the amount of LP the Dagger of Sacrifice (or Well of Suffering later on) supplies by 10%%, additively.%nThe Rune of Capacity increases the capacity of your Blood Altar by 2,000 LP, additively."
+    },
+    {
+      "key": "dj2.quest.db.1582.title",
+      "en": "Imbued"
+    },
+    {
+      "key": "dj2.quest.db.1582.desc",
+      "en": "Create Imbued Slates using your tier 3 Blood Altar"
+    },
+    {
+      "key": "dj2.quest.db.1583.title",
+      "en": "It thirsts for souls"
+    },
+    {
+      "key": "dj2.quest.db.1583.desc",
+      "en": "Craft the Sentient Sword. Mobs killed by the Sentient Sword will always drop Demonic Will. The amount of Will produced increases with the health of the mob. The Sentient Sword, and other Sentient Tools, increase in power the more Demonic Will you have in your largest Tartaric Gem."
+    },
+    {
+      "key": "dj2.quest.db.1643.title",
+      "en": "Finally! Something that... smells better!"
+    },
+    {
+      "key": "dj2.quest.db.1643.desc",
+      "en": "Craft some Floral Fertilizers and use it to gather up all 16 colors of Botania Flowers!%n%nYou can craft them into Petals, plant them, grow them with Bone Meal, and finally shear them to get more."
+    },
+    {
+      "key": "dj2.quest.db.1644.title",
+      "en": "Slay 'em"
+    },
+    {
+      "key": "dj2.quest.db.1644.desc",
+      "en": "After reaching a Tier 2 Blood Altar, craft a Dagger of Sacrifice! Hitting mobs near your Blood Altar with this weapon causes them to bleed into the Altar. The amount of Life Essence produced increases with the health of the mob.%n%nYou can either try a Self-Sacrifice build or a Sacrifice build with a mob farm, though with Self-Sacrifice Runes, the former usually works out to be more efficient."
+    }
+  ]
+}

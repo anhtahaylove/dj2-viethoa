@@ -1,0 +1,20 @@
+{
+  "tool": "crossbow",
+  "text": [
+    {
+      "text": "Crossbow là một vũ khí tầm xa mạnh mẽ, cần được nạp trước khi bắn. Bolt của nó gây sát thương lớn và xuyên qua một phần giáp của kẻ địch. Crossbow nhận thêm lợi ích từ sát thương cộng thêm."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Tốc độ nạp khá chậm, nhưng thường bạn chỉ cần một phát bắn. Chỉ cần bắn trúng."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Uses Tinkers' Bolts",
+    "Partially armor piercing",
+    "Phải lên đạn trước khi bắn"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Time Stop",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_time_stop\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_time_stop",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một phép cực kỳ mạnh, triệu hồi khe nứt thời gian đóng băng mọi thực thể (trừ người chơi), khiến chúng không thể thực hiện bất kỳ hành động nào.$(br2)Với các modifier, bạn có thể điều chỉnh những thực thể bị ảnh hưởng, miễn hiệu ứng dừng thời gian cho sinh vật ôn hòa hoặc familiar, cũng như gây hiệu ứng trạng thái sau khi thời gian tiếp tục."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_time_stop"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:peaceful_passage",
+      "anchor": "peaceful_passage"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:freed_familiars",
+      "anchor": "freed_familiars"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:overtime",
+      "anchor": "overtime"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:time_slip",
+      "anchor": "time_slip"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:draining_stop",
+      "anchor": "draining_stop"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:hasty_escape",
+      "anchor": "hasty_escape"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:burn_in_hell",
+      "anchor": "burn_in_hell"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:minor_halt",
+      "anchor": "minor_halt"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_time_stop",
+      "modifier": "roots:ice_age",
+      "anchor": "ice_age"
+    },
+    {
+      "type": "text",
+      "title": "Thiết lập phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:time_stop/SECONDS/cooldown) giây.$(br2)$(bold)Thời lượng:$() Trường dừng thời gian tồn tại trong $(spell:time_stop/SECONDS/duration) giây. Với modifier $(modifier:overtime)$(), thời lượng này tăng thêm $(spell:time_stop/SECONDS/overtime) giây.$(br2)Nếu bật modifier $(modifier:minor_halt)$(), thời lượng dừng thời gian sẽ bị giới hạn ở $(spell:time_stop/SECONDS/undertime) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Bán kính:$() Hiệu ứng dừng thời gian trải rộng $(spell:time_stop/radius_x) và $(spell:time_stop/radius_z) khối theo chiều ngang. Trục y kéo dài $(spell:time_stop/radius_y) khối theo chiều dọc từ vị trí tạo hiệu ứng.$(br2)$(bold)Ôn hòa:$() Khi bật modifier $(modifier:peaceful_passage)$(), các thực thể ôn hòa và không thù địch sẽ không bị ảnh hưởng bởi hiệu ứng dừng thời gian.$(br2)$(bold)Familiar:$() Khi bật modifier $(modifier:freed_familiars)$(), mọi thực thể là familiar hoặc được bạn thuần hóa sẽ không"
+    },
+    {
+      "type": "text",
+      "text": "bị ảnh hưởng bởi hiệu ứng dừng thời gian.$(br2)$(bold)Slowness:$() Khi bật modifier $(modifier:time_slip)$(), các thực thể bị dừng thời gian cũng sẽ chịu Slowness $(spell:time_stop/ROMAN/slowness_amplifier) trong $(spell:time_stop/SECONDS/slowness_duration) giây khi hiệu ứng kết thúc.$(br2)$(bold)Weakness:$() Khi bật modifier $(modifier:draining_stop)$(), các thực thể bị dừng thời gian cũng sẽ chịu Weakness $(spell:time_stop/ROMAN/weakness_amplifier) trong $(spell:time_stop/SECONDS/weakness_duration) giây khi hiệu ứng kết thúc."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tốc độ:$() Nếu bật modifier $(modifier:hasty_escape)$(), bạn nhận Speed $(spell:time_stop/ROMAN/speed_amplifier) trong $(spell:time_stop/SECONDS/speed_duration) giây sau khi thi triển phép.$(br2)$(bold)Giá lạnh:$() Khi bật modifier $(modifier:ice_age)$(), các thực thể chịu ảnh hưởng của dừng thời gian sẽ nhận $(spell:time_stop/HEART/cold_damage) tim sát thương lạnh khi hiệu ứng kết thúc.$(br2)$(bold)Lửa:$() Khi bật modifier $(modifier:burn_in_hell)$(), các thực thể bị thiêu cháy trong $(spell:time_stop/fire_duration) giây và thời gian cháy được làm mới khi hiệu ứng kết thúc."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/pereskia",
+        "herbs/dewgonia",
+        "herbs/moonglow"
+      ]
+    }
+  ]
+}

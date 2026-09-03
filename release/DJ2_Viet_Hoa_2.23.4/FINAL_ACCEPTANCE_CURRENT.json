@@ -1,0 +1,35 @@
+{
+  "generated": "2026-09-03T04:15:33",
+  "tests": "run `python -m unittest discover -s tools -p \"test_*.py\"`",
+  "verify_release": "python tools/verify_release.py",
+  "verify_server_delivery": "python tools/verify_server_delivery.py",
+  "fixes": {
+    "motd_colour_codes": "& -> section sign (FTBUtilities renders section sign only)",
+    "mainmenu_mojibake": "3 strings made ASCII (CustomMainMenu reads platform charset, not UTF-8)",
+    "bitmap_font": "JetBrains Mono Bold rasterised at full 16x16 cell resolution to legacy unicode pages 00/01/1e/20 + glyph_sizes.bin",
+    "glyph_width_table": "low nibble stores the last inked column inclusively, matching vanilla, so Vietnamese advances are not one column wider than the ASCII beside them",
+    "tone_mark_weight": "thin tone-mark rows padded to stay legible against the bold body",
+    "dot_below": "redrawn two texels wide and detached from the letter body",
+    "force_unicode_font": "enabled so every glyph comes from the pack's 16x16 unicode pages instead of mixing vanilla ascii.png with them"
+  },
+  "artifacts": {
+    "resource_pack": {
+      "bytes": 1915701,
+      "entries": 833,
+      "sha1": "ce64e46cbe337cd8511609039a25a0e253a63833",
+      "sha256": "531dc72d31ec95e444f832d1e57105e358d227f562f384774ad0c92d4c8b2044"
+    },
+    "client_bundle": {
+      "bytes": 1847233,
+      "entries": 42,
+      "sha1": "5f925bb1e2c7a5562db0fe2888986bf29b916f19",
+      "sha256": "925769de8670610afd02cfb266c39a9bc37c207a147803d959b92d9b45b44f6d"
+    },
+    "server_overlay": {
+      "bytes": 1822949,
+      "entries": 7,
+      "sha1": "dfbc1453125fa3809a888053f514b83de5392623",
+      "sha256": "fc40539a0e1727d8e4a35b9033ee7bc29a5d4103d2104150f265499a3561b1bf"
+    }
+  }
+}

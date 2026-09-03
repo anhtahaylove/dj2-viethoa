@@ -1,0 +1,12 @@
+{
+  "name": "Tool Poppet",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_tool",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_tool",
+      "text": "Giống phiên bản dành cho giáp, poppet này sẽ vỡ thay cho công cụ của bạn, giúp nó dùng được thêm một lần cuối."
+    }
+  ]
+}

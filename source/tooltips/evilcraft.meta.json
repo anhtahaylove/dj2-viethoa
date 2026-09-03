@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang"
+    }
+  ]
+}

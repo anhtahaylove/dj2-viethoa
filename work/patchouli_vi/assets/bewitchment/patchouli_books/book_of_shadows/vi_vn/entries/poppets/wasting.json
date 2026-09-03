@@ -1,0 +1,12 @@
+{
+  "name": "Poppet of Wasting",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_wasting",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_wasting",
+      "text": "Gây đói cho bất kỳ ai tấn công chủ nhân của poppet này."
+    }
+  ]
+}

@@ -1,0 +1,2897 @@
+[
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/atomizer_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/atomizer_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/chemical_combiner_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/chemical_combiner_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/chemical_dissolver_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/chemical_dissolver_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/compounds_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/compounds_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/electrolyzer_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/electrolyzer_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/evaporator_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/evaporator_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/fission_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/fission_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/fusion_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/fusion_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/liquifier_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/liquifier_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/utility_category.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/categories/utility_category.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/atomizer/atomizer_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/atomizer/atomizer_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/chemical_combiner/combiner_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/chemical_combiner/combiner_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/chemical_dissolver/dissolver_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/chemical_dissolver/dissolver_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/compounds/active_compounds.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/compounds/active_compounds.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/compounds/spiking_food.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/compounds/spiking_food.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/electrolyzer/electrolyzer_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/electrolyzer/electrolyzer_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/evaporator/evaporator_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/evaporator/evaporator_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fission/fission_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fission/fission_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fission/fission_template.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fission/fission_template.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fusion/fusion_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fusion/fusion_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fusion/fusion_template.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/fusion/fusion_template.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/liquifier/liquifier_overview.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/liquifier/liquifier_overview.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/utility/fertillizer_entry.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/utility/fertillizer_entry.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/utility/obsidian_breaker_entry.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/utility/obsidian_breaker_entry.json"
+  },
+  {
+    "jar": "alchemistry-1.12.2-42.jar",
+    "source": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/utility/slot_filler.json",
+    "staged": "assets/alchemistry/patchouli_books/alchemistry_book/en_us/entries/utility/slot_filler.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/infernal_tiles.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/infernal_tiles.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/leonards_wand.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/leonards_wand.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/box_of_sealed_evil.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/box_of_sealed_evil.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/deathshead.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/deathshead.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/caduceus.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/caduceus.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/demonic_contracts.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/devilish_oddities/demonic_contracts.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/transformations/preface.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/transformations/preface.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/transformations/werewolf.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/transformations/werewolf.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/moloch.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/moloch.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/baphomet.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/baphomet.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/pledging.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/pledging.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/mercy.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/mercy.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/beelzebub.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/beelzebub.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/lilith.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/lilith.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/leonard.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/leonard.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/herne.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/greater_demons/herne.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/imp.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/imp.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/prey.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/prey.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/shadow_people.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/shadow_people.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/cambion.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/cambion.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/cleavers.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/cleavers.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/druden.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/druden.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/demon_and_demoness.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/demon_and_demoness.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/bafometyr.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/lesser_demons/bafometyr.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/cleaver_blade.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/cleaver_blade.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/vein_and_cloth.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/vein_and_cloth.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/vampiric_amulet.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/vampiric_amulet.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/besmirched_robes.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/besmirched_robes.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/bottle_of_blood.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/bottle_of_blood.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/stew_of_the_grotesque.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/stew_of_the_grotesque.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/hellish_bauble.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/hellish_bauble.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/blood.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/demonic_gear/blood.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/misfortune.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/misfortune.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/return_to_sender.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/return_to_sender.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/paranoia.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/paranoia.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/overheating.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/overheating.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/palor_pestilence.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/palor_pestilence.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/darkness.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/darkness.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/lipid.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/lipid.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/conflagration.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/conflagration.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/solar_hatred.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/solar_hatred.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/lightning_rod.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/lightning_rod.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/hydrophobia.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/curses/hydrophobia.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/hellhound.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/hellhound.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/embroil.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/embroil.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/conjuration.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/conjuration.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/serpent.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/entries/nethers_firstborn/serpent.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/spinning_wheel_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/spinning_wheel_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/ritual.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/ritual.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/cauldron_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/cauldron_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/curse_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/templates/curse_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/lesser_demons.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/lesser_demons.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/curses.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/curses.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/greater_demons.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/greater_demons.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/demonic_gear.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/demonic_gear.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/nethers_firstborn.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/nethers_firstborn.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/devilish_oddities.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/devilish_oddities.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/transformations.json",
+    "staged": "assets/bewitchment/patchouli_books/codex_infernalis/en_us/categories/transformations.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/token_of_remedies.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/token_of_remedies.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/grimoire_magia.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/grimoire_magia.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/fortunes_favor.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/fortunes_favor.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/girdle_of_the_dryads.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/girdle_of_the_dryads.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/hecates_visage.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/hecates_visage.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/witches_devices.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/witches_devices.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/waystone.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/waystone.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/magical_energy.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/magical_energy.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/fortunes_and_scrying.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/fortunes_and_scrying.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/athame.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/athame.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/codex_infernalis.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/codex_infernalis.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/thyrsus.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/thyrsus.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/nazar.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/nazar.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/horseshoe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/horseshoe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/triskelion.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/triskelion.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/altars_and_modifiers.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/magic_overview/altars_and_modifiers.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/juniper.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/juniper.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/elder.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/elder.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/dragons_blood.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/dragons_blood.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/cypress.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/trees/cypress.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/basic_fumes.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/basic_fumes.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/bottled_frostfire.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/bottled_frostfire.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/witches_oven_and_distillery.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/witches_oven_and_distillery.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/bottled_hellfire.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/bottled_hellfire.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/advanced_fumes.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/advanced_fumes.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/jar.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/jar.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/dimensional_sand.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/dimensional_sand.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/ectoplasm.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/distilling_and_smelting/ectoplasm.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/taglock.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/taglock.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/waystone.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/waystone.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/boline.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/boline.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/cold_iron.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/cold_iron.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/witches_robes.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/witches_robes.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/poppets.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/poppets.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/flying_ointment.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/flying_ointment.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/silver.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/gear/silver.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/basic.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/basic.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/wasting.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/wasting.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/voodoo_prot.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/voodoo_prot.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/clumsiness.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/clumsiness.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/hunger.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/hunger.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/flame.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/flame.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/water.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/water.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/voodoo.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/voodoo.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/binding.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/binding.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/vampiric.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/vampiric.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/tool.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/tool.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/spirit.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/spirit.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/earth.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/earth.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/death.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/poppets/death.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/frenzied_growth.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/frenzied_growth.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/hungry_flames.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/hungry_flames.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/perception.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/perception.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/call_of_the_wild.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/call_of_the_wild.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/sowing_salt.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/sowing_salt.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/rising_twigs.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/rising_twigs.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/natures_blessing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/natures_blessing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/world_manipulation.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/world_manipulation.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/chalk.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/chalk.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/spritual_rift.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/spritual_rift.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/curse_cleansing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/curse_cleansing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/circle_drawing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/circle_drawing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/conjure_witch.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/conjure_witch.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/purification.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/purification.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/teleportation.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/teleportation.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/biome_shift.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/rituals/biome_shift.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/minerals.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/minerals.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/plants.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/plants.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/trees.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/trees.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/animals.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/animals.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/spirits.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/world/spirits.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/cauldron_washing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/cauldron_washing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/teleporting.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/teleporting.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/tallow_and_candles.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/tallow_and_candles.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/slime.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/slime.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/brewing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/brewing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/alchemical_plants.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/alchemical_plants.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/filled_goblet.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/filled_goblet.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/disposal.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/disposal.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/chalks.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/chalks.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/black_and_brown_dye.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/cauldron_and_brewing/black_and_brown_dye.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/greenwitch_robes.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/greenwitch_robes.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/alchemist_attire.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/alchemist_attire.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/magic_string.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/magic_string.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/witches_robes.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/spinning_wheel/witches_robes.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/brazier.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/brazier.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/sigil.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/sigil.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/witches_altar.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/witches_altar.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/witches_oven.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/witches_oven.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/witches_cauldron.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/witches_cauldron.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/distillery.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/distillery.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/spinning_wheel.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/devices/spinning_wheel.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/battle.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/battle.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/failure.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/failure.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/cleansing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/cleansing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/purity.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/purity.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/luck.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/luck.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/binding.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/binding.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/ruin.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/ruin.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/mending.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/mending.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/disorientation.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/disorientation.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/sentinel.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/sentinel.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/shrieking.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/sigils/shrieking.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/brazier/incense.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/entries/brazier/incense.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/spinning_wheel_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/spinning_wheel_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/oven_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/oven_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/ritual.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/ritual.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/brew.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/brew.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/cauldron_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/cauldron_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/distillery_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/distillery_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/sigil_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/sigil_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/incense_recipe.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/templates/incense_recipe.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/rituals.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/rituals.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/world.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/world.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/cauldron_and_brewing.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/cauldron_and_brewing.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/brazier.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/brazier.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/distilling_and_smelting.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/distilling_and_smelting.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/sigils.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/sigils.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/magic_overview.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/magic_overview.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/poppets.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/poppets.json"
+  },
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "source": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/spinning_wheel.json",
+    "staged": "assets/bewitchment/patchouli_books/book_of_shadows/en_us/categories/spinning_wheel.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/intro.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/intro.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/misc.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/misc.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/reactor-operational_mode.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/reactor-operational_mode.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/reactor-parts.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/reactor-parts.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/reactor.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/reactor.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/turbine-parts.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/turbine-parts.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/categories/turbine.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/categories/turbine.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/intro/first.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/intro/first.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/intro/ores.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/intro/ores.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/misc/coolantsystem.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/misc/coolantsystem.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/misc/powersystem.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/misc/powersystem.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/misc/wrench.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/misc/wrench.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/active.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/active.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/innerworking.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/innerworking.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/moderators.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/moderators.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-casing.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-casing.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-computerport.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-computerport.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-controller.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-controller.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-controlrod.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-controlrod.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-creativewatergen.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-creativewatergen.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-forgefluidport.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-forgefluidport.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-forgepowertap-tesla.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-forgepowertap-tesla.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-forgepowertap.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-forgepowertap.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-fuelrod.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-fuelrod.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-glass.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-glass.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-redstoneport.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-redstoneport.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-solidaccessport.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/part-solidaccessport.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/passive.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/passive.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/reactants.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/reactor/reactants.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/coils.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/coils.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/innerworking.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/innerworking.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-casing.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-casing.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-computerport.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-computerport.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-controller.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-controller.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-creativesteamgen.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-creativesteamgen.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-forgefluidport.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-forgefluidport.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-forgepowertap-tesla.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-forgepowertap-tesla.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-forgepowertap.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-forgepowertap.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-glass.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-glass.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-rotorbearing.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-rotorbearing.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-rotorblade.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-rotorblade.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-rotorshaft.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/part-rotorshaft.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/rotor.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/entries/turbine/rotor.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/crafting-text.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/crafting-text.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/crafting1x.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/crafting1x.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/crafting2x.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/crafting2x.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/part_usage.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/part_usage.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/spotlight-item.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/spotlight-item.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/spotlight-smelting.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/spotlight-smelting.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/text-crafting.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/text-crafting.json"
+  },
+  {
+    "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "source": "assets/bigreactors/patchouli_books/erguide/en_us/templates/zcmultiblock.json",
+    "staged": "assets/bigreactors/patchouli_books/erguide/en_us/templates/zcmultiblock.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/blocks.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/blocks.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/creatures.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/creatures.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/crops.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/crops.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/cuisine.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/cuisine.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/features.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/features.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/items.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/items.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/locations.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/locations.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/ores.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/categories/ores.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/charred_wood.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/charred_wood.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/mud_blocks.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/mud_blocks.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/mud_block_decoration.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/mud_block_decoration.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/mud_block_utility.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/mud_block_utility.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/pearl_block_decoration.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/pearl_block_decoration.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/pearl_block_utility.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/blocks/pearl_block_utility.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/beetle.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/beetle.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/clam.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/clam.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/deer.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/deer.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/endermini.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/endermini.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/fox.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/fox.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/frog.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/frog.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/hell_sprout.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/hell_sprout.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/lava_cat.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/lava_cat.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/owl.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/owl.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/silkworm.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/silkworm.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/sprout.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/sprout.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/squid.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/creatures/squid.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/crops/aubergine.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/crops/aubergine.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/aubergine.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/aubergine.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/beetroot.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/beetroot.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/carrot.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/carrot.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/salads.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/salads.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/suqid.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/suqid.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/toasted_seeds.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/toasted_seeds.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/venison.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/cuisine/venison.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/features/burnt_trees.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/features/burnt_trees.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/antler_hat.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/antler_hat.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/beetle_mask.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/beetle_mask.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/copper_armor.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/copper_armor.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/gall_apple.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/gall_apple.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/pearleporter.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/pearleporter.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/silk_cocoon.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/silk_cocoon.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/silk_thread.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/silk_thread.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/silver_armor.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/silver_armor.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/tannins.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/tannins.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/unripe_pearl.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/unripe_pearl.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/wasp_attractant.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/items/wasp_attractant.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/locations/barrows.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/locations/barrows.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/locations/huts.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/locations/huts.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/amethyst.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/amethyst.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/copper.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/copper.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/quartz.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/quartz.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/silver.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/entries/ores/silver.json"
+  },
+  {
+    "jar": "mysticalworld-1.12.2-1.11.0.jar",
+    "source": "assets/mysticalworld/patchouli_books/world_guide/en_us/templates/animal_spawn_info.json",
+    "staged": "assets/mysticalworld/patchouli_books/world_guide/en_us/templates/animal_spawn_info.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/baffle_cap.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/baffle_cap.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/dewgonia.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/dewgonia.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/infernal_bulb.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/infernal_bulb.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/moonglow.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/moonglow.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/wildewheet.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/wildewheet.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/wildroot.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/wildroot.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/pereskia.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/pereskia.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/spirit_herb.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/spirit_herb.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/renewable_resources.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/renewable_resources.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/stalicripe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/stalicripe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/terra_moss.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/terra_moss.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/cloud_berry.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/herbs/cloud_berry.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/fey_leather.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/fey_leather.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runestone.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runestone.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/wildwood.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/wildwood.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/loot_bags.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/loot_bags.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runic_dust.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runic_dust.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runed_obsidian.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runed_obsidian.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/wildroot_stew.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/wildroot_stew.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/rare_flowers.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/rare_flowers.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/bark.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/bark.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/life_essence.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/life_essence.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/petals.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/petals.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/fey_fire.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/fey_fire.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/flour.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/flour.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/strange_ooze.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/strange_ooze.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/mystic_feather.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/mystic_feather.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/glass_eye.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/glass_eye.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runed_wood.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/runed_wood.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/roasted_pereskia.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/roasted_pereskia.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/elemental_soil.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/resources/elemental_soil.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/quick_start.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/quick_start.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/the_fey.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/the_fey.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/pacifism.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/pacifism.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/wild_magic.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/wild_magic.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/groves.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/concepts/groves.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_life_drain.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_life_drain.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_rose_thorns.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_rose_thorns.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_wild_fire.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_wild_fire.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_fey_light.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_fey_light.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_chrysopoeia.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_chrysopoeia.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_dandelion_winds.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_dandelion_winds.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_disarm.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_disarm.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_shatter.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_shatter.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/introduction2.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/introduction2.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_desaturate.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_desaturate.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_storm_cloud.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_storm_cloud.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_growth_infusion.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_growth_infusion.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_sanctuary.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_sanctuary.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_geas.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_geas.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_radiance.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_radiance.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_harvest.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_harvest.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_natures_scythe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_natures_scythe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/library.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/library.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_petal_shell.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_petal_shell.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_saturate.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_saturate.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_augment.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_augment.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/modifiers.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/modifiers.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_acid_cloud.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_acid_cloud.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_aqua_bubble.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_aqua_bubble.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/component_pouches.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/component_pouches.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_extension.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_extension.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_time_stop.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_time_stop.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_sky_soarer.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/spells/spell_sky_soarer.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/aqueous_soil.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/aqueous_soil.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/runic_shears.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/runic_shears.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/ritual_overgrowth.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/ritual_overgrowth.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/mortar_pestle.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/mortar_pestle.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/crafting.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/automation/crafting.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_summon_creatures.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_summon_creatures.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_fire_storm.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_fire_storm.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_purity.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_purity.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_windwall.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_windwall.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_wildroot_growth.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_wildroot_growth.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_healing_aura.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_healing_aura.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_divine_protection.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_divine_protection.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_transmutation.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_transmutation.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_warding_protection.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_warding_protection.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_germination.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_germination.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/standing_stones.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/standing_stones.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_flower_growth.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_flower_growth.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_overgrowth.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_overgrowth.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_gathering.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_gathering.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_grove_supplication.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_grove_supplication.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/automation.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/automation.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_spreading_forest.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_spreading_forest.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/tiers.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/tiers.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_frost_lands.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_frost_lands.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_heavy_storms.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_heavy_storms.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/visualisation.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/visualisation.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_animal_harvest.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/ritual_animal_harvest.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/fire_starter.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/fire_starter.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/catalyst_plates.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/rituals/catalyst_plates.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildroot_rune.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildroot_rune.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runestone.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runestone.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_smasher.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_smasher.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/introduction.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/introduction.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/fey_crafter.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/fey_crafter.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/herb_pouch.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/herb_pouch.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_longsword.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_longsword.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_obsidian.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_obsidian.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/salmon_of_knowledge.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/salmon_of_knowledge.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/staff.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/staff.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/fey_leather_pouch.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/fey_leather_pouch.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_sword.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_sword.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runic_crafter.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runic_crafter.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/imbuer.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/imbuer.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood_quiver.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood_quiver.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/decorative_pyre.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/decorative_pyre.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_plough.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_plough.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood_armor.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood_armor.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_shovel.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_shovel.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/apothecary_pouch.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/apothecary_pouch.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/gramary.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/gramary.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/mortar_and_pestle.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/mortar_and_pestle.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/knives.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/knives.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_sword.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_sword.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runic_shears.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runic_shears.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/pyres.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/pyres.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/firestarter.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/firestarter.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_great-axe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_great-axe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_arrow.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_arrow.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/imposer.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/imposer.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_pickaxe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_pickaxe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/sylvan_armor.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/sylvan_armor.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_pickaxe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_pickaxe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wooden_shears.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wooden_shears.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_shovel.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_shovel.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_dagger.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_dagger.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/sure-footed_stone.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/sure-footed_stone.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/component_pouch.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/component_pouch.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood_bow.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/wildwood_bow.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/grove_stone.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/grove_stone.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/unending_bowl.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/unending_bowl.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_axe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_axe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_axe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_axe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_hoe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/living_hoe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/catalyst_plates.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/catalyst_plates.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_excavator.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/runed_excavator.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_hoe.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/entries/crafting/terrastone_hoe.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_shears_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_shears_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/mortar_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/mortar_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/spell_modifier_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/spell_modifier_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/spell_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/spell_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_carving_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_carving_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_carving_terra_moss_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_carving_terra_moss_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_carving_template_double.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/runic_carving_template_double.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/oredict_spotlight.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/oredict_spotlight.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/moss_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/moss_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/ritual_crafting_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/ritual_crafting_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/fey_crafting_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/fey_crafting_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/pyre_template.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/pyre_template.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/bark_template_quint.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/bark_template_quint.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/templates/bark_template_double.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/templates/bark_template_double.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_living.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_living.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_decoration.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_decoration.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_devices.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_devices.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/concepts.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/concepts.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/resources.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/resources.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_runed.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_runed.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_wildwood.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_wildwood.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/rituals_ritual.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/rituals_ritual.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/herbs.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/herbs.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_terrastone.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting_armor_tools_terrastone.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/rituals.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/rituals.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/automation.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/automation.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/spells.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/spells.json"
+  },
+  {
+    "jar": "Roots-1.12.2-3.1.9.2.jar",
+    "source": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting.json",
+    "staged": "assets/roots/patchouli_books/roots_guide/en_us/categories/crafting.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/biomes.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/biomes.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/bosses.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/bosses.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/devices.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/devices.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/entities.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/entities.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/major_landmarks.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/major_landmarks.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/minor_landmarks.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/minor_landmarks.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/treasures.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/treasures.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/categories/world.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/categories/world.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/alpha_yeti.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/alpha_yeti.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/hydra.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/hydra.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/lich.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/lich.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/minoshroom.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/minoshroom.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/naga.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/naga.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/phantom_knights.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/phantom_knights.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/snow_queen.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/snow_queen.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/ur_ghast.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/bosses/ur_ghast.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/anti-builder.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/anti-builder.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/carminite_builder.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/carminite_builder.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/carminite_reactor.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/carminite_reactor.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/encased_fire_jet.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/encased_fire_jet.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/encased_smoker.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/encased_smoker.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/fire_jet.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/fire_jet.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/ghast_trap.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/ghast_trap.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/locked_vanishing_block.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/locked_vanishing_block.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/reappearing_block.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/reappearing_block.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/smoking_block.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/smoking_block.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/vanishing_block.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/devices/vanishing_block.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/adherent.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/adherent.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/animals.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/animals.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/arthopods.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/arthopods.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/castle_guardians.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/castle_guardians.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/death_tome.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/death_tome.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/ghasts.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/ghasts.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/giants.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/giants.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/goblins.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/goblins.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/harbinger_cube.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/harbinger_cube.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/ice_cores.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/ice_cores.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/kobold.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/kobold.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/maze_slime.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/maze_slime.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/minotaur.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/minotaur.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/troll.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/troll.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/undead.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/undead.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/wolves.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/wolves.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/yeti.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/entities/yeti.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/armors.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/armors.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/bows.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/bows.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/carminite.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/carminite.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/charms.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/charms.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/crumble_horn.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/crumble_horn.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/fiery_blood_tears.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/fiery_blood_tears.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/foods.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/foods.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/giant_blocks.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/giant_blocks.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/glass_sword.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/glass_sword.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/ice_bomb.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/ice_bomb.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/ie_shaders.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/ie_shaders.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/magic_beans.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/magic_beans.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/magic_trees.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/magic_trees.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/maps.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/maps.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/mazebreaker_pickaxe.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/mazebreaker_pickaxe.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/minotaur_axes.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/minotaur_axes.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/moon_dial.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/moon_dial.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/phantom_armor.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/phantom_armor.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/scepters.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/scepters.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/tc_aspects.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/tc_aspects.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/tconstruct.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/tconstruct.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/tools.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/tools.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/trophies.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/trophies.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/uncrafting_table.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/treasures/uncrafting_table.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/dark_forest.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/dark_forest.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/enchanted_forest.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/enchanted_forest.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/general_biomes.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/general_biomes.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/glacier.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/glacier.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/snow_forest.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/snow_forest.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/twilight_swamp.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/biomes/twilight_swamp.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/magic_map.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/magic_map.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/aurora_palace.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/aurora_palace.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/dark_tower.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/dark_tower.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/final_castle.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/final_castle.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/giant_house.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/giant_house.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/hedge_maze.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/hedge_maze.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/hollow_hills.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/hollow_hills.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/hydra_lair.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/hydra_lair.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/knight_stronghold.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/knight_stronghold.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/labyrinth.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/labyrinth.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/lich_tower.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/lich_tower.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/naga_courtyard.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/naga_courtyard.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/troll_caves.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/troll_caves.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/yeti_caves.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/major_landmarks/yeti_caves.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/minor_landmarks/druid_hut.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/minor_landmarks/druid_hut.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/portal.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/entries/world/portal.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/templates/editable.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/templates/editable.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/templates/gallery.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/templates/gallery.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/templates/headed_gallery.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/templates/headed_gallery.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/templates/headed_spotlight.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/templates/headed_spotlight.json"
+  },
+  {
+    "jar": "twilightforest-1.12.2-3.15.1.jar",
+    "source": "assets/twilightforest/patchouli_books/guide/en_us/templates/headed_spotlight2.json",
+    "staged": "assets/twilightforest/patchouli_books/guide/en_us/templates/headed_spotlight2.json"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "Giới thiệu về tự động hóa",
+  "icon": "minecraft:writable_book",
+  "category": "automation",
+  "priority": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có nhiều cách để tự động hóa Roots.$(br2)Một số thiết bị phù hợp với việc tự động hóa hơn, chẳng hạn như khả năng tự nạp lại của $(l:crafting/runic_crafter)runic crafter$().$(br2)Nhìn chung, hầu hết thiết bị cần knife để kích hoạt đều có thể được tự động hóa bằng dispenser chứa knife và đồng hồ redstone."
+    },
+    {
+      "type": "text",
+      "text": "Ngoài việc kích hoạt thiết bị, knife trong dispenser còn có thể tự động cạo moss khỏi stone. Xem mục tự động hóa $(l:automation/ritual_overgrowth)Overgrowth Ritual$() để biết thêm chi tiết.$(br2)Tương tự, dispenser cũng có thể dùng các công cụ khác, chẳng hạn như $(l:automation/mortar_pestle)pestle của mortar$() và $(l:automation/runic_shears)runic shears$()."
+    },
+    {
+      "type": "text",
+      "text": "Cuối cùng, một số vật thể vốn có sẵn khả năng tự động hóa. Hiện tại, nhóm này gồm $(l:automation/aqueous_soil)aqueous soil$(), có thể tự động thu hoạch cây trồng trên đó khi chúng trưởng thành."
+    }
+  ]
+}

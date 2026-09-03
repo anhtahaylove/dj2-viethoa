@@ -1,0 +1,7 @@
+# Safe player-facing tooltip/prose candidates.
+click_here=[Click Here]
+team_config.ftblib.display.title.tooltip=Displays when you enter a claimed chunk
+team_config.ftblib.display.desc.tooltip=Displays under Title
+team_config.ftblib.free_to_join.tooltip=Anyone can join without invitation
+sidebar_button.ftblib.my_team.tooltip=Opens a GUI where you can manage your team
+sidebar_button.ftblib.settings.tooltip=Edit client-side-only settings

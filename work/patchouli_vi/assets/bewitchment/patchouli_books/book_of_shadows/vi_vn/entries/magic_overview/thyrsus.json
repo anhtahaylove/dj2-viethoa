@@ -1,0 +1,16 @@
+{
+  "name": "Thyrsus",
+  "category": "magic_overview",
+  "icon": "bewitchment:thyrsus",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một đoạn giant fennel được trang trí bằng pinecone và ivy; bên trong pinecone có một mảnh sắt để đâm xuyên mục tiêu. Dùng vật này lên động vật sẽ khiến chúng bị thu hút lẫn nhau. Không rõ công cụ này được chế tạo thế nào, nhưng ít nhất nó có thể dễ dàng sửa bằng sticks."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:thyrsus",
+      "text": "Dù khá mong manh, vũ khí này vẫn gây một ít sát thương và có thể khiến mục tiêu bị buồn nôn. Nó cũng có vẻ dễ sửa chữa và phù phép."
+    }
+  ]
+}

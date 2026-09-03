@@ -1,0 +1,28 @@
+{
+  "name": "Catalyst Plates",
+  "icon": "roots:reinforced_catalyst_plate",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:offering_plate",
+      "recipe2": "roots:reinforced_offering_plate"
+    },
+    {
+      "type": "text",
+      "title": "Cách sử dụng",
+      "text": "Catalyst Plates chủ yếu hỗ trợ một số nghi lễ bằng cách cung cấp thêm nguyên liệu.$(br2)$(info) Xem $(l:rituals/catalyst_plates)mục Catalyst Plates trong phần Rituals$() để biết đầy đủ thông tin.$(br2)$(info) Reinforced Catalyst Plates miễn nhiễm với sát thương từ các boss vanilla như Wither hoặc Ender Dragon, đồng thời có khả năng chống nổ rất cao."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/ritual_summon_creatures",
+        "resources/runestone",
+        "resources/runed_obsidian",
+        "rituals/catalyst_plates"
+      ]
+    }
+  ]
+}

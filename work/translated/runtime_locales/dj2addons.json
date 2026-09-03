@@ -1,0 +1,6 @@
+{
+  "dj2addons.brew.saturegen": "Độ No",
+  "dj2addons.commands.desc": "§2/ct dj2addons [category] §3In dữ liệu liên quan đến các phần mở rộng CraftTweaker.",
+  "dj2addons.commands.usage": "Cách dùng: §2/ct dj2addons [arg] §3Đối số: hand | mods | bewitchment | extrautils2 | totemic",
+  "dj2addons.effect.regenerateHunger": "Dinh dưỡng"
+}

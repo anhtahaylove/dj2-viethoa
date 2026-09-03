@@ -1,0 +1,52 @@
+{
+  "name": "Charred Wood",
+  "icon": "mysticalworld:charred_log",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:charred_log",
+      "text": "Được tìm thấy trong thế giới tại những nơi gỗ đã cháy hoặc cây có lẽ đã bị sét đánh, những khúc gỗ này chủ yếu dùng để trang trí.$(br2)Có thể dùng flint and steel để đốt chúng cháy sém thêm; vật phẩm này sẽ mất độ bền (không bị tiêu hao) trong quá trình đó. Bạn cũng có thể dùng fire charge, nhưng nó sẽ bị tiêu hao."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:charred_wood_eight",
+      "recipe2": "mysticalworld:charred_wood"
+    },
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:charred_planks",
+      "text": "Có thể chế tạo các khúc gỗ thành ván theo cách thông thường."
+    },
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:charred_stairs",
+      "recipe2": "mysticalworld:charred_slab",
+      "text": "Có thể chế tạo ván thành nhiều loại khối trang trí."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:charred_wall",
+      "recipe2": "mysticalworld:charred_fence",
+      "link_recipe": true
+    },
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:charred_fence_gate",
+      "recipe2": "mysticalworld:charred_button"
+    },
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:charred_pressure_plate"
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:charred_log"
+    }
+  ]
+}

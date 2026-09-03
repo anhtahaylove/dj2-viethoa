@@ -1,0 +1,20 @@
+{
+  "name": "Hệ thống chất làm mát",
+  "icon": "minecraft:water_bucket",
+  "category": "bigreactors:misc",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một hệ thống Reactor / Turbine $(l:reactor/active)làm mát chủ động$(/l) dùng nhiệt từ Reactor để hóa hơi chất làm mát, tạo ra hơi nhằm vận hành rôto của nhiều Turbine và sản xuất năng lượng.$(br2)$(bold)Chất làm mát$() là chất lưu được hệ thống nhận diện và có thể được bơm vào Coolant Fluid Tank của Reactor bằng $(l:reactor/part-forgefluidport)Fluid Port$(/l) ở chế độ đầu vào."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Hơi$() là chất lưu tạo ra khi chất làm mát bị hóa hơi bên trong Reactor. Nó có thể được bơm từ Reactor sang Turbine bằng $(l:reactor/part-forgefluidport)Fluid Port$(/l) để vận hành rôto Turbine, rồi ngưng tụ trở lại thành chất làm mát ban đầu để chu trình lặp lại.$(br2)Chỉ những chất làm mát và hơi hợp lệ mới có thể được dùng trong Reactor hoặc Turbine."
+    },
+    {
+      "type": "text",
+      "text": "Theo mặc định, Extreme Reactors đăng ký water là chất làm mát hợp lệ và steam là hơi tương ứng.$(br2)Các mod hoặc modpack khác có thể thêm chất lưu riêng hoặc sửa đổi/xóa các chất lưu mặc định."
+    }
+  ]
+}

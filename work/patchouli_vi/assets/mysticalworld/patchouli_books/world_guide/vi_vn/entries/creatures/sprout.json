@@ -1,0 +1,22 @@
+{
+  "name": "Sprout",
+  "icon": "mysticalworld:aubergine",
+  "category": "creatures",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "sprout",
+      "breed": "Nhân giống: bằng Aubergine.",
+      "tame": "Thuần hóa: không thuần hóa được.",
+      "blurb": "Vật phẩm rơi ra tùy theo màu của Sprout!"
+    },
+    {
+      "type": "entity",
+      "name": "Sprout",
+      "entity": "mysticalworld:entity_sprout",
+      "scale": 1,
+      "offset": 0,
+      "text": "Những củ Sprout đáng yêu này thích tản bộ trên bãi biển, lang thang trong rừng và đang cố học cách nhảy múa!"
+    }
+  ]
+}

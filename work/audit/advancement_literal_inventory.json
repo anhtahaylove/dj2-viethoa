@@ -1,0 +1,46 @@
+[
+  {
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "path": "assets/bewitchment/advancements/root.json",
+    "source_file": "bewitchment-1.12.2-0.0.22.65__assets__bewitchment__advancements__root.json",
+    "fields": [
+      {
+        "field": "title",
+        "value": {
+          "text": "Bewitchment",
+          "color": "purple",
+          "bold": true,
+          "italic": false
+        },
+        "kind": "literal_or_component"
+      },
+      {
+        "field": "description",
+        "value": {
+          "text": "Join a world of occultism",
+          "color": "yellow",
+          "bold": false,
+          "italic": true
+        },
+        "kind": "literal_or_component"
+      }
+    ]
+  },
+  {
+    "jar": "Erebus-1.0.32.jar",
+    "path": "assets/erebus/advancements/agriculture/farm_complete.json",
+    "source_file": "Erebus-1.0.32__assets__erebus__advancements__agriculture__farm_complete.json",
+    "fields": [
+      {
+        "field": "title",
+        "value": "Accomplished Agronomist",
+        "kind": "literal_or_component"
+      },
+      {
+        "field": "description",
+        "value": "Collect all the farmables the Erebus has to offer.",
+        "kind": "literal_or_component"
+      }
+    ]
+  }
+]

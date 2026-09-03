@@ -1,0 +1,321 @@
+{
+  "chapter_index": 23,
+  "title_key": "dj2.quest.ql.23.title",
+  "chapter_title_en": "27. Manufactured Worlds",
+  "desc_key": "dj2.quest.ql.23.desc",
+  "chapter_desc_en": "Exploit brand new worlds with RFTools Dimensions.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.23.title",
+      "en": "27. Manufactured Worlds"
+    },
+    {
+      "key": "dj2.quest.ql.23.desc",
+      "en": "Exploit brand new worlds with RFTools Dimensions."
+    },
+    {
+      "key": "dj2.quest.db.619.title",
+      "en": "Perfectium"
+    },
+    {
+      "key": "dj2.quest.db.619.desc",
+      "en": "Craft some Perfectium Essence with your §cMaster Infusion Crystal§r.%nThen craft some more.%nAnd some more.%nAnd some more.%nYou'll need a lot of this for RFTools Dimensions."
+    },
+    {
+      "key": "dj2.quest.db.623.title",
+      "en": "Let the Lights Dim, Dim the Let Right"
+    },
+    {
+      "key": "dj2.quest.db.623.desc",
+      "en": "The Dimlet Workbench lets you break down and combine Dimlets into other ones.%n%nDo you want to find a dimension full of Molten Mithril oceans but no luck so far? Well, place down this machine, look for 'Molten Mithril' and check what it needs. Maybe you already have all the Dimlet parts that are needed for its construction. If not, explore more RFTools Dimensions and find more Dimlet containing buildings to loot."
+    },
+    {
+      "key": "dj2.quest.db.624.title",
+      "en": "Dimension splitting... contained"
+    },
+    {
+      "key": "dj2.quest.db.624.desc",
+      "en": "It turns out that even though the previously made 'alloy' of sorts had some unforeseen properties, it's also pretty useful in some ways....%n%nThough this Machine Frame seems to require a lot of power... §c§lBetter upgrade my Laser Focus power input to Ultimate tier. Otherwise I won't be able to transfer enough Energy and my input items could get eaten up.§r%n%nIt allows you to create seemingly 'randomized' dimensions...! The oceans can be made out of Molten Gold, the terrain could be filled with Diamond Block tentacles... You never know!%n%nWelcome to RFTools Dimensions!"
+    },
+    {
+      "key": "dj2.quest.db.625.title",
+      "en": "Creator of whole universes"
+    },
+    {
+      "key": "dj2.quest.db.625.desc",
+      "en": "Craft an Empty Dimension Tab!%n%nThis is the main and most important item of RFTools Dimensions, as this is where Dimensions are going to be stored. However, it's also simply used as a crafting ingredient.%n%nTo craft it, you'll have to make a Master Infusion Crystal and convert some Insanium into Perfectium. The Master Infusion Crystal can convert any type of Essence into the next tier. I recommend setting up an external RFTools Crafter to convert to higher tier Essences."
+    },
+    {
+      "key": "dj2.quest.db.627.title",
+      "en": "Train the Terrain to attain the Domain"
+    },
+    {
+      "key": "dj2.quest.db.627.desc",
+      "en": "Craft a Terrain Absorber. Similarly to the other Absorbers, place it down, and let it absorb the current Terrain type it's in. You might need to visit specific RFTools Dimensions to absorb the type of terrain you want."
+    },
+    {
+      "key": "dj2.quest.db.628.title",
+      "en": "Spacetime-Splitting"
+    },
+    {
+      "key": "dj2.quest.db.628.desc",
+      "en": "Craft a Dimension Builder! This is the most powerful RFTools Dimensions machine. It lets you power up your Realized Dimension Tabs.%n%nFirst, Dimensions need to be created. Simply put it in the Dimension Builder and provide the machine with power to build the dimension. Then, while you want to visit the dimension, §cLEAVE THE DIMENSION TAB IN THE DIMENSION BUILDER§r to let it receive power.%n%nYou don't want to be in a dimension while it unpowers... it's not a very pleasant thing to put it lightly.%n%nDimension creation costs are up 20x from base, but the Dimension Builder can accept waaaay more power than default, and generating power shouldn't be an issue with an Extreme Reactor or a Draconic Reactor (or both!)."
+    },
+    {
+      "key": "dj2.quest.db.629.title",
+      "en": "D14L U9"
+    },
+    {
+      "key": "dj2.quest.db.629.desc",
+      "en": "Craft a Dialing Device! This machine lets you call up the Receiver that's automatically placed in the center of each created RFTools Dimension, and lets your Matter Transmitter know where to go.%n%nJust place it near your Transmitter / Receiver combo, and it'll work wirelessly.%n%nTo dial up a Dimension, select your destination from the list below. Press 'Dial' to constantly keep your nearby Transmitter provide a teleportation beam to the selected dimension, or (since this could be dangerous if the dimension unpowers and you accidentally saunter into the teleportation beam) you could press 'Dial Once' to only dial the dimension until you enter the beam. To interrupt the beam, simply press 'Interrupt'.%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nWe are lost in the internet.%nThis is our last chance to save humanity.%nJoin us. And end this war.%nRight here. Right now....%nDIAL UP!"
+    },
+    {
+      "key": "dj2.quest.db.630.title",
+      "en": "Faster than Lightspeed"
+    },
+    {
+      "key": "dj2.quest.db.630.desc",
+      "en": "Craft a Matter Booster! When placed next to a Transmitter, it makes it available to teleport to an unpowered Receiver without (or with less) unpleasant effects."
+    },
+    {
+      "key": "dj2.quest.db.631.title",
+      "en": "Tell NASA about this before they send people to Mars!"
+    },
+    {
+      "key": "dj2.quest.db.631.desc",
+      "en": "The Destination Analyzer, when placed next to a Dialing Device, lets it check the status of a Receiver. This way you can be sure that a receiver has enough power or is not blocked before attempting to travel to it.%n%nYou can also place the Destination Analyzer next to a Transmitter. In that case, the Transmitter will show a red colored teleportation beam if there is something wrong on the receiving end. You can check the actual problem in the dialing device."
+    },
+    {
+      "key": "dj2.quest.db.632.title",
+      "en": "In."
+    },
+    {
+      "key": "dj2.quest.db.632.desc",
+      "en": "Craft a Matter Transmitter! This machine lets you teleport to an RFTools Dimension by calling it from a nearby Dialing Device. You'll need to power both of the machines.%n%nYou can name the Transmitter something like 'Home' or 'Base', and this name will show up wherever possible to let you know where to teleport from/to."
+    },
+    {
+      "key": "dj2.quest.db.633.title",
+      "en": "Absorb, Compress, Create"
+    },
+    {
+      "key": "dj2.quest.db.633.desc",
+      "en": "Craft a Material Absorber! This block is used to create Material Dimlets. To use it, simply place it down, and place 8 of the desired block below it. They will quickly be eaten up!"
+    },
+    {
+      "key": "dj2.quest.db.634.title",
+      "en": "Return from nothing!"
+    },
+    {
+      "key": "dj2.quest.db.634.desc",
+      "en": "The Advanced Charged Porter holds way more charge than the regular Charged Porter. Less refilling, yay!"
+    },
+    {
+      "key": "dj2.quest.db.635.title",
+      "en": "I wouldn't give a DIME for this... But I WOULD give a Dime-ond..."
+    },
+    {
+      "key": "dj2.quest.db.635.desc",
+      "en": "Craft an Infused Diamond! You might want to automate this going forward."
+    },
+    {
+      "key": "dj2.quest.db.636.title",
+      "en": "Seems to be missing from Dimension C-132..."
+    },
+    {
+      "key": "dj2.quest.db.636.desc",
+      "en": "Dimensional Shard Ores spawn in any non-void RFTools Dimension from Y=2 to Y=64. Find some and mine up some!%n%nYou'll need a lot of these going forward, so set up a Quarry or Digital Miner in a (preferably pleasant) Dimension of your choice to mine some up."
+    },
+    {
+      "key": "dj2.quest.db.637.title",
+      "en": "A wormhole!"
+    },
+    {
+      "key": "dj2.quest.db.637.desc",
+      "en": "Craft a Point to Point Dislocator. This is used as a crafting ingredient for the Advanced Dislocator, but it also has its own usage:%n%nYou first have to Right Click it to split it into a bound pair. You can use either Dislocator to teleport to the other. This works if the Bound Dislocator is in a Pedestal, portal, in a player's inventory or even on the ground as an item entity."
+    },
+    {
+      "key": "dj2.quest.db.638.title",
+      "en": "Make sure to add Adam and Eve, and an apple..."
+    },
+    {
+      "key": "dj2.quest.db.638.desc",
+      "en": "The Dimension Enscriber is the machine that lets you choose what your custom RFTools Dimension is going to contain. Simply place an Empty Dimension Tab in the bottom left, and optionally place some Dimlets or other modifiers inside that let you change the aspects of the Dimension.%n%nAs your first Dimension I recommend leaving the large screen of slots alone, and simply create a random dimension. So just click on 'Store'.%n%nThis Empty Dimension Tab will then need to be placed into a Dimension Builder to create it.%n%nIf you want to recycle your Empty Dimension Tab, simply place it back into the Enscriber, then click 'Extract'."
+    },
+    {
+      "key": "dj2.quest.db.639.title",
+      "en": "It's an Aura Sphere"
+    },
+    {
+      "key": "dj2.quest.db.639.desc",
+      "en": "The Phased Field Generator lets you enter unpowered RFTools Dimensions for 500 seconds, to perhaps recover something that you lost. Hopefully you'll never have to use this, but it's important to let you know that this is an option.%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nLucario's favorite move!"
+    },
+    {
+      "key": "dj2.quest.db.640.title",
+      "en": "The Enderest of Enderer Pearls"
+    },
+    {
+      "key": "dj2.quest.db.640.desc",
+      "en": "Craft an Infused Enderpearl! Automating this is in your best interest."
+    },
+    {
+      "key": "dj2.quest.db.641.title",
+      "en": "Becoming Parcelus Piton"
+    },
+    {
+      "key": "dj2.quest.db.641.desc",
+      "en": "Are you flooding in materials? But still in need of more Dimlets? Craft some lootboxe... ahem, I mean Dimlet Parcels that could give you the Dimlet of your Dreams! (Or disappointment, you never know...)"
+    },
+    {
+      "key": "dj2.quest.db.642.title",
+      "en": "Playing universe golf"
+    },
+    {
+      "key": "dj2.quest.db.642.desc",
+      "en": "The Advanced Dislocator is the most OP teleportation item in the pack. To use it, first have some Ender Pearls in your inventory, and open its interface with a Right Click. Then Shift+Left Click the 'Add Fuel' button on the bottom right.%n%nThe 'Add New' button will add a teleport location to the list of locations. This will default to where you're standing, but can be changed. Click 'Commit' to add the new location. You can then click 'Rename' to change its name to something other than coordinates.%n%nYou can do this as many times as you want, in multiple different locations. From this point on, use Shift+Right Click to open the Advanced Dislocator, as Right Click will teleport you to the selected location.%n%nThis all works even cross-dimensionally. No more pesky Portals! We're OP now."
+    },
+    {
+      "key": "dj2.quest.db.643.title",
+      "en": "Mind over matter"
+    },
+    {
+      "key": "dj2.quest.db.643.desc",
+      "en": "Craft a Bound Dislocator (Player). This is used as a crafting ingredient for the Advanced Dislocator, but it also has its own usage:%n%nRight Clicking this Dislocator will bind it to yourself. Another player or entity can then use that dislocator to teleport to your location as long as you are online."
+    },
+    {
+      "key": "dj2.quest.db.644.title",
+      "en": "Infuse with Infused"
+    },
+    {
+      "key": "dj2.quest.db.644.desc",
+      "en": "Craft a Machine Infuser! Any RFTools or RFTools Dimensions machine can be placed inside this to give it a bonus (usually a speed increase) using Dimensional Shards. To read the exact infusion bonus of each machine, simply hold Shift while hovering over it."
+    },
+    {
+      "key": "dj2.quest.db.645.title",
+      "en": "Out."
+    },
+    {
+      "key": "dj2.quest.db.645.desc",
+      "en": "Craft an RFTools Receiver and a Charged Porter.%n%n§cBind the Charged Porter to the Receiver by Shift+Right Clicking on it.§r%n%nBy this point, you might have other ways to come back from the RFTools Dimension, but it's not a bad idea to emphasize it: You'll need a way back, and this combo allows you to do so.%n%nWhen you want to return, simply Right Click the Charged Porter and you'll appear on the Receiver you set the Charged Porter to.%n%nWhen you enter the RFTools Dimension, there will be a Receiver at your feet. If you name the Receiver, that name will show up in the Dialing Device.%n%nYou can also name your own Receiver something like 'Home' or 'Base', and this name will show up wherever possible to let you know where to teleport from/to."
+    },
+    {
+      "key": "dj2.quest.db.646.title",
+      "en": "Floopsorb, Floopress, Flooprate"
+    },
+    {
+      "key": "dj2.quest.db.646.desc",
+      "en": "Craft a Liquid Absorber! This block is used to create Liquid Dimlets. To use it, simply place it down, and place 8 of the desired liquid (in source block form) under it. They will quickly be swallowed up!"
+    },
+    {
+      "key": "dj2.quest.db.647.title",
+      "en": "Edit -> Insert -> Dimensional hyperscrope -> ..."
+    },
+    {
+      "key": "dj2.quest.db.647.desc",
+      "en": "You can craft a Dimension Editor to change already created dimensions by inserting various Dimlets. Though be aware that a Dimlet is lost after it's inserted in the Dimension Editor."
+    },
+    {
+      "key": "dj2.quest.db.648.title",
+      "en": "An' anotha' one"
+    },
+    {
+      "key": "dj2.quest.db.648.desc",
+      "en": "Notice that if you create another random dimension by putting in no Dimlets into the Dimension Enscriber's main screen, then the new Dimension Tab will link back to the same dimension.%n%nTo avoid this, add Digit Dimlets to the creation screen. A different combination of Digits will always result in different Dimensions! You can craft the Digit (0) Dimlet, and craft the larger Digits from that."
+    },
+    {
+      "key": "dj2.quest.db.649.title",
+      "en": "Gaia fights? Pwah, dimensions!"
+    },
+    {
+      "key": "dj2.quest.db.649.desc",
+      "en": "Craft a Liquid Stellar Alloy Dimlet and create a Dimension of Stellar Alloy oceans! Pump it up and make blocks upon blocks of it.%n%nNote that Gaia Spirits can be gotten from the Mob Loot Fabricator Modular Machine."
+    },
+    {
+      "key": "dj2.quest.db.650.title",
+      "en": "Demon Hearts? Pwah, dimensions!"
+    },
+    {
+      "key": "dj2.quest.db.650.desc",
+      "en": "Craft a Liquid Mystic Dimlet and create a Dimension of Mystic oceans! Pump it up and make blocks upon blocks of it."
+    },
+    {
+      "key": "dj2.quest.db.652.title",
+      "en": "Essence tiering? Pwah, dimensions!"
+    },
+    {
+      "key": "dj2.quest.db.652.desc",
+      "en": "Craft a Molten Supremium Dimlet and create a Dimension of Molten Supremium oceans! Pump it up for blocks upon blocks of it."
+    },
+    {
+      "key": "dj2.quest.db.657.title",
+      "en": "A new continent?"
+    },
+    {
+      "key": "dj2.quest.db.657.desc",
+      "en": "Discover Europe (-ium) by traveling across the Atlanti-- I mean dissolving some Dimensional Shards!"
+    },
+    {
+      "key": "dj2.quest.db.658.title",
+      "en": "BREAKDOWN"
+    },
+    {
+      "key": "dj2.quest.db.658.desc",
+      "en": "The elements seem to be moving WILDLY inside the Highly Radioactive Dimension-Splitting Compound! Break it down into its (new) elements!"
+    },
+    {
+      "key": "dj2.quest.db.659.title",
+      "en": "Where are the other countries though?!"
+    },
+    {
+      "key": "dj2.quest.db.659.desc",
+      "en": "It's quite an amusing accident that half of the atomic number of Europium is (almost) exactly the atomic number of Germanium...!"
+    },
+    {
+      "key": "dj2.quest.db.660.title",
+      "en": "Epic Rap Battles!! -ium"
+    },
+    {
+      "key": "dj2.quest.db.660.desc",
+      "en": "Hopefully you found a good source of Molten Stellar Alloy. You'll need a lot!"
+    },
+    {
+      "key": "dj2.quest.db.661.title",
+      "en": "Don't tell ur ium about this"
+    },
+    {
+      "key": "dj2.quest.db.661.desc",
+      "en": "Break down some Rutherfordium into Tellurium!"
+    },
+    {
+      "key": "dj2.quest.db.662.title",
+      "en": "Permutation, Variation, Combination!"
+    },
+    {
+      "key": "dj2.quest.db.662.desc",
+      "en": "Your greatest feat so far! You managed to find a way to combine Erbium, Gallium, Tellurium, Polyvinyl Chloride & Diammonium Phosphate into a stable compound..."
+    },
+    {
+      "key": "dj2.quest.db.663.title",
+      "en": "Never stop combining!"
+    },
+    {
+      "key": "dj2.quest.db.663.desc",
+      "en": "Combine Neptunium, Germanium, Butane, and Amide and see what it turns into...!"
+    },
+    {
+      "key": "dj2.quest.db.664.title",
+      "en": "Spelling Bee Nightmares"
+    },
+    {
+      "key": "dj2.quest.db.664.desc",
+      "en": "This compound has never before been created... %n%n%n%nIt has such a beautiful pinkish tint.... %n%n%n%nAnd...%n%n%nAnd, wait...%n%n%n???%n%n%nNo, that can't be.%n%n%nThat would make alchemical transmutations way too simple....%n%n%n%n%n...%n%n%n%n%nWHAT%n%nHAVE%n%nI%n%nCREATED?!"
+    },
+    {
+      "key": "dj2.quest.db.665.title",
+      "en": "It solidifies when poured out..."
+    },
+    {
+      "key": "dj2.quest.db.665.desc",
+      "en": "And it forms a Crystal structure... very peculiar."
+    }
+  ]
+}

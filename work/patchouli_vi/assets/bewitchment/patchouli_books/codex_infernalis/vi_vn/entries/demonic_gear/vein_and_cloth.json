@@ -1,0 +1,21 @@
+{
+  "name": "Diabolic Vein & Sanguine Cloth",
+  "category": "demonic_gear",
+  "icon": "bewitchment:sanguine_cloth",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Khi lông của một con cừu đen được giặt bằng máu vật hiến tế, Sanguine Cloth sẽ được tạo ra. Loại vải này được dùng để chế tạo Besmirched Robes và trang phục ưa thích của Children of Lilith, cũng như làm chất xúc tác trong một số nghi lễ. Người ta còn tin rằng quỷ dùng chính vật liệu này để may y phục."
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:sanguine_cloth",
+      "text": "$(o)Vải thấm đẫm máu~"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:diabolical_vein",
+      "text": "$(o)Cực kỳ đẫm máu"
+    }
+  ]
+}

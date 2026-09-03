@@ -1,0 +1,15 @@
+{
+  "name": "Reappearing Block",
+  "icon": "twilightforest:tower_device:0",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6200,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Reappearing Block",
+      "item": "twilightforest:tower_device:0",
+      "text": "Thiết bị này có vẻ đầy cuốn hút và bí ẩn. Khi tôi chạm vào khối này hoặc truyền tín hiệu Redstone cho nó, nó biến mất ngay trước mắt tôi. Dường như nó sẽ trở lại sau một khoảng thời gian nhất định, nhưng có lẽ tôi sẽ chẳng bao giờ hiểu được lý do."
+    }
+  ]
+}

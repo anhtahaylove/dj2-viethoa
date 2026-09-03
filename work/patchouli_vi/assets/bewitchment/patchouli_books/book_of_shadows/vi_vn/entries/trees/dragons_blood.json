@@ -1,0 +1,20 @@
+{
+  "name": "Juniper",
+  "category": "trees",
+  "icon": "bewitchment:juniper_sapling",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Dragon's Blood",
+      "text": "Một loài cây quý hiếm được coi trọng nhờ nhựa cây, có nhiều công dụng nhưng thường được dùng nhất cho Sigils. Loài cây này đã tuyệt chủng ngoài tự nhiên, nhưng một số Alchemists được biết là vẫn bí mật trồng chúng và có thể tặng cây non cho người họ tin tưởng. Rạch một khúc gỗ trưởng thành bằng Boline sẽ lấy nhựa, khiến lớp nhựa đỏ như máu rỉ ra. Chổi làm từ loài cây quý hiếm này nhanh hơn mọi loại chổi, ngoại trừ Elder brooms,"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/dragonsblood.png"
+      ],
+      "border": true,
+      "text": "nhưng bù lại, chúng có thể được gắn Sigils, và hiệu ứng của chúng sẽ được áp dụng cho người cưỡi."
+    }
+  ]
+}

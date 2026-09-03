@@ -1,0 +1,28 @@
+{
+  "name": "Bắt đầu nhanh",
+  "icon": "roots:staff",
+  "category": "concepts",
+  "priority": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mục này giới thiệu các khái niệm khác nhau của trò chơi dưới góc nhìn cốt truyện, còn mỗi mục riêng đều có phần giới thiệu mô tả chi tiết từng hệ thống.$(br2)Một số mục có thêm thông tin về cơ chế trong mục con; chúng được đánh dấu bằng chữ $(bold)đậm$() dưới tên $(bold)Mục con$() ở bên trái."
+    },
+    {
+      "type": "text",
+      "title": "Bắt đầu nhanh (Phần 1)",
+      "text": "Bạn có thể bắt đầu Roots theo các bước sau.$(li)Phá cỏ cho đến khi nhận được $(l:herbs/wildroot)wildroot$() và $(l:herbs/terra_moss)terra spores$(), rồi đọc $(l:herbs/introduction)Introduction to Herbs$().$(li)Chế tạo một $(l:crafting/knives)knife$() để thu hoạch $(l:herbs/terra_moss)terra moss$() (xem mục tương ứng).$(li)$(bold)Hoặc$() bắt đầu dùng phép thuật: chế tạo $(l:crafting/mortar_and_pestle)mortar and pestle$(), $(l:crafting/staff)staff$(), $(l:crafting/gramary)gramary$() và $(l:crafting/imbuer)imbuer$(), rồi đọc $(l:spells/introduction)Introduction to Spells$().$(li)Sau đó, chế tạo $(l:crafting/herb_pouch)herb pouch$() hoặc vật dụng tương tự để chứa thảo dược và cho phép bạn thi triển phép thuật."
+    },
+    {
+      "type": "text",
+      "title": "Bắt đầu nhanh (Phần 2)",
+      "text": "$(li)$(bold)Hoặc thay vào đó$(), bắt đầu với nghi lễ và chế tạo bằng cách làm một $(l:crafting/pyres)pyre$() rồi đọc $(l:rituals/introduction)Introduction to Rituals$().$(li)Chế tạo một $(l:crafting/grove_stone)grove stone$() và $(l:crafting/fey_crafter)fey crafter$(), sau đó thực hiện nghi lễ $(l:rituals/ritual_grove_supplication)Grove Supplication$(). Đọc $(l:crafting/introduction)Introduction to Crafting$().$(br2)Tiến trình tiếp theo yêu cầu bạn phải có thảo dược (hoặc nguyên liệu). Bạn có thể thực hiện các bước sau theo bất kỳ thứ tự nào."
+    },
+    {
+      "type": "text",
+      "title": "Bắt đầu nhanh (Phần 3)",
+      "text": "$(li)Dùng advancement 'All The Herbs 3' hoặc các mục trong danh mục $(cat:herbs)Herbs$() để theo dõi tiến trình mở khóa thảo mộc.$(li)Hãy nhớ rằng thảo mộc $(l:herbs/renewable_resources)là tài nguyên tái tạo$(/l), nên bạn không cần liên tục chế tạo chúng qua các nghi lễ Pyre.$(li)Chế tạo một $(l:crafting/imposer)imposer và bắt đầu điều chỉnh phép thuật của bạn$().$(li)Chế tạo các vật phẩm hữu ích như $(cat:crafting/living_tools)living tools$() hoặc $(l:crafting/runic_shears)runic shears$()."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Knives",
+  "icon": "roots:wood_knife",
+  "category": "crafting_armor_tools",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:wood_knife",
+      "text": "Knives là công cụ đa năng thiết yếu, đồng thời cũng có thể dùng làm vũ khí.$(br2)$(info) Chúng có thể được chế tạo từ nhiều loại vật liệu; vật liệu quyết định độ bền và lượng sát thương gây ra."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:stone_knife",
+      "recipe2": "roots:iron_knife"
+    },
+    {
+      "type": "crafting",
+      "recipe2": "roots:diamond_knife",
+      "recipe": "mysticalworld:copper_knife"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:amethyst_knife",
+      "text": "Knives có nhiều công dụng. Công dụng chính là cạo $(l:herbs/terra_moss)Terra Moss$() khỏi loại đá phù hợp, bằng tay hoặc Dispenser.$(br2)Chúng cũng có thể phá khúc gỗ để tạo ra $(l:resources/bark)Bark$(); enchantment Fortune sẽ ảnh hưởng đến số lượng thu được."
+    },
+    {
+      "type": "text",
+      "text": "Ngoài các công dụng đã nêu, Knives còn được dùng để kích hoạt một số thiết bị.$(br2)Nhấp chuột phải vào $(l:crafting/fey_crafter)Fey Crafters$() và $(l:crafting/runic_crafter)Runic Crafter$() bằng Knife để bắt đầu chế tạo, bằng tay hoặc Dispenser.$(br2)Có thể nhấp chuột phải vào $(l:crafting/pyres)Pyres$() có nghi thức hợp lệ $(bold)trong khi cúi$() để $(l:rituals/visualisation)hiển thị phạm vi của nghi thức tương ứng$().$(br2)$(l:crafting/imposer)Imposer$() được kích hoạt bằng cách nhấp chuột phải với Knife."
+    },
+    {
+      "type": "text",
+      "text": "Khi cầm $(l:herbs)Wildroot$() ở tay phụ, nhấp chuột phải vào $(l:rituals/standing_stones)khúc gỗ phù hợp sẽ biến nó thành Runed Wood$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/bark",
+        "herbs/terra_moss",
+        "rituals/ritual_overgrowth",
+        "rituals/visualisation",
+        "crafting/introduction",
+        "crafting/runic_dagger",
+        "automation/ritual_overgrowth"
+      ]
+    }
+  ]
+}

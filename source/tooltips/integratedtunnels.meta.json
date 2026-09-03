@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "IntegratedTunnels-1.12.2-1.6.14.jar",
+      "path": "assets/integratedtunnels/lang/en_us.lang"
+    }
+  ]
+}

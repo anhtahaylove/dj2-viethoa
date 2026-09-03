@@ -1,0 +1,9 @@
+{
+  "commands.findnethercity.usage": "Sai cú pháp, phải dùng /findNetherCity hoặc /findNetherCity x y z",
+  "commands.findnethercity.usage.console": "Không có toạ độ trong đầu vào",
+  "commands.findnethercity.usage.coordinates": "Toạ độ sai",
+  "container.chest_of_drawers": "Chest of Drawers",
+  "container.forge": "Lò Rèn",
+  "message.spawn_help": "§c§lBạn phải cầm Glowstone Dust để đặt điểm hồi sinh ở đây",
+  "message.spawn_set": "§2§lĐiểm hồi sinh của bạn đã được đặt tại đây"
+}

@@ -1,0 +1,382 @@
+{
+  "enchantment.abyssalcraft.coralium.desc": {
+    "namespace": "abyssalcraft",
+    "english_locale": "en_us",
+    "registry_id": "abyssalcraft:coralium"
+  },
+  "enchantment.abyssalcraft.dread.desc": {
+    "namespace": "abyssalcraft",
+    "english_locale": "en_us",
+    "registry_id": "abyssalcraft:dread"
+  },
+  "enchantment.abyssalcraft.iron_wall.desc": {
+    "namespace": "abyssalcraft",
+    "english_locale": "en_us",
+    "registry_id": "abyssalcraft:iron_wall"
+  },
+  "enchantment.abyssalcraft.light_pierce.desc": {
+    "namespace": "abyssalcraft",
+    "english_locale": "en_us",
+    "registry_id": "abyssalcraft:light_pierce"
+  },
+  "enchantment.abyssalcraft.multi_rend.desc": {
+    "namespace": "abyssalcraft",
+    "english_locale": "en_us",
+    "registry_id": "abyssalcraft:multi_rend"
+  },
+  "enchantment.abyssalcraft.sapping.desc": {
+    "namespace": "abyssalcraft",
+    "english_locale": "en_us",
+    "registry_id": "abyssalcraft:sapping"
+  },
+  "enchantment.astralsorcery.enchantment.as.nightvision.desc": {
+    "namespace": "astralsorcery",
+    "english_locale": "en_US",
+    "registry_id": "astralsorcery:enchantment.as.nightvision"
+  },
+  "enchantment.astralsorcery.enchantment.as.smelting.desc": {
+    "namespace": "astralsorcery",
+    "english_locale": "en_US",
+    "registry_id": "astralsorcery:enchantment.as.smelting"
+  },
+  "enchantment.bewitchment.magic_protection.desc": {
+    "namespace": "bewitchment",
+    "english_locale": "en_us",
+    "registry_id": "bewitchment:magic_protection"
+  },
+  "enchantment.bibliocraft.bibliocraft.deathcompassench.desc": {
+    "namespace": "bibliocraft",
+    "english_locale": "en_us",
+    "registry_id": "bibliocraft:bibliocraft.deathcompassench"
+  },
+  "enchantment.bibliocraft.bibliocraft.readingench.desc": {
+    "namespace": "bibliocraft",
+    "english_locale": "en_us",
+    "registry_id": "bibliocraft:bibliocraft.readingench"
+  },
+  "enchantment.cofhcore.holding.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:holding"
+  },
+  "enchantment.cofhcore.insight.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:insight"
+  },
+  "enchantment.cofhcore.leech.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:leech"
+  },
+  "enchantment.cofhcore.multishot.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:multishot"
+  },
+  "enchantment.cofhcore.smashing.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:smashing"
+  },
+  "enchantment.cofhcore.smelting.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:smelting"
+  },
+  "enchantment.cofhcore.soulbound.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:soulbound"
+  },
+  "enchantment.cofhcore.vorpal.desc": {
+    "namespace": "cofhcore",
+    "english_locale": "en_US",
+    "registry_id": "cofhcore:vorpal"
+  },
+  "enchantment.divinerpg.aftershock.desc": {
+    "namespace": "divinerpg",
+    "english_locale": "en_us",
+    "registry_id": "divinerpg:aftershock"
+  },
+  "enchantment.divinerpg.rive.desc": {
+    "namespace": "divinerpg",
+    "english_locale": "en_us",
+    "registry_id": "divinerpg:rive"
+  },
+  "enchantment.draconicevolution.enchant_reaper.desc": {
+    "namespace": "draconicevolution",
+    "english_locale": "en_US",
+    "registry_id": "draconicevolution:enchant_reaper"
+  },
+  "enchantment.endercore.autosmelt.desc": {
+    "namespace": "endercore",
+    "english_locale": "en_us",
+    "registry_id": "endercore:autosmelt"
+  },
+  "enchantment.endercore.xpboost.desc": {
+    "namespace": "endercore",
+    "english_locale": "en_us",
+    "registry_id": "endercore:xpboost"
+  },
+  "enchantment.enderio.repellent.desc": {
+    "namespace": "enderio",
+    "english_locale": "en_us",
+    "registry_id": "enderio:repellent"
+  },
+  "enchantment.enderio.shimmer.desc": {
+    "namespace": "enderio",
+    "english_locale": "en_us",
+    "registry_id": "enderio:shimmer"
+  },
+  "enchantment.enderio.soulbound.desc": {
+    "namespace": "enderio",
+    "english_locale": "en_us",
+    "registry_id": "enderio:soulbound"
+  },
+  "enchantment.enderio.witherarrow.desc": {
+    "namespace": "enderio",
+    "english_locale": "en_us",
+    "registry_id": "enderio:witherarrow"
+  },
+  "enchantment.enderio.witherweapon.desc": {
+    "namespace": "enderio",
+    "english_locale": "en_us",
+    "registry_id": "enderio:witherweapon"
+  },
+  "enchantment.evilcraft.breaking.desc": {
+    "namespace": "evilcraft",
+    "english_locale": "en_us",
+    "registry_id": "evilcraft:breaking"
+  },
+  "enchantment.evilcraft.life_stealing.desc": {
+    "namespace": "evilcraft",
+    "english_locale": "en_us",
+    "registry_id": "evilcraft:life_stealing"
+  },
+  "enchantment.evilcraft.poison_tip.desc": {
+    "namespace": "evilcraft",
+    "english_locale": "en_us",
+    "registry_id": "evilcraft:poison_tip"
+  },
+  "enchantment.evilcraft.unusing.desc": {
+    "namespace": "evilcraft",
+    "english_locale": "en_us",
+    "registry_id": "evilcraft:unusing"
+  },
+  "enchantment.evilcraft.vengeance.desc": {
+    "namespace": "evilcraft",
+    "english_locale": "en_us",
+    "registry_id": "evilcraft:vengeance"
+  },
+  "enchantment.extrautils2.xu.bladerang.desc": {
+    "namespace": "extrautils2",
+    "english_locale": "en_us",
+    "registry_id": "extrautils2:xu.bladerang"
+  },
+  "enchantment.extrautils2.xu.boomereaperang.desc": {
+    "namespace": "extrautils2",
+    "english_locale": "en_us",
+    "registry_id": "extrautils2:xu.boomereaperang"
+  },
+  "enchantment.extrautils2.xu.burnerang.desc": {
+    "namespace": "extrautils2",
+    "english_locale": "en_us",
+    "registry_id": "extrautils2:xu.burnerang"
+  },
+  "enchantment.extrautils2.xu.kaboomerang.desc": {
+    "namespace": "extrautils2",
+    "english_locale": "en_us",
+    "registry_id": "extrautils2:xu.kaboomerang"
+  },
+  "enchantment.extrautils2.xu.zoomerang.desc": {
+    "namespace": "extrautils2",
+    "english_locale": "en_us",
+    "registry_id": "extrautils2:xu.zoomerang"
+  },
+  "enchantment.lightningcraft.elec_aura.desc": {
+    "namespace": "lightningcraft",
+    "english_locale": "en_us",
+    "registry_id": "lightningcraft:elec_aura"
+  },
+  "enchantment.lightningcraft.hand_of_thor.desc": {
+    "namespace": "lightningcraft",
+    "english_locale": "en_us",
+    "registry_id": "lightningcraft:hand_of_thor"
+  },
+  "enchantment.minecraft.aqua_affinity.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:aqua_affinity"
+  },
+  "enchantment.minecraft.bane_of_arthropods.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:bane_of_arthropods"
+  },
+  "enchantment.minecraft.binding_curse.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:binding_curse"
+  },
+  "enchantment.minecraft.blast_protection.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:blast_protection"
+  },
+  "enchantment.minecraft.depth_strider.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:depth_strider"
+  },
+  "enchantment.minecraft.efficiency.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:efficiency"
+  },
+  "enchantment.minecraft.feather_falling.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:feather_falling"
+  },
+  "enchantment.minecraft.fire_aspect.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:fire_aspect"
+  },
+  "enchantment.minecraft.fire_protection.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:fire_protection"
+  },
+  "enchantment.minecraft.flame.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:flame"
+  },
+  "enchantment.minecraft.fortune.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:fortune"
+  },
+  "enchantment.minecraft.frost_walker.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:frost_walker"
+  },
+  "enchantment.minecraft.infinity.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:infinity"
+  },
+  "enchantment.minecraft.knockback.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:knockback"
+  },
+  "enchantment.minecraft.looting.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:looting"
+  },
+  "enchantment.minecraft.luck_of_the_sea.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:luck_of_the_sea"
+  },
+  "enchantment.minecraft.lure.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:lure"
+  },
+  "enchantment.minecraft.mending.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:mending"
+  },
+  "enchantment.minecraft.power.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:power"
+  },
+  "enchantment.minecraft.projectile_protection.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:projectile_protection"
+  },
+  "enchantment.minecraft.protection.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:protection"
+  },
+  "enchantment.minecraft.punch.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:punch"
+  },
+  "enchantment.minecraft.respiration.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:respiration"
+  },
+  "enchantment.minecraft.sharpness.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:sharpness"
+  },
+  "enchantment.minecraft.silk_touch.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:silk_touch"
+  },
+  "enchantment.minecraft.smite.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:smite"
+  },
+  "enchantment.minecraft.sweeping.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:sweeping"
+  },
+  "enchantment.minecraft.thorns.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:thorns"
+  },
+  "enchantment.minecraft.unbreaking.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:unbreaking"
+  },
+  "enchantment.minecraft.vanishing_curse.desc": {
+    "namespace": "minecraft",
+    "english_locale": "en_US",
+    "registry_id": "minecraft:vanishing_curse"
+  },
+  "enchantment.openblocks.explosive.desc": {
+    "namespace": "openblocks",
+    "english_locale": "en_us",
+    "registry_id": "openblocks:explosive"
+  },
+  "enchantment.openblocks.flim_flam.desc": {
+    "namespace": "openblocks",
+    "english_locale": "en_us",
+    "registry_id": "openblocks:flim_flam"
+  },
+  "enchantment.openblocks.last_stand.desc": {
+    "namespace": "openblocks",
+    "english_locale": "en_us",
+    "registry_id": "openblocks:last_stand"
+  },
+  "enchantment.simplyjetpacks.fuel_efficiency.desc": {
+    "namespace": "simplyjetpacks",
+    "english_locale": "en_us",
+    "registry_id": "simplyjetpacks:fuel_efficiency"
+  },
+  "enchantment.spartanshields.ssenchspikes.desc": {
+    "namespace": "spartanshields",
+    "english_locale": "en_us",
+    "registry_id": "spartanshields:ssenchspikes"
+  }
+}

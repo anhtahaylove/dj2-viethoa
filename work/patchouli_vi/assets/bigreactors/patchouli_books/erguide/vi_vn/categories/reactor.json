@@ -1,0 +1,6 @@
+{
+  "name": "Reactor",
+  "description": "Reactor là một máy multiblock có thể được xây dựng để trực tiếp tạo ra năng lượng hoặc hóa hơi chất làm mát thành hơi, sau đó dùng để vận hành rotor của Turbine.",
+  "icon": "bigreactors:reactorfuelrod",
+  "sortnum": 2
+}

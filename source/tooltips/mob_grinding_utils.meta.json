@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "MobGrindingUtils-0.3.13.jar",
+      "path": "assets/mob_grinding_utils/lang/en_US.lang"
+    }
+  ]
+}

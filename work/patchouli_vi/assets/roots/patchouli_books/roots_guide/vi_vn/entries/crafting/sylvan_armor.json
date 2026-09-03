@@ -1,0 +1,40 @@
+{
+  "name": "Sylvan Armor",
+  "icon": "roots:sylvan_chestplate",
+  "category": "crafting_armor_tools",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bộ giáp nhẹ này bảo vệ đáng kể trước các đòn tấn công.$(br2)$(info) Ngoài ra, mặc Sylvan Armor sẽ giảm lượng thảo dược cần dùng cho $(l:spells/introduction)phép thuật$().$(br2)Mặc một món giúp giảm 2%, tăng dần đến 8% khi mặc đủ bộ.$(br2)$(info) Có thể sửa chữa bằng $(l:resources/fey_leather)Fey Leather$()."
+    },
+    {
+      "title": "Sylvan Helmet",
+      "type": "fey_crafting_template",
+      "recipe": "sylvan_helmet"
+    },
+    {
+      "title": "Sylvan Chestplate",
+      "type": "fey_crafting_template",
+      "recipe": "sylvan_chestplate"
+    },
+    {
+      "title": "Sylvan Leggings",
+      "type": "fey_crafting_template",
+      "recipe": "sylvan_leggings"
+    },
+    {
+      "title": "Sylvan Boots",
+      "type": "fey_crafting_template",
+      "recipe": "sylvan_boots"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "resources/fey_leather"
+      ]
+    }
+  ]
+}

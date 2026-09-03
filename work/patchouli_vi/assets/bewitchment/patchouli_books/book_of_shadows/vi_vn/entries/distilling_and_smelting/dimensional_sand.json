@@ -1,0 +1,24 @@
+{
+  "name": "Dimensional Sand",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:dimensional_sand",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dimensional Sand mang lại cảm giác kỳ lạ trong tay… nó rắn nhưng dường như chảy như chất lỏng và lấp lánh một cách siêu thực. Có thể thu được bằng cách đốt Eyes of Ender hoặc Chorus Fruit trong Oven."
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand",
+      "text": "Một vật liệu xanh lục lam cộng hưởng với năng lượng aether và có mối liên kết mạnh mẽ với Ender."
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand_alt0"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand_alt1"
+    }
+  ]
+}

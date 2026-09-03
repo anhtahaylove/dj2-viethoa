@@ -1,0 +1,7 @@
+{
+  "parent": "twilightforest:world",
+  "name": "Địa danh Phụ",
+  "description": "Lều, Giếng và Tàn tích!",
+  "icon": "twilightforest:magic_map",
+  "sortnum": 1000
+}

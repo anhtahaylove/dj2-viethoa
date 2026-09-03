@@ -1,0 +1,11 @@
+{
+  "title": "The Smeltery",
+  "image": {
+    "file": "tconstruct:textures/gui/book/smeltery.png"
+  },
+  "text": [
+    {
+      "text": "Có rất nhiều smeltery. Nhưng đây là smeltery của tôi. Và nó nung chảy mọi thứ rất tốt."
+    }
+  ]
+}

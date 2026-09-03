@@ -1,0 +1,36 @@
+{
+  "name": "Lord Baphomet",
+  "category": "greater_demons",
+  "icon": "bewitchment:caduceus",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Là một trong những ác quỷ khét tiếng nhất, Baphomet có đầu và chân dê, hình thể nữ tính cùng đôi cánh quạ lớn trên lưng. Trên đầu Baphomet còn có một ngọn đuốc rực cháy, ngọn lửa của tri thức huyền bí."
+    },
+    {
+      "type": "text",
+      "text": "Thường gắn liền với các nhà giả kim và những hiệp sĩ dòng Đền sa ngã, Baphomet được biết đến với việc ban tri thức địa ngục cho kẻ xứng đáng, ngay cả khi tâm trí người nhận không thể lĩnh hội. Baphomet cũng có thể khống chế các ác quỷ cấp thấp và thường ban cho Summoner sức mạnh của chính một ác quỷ,"
+    },
+    {
+      "type": "text",
+      "title": "Tuyên thệ",
+      "text": "Người chơi phải chứng minh bản thân với con Dê già bằng cách ăn Stew of the Grotesque khi đang mặc trọn bộ áo choàng phù thủy bất kỳ và cầm Pentacle."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:baphomet",
+      "scale": 0.9,
+      "text": "$(o)Ngươi có muốn sống sung sướng không?"
+    },
+    {
+      "type": "text",
+      "title": "Triệu hồi",
+      "text": "Để triệu hồi Baphomet, nghi lễ cần máu của một con cừu non. Ta đã ghi chép nghi thức như sau:"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:conjure_baphomet",
+      "name": "Baphomet's Sabbath"
+    }
+  ]
+}

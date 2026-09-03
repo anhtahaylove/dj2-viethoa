@@ -1,0 +1,28 @@
+{
+  "name": "Component Pouch",
+  "icon": "roots:component_pouch",
+  "category": "crafting_armor_tools",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một loại túi phức tạp hơn, có ít ô đựng thảo mộc hơn (sáu ô), nhưng bù lại có một số ô (12 ô) để bạn cất vật phẩm không phải thảo mộc.$(br2)$(info) Mọi túi đều có thể được nhuộm màu để $(l:spells/component_pouches)phân biệt với các túi khác$().$(br2)$(warning) Cơ chế của túi được giải thích trực tiếp hơn trong $(l:spells/component_pouches)phần Component Pouches về phép thuật$()."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "component_pouch"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/apothecary_pouch",
+        "crafting/fey_leather_pouch",
+        "crafting/herb_pouch",
+        "crafting/fey_crafter",
+        "spells/component_pouches"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Shadow People",
+  "category": "lesser_demons",
+  "icon": "bewitchment:pentacle",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Những con quỷ kỳ lạ mang bản chất tâm linh hơn là vật chất, được cho là sống nhờ nỗi sợ hãi và cảm xúc tiêu cực của con người. Đúng như tên gọi, Shadow People thường trông giống bóng người, nhưng tay chân hơi dài quá mức và đôi mắt trống rỗng phát sáng như than hồng."
+    },
+    {
+      "type": "text",
+      "text": "Không giống quỷ thông thường, Shadow People thường không thể được triệu hồi theo ý muốn mà chỉ xuất hiện như tác dụng phụ của một số nghi lễ nhất định."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:shadow_person",
+      "scale": 0.8,
+      "text": "$(o)NHỮNG LỜI VÔ HÌNH BAO TRÙM LẤY TA"
+    }
+  ]
+}

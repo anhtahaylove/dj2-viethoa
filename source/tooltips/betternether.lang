@@ -1,0 +1,3 @@
+# Safe player-facing tooltip/prose candidates.
+message.spawn_help=§c§lYou must hold Glowstone Dust to set your spawn point here
+message.spawn_set=§2§lYour spawn point was set here

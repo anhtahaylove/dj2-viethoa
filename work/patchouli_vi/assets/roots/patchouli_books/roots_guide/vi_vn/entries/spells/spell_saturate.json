@@ -1,0 +1,101 @@
+{
+  "name": "Saturate",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_saturate\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_saturate",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Là phép bổ trợ cho $(l:spells/spell_desaturate)Desaturate$(), Saturate lập tức chuyển đổi thực phẩm trong hành trang thành thanh đói, nhưng nhận được ít hơn so với khi ăn chúng.$(br2)Các modifier có thể tăng số thanh đói nhận được từ thực phẩm, cũng như tăng thanh đói từ những loại thực phẩm cụ thể."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_saturate"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:big_bellied",
+      "anchor": "big_bellied"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:root_lover",
+      "anchor": "root_lover"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:inversion",
+      "anchor": "inversion"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:iron_excess",
+      "anchor": "iron_excess"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:antivenom",
+      "anchor": "antivenom"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:scattered_goods",
+      "anchor": "scattered_goods"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:cooked_goods",
+      "anchor": "cooked_goods"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:iron_gut",
+      "anchor": "iron_gut"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_saturate",
+      "modifier": "roots:bottled_goods",
+      "anchor": "bottled_goods"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:saturate/SECONDS/cooldown) giây.$(br2)$(bold)Tỷ lệ:$() $(spell:saturate/PERCENT/food_multiplier) giá trị thực phẩm được chuyển thành thanh đói, còn $(spell:saturate/PERCENT/saturation_multiplier) độ bão hòa của thực phẩm được chuyển thành độ bão hòa.$(br2)Với modifier $(modifier:big_bellied)$(), thêm $(spell:saturate/PERCENT/increased_food_multiplier) giá trị thực phẩm và $(spell:saturate/PERCENT/increased_saturation_multiplier) độ bão hòa được chuyển đổi.$(br2)$(bold)Chưa nấu:$() Với"
+    },
+    {
+      "type": "text",
+      "text": "modifier $(modifier:root_lover)$(), thực phẩm chưa nấu khớp với mục ore dictionary $(bold)$(spell:saturate/uncooked_dictionary)$() cho thêm $(spell:saturate/PERCENT/uncooked_food) thanh đói và $(spell:saturate/PERCENT/uncooked_saturation) độ bão hòa.$(br2)$(bold)Đã nấu:$() Khi bật modifier $(modifier:cooked_goods)$(), thực phẩm đã nấu khớp với mục ore dictionary $(bold)$(spell:saturate/cooked_dictionary)$() cho thêm $(spell:saturate/PERCENT/cooked_food) thanh đói và $(spell:saturate/PERCENT/cooked_saturation) độ bão hòa.$(br2)$(bold)Đóng chai:$() Khi bật modifier $(modifier:bottled_goods)$(), thực phẩm đóng chai"
+    },
+    {
+      "type": "text",
+      "text": "khớp với mục ore dictionary $(bold)$(spell:saturate/bottled_dictionary)$() cho thêm $(spell:saturate/PERCENT/bottled_food) thanh đói và $(spell:saturate/PERCENT/bottled_saturation) độ bão hòa.$(br2)$(bold)Kháng hiệu ứng:$() Khi bật modifier $(modifier:iron_excess)$(), độ bão hòa dư thừa cho bạn Resistance $(spell:saturate/ROMAN/resistance_amplifier) trong $(spell:saturate/SECONDS/resistance_duration) nhân với lượng bão hòa dư thừa.$(br2)$(bold)Độc:$() Với modifier $(modifier:antivenom)$(), thực phẩm độc không còn khiến bạn trúng độc, đồng thời bạn nhận được $(spell:saturate/PERCENT/poison_food) thanh đói và $(spell:saturate/PERCENT/poison_saturation) độ bão hòa."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Buồn nôn:$() Khi bật modifier $(modifier:iron_gut)$(), thực phẩm gây buồn nôn, đói, mù hoặc Wither sẽ không còn gây các hiệu ứng đó. Những thực phẩm này cho thêm $(spell:saturate/PERCENT/nausea_food) thanh đói và $(spell:saturate/PERCENT/nausea_saturation) độ bão hòa.$(br2)$(bold)Vật phẩm:$() Khi bật modifier $(modifier:scattered_goods)$(), các thực thể vật phẩm chứa thực phẩm sẽ bị tiêu thụ trong bán kính $(spell:saturate/radius_x) và $(spell:saturate/radius_z) khối theo chiều ngang, cùng $(spell:saturate/radius_y) khối theo chiều dọc.$(br2)$(bold)Đảo ngược:$() Với modifier $(modifier:inversion)$(), thực phẩm"
+    },
+    {
+      "type": "text",
+      "text": "có độ bão hòa và số thanh đói thấp sẽ được chuyển đổi với tỷ lệ cao hơn đáng kể, còn thực phẩm có nhiều thanh đói và độ bão hòa cao sẽ được chuyển đổi với tỷ lệ thấp hơn."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/terra_moss",
+        "herbs/wildewheet"
+      ]
+    }
+  ]
+}

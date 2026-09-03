@@ -1,0 +1,15 @@
+{
+  "extrautils2.text.access.denied.use.command.s.to.try": "Truy cập bị từ chối. Dùng lệnh /%s để thử liên minh với chủ sở hữu.",
+  "extrautils2.text.accessible.from.all.sides": "Có thể truy cập từ mọi mặt",
+  "extrautils2.text.acts.as.a.portal.to.a.remote.block": "Hoạt động như một cổng dẫn tới vị trí khối ở xa.",
+  "extrautils2.text.all.players.can.currently.access": "Hiện tại, mọi người chơi đều có thể truy cập kho đồ của bạn",
+  "extrautils2.text.allows.itemsfluidsenergy.to.be.inserted": "Cho phép đưa vật phẩm/chất lỏng/năng lượng vào hoặc lấy ra khỏi vật phẩm đã chọn",
+  "extrautils2.text.allows.mining.of.cobblestone.and": "Cho phép khai thác cobblestone và bơm nước",
+  "extrautils2.text.always.on": "Luôn bật",
+  "extrautils2.text.base.power.given.s.gp": "Năng lượng cơ bản cung cấp: %s GP",
+  "extrautils2.text.biome.s": "Biome: %s",
+  "extrautils2.text.block.range.end": "Điểm cuối phạm vi khối",
+  "extrautils2.text.block.range.start": "Điểm đầu phạm vi khối",
+  "extrautils2.text.blocks.mined.s": "Số khối đã đào: %s",
+  "extrautils2.text.boosts.fuel.efficiency.with.additional": "Tăng hiệu suất nhiên liệu bằng GP bổ sung, tối đa %s."
+}

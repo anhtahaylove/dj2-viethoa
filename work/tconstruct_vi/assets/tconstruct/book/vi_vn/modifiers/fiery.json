@@ -1,0 +1,17 @@
+{
+  "modifier": "fiery",
+  "text": [
+    {
+      "text": "Thêm blaze powder vào công cụ khiến nó nhuốm sắc lửa. Lưỡi vũ khí trông như than hồng. Tiếc là không đủ sáng để làm nguồn sáng."
+    }
+  ],
+  "effects": [
+    "Sets enemies on fire",
+    "Deals additional fire damage on hit",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

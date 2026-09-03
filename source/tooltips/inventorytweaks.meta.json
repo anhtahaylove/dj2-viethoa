@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "InventoryTweaks-1.63.jar",
+      "path": "assets/inventorytweaks/lang/en_US.lang"
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+ "wave": "death",
+ "mods": [
+  "abyssalcraft",
+  "actuallyadditions",
+  "aether_legacy",
+  "astralsorcery",
+  "atum",
+  "avaritia",
+  "bloodmagic",
+  "botania",
+  "divinerpg",
+  "draconicevolution",
+  "evilcraft",
+  "extrautils2",
+  "galacticraftcore",
+  "immersiveengineering",
+  "lightningcraft",
+  "mob_grinding_utils",
+  "rftoolsdim",
+  "simplyjetpacks",
+  "thaumcraft",
+  "thermalfoundation",
+  "totemic",
+  "wrcbe"
+ ],
+ "rows": [
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.antimatter",
+   "en": "%1$s was molecularly disassembled"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.antimatter.player",
+   "en": "%1$s was molecularly disassembled trying to escape %2$s"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.coralium",
+   "en": "%1$s died from the Coralium Plague"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.coralium.player",
+   "en": "%1$s succumbed to the Coralium Plague whilst trying to escape %2$s"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.dread",
+   "en": "%1$s died from the Dread Plague"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.dread.player",
+   "en": "%1$s succumbed to the might of Cha'garoth whilst trying to escape %2$s"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.shadow",
+   "en": "%1$s was consumed by darkness"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.shadow.player",
+   "en": "%1$s was consumed by darkness whilst trying to escape %2$s"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.shoggoth_acid",
+   "en": "%1$s was dissolved in Shoggoth Acid"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "death.attack.shoggoth_acid.player",
+   "en": "%1$s was dissolved in Shoggoth Acid whilst trying to escape %2$s"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "death.actuallyadditions.atomicReconstructor.1",
+   "en": "%s got atomically reconstructed."
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "death.actuallyadditions.atomicReconstructor.2",
+   "en": "The Atomic Reconstructor caught %s in its sight."
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "death.actuallyadditions.atomicReconstructor.3",
+   "en": "Atomically reconstructing people like %s doesn't appear to work."
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "death.actuallyadditions.atomicReconstructor.4",
+   "en": "%s shouldn't have ate that Reconstructor!"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "death.actuallyadditions.atomicReconstructor.5",
+   "en": "%s should have used some re-construction foam."
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.crush",
+   "en": "%1$s was crushed by %2$s"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.icey_ball",
+   "en": "%1$s was chilled by %2$s's Icey Ball"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.incineration",
+   "en": "%1$s was incinerated by %2$s"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.incineration_firo",
+   "en": "%1$s was incinerated by %2$s's Fire Ball"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.inebriation",
+   "en": "%1$s was inebriated"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.inebriation_indirect",
+   "en": "%1$s was inebriated by %2$s"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "death.attack.lightning_ball",
+   "en": "%1$s was zapped by %2$s's Thunder Ball"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "death.attack.as.bleed",
+   "en": "%1$s bled to death"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "death.attack.as.stellar",
+   "en": "%1$s disintegrated into Stardust"
+  },
+  {
+   "namespace": "atum",
+   "key": "death.attack.assassinated",
+   "en": "%1$s was assassinated"
+  },
+  {
+   "namespace": "avaritia",
+   "key": "death.attack.infinity",
+   "en": "%1$s was obliterated by %2$s"
+  },
+  {
+   "namespace": "avaritia",
+   "key": "death.attack.infinity.1",
+   "en": "%1$s was sliced to ribbons by %2$s"
+  },
+  {
+   "namespace": "avaritia",
+   "key": "death.attack.infinity.2",
+   "en": "%1$s was excised from existence by %2$s"
+  },
+  {
+   "namespace": "avaritia",
+   "key": "death.attack.infinity.3",
+   "en": "%1$s was overkilled by %2$s"
+  },
+  {
+   "namespace": "avaritia",
+   "key": "death.attack.infinity.4",
+   "en": "%1$s was annihilated by %2$s"
+  },
+  {
+   "namespace": "avaritia",
+   "key": "death.attack.infinity.item",
+   "en": "%1$s was obliterated by %2$s"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "death.attack.ritual_damage",
+   "en": "%1$s has been sacrificed for a ritual."
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "death.attack.ritual_damage.player",
+   "en": "%2$s has sacrificed %1$s for a ritual."
+  },
+  {
+   "namespace": "botania",
+   "key": "death.attack.botania-relic",
+   "en": "%s was punished for using a relic that isn't theirs"
+  },
+  {
+   "namespace": "divinerpg",
+   "key": "death.attack.acid",
+   "en": "%1$s melted in acid"
+  },
+  {
+   "namespace": "divinerpg",
+   "key": "death.attack.arcana",
+   "en": "%1$s was killed by magic"
+  },
+  {
+   "namespace": "divinerpg",
+   "key": "death.attack.spike",
+   "en": "%1$s walked on spikes"
+  },
+  {
+   "namespace": "divinerpg",
+   "key": "death.attack.trap",
+   "en": "%1$s fell into a trap"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.administrative.kill",
+   "en": "%1$s was struck down by an unsurvivable force"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.chaos",
+   "en": "%1$s was torn apart by a Chaos Guardian"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.chaosBurst",
+   "en": "%1$s was destroyed by dark energy"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.chaosImplosion",
+   "en": "%1$s was pulled into an energy vortex and crushed into oblivion"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.chrystalMoved",
+   "en": "%1$s was naughty and has been punished by Draconic Evolution!"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.customArrowEnergy",
+   "en": "%1$s was shot by %2$s"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.customArrowEnergy.item",
+   "en": "%1$s was shot by %2$s using %3$s"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.damage.de.fusionExplode",
+   "en": "%1$s was vaporized by a high energy fusion explosion"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.de.GuardianChaosBall",
+   "en": "%1$s was annihilated by a Chaos Guardian using dark energy"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.de.GuardianEnergyBall",
+   "en": "%1$s was zapped like a bug by a Chaos Guardian"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.de.GuardianFireball",
+   "en": "%1$s was firebombed by a Chaos Guardian"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "death.attack.de.islandImplode",
+   "en": "%1$s did not run fast enough and was consumed by the implosion of the chaos island"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.broom",
+   "en": "%1$s was run over by a broom."
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.broom.player",
+   "en": "%1$s was run over by %s on a broom."
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.die_without_any_reason",
+   "en": "%1$s dies without any apparent reason!"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.distorted",
+   "en": "%1$s couldn't handle the amount of distortion anymore."
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.paling",
+   "en": "%1$s faded away."
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.spiked",
+   "en": "%1$s was killed by spikes."
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "death.attack.evilcraft.vengeance_beam",
+   "en": "%1$s was evaporated by a Vengeance Beam."
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.darkness",
+   "en": "%1$s was consumed by shadows"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.darkness.player",
+   "en": "%1$s was consumed by shadows while fighting %2$s"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.doom",
+   "en": "%1$s met their doom"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.doom.item",
+   "en": "%1$s met their doom"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.doom.player",
+   "en": "%1$s met their doom whilst fighting %2$s"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.spike",
+   "en": "%1$s walked on x pointy spike (ouchies)"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.spike.item",
+   "en": "%1$s walked on x pointy spike (ouchies)"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.spike.player",
+   "en": "%1$s fell on some spikes whilst fighting %2$s (ouchies)"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.spike_creative",
+   "en": "%1$s failed to become the guy"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "death.attack.spike_creative.item",
+   "en": "%1$s failed to become the guy"
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "death.attack.meteor_chunk",
+   "en": "%1$s was hit by meteor debris!"
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "death.attack.oxygen_suffocation",
+   "en": "%1$s ran out of oxygen!"
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "death.attack.spaceship_crash",
+   "en": "%1$s's rocket smashed itself into the ground. Oops."
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "death.attack.sulphuric_acid",
+   "en": "%1$s dissolved in sulphuric acid!"
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "death.attack.thermal",
+   "en": "%1$s forgot thermal protection"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieAcid",
+   "en": "%1$s was dissolved in acid"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieCrushed",
+   "en": "%1$s was crushed"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRailgun",
+   "en": "%1$s was pierced by %2$s's Railgun"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRazorShock",
+   "en": "%1$s was electrocuted by razorwire"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRazorWire",
+   "en": "%1$s was diced by razorwire"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_armorPiercing",
+   "en": "%1$s was shot by %2$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_armorPiercing.item",
+   "en": "%1$s was shot by %2$s using %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_armorPiercing.turret",
+   "en": "%1$s was shot by a turret"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_buckshot",
+   "en": "%1$s was shotgunned by %2$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_buckshot.item",
+   "en": "%1$s was shotgunned by %2$s using %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_buckshot.turret",
+   "en": "%1$s was shotgunned by a turret"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_casull",
+   "en": "%1$s was shot by %2$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_casull.item",
+   "en": "%1$s was shot by %2$s using %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_casull.turret",
+   "en": "%1$s was shot by a turret"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_dragonsbreath",
+   "en": "%1$s was incinerated by %2$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_dragonsbreath.item",
+   "en": "%1$s was incinerated by %2$s using %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_dragonsbreath.turret",
+   "en": "%1$s was incinerated by a turret"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_homing",
+   "en": "%1$s was shot by %2$s's homing bullet"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_homing.item",
+   "en": "%1$s was shot by %2$s's homing bullet fired from %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_homing.turret",
+   "en": "%1$s was shot by a turret's homing bullet"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_potion",
+   "en": "%1$s was doused by %2$s's phial shot"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_potion.item",
+   "en": "%1$s was doused by %2$s's phial shot fired from %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_potion.turret",
+   "en": "%1$s was doused by a turret's phial shot"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_silver",
+   "en": "%1$s was purified by %2$s's silver bullet"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_silver.item",
+   "en": "%1$s was purified by %2$s's silver bullet fired from %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_silver.turret",
+   "en": "%1$s was purified by a turret's silver bullet"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_wolfpack",
+   "en": "%1$s was shredded by %2$s's Wolfpack Rounds"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_wolfpack.item",
+   "en": "%1$s was shredded by %2$s's Wolfpack Rounds fired from %3$s"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieRevolver_wolfpack.turret",
+   "en": "%1$s was shredded by a turret's Wolfpack Rounds"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieTesla",
+   "en": "%1$s was fried by a Tesla Coil"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieTeslaPrimary",
+   "en": "%1$s touched the primary circuit of a running Tesla coil"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "death.attack.ieWireShock",
+   "en": "%1$s wasn't careful enough around live wiring"
+  },
+  {
+   "namespace": "lightningcraft",
+   "key": "death.attack.lightningcraft:cannon",
+   "en": "%1$s was blown away"
+  },
+  {
+   "namespace": "mob_grinding_utils",
+   "key": "death.attack.spikes",
+   "en": "%1$s was impaled on spikes."
+  },
+  {
+   "namespace": "mob_grinding_utils",
+   "key": "death.attack.spikes.player",
+   "en": "%1$s was impaled on spikes %2$s."
+  },
+  {
+   "namespace": "rftoolsdim",
+   "key": "death.dimension.powerfailure",
+   "en": "%s dies in a collapsing world!"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "death.attack.jetpack_explode.player",
+   "en": "%1$s spontaneously detonated"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "death.attack.jetpack_potato.player",
+   "en": "%1$s attempted to fly a potato"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "death.fall.jetpack_no_energy.player",
+   "en": "%1$s ran out of energy and hit the ground to hard"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "death.fall.jetpack_no_hover.player",
+   "en": "%1$s did not enable hover and hit the ground to hard"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.dissolve",
+   "en": "%1$s was dissolved"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.dissolve.player",
+   "en": "%1$s was dissolved whilst fighting %2$s"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.swarm",
+   "en": "%1$s was infested by %2$s"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.swarm.item",
+   "en": "%1$s was infested by %2$s using %3$s"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.taint",
+   "en": "%1$s was corrupted by Taint"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.taint.player",
+   "en": "%1$s was corrupted by Taint whilst fighting %2$s"
+  },
+  {
+   "namespace": "thaumcraft",
+   "key": "death.attack.tentacle",
+   "en": "%1$s was squeezed by %2$s"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.basalz",
+   "en": "%1$s had their world rocked!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.blitz",
+   "en": "%1$s was tragically enlightened!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.blizz",
+   "en": "%1$s met a frigid fate!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.cryotheum",
+   "en": "%1$s froze to death!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.cryotheum.player",
+   "en": "%1$s froze to death trying to escape %2$s!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.flux",
+   "en": "%1$s had their reality torn apart by Flux!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.flux.player",
+   "en": "%1$s was Fluxed to death by %2$s!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.mana",
+   "en": "%1$s was torn apart by raw Mana!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.mana.player",
+   "en": "%1$s ran into another state of being attempting to escape %2$s!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.petrotheum",
+   "en": "%1$s got all shook up!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.petrotheum.player",
+   "en": "%1$s shattered while trying to escape %2$s!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.pyrotheum",
+   "en": "%1$s mistook Pyrotheum for Water!"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "death.attack.pyrotheum.player",
+   "en": "%1$s burned alive trying to escape %2$s!"
+  },
+  {
+   "namespace": "totemic",
+   "key": "death.attack.totemic.sunDance",
+   "en": "%1$s sacrificed themselves to the Sun God. This is not supposed to happen."
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "death.attack.wrcbe:bolt",
+   "en": "%1$s was hit by REther Lightning."
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+setIcon(<totemic:totem_whittling_knife>)
+setTitle("Bắt đầu hành trình DJ2!")
+setDescription("Chế tạo Totem Whittling Knife để bắt đầu khám phá các mod!")
+
+addParent("triumph:dj2/root")
+setPos(-65,182)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasTotemCarverKnife", "minecraft:inventory_changed")
+criteria.addItem(<totemic:totem_whittling_knife>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:01_divin_into_dj2")

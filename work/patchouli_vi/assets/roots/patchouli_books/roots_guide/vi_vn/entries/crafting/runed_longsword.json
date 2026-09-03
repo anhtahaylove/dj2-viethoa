@@ -1,0 +1,26 @@
+{
+  "name": "Runed Longsword",
+  "icon": "roots:runed_sword",
+  "category": "crafting_armor_tools_runed",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chắc chắn và bền bỉ, vẫn có khả năng tự phục hồi, dù chậm hơn nhiều so với các công cụ khác.$(br2)$(info) Thanh kiếm này rất lớn và gây sát thương đáng kể, thậm chí còn cao hơn công cụ kim cương tiêu chuẩn."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_sword"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_sword",
+        "crafting/living_sword",
+        "resources/runed_obsidian"
+      ]
+    }
+  ]
+}

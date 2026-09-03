@@ -1,0 +1,21 @@
+{
+  "name": "Giới thiệu về Wild Magic",
+  "icon": "minecraft:writable_book",
+  "category": "concepts",
+  "priority": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wild Magic tồn tại trong mọi nơi và mọi vật thuộc tự nhiên, và sức mạnh ấy có thể được khai thác để tạo nên những kỳ công.$(br2)Thuở xưa, những người dẫn truyền sức mạnh này được gọi là Druid và họ luôn hết sức giữ kín tri thức. Tôi sẽ trình bày chi tiết về sự suy tàn và biến mất của họ ở $(l:concepts/wild_magic)một phần khác$() trong cuốn sách này.$(br2)Sự tồn tại của cuốn sách này cùng các phép thuật, nghi lễ và"
+    },
+    {
+      "type": "text",
+      "text": "những kỹ nghệ trong sách này hoàn toàn nhờ công các Druid ấy, dù họ sẽ không vui nếu những bí mật đó bị công khai.$(br2)Dẫu vậy, đó chính xác là điều tôi sẽ làm.$(br2)Trong sách có các $(cat:concepts)công trình lịch sử và lý luận$() đáng chú ý, cùng những $(cat:crafting)công thức chế tạo và nghi lễ$(), kỹ thuật $(cat:herbs)thảo dược học$() và quan trọng nhất là $(cat:spells)pháp thuật$().$(br2)Mỗi phần đều có"
+    },
+    {
+      "type": "text",
+      "text": "phần giới thiệu riêng, đủ để người mới làm quen với những kiến thức cơ bản.$(br2)Nhiều bí mật đã thất truyền trong sự kiện Fading, nhưng tôi tin rằng nội dung trong sách sẽ hữu ích cho bất kỳ ai sẵn lòng đón nhận Wilds.$(br2)- Iselius Thorn"
+    }
+  ]
+}

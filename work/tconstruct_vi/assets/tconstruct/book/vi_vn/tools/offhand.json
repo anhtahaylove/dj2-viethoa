@@ -1,0 +1,13 @@
+{
+  "title": "Offhand Harvesting",
+  "text": [
+    {
+      "text": "Công cụ Tinkers' cho phép bạn khai thác khối bằng cả tay chính lẫn tay phụ. Chỉ cần đặt một công cụ có thể khai thác khối vào tay phụ và cầm một công cụ khác ở tay chính. Khi phá khối, công cụ phù hợp sẽ tự động được sử dụng, nên bạn cứ đến gần và phá khối như bình thường."
+    }
+  ],
+  "image": {
+    "file": "tconstruct:textures/gui/book/offhand.png",
+    "width": 150,
+    "height": 75
+  }
+}

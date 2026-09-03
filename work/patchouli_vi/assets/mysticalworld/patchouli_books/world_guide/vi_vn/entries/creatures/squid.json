@@ -1,0 +1,22 @@
+{
+  "name": "Squid",
+  "icon": "minecraft:dye:0",
+  "category": "creatures",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "squid",
+      "breed": "Nhân giống: không nhân giống được",
+      "tame": "Thuần hóa: không thuần hóa được.",
+      "blurb": "Dùng Glass Bottle lên Squid sẽ cho bạn Ink!"
+    },
+    {
+      "type": "entity",
+      "name": "Squid",
+      "entity": "minecraft:squid",
+      "scale": 0.5,
+      "offset": -0.65,
+      "text": "Xúc tu Squid cũng rất ngon khi được nấu chín!"
+    }
+  ]
+}

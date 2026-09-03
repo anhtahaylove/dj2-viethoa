@@ -1,0 +1,76 @@
+{
+  "name": "Animal Harvest",
+  "icon": "roots:ritual_animal_harvest",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_animal_harvest",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Những sinh vật phù hợp trong phạm vi nghi lễ sẽ rụng vật phẩm một cách kỳ diệu, như thể bị người chơi tiêu diệt nhưng không thực sự chịu tổn hại.$(br2)Nghi lễ này giúp tích trữ các vật phẩm quý giá mà vẫn duy trì lối sống $(l:concepts/pacifism)hòa bình$().$(br2)$(info) Looting $(ritual:animal_harvest/ROMAN/looting_value) sẽ được áp dụng ngẫu nhiên cho một số vật phẩm rơi ra."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_animal_harvest",
+      "text": "$(standing_stones) Là nghi lễ $(l:rituals/tiers)$(bold)bậc III$(), $(l:rituals/ritual_animal_harvest#multiblock)cần 3 standing stone để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          [
+            "   C   ",
+            "       ",
+            "       ",
+            "C     C",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R     R",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R  0  R",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Nghi lễ yêu cầu ba $(l:rituals/standing_stones)standing stone$() bằng runestone hoặc runed obsidian."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:animal_harvest/SECONDS/duration) giây.$(br2)$(bold)Kích thước:$() Phạm vi nghi lễ mở rộng $(ritual:animal_harvest/radius_x) và $(ritual:animal_harvest/radius_z) block tính từ tâm, cùng $(ritual:animal_harvest/radius_y) block theo chiều dọc.$(br2)$(bold)Sinh vật:$() Cứ mỗi $(ritual:animal_harvest/SECONDS/interval) giây, $(ritual:animal_harvest/count) sinh vật phù hợp được chọn ngẫu nhiên.$(br2)$(bold)Looting:$() Looting $(ritual:animal_harvest/ROMAN/looting_value) có $(ritual:animal_harvest/PERCENT/looting_chance) cơ hội được áp dụng cho mỗi sinh vật phù hợp."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Phát sáng$(): Những sinh vật phù hợp làm rơi vật phẩm khi nghi lễ đang hoạt động sẽ nhận hiệu ứng Glowing trong $(ritual:animal_harvest/SECONDS/glowing) giây.$(br2)$(bold)Cá:$() Nếu tìm thấy block nước, $(ritual:animal_harvest/fish_count) con cá có $(ritual:animal_harvest/PERCENT/fish_chance) cơ hội xuất hiện, cùng khả năng xuất hiện thêm $(ritual:animal_harvest/fish_additional) con."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones",
+        "concepts/pacifism"
+      ]
+    }
+  ]
+}

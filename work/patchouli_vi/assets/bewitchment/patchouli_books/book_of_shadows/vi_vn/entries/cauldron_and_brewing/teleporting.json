@@ -1,0 +1,12 @@
+{
+  "name": "Dịch chuyển tức thời",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:dimensional_sand",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Dịch chuyển tức thời",
+      "text": "Khi ném Dimensional Sand vào vạc, người đứng bên trong có thể dịch chuyển đến những vạc khác đã được đặt tên bằng Name Tag bằng cách nói tên của chúng trong khung chat."
+    }
+  ]
+}

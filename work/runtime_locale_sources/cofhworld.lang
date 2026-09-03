@@ -1,0 +1,5 @@
+cofhworld.list=--- Loaded CoFHWorld features page %d of %d ---
+cofhworld.list.usage=Lists all CoFHWorld features
+cofhworld.reload.failed=Failed to reload config; check your logs.
+cofhworld.reload.successful=Configuration reloaded.
+cofhworld.reload.usage=Reloads CoFHWorld configuration

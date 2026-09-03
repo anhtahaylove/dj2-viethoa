@@ -1,0 +1,23 @@
+{
+  "name": "Runic Shears",
+  "icon": "roots:runic_shears",
+  "category": "automation",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:crafting/runic_shears)Runic Shears$() trong Dispenser có thể tự động thu hoạch $(l:herbs/terra_moss)Terra Moss$() trong phạm vi tùy theo khối mà nó hướng vào, khiến rêu xuất hiện phía trên Dispenser.$(br2)Đáng chú ý nhất, Dispenser cũng có thể tận dụng khả năng thu thập vật phẩm rơi từ thực thể của nó, nhưng các vật phẩm này sẽ xuất hiện tại thực thể."
+    },
+    {
+      "type": "text",
+      "text": "Khả năng này còn bao gồm việc xén lông cừu và các công dụng thông thường khác."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears"
+      ]
+    }
+  ]
+}

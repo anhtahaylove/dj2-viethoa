@@ -1,0 +1,12 @@
+{
+  "jar_keys_total": 52434,
+  "excluded_registry_names": 22536,
+  "excluded_dev_only": 2772,
+  "excluded_empty": 51,
+  "in_scope": 27075,
+  "translated": 21558,
+  "identical_to_english": 2581,
+  "missing": 2936,
+  "coverage_pct": 79.6,
+  "pack_lang_keys": 29317
+}

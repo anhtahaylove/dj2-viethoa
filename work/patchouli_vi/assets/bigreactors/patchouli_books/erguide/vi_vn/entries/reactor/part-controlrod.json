@@ -1,0 +1,29 @@
+{
+  "name": "Control Rod",
+  "icon": "bigreactors:reactorcontrolrod",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorcontrolrod",
+      "link_recipe": true,
+      "title": "Control Rod",
+      "text": "Control Rods có thể được đưa vào cụm $(l:reactor/part-fuelrod)Fuel Rods$(/l) tương ứng. Chúng được làm từ vật liệu có khả năng hấp thụ bức xạ neutron vốn sẽ va vào chất phản ứng chứa trong $(l:reactor/part-fuelrod)Fuel Rods$(/l), từ đó làm chậm hoặc ngừng hoàn toàn việc tiêu thụ nhiên liệu, sinh nhiệt và tạo chất thải."
+    },
+    {
+      "type": "text",
+      "text": "Nhấp chuột phải vào Control Rod để mở giao diện đồ họa của nó.$(br2)Trong giao diện, bạn có thể đặt tên cho Control Rod để sau này dùng tên đó tham chiếu đến Control Rod cụ thể khi quản lý Reactor bằng $(l:reactor/part-computerport)Computer Port$(/l).$(br2)Phần trăm chèn cho biết Control Rod được đưa sâu bao nhiêu vào cụm $(l:reactor/part-fuelrod)Fuel Rod$(/l) tương ứng. Bạn có thể thay đổi giá trị cho riêng Control Rod này hoặc cho tất cả Control Rods."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorcontrolrod",
+      "title": "Control Rod"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() có$(br)$(l)Vị trí hợp lệ:$() tất cả nằm trên cùng một mặt, nối tiếp Fuel Rod$(br)$(l)Giao diện đồ họa:$() có"
+    }
+  ]
+}

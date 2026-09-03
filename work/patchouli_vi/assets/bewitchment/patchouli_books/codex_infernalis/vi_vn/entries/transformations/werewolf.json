@@ -1,0 +1,21 @@
+{
+  "name": "Werewolf",
+  "category": "transformations",
+  "icon": "bewitchment:silver_sword",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Werewolves vốn là con người bị vị quỷ Lord of the Hunt nguyền rủa, hoặc ban phước tùy theo cách nhìn, để vừa làm con mồi vừa làm chó săn cho hắn. Werewolves ẩn mình trong rừng vào những đêm trăng tròn, săn lùng thịt người và động vật để ăn."
+    },
+    {
+      "type": "text",
+      "text": "Mắt chúng rực lên như than hồng, giống đôi mắt của quỷ. Chúng giống thú hơn người và nhiều kẻ đã quên mất cuộc đời trước kia của mình. Nhiều người cho rằng có thể biến thành những quái vật này sau khi bị chúng tấn công, nhưng đến nay chưa ghi nhận trường hợp nào, vì Werewolves thường chẳng để lại gì..."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:werewolf",
+      "scale": 1.0,
+      "text": "$(o)Hounds of the Hunt"
+    }
+  ]
+}

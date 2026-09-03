@@ -1,0 +1,14 @@
+# Patchouli book title and landing-page keys missing from guide page trees.
+guide.alchemistry.title=Alchemistry Guidebook
+guide.alchemistry.landing=Welcome to the Alchemistry Guidebook. This book will introduce you to some of the basics of the mod :)
+item.bewitchment.codex_infernalis.name=Codex Infernalis
+info.bewitchment.codex_infernalis.landing=Simply holding this book feels wrong… do you dare proceed?
+item.bewitchment.book_of_shadows.name=Book of Shadows
+info.bewitchment.book_of_shadows.landing=Witchcraft is an ancient art of magic and nature. This book shall guide you in discovering its secrets for yourself.
+item.lightningcraft:guide_0.name=Lightning Guide
+guide.lclanding_text.name=9by SBlectric and Rumaruka oA Guide to the\nWorld of Lightning!
+mysticalworld.guidebook.name=Encyclopædia Mysticum
+mysticalworld.guidebook.landing_text=It's a very mysterious world out there! This book will grant you some insight into the many mysterious and mystical things you might come across.
+item.roots.roots_guide.name=The Magic of the Wilds
+info.roots.roots_guide.landing=This book is a compilation of knowledge about natural magic, dating from the age of Druids and down into the modern era.$(br2)Today, wild mages seek to discover new and rediscover old ways in which the natural world acts as a source of magic & change.
+item.twilightforest.guide.name=Traveller's Logbook

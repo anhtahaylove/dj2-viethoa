@@ -1,0 +1,6 @@
+{
+  "chat.thermalfoundation.augment.install.failure": "Không thể lắp augment.",
+  "chat.thermalfoundation.augment.install.success": "Đã lắp augment thành công!",
+  "chat.thermalfoundation.upgrade.install.failure": "Không thể nâng cấp block.",
+  "chat.thermalfoundation.upgrade.install.success": "Đã nâng cấp block thành công!"
+}

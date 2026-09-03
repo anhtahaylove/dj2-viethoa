@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "StorageDrawers-1.12.2-5.5.0.jar",
+      "path": "assets/storagedrawers/lang/en_us.lang"
+    }
+  ]
+}

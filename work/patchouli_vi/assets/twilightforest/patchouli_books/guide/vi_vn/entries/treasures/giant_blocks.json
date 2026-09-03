@@ -1,0 +1,37 @@
+{
+  "name": "Gigantic Blocks",
+  "icon": "twilightforest:giant_cobblestone",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/giant_blocks",
+  "sortnum": 8010,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Giant Blocks!"
+    },
+    {
+      "type": "spotlight",
+      "title": "Giant Cobblestone",
+      "item": "twilightforest:giant_cobblestone",
+      "text": "Giant Cobblestone!"
+    },
+    {
+      "type": "spotlight",
+      "title": "Giant Log",
+      "item": "twilightforest:giant_log",
+      "text": "Khúc gỗ KHỔNG LỒ thật, giá mà bất động sản của tôi có một khúc như thế ;) ;)"
+    },
+    {
+      "type": "spotlight",
+      "title": "Giant Leaves",
+      "item": "twilightforest:giant_leaves",
+      "text": "Giant Leaves!"
+    },
+    {
+      "type": "spotlight",
+      "title": "Giant Obsidian",
+      "item": "twilightforest:giant_obsidian",
+      "text": "Giant Obsidian"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Roast Pereskia",
+  "icon": "roots:cooked_pereskia",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "smelting",
+      "recipe": "roots:pereskia_bulb",
+      "text": "Đến một lúc nào đó, một pháp sư hoang dã có thể dư thừa củ $(l:herbs/perskia)pereskia$().$(br2)Tin tốt là chúng rất ngon khi được nướng, nên không cần phải lãng phí.$(br2)Có thể nấu chúng bằng furnace hoặc $(l:crafting/pyre)pyre$()."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "cooked_pereskia"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "herbs/pereskia"
+      ]
+    }
+  ]
+}

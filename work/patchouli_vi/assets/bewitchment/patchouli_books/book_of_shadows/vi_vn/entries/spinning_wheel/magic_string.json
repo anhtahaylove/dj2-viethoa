@@ -1,0 +1,37 @@
+{
+  "name": "Magic String",
+  "category": "spinning_wheel",
+  "icon": "bewitchment:spirit_string",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ai cũng biết dây dùng để buộc mọi thứ. Tuy nhiên, dây phép thuật còn có thể liên kết những thứ khác với nhau, kể cả linh hồn và thậm chí cả bản nguyên của các dimension."
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:cobweb",
+      "text": "Lũ nhện đó chẳng là gì so với bạn"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:witches_stitching",
+      "text": "Phải nhặt từng mũi khâu, hẳn đây là mùa của Phù thủy"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:golden_thread",
+      "text": "Một sợi chỉ vàng óng ánh"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:pure_filament",
+      "text": "Một sợi chỉ bạc óng ánh, đã được ban phước và thanh tẩy"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:spirit_string",
+      "text": "Một sợi dây thấm đẫm linh hồn"
+    }
+  ]
+}

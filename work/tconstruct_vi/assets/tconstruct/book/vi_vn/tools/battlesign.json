@@ -1,0 +1,20 @@
+{
+  "tool": "battlesign",
+  "text": [
+    {
+      "text": "Battlesign là bước tiến trong công nghệ vũ khí, xứng đáng với mọi Zombie Pigmen. Đây là vũ khí phòng thủ đồng thời có thể dùng làm khiên."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Đỡ đòn giúp tăng mức giảm sát thương, phản lại một phần nhỏ sát thương và mọi vật phóng."
+    }
+  ],
+  "properties": [
+    "Defensive weapon",
+    "Low damage",
+    "Có thể dùng như một shield",
+    "Blocking reflects projectiles"
+  ]
+}

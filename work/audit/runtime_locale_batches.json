@@ -1,0 +1,79 @@
+{
+  "appliedenergistics2": {
+    "entries": 247,
+    "batches": [
+      "work\\runtime_locale_batches\\appliedenergistics2\\01.json",
+      "work\\runtime_locale_batches\\appliedenergistics2\\02.json"
+    ]
+  },
+  "bloodmagic": {
+    "entries": 268,
+    "batches": [
+      "work\\runtime_locale_batches\\bloodmagic\\01.json",
+      "work\\runtime_locale_batches\\bloodmagic\\02.json"
+    ]
+  },
+  "bloodmagicguide": {
+    "entries": 274,
+    "batches": [
+      "work\\runtime_locale_batches\\bloodmagicguide\\01.json",
+      "work\\runtime_locale_batches\\bloodmagicguide\\02.json"
+    ]
+  },
+  "draconicevolution": {
+    "entries": 551,
+    "batches": [
+      "work\\runtime_locale_batches\\draconicevolution\\01.json",
+      "work\\runtime_locale_batches\\draconicevolution\\02.json",
+      "work\\runtime_locale_batches\\draconicevolution\\03.json",
+      "work\\runtime_locale_batches\\draconicevolution\\04.json"
+    ]
+  },
+  "enderio": {
+    "entries": 497,
+    "batches": [
+      "work\\runtime_locale_batches\\enderio\\01.json",
+      "work\\runtime_locale_batches\\enderio\\02.json",
+      "work\\runtime_locale_batches\\enderio\\03.json"
+    ]
+  },
+  "galacticraftcore": {
+    "entries": 324,
+    "batches": [
+      "work\\runtime_locale_batches\\galacticraftcore\\01.json",
+      "work\\runtime_locale_batches\\galacticraftcore\\02.json"
+    ]
+  },
+  "galacticraftplanets": {
+    "entries": 129,
+    "batches": [
+      "work\\runtime_locale_batches\\galacticraftplanets\\01.json"
+    ]
+  },
+  "integrateddynamics": {
+    "entries": 722,
+    "batches": [
+      "work\\runtime_locale_batches\\integrateddynamics\\01.json",
+      "work\\runtime_locale_batches\\integrateddynamics\\02.json",
+      "work\\runtime_locale_batches\\integrateddynamics\\03.json",
+      "work\\runtime_locale_batches\\integrateddynamics\\04.json",
+      "work\\runtime_locale_batches\\integrateddynamics\\05.json"
+    ]
+  },
+  "mekanism": {
+    "entries": 346,
+    "batches": [
+      "work\\runtime_locale_batches\\mekanism\\01.json",
+      "work\\runtime_locale_batches\\mekanism\\02.json",
+      "work\\runtime_locale_batches\\mekanism\\03.json"
+    ]
+  },
+  "thermalexpansion": {
+    "entries": 401,
+    "batches": [
+      "work\\runtime_locale_batches\\thermalexpansion\\01.json",
+      "work\\runtime_locale_batches\\thermalexpansion\\02.json",
+      "work\\runtime_locale_batches\\thermalexpansion\\03.json"
+    ]
+  }
+}

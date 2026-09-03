@@ -1,0 +1,17 @@
+{
+  "requious.duration.hours": "%s giờ",
+  "requious.duration.instant": "Tức thì",
+  "requious.duration.minutes": "%s phút",
+  "requious.duration.seconds": "%s giây",
+  "requious.duration.ticks": "%s tick",
+  "requious.fluid": "%1$s %2$s/%3$s mB",
+  "requious.fluid.empty": "Trống",
+  "requious.text.owner": "Sở hữu bởi %s",
+  "requious.text.test": "Tôi đã sống được %s tick",
+  "requious.unit.fe": "%1$s/%2$s FE",
+  "requious.unit.fe.cost": "%1$s FE",
+  "requious.unit.none": "%1$s/%2$s",
+  "requious.unit.none.cost": "%1$s",
+  "requious.unit.rf": "%1$s/%2$s RF",
+  "requious.unit.rf.cost": "%1$s RF"
+}

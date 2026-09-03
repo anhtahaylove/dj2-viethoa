@@ -1,0 +1,102 @@
+{
+  "name": "Growth Infusion",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_growth_infusion\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_growth_infusion",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Growth Infusion ban đầu tăng tốc các lượt sinh trưởng của cây bằng cách truyền vào chúng một luồng năng lượng hoang dã.$(br2)Với các modifier, phép có thể kích thích sinh trưởng trên cả vùng, giúp động vật lớn lên hoặc sinh sản, cùng nhiều tác dụng khác!$(br2)$(warning) Một số cây trông như đã nhận hiệu ứng sinh trưởng nhưng thực tế không phát triển, đặc biệt vào ban đêm."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_growth_infusion"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:rampant_growth_i",
+      "anchor": "rampant_growth_i"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:rampant_breeding",
+      "anchor": "rampant_breeding"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:flower_spreading",
+      "anchor": "flower_spreading"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:false_night",
+      "anchor": "false_night"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:rampant_growth_ii",
+      "anchor": "rampant_growth_ii"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:embiggening",
+      "anchor": "embiggening"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:arms_of_air",
+      "anchor": "arms_of_air"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:incubation",
+      "anchor": "incubation"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:ore_infusion",
+      "anchor": "ore_infusion"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_growth_infusion",
+      "modifier": "roots:hydration",
+      "anchor": "hydration"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:growth_infusion/SECONDS/cooldown) giây.$(br2)$(bold)Cơ hội sinh trưởng:$() Cây nhận tối đa $(spell:growth_infusion/growth_ticks) lượt bổ sung sau mỗi tick duy trì phép.$(br2)$(bold)Bán kính:$() Khi bật bất kỳ modifier nào trong số $(modifier:rampant_growth_i)$(), $(modifier:rampant_growth_ii)$() hoặc $(modifier:arms_of_air)$(), $(spell:growth_infusion/count) cây trồng trong vùng rộng $(spell:growth_infusion/radius_x) và $(spell:growth_infusion/radius_z) block theo chiều ngang cùng $(spell:growth_infusion/radius_y) block theo chiều dọc sẽ được chọn ngẫu nhiên để phát triển sau mỗi tick duy trì phép."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tăng bán kính:$() Với mỗi modifier sinh trưởng sau modifier đầu tiên trong số $(modifier:rampant_growth_i)$(), $(modifier:rampant_growth_ii)$() hoặc $(modifier:arms_of_air)$(), bán kính tìm kiếm block tăng thêm $(spell:growth_infusion/radius_boost) block theo mọi hướng. Mức tăng này chỉ áp dụng cho cây trồng.$(br2)$(bold)Cây trồng:$() Khi bật bất kỳ modifier nào trong số $(modifier:rampant_growth_i)$(), $(modifier:rampant_growth_ii)$() hoặc $(modifier:arms_of_air)$(), một số lượng cây trồng bổ sung ngẫu nhiên từ 0 đến dưới $(spell:growth_infusion/additional_count) cũng sẽ phát triển."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Sinh sản:$() Khi bật modifier $(modifier:rampant_breeding)$(), các động vật trong bán kính $(spell:growth_infusion/radius_breed_x) và $(spell:growth_infusion/radius_breed_z) block theo chiều ngang cùng $(spell:growth_infusion/radius_breed_y) block theo chiều dọc sẽ chuyển sang trạng thái sinh sản.$(br2)$(bold)Động vật trưởng thành:$() Khi bật modifier $(modifier:incubation)$(), các động vật trong bán kính $(spell:growth_infusion/radius_breed_x) và $(spell:growth_infusion/radius_breed_z) block theo chiều ngang cùng $(spell:growth_infusion/radius_breed_y) block theo chiều dọc sẽ lớn thêm ít nhất $(spell:growth_infusion/SECONDS/animal_growth_base) giây tuổi và có thể được cộng thêm tối đa $(spell:growth_infusion/SECONDS/animal_growth_vary) giây tuổi. Quá trình này diễn ra mỗi $(spell:growth_infusion/SECONDS/animal_growth_interval) giây trong khi duy trì phép."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Giao dịch của dân làng:$() Khi áp dụng modifier $(modifier:false_night)$(), tối đa $(spell:growth_infusion/village_count) dân làng trong phạm vi ngang $(spell:growth_infusion/radius_villager_x) và $(spell:growth_infusion/radius_villager_y) khối, cùng phạm vi dọc $(spell:growth_infusion/radius_villager_y) khối, có $(spell:growth_infusion/PERCENT/villager_growth_base) cơ hội đặt lại giao dịch sau mỗi tick duy trì phép.$(br2)$(bold)Phóng đại:$() Khi bật modifier $(modifier:embiggening)$(), nấm hoặc cây non được nhắm tới có $(spell:growth_infusion/PERCENT/embiggen_chance) cơ hội mỗi tick duy trì phép để phát triển thành phiên bản khổng lồ."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/terra_moss"
+      ]
+    }
+  ]
+}

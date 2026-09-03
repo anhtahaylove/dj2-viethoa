@@ -1,0 +1,925 @@
+<?xml version='1.0' encoding='utf-8'?>
+<book>
+ <page type="intro">
+  <text>Khởi đầu cùng Galacticraft
+ Quyển 1
+Tác giả: Micdoodle8</text>
+ </page>
+ <page type="contents">
+  <text>Mục lục</text>
+  <link>
+   <text>Tạo tên lửa</text>
+   <icon>heavyplatingT1</icon>
+   <jump>2</jump>
+  </link>
+  <link>
+   <text>Chuẩn bị cho không gian</text>
+   <icon>oxygenTankHeavy</icon>
+   <jump>4</jump>
+  </link>
+  <link>
+   <text>Khởi động tên lửa của bạn</text>
+   <icon>rocketT1</icon>
+   <jump>4</jump>
+  </link>
+ </page>
+ <page type="text">
+  <text>Chào mừng bạn đến với ấn bản đầu tiên của Khởi đầu cùng Galacticraft. Các hành tinh mới để khám phá có thể gây khó khăn, nhưng trong những trang này, bạn sẽ tìm hiểu những điều cơ bản để vượt qua vũ trụ dạng khối một cách thuận lợi.
+
+ Cuốn sách này là một bản sao ma thuật; nó cập nhật bất cứ khi nào bản gốc đã được sửa đổi. Thỉnh thoảng kiểm tra lại để biết thông tin về những điều mới.</text>
+ </page>
+ <page type="toolpage">
+  <title>Dầu</title>
+  <text>Pickaxe là một công cụ khai thác cơ bản. Đây là cách đơn giản nhất để phá đá và khai thác quặng.</text>
+  <text>Loại: Precision Tool
+Hiệu quả với: Đá hoặc đá, quặng và kim loại.</text>
+  <icon>pickicon</icon>
+  <item>
+   <text>Pickaxe Head</text>
+   <icon>pickhead</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Tool Binding</text>
+   <icon>binding</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Shovel</title>
+  <text>Xẻng là một công cụ đào cơ bản. Đây là công cụ phổ biến nhất để đào và di chuyển đất.</text>
+  <text>Loại: Precision Tool
+Hiệu quả với: đất, cát, sỏi và tuyết.</text>
+  <icon>shovelicon</icon>
+  <item>
+   <text>Shovel Head</text>
+   <icon>shovelhead</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Hatchet</title>
+  <text>Rìu là một công cụ chặt cơ bản. Đó là cách đơn giản nhất để định hình gỗ.</text>
+  <text>Lớp: Precision Tool
+Hiệu quả với: Gỗ, Lá và Cây.</text>
+  <icon>axeicon</icon>
+  <item>
+   <text>Hatchet Head</text>
+   <icon>axehead</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Mattock — công cụ cuốc/xẻng đa năng</title>
+  <text>Cutter Mattock là một công cụ canh tác đa năng. Mục đích chính của nó là canh tác đất. Nó cũng hoạt động giống như một cái rìu và một cái xẻng, nhưng không phải là một sự thay thế cho một trong hai.</text>
+  <text>Loại: Multitool
+Hiệu quả với: Gỗ, bụi bẩn và thực vật.</text>
+  <icon>mattockicon</icon>
+  <item>
+   <text>Axe Head</text>
+   <icon>axehead</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Shovel Head</text>
+   <icon>shovelhead</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Broadsword</title>
+  <text>Broadsword là một vũ khí phòng thủ. Nó là một yêu thích của nhiều Tinkers và rất hữu ích trong nhiều tình huống khác nhau.</text>
+  <text>Nhấp chuột phải: Block
+- Chặn giảm một nửa nhiều loại sát thương.
+
+ Lớp học: Vũ khí cận chiến
+Có hiệu lực trên các trang web.</text>
+  <icon>swordicon</icon>
+  <item>
+   <text>Kiếm</text>
+   <icon>swordblade</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Wide Guard — chắn tay rộng</text>
+   <icon>wideguard</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Longsword</title>
+  <text>Thanh trường kiếm là một vũ khí tấn công. Nó được sử dụng để nạp đạn tốc độ cao và cày xuyên qua hàng ngũ kẻ thù</text>
+  <text>Nhấp chuột phải: Lunge
+- Khi được phát hành, nó sẽ đưa bạn tiến về phía trước với tốc độ chóng mặt.
+
+ Khả năng tự nhiên:
+- Tăng phí, gây sát thương và đánh bật 1,5 lần trong khi chạy nước rút
+Loại: Vũ khí cận chiến
+Hiệu quả trên web.</text>
+  <icon>longswordicon</icon>
+  <item>
+   <text>Kiếm</text>
+   <icon>swordblade</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Bảo vệ tay</text>
+   <icon>handguard</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Rapier — kiếm mảnh</title>
+  <text>Rapier là một vũ khí đặc biệt. Kiếm thuật nhảy múa cho phép bạn vào và ra khỏi trận chiến một cách nhanh chóng. Trong khi sát thương của Rapier thấp, nó bù đắp cho điều này với các khả năng khác của nó.</text>
+  <text>Nhấp chuột phải: Backpedal
+- Nhảy lùi một bước nhỏ
+Khả năng tự nhiên:
+- Charge Boost, gây sát thương 1,5 lần và Knockback trong khi chạy nước rút.
+- Áo giáp Pierce, bỏ qua áo giáp và chặn.
+- Tấn công nhanh, kẻ thù bị choáng trong thời gian ngắn hơn.
+
+Loại: Vũ khí cận chiến</text>
+  <icon>rapiericon</icon>
+  <item>
+   <text>Kiếm</text>
+   <icon>swordblade</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Xà ngang</text>
+   <icon>crossbar</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Dao</title>
+  <text>Con dao găm là một vũ khí ngắn. Nó nhẹ và có thể sử dụng như một vũ khí tấn công và ném.</text>
+  <text>Nhấp chuột phải: Ném dao găm
+- Ném vật phẩm cho một cuộc tấn công tầm xa
+
+Loại: Vũ khí tầm xa/cận chiến</text>
+  <icon>daggerIcon</icon>
+  <item>
+   <text>Lưỡi dao</text>
+   <icon>knifeblade</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Xà ngang</text>
+   <icon>crossbar</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Frying Pan</title>
+  <text>Chiên là một vũ khí hạng nặng sử dụng trọng lượng tuyệt đối để làm choáng kẻ thù hoặc một nơi để nấu thức ăn của bạn. Người ta thường săn lợn và nấu chúng với cùng một cái chảo.</text>
+  <text>Nhấp chuột phải: Block
+- Chặn giảm một nửa nhiều loại sát thương.
+
+Shift+Nhấp chuột phải: Đặt món
+- Chảo rán nấu một lượng lớn thức ăn cùng một lúc.
+
+Khả năng tự nhiên:
+- Bash, thực hiện thêm cú Knockback và làm choáng kẻ thù.</text>
+  <icon>frypanicon</icon>
+  <item>
+   <text>Lia</text>
+   <icon>pan</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Battlesign</title>
+  <text>Battlesign là một tiến bộ trong công nghệ vũ khí xứng đáng với Zombie Pigmen ở khắp mọi nơi.</text>
+  <text>Nhấp chuột phải: Block
+- Chặn giảm một nửa nhiều loại sát thương.
+
+Loại: Vũ Khí Đùa Chết Người</text>
+  <icon>battlesignicon</icon>
+  <item>
+   <text>Bảng</text>
+   <icon>board</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Chisel</title>
+  <text>Mũi đục là một công cụ chi tiết tiên tiến để khắc các hình dạng thành các khối.</text>
+  <text>Nhấp chuột phải: Chisel
+- Biến các khối khác nhau thành gạch.
+Lưới chế tạo: Mũi đục
+- Một số vật phẩm chỉ có thể được đục trong lưới chế tạo.
+
+Loại: Công cụ Tiện ích</text>
+  <icon>chiselicon</icon>
+  <item>
+   <text>Đầu đục</text>
+   <icon>chiselhead</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Hammer</title>
+  <text>Búa là một công cụ khai thác nặng để đào các khu vực rộng lớn. Nó cũng có hiệu quả đối với undead.</text>
+  <text>Khả năng tự nhiên:
+- Khu vực ảnh hưởng, Khai thác khu vực 3x3. Hướng đập phụ thuộc vào khuôn mặt nào.
+- Smite II, Có thêm 2-4 trái tim gây sát thương chống lại xác sống.
+- Độ bền rất lớn, công cụ này có độ bền rất cao để bù đắp cho việc đánh đập liên tục mà nó sẽ nhận được.
+
+ Lớp: Công cụ Khai thác Rộng rãi</text>
+  <icon>hammericon</icon>
+  <item>
+   <text>Đầu búa</text>
+   <icon>hammerhead</icon>
+  </item>
+  <item>
+   <text>Đĩa lớn</text>
+   <icon>largeplate</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+  <item>
+   <text>Đĩa lớn</text>
+   <icon>largeplate</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Lumber Axe</title>
+  <text>Rìu gỗ có khả năng đốn hạ toàn bộ cây hoặc dọn sạch những vạt thức ăn lớn chỉ trong một cú vung duy nhất.</text>
+  <text>Khả năng tự nhiên:
+Cây ngã
+- Thu hoạch toàn bộ cây. Nó có chiều cao tối đa là 30. Cây được định nghĩa là Lá nằm trên Nhật ký.
+Khu vực ảnh hưởng
+- Khai thác khu vực 3x3x3. Đây là dự phòng nếu không tìm thấy cây.
+
+ Lớp: Công cụ Khai thác Rộng rãi</text>
+  <icon>lumbericon</icon>
+  <item>
+   <text>Đầu trục rộng</text>
+   <icon>broadaxehead</icon>
+  </item>
+  <item>
+   <text>Đĩa lớn</text>
+   <icon>largeplate</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+  <item>
+   <text>Ràng buộc cứng rắn</text>
+   <icon>toughbinding</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Excavator</title>
+  <text>Máy đào là một công cụ đào lớn được sử dụng để dọn sạch những dải đất, sỏi hoặc tuyết lớn.</text>
+  <text>Khả năng tự nhiên:
+Khu vực ảnh hưởng
+- Khai thác khu vực 3x3. Hướng phụ thuộc vào mặt nào được múc.
+
+ Lớp: Công cụ Khai thác Rộng rãi</text>
+  <icon>excavatoricon</icon>
+  <item>
+   <text>Đầu máy xúc</text>
+   <icon>excavatorhead</icon>
+  </item>
+  <item>
+   <text>Đĩa lớn</text>
+   <icon>largeplate</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+  <item>
+   <text>Ràng buộc cứng rắn</text>
+   <icon>toughbinding</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Scythe</title>
+  <text>Lưỡi hái nổi tiếng với khu vực lắc lư rộng lớn. Nó có thể được sử dụng để thu hoạch cây trồng, lá và là một vũ khí tốt.</text>
+  <text>Kỹ Năng Tự Nhiên:
+Khu Vực Tác Động
+- Tấn công mob trong 3x3x3.
+- Thu hoạch một khu vực 3x3x3.
+
+ Lớp học: Vũ khí cận chiến rộng</text>
+  <icon>scytheicon</icon>
+  <item>
+   <text>Đầu lưỡi hái</text>
+   <icon>excavatorhead</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+  <item>
+   <text>Ràng buộc cứng rắn</text>
+   <icon>toughbinding</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Cleaver</title>
+  <text>Cleaver là một vũ khí phòng thủ hạng nặng. Thanh kiếm khó sử dụng, nhưng trọng lượng tuyệt đối của công cụ nghiền nát kẻ thù.</text>
+  <text>Nhấp chuột phải: Block
+- Chặn giảm một nửa nhiều loại sát thương.
+
+Khả năng tự nhiên:
+- Chặt đầu II, chặt đầu mobs. Đầu của họ được thả xuống như chiến lợi phẩm.
+- Nặng, Tấn công cơ sở được tăng lên với chi phí của thời gian xoay
+ Loại: Vũ khí cận chiến hạng nặng</text>
+  <icon>cleavericon</icon>
+  <item>
+   <text>Thanh kiếm lớn</text>
+   <icon>largeswordblade</icon>
+  </item>
+  <item>
+   <text>Đĩa lớn</text>
+   <icon>largeplate</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Battleaxe</title>
+  <text>Rìu chiến là một vũ khí cận chiến tấn công cũng có thể hạ gục những cây nhỏ.</text>
+  <text>Nhấp chuột phải: TBD
+- Khả năng này chưa hoàn thành
+
+Khả năng tự nhiên:
+- Khu vực hiệu ứng, thu hoạch các khối gỗ trong một tháp 1x9.
+- Bash, đánh bật kẻ thù ra xa hơn bình thường.
+
+ Loại: Vũ khí cận chiến hạng nặng</text>
+  <icon>battleaxeicon</icon>
+  <item>
+   <text>Đầu trục rộng</text>
+   <icon>broadaxehead</icon>
+  </item>
+  <item>
+   <text>Đầu trục rộng</text>
+   <icon>broadaxehead</icon>
+  </item>
+  <item>
+   <text>Thanh cứng</text>
+   <icon>toughrod</icon>
+  </item>
+  <item>
+   <text>Ràng buộc cứng rắn</text>
+   <icon>toughbinding</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Shortbow — cung ngắn</title>
+  <text>Shortbow là một vũ khí được sử dụng để bắn mũi tên. Nó có một phạm vi ngắn, nhanh chóng.</text>
+  <text>Nhấp chuột phải: Vẽ cung
+- Cung càng được vẽ, mũi tên càng bay xa và càng gây nhiều sát thương.
+
+ Lớp học: Bệ phóng tên lửa tầm xa</text>
+  <icon>shortbowIcon</icon>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Dây cung</text>
+   <icon>bowstring</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+ </page>
+ <page type="toolpage">
+  <title>Mũi Tên</title>
+  <text>Mũi tên được bắn từ cung như những viên đạn. Chúng cũng có thể được sử dụng làm vũ khí đâm vào một nhúm.</text>
+  <text>Hạng: Đạn dược</text>
+  <icon>arrowIcon</icon>
+  <item>
+   <text>Hiệu ứng Quét Trang trình diễn</text>
+   <icon>arrowhead</icon>
+  </item>
+  <item>
+   <text>Tool Rod</text>
+   <icon>toolrod</icon>
+  </item>
+  <item>
+   <text>Fletching — cánh tên</text>
+   <icon>fletching</icon>
+  </item>
+ </page>
+ <page type="sectionpage">
+  <title>Đặc điểm vật liệu</title>
+  <text>Một số vật liệu có những đặc điểm làm tăng công dụng tự nhiên của chúng.
+
+ - Tăng cường: 10% cơ hội cho mỗi cấp độ không sử dụng độ bền
+- Stonebound: Công cụ khai thác nhanh hơn khi bị hao mòn, nhưng ít sát thương hơn
+- Jagged: Công cụ tấn công với sát thương nhiều hơn khi bị hao mòn, nhưng khai thác chậm hơn
+- Có thể ghi được: Một công cụ sửa đổi bổ sung cho mỗi mảnh</text>
+ </page>
+ <page type="materialstats">
+  <title>Wood</title>
+  <icon>woodaxe</icon>
+  <text>Nó dường như phát triển ở khắp mọi nơi.</text>
+  <material>
+   <main>woodplanks</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Stone</title>
+  <icon>stonepick</icon>
+  <text>Một trong những vật liệu phổ biến nhất trên thế giới.</text>
+  <material>
+   <main>stoneblock</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Iron</title>
+  <icon>ironpick</icon>
+  <text>Một mặt hàng chủ lực cho các công cụ, nó có thể được tinh chế và chế biến.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>ironingot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Flint</title>
+  <icon>flintshovel</icon>
+  <text>Bền hơn đá. Vật liệu được lựa chọn cho người thượng cổ.</text>
+  <material>
+   <main>flint</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Cactus</title>
+  <icon>cactussword</icon>
+  <text>Một loại gỗ chỉ được tìm thấy trong sa mạc.</text>
+  <material>
+   <main>cactus</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Bone</title>
+  <icon>bonerapier</icon>
+  <text>Một vật liệu có nhiều công dụng, dù còn sống hay đã chết.</text>
+  <material>
+   <main>bone</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Obsidian</title>
+  <icon>bonefrypan</icon>
+  <text>Cứng như đinh, nhưng dễ vỡ khi tạo hình.</text>
+  <material>
+   <main>obsidian</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Alumite — vật liệu hợp kim</title>
+  <icon>alumitepick</icon>
+  <text>Một hợp kim không phổ biến. Nó có vẻ khá bền.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>alumiteingot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Netherrack — vật liệu Nether</title>
+  <icon>netherrackmattock</icon>
+  <text>Cái này được làm từ cái gì?!</text>
+  <material>
+   <main>netherrack</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Blue Slime</title>
+  <icon>blueslimebattlesign</icon>
+  <text>Chuyển đổi nó từ thực phẩm đã làm cho nó mạnh hơn.</text>
+  <toolmaterial>BlueSlime</toolmaterial>
+  <material>
+   <main>blueslimecrystal</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Green Slime</title>
+  <icon>slimebattlesign</icon>
+  <text>Mềm mại và linh hoạt, nó dường như kéo dài mãi mãi.</text>
+  <toolmaterial>Slime</toolmaterial>
+  <material>
+   <main>slimecrystal</main>
+  </material>
+ </page>
+ <page type="crafting">
+  <text>Bùn nhầy</text>
+  <recipe>
+   <name>slimymud</name>
+   <size>three</size>
+  </recipe>
+ </page>
+ <page type="furnace">
+  <text>Slime Crystal</text>
+  <recipe>slimecrystal</recipe>
+ </page>
+ <page type="materialstats">
+  <title>Paper</title>
+  <icon>paperpick</icon>
+  <text>Nó rất yếu, nhưng có thể mất rất nhiều sửa đổi.</text>
+  <material>
+   <main>paperstack</main>
+  </material>
+ </page>
+ <page type="crafting">
+  <text>Ngăn xếp giấy</text>
+  <recipe>
+   <name>paperstack</name>
+   <size>two</size>
+  </recipe>
+ </page>
+ <page type="materialstats">
+  <title>Cobalt</title>
+  <icon>cobaltlongsword</icon>
+  <text>Một trong những vật liệu nether. Nó có màu xanh sáng.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>cobaltingot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Ardite — vật liệu Nether</title>
+  <icon>arditelongsword</icon>
+  <text>Một trong những vật liệu nether. Nó dường như khai thác nhanh hơn khi nó hao mòn.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>arditeingot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Manyullyn — hợp kim bậc cao</title>
+  <icon>manyullynlongsword</icon>
+  <text>Hợp kim nether. Nó mạnh hơn kim cương.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>manyullyningot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Copper</title>
+  <icon>copperaxe</icon>
+  <text>Một kim loại phổ biến được tìm thấy trong lòng đất.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>copperingot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Bronze</title>
+  <icon>bronzeaxe</icon>
+  <text>Một hợp kim thông thường. Nó tốt hơn một chút so với sắt.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>bronzeingot</main>
+  </material>
+ </page>
+ <page type="materialstats">
+  <title>Steel</title>
+  <icon>steelsword</icon>
+  <text>Một hợp kim sắt. Phương pháp để có được điều này là không rõ. Dường như thư dây của kẻ thù được tạo ra từ nó.
+- Yêu cầu Smeltery</text>
+  <material>
+   <main>steelingot</main>
+  </material>
+ </page>
+ <page type="sectionpage">
+  <title>Diamond</title>
+  <text>Thêm một viên kim cương vào cạnh của một công cụ dường như làm cho nó trở nên đàn hồi hơn.
+
+Hiệu ứng:
+- 500 extra durability
+- Mức khai thác tăng lên cấp 3
+Loại: Sử dụng một lần
+Có thể xếp chồng: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>diamondmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Emerald</title>
+  <text>Gắn một viên ngọc lục bảo vào điểm yếu nhất của một công cụ dường như làm cho nó có khả năng phục hồi tốt hơn.
+
+Hiệu ứng:
+- Độ bền tăng 50%
+- Mức khai thác tăng lên cấp 2
+Loại: Sử dụng một lần
+Có thể xếp chồng: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>emeraldmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Tốc độ</title>
+  <text>Việc thêm đá đỏ vào một công cụ dường như làm tăng tốc độ khai thác của nó.
+
+Hiệu ứng:
+- Mỗi bụi đá đỏ làm tăng tốc độ khai thác thêm 0,08.
+- Với tỷ lệ 50/50, mức tăng là 4,0, làm cho cuốc gỗ có tốc độ tương đương với sắt.
+- Không hữu ích cho vũ khí
+
+Loại: Đa năng
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>redstonemod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Auto-Repair</title>
+  <text>Gắn rêu vào một công cụ truyền cho nó sự sống. Công cụ này dường như có khả năng tái tạo hao mòn.
+Hiệu ứng:
+ - Công cụ từ từ tự sửa chữa
+- Ánh sáng mặt trời đẩy nhanh quá trình
+Loại: Sử dụng một lần
+Có thể xếp chồng: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>mossmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Tự động nấu chảy</title>
+  <text>Gắn Lava Crystal vào công cụ mang lại cho nó sức mạnh của một lò nung.
+
+Hiệu ứng:
+- Tự nung chảy block khi khai thác
+- Thiêu đốt mob trong 3 giây
+- Cộng dồn với Luck
+- Không tương thích với Silky
+Loại: Multi-use
+Stackable: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>lavacrystalmod</recipe>
+ </page>
+ <page type="crafting">
+  <text>Ball of Moss — vật liệu rêu</text>
+  <recipe>
+   <name>mossball</name>
+   <size>three</size>
+  </recipe>
+ </page>
+ <page type="crafting">
+  <text>Lava Crystal</text>
+  <recipe>
+   <name>lavacrystal</name>
+   <size>three</size>
+  </recipe>
+ </page>
+ <page type="sectionpage">
+  <title>May mắn</title>
+  <text>Lapis bí ẩn trên các công cụ là một món quà dành cho các vị thần may mắn. Họ sẽ ban phước cho công cụ của bạn với vận may và chiến lợi phẩm tuyệt vời.
+
+Hiệu ứng:
+- Thêm tài sản hoặc cướp bóc, phụ thuộc vào loại công cụ
+- Tăng mức ở ngưỡng tối đa, nhưng có cơ hội tăng trước
+- Đôi khi thêm may mắn cho công cụ
+- Không tương thích với Silky
+Loại: Sử dụng một lần
+Có thể xếp chồng: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>lapismod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Độ sắc nét</title>
+  <text>Thêm thạch anh vào cạnh của một công cụ dường như làm cho nó sắc nét hơn.
+
+Hiệu ứng:
+- Tăng sát thương tấn công
+- Ít ảnh hưởng đến các công cụ có đặc tính xuyên thấu
+Loại: Đa năng
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>quartzmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Fiery</title>
+  <text>Thêm bột lửa vào một công cụ mang lại cho nó một màu sắc rực lửa.
+
+Hiệu ứng:
+- Đốt cháy kẻ thù
+- Cứ sau 5 bột sẽ thêm một giây vào ngọn lửa.
+
+ Loại: Đa năng
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>blazemod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Chết thối, hoại tử</title>
+  <text>Đặt xương của một Skelton khô héo trên một công cụ mang lại cho nó sức mạnh đánh cắp cuộc sống bất chính.
+Hiệu ứng:
+ - Chữa lành người chơi mỗi khi quái vật bị tấn công
+- Chữa lành một trái tim trên mỗi xương
+Loại: Sử dụng một lần
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>necroticmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Silky</title>
+  <text>Thêm một lượng lớn đồng thau hoặc vàng alunimum và một bó dây dường như mang lại cho công cụ các đặc tính mượt mà.
+ Hiệu ứng:
+- Cho phép các khối được thu hoạch trực tiếp
+- Không tương thích với Luck hoặc Auto-Smelt
+Loại: Single-use
+Stackable: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>silkymod</recipe>
+ </page>
+ <page type="crafting">
+  <text>Silky Cloth</text>
+  <recipe>
+   <name>silkycloth</name>
+   <size>three</size>
+  </recipe>
+ </page>
+ <page type="crafting">
+  <text>Silky Jewel</text>
+  <recipe>
+   <name>silkyjewel</name>
+   <size>three</size>
+  </recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Reinforced</title>
+  <text>Thêm một tấm Obsidian vào công cụ dường như giúp tăng độ bền của nó.
+
+ Hiệu ứng:
+- Thêm đặc điểm vật chất Được gia cố vào công cụ
+- Ngăn xếp với các mức Gia cố
+trước Loại: Sử dụng một lần
+Có thể xếp chồng: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>reinforcedmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Knockback — đẩy lùi</title>
+  <text>Gắn một piston vào công cụ và kích hoạt nó vào đúng thời điểm dường như sẽ đẩy mob đi xa hơn.
+
+Hiệu ứng:
+- Thêm phản hồi bổ sung vào công cụ.
+
+ Loại: Đa năng
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>pistonmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Beheading</title>
+  <text>Làm việc với một viên ngọc trai và một số Obsidian trên vũ khí có tác dụng gây tò mò là tách đầu của mục tiêu ra khỏi cơ thể của nó.
+
+Hiệu ứng:
+- Bắt đầu mobs. Kết quả là kẻ thù gục đầu xuống.
+Loại: Sử dụng một lần
+Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>beheadingmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Bane of Arthropods</title>
+  <text>Đánh một con nhện bằng nhãn cầu của chính nó khiến nó giật lùi trong sợ hãi.
+
+Hiệu ứng:
+- Gây thêm sát thương cho nhện.
+- 1-2 trái tim mỗi cấp độ.
+
+ Loại: Đa năng
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>spidermod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Smite</title>
+  <text>Sức mạnh thô sơ của đất thánh hiến trao quyền cho vũ khí của bạn, đánh bại kẻ thù từ trên cao.
+
+Hiệu ứng:
+- Gây thêm sát thương cho undead.
+- 1-2 trái tim mỗi cấp độ.
+
+ Loại: Đa năng
+ Có thể xếp chồng lên nhau: Có</text>
+ </page>
+ <page type="modifier">
+  <tooltype>weapon</tooltype>
+  <recipe>smitemod</recipe>
+ </page>
+ <page type="crafting">
+  <text>Đất nghĩa trang</text>
+  <recipe>
+   <name>graveyardsoil</name>
+   <size>two</size>
+  </recipe>
+ </page>
+ <page type="furnace">
+  <text>Đất thánh</text>
+  <recipe>consecratedsoil</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Điện</title>
+  <text>Thêm một pin và một mạch vào một công cụ mang lại cho nó một điện trường. Công cụ vẫn hoạt động bình thường khi pin không sạc.
+ Hiệu ứng:
+- Cho phép công cụ được sạc bằng điện
+- Sử dụng năng lượng thay vì độ bền khi sạc
+- Có sẵn từ IndustrialCraft 2
+Loại: Sử dụng một lần
+Có thể xếp chồng: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>electricmod</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Các yếu tố điều chỉnh bổ sung</title>
+  <text>Làm việc công cụ với một khối vàng và kim cương làm cho công cụ dễ uốn hơn, cho phép sửa đổi nhiều hơn.
+Hiệu ứng:
+ - Thêm một khe sửa đổi bổ sung vào công cụ
+Loại: Sử dụng một lần
+Có thể xếp chồng: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>tier1free</recipe>
+ </page>
+ <page type="sectionpage">
+  <title>Các yếu tố điều chỉnh bổ sung</title>
+  <text>Làm việc với công cụ bằng nether star mang lại cho nó khả năng gắn các bộ phận mà chúng sẽ không ở lại.
+Hiệu ứng:
+ - Thêm một khe sửa đổi bổ sung vào công cụ
+Loại: Sử dụng một lần
+Có thể xếp chồng: Không</text>
+ </page>
+ <page type="modifier">
+  <tooltype>tool</tooltype>
+  <recipe>tier2free</recipe>
+ </page>
+</book>

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "mysticalworld-1.12.2-1.11.0.jar",
+      "path": "assets/mysticalworld/lang/en_us.lang"
+    }
+  ]
+}

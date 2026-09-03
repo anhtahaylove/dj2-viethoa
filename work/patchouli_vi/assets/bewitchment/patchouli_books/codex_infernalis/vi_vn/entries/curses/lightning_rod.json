@@ -1,0 +1,12 @@
+{
+  "name": "Lightning Rod",
+  "category": "curses",
+  "icon": "minecraft:golden_sword",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:lightning_rod",
+      "text": "Phủ lên da mục tiêu những mảnh kim loại li ti từ các viên kim loại đã nung, khiến mục tiêu dẫn điện rất mạnh."
+    }
+  ]
+}

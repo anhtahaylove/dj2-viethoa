@@ -1,0 +1,4 @@
+operator.operators.integratedderivative.arithmetic.basename=Int. Derivative - %s
+operator.operators.integratedderivative.arithmetic.name=Arithmetic
+operator.operators.integratedderivative.arithmetic.pow.name=Power
+tooltip.omni_duplicate.name=Copies the group of the first connector that has a channel

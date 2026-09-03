@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "groovyscript-1.4.3.jar",
+      "path": "assets/groovyscript/lang/en_us.lang"
+    }
+  ]
+}

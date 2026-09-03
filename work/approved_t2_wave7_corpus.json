@@ -1,0 +1,2229 @@
+{
+ "rows": [
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.gameplay_changes.aether_start",
+   "en": "Aether Start"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.gameplay_changes.ambro_is_edible",
+   "en": "Edible Ambrosium"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.gameplay_changes.disable_portal",
+   "en": "Disable Portal"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.visual_options.legacy_models",
+   "en": "Classic Models"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.visual_options.menu_enabled",
+   "en": "Aether Menu"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.world_gen.christmas_time",
+   "en": "Holiday Generation"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.crafting",
+   "en": "Crafting: §2%1$s§r"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.device_missing_channel",
+   "en": "Device Missing Channel"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.device_offline",
+   "en": "Device Offline"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.device_online",
+   "en": "Device Online"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.locked",
+   "en": "Locked"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.p2p_frequency",
+   "en": "Frequency: §5%1$s§r"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.p2p_output",
+   "en": "Linked (Output Side)"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.p2p_unlinked",
+   "en": "Unlinked"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.showing",
+   "en": "Showing"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.stored_energy",
+   "en": "§2%1$d§к / §4%2$d§r"
+  },
+  {
+   "namespace": "appliedenergistics2",
+   "key": "theoneprobe.appliedenergistics2.unlocked",
+   "en": "Unlocked"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "misc.recipename",
+   "en": "Altar-recipe-registryname: %s"
+  },
+  {
+   "namespace": "atum",
+   "key": "mods.tips.atum.1",
+   "en": "You will die."
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "ritual.precondition.empty",
+   "en": "Something's wrong"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "tarot.is_infused",
+   "en": "%s is infused."
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "tarot.no_pets",
+   "en": "%s seems lonely."
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "tarot.player_offline",
+   "en": "%s is offline"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.areyousure",
+   "en": "Are you sure?"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.bold",
+   "en": "B"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.by",
+   "en": "by"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.entertitle",
+   "en": "Enter Book Title:"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.ingredients",
+   "en": "Ingredients Required:"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.italic",
+   "en": "I"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.linenum",
+   "en": "Line# ="
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.lineselected",
+   "en": "Selected Line"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.loadrecipe",
+   "en": "Load components"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.loadrecipe2",
+   "en": "from inventory."
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.obfuscated",
+   "en": "O"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.overwriterecipe",
+   "en": "Overwrite current"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.overwriterecipe2",
+   "en": "recipe book."
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.reset",
+   "en": "Reset"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.save",
+   "en": "Save"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.saverecipe",
+   "en": "Save recipe to"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.saverecipe2",
+   "en": "blank book."
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.setrecipename",
+   "en": "Recipe:"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.sign",
+   "en": "Sign"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.strike",
+   "en": "Strike"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.textscale",
+   "en": "Text Scale"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.underline",
+   "en": "U"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "lock.creativeonly",
+   "en": "Creative Mode Only"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.active",
+   "en": "Active: %1$s"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.assembled",
+   "en": "Assembled: %1$s"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.attached",
+   "en": "Attached Blocks: %1$s"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.bladedrag",
+   "en": "Blade Drag: %1$.2f"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.coilsize",
+   "en": "Coil Size: %1$d"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.fluidtanksInfo",
+   "en": "Fluid Tanks:"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.frictdrag",
+   "en": "Frict Drag: %1$.2f"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.inductorengaged",
+   "en": "Inductor Engaged: %1$s"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.rotorblades",
+   "en": "Rotor Blades: %1$d"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.rotorenergy",
+   "en": "Rotor Energy: %1$.4f"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.rotormass",
+   "en": "Rotor Mass: %1$d"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.rotorshafts",
+   "en": "Rotor Shafts: %1$d"
+  },
+  {
+   "namespace": "bigreactors",
+   "key": "debug.bigreactors.turbine.ventstatus",
+   "en": "Vent Status: %1$s"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.bellethorne",
+   "en": "Damages mobs"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.bergamute",
+   "en": "Absorbs sound"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.challenges",
+   "en": "Challenge yourself"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.forestEye",
+   "en": "Animal detector"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.gaiaRitualHardmode",
+   "en": "Pixie Boogaloo"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.hyacidus",
+   "en": "Poisons mobs"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.manaRing",
+   "en": "Mana-Tablet-In-A-Ring"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.medumone",
+   "en": "Freezes mobs"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.odinRing",
+   "en": "Godlike resistance"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.pylon",
+   "en": "Enchantment booster"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.tagline.spectranthemum",
+   "en": "Teleports items"
+  },
+  {
+   "namespace": "botania",
+   "key": "botaniamisc.noloc",
+   "en": "botaniamisc.noloc"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.connected_material",
+   "en": "Connected Material"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.connected_plane",
+   "en": "Connected Plane"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.cube_large",
+   "en": "Large Cube"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.cube_medium",
+   "en": "Medium Cube"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.cube_small",
+   "en": "Small Cube"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.drawn_region",
+   "en": "Drawn Region"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.plane",
+   "en": "Plane"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.same_material",
+   "en": "Same Material"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.chiselmode.single",
+   "en": "Single Bit"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.result.has_changed",
+   "en": "Block has changed"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.result.nothing_to_redo",
+   "en": "Nothing to Redo"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.result.nothing_to_undo",
+   "en": "Nothing to Undo"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.result.out_of_range",
+   "en": "Not close enough"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.entry.count",
+   "en": "9"
+  },
+  {
+   "namespace": "erebus",
+   "key": "erebus.book.smoothie.12",
+   "en": "\\u00A79Melonade\\n\\n\\u00A70Melon Slice\\n\\n\\u00A7dWater\\n\\n\\u00A74Effects:\\nRefreshing"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.auto_eject",
+   "en": "Auto Eject"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.auto_extract",
+   "en": "Auto Extract"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.auto_insert",
+   "en": "Auto Insert"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.clear",
+   "en": "Clear Recipe"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.save",
+   "en": "Save Recipe"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.smart_insert",
+   "en": "Smart Insert"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.table",
+   "en": "Table"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "ec.interface.view",
+   "en": "View Recipe"
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.deal.0",
+   "en": "\"Ok.\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.deal.1",
+   "en": "\"Ok!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.deal.15",
+   "en": "\"Signed!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.deal.2",
+   "en": "\"Sure.\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.deal.8",
+   "en": "<Villager noise>*\\n\\n*\"Okay\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.10",
+   "en": "\"Shoo!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.13",
+   "en": "\"Nope!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.14",
+   "en": "\"Nada!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.15",
+   "en": "\"N-ahahahahaha-o!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.17",
+   "en": "\"I refuse!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.2",
+   "en": "\"No Deal!\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.23",
+   "en": "\"Keep walking.\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.24",
+   "en": "\"Grr....\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.6",
+   "en": "\"Nether No.\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.7",
+   "en": "\"Nope.\""
+  },
+  {
+   "namespace": "extrautils2",
+   "key": "villager.response.no_deal.8",
+   "en": "<Villager noise>*\\n\\n*\"No.\""
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.reload_server_button",
+   "en": "Reload Server"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.cancel_invite",
+   "en": "Cancel invite"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.chat_message",
+   "en": "[Team %s] %s"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.created",
+   "en": "Team '%s' created"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.deleted",
+   "en": "Team '%s' deleted"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.id_already_exists",
+   "en": "ID already registered!"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.no_team",
+   "en": "No Team"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities",
+   "en": "FTB Utilities Common"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.chunk_claimed",
+   "en": "Chunk claimed"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.chunk_loaded",
+   "en": "Chunk loaded"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.chunk_unclaimed",
+   "en": "Chunk unclaimed"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.chunk_unloaded",
+   "en": "Chunk unloaded"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.claimed_area",
+   "en": "Claimed Area"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.unclaim_all",
+   "en": "Unclaim all chunks"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.unclaim_all_q",
+   "en": "Unclaim all chunks?"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.unclaimed_all",
+   "en": "Unclaimed all chunks"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.unloaded_all",
+   "en": "Unloaded all chunks"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.chunks.wilderness",
+   "en": "Wilderness"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.homes.del",
+   "en": "Home '%s' deleted!"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.homes.not_set",
+   "en": "Unknown Home: '%s'!"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.homes.set",
+   "en": "Home '%s' set!"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.kickme",
+   "en": "You kicked yourself!"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.nickname_reset",
+   "en": "Nickname reset"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.lang.upload_crash",
+   "en": "Upload Crash Report"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.ranks",
+   "en": "Ranks"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world",
+   "en": "World"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.blocked_claiming_dimensions",
+   "en": "Blocked Claiming Dimensions"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.chunk_claiming",
+   "en": "Chunk Claiming"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.chunk_loading",
+   "en": "Chunk Loading"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.logging",
+   "en": "Logging"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.rtp_max_distance",
+   "en": "Max /rtp Distance"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.rtp_min_distance",
+   "en": "Min /rtp Distance"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.safe_spawn",
+   "en": "Safe Spawn"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.spawn_dimension",
+   "en": "Spawn Dimension"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.spawn_radius",
+   "en": "Spawn Radius"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.world.unload_erroring_chunks",
+   "en": "Unload Erroring Chunks"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.1",
+   "en": "Now with mods!"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.15",
+   "en": "Sorry, not sorry!"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.24",
+   "en": "Lagged out?"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.27",
+   "en": "HAMMAH TIME!!!"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.4",
+   "en": "Now WITH SOUNDS!"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.5",
+   "en": "99 percent cubic!"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "hc.splash.7",
+   "en": "Nya!"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.bee",
+   "en": "The Pain"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.dev",
+   "en": "Regicide!"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.earthshaker",
+   "en": "Lingering Will"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.nerf",
+   "en": "Safe for kids"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.noName",
+   "en": "Peering Into Darkness"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.oathkeeper",
+   "en": "Wayfinder"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.oblivion",
+   "en": "Passing Memories"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.patreonBlu",
+   "en": "Hunter's Choice"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.revolver.patreonHazard",
+   "en": "Exclusive DLC Content"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.treated_wood_stairs0",
+   "en": "Horizontal Planks"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.treated_wood_stairs1",
+   "en": "Vertical Planks"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "key": "desc.immersiveengineering.flavour.treated_wood_stairs2",
+   "en": "Packaged Planks"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "key": "text.industrialforegoing.book.accepted_items",
+   "en": "Accepted items:"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "key": "text.industrialforegoing.book.produced_items",
+   "en": "Produced items:"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "key": "text.industrialforegoing.plant.chorus",
+   "en": " - Chorus Plant"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "key": "text.industrialforegoing.plant.nether_wart",
+   "en": " - Nether Wart"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "key": "info_book.integratedtunnels.tutorials.importer_exporter",
+   "en": "Importer Exporter"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "key": "info_book.integratedtunnels.tutorials.interfaces",
+   "en": "Interfaces"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "key": "info_book.integratedtunnels.tutorials.place_logwood",
+   "en": "Place Logs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.colorpalette.basic_colors",
+   "en": "Basic Colors"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.colorpalette.biome_colors",
+   "en": "Biome Colors"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.colorpalette.file_title",
+   "en": "JourneyMap Color Palette"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.colorpalette.mods",
+   "en": "Mods"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.colorpalette.resource_packs",
+   "en": "Resource Packs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.actions",
+   "en": "Actions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_dialog",
+   "en": "Auto-Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_dialog_all",
+   "en": "All"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_dialog_missing",
+   "en": "Missing"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_region_chunks",
+   "en": "Chunks mapped: %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_region_complete",
+   "en": "Auto-Mapped"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_region_start",
+   "en": "Auto-Mapping"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_stop_title",
+   "en": "Stop Auto-Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.automap_title",
+   "en": "Auto-Map..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.birthday",
+   "en": "Happy birthday %1$s!"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.colorreset_complete",
+   "en": "Color palette recalculated."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.colorreset_start",
+   "en": "Recalculating color palette..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.colorreset_title",
+   "en": "Reset Color Palette"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.day",
+   "en": "Day"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.deletemap_dialog",
+   "en": "Delete Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.deletemap_dialog_all",
+   "en": "All Dimensions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.deletemap_dialog_this",
+   "en": "This Dimension"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.deletemap_status_done",
+   "en": "Map deleted."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.deletemap_title",
+   "en": "Delete Map..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.dimension",
+   "en": "Dimension %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.disabled_feature",
+   "en": "Feature not available"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.enable",
+   "en": "Enabled"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.enable_mapping_false",
+   "en": "Disable Mapping"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.enable_mapping_false_text",
+   "en": "Mapping disabled."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.enable_mapping_true",
+   "en": "Enable Mapping"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.enable_mapping_true_text",
+   "en": "Mapping enabled."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_editor",
+   "en": "Grid Editor"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_opacity",
+   "en": "Opacity"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_style",
+   "en": "Style"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_style_checkers",
+   "en": "Checkers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_style_dots",
+   "en": "Dots"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_style_region",
+   "en": "Regions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_style_squares",
+   "en": "Squares"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_style_squares_region",
+   "en": "Squares With Regions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.hide_buttons",
+   "en": "Hide Buttons"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.hotkeys_keybinding_category",
+   "en": "JourneyMap"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.hotkeys_keybinding_fullscreen_category",
+   "en": "JourneyMap Fullscreen Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_xyz_label",
+   "en": "x, y, z"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_xyz_plain",
+   "en": "%1$s, %3$s, %2$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_xz_label",
+   "en": "x, z"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_xz_plain",
+   "en": "%1$s, %2$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_xzy_label",
+   "en": "x, z, y"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_xzy_plain",
+   "en": "%1$s, %2$s, %3$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_saved",
+   "en": "Map saved: %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_button",
+   "en": "Map Style..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_title",
+   "en": "Map Style Options"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.mapgui_only_ready",
+   "en": "Press [§b%1$s§f]"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.night",
+   "en": "Night"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.options",
+   "en": "Options"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.options_button",
+   "en": "Options..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.ready",
+   "en": "§e%1$s ready."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.save_map",
+   "en": "Save Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_buttons",
+   "en": "Show Buttons"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_region",
+   "en": "Show Regions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_about",
+   "en": "About..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_action",
+   "en": "Click to view"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_developer",
+   "en": "Developer"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_friend",
+   "en": "Friend"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_icons",
+   "en": "Icons"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_patreon",
+   "en": "Patron"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_tester",
+   "en": "Tester"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_title",
+   "en": "About JourneyMap %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_walloffame",
+   "en": "Wall of Fame"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.splash_whatisnew",
+   "en": "What's New?"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.ui_theme_author",
+   "en": "Author: §b%1$s§f"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.ui_theme_name",
+   "en": "Name: §b%1$s§f"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.update_available",
+   "en": "Update Available!"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.update_check",
+   "en": "Check for Update"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.use_browser",
+   "en": "Use Browser"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.follow",
+   "en": "Follow"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.hotkeys_doubleclick",
+   "en": "(Double-click)"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.hotkeys_waypoint",
+   "en": "Create/Edit Waypoint"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.map_cave_layers",
+   "en": "Cave Layers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.map_caves",
+   "en": "Caves"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.map_day",
+   "en": "Day"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.map_night",
+   "en": "Night"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.map_topo",
+   "en": "Topography"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.minimap",
+   "en": "Minimap..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.search",
+   "en": "Open location finder"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.search_execute",
+   "en": "Pan to location"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.zoom_in",
+   "en": "Zoom In"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.zoom_out",
+   "en": "Zoom Out"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.hotkeys_title",
+   "en": "Minimap Hot Keys"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.hotkeys_toggle",
+   "en": "Toggle Minimap"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.options",
+   "en": "MiniMap Options"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position_bottomleft",
+   "en": "Bottom Left"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position_bottomright",
+   "en": "Bottom Right"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position_center",
+   "en": "Center"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position_topcenter",
+   "en": "Top Center"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position_topleft",
+   "en": "Top Left"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position_topright",
+   "en": "Top Right"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.return_to_game",
+   "en": "Return to Game"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.shape_circle",
+   "en": "Circle"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.shape_rectangle",
+   "en": "Rectangle"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.shape_square",
+   "en": "Square"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.blue_abbreviated",
+   "en": "B"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.color",
+   "en": "Color"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.current_location",
+   "en": "Current Location: %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.deathpoint",
+   "en": "Death"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.dimension",
+   "en": "Dimension: %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.dimension_all",
+   "en": "All"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.dimensions",
+   "en": "Dimensions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.distance",
+   "en": "Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.distance_meters",
+   "en": "(%1$sm)"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.edit",
+   "en": "Edit"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.edit_title",
+   "en": "Edit Waypoint"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.enable",
+   "en": "Enabled: %1$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.enable_all",
+   "en": "All %1$s: %2$s"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.find",
+   "en": "Find"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.green_abbreviated",
+   "en": "G"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.help_import_voxel_title",
+   "en": "Import VoxelMap Waypoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.help_title",
+   "en": "Waypoint Help"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.location",
+   "en": "Location"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.manage_title",
+   "en": "Manage Waypoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.manager",
+   "en": "Waypoint Manager"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.new",
+   "en": "New..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.new_title",
+   "en": "New Waypoint"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.randomize",
+   "en": "Random Color"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.red_abbreviated",
+   "en": "R"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.reset",
+   "en": "Reset"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.save",
+   "en": "Save"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.teleport",
+   "en": "Teleport"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.waypoints",
+   "en": "Waypoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.waypoints_button",
+   "en": "Waypoints..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.x",
+   "en": "X"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.y",
+   "en": "Y"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.z",
+   "en": "Z"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.actions_title",
+   "en": "Actions"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.animals_menu_item_text",
+   "en": "Animals"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.animals_menu_item_title",
+   "en": "Show nearby animals"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.automap_complete",
+   "en": "Auto-mapping has stopped."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.automap_dialog_all",
+   "en": "All"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.automap_dialog_missing",
+   "en": "Missing"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.automap_text",
+   "en": "Auto-Map..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.biome_text",
+   "en": "Biome:"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.caves_menu_item_text",
+   "en": "Caves"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.day_button_text",
+   "en": "Day"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.donate_text",
+   "en": "Donate to JourneyMap"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.elevation_text",
+   "en": "Elevation:"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.email_sub_text",
+   "en": "JourneyMap news Email"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.forum_link_text",
+   "en": "minecraftforum.net"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.grid_menu_item_text",
+   "en": "Grid"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.grid_menu_item_title",
+   "en": "Show chunk grid"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.location_text",
+   "en": "Location:"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.mobs_menu_item_text",
+   "en": "Mobs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.mobs_menu_item_title",
+   "en": "Show nearby mobs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.night_button_text",
+   "en": "Night"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.pets_menu_item_text",
+   "en": "Pets"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.pets_menu_item_title",
+   "en": "Show nearby pets"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.rss_feed_text",
+   "en": "JourneyMap news RSS"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.save_button_text",
+   "en": "Save Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.show_menu_text",
+   "en": "Show..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.slice_text",
+   "en": "Vertical Chunk:"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.topo_button_text",
+   "en": "Top"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.villagers_menu_item_text",
+   "en": "Villagers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.villagers_menu_item_title",
+   "en": "Show nearby villagers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.waypoints_menu_item_text",
+   "en": "Waypoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.waypoints_menu_item_title",
+   "en": "Show waypoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.web_link_text",
+   "en": "journeymap.info"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.web_link_title",
+   "en": "JourneyMap homepage"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.worldname_text",
+   "en": "World Name:"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.worldtime_text",
+   "en": "World Time:"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.zoom_slider_name",
+   "en": "Zoom"
+  },
+  {
+   "namespace": "lightningcraft",
+   "key": "lightningcraft.infusion_recipe_category",
+   "en": "Lightning Infusion"
+  },
+  {
+   "namespace": "modulardiversity",
+   "key": "craftcheck.biome",
+   "en": "Wrong biome."
+  },
+  {
+   "namespace": "modulardiversity",
+   "key": "craftcheck.dimension",
+   "en": "Wrong dimension."
+  },
+  {
+   "namespace": "modulardiversity",
+   "key": "craftcheck.mineral",
+   "en": "No mineral."
+  },
+  {
+   "namespace": "modulardiversity",
+   "key": "craftcheck.reservoir",
+   "en": "No reservoir."
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.box",
+   "en": "Dimensions: (%d,%d,%d):(%d,%d,%d)"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.cant_restore_inventory",
+   "en": "Can't restore inventory"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.color",
+   "en": "Color: %06X"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.depth",
+   "en": "Depth: %d"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.get_witched",
+   "en": "Get witched!"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.grave_msg",
+   "en": "%s (day: %.1f)"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.height",
+   "en": "Height: %d"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.invalid_index",
+   "en": "Invalid index"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.inverted",
+   "en": "Inverted"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.locked",
+   "en": "Locked"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.locked_on_structure",
+   "en": "Locked on %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.mode",
+   "en": "Placement mode: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.pedometer.avg_speed",
+   "en": "Average speed: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.pedometer.speed",
+   "en": "Speed: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.pedometer.start_point",
+   "en": "Start point: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.pedometer.total_distance",
+   "en": "Total distance: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.pedometer.tracking_reset",
+   "en": "Tracking reset"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.pedometer.tracking_started",
+   "en": "Tracking started"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.cant_connect",
+   "en": "Can't connect"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.invalid_stream",
+   "en": "Invalid stream"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.invalid_url",
+   "en": "Invalid URL"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.muted",
+   "en": "Sounds are muted!"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.unknown_error",
+   "en": "Unknown error"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.unknown_stream_type",
+   "en": "Unknown stream type"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.radio.url_not_found",
+   "en": "URL not found"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.shape",
+   "en": "Shape: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.url",
+   "en": "URL: %s"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.uses",
+   "en": "Uses: %.2f"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.width",
+   "en": "Width: %d"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.divining.maxemc",
+   "en": "Max EMC: %s"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.emc.has_knowledge",
+   "en": "Transmutable"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.emc.rate",
+   "en": "EMC/s"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.emc.too_much",
+   "en": "WAY TOO MUCH"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.evertide.pedestal1",
+   "en": "Create rain/snow storms"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.gem.enabled",
+   "en": "ENABLED"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.gemdensity.mode_switch",
+   "en": "Set target to"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.manual.index",
+   "en": "Index"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.manual.index_button",
+   "en": "ToC"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.pedestal.on_pedestal",
+   "en": "On Pedestal:"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.pedestal.shortname",
+   "en": "DM Pedestal"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.timewatch.ff",
+   "en": "Fast-Forward"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.timewatch.rw",
+   "en": "Rewind"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.volcanite.pedestal1",
+   "en": "Prevents rain/snow storms"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.buried_chest_map",
+   "en": "Buried Treasure Map"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.incrementNote",
+   "en": "Increment Note"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.keyboundButton",
+   "en": "%sPress %s"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.matrixInfluence",
+   "en": "Candle Influence: +%d%%"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.matrixMerge",
+   "en": "Click to Upgrade"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.matrixMin",
+   "en": "Min: %d"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.matrixUpgrade",
+   "en": "Upgrade: %d/%d"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.nappingListHeader",
+   "en": "Napping Players: %s"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.pendingEnchants",
+   "en": "Has Pending Enchantments"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.rightClickAdd",
+   "en": "Right-click to Add"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.signClear",
+   "en": "Clear"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.signShift",
+   "en": "Shift"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.sleepingListHeader",
+   "en": "Sleeping Players: %s"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.trashButtonOpen",
+   "en": "Click to Delete"
+  },
+  {
+   "namespace": "quark",
+   "key": "quarkmisc.you_came_to_the_wrong_neighborhood.8",
+   "en": "'ame, 'ame, 'ame"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.directory",
+   "en": "Save Location"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.randomrange",
+   "en": "Randomized between the two values."
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.variables.condition",
+   "en": "Condition"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.quiver.picked_up_arrow",
+   "en": "Retrieved arrows."
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.runic_shears.right_click",
+   "en": "Right-Click"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.runic_shears.sneak_right_click",
+   "en": "Sneak-Right-Click"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.augmented",
+   "en": "Augmented%s (%d/%d)"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.biome_reset",
+   "en": "Primeval"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.bound_to",
+   "en": "Bound to: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.bound_to_pos",
+   "en": "Bound position: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.bound_to_type",
+   "en": "Bound block: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.creative_only",
+   "en": "Creative Only"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.drawing_disabled",
+   "en": "Vortex Ability Disabled"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.effect_provider_any",
+   "en": "Any Effect Crystal"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.eldritch_lock_type",
+   "en": "Key: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.elemental_aspect",
+   "en": "Aspect: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.energy_medium",
+   "en": "Medium"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.energy_minimal",
+   "en": "Minimal"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.energy_strong",
+   "en": "Strong"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.energy_very_weak",
+   "en": "Very Weak"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.energy_weak",
+   "en": "Weak"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.flux_seed_amount",
+   "en": "Flux: %d"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.impetus",
+   "en": "Impetus"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.infusion_stabilizer",
+   "en": "Infusion Stabilizer"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.key_bound",
+   "en": "Key bound"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.key_unbound",
+   "en": "Key unbound"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.rift_seed_grown",
+   "en": "Grown"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.rift_seed_size",
+   "en": "Size: %d"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.selected_biome",
+   "en": "Biome: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.stored_energy",
+   "en": "Impetus Level: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.stored_seal",
+   "en": "Seal: %s"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.strength_provider_any",
+   "en": "Any Modifier"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.terraformer_circle",
+   "en": "Circle"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.terraformer_circle_mode",
+   "en": "Shape"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.terraformer_radius",
+   "en": "Radius"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.text.terraformer_square",
+   "en": "Square"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.param.jam.noplayer",
+   "en": "No such Player"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.param.private.ispublic",
+   "en": "%d is public"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.param.private.notprivate",
+   "en": "%d isn't private"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.param.scan.usage3",
+   "en": "Eg. freq scan"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.param.set.invalidnum",
+   "en": "Invalid Number"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.param.set.invalidqty",
+   "en": "Invalid Quantity"
+  }
+ ]
+}

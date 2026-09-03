@@ -1,0 +1,25 @@
+{
+  "name": "Flour",
+  "icon": "roots:flour",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "mortar_template",
+      "recipe": "roots:wheat_flour_5",
+      "text": "Mặc dù các loại rau củ giàu tinh bột khác cũng cho Flour, đây là cách đơn giản để tăng sản lượng thu được từ cây trồng.$(br2)$(info) Bạn có thể xem danh sách nguồn đầy đủ $(sources:roots:flour)trong JEI$()."
+    },
+    {
+      "type": "smelting",
+      "recipe": "roots:flour",
+      "text": "Sau khi được chế biến thành Flour, nó có thể được nung thành Bread."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/mortar_and_pestle"
+      ]
+    }
+  ]
+}

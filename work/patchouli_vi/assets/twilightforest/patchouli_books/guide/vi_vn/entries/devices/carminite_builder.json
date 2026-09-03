@@ -1,0 +1,15 @@
+{
+  "name": "Carminite Builder",
+  "icon": "twilightforest:tower_device:6",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6230,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Carminite Builder",
+      "item": "twilightforest:tower_device:6",
+      "text": "Thiết bị kỳ lạ này sẽ tạo ra các khối trong suốt màu đỏ khi nhận được tín hiệu Redstone. Sau khi kích hoạt, Carminite Builder sẽ tạo một lối đi và xây theo hướng tôi đang nhìn. Lối đi này chỉ tồn tại tạm thời và cần một tín hiệu Redstone khác để kích hoạt lại."
+    }
+  ]
+}

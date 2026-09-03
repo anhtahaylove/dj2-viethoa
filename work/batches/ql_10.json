@@ -1,0 +1,713 @@
+{
+  "chapter_index": 10,
+  "title_key": "dj2.quest.ql.10.title",
+  "chapter_title_en": "13. Peak Machinery",
+  "desc_key": "dj2.quest.ql.10.desc",
+  "chapter_desc_en": "Unlock Mekanism's multiblocks, Ender Utilities, AND ME Autocrafting in this packed Chapter.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.10.title",
+      "en": "13. Peak Machinery"
+    },
+    {
+      "key": "dj2.quest.ql.10.desc",
+      "en": "Unlock Mekanism's multiblocks, Ender Utilities, AND ME Autocrafting in this packed Chapter."
+    },
+    {
+      "key": "dj2.quest.db.2.title",
+      "en": "Not framed: filtered"
+    },
+    {
+      "key": "dj2.quest.db.2.desc",
+      "en": "Craft a Filter Upgrade!%n%nThese can be used in an Electric Pump to produce Heavy Water which is used in the creation of Deuterium, an ingredient for D-T Fuel!"
+    },
+    {
+      "key": "dj2.quest.db.58.title",
+      "en": "Drill to the Drill"
+    },
+    {
+      "key": "dj2.quest.db.58.desc",
+      "en": "The Infinity Drill uses 10,000 RF or 3mb of Biofuel per block broken. At first, it can only mine a 1x1x1 area, but as the drill stores more and more power, it levels up and can mine increasingly large amounts of terrain. Shift+Right Click to cycle through the sizes."
+    },
+    {
+      "key": "dj2.quest.db.66.title",
+      "en": "WiFi matter transmission"
+    },
+    {
+      "key": "dj2.quest.db.66.desc",
+      "en": "Craft a Wireless Terminal! While in range of your Wireless Access Point, you'll be able to wirelessly open your ME Network, and take out items you wish! You can also request autocrafting by middle clicking on an item.%n%nOh, you'd like a Wireless CRAFTING Terminal? Well, you'll have to wait... Some things don't come cheap."
+    },
+    {
+      "key": "dj2.quest.db.312.title",
+      "en": "Seeing is power!"
+    },
+    {
+      "key": "dj2.quest.db.312.desc",
+      "en": "Craft a Network Visualization Tool! You'll need an activated Ender Core (Enhanced), for which you'll need to Right Click an End Crystal anywhere.%n%nThis Tool allows you to visualize your AE2 Network channels and connections by simply Right Clicking with it anywhere on your Network. It's especially helpful for visualizing where each P2P tunnel leads. For a pack that requires heavy automation through AE2, it's a very-very handy tool."
+    },
+    {
+      "key": "dj2.quest.db.499.title",
+      "en": "Wield 'n Build"
+    },
+    {
+      "key": "dj2.quest.db.499.desc",
+      "en": "Craft an Unbreakable Wand! This is the perfect tool to encase your infrastructure that you have built up so far, or even build a house (or a castle?) to live in. The Wand also works with blocks in a /dank/null which has some useful applications when building. It has a really large build range, but make sure not to misclick with it... Or you might need to do more cleanup work than if you HADN'T used the wand at all...(You can use /wandOops to fix your error)"
+    },
+    {
+      "key": "dj2.quest.db.810.title",
+      "en": "As seen on GTNH"
+    },
+    {
+      "key": "dj2.quest.db.810.desc",
+      "en": "The Pattern Expansion Card is a new item from AE2: Trousers, and it increases the capacity for patterns in your ME Interfaces by 9 each! Up to 3 can be placed in a single ME Interface, for a total of 36 patterns.%n%nThis feature was originally introduced for GTNH."
+    },
+    {
+      "key": "dj2.quest.db.811.title",
+      "en": "The Brain Behind"
+    },
+    {
+      "key": "dj2.quest.db.811.desc",
+      "en": "The Crafting CPU is a multiblock made up of at least one Crafting Storage (of any size), and is a full cuboid shape that can contain Crafting Storages, Crafting Monitors, and Crafting Co-Processing Units. The Cuboid cannot be hollow."
+    },
+    {
+      "key": "dj2.quest.db.812.title",
+      "en": "Big §mBiological§r Brain"
+    },
+    {
+      "key": "dj2.quest.db.812.desc",
+      "en": "Just like the prior Crafting Storages, these Crafting Storages from Extra CPUs increase the total amount of bytes the multiblock can handle."
+    },
+    {
+      "key": "dj2.quest.db.1315.title",
+      "en": "An Extension!"
+    },
+    {
+      "key": "dj2.quest.db.1315.desc",
+      "en": "Some processing recipes require more than 9 input items. This Terminal helps with that! It can only be used to encode processing recipes, but allows for 16 input items instead of just 9."
+    },
+    {
+      "key": "dj2.quest.db.1390.title",
+      "en": "It's out of this world!"
+    },
+    {
+      "key": "dj2.quest.db.1390.desc",
+      "en": "Go universal and craft some Cosmic Alloy!"
+    },
+    {
+      "key": "dj2.quest.db.1391.title",
+      "en": "Coated with pearls"
+    },
+    {
+      "key": "dj2.quest.db.1391.desc",
+      "en": "Soul Vial but even better.%nMake an Ender Lasso."
+    },
+    {
+      "key": "dj2.quest.db.1392.title",
+      "en": "Wait that's a wildfire - run!"
+    },
+    {
+      "key": "dj2.quest.db.1392.desc",
+      "en": "Activate an Advanced Ender Core by Right Clicking on an End Crystal anywhere."
+    },
+    {
+      "key": "dj2.quest.db.1393.title",
+      "en": "Preparing for the winter"
+    },
+    {
+      "key": "dj2.quest.db.1393.desc",
+      "en": "Craft the Resistive Heater to turn energy into heat! This machine is required to provide heat for the Thermoelectric Boiler multiblock."
+    },
+    {
+      "key": "dj2.quest.db.1394.title",
+      "en": "TEPid Brine!"
+    },
+    {
+      "key": "dj2.quest.db.1394.desc",
+      "en": "Make the Thermal Evaporation Plant multiblock to get some Brine!%n%nTo make the multiblock, build a 4x3x4 (xyz) hollow and roofless cuboid out of the Thermal Evaporation Blocks - leave the middle and top 3 blocks empty so you form a bucket shape. This is the minimum size of the multiblock but it can be as tall as 18 blocks!%n%nThe Thermal Evaporation Valve can be placed on any side of the multiblock and the Thermal Evaporation Controller can be placed on any side of the multiblock, except in a corner.%n%nFluid can only be pumped in and out of a valve, and heat can only be transferred into the multiblock through a valve. The valve may replace any Thermal Evaporation Block.%n%nThe base temperature inside the multiblock depends on the biome you're in, so if you're in a snow biome, your productivity will be lower than if you were in a desert."
+    },
+    {
+      "key": "dj2.quest.db.1395.title",
+      "en": "Even more generators!"
+    },
+    {
+      "key": "dj2.quest.db.1395.desc",
+      "en": "Craft even more generators!%n%nYou also need to be careful with some of these.%nThe Explosive Generator will, you guessed it, explode continuously while active, causing massive damage to anyone nearby. These explosions will not destroy the surrounding blocks.%n%nThe Halitosis Generator is also a nasty piece of work. It will spawn Endermites randomly while active, so watch out for those!"
+    },
+    {
+      "key": "dj2.quest.db.1396.title",
+      "en": "Red Rice Red Rice"
+    },
+    {
+      "key": "dj2.quest.db.1396.desc",
+      "en": "Craft 4 Steaming Restonia Crystals in the Pressurized Reaction Chamber. You'll get Steam from your Thermoelectric Boiler multiblock and DT-Fuel by combining Deuterium and Tritium. Don't forget: You can obtain Deuterium by using an Electric Pump on Water with a Filter Upgrade, and Tritium from Lithium using a Solar Neutron Activator. Be aware that Steam is considered as a liquid, while DT-Fuel as a gas.%nI would recommend automating each step of this process as best as you can."
+    },
+    {
+      "key": "dj2.quest.db.1397.title",
+      "en": "The Scientific ______"
+    },
+    {
+      "key": "dj2.quest.db.1397.desc",
+      "en": "Mesh your Iridium with your Osmium to make Osmiridium, and then trial and error it into a Methodology Processor."
+    },
+    {
+      "key": "dj2.quest.db.1398.title",
+      "en": "Drill it into your brain!"
+    },
+    {
+      "key": "dj2.quest.db.1398.desc",
+      "en": "Craft a White Laser Lens for your Laser Drill and start drilling for some Iridium!"
+    },
+    {
+      "key": "dj2.quest.db.1399.title",
+      "en": "No dirt allowed!"
+    },
+    {
+      "key": "dj2.quest.db.1399.desc",
+      "en": "Craft a Chemical Dissolution Chamber and a Chemical Washer to make slurries of your ores and get rid of all their impurities!%n%nThis will allow you to get 5 times the ingots from an ore!"
+    },
+    {
+      "key": "dj2.quest.db.1400.title",
+      "en": "Hope you aren't ticklish"
+    },
+    {
+      "key": "dj2.quest.db.1400.desc",
+      "en": "A Handy Bag can store items based on its card size in each of its 27 slots. It replaces the normal inventory GUI with additional rows of slots. Because of this, some features in this new inventory, such as FTB Utilities, are not visible. Press Shift+E to open your normal inventory.%nRequires a memory card to function.%nCan hold 4 memory cards."
+    },
+    {
+      "key": "dj2.quest.db.1401.title",
+      "en": "Items items everywhere"
+    },
+    {
+      "key": "dj2.quest.db.1401.desc",
+      "en": "Ender Pouches can be used to transmit items across dimensions and any amount of distance.%nSync them by using the same dyes on them, and make them private with a Diamond.%nEnder Pouches use the same system as Ender Chests, and when Shift+Right Clicking on one, you can copy its Dye settings."
+    },
+    {
+      "key": "dj2.quest.db.1403.title",
+      "en": "Drill, baby, drill!"
+    },
+    {
+      "key": "dj2.quest.db.1403.desc",
+      "en": "Craft a Laser Base and 4 Laser Drills and start drilling for some valuable ores!%n%nPlace the Laser Base anywhere, it does NOT have to \"see\" bedrock. Place the 4 Laser Drills 1 block away on each side of the Laser Base with the back towards the Laser Base.%n%nLaser Lenses can be used to increase or decrease the chances of getting specific ores!%n%n\"Depth\" refers not to the y-level, but to the absolute depth, and should be between the values displayed in JEI."
+    },
+    {
+      "key": "dj2.quest.db.1404.title",
+      "en": "Almost Google!"
+    },
+    {
+      "key": "dj2.quest.db.1404.desc",
+      "en": "The Interface Terminal allows you to see the inventories of all of your ME Interfaces in one UI.%n%nIt has been modified by AE2: Trousers to have some additional features:%nYou can now search the names of Interfaces, and can search the inputs or outputs of patterns within those interfaces.%nYou can also filter Interfaces based on their status - full/not full, and Crafting/All.%nAdditionally, a button on the left side will help you locate any Interface via a glowing effect around the block.%n%nThe Interface Terminal also has a sibling in the Interface Configuration Terminal - the only difference is, instead of searching the pattern slots, it searches the config slots."
+    },
+    {
+      "key": "dj2.quest.db.1405.title",
+      "en": "FINALLY! AUTOMATION!!!"
+    },
+    {
+      "key": "dj2.quest.db.1405.desc",
+      "en": "The ME Interface allows for automating patterns, which can be used in conjunction with Molecular Assemblers or any other way of processing items, such as smelting."
+    },
+    {
+      "key": "dj2.quest.db.1406.title",
+      "en": "Fluids. All the Fluids."
+    },
+    {
+      "key": "dj2.quest.db.1406.desc",
+      "en": "The fluid interface allows multiple fluid imports and exports into the system."
+    },
+    {
+      "key": "dj2.quest.db.1407.title",
+      "en": "Drawn with crayon"
+    },
+    {
+      "key": "dj2.quest.db.1407.desc",
+      "en": "Blank Patterns can be converted into Patterns for a specific process (crafting or otherwise) through the Pattern Terminal. Placing them in an ME Interface will allow your system to do this process on demand."
+    },
+    {
+      "key": "dj2.quest.db.1408.title",
+      "en": "And now: Factorio"
+    },
+    {
+      "key": "dj2.quest.db.1408.desc",
+      "en": "Most Mekanism machines have multiple tiers. Higher tiers are called factories, and have a greater number of slots for it to process.%nTier 1 has 1 slot%nTier 2 has 3 slots%nTier 3 has 5 slots%nTier 4 has 7 slots%n%n§6Note:§r Before upgrading a machine to a Factory, take out all the Upgrades, as they aren't preserved."
+    },
+    {
+      "key": "dj2.quest.db.1409.title",
+      "en": "Over here, over there"
+    },
+    {
+      "key": "dj2.quest.db.1409.desc",
+      "en": "Ender Chests can be used to transmit items across dimensions and any amount of space.%nSync them by using the same dyes on them, and make them private with a diamond."
+    },
+    {
+      "key": "dj2.quest.db.1410.title",
+      "en": "Boil your troubles away"
+    },
+    {
+      "key": "dj2.quest.db.1410.desc",
+      "en": "Get ready to build the Thermoelectric Boiler multiblock and generate steam using one of the Heaters. %n%nYou can either follow the description down below or watch this video tutorial on how to build it. The build tutorial starts at 1:25 and ends at 3:00: https://youtu.be/WgLGOA9UztI?t=85%n%nDescription will be of the smallest possible Thermoelectric Boiler multiblock, a 3x3x4.%n%nMake a 3x3 base/platform of the Boiler Casings.%nPlace a Superheating Element on the middle block (when making a larger boiler, you can add more Superheating Elements to the layer, as long as they are touching each other side to side).%nPlace Boiler Casings around the Superheating Element. You can use Structural Glass instead of Boiler Casings anywhere but the corner/edge blocks.%nPlace a Pressure Disperser under the \"roof\" of the boiler, in this case it's on top of the Superheating Element, and surround it the same way as the Superheating Element, with either Boiler Casings or Structural Glass.%nAdd a final layer of Boiler Casings on top, making the multiblock 4 blocks tall, and replace 2 Boiler Casings with Boiler Valves, 1 touching the Superheating Element and 1 touching the Pressure Disperser. A flash of redstone particles surrounding the boiler multiblock will indicate that it has formed correctly and you can now access its UI by Right Clicking anywhere on the multiblock.%nPump water into the valve touching the Superheating Element to fill up the boiler with water.%nUse either a Fuelwood Heater or a Resistive Heater to add heat to the boiler. The heat cables can be attached anywhere on the boiler except on glass.%nWait for it to reach at least 100 °C and steam will be produced. The steam can be extracted through the valve touching the Pressure Disperser."
+    },
+    {
+      "key": "dj2.quest.db.1411.title",
+      "en": "FUSION HAAAA!"
+    },
+    {
+      "key": "dj2.quest.db.1411.desc",
+      "en": "Craft the Chemical Infuser and infuse away!"
+    },
+    {
+      "key": "dj2.quest.db.1412.title",
+      "en": "Campfire"
+    },
+    {
+      "key": "dj2.quest.db.1412.desc",
+      "en": "Right Clicking on an End Crystal anywhere will convert an Inactive Ender Core into an Active Ender Core.%nThere are 3 different tiers of Ender Core. Craft an Advanced."
+    },
+    {
+      "key": "dj2.quest.db.1413.title",
+      "en": "Mob Imprisonment Tool"
+    },
+    {
+      "key": "dj2.quest.db.1413.desc",
+      "en": "Right Click on a mob to pick it up.%nRequires a Memory Card Module."
+    },
+    {
+      "key": "dj2.quest.db.1414.title",
+      "en": "All the Range"
+    },
+    {
+      "key": "dj2.quest.db.1414.desc",
+      "en": "Kids these days, always going \"but I need better connectivity\" and \"I need to use my Wireless Terminal outside the house\" - back in my day, we used a payphone and were SATISFIED!%nHmph.%n%nIncreases the range multiplicatively."
+    },
+    {
+      "key": "dj2.quest.db.1415.title",
+      "en": "All Pearls"
+    },
+    {
+      "key": "dj2.quest.db.1415.desc",
+      "en": "Expensive edition."
+    },
+    {
+      "key": "dj2.quest.db.1416.title",
+      "en": "Goodbye spacetime!"
+    },
+    {
+      "key": "dj2.quest.db.1416.desc",
+      "en": "Contains 9 slots of near-infinite storage. Middle click to keep that slot that item."
+    },
+    {
+      "key": "dj2.quest.db.1417.title",
+      "en": "Synonym1, uh oh code broke"
+    },
+    {
+      "key": "dj2.quest.db.1417.desc",
+      "en": "Alloy up a few Ender Alloy (Advanced)."
+    },
+    {
+      "key": "dj2.quest.db.1418.title",
+      "en": "In-and-Out World"
+    },
+    {
+      "key": "dj2.quest.db.1418.desc",
+      "en": "Using the Spatial IO Port, you can \"capture\" and \"deploy\" areas of the world. The area you capture is limited by the size of your Spatial Storage Cell, and defined by a cuboid structure around the area you want and made up of Spatial Pylons.%nNote: Both the Spatial IO Port and Spatial Pylons must be in the same network."
+    },
+    {
+      "key": "dj2.quest.db.1419.title",
+      "en": "Torch"
+    },
+    {
+      "key": "dj2.quest.db.1419.desc",
+      "en": "Right Clicking on an End Crystal anywhere will convert an Inactive Ender Core into an Active Ender Core.%nThere are 3 different tiers of Ender Core. Craft an Enhanced."
+    },
+    {
+      "key": "dj2.quest.db.1420.title",
+      "en": "Generations of generators"
+    },
+    {
+      "key": "dj2.quest.db.1420.desc",
+      "en": "Craft some generators!%n%nBe careful though, the Netherstar Generator will give you the Wither II debuff if you're nearby while it's running and the Death Generator will give you a 1 minute debuff that will KILL you when it runs out!"
+    },
+    {
+      "key": "dj2.quest.db.1421.title",
+      "en": "Time to use your brine!"
+    },
+    {
+      "key": "dj2.quest.db.1421.desc",
+      "en": "Craft 4 Lithium Dust!%n%nThis can be done by putting brine in the Thermal Evaporation Plant instead of water.%n%nThe result of this is Liquid Lithium which you will then have to decondensentrate with the Rotary Condensentrator to make it a gas.%n%nYou then need to run the Lithium gas through a Chemical Crystallizer to get Lithium Dust."
+    },
+    {
+      "key": "dj2.quest.db.1422.title",
+      "en": "Careful with the spikes!"
+    },
+    {
+      "key": "dj2.quest.db.1422.desc",
+      "en": "Craft the Ender Porcupine and access your blocks and items wirelessly!%n%nActs similarly to AA's Phantomfaces and consumes 1 GP per block away from the block being wirelessly accessed."
+    },
+    {
+      "key": "dj2.quest.db.1423.title",
+      "en": "Extravagant, Enhanced"
+    },
+    {
+      "key": "dj2.quest.db.1423.desc",
+      "en": "Alloy up a few Ender Alloy (Enhanced)."
+    },
+    {
+      "key": "dj2.quest.db.1424.title",
+      "en": "Candle"
+    },
+    {
+      "key": "dj2.quest.db.1424.desc",
+      "en": "Right Clicking on an End Crystal anywhere will convert an Inactive Ender Core into an Active Ender Core.%nThere are 3 different tiers of Ender Core. Craft a Basic."
+    },
+    {
+      "key": "dj2.quest.db.1425.title",
+      "en": "A few bytes"
+    },
+    {
+      "key": "dj2.quest.db.1425.desc",
+      "en": "Memory Card (items) 6 B allows inventory slots to hold 64 items."
+    },
+    {
+      "key": "dj2.quest.db.1426.title",
+      "en": "Wireless Systems"
+    },
+    {
+      "key": "dj2.quest.db.1426.desc",
+      "en": "Will allow a Wireless Terminal that is linked to your ME network through a Security Terminal to access the network. Provides a default range of 16."
+    },
+    {
+      "key": "dj2.quest.db.1427.title",
+      "en": "Your passport past Mine"
+    },
+    {
+      "key": "dj2.quest.db.1427.desc",
+      "en": "The Crafting Card can be placed in Export Buses to allow it to request items to be crafted from your system. It can also be used in Interfaces for much the same purpose, and can also be used in Level Emitters to detect when an item is being crafted."
+    },
+    {
+      "key": "dj2.quest.db.1428.title",
+      "en": "Boring, Bland, Basic"
+    },
+    {
+      "key": "dj2.quest.db.1428.desc",
+      "en": "Alloy up a few Ender Alloy (Basic)."
+    },
+    {
+      "key": "dj2.quest.db.1429.title",
+      "en": "Applied Autocrafting"
+    },
+    {
+      "key": "dj2.quest.db.1429.desc",
+      "en": "The Molecular Assembler can autocraft recipes for your AE2 system if adjacent to an ME Interface with a pattern inside of it."
+    },
+    {
+      "key": "dj2.quest.db.1430.title",
+      "en": "Pearly Power"
+    },
+    {
+      "key": "dj2.quest.db.1430.desc",
+      "en": "One of the few ways to charge your Ender Capacitors, the Ender Infuser consumes Ender Pearls to give 1000 charge and Eyes of Ender to give 2000 charge."
+    },
+    {
+      "key": "dj2.quest.db.1431.title",
+      "en": "Powered Purple"
+    },
+    {
+      "key": "dj2.quest.db.1431.desc",
+      "en": "Able to hold a maximum charge of 10,000, the Ender Capacitor (Basic) is your first step into Ender Utilities Power."
+    },
+    {
+      "key": "dj2.quest.db.1432.title",
+      "en": "Don't be dumb, make a drum"
+    },
+    {
+      "key": "dj2.quest.db.1432.desc",
+      "en": "Craft a Demonically Gargantuan Drum. It stores 65,536 buckets of fluid."
+    },
+    {
+      "key": "dj2.quest.db.1433.title",
+      "en": "Wand of WALL OF TEXT"
+    },
+    {
+      "key": "dj2.quest.db.1433.desc",
+      "en": "Make a Wand of the Lazy Builder. And then have a brain aneurysm trying to read and comprehend what it can do.%n%nSorry about that."
+    },
+    {
+      "key": "dj2.quest.db.1434.title",
+      "en": "ALL the generators!!"
+    },
+    {
+      "key": "dj2.quest.db.1434.desc",
+      "en": "Craft the last generators from Extra Utilities 2!%n%nThe only effect among these generators is the Frosty Generator putting snow onto the ground."
+    },
+    {
+      "key": "dj2.quest.db.1435.title",
+      "en": "Pot of gold, please"
+    },
+    {
+      "key": "dj2.quest.db.1435.desc",
+      "en": "Craft a Rainbow Block using the Resonator while the Rainbow Generator is running."
+    },
+    {
+      "key": "dj2.quest.db.1436.title",
+      "en": "Taste the Rainbow"
+    },
+    {
+      "key": "dj2.quest.db.1436.desc",
+      "en": "Craft the Rainbow Generator!%n%nThe Generator will produce 25 million RF/t if you have all the other 16 generators running at the same time! This will only work if the same player places all the 16 different generators. You can run the 16 generators every 11 ticks by using a timer to keep the Rainbow Generator running without any loss of uptime.%n%nYou will also need the Rainbow Generator running to be able to craft Rainbow Blocks."
+    },
+    {
+      "key": "dj2.quest.db.1438.title",
+      "en": "Fluid there, fluid here"
+    },
+    {
+      "key": "dj2.quest.db.1438.desc",
+      "en": "Ender Fluid tanks can be used to transmit fluids across dimensions and any amount of space.%nSync them by using the same dyes on them, and make them private with a diamond."
+    },
+    {
+      "key": "dj2.quest.db.1439.title",
+      "en": "Constructing more pylons"
+    },
+    {
+      "key": "dj2.quest.db.1439.desc",
+      "en": "Used in conjunction with the Spatial IO Port to \"capture\" and \"deploy\" areas of the world. Place the Spatial Pylons as the rim of a cuboid structure, surrounding the area you want to capture.%nThis means a 3x3x3 structure will capture the one block inside it.%nIf assembled properly, the Spatial Pylons will glow purple."
+    },
+    {
+      "key": "dj2.quest.db.1440.title",
+      "en": "Crayon holder"
+    },
+    {
+      "key": "dj2.quest.db.1440.desc",
+      "en": "In this you can convert Blank Patterns into Patterns for a specific item. Click the button below the scroll bar to toggle the pattern mode between Crafting and Processing. Processing is for any pattern that requires interaction outside the ME system. %n%nThis item has been modified by AE2: Trousers, to have some additional features.%nThere are 6 new buttons next to the output slots of Processing patterns, which can quickly modify the inputs/outputs of the Processing pattern.%nAdditionally, you can click and drag an item from JEI into the grid.%n%nTip: Processing patterns can also serve as a way to export specific amounts of items in bulk for the player to interact with manually."
+    },
+    {
+      "key": "dj2.quest.db.1441.title",
+      "en": "Say \"NO\" to teleportation"
+    },
+    {
+      "key": "dj2.quest.db.1441.desc",
+      "en": "The Ender Inhibitor prevents Endermen or other similar entities from teleporting while within its radius - a must-have for a mob farm."
+    },
+    {
+      "key": "dj2.quest.db.1442.title",
+      "en": "Watch your baby work"
+    },
+    {
+      "key": "dj2.quest.db.1442.desc",
+      "en": "The Crafting Monitor will allow you to track the progress of the top level item the multiblock is crafting."
+    },
+    {
+      "key": "dj2.quest.db.1443.title",
+      "en": "2^3 Spatial Component"
+    },
+    {
+      "key": "dj2.quest.db.1443.desc",
+      "en": "Stores up to a 2x2x2 area as a cell."
+    },
+    {
+      "key": "dj2.quest.db.1444.title",
+      "en": "Crafting Unit"
+    },
+    {
+      "key": "dj2.quest.db.1444.desc",
+      "en": "The Crafting Co-Processing Units increase the number of simultaneous crafting/processing orders inside the ongoing recipe your multiblock can do."
+    },
+    {
+      "key": "dj2.quest.db.1445.title",
+      "en": "128^3 Spatial Component"
+    },
+    {
+      "key": "dj2.quest.db.1445.desc",
+      "en": "Stores up to a 128x128x128 area as a cell."
+    },
+    {
+      "key": "dj2.quest.db.1446.title",
+      "en": "16^3 Spatial Component"
+    },
+    {
+      "key": "dj2.quest.db.1446.desc",
+      "en": "Stores up to a 16x16x16 area as a cell."
+    },
+    {
+      "key": "dj2.quest.db.1447.title",
+      "en": "Many fingers"
+    },
+    {
+      "key": "dj2.quest.db.1447.desc",
+      "en": "A Handy Chest (Large) can store items based on its card size in each of its 54 slots.%nRequires a memory card to function.%nCan hold 4 memory cards."
+    },
+    {
+      "key": "dj2.quest.db.1449.title",
+      "en": "Turn on the lights!"
+    },
+    {
+      "key": "dj2.quest.db.1449.desc",
+      "en": "Craft a Solar Neutron Activator and make the sun do all the work for you, well, not really but some of it! This machine is required to convert your Lithium into Tritium, one of the ingredients for DT-Fuel."
+    },
+    {
+      "key": "dj2.quest.db.1450.title",
+      "en": "Clear as Crystal"
+    },
+    {
+      "key": "dj2.quest.db.1450.desc",
+      "en": "Crystals are frequently used as modules. Install them through the Tool Workstation."
+    },
+    {
+      "key": "dj2.quest.db.1451.title",
+      "en": "Charged Cyan"
+    },
+    {
+      "key": "dj2.quest.db.1451.desc",
+      "en": "Able to hold a maximum charge of 500,000, the Ender Capacitor (Advanced) is the final tier of Ender Utilities power capacitors."
+    },
+    {
+      "key": "dj2.quest.db.1452.title",
+      "en": "Glowing Green"
+    },
+    {
+      "key": "dj2.quest.db.1452.desc",
+      "en": "Able to hold a maximum charge of 100,000, the Ender Capacitor (Enhanced) will serve you well."
+    },
+    {
+      "key": "dj2.quest.db.1453.title",
+      "en": "Link your Quantums"
+    },
+    {
+      "key": "dj2.quest.db.1453.desc",
+      "en": "To make a Quantum Bridge, you need to have two locations that have a ME Quantum Link Chamber surrounded by a ring of 8 ME Quantum Rings.%nThen, you need to place bound Quantum Entangled Singularities inside both of them. A pair of Quantum Entangled Singularities are created by causing an explosion near an Ender Dust and a Singularity.%nOnce you have all of this, both sides need to be powered, and only then will your network connect to both sides, and even then only for as long as both sides are chunkloaded.%n%n%nOr just run spaghetti cables everywhere, it's your base not mine!"
+    },
+    {
+      "key": "dj2.quest.db.1454.title",
+      "en": "Always been bits"
+    },
+    {
+      "key": "dj2.quest.db.1454.desc",
+      "en": "Memory Card (items) 12 B allows inventory slots to hold 4096 items.%n%n%nNo that's not overpowered, why would you ask that?%nReally. You have Black Hole Units. Why."
+    },
+    {
+      "key": "dj2.quest.db.1455.title",
+      "en": "Basically, it's pretty hot."
+    },
+    {
+      "key": "dj2.quest.db.1455.desc",
+      "en": "Craft 6 Basic Thermodynamic Conductors."
+    },
+    {
+      "key": "dj2.quest.db.1456.title",
+      "en": "Pure Processing Power"
+    },
+    {
+      "key": "dj2.quest.db.1456.desc",
+      "en": "Crafting recipes take bytes for the system to be able to process. The more items and steps, the more bytes required.%nThe various Crafting Storages increase the multiblock's ability to handle recipes with more bytes, based on its size."
+    },
+    {
+      "key": "dj2.quest.db.1457.title",
+      "en": "Moving time"
+    },
+    {
+      "key": "dj2.quest.db.1457.desc",
+      "en": "The Dolly can pick up and move any block with an inventory, free of cost.%nThe Cardboard Box can move any block. Shift+Right Click to take the box off the block."
+    },
+    {
+      "key": "dj2.quest.db.1458.title",
+      "en": "Ultimate heat acquired!"
+    },
+    {
+      "key": "dj2.quest.db.1458.desc",
+      "en": "Upgrade your Basic Thermodynamic Conductors all the way to the Ultimate Tier!"
+    },
+    {
+      "key": "dj2.quest.db.1459.title",
+      "en": "*Teleports behind you*"
+    },
+    {
+      "key": "dj2.quest.db.1459.desc",
+      "en": "Says it all on the tin - it's a reusable Ender Pearl. Make one."
+    },
+    {
+      "key": "dj2.quest.db.1460.title",
+      "en": "Mod your mod, with this mod"
+    },
+    {
+      "key": "dj2.quest.db.1460.desc",
+      "en": "Ender Utilities is a very intricate mod. You should read the tooltips for the various items to learn more than this book says.%nOh, and remember to set your \"Toggle Mode\" key to something you'll remember."
+    },
+    {
+      "key": "dj2.quest.db.1461.title",
+      "en": "Room for more energy?"
+    },
+    {
+      "key": "dj2.quest.db.1461.desc",
+      "en": "Can't fit all your POWAH in those pesky and small Energy Cubes and Cells? Well look no further, the Induction Matrix is just the thing for you! It can get as big as 18x18x18 and is highly configurable to fit your liking!%n%nThe smallest the Induction Matrix can be is 3x3x4 and it has to be a rectangular prism.%n%nTo build this, start off by placing a 3x3 base of Induction Casings anywhere you would like.%nNow take your Basic Induction Cell and Basic Induction Provider and place one of them on the middle block and the other on top of that.%nNow incase those 2 blocks with the rest of the Induction Casings and add the 2 Induction Ports on any face that is not a corner or edge block.%nThis will form the multiblock and a redstone particle effect will show that you have done it correctly. The Induction Ports act as input and output for power and this can be toggled with the Configurator by shift+clicking a port. Green means input and red means output.%n%nThe Induction Matrix is highly configurable, meaning the bigger you make the multiblock, the more Induction Cells and Induction Providers you can fit in it, though at minimum you need 1 Induction Cell and 1 Induction Provider for the multiblock to form.%nThe Induction Cells increase the total energy capacity of the Induction Matrix and the Induction Providers increase the power output and input rate.%nBoth the Induction Cell and the Induction Provider have 4 variants. Basic, Advanced, Elite, and Ultimate.%nThe better the tier the more efficient it will be.%n%nYou do not need to fill out the entire inner area with Induction Cells and Induction Providers though it is recommended to maximize its capability."
+    },
+    {
+      "key": "dj2.quest.db.1462.title",
+      "en": "It activates autonomously"
+    },
+    {
+      "key": "dj2.quest.db.1462.desc",
+      "en": "Craft a Mechanical User!%n%nThis block works like the Autonomous Activator from 1.7.10, such that it can simulate a player's Right/Left Click. You can configure a lot in its UI!"
+    },
+    {
+      "key": "dj2.quest.db.1463.title",
+      "en": "Remember dirt stack #27?"
+    },
+    {
+      "key": "dj2.quest.db.1463.desc",
+      "en": "Can store and remember 54 stacks of items. When a remembered stack is depleted, a ghost type of that item will appear, keeping the spot allocated to that item."
+    },
+    {
+      "key": "dj2.quest.db.1464.title",
+      "en": "Did someone say Tesseract?"
+    },
+    {
+      "key": "dj2.quest.db.1464.desc",
+      "en": "Craft the Quantum Entangloporter!%n%nIt acts like a Tesseract, it feels like a Tesseract, so is it a Tesseract?%n%nNo! This one can transfer gases too!%n%nCan transfer energy/items/fluids/gasses over long distances from 1 Entangloporter to another on the same channel. It also has a distinct advantage over the Dimensional Transceiver, as it can transport way more RF/tick. I recommend using this for pretty much every long-range project."
+    },
+    {
+      "key": "dj2.quest.db.1465.title",
+      "en": "Don't quarry about it!"
+    },
+    {
+      "key": "dj2.quest.db.1465.desc",
+      "en": "Craft a Quantum Quarry and 6 Quantum Quarry Actuators to start mining in a hypothetical dimension that may have existed!%n%nPlace the Quantum Quarry anywhere and place the Quantum Quarry Actuators on each of the Quantum Quarry's 6 sides. Doing this will form the multiblock quarry.%n%nPower can be input on any face of the multiblock and Right Clicking it will open its UI.%n%n20,000 RF is used per block mined and items are output to any inventory touching a face of the multiblock.%n%nIn the UI you can add a filter to either whitelist or blacklist items. Items blacklisted or not whitelisted will still be mined and consume power but will be destroyed.%n%nYou can also add an enchanted book to the quarry i.e. Fortune or Silk Touch.%n%nThe last slot is for Biome Markers. These markers will decide which biome the quarry mines in, so say you put in a Swamp biome, you'll get Coralium Ore for example. Most non-Overworld biome markers will not work.%n%nThe quarry can run without any of these addons but they are highly recommended!"
+    },
+    {
+      "key": "dj2.quest.db.1466.title",
+      "en": "Grid Power to the max!"
+    },
+    {
+      "key": "dj2.quest.db.1466.desc",
+      "en": "Craft the Dragon Egg Mill and place a Dragon Egg on top of it to generate 1,000 GP!%n%n(This generator has been buffed and it generates twice the normal amount, and scales off much slower.)"
+    },
+    {
+      "key": "dj2.quest.db.1620.title",
+      "en": "Tools, Enchants, and Spawners oh my!"
+    },
+    {
+      "key": "dj2.quest.db.1620.desc",
+      "en": "A Junk Storage Unit is vital for your ME system. Each unstackable item takes up an item type in an AE2 Storage Cell. meaning that just a small amount of enchantments or tools and quickly render your storage unable to accept more item types. The Junk Storage Unit will let your ME system store them in bulk, without filling up your drives! Might want more than one, though."
+    },
+    {
+      "key": "dj2.quest.db.1704.title",
+      "en": "Ctrl+C Ctrl+V"
+    },
+    {
+      "key": "dj2.quest.db.1704.desc",
+      "en": "Craft a Copy-Paste Gadget! This allows you to select an area, rebuild it exactly in another spot using a click of a button! You'll need to have the blocks from the original build in your inventory though. As the other Gadgets, this needs power and its GUI can be accessed with §6G§r.%n%nTo select an area, use Copy mode and simply Right Click one corner of the desired area, then Shift+Right Click the opposite corner. The area will show a white outline. To paste the area, switch to 'Paste' mode in the G menu, then Right Click to place the structure in the world. This will use the blocks from your inventory."
+    },
+    {
+      "key": "dj2.quest.db.1705.title",
+      "en": "Call the Manager"
+    },
+    {
+      "key": "dj2.quest.db.1705.desc",
+      "en": "Craft a Template Manager! This machine provides a visual element to preview what the Copy-Paste Gadget currently has selected as well as providing an interface to copy in Templates from the community.%n%nTo use, place a Copy-Paste Gadget in the left hand slot, and a piece of Paper in the right hand slot. Click 'Save' to write the structure stored on the tool to the paper, which turns into a 'Template' item. Optionally give it a name using the text box at the top of the UI.%n%nClick 'Load' to transfer the structure from the template item to the Copy-Paste Gadget.%n%nClick 'Copy' to copy the structure on the tool (left slot) onto your clipboard. This is a text string that can be shared with friends on forums/Discord/etc.%n%nPlace a new piece of Paper in the right slot of this UI, and click 'Paste' to transfer the contents of your clipboard, and turn the Paper into a template. You may now load this template onto a tool as before.%n%nUse this to share buildings with your friends!"
+    },
+    {
+      "key": "dj2.quest.db.1730.title",
+      "en": "Gas Less"
+    },
+    {
+      "key": "dj2.quest.db.1730.desc",
+      "en": "Craft some Gas Upgrades for your Mekanism machines. These can only be applied to the Purification Chamber, Chemical Injection Chamber, and Chemical Dissolution Chamber, allowing these machines to use less gas per operation."
+    }
+  ]
+}

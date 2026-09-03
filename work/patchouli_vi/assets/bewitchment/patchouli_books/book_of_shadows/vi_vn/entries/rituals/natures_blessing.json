@@ -1,0 +1,15 @@
+{
+  "name": "Natures Blessing",
+  "category": "rituals",
+  "icon": "minecraft:sapling",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bằng sức mạnh siêu nhiên, nghi thức này thay đổi thời tiết cục bộ để một khu vực bị tàn phá hoàn toàn trở nên màu mỡ lần nữa. Tuy nhiên, nó không thể khôi phục quần xã vì việc đó cần một nghi thức khác."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:natures_blessing"
+    }
+  ]
+}

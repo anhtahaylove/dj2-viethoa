@@ -1,0 +1,9 @@
+key.simplybackpacks.backpackopen.desc=Open Backpack
+key.simplybackpacks.backpackpickup.desc=Toggle Auto-pickup
+key.simplybackpacks.category=Simply Backpacks
+simplybackpacks.autopickupdisabled=Auto-Pickup: §cDisabled§r
+simplybackpacks.autopickupenabled=Auto-Pickup: §aEnabled§r
+simplybackpacks.metadata=Metadata
+simplybackpacks.nbtdata=NBT Tags
+simplybackpacks.shift=Press <§6§oShift§r> for info.
+simplybackpacks.whitelist=Whitelist

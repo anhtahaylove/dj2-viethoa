@@ -1,0 +1,12 @@
+{
+ "totemicmisc.nextPage": "Trang sau",
+ "totemic.entry.melody": "Melody",
+ "totemic.page.melody0": "§4Melody§0 là nguồn sức mạnh ma thuật tỏa ra từ §4Instrument§0 khi được chơi. Mỗi §1Instrument§0 có một §4Ngưỡng Melody§0 riêng, nghĩa là mỗi §4Instrument§0 chỉ tỏa ra được một lượng §4Melody§0 nhất định cho một hiệu ứng cụ thể.<br>Có lẽ trong tương lai, §4Melody§0 sẽ còn tương tác được với nhiều thứ khác trong thế giới.",
+ "totemic.entry.cedarTree": "Cây Red Cedar",
+ "totemic.page.cedarTree0": "§1Red Cedar Tree§0 là loài cây tự thân đã mang sẵn khả năng phục vụ mục đích Totemic. Bạn thu được nó bằng cách truyền năng lượng âm nhạc vào sapling thường trong §4Rite of Spring Ceremony§0. §1Red Cedar Wood§0 có tính chất và công dụng chế tác y hệt gỗ thường. Ngoài ra, §4Bark Stripper§0 có thể bóc vỏ cây để tận dụng tài nguyên hiệu quả hơn.",
+ "totemic.page.cedarTree1": "Cuối cùng, nó còn dùng để chế tạo một số nhạc cụ như §1Wind Chimes§0 hay §1Jingle Dress§0.",
+ "totemic.entry.buffaloBasic": "Buffalo",
+ "totemic.page.buffaloBasic0": "Buffalo dũng mãnh, loài vật nổi tiếng khắp các vùng đất nhờ vô số tài nguyên nó ban tặng. Chúng cực kỳ bền bỉ và có lượng máu rất lớn. Nạn săn bắt đã đẩy chúng đến bờ tuyệt chủng, nhưng bạn vẫn có thể 'tạo' ra chúng bằng §4Buffalo Dance Ceremony§0.",
+ "totemic.entry.creatingTotems": "§oTotem Pole",
+ "totemic.page.creatingTotems0": "Tạo một §4Totem Pole§0 rất đơn giản. Trước hết bạn phải chế tạo §1Totem Whittling Knife§0, công cụ dùng để đẽo §4Totem Pole§0 từ bất kỳ loại log gỗ nào. Con dao đẽo được nhiều hoa văn §4Totem Pole§0 khác nhau, mỗi hoa văn cho một hiệu ứng riêng. Nhấn chuột phải hoặc lăn chuột khi đang cúi mình để đổi hoa văn sắp đẽo."
+}

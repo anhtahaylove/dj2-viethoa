@@ -1,0 +1,29 @@
+{
+  "name": "Stalicripe",
+  "icon": "roots:stalicripe",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:stalicripe",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Stalicripe rất dễ bị nhầm với đá mọc tự nhiên vì có mối liên kết sâu sắc với đất.$(br2)Dù là đá được ban sự sống dưới dạng cây hay cây hóa đá, nó vẫn có mối liên kết mạnh mẽ với đất.$(br2)Sau khi tái sinh từ sức nóng của $(l:crafting/pyres)Pyre$(), nó trở thành một tài nguyên $(l:herbs/stalicripe#renew)tái tạo$()."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "stalicripe"
+    },
+    {
+      "type": "text",
+      "title": "Khả năng tái tạo",
+      "text": "Sau khi có được, Stalicripe có thể được trồng trên bất kỳ loại nào trong năm loại $(l:resources/elemental_soil)Elemental Soil$().$(br2)Không cần ghép nguyên tố của đất với nguyên tố của Stalicripe.$(br2)Khi trưởng thành, các cụm mềm màu nhạt trông như đá được nối với nhau bằng những tua gỗ đã hóa đá."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

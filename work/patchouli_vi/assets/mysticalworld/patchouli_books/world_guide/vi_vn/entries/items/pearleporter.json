@@ -1,0 +1,12 @@
+{
+  "name": "Pearleporter",
+  "icon": "mysticalworld:pearleporter",
+  "category": "items",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:pearleporter",
+      "text": "Pearleporter là một thiết bị tài tình, cho phép bạn lấy $(l:items/pearls)Pearls$() từ $(l:creatures/clam)Clams$() mà không làm chúng bị thương!$(br2)Tuy nhiên, bạn sẽ cần một Pearl để bắt đầu."
+    }
+  ]
+}

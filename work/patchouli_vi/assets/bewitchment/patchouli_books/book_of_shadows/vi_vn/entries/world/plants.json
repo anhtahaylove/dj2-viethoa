@@ -1,0 +1,47 @@
+{
+  "name": "Thực vật",
+  "category": "world",
+  "icon": "bewitchment:hellebore",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bewitchment:aconitum",
+      "text": "Một loài hoa độc có hạt được tìm thấy trong cỏ cao. Nó đặc biệt nguy hiểm với sói và các loài thuộc họ chó khác, bao gồm cả Lycanthrope. Dù có độc, nó ít ảnh hưởng hơn đến các sinh vật khác."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:belladonna",
+      "text": "Một loài hoa đẹp nhưng có độc, hạt của nó thường được tìm thấy trong cỏ cao. Loài cây này nổi tiếng với đặc tính tác động thần kinh và là nguyên liệu chính của Flying Ointment."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:garlic",
+      "text": "Một loài Allium có củ ăn được. Tuy nhiên, vampire thường tránh xa loài cây này, nên nó hay được dùng để phòng vệ trước chúng. Những dạng undead khác dường như cũng không ưa nó."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:hellebore",
+      "text": "Một loài hoa vô hại, tuyệt đẹp và thường được trồng trong vườn. Hạt của nó rất dễ tìm thấy trong những bụi cỏ mọc um tùm. Loài hoa này còn nổi tiếng vì có mối liên hệ với demon."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:mandrake_root",
+      "text": "Một loài cây kỳ lạ có đặc tính gây ảo giác và vẻ ngoài khác thường. Rễ của nó chứa sức mạnh ma thuật lớn. Có thể tìm thấy hạt của loài cây này trong cỏ."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:white_sage",
+      "text": "Một loài cây thích nghi với vùng đất khô cằn, hạt của nó thường mắc trong Dead Bush. Loài cây này có sức mạnh xua đuổi demon và những dark spirit khác."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:wormwood",
+      "text": "Một loài cây thân thảo thường mọc trong và gần Tall Grass. Wormwood được dùng để hỗ trợ giao tiếp với spirit. Một số nhóm còn dùng loài cây này để ủ rượu mạnh."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:spanish_moss",
+      "text": "Một loài cây rủ xuống được tìm thấy ở vùng đầm lầy. Dù mang tên như vậy, Spanish Moss thực ra không phải rêu mà là một loài thực vật rủ, với những bông hoa thường nhỏ đến mức khó nhìn thấy. Spanish Moss có mối liên hệ mật thiết với thế giới spirit và do đó là cả soul, khiến nó trở thành thành phần thiết yếu của Poppet."
+    }
+  ]
+}

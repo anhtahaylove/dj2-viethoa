@@ -1,0 +1,23 @@
+{
+  "name": "Imposer",
+  "icon": "roots:imposer",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:imposer",
+      "text": "Được thiết kế riêng để áp sức mạnh của thảo mộc lên phép thuật, cho phép thay đổi và điều chỉnh chúng. Cách sử dụng được trình bày đầy đủ $(l:spells/introduction2#imposer)trong phần giới thiệu modifier$().$(br2)$(warning) Hiện không có công dụng bổ sung nào."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/imbuer",
+        "spells/introduction2",
+        "spells/modifiers",
+        "crafting/staff"
+      ]
+    }
+  ]
+}

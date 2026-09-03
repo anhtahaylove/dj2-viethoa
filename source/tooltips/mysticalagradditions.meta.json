@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "MysticalAgradditions-1.12.2-1.3.2.jar",
+      "path": "assets/mysticalagradditions/lang/en_US.lang"
+    }
+  ]
+}

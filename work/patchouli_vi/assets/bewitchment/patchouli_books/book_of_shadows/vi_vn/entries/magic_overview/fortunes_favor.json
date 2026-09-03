@@ -1,0 +1,16 @@
+{
+  "name": "Fortune's Favor",
+  "category": "magic_overview",
+  "icon": "bewitchment:fortunes_favor",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một đôi găng tay phù phép giúp tăng tốc độ khai thác, tăng vật phẩm rơi ra từ các quặng như than và lapis, đồng thời giúp lấy Taglock dễ hơn. Không rõ loại phép thuật nào đã tạo ra đôi găng này, nhưng chúng có thể được tìm thấy trong tay những thực thể hùng mạnh hoặc trong các rương bị lãng quên."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:fortunes_favor",
+      "text": "$(o)Gặp may nhé~"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+item.thermaldynamics.filter.info=Restricts what may pass through it.
+item.thermaldynamics.relay.info=Transmits redstone signals.
+item.thermaldynamics.retriever.info=Pulls distant items/fluids to itself.
+item.thermaldynamics.servo.info=Extracts items/fluids from something.
+tile.thermaldynamics.duct.energySuper.info=Has no residual capacitance.
+tile.thermaldynamics.duct.fluidBasic.info=Will break if contents are extremely hot or cold.
+tile.thermaldynamics.duct.fluidHardened.info=Contents may be any temperature.
+tile.thermaldynamics.duct.fluidSuper.info=Limitless transfer rate when pressurized.
+tile.thermaldynamics.duct.itemFast.info=Items travel more rapidly.
+tile.thermaldynamics.duct.structure.info=Provides Structure.

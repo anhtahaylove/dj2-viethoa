@@ -1,0 +1,10 @@
+{
+  "oreexcavation.key.excavate": "Khai Quật",
+  "oreexcavation.key.shape": "Bật/Sửa Hình Dạng (Ctrl)",
+  "oreexcavation.undo.failed.disabled": "Hoàn tác đã bị tắt!",
+  "oreexcavation.undo.failed.items": "Hoàn Tác Thất Bại: Không thể trả lại vật phẩm",
+  "oreexcavation.undo.failed.no_history": "Hoàn Tác Thất Bại: Không có gì để hoàn tác",
+  "oreexcavation.undo.failed.obstructed": "Hoàn Tác Thất Bại: Khu vực bị cản trở",
+  "oreexcavation.undo.failed.xp": "Hoàn Tác Thất Bại: Không thể trả lại XP",
+  "oreexcavation.undo.success": "Đang hoàn tác lần khai quật cuối...."
+}

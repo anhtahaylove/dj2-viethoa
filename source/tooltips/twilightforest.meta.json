@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "twilightforest-1.12.2-3.15.1.jar",
+      "path": "assets/twilightforest/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Geas",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_geas\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_geas",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Geas, hay lời ràng buộc, ngăn thực thể thù địch gần nhất tấn công bạn và gây sát thương cho nó ngay khi nó định làm vậy.$(br2)Với các modifier, hình thức điều khiển tâm trí này có thể được tùy biến đáng kể: bạn có thể cường hóa các thực thể thụ động gần đó, biến zombie thành nô lệ chiến đấu cho bạn, nhắm đến nhiều thực thể hơn, hoặc thậm chí gây hiệu ứng sát thương khi phép hết tác dụng!"
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_geas"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:extended_geas",
+      "anchor": "extended_geas"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:animal_savior",
+      "anchor": "animal_savior"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:weakened_response",
+      "anchor": "weakened_response"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:unholy_command",
+      "anchor": "unholy_command"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:additional_target1",
+      "anchor": "additional_target1"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:additional_target2",
+      "anchor": "additional_target2"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:inferno",
+      "anchor": "inferno"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:avalanche",
+      "anchor": "avalanche"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_geas",
+      "modifier": "roots:waterfall",
+      "anchor": "waterfall"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:geas/SECONDS/cooldown) giây.$(br2)$(bold)Thời lượng:$() Geas kéo dài $(spell:geas/SECONDS/geas_duration) giây, tăng thêm $(spell:geas/SECONDS/extension) giây với modifier $(modifier:extended_geas)$().$(br2)$(bold)Cứu tinh:$() Với modifier $(modifier:animal_savior)$(), mọi thực thể hiền hòa gần đó trong tầm nhìn nhận Absorption $(spell:geas/ROMAN/savior_amplifier) trong $(spell:geas/SECONDS/savior_duration) giây.$(br2)$(bold)Suy yếu:$() Với modifier $(modifier:weakened_response)$()"
+    },
+    {
+      "type": "text",
+      "text": "này, các thực thể từng chịu Geas sẽ nhận Weakness $(spell:geas/ROMAN/weakness_amplifier) trong $(spell:geas/SECONDS/weakness_duration) giây.$(br2)$(bold)Mục tiêu bổ sung:$() Với mỗi modifier $(modifier:additional_target1)$() và $(modifier:additional_target2)$(), Geas sẽ tác động thêm một thực thể.$(br2)$(bold)Lửa:$() Với modifier $(modifier:inferno)$(), các thực thể bị thiêu đốt trong $(spell:geas/fire_duration) giây.$(br2)$(bold)Vật lý:$() Với modifier $(modifier:avalanche)$(), các thực thể chịu $(spell:geas/HEART/physical_damage) tim sát thương vật lý khi Geas kết thúc."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Nước:$() Với modifier $(modifier:waterfall)$(), các thực thể chịu $(spell:geas/HEART/water_damage) tim sát thương nước khi Geas kết thúc.$(br2)$(bold)Nô lệ zombie:$() Khi bật modifier $(modifier:unholy_command)$(), zombie và husk sẽ biến thành nô lệ chiến đấu cho bạn trong $(spell:geas/SECONDS/geas_duration) giây, tăng thêm $(spell:geas/SECONDS/extension) giây với modifier $(modifier:extended_geas)$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/terra_moss",
+        "herbs/baffle_cap"
+      ]
+    }
+  ]
+}

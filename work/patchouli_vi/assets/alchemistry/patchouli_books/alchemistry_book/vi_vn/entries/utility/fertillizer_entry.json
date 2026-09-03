@@ -1,0 +1,11 @@
+{
+  "name": "Fertilizer",
+  "icon": "alchemistry:fertilizer",
+  "category": "utility_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fertilizer là một vật phẩm đơn giản có thể được tạo trong Chemical Combiner và hoạt động giống hệt bột xương vanilla"
+    }
+  ]
+}

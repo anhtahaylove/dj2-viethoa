@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+      "path": "assets/mysticalagriculture/lang/en_US.lang"
+    }
+  ]
+}

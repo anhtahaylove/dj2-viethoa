@@ -1,0 +1,63 @@
+{
+  "name": "Runic Crafter",
+  "icon": "roots:runic_crafter",
+  "category": "crafting",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một biến thể thử nghiệm nâng cao của $(l:crafting/fey_crafter)Fey Crafter$(), không có giao diện. Nhấp chuột phải đầu ra lên Crafter để đặt hoặc xóa công thức.$(br2)$(info) Nếu đó là đầu ra hợp lệ của công thức, vật phẩm sẽ được lấy từ kho đồ bên dưới để lấp đầy các ô nguyên liệu.$(br2)Bắt đầu chế tạo bằng cách nhấp chuột phải với $(l:crafting/knives)Knife$(), bằng tay hoặc Dispenser."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runic_crafter",
+      "text": "$(info) Crafter này tuân theo giới hạn Grove Stones của $(l:crafting/fey_crafter)Fey Crafter$()."
+    },
+    {
+      "type": "multiblock",
+      "name": "Vị trí rương",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:runic_crafter",
+          "R": "minecraft:chest",
+          "I": "minecraft:torch"
+        },
+        "pattern": [
+          [
+            "III",
+            "III",
+            "III"
+          ],
+          [
+            "III",
+            "I0I",
+            "III"
+          ],
+          [
+            "   ",
+            " R ",
+            "   "
+          ]
+        ]
+      },
+      "text": "Rương cấp nguyên liệu phải nằm bên dưới Crafter. Vị trí các Torch cho biết những nơi có thể đặt kho đồ đầu ra."
+    },
+    {
+      "type": "text",
+      "title": "Tự động hóa",
+      "text": "$(warning) Không giống $(l:crafting/fey_crafter)Fey Crafter$(), mỗi lần kích hoạt chỉ chế tạo một lượt công thức.$(br2)Khi có đủ nguyên liệu hợp lệ, các hạt sẽ bay lên từ Pedestal và Comparator sẽ phát tín hiệu 15 (nếu không thì là 0).$(br2)Thành phẩm sẽ được đẩy ra gần đó hoặc đưa vào kho đồ tại một trong các vị trí hợp lệ đã hiển thị."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "concepts/groves",
+        "concepts/the_fey",
+        "crafting/grove_stone",
+        "crafting/fey_crafter",
+        "crafting/introduction",
+        "resources/runestone",
+        "automation/crafting"
+      ]
+    }
+  ]
+}

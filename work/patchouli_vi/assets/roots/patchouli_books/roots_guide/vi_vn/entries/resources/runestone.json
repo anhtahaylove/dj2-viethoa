@@ -1,0 +1,24 @@
+{
+  "name": "Runestone",
+  "icon": "roots:runestone",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:chiseled_runestone",
+      "text": "Runestone là một tài nguyên thiết yếu, dùng để chế tạo, làm nguyên liệu cho nghi lễ và phép thuật, cũng như xây dựng $(l:rituals/standing_stones)standing stones$(), thành phần không thể thiếu trong các nghi lễ phức tạp và khó.$(br2)Có thể tạo ra nó bằng cách kết hợp Stone thường với một loại bụi phép thuật phù hợp."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runestone"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter"
+      ]
+    }
+  ]
+}

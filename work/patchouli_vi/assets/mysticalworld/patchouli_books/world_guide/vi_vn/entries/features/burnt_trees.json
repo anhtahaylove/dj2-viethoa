@@ -1,0 +1,20 @@
+{
+  "name": "Charred Tree",
+  "icon": "mysticalworld:charred_log",
+  "category": "features",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Charred Tree",
+      "text": "Hầu hết gỗ thường cháy rụi hoàn toàn, nhất là khi bị sét đánh, nhưng một số loài cây cứng cáp vẫn gần như nguyên vẹn, ngoại trừ phần lá.$(br2)Bạn có thể bắt gặp tàn tích của những cây cháy sém này trên khắp thế giới."
+    },
+    {
+      "type": "image",
+      "title": "Một cây cháy sém",
+      "text": "$(l:blocks/charred_wood)Khối Charred Wood$() có thể dùng để trang trí.",
+      "images": [
+        "mysticalworld:textures/tree.png"
+      ]
+    }
+  ]
+}

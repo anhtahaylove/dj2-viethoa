@@ -1,0 +1,57 @@
+{
+  "name": "Động vật",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:wild_boar\"}}",
+  "category": "entities",
+  "advancement": "twilightforest:alt/entities/animals",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/bighorn_sheep",
+      "entity": "twilightforest:bighorn_sheep",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/bunny",
+      "entity": "twilightforest:bunny",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/deer",
+      "entity": "twilightforest:deer",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/raven",
+      "entity": "twilightforest:raven",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/squirrel",
+      "entity": "twilightforest:squirrel",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/wild_boar",
+      "entity": "twilightforest:tiny_bird",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/wild_boar",
+      "entity": "twilightforest:tiny_bird",
+      "text": "nhiều thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/penguin",
+      "entity": "twilightforest:penguin",
+      "text": "nhiều thứ linh tinh"
+    }
+  ]
+}

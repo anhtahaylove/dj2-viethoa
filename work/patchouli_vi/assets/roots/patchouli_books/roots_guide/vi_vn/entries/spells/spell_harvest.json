@@ -1,0 +1,96 @@
+{
+  "name": "Harvest",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_harvest\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_harvest",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này giúp công việc trồng trọt bớt lặp đi lặp lại.$(br2)Nhờ phép thuật, bạn có thể tự động thu hoạch rồi trồng lại cây.$(br2)Các modifier có thể thay đổi đáng kể cơ chế này: thúc cây phát triển sau khi thu hoạch, tăng hoặc giảm bán kính, hay thậm chí thu hoạch những linh hồn vô hình để nhận túi chiến lợi phẩm."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:extended_harvest",
+      "anchor": "extended_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:magnetic_harvest",
+      "anchor": "magnetic_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:gifts_of_undeath",
+      "anchor": "gifts_of_undeath"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:targeted_harvest",
+      "anchor": "targeted_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:poisoned_harvest",
+      "anchor": "poisoned_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:regrowth",
+      "anchor": "regrowth"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:fiery_harvest",
+      "anchor": "fiery_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:yield",
+      "anchor": "yield"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_harvest",
+      "modifier": "roots:harvest_silk_touch",
+      "anchor": "harvest_silk_touch"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:harvest/SECONDS/cooldown) giây.$(br2)$(bold)Bán kính:$() Bán kính mặc định của phép là $(spell:harvest/radius_x) × $(spell:harvest/radius_z) khối theo chiều ngang và $(spell:harvest/radius_y) khối theo chiều dọc.$(br2)$(bold)Mở rộng:$() Khi bật modifier $(modifier:extended_harvest)$(), bán kính tăng thêm $(spell:harvest/radius_boost) khối.$(br2)$(bold)Thu hẹp:$() Khi bật modifier $(modifier:targeted_harvest)$(), bán kính giảm $(spell:harvest/radius_unboost) khối."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Sinh trưởng:$() Khi bật modifier $(modifier:regrowth)$(), mọi cây được trồng lại sẽ nhận $(spell:harvest/growth_count) tick sinh trưởng, cộng thêm một số từ 0 đến dưới $(spell:harvest/growth_additional).$(br2)$(bold)Từ lực:$() Khi bật modifier $(modifier:magnetic_harvest)$(), mọi vật phẩm rơi ra khi thu hoạch sẽ được dịch chuyển tới vị trí của bạn.$(br2)$(bold)Độc tố:$() Khi bật modifier $(modifier:poisoned_harvest)$(), bạn sẽ thu hoạch biến thể nhiễm độc của cây trồng."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Nấu chín:$() Khi bật modifier $(modifier:fiery_harvest)$(), mọi vật phẩm rơi ra được xử lý như thể đã nung trong lò.$(br2)$(bold)Nghiền:$() Với modifier $(modifier:yield)$(), mọi vật phẩm rơi ra được xử lý như thể đã nghiền bằng $(l:crafting/mortar_and_pestle)mortar & pestle$().$(br2)$(bold)Silk Touch:$() Khi bật modifier $(modifier:harvest_silk_touch)$(), mọi cây trồng được thu hoạch như thể dùng kéo hoặc Silk Touch."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Thu hoạch linh hồn:$() Khi bật modifier $(modifier:gifts_of_undeath)$(), mỗi lần thu hoạch, bạn có $(spell:harvest/PERCENT/undead_chance) phần trăm cơ hội nhận tối đa $(spell:harvest/undead_count) túi thuộc một trong hai loại $(l:resources/loot_bags)túi chiến lợi phẩm$(). Mỗi túi linh hồn có $(spell:harvest/PERCENT/undead_rare) cơ hội được nâng cấp thành reliquary."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/wildewheet"
+      ]
+    }
+  ]
+}

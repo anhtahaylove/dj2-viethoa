@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "BuildingGadgets-2.8.4.jar",
+      "path": "assets/buildinggadgets/lang/en_us.lang"
+    }
+  ]
+}

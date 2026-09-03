@@ -1,0 +1,16 @@
+{
+  "name": "Triskelion Amulet",
+  "category": "magic_overview",
+  "icon": "bewitchment:triskelion",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một huy chương vàng trang trí bằng họa tiết xoáy, tiêu hao ME để ban cho chủ nhân sức mạnh phi thường. Cách chế tạo vật phẩm này của một nền văn minh cổ đại đã thất truyền. Tuy nhiên, có thể tìm thấy nó trong rương hoặc nhận được khi tiêu diệt một số thực thể rất cổ xưa và hùng mạnh."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:triskelion",
+      "text": "Chỉ có thể nhận từ chiến lợi phẩm hoặc giao dịch với quỷ"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Waystone",
+  "category": "gear",
+  "icon": "bewitchment:waystone",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một viên đá ma thuật có khả năng độc đáo là lưu giữ một vị trí xác định trong lõi và có thể dùng để chuyển hướng nơi thi triển nghi lễ. Nó có ba lần sử dụng."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:waystone"
+    }
+  ]
+}

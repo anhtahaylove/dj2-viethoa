@@ -1,0 +1,18 @@
+{
+  "name": "Hydra",
+  "icon": "twilightforest:trophy:2",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/hydra",
+  "sortnum": 5110,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:hydra",
+      "text": "Hydra muôn năm"
+    },
+    {
+      "type": "text",
+      "text": "Quái vật khổng lồ của Fire Swamp, Hydra có lớp da cứng chắc; mỗi chiếc đầu đều có suy nghĩ và cách tấn công riêng. Từ phun lửa, bắn đạn nổ đến tung cú cắn kinh hoàng, lại còn có thể mọc lại đầu, sinh vật này sẽ không từ bất cứ thủ đoạn nào."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Augment",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_augment\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cơ thể bạn được cường hóa bởi một trong nhiều modifier:$(br2)Bạn có thể tăng tầm với, tốc độ, may mắn, sức mạnh, nhận Slow Fall hoặc Haste, có thêm Absorption, phục hồi dưỡng khí, dịch chuyển vật phẩm đến mình hoặc trôi xuyên thế giới như một linh thể.$(br2)$(warning) Phép này cần có modifier được bật để hoạt động."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_augment"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:reach",
+      "anchor": "reach"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:speed",
+      "anchor": "speed"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:augment_slow_fall",
+      "anchor": "augment_slow_fall"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:light_drifter",
+      "anchor": "light_drifter"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:magnetism",
+      "anchor": "magnetism"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:bitter_luck",
+      "anchor": "bitter_luck"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:absorption",
+      "anchor": "absorption"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:strength_of_flame",
+      "anchor": "strength_of_flame"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:haste",
+      "anchor": "haste"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_augment",
+      "modifier": "roots:second_wind",
+      "anchor": "second_wind"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:augment/SECONDS/cooldown) giây.$(br2)$(bold)Lực hút:$() Vật phẩm trong phạm vi ngang $(spell:augment/radius_x) và $(spell:augment/radius_z), cùng phạm vi dọc $(spell:augment/radius_y), sẽ được dịch chuyển thẳng đến bạn.$(br2)$(bold)Tầm với:$() Tầm với của bạn tăng thêm $(spell:augment/reach) block trong $(spell:augment/SECONDS/reach_duration) giây.$(br2)$(bold)Speed:$() Bạn nhận Speed $(spell:augment/ROMAN/speed_amplifier) trong $(spell:augment/SECONDS/speed_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Slow Fall:$() Bạn nhận Slow Fall trong $(spell:augment/SECONDS/slow_fall_duration) giây.$(bold)Ánh sáng phiêu dạt:$() Bạn trôi đi như ánh sáng linh thể và nhìn xuyên thế giới trong $(spell:augment/SECONDS/drifter_duration) giây.$(br2)$(bold)Luck:$() Bạn nhận Luck $(spell:augment/ROMAN/luck_amplifier), có tác dụng với rương và câu cá, trong $(spell:augment/SECONDS/luck_duration) giây.$(br2)$(bold)Strength:$() Bạn nhận Strength $(spell:augment/ROMAN/strength_amplifier) trong $(spell:augment/SECONDS/strength_duration) giây.$(br2)$(bold)Haste:$() Bạn nhận Haste $(spell:augment/ROMAN/haste_amplifier) trong $(spell:augment/SECONDS/haste_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Absorption:$() Bạn nhận được Absorption $(spell:augment/ROMAN/absorption_amplifier) trong $(spell:augment/SECONDS/absorption_duration) giây.$(br2)$(bold)Không khí:$() Lượng không khí của bạn tăng thêm $(spell:augment/BUBBLES/air_amount) bong bóng."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/wildroot"
+      ]
+    }
+  ]
+}

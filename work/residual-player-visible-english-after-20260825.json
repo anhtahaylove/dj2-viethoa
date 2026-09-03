@@ -1,0 +1,112 @@
+[
+  {
+    "namespace": "actuallyadditions",
+    "key": "booklet.actuallyadditions.trials.mobFarm.text.1",
+    "value": "Dùng <item>Spawner Changer<r>, hoặc chỉ cần một khoảng trống lớn cùng ít nước, là cách tuyệt vời để <imp>tạo ra nhiều mob<r>. Dùng <item>Lens of Death<r> hoặc <item>Lens of the Killer<r> cho phép bạn tiêu diệt mob hiệu quả và thậm chí nhận được <imp>vật phẩm đặc biệt<r>, từ đó tạo nên một <imp>trại mob tự động<r> khá hiệu quả."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "booklet.actuallyadditions.chapter.canola.text.1",
+    "value": "Dùng <item>Canola<r>, bạn có thể tạo một hệ thống phát điện đơn giản nhưng hiệu quả từ <imp>tài nguyên thiên nhiên<r>. <n>Trước tiên, hãy tìm vài cây <item>Canola Plants<r> ngoài tự nhiên rồi trồng tại nông trại. <n><n><item>Canola<r> thu hoạch được có thể đưa vào <item>Canola Press<r> để tạo ra <item>Canola Oil<r>. <n><n>Loại dầu này <imp>có thể dùng trong<r> <item>Oil Generator<r>. GUI của máy hiển thị lượng điện tạo ra, nhưng dầu còn có thể được <imp>nâng cấp thêm<r> để tạo ra <imp>nhiều điện hơn<r>!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "booklet.actuallyadditions.chapter.wings.text.1",
+    "value": "Đôi khi dơi sẽ rơi ra <item>Wings<r>. Những chiếc cánh này có thể dùng để chế tạo <item>Wings Of The Bats<r>, cho phép bạn <imp>bay<r> như trong <imp>chế độ Creative<r>. <n>Tuy nhiên, sau khoảng <secs> giây, cánh sẽ <imp>không thể nâng bạn nữa<r> và bạn sẽ <imp>rơi xuống đất<r>. <n>Để giảm độ mỏi của cánh, hãy <imp>đứng trên mặt đất<r> để hồi phục <imp>chậm<r>, hoặc khi cánh chưa hoàn toàn kiệt sức, hãy treo mình trên trần như dơi bằng cách <imp>bay lên bên dưới một khối đặc<r> để hồi phục <imp>nhanh<r>."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "booklet.actuallyadditions.chapter.lensMining.text.1",
+    "value": "<item>Lens of the Miner<r> có thể <imp>tạo ra quặng<r> từ các block trong tầm nhìn. <n>Khi tia laser chiếu vào <item>block of stone<r>, nó sẽ biến block đó thành <imp>các loại quặng Overworld khác nhau<r>; còn <item>block of netherrack<r> sẽ được biến thành <imp>quặng Nether<r>. <n>Mỗi lần hoạt động tiêu tốn <imp><energy> CF<r>, đồng thời cần <imp>thêm năng lượng<r> tùy theo độ hiếm của quặng được tạo ra."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "booklet.actuallyadditions.chapter.enderStar.text.1",
+    "value": "Bạn có thể nhận <item>Ender Star<r> bằng cách tiêu diệt Wither và đến The End để thu thập Dragon's Breath. Để lấy thứ sau, hãy dùng chai lên các hạt màu tím do Ender Dragon phun ra. <n><item>Ender Star<r> được dùng trong <imp>nhiều công thức chế tạo<r>."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "booklet.actuallyadditions.chapter.lensMoreDeath.text.1",
+    "value": "<item>Lens of the Killer<r> hoạt động gần giống <item>Lens of Certain Death<r>, nhưng cũng sẽ <imp>rơi kinh nghiệm<r> và <imp>chiến lợi phẩm chỉ rơi khi người chơi hạ gục<r>. <n>Tuy nhiên, điều này có nghĩa là nó sẽ tiêu thụ <imp>nhiều năng lượng hơn đáng kể<r>. <n><n>Để thu thập kinh nghiệm rơi ra, bạn có thể thử dùng <item>Experience Solidifier<r>."
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.endercapacitor_0.tooltips",
+    "value": "- Nhấp chuột phải vào Ender Crystal để sạc (trong The End)|lf- Hoặc dùng Ender Infuser|lf- Hoặc xây Energy Bridge"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.endercapacitor_1.tooltips",
+    "value": "- Nhấp chuột phải vào Ender Crystal để sạc (trong The End)|lf- Hoặc dùng Ender Infuser|lf- Hoặc xây Energy Bridge"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.endercapacitor_2.tooltips",
+    "value": "- Nhấp chuột phải vào Ender Crystal để sạc (trong The End)|lf- Hoặc dùng Ender Infuser|lf- Hoặc xây Energy Bridge"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_endercore_0_active.tooltips",
+    "value": "- Cách nhận vật phẩm này:|lf   Nhấp chuột phải vào Ender Crystal (tại The End, thực thể|lf   nằm trên đỉnh các cột obsidian) bằng Inactive Ender Core"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_endercore_1_active.tooltips",
+    "value": "- Cách nhận vật phẩm này:|lf   Nhấp chuột phải vào Ender Crystal (tại The End, thực thể|lf   nằm trên đỉnh các cột obsidian) bằng Inactive Ender Core"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_endercore_2_active.tooltips",
+    "value": "- Cách nhận vật phẩm này:|lf   Nhấp chuột phải vào Ender Crystal (tại The End, thực thể|lf   nằm trên đỉnh các cột obsidian) bằng Inactive Ender Core"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_endercore_0_inactive.tooltips",
+    "value": "- Nhấp chuột phải vào Ender Crystal để kích hoạt (tại The End)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_endercore_1_inactive.tooltips",
+    "value": "- Nhấp chuột phải vào Ender Crystal để kích hoạt (tại The End)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_endercore_2_inactive.tooltips",
+    "value": "- Nhấp chuột phải vào Ender Crystal để kích hoạt (tại The End)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.enderpart_enderrelic.tooltips",
+    "value": "- Triệu hồi một Ender Crystal mới|lf- Dùng lên một khối Obsidian trên đỉnh|lf  các cột obsidian tại The End|lf- Tại The End, cần nền Obsidian ít nhất 3x3x6|lf- Có thể gây nguy hiểm cho sức khỏe của bạn...|lf- Cũng có thể triệu hồi Ender Crystal trang trí|lf  ở các chiều không gian khác (không có yêu cầu đặc biệt)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "item.enderutilities.endersword.tooltips",
+    "value": "- Thanh kiếm sẽ không bao giờ hỏng hoàn toàn|lf- Sửa trên đe bằng một Advanced Ender Alloy và 15 cấp|lf- Shift + phím chuyển đổi chế độ: chuyển chế độ kiếm|lf  - Thường: không có chức năng đặc biệt|lf  - Người chơi: vật phẩm do mob bị tiêu diệt rơi ra sẽ được đưa|lf    thẳng vào túi đồ người chơi nếu có thể.|lf  - Từ xa: vật phẩm sẽ được dịch chuyển tới|lf    đích của Link Crystal đã chọn nếu có thể.|lf  - Triệu hồi: Gây sát thương trực tiếp tối thiểu, triệu hồi tối đa 3|lf    Ender Fighter mới để tấn công mục tiêu.|lf- The Ender Fighters sẽ nổi giận và tấn công người chơi|lf  nếu trong phạm vi 32 khối không có người chơi nào cầm Ender Sword|lf  ở chế độ Triệu hồi.|lf- Ender Fighter nhàn rỗi sẽ biến mất sau khoảng 10 giây.|lf- Dùng Name Tag lên chúng sẽ khiến chúng trở nên ôn hòa.|lf- Chế độ Người chơi cần một Basic Ender Core đang hoạt động|lf- Chế độ Từ xa cần một Enhanced Ender Core đang hoạt động|lf  (vận chuyển liên không gian) hoặc một Advanced Ender Core|lf  đang hoạt động (vận chuyển xuyên chiều không gian)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "tile.enderutilities.energy_bridge_transmitter.tooltips",
+    "value": "- Energy Bridge đang hoạt động sẽ tự động|lf  sạc Ender Capacitor khi capacitor được|lf  lắp vào một vật phẩm mô-đun|lf  và vật phẩm nằm trong hành trang của người chơi|lf- Cần một Transmitter trong The End|lf- Không cần giữ chunk được tải|lf  (thực tế nó không chủ động làm gì cả)|lf- Xây Transmitter quanh một Ender Crystal|lf  (trên các cột Obsidian trong The End)|lf- Chừa hai khối không khí phía trên Crystal|lf  rồi đặt Transmitter|lf- Đặt bốn Resonators ngang tầng với|lf  Ender Crystal, cách nhau hai khối không khí|lf- Các Resonators phải hướng vào Crystal|lf  (đặt khi nhìn ra ngoài)|lf- Từ Transmitter lên đến trời chỉ được có|lf  các khối trong suốt|lf- Không được có bất kỳ khối nào|lf  giữa các Resonators và/hoặc tâm"
+  },
+  {
+    "namespace": "ftbbackups",
+    "key": "commands.backup.usage",
+    "value": "/backup"
+  },
+  {
+    "namespace": "ftbbackups",
+    "key": "commands.backup.start.usage",
+    "value": "/backup start [custom name]"
+  },
+  {
+    "namespace": "ftbbackups",
+    "key": "commands.backup.time.usage",
+    "value": "/backup time"
+  },
+  {
+    "namespace": "ftbbackups",
+    "key": "commands.backup.size.usage",
+    "value": "/backup size"
+  }
+]

@@ -1,0 +1,277 @@
+{
+  "enchantment.abyssalcraft.coralium.desc": {
+    "en": "Inflicts the Coralium Plague on hit",
+    "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "path": "assets/abyssalcraft/lang/en_us.lang"
+  },
+  "enchantment.abyssalcraft.dread.desc": {
+    "en": "Inflicts the Dread Plague on hit",
+    "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "path": "assets/abyssalcraft/lang/en_us.lang"
+  },
+  "enchantment.abyssalcraft.iron_wall.desc": {
+    "en": "Reduces the amount of knockback applied when hit by an attack",
+    "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "path": "assets/abyssalcraft/lang/en_us.lang"
+  },
+  "enchantment.abyssalcraft.light_pierce.desc": {
+    "en": "Increases damage against Shadow mobs",
+    "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "path": "assets/abyssalcraft/lang/en_us.lang"
+  },
+  "enchantment.abyssalcraft.sapping.desc": {
+    "en": "Increases the amount of energy a Staff of Rending can drain",
+    "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "path": "assets/abyssalcraft/lang/en_us.lang"
+  },
+  "enchantment.abyssalcraft.multi_rend.desc": {
+    "en": "Drains energy from mobs surrounding the target",
+    "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "path": "assets/abyssalcraft/lang/en_us.lang"
+  },
+  "enchantment.bewitchment.magic_protection.desc": {
+    "en": "Reduces damage from magic.",
+    "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+    "path": "assets/bewitchment/lang/en_us.lang"
+  },
+  "enchantment.cofhcore.holding.desc": {
+    "en": "Increases the storage capacity of certain items.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.insight.desc": {
+    "en": "Increases experience gain when using the item.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.leech.desc": {
+    "en": "Restores health when a mob is killed.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.multishot.desc": {
+    "en": "The bow will fire additional arrows with each shot. Only one arrow is consumed.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.smashing.desc": {
+    "en": "Harvested ores will be smashed to pieces, improving yield.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.smelting.desc": {
+    "en": "Harvested blocks will automatically be smelted, as if by a Furnace.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.soulbound.desc": {
+    "en": "The item will remain with the owner after an untimely demise.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.cofhcore.vorpal.desc": {
+    "en": "Randomly performs powerful attacks and decapitations.",
+    "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "path": "assets/cofh/lang/en_US.lang"
+  },
+  "enchantment.draconicevolution.enchant_reaper.desc": {
+    "en": "When applied to a weapon this enchant increases that chance that a mob killed by sad weapon will drop their soul. This enchantment is best applied to Draconic Evolution weapons as it stacks with their built in reaper modifier.",
+    "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+    "path": "assets/draconicevolution/lang/en_US.lang"
+  },
+  "enchantment.evilcraft.breaking.desc": {
+    "en": "Your tools break faster",
+    "jar": "EvilCraft-1.12.2-0.10.78.jar",
+    "path": "assets/evilcraft/lang/en_us.lang"
+  },
+  "enchantment.evilcraft.life_stealing.desc": {
+    "en": "Steal health from attacked mobs",
+    "jar": "EvilCraft-1.12.2-0.10.78.jar",
+    "path": "assets/evilcraft/lang/en_us.lang"
+  },
+  "enchantment.evilcraft.unusing.desc": {
+    "en": "Tools become unusable when having one durability left",
+    "jar": "EvilCraft-1.12.2-0.10.78.jar",
+    "path": "assets/evilcraft/lang/en_us.lang"
+  },
+  "enchantment.evilcraft.poison_tip.desc": {
+    "en": "Damaged mobs get poisoned",
+    "jar": "EvilCraft-1.12.2-0.10.78.jar",
+    "path": "assets/evilcraft/lang/en_us.lang"
+  },
+  "enchantment.evilcraft.vengeance.desc": {
+    "en": "Using a tool will spawn Vengeance Spirits",
+    "jar": "EvilCraft-1.12.2-0.10.78.jar",
+    "path": "assets/evilcraft/lang/en_us.lang"
+  },
+  "enchantment.openblocks.explosive.desc": {
+    "en": "Triggers explosions of varying size when jumping or taking damage.",
+    "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+    "path": "assets/openblocks/lang/en_us.lang"
+  },
+  "enchantment.openblocks.last_stand.desc": {
+    "en": "Instead of dying when taking fatal damage, the player is left with 1 health at the cost of experience, costs based on damage and reduced by the total level of Last Stand on all equipment.",
+    "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+    "path": "assets/openblocks/lang/en_us.lang"
+  },
+  "enchantment.openblocks.flim_flam.desc": {
+    "en": "Causes a number of negative effects to nearby players.",
+    "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+    "path": "assets/openblocks/lang/en_us.lang"
+  },
+  "enchantment.spartanshields.ssenchspikes.desc": {
+    "en": "Deals damage to enemies that hit the shield when blocking",
+    "jar": "SpartanShields-1.12.2-1.5.5.jar",
+    "path": "assets/spartanshields/lang/en_us.lang"
+  },
+  "enchantment.minecraft.protection.desc": {
+    "en": "Reduces damage from most sources. ",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.fire_protection.desc": {
+    "en": "Reduces the effects of fire damage. Also reduces the burn time when set on fire.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.feather_falling.desc": {
+    "en": "Reduces fall damage and ender pearl teleportation damage.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.blast_protection.desc": {
+    "en": "Reduces damage from explosions and explosion knockback.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.projectile_protection.desc": {
+    "en": "Reduces damage from projectiles such as arrows and fire balls.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.respiration.desc": {
+    "en": "Extends the amount of time the player can spend under water. Also improves vision while under water.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.aqua_affinity.desc": {
+    "en": "Increases mining speed while underwater. ",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.thorns.desc": {
+    "en": "Causes damage to enemies when they attack you.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.sharpness.desc": {
+    "en": "Increases the damage of the item.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.smite.desc": {
+    "en": "Increases damage against undead mobs such as zombies and skeletons.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.bane_of_arthropods.desc": {
+    "en": "Increases damage against arthropods such as Spiders and Silverfish.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.knockback.desc": {
+    "en": "Increases the knockback strength of the weapon.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.fire_aspect.desc": {
+    "en": "Causes additional fire damage when used to attack a mob.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.looting.desc": {
+    "en": "Mobs will drop more loot when killed.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.efficiency.desc": {
+    "en": "Increases mining speed of the tool.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.silk_touch.desc": {
+    "en": "Allows fragile blocks such as glass to be collected.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.unbreaking.desc": {
+    "en": "Causes the tool to lose durability at a slower rate.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.fortune.desc": {
+    "en": "Some blocks like coal and diamond ore may drop additional items.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.power.desc": {
+    "en": "Increases the damage of arrows fired from the bow.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.punch.desc": {
+    "en": "Increases the knockback strength of arrows fired by the bow.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.flame.desc": {
+    "en": "Arrows fired from the bow will deal additional fire damage. ",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.infinity.desc": {
+    "en": "Allows the bow to fire normal arrows for free. You must have at least one arrow for this to work.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.luck_of_the_sea.desc": {
+    "en": "Increases the chance of getting good loot while fishing.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.lure.desc": {
+    "en": "Decreases the amount of time it takes for a fish to bite the hook.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.depth_strider.desc": {
+    "en": "Increases movement speed while under water.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.frost_walker.desc": {
+    "en": "Freezes water under the player into cracked ice.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.mending.desc": {
+    "en": "Repairs the durability of armor and tools with EXP.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.binding_curse.desc": {
+    "en": "Prevents the enchanted item from being removed from an armor slot.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.vanishing_curse.desc": {
+    "en": "Destroyes the enchanted item if you die with it in your inventory.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  },
+  "enchantment.minecraft.sweeping.desc": {
+    "en": "Increases the damage of sweeping attacks.",
+    "jar": "Wawla-1.12.2-2.6.275.jar",
+    "path": "assets/wawla/lang/en_US.lang"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Acid Cloud",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_acid_cloud\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_acid_cloud",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Acid Cloud tạo ra một màn sương độc, có tính ăn mòn theo hình vành khuyên quanh bạn. Nó di chuyển cùng bạn và gây sát thương cho mọi thực thể chạm phải.$(br2)Modifier mang đến nhiều lựa chọn, gồm hòa trộn mây lửa, tăng tốc độ di chuyển và nhiều hiệu ứng khác.$(br2)$(warning) Nếu không có modifier, tốc độ di chuyển của bạn sẽ giảm trong khi vận phép."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_acid_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:radius_boost",
+      "anchor": "radius_boost"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:peaceful_cloud",
+      "anchor": "peaceful_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:weakening_cloud",
+      "anchor": "weakening_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:moonfall",
+      "anchor": "moonfall"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:unholy_vanquisher",
+      "anchor": "unholy_vanquisher"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:healing_cloud",
+      "anchor": "healing_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:increased_speed",
+      "anchor": "increased_speed"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:fire_cloud",
+      "anchor": "fire_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:slowing",
+      "anchor": "slowing"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_acid_cloud",
+      "modifier": "roots:underwater_increase",
+      "anchor": "underwater_increase"
+    },
+    {
+      "title": "Cấu hình phép thuật",
+      "type": "text",
+      "text": "$(bold)Hồi chiêu:$() Phép thuật có thời gian hồi là $(spell:acid_cloud/SECONDS/cooldown) giây.$(br2)$(bold)Sát thương:$() Mỗi lần kích hoạt, phép thuật gây $(spell:acid_cloud/HEART/damage) tim sát thương lên tối đa $(spell:acid_cloud/damage_count) thực thể.$(br2)$(br2)$(bold)Bán kính:$() Bán kính mặc định đã cấu hình của phép thuật là $(spell:acid_cloud/radius_general) khối.$(br2)$(bold)Tăng bán kính:$() Khi bật modifier $(modifier:radius_boost)$(), bán kính tăng thêm $(spell:acid_cloud/radius_boost) khối."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Poison:$() Kẻ địch chịu Poison $(spell:acid_cloud/ROMAN/poison_amplification) trong $(spell:acid_cloud/SECONDS/poison_duration)$() giây.$(br2)$(bold)Lửa:$() Khi bật modifier $(modifier:fire_cloud)$(), kẻ địch bốc cháy trong $(spell:acid_cloud/fire_duration) giây và một phần sát thương được tính là sát thương lửa.$(br2)$(bold)Ban đêm:$() Khi bật modifier $(modifier:moonfall)$(), sát thương tăng $(spell:acid_cloud/PERCENT/night_modifier_low) lúc hoàng hôn, tăng dần đến $(spell:acid_cloud/PERCENT/night_modifier_high) vào nửa đêm, rồi giảm dần cho đến bình minh."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Undead$(): Với modifier $(modifier:unholy_vanquisher)$(), các sinh vật undead chịu thêm $(spell:acid_cloud/HEART/undead_damage) sát thương.$(br2)$(bold)Hồi phục:$() Với modifier $(modifier:healing_cloud)$(), $(bold)không gây sát thương$(), nhưng tối đa $(spell:acid_cloud/healing_count) sinh vật không thù địch ở gần được hồi $(spell:acid_cloud/HEART/healing) tim và nhận Regeneration $(spell:acid_cloud/ROMAN/regeneration_amplifier) trong $(spell:acid_cloud/SECONDS/regeneration) giây.$(br2)$(bold)Làm chậm:$() Khi bật modifier $(modifier:slowing)$(), các thực thể nhận Slowness $(spell:acid_cloud/ROMAN/slow_amplifier) trong $(spell:acid_cloud/SECONDS/slow_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Dưới nước:$() Với modifier $(modifier:underwater_increase)$(), sát thương gây ra khi ở dưới nước tăng $(spell:acid_cloud/PERCENT/underwater_boost).$(br2)$(bold)Weakness:$() Với modifier $(modifier:weakening_cloud)$(), các thực thể bị ảnh hưởng nhận Weakness $(spell:acid_cloud/ROMAN/weakness_amplifier) trong $(spell:acid_cloud/SECONDS/weakness_duration).$(br2)$(bold)Ôn hòa:$() Với modifier $(modifier:peaceful_cloud)$(), chỉ các thực thể thù địch bị ảnh hưởng."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/baffle_cap"
+      ]
+    }
+  ]
+}

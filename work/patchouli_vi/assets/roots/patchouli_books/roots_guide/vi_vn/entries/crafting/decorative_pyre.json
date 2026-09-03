@@ -1,0 +1,24 @@
+{
+  "name": "Decorative Pyre",
+  "icon": "roots:decorative_pyre",
+  "category": "crafting_decoration",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:decorative_pyre",
+      "text": "Do thiếu các thảo mộc thiết yếu để trở thành một $(l:crafting/pyres)Pyre$() hoạt động hoàn chỉnh, biến thể trang trí này sẽ cháy vĩnh viễn sau khi được đặt.$(br2)Nó cũng tỏa ánh sáng và nhiệt, tạo hiệu ứng của một Pyre cháy không ngừng."
+    },
+    {
+      "type": "text",
+      "text": "$(warning) Giống như $(l:crafting/pyres)Pyres$() thông thường, khối này được tính là một tile entity hoạt động theo tick và có thể ảnh hưởng đến hiệu năng khi dùng với số lượng lớn."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/pyres"
+      ]
+    }
+  ]
+}

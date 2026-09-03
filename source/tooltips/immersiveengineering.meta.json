@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ImmersiveEngineering-0.12-98.jar",
+      "path": "assets/immersiveengineering/lang/en_us.lang"
+    }
+  ]
+}

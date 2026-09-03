@@ -1,0 +1,92 @@
+[
+  {
+    "file": "crafttweaker.json",
+    "key": "dj2.ayeraco_wing.desc2",
+    "value": "§fin the End. Each Ayeraco has a chance to drop 1 or 2."
+  },
+  {
+    "file": "crafttweaker.json",
+    "key": "dj2.chairwand.desc0",
+    "value": "1. Right Click on the Ground to add location to sit."
+  },
+  {
+    "file": "crafttweaker.json",
+    "key": "dj2.rune_orb.desc0",
+    "value": "Increases the amount of LP that can be inserted into the Orb by §62%§r per rune, additively."
+  },
+  {
+    "file": "crafttweaker.json",
+    "key": "dj2.dread_plagued_key.desc1",
+    "value": "§fDungeon. You can enter it by placing down the"
+  },
+  {
+    "file": "ql_00.json",
+    "key": "dj2.quest.db.837.desc",
+    "value": "Smelt your Grout into Seared Bricks and enter Tinkers' Construct!"
+  },
+  {
+    "file": "ql_00.json",
+    "key": "dj2.quest.db.857.desc",
+    "value": "Harvest some Yellow Flowers (Dandelions, Sunflowers, etc.), and turn them into Yellow Dye!"
+  },
+  {
+    "file": "ql_02.json",
+    "key": "dj2.quest.db.965.desc",
+    "value": "Use some Shears to obtain some Thornvines! If you wanna get a lot, make sure to break them from the bottom, since blocks that pop off and are not broken by Shears will just disappear."
+  },
+  {
+    "file": "ql_02.json",
+    "key": "dj2.quest.db.968.desc",
+    "value": "Obtain some Stalagnate commonly found near Thornvines! Simply chop them with an Axe, you can't obtain the leafy version, but you can obtain Stalagnate Seeds to regrow the plant."
+  },
+  {
+    "file": "ql_03.json",
+    "key": "dj2.quest.db.1008.desc",
+    "value": "Craft a Crystal Growth Accelerator and place it next to a block of Water! Provide energy to it through Glass Cables and throw Certus Quartz Seeds inside. Watch as they turn into Pure Certus Quartz Crystals! Note that this machine requires a lot of power. It's recommended that you break up your line of Glass Cables with a Toggle Bus, place a Lever next to it, and only turn it on when you need the Crystal Growth Accelerators to be active.%nYou can technically place up to 6 of these around the water for even faster growth, although placing the 6th will prevent you from accessing the water."
+  },
+  {
+    "file": "ql_05.json",
+    "key": "dj2.quest.db.1103.desc",
+    "value": "Slay some of the creatures in Iceika to obtain their precious Ice Shards!"
+  },
+  {
+    "file": "ql_07.json",
+    "key": "dj2.quest.db.1731.desc",
+    "value": "Craft an §2Uber Conduit Probe§r! Sure, you could just settle for a §ebland§r, §enormal§r §bConduit Probe§r, but if you want to be a True EnderIO Conduit Power User (a good thing to be (give us money)) the §2Uber Conduit Probe§r is a must-have, possibly even a must-have-two! (moneymoneymoneymo-)%n%nWhile a §ebland§r, §eboring§r, §esad§r §bConduit Probe§r can copy and paste a single conduit connection (§cLAME!§r), the §6innovative§r, §6enthralling§r, §6bombastic§r §2Uber Conduit Probe§r can paste over a large area, targeting only the conduit connections with the same direction (§dAWE-INSPIRING!§r). The §2Uber Conduit Probe's§r §6majestic§r, §6powerful§r aura refuses to handle such menial things, such as copying an individual connection (§cPLEBIAN!§r) or diagnosing the network status (§cNERD!§r), leaving such §elowbrow§r, §ederivative§r tasks to the §ebasic§r §bConduit Probe§r."
+  },
+  {
+    "file": "ql_10.json",
+    "key": "dj2.quest.db.1441.desc",
+    "value": "The Ender Inhibitor prevents Endermen or other similar entities from teleporting while within its radius - a must-have for a mob farm."
+  },
+  {
+    "file": "ql_12.json",
+    "key": "dj2.quest.db.1643.desc",
+    "value": "Craft some Floral Fertilizers and use it to gather up all 16 colors of Botania Flowers!%n%nYou can craft them into Petals, plant them, grow them with Bone Meal, and finally shear them to get more."
+  },
+  {
+    "file": "ql_17.json",
+    "key": "dj2.quest.db.265.desc",
+    "value": "Combine Dirty Pearls, Acid, and Emerald to conjure an Ender Pearl.%n%nThen upgrade it into an Eye of the Nightmare using some Blaze Powder, a slice of Glistering Melon and some Shiny Pearls!"
+  },
+  {
+    "file": "ql_17.json",
+    "key": "dj2.quest.db.284.desc",
+    "value": "Use a Lava Bucket and Clean Pearls to make some Blaze Rods!"
+  },
+  {
+    "file": "ql_18.json",
+    "key": "dj2.quest.db.218.desc",
+    "value": "Craft an Essentia Infusion Provider!%n%nUsing your Thaumic Energistics system, you can provide Essentia for regular Infusions with this. No need for Jars anymore!%n%nHowever, since \"vanilla\" Infusion itself cannot be fully automated, I recommend using this in the Auto Infusion Matrix, a custom Modular Machinery Multiblock."
+  },
+  {
+    "file": "ql_20.json",
+    "key": "dj2.quest.ql.20.desc",
+    "value": "Blast off with GalactiCraft, and the Laser Focus Multiblock!"
+  },
+  {
+    "file": "ql_23.json",
+    "key": "dj2.quest.db.636.desc",
+    "value": "Dimensional Shard Ores spawn in any non-void RFTools Dimension from Y=2 to Y=64. Find some and mine up some!%n%nYou'll need a lot of these going forward, so set up a Quarry or Digital Miner in a (preferably pleasant) Dimension of your choice to mine some up."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Runic Dust",
+  "icon": "roots:runic_dust",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có thể thu được Runic Dust bằng cách nghiền $(l:resources/runestone)runestone$() trong $(l:crafting/mortar_and_pestle)mortar$().$(br2)Loại bụi tạo thành giữ lại phần lớn ma lực của Runestone và được dùng làm nguyên liệu cho phép thuật, nghi lễ cùng các công thức chế tạo khác.$(br2)$(info) Có thể nghiền từ một đến năm Runestone cùng lúc."
+    },
+    {
+      "type": "mortar_template",
+      "recipe": "roots:runestone_to_runic_dust_5",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/runestone",
+        "crafting/mortar_and_pestle"
+      ]
+    }
+  ]
+}

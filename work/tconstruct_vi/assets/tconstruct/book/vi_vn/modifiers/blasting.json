@@ -1,0 +1,24 @@
+{
+  "modifier": "blasting",
+  "text": [
+    {
+      "text": "Cho nổ tung mọi block! Xóa sổ chúng thật NHANH!"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Bạn có thể áp dụng nhiều cấp để tăng tốc độ, nhưng có lẽ sẽ mất toàn bộ block khai thác được"
+    }
+  ],
+  "effects": [
+    "Breaks blocks fast",
+    "AOE Tools harvest uneffective blocks too",
+    "Will likely destroy harvested blocks",
+    "Requires only 1 modifier",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:hammer"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Groves",
+  "icon": "roots:grove_stone",
+  "category": "concepts",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sau $(l:concepts/wild_magic)sự suy tàn của Order of Druids$(), nhiều người đã tìm cách tăng cường sức mạnh của Wild Magic để nó sánh ngang với thứ họ từng đánh mất.$(br2)Dù mục đích của họ rất ích kỷ, Grove Stone được tạo ra lại hữu ích đến bất ngờ trong việc khuếch đại Wild Magic và làm chất xúc tác chế tạo.$(br2)Mô phỏng Fey không phải là"
+    },
+    {
+      "type": "multiblock",
+      "name": "Grove Stone",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:grove_stone",
+          "M": "roots:grove_stone[half=middle]",
+          "T": "roots:grove_stone[half=top]"
+        },
+        "pattern": [
+          [
+            " ",
+            "T",
+            " "
+          ],
+          [
+            " ",
+            "M",
+            " "
+          ],
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "enable_visualize": false,
+      "text": "$(o)Bản phác thảo một biến thể gần đây của khối đá nguyên$()"
+    },
+    {
+      "type": "text",
+      "text": "điều mà những Druid hậu thế này có thể làm được, và liệu điều đó có khả thi hay không vẫn chưa rõ.$(br2)Dù vậy, khi kết hợp với một thiết bị được điều hưởng phù hợp, Grove Stone cho phép chế tạo và sáng tạo đa dạng hơn.$(br2)Một số người cho rằng chúng khai thác sức mạnh từ Fey qua những cổng cực nhỏ, đủ lớn để năng lượng đi qua nhưng quá nhỏ để nhìn thấy; tuy nhiên, cơ chế chính xác vẫn chưa rõ."
+    },
+    {
+      "type": "multiblock",
+      "name": "'Fey' Crafter",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:fey_crafter"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ]
+        ]
+      },
+      "enable_visualize": false,
+      "text": "$(o)Dù thiếu bằng chứng, nó thường được gọi là máy chế tạo 'Fey'.$()"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/grove_stone"
+      ]
+    }
+  ]
+}

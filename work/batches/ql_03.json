@@ -1,0 +1,569 @@
+{
+  "chapter_index": 3,
+  "title_key": "dj2.quest.ql.3.title",
+  "chapter_title_en": "6. Mechanized!",
+  "desc_key": "dj2.quest.ql.3.desc",
+  "chapter_desc_en": "Jump into Mekanism, and unlock Applied Energistics 2's ME system.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.3.title",
+      "en": "6. Mechanized!"
+    },
+    {
+      "key": "dj2.quest.ql.3.desc",
+      "en": "Jump into Mekanism, and unlock Applied Energistics 2's ME system."
+    },
+    {
+      "key": "dj2.quest.db.262.title",
+      "en": "Cell Types and Maximizing Storage"
+    },
+    {
+      "key": "dj2.quest.db.262.desc",
+      "en": "Craft the Cell Workbench, a block used to filter AE2 Storage Cells and View Cells.%n%nView Cells are items that go in the top right slots of any terminal, and display only specific items. This can be quite useful in certain situations, as having exclusively the relevant items for a task can allow for easier monitoring. As an example, a View Cell that filters to only show the specific items you have passived, to tell what is struggling to fill up its buffers at a glance, can be very useful for debugging issues and ensuring you don't forget to install necessary upgrade/downgrade.%nAlternatively, they can be inverted with the Inverter Card, allowing you to hide undesired items - such as those nuggets taking up the top rows in lategame.%n%nStorage Cells being filtered restricts what items can be placed inside. Doing this can allow significantly increases storage of specific items.%nThis is because AE2 Storage Cells have a specific number of bytes for storage. Each item is a single bit, allowing for a storage of 8 times as many bytes, and each different type of items requires some bytes being allocated.%nAs an example, for each additional type in a 1k Storage Cell, you can store 128 less items. This is due to each unique type requiring 8 bytes. If only a single item is inside, it can store 8,128 items - 127 stacks. But if all 63 types are used, it can only store 4,160 items - 65 stacks.%nIn larger Storage Cells, the amount of bytes required for a new type of item increases.%n%nThis same effect happens to any type of Storage Cell, although with a varying number of maximum types - Fluid Storage Cells and Gas Storage Cells only have a maximum of 5, and Essentia Storage Cells have 12."
+    },
+    {
+      "key": "dj2.quest.db.441.title",
+      "en": "On Channels"
+    },
+    {
+      "key": "dj2.quest.db.441.desc",
+      "en": "Applied Energistics is a very powerful mod, but there are some things you'll need to wrap your head around before being able to fully take advantage of all the mod's features.%n%nFirstly, channels. Each AE2 machine that's capable of transferring data (items, fluids, gases, or other magical resources coming in later Chapters) uses 1 channel. A simple Glass Cable, Covered Cable, or Smart Cable is capable of transferring 8 channels. Smart Cables also show how many channels they're currently transferring. Dense Cables on the other hand are capable of transferring 32 channels, but some AE2 parts cannot directly connect to Dense Cables (e.g. Import and Export Buses or Storage Buses).%n%nAdditionally, channels also transfer power to each AE2 machine, so you don't have to do that separately. If you only want to transfer power, you can use a piece of Quartz Fiber.%n%nBut channels don't come for free! When setting up a simple ME System without a Controller, you'll have access to a total of 8 channels, which isn't a lot - so to be able to autocraft and autoprocess, you'll need to set up an ME Controller multiblock.%n%nThe ME Controller multiblock is the heart of your ME System, so you can only have 1 of it. To build the multiblock, simply place ME Controller blocks next to each other, such that they only touch with their faces. One of the most common ME Controller layouts is therefore the edges of a cube.%n%nWhy does an ME Controller help? Well, each side of every Controller block provides you with 32 channels! That's a lot of channels if you add it all up! But it might not be the easiest thing to try to transmit those channels to far away places...%n%nSo you have 2 options here: P2P tunnels and/or the ME Quantum Ring.%n%nP2P Tunnels basically compress 32 channels into 1. Simply connect a Dense Cable to one side of your Controller, place a P2P Tunnel on it, and route some Smart Cable out from it. This piece of Smart Cable can store 8 P2P channels, which, when uncompressed, could be used as 8x32 §r=§r 256 channels on the other side. To uncompress the channels, simply use another P2P Tunnel on the other side, and connect the two with a Memory Card! However that's not all. The P2P line you just created is technically not part of your network - it's a separate network! You'll need to power it through either a Quartz Fiber from your original network or another Energy Acceptor. Also, since this is a separate network, feel free to use another Controller multiblock in it, if 8 P2P channels aren't enough.%n%nSo, with P2P Tunnels, if you ever need to route up to 8 Dense Cables to a certain place - you no longer have to! A Single Smart Cable will be enough.%n%nAlternatively, you can transmit up to 32 regular or P2P channels wirelessly through a Quantum Ring multiblock. To set this up, use 1 Quantum Link Chamber with 8 Quantum Rings around it. Set this up twice in 2 far-away places, and connect them up with 2 Quantum Entangles Singularities that are bound to each other. (You can create a bound pair by blowing up an AE2 Singularity and an Ender Pearl Dust.) Be aware that both Quantum Ring multiblocks have to be powered through an Energy Acceptor or Quartz Fiber, but the two sides are still part of the same ME Network, so you can't use two Controller multiblocks on each side.%n%nHowever sometimes creating 2 separate systems is very handy.  Because you can create small systems without a Controller multiblock, this allows for small, localized areas to serve as isolated networks, known as a \"subnetwork\". The subnetwork is exposed to the main network via an ME Interface, and from the subnetwork it is being attached with an ME Storage Bus to the main network. This is typically used for autocrafting. Remember that each subnetwork will need power in order to function, which can be supplied through any of the normal ways, in addition to a Quartz Fiber linking power (and only power) from the main network.%n%nFor example Annihilation Planes don't need to be formatted if they're part of a subnet. This is very useful for Botania Livingrock automation for example. Or if you'd like to create a system that drops any items it gets, you can make a small AE2 Subnet with some kind of storage and a formatted Annihilation Plane - this can be very useful for automating items that need to be crafted by dropping something into a liquid.%n%nIf you have any more questions, try things in a Creative world, or ask others on the official Divine Journey 2 Discord server: https://discord.gg/rH9pyS7"
+    },
+    {
+      "key": "dj2.quest.db.651.title",
+      "en": "P2P Visualizer"
+    },
+    {
+      "key": "dj2.quest.db.651.desc",
+      "en": "When you have a lot of P2P Tunnels, it's hard to distinguish where each one of them leads. Let's fix this!%n%nWhile handling this tool, Right Click an ME cable or a device connected to the ME network. If you Right Clicked on a P2P Tunnel, the tool will have it selected.%n%nOnce a network is selected, a GUI will show up, which is the main interface of this tool. It lists all the P2P devices in the target ME network.%n%nA GUI will popup. Green background indicates we are currently selecting this P2P device. When using \"Mode: Bind Output\" on the bottom, this allows for easy binding of two P2P Tunnels.%n%nAfter you select a P2P device with an existing frequency, it will have a green highlight in the world, and devices with the same frequency will be in blue. This helps you find paired P2P devices. To clear the highlight, simply hold your Better Memory Card and press Shift+Right Click.%n%n%nFor more details and example scenarios, read this 3-page guide by the mod author: https://lasm.dev/BetterP2P-Manual/Chapter1-1.html"
+    },
+    {
+      "key": "dj2.quest.db.971.title",
+      "en": "Part of the Elite"
+    },
+    {
+      "key": "dj2.quest.db.971.desc",
+      "en": "Upgrade your Energy Cube even further into the Elite variant!"
+    },
+    {
+      "key": "dj2.quest.db.972.title",
+      "en": "Tiering up"
+    },
+    {
+      "key": "dj2.quest.db.972.desc",
+      "en": "Craft an Advanced Energy Cube! You can craft Energetic Alloy in the Arc Furnace or alloy it in the Smeltery."
+    },
+    {
+      "key": "dj2.quest.db.973.title",
+      "en": "A strong piece of metal"
+    },
+    {
+      "key": "dj2.quest.db.973.desc",
+      "en": "Craft some Reinforced Alloy! This component is used in higher tier machines."
+    },
+    {
+      "key": "dj2.quest.db.974.title",
+      "en": "I accept with no payback"
+    },
+    {
+      "key": "dj2.quest.db.974.desc",
+      "en": "Craft an Energy Acceptor! Your ME System needs power through this machine. Use Glass, Covered, or Smart cables to route the energy from the Acceptor to your Controller, or simply place it next to the Controller."
+    },
+    {
+      "key": "dj2.quest.db.975.title",
+      "en": "Fast and Furious"
+    },
+    {
+      "key": "dj2.quest.db.975.desc",
+      "en": "Okay, now what could possibly require more energy than this!?%n%n*Insert another warning about FPS issues.*"
+    },
+    {
+      "key": "dj2.quest.db.976.title",
+      "en": "Even faster, if possible!"
+    },
+    {
+      "key": "dj2.quest.db.976.desc",
+      "en": "Still need more energy transfer? Well, craft some Elite Universal Cables, they might do the job! But again, use them sparingly because of FPS issues."
+    },
+    {
+      "key": "dj2.quest.db.977.title",
+      "en": "Charrrrrgin' up"
+    },
+    {
+      "key": "dj2.quest.db.977.desc",
+      "en": "Craft a Charger! Use it to create some Charged Certus Quartz Crystals! Make sure to automate it as soon as possible with 2 Itemducts on the side: one pushing regular Certus into the Charger, one pulling Charged Certus out! Make sure to set up a filter for Charged Certus Quartz. The Charger can accept both regular power and transformed power through Glass Cables placed after an Energy Acceptor. However it'll most likely work faster with regular power."
+    },
+    {
+      "key": "dj2.quest.db.978.title",
+      "en": "We're gonna be rich!"
+    },
+    {
+      "key": "dj2.quest.db.978.desc",
+      "en": "Make some Enriched Alloy in your Metallurgic Infuser!"
+    },
+    {
+      "key": "dj2.quest.db.979.title",
+      "en": "Heavy Metal"
+    },
+    {
+      "key": "dj2.quest.db.979.desc",
+      "en": "Craft a Metallurgic Infuser! This is the main machine you'll use to create all the various Mekanism components. Like for all Mekanism machines, you can simply connect an Immersive Engineering Wire Coil to it by placing a Wire Connector on any side. Once it's powered, place the main material in the second slot from the left, and the infusing material in the first slot from the left. Note that the machine can only hold and use one type of infusing material at once, meaning you're most likely better off creating multiple Metallurgic Infusers for maximum efficiency. To automate the machine, click on the Side Config button on the left. You can select which side you want items, infusion materials, and energy to be input on, and which side you want to use as output. Make sure to push and pull items in/out with a Hopper or an Itemduct with an active Servo on it. And one more thing: All Mekanism machines can be picked up and moved by a Crescent Hammer from Thermal Expansion, so you don't need to worry about energy loss."
+    },
+    {
+      "key": "dj2.quest.db.980.title",
+      "en": "Toughen up"
+    },
+    {
+      "key": "dj2.quest.db.980.desc",
+      "en": "Craft a Steel Casing! It's used as a basis of all Mekanism machines."
+    },
+    {
+      "key": "dj2.quest.db.981.title",
+      "en": "At your Service"
+    },
+    {
+      "key": "dj2.quest.db.981.desc",
+      "en": "Craft some Servos! Attach them onto an Itemduct to have it automatically pull items out of a container. Right Click on the Servo to turn Redstone Control to Ignored mode and have them always run! You can also craft Hardened Servos at this stage, which pull slightly faster."
+    },
+    {
+      "key": "dj2.quest.db.982.title",
+      "en": "Better than Hoppers"
+    },
+    {
+      "key": "dj2.quest.db.982.desc",
+      "en": "Craft some Itemducts from Thermal Expansion! To use them, place one next to a container or machine, and apply a Servo if you want to pull items out of it. Servos can be Right Clicked on to change them to Always On mode."
+    },
+    {
+      "key": "dj2.quest.db.983.title",
+      "en": "It's watching you"
+    },
+    {
+      "key": "dj2.quest.db.983.desc",
+      "en": "Craft the Eye of Gaea...!%n%n%n%n...Just don't let it SEE you..... D:"
+    },
+    {
+      "key": "dj2.quest.db.984.title",
+      "en": "Allowy me to introduce..."
+    },
+    {
+      "key": "dj2.quest.db.984.desc",
+      "en": "...the Atomic Alloy! Such impeccable purity! Such magnificent beauty! It's the highest tier Alloy from Mekanism."
+    },
+    {
+      "key": "dj2.quest.db.985.title",
+      "en": "Crushin' it even more"
+    },
+    {
+      "key": "dj2.quest.db.985.desc",
+      "en": "Craft a Mekanism Crusher! It works alongside the Enrichment Chamber, but instead of grinding Ores, it can grind down Ingots into their Dust form."
+    },
+    {
+      "key": "dj2.quest.db.986.title",
+      "en": "Ore Doubling, but faster"
+    },
+    {
+      "key": "dj2.quest.db.986.desc",
+      "en": "Craft an Enrichment Chamber! You can power it and automate it just like the Metallurgic Infuser. This machine doubles ores, just like the Tinkers' Smeltery. However it's much simpler to automate, as it only takes up 1 block of space. Once you ground up your Ores, simply transfer them into an Energized Smelter to turn them into Ingots! And voilà, ore doubling!"
+    },
+    {
+      "key": "dj2.quest.db.987.title",
+      "en": "Like a Capacitor"
+    },
+    {
+      "key": "dj2.quest.db.987.desc",
+      "en": "Craft a Basic Energy Cube! This is the Mekanism way to store energy for later use. You can configure its sides to select where the energy should be inputted or outputted. You can also charge items by placing it into the slot marked with a Plus, and remove charge from an item by placing it into the slot marked with a Minus (granted there is space in the Energy Cube). You can move this machine and all other Mekanism machines with a Crescent Hammer (Shift+Right Click). But by breaking it, it will still retain its energy."
+    },
+    {
+      "key": "dj2.quest.db.988.title",
+      "en": "Drive me crazy"
+    },
+    {
+      "key": "dj2.quest.db.988.desc",
+      "en": "Craft an ME Drive! This is where you can store all your Storage Cells with items inside."
+    },
+    {
+      "key": "dj2.quest.db.989.title",
+      "en": "Print-proont, bzaa-bzee!"
+    },
+    {
+      "key": "dj2.quest.db.989.desc",
+      "en": "Combine your previously created Printed Circuits in the Inscriber to create some Processors! It's recommended to craft and automate multiple Inscribers, as you'll need many Processors from now on."
+    },
+    {
+      "key": "dj2.quest.db.990.title",
+      "en": "Shiny purple gems"
+    },
+    {
+      "key": "dj2.quest.db.990.desc",
+      "en": "Throw some Charged Certus Quartz Crystals, Redstone, and regular Quartz into a puddle of water and watch as they all transform into Fluix Crystals!"
+    },
+    {
+      "key": "dj2.quest.db.991.title",
+      "en": "Oh no!"
+    },
+    {
+      "key": "dj2.quest.db.991.desc",
+      "en": "It needs power... a lot of power... to awaken..."
+    },
+    {
+      "key": "dj2.quest.db.992.title",
+      "en": "Useful green square thingy"
+    },
+    {
+      "key": "dj2.quest.db.992.desc",
+      "en": "Craft 4 Basic Control Circuits! These are heavily used in the creation of more machines."
+    },
+    {
+      "key": "dj2.quest.db.993.title",
+      "en": "Too pricey?"
+    },
+    {
+      "key": "dj2.quest.db.993.desc",
+      "en": "If your machines consume a lot of energy, it might be worth upgrading them with Energy Upgrades! Each machine can accept 8 of them. Use the top right icon on the UI of any machine to apply them!"
+    },
+    {
+      "key": "dj2.quest.db.994.title",
+      "en": "Swear it's not Uranium"
+    },
+    {
+      "key": "dj2.quest.db.994.desc",
+      "en": "Use your Osmium Compressor to create some Infused Obsidian and Infused Glowstone Ingots! Then combine them in the Arc Furnace or the Smeltery to create some Osgloglas Ingots!"
+    },
+    {
+      "key": "dj2.quest.db.995.title",
+      "en": "The Heart of your ME System"
+    },
+    {
+      "key": "dj2.quest.db.995.desc",
+      "en": "Craft an ME Controller and power it through the Energy Acceptor! Each side can provide 32 channels that your AE2 machines can use. If you're running low on channels, try extending the Controller! It can only take the shape of a rectangular frame, so no four Controllers can touch each other in a 2x2 shape!"
+    },
+    {
+      "key": "dj2.quest.db.996.title",
+      "en": "Additional Presses"
+    },
+    {
+      "key": "dj2.quest.db.996.desc",
+      "en": "Find the additional five custom Presses inside of Sky Stone Chests in the middle of Meteorites! It's not too important to find all of them right now, since you'll only need them once you revisit AE2 with Autocrafting, Autoprocessing, Fluid/Gas Storage, higher tier Storage Cells, Wireless Terminals, and Spatial Storage. These are what custom Presses and Processors are used for."
+    },
+    {
+      "key": "dj2.quest.db.997.title",
+      "en": "A Desert where Dinos died"
+    },
+    {
+      "key": "dj2.quest.db.997.desc",
+      "en": "Craft a Meteorite Compass and use it in Atum! That's right, AE2 Meteorites don't generate in the overworld, they only generate inside Atum! This compass will point you to the nearest chunk with a Sky Stone Chest, which generates in the middle of a Meteor. It will start spinning as soon as you've entered such a chunk. It can be a bit tricky to find the Meteor, but it always exists. Each Sky Stone Chest will hold a random selection of the Presses you'll need."
+    },
+    {
+      "key": "dj2.quest.db.998.title",
+      "en": "Connect up your Drawers!"
+    },
+    {
+      "key": "dj2.quest.db.998.desc",
+      "en": "Craft a Storage Bus and connect it to your Drawer Controller to have access to all those items in your ME Network! You can also connect it to various Chests and other storage devices for the same functionality. Also make sure to Right Click on it and set its priority higher than your ME Drive's, because otherwise all your items will get sent back to your Drive, not your Drawers."
+    },
+    {
+      "key": "dj2.quest.db.999.title",
+      "en": "Need items elsewhere!"
+    },
+    {
+      "key": "dj2.quest.db.999.desc",
+      "en": "Craft an Export Bus! Use it to send items to different locations from your ME System!%n%nDue to how Applied Energistics 2 identifies items, if an item with a significant amount of NBT data is placed in the system (such as a Backpack or Tinkers' Construct tool), the item may not be able to be taken out via the terminal. There are a few solutions to this, but the easiest is to use a Fuzzy Card on an Export Bus, bookmark the item that you want to remove, and then drag the bookmark into the Export Bus. This will extract the item from the ME system."
+    },
+    {
+      "key": "dj2.quest.db.1000.title",
+      "en": "Collect all the items!"
+    },
+    {
+      "key": "dj2.quest.db.1000.desc",
+      "en": "Craft an Import Bus! Use it to send items from an outside source into your ME System!"
+    },
+    {
+      "key": "dj2.quest.db.1001.title",
+      "en": "Print-print, bzz-bzoo!"
+    },
+    {
+      "key": "dj2.quest.db.1001.desc",
+      "en": "Use your Inscriber to create some Logic, Engineering, and Silicon Presses!"
+    },
+    {
+      "key": "dj2.quest.db.1002.title",
+      "en": "The OG four"
+    },
+    {
+      "key": "dj2.quest.db.1002.desc",
+      "en": "Find the original four Applied Energistics Presses located inside Sky Stone Chests in the middle of Meteorites! These are the Presses you'll need first."
+    },
+    {
+      "key": "dj2.quest.db.1003.title",
+      "en": "Precision Press"
+    },
+    {
+      "key": "dj2.quest.db.1003.desc",
+      "en": "Craft an Inscriber! Use AE2 Presses found in Atum and basic materials to create Printed Circuits and Processors! To automate it, push items into the machine from different sides. The top side will accept items that go in the top slot, the side will accept the central items, and guess what the bottom does. And pull out items from the other side. The Inscriber takes regular power, but can also work using the power from an Energy Acceptor through Glass Cables."
+    },
+    {
+      "key": "dj2.quest.db.1004.title",
+      "en": "Channel the channels"
+    },
+    {
+      "key": "dj2.quest.db.1004.desc",
+      "en": "A Dense Cable only has a 32-channel capacity, but if you want to route more channels to a faraway location, you can use a P2P tunnel. With this, you can transform your Smart or Dense Cable to route 32 channels per cable-channel, then on the other end use another P2P tunnel to turn it back into regular functionality. To connect the two P2P tunnels at each end, use a Memory Card.%n%nThis will save you many Dense Cables. Instead of having to run 16 Dense Cables at once, you can run just 1, and have 16-16 P2P Tunnels at each end, with pairs joined by Memory Cards."
+    },
+    {
+      "key": "dj2.quest.db.1005.title",
+      "en": "Giga Storage"
+    },
+    {
+      "key": "dj2.quest.db.1005.desc",
+      "en": "Wanna go further? Craft a 1024k Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1006.title",
+      "en": "Mega Storage"
+    },
+    {
+      "key": "dj2.quest.db.1006.desc",
+      "en": "Once you have access to higher tier materials from other Chapters, come back to craft a 256k Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1007.title",
+      "en": "Zwoooooosh!"
+    },
+    {
+      "key": "dj2.quest.db.1007.desc",
+      "en": "Craft some Acceleration Cards! This can speed up your Import/Export Buses, or the crafting speed of your Inscribers."
+    },
+    {
+      "key": "dj2.quest.db.1008.title",
+      "en": "Purity is key"
+    },
+    {
+      "key": "dj2.quest.db.1008.desc",
+      "en": "Craft a Crystal Growth Accelerator and place it next to a block of Water! Provide energy to it through Glass Cables and throw Certus Quartz Seeds inside. Watch as they turn into Pure Certus Quartz Crystals! Note that this machine requires a lot of power. It's recommended that you break up your line of Glass Cables with a Toggle Bus, place a Lever next to it, and only turn it on when you need the Crystal Growth Accelerators to be active.%nYou can technically place up to 6 of these around the water for even faster growth, although placing the 6th will prevent you from accessing the water."
+    },
+    {
+      "key": "dj2.quest.db.1009.title",
+      "en": "Faster! Faster!!"
+    },
+    {
+      "key": "dj2.quest.db.1009.desc",
+      "en": "If your Basic Universal Cables can't transfer enough energy, craft some Advanced ones! However, use these ones sparingly as well, since they cause FPS lag too due to inefficient rendering."
+    },
+    {
+      "key": "dj2.quest.db.1010.title",
+      "en": "More Core Galore!"
+    },
+    {
+      "key": "dj2.quest.db.1010.desc",
+      "en": "Craft two Formation and Annihilation Cores! They are used as Crafting Components for AE2."
+    },
+    {
+      "key": "dj2.quest.db.1011.title",
+      "en": "Where my items at?!"
+    },
+    {
+      "key": "dj2.quest.db.1011.desc",
+      "en": "Craft an ME Terminal and connect it to your Network through a Glass or Smart Cable! You can view your items stored in the Network, search for specific items and sort them in numerous ways."
+    },
+    {
+      "key": "dj2.quest.db.1012.title",
+      "en": "S-T-O-R-A-G-E-!-!-! >:OOO"
+    },
+    {
+      "key": "dj2.quest.db.1012.desc",
+      "en": "Craft a 64k Storage Cell. This is the final Storage Cell available before getting into Thermal Expansion."
+    },
+    {
+      "key": "dj2.quest.db.1013.title",
+      "en": "Ultimate Energy Storage"
+    },
+    {
+      "key": "dj2.quest.db.1013.desc",
+      "en": "Craft an Ultimate Energy Cube! For now, this will be your best way of storing energy! ...But wait until you get into EnderIO, late Mekanism, or Draconic."
+    },
+    {
+      "key": "dj2.quest.db.1014.title",
+      "en": "Plumber Pack++"
+    },
+    {
+      "key": "dj2.quest.db.1014.desc",
+      "en": "Not being able to route your Liquids fast enough? Craft some Advanced Mechanical Pipes, maybe they'll do the job!"
+    },
+    {
+      "key": "dj2.quest.db.1015.title",
+      "en": "Wannabe Plumber"
+    },
+    {
+      "key": "dj2.quest.db.1015.desc",
+      "en": "Craft some Basic Mechanical Pipes to be able to move Fluids around easily!"
+    },
+    {
+      "key": "dj2.quest.db.1017.title",
+      "en": "Storage!"
+    },
+    {
+      "key": "dj2.quest.db.1017.desc",
+      "en": "Craft a 1k ME Storage Component. You can either choose to craft a Storage Cell out of it or further upgrade it into a 4k Storage Component."
+    },
+    {
+      "key": "dj2.quest.db.1018.title",
+      "en": "Hypernet! It works!"
+    },
+    {
+      "key": "dj2.quest.db.1018.desc",
+      "en": "Craft some Glass Cables! They can transfer AE2 power and up to 8 channels."
+    },
+    {
+      "key": "dj2.quest.db.1019.title",
+      "en": "Advancing"
+    },
+    {
+      "key": "dj2.quest.db.1019.desc",
+      "en": "Craft 4 Energetic Alloy in the Arc Furnace or by melting Gold, Redstone, and Glowstone in the Smeltery! Then using these materials, craft an Advanced Control Circuit!"
+    },
+    {
+      "key": "dj2.quest.db.1020.title",
+      "en": "It's a me, Mario!"
+    },
+    {
+      "key": "dj2.quest.db.1020.desc",
+      "en": "Craft some Elite Mechanical Pipes, if you're still not satisfied with the speed of your liquid transfer! For now, this is the highest tier available."
+    },
+    {
+      "key": "dj2.quest.db.1021.title",
+      "en": "Channel overflow"
+    },
+    {
+      "key": "dj2.quest.db.1021.desc",
+      "en": "Craft some Dense Smart Cables! They can transmit 32 channels, but can't connect to microblocks, such as a Storage Bus, Exporter, or Importer. Use (non-dense!) Smart Cables branching off from a line of Dense Cables to avoid this problem - but remember, these Smart Cables can only carry 8 channels!"
+    },
+    {
+      "key": "dj2.quest.db.1022.title",
+      "en": "Channel entanglement"
+    },
+    {
+      "key": "dj2.quest.db.1022.desc",
+      "en": "Craft some Smart Cables! Adding to the functionality of Glass Cables, they also show how many channels run through the given Cable, and how many are left available. Different colors of Smart Cables don't connect to each other, they only connect to colorless Smart Cables."
+    },
+    {
+      "key": "dj2.quest.db.1023.title",
+      "en": "Ultra Storage"
+    },
+    {
+      "key": "dj2.quest.db.1023.desc",
+      "en": "This is getting ridiculous... Craft a 4096k Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1024.title",
+      "en": "Extreme Storage"
+    },
+    {
+      "key": "dj2.quest.db.1024.desc",
+      "en": "You've made it! This is the highest tier Item Storage Component available...! Craft a 16384k Storage Component, also known as a 16M Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1025.title",
+      "en": "Calculating, calculating?"
+    },
+    {
+      "key": "dj2.quest.db.1025.desc",
+      "en": "Use your Inscriber with Pure Certus Quartz Crystals to create some Calculation Processors!"
+    },
+    {
+      "key": "dj2.quest.db.1026.title",
+      "en": "It's Pure!"
+    },
+    {
+      "key": "dj2.quest.db.1026.desc",
+      "en": "Craft some Certus Quartz Seed and grow them into Pure Certus Quartz in the Crystal Growth Accelerator!"
+    },
+    {
+      "key": "dj2.quest.db.1027.title",
+      "en": "From small to large cells"
+    },
+    {
+      "key": "dj2.quest.db.1027.desc",
+      "en": "If you have a bunch of smaller Storage Cells full of items, but you want to upgrade to larger Cells, it's worth crafting an ME IO Port. Using this you can empty your items from a smaller Cell into your Storage Network. If the Network only consists of larger Cells, this will effectively transfer items from smaller to larger Cells."
+    },
+    {
+      "key": "dj2.quest.db.1028.title",
+      "en": "STORAGE!!! >:O"
+    },
+    {
+      "key": "dj2.quest.db.1028.desc",
+      "en": "Craft a 16k Storage Component! You might wanna consider storing your items in this or slightly larger Cells if you're starting to run some Quarries."
+    },
+    {
+      "key": "dj2.quest.db.1029.title",
+      "en": "Storage! :O"
+    },
+    {
+      "key": "dj2.quest.db.1029.desc",
+      "en": "Craft a 4k ME Storage Component! These might be enough for the early game. They have plenty of space to store your items."
+    },
+    {
+      "key": "dj2.quest.db.1030.title",
+      "en": "Mek-wires ac-quired!"
+    },
+    {
+      "key": "dj2.quest.db.1030.desc",
+      "en": "Craft some Basic Universal Cables! They can be used to easily transfer energy between two spots! However, I still encourage you to use Immersive Engineering Wires, since in 1.12 Mekanism Universal Cables tend to cause FPS lag due to inefficient rendering. So use them sparingly!"
+    },
+    {
+      "key": "dj2.quest.db.1031.title",
+      "en": "Pump it (louder)!"
+    },
+    {
+      "key": "dj2.quest.db.1031.desc",
+      "en": "Turn up the radio! Blast the stereo! Riiiiiiiight noooowwww...! And craft an Electric Pump! Use this if you need a large amount of Lava from the Nether. It's easier than using individual Buckets for each Lava source block. Simply set it up above a source block of a fluid, power it from the side and place some kind of a fluid container on top. Later you'll be able to use it in conjunction with the Quantum Entagloporter to transfer your Fluids wirelessly."
+    },
+    {
+      "key": "dj2.quest.db.1032.title",
+      "en": "Press Pressentor"
+    },
+    {
+      "key": "dj2.quest.db.1032.desc",
+      "en": "Craft an Osmium Compressor! This machine can create more crafting materials for Mekanism. You can automate it the same way as the Metallurgic Infuser."
+    },
+    {
+      "key": "dj2.quest.db.1033.title",
+      "en": "1x1 Fluid Storage"
+    },
+    {
+      "key": "dj2.quest.db.1033.desc",
+      "en": "Work your way up to an Ultimate Fluid Tank! Right now this is your best way of storing Fluids in a 1x1 area, although for more storage you can make the Dynamic Tank multiblock. Like all Mekanism machines and blocks, this can also be picked up and moved with a Crescent Hammer (Shift+Right Click), and it'll still retain its stored fluid. This is also true when upgrading to a higher tier Tank."
+    },
+    {
+      "key": "dj2.quest.db.1034.title",
+      "en": "Huh, get buuuurned!"
+    },
+    {
+      "key": "dj2.quest.db.1034.desc",
+      "en": "Craft an Energized Smelter! You can smelt your Dusts into Ingots or simply use it as a Furnace powered by energy."
+    },
+    {
+      "key": "dj2.quest.db.1035.title",
+      "en": "Too loud?"
+    },
+    {
+      "key": "dj2.quest.db.1035.desc",
+      "en": "Craft 4 Muffling Upgrades! You can apply these via the top right button of the UI of any machine, and with each upgrade it'll make the machine considerably quieter."
+    },
+    {
+      "key": "dj2.quest.db.1036.title",
+      "en": "Too slow?"
+    },
+    {
+      "key": "dj2.quest.db.1036.desc",
+      "en": "Craft 8 Speed Upgrades! This is the maximum that a Mekanism Machine can accept. Simply click on the Upgrades slot in the top right of the UI of any machine, and place the upgrades in the top right slot. But watch out, with each upgrade, the machine will require more and more power!"
+    },
+    {
+      "key": "dj2.quest.db.1727.title",
+      "en": "Hamster Roleplay"
+    },
+    {
+      "key": "dj2.quest.db.1727.desc",
+      "en": "Craft some Viaducts from Thermal Dynamics! These can transport the player quite quickly in any direction to preset openings. To use them, you'll need to create openings via Right Clicking them with a wrench. Then, Right Clicking without a wrench in hand on the opening will open that Viaduct's GUI. In the GUI, you can customize a Viaduct's name and item icon or move to any other Viaduct opening in the network.%n%nViaducts move the player at a rate of 10 blocks per second.%n%nYour Viaduct network can be augmented later on with Long Range Viaducts, which move the player twice as fast but can only connect to your Viaduct network with Long Range Linking Viaducts as intermediary blocks, and can only have 2 Long Range Linking Viaducts connected."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+      "path": "assets/jecalculation/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Fey Fire",
+  "icon": "roots:fey_fire",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:fey_fire",
+      "text": "Elemental Grove là một nguồn sức mạnh phi thường, và Fey Fire là một biểu hiện của sức mạnh ấy.$(br2)$(info) Ngọn lửa này không gây hại cho người chơi hoặc sinh vật hiền lành, nhưng sinh vật thù địch bị Fey Fire giết sẽ được tính như bị người chơi có Fortune II tiêu diệt."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/ritual_fire_storm",
+        "spells/spell_wild_fire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Biome Shift",
+  "category": "rituals",
+  "icon": "minecraft:sapling",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bằng sức mạnh siêu nhiên, nghi thức này thay đổi thời tiết cục bộ trong một khu vực theo ý muốn của phù thủy. Tuy nhiên, người thực hiện phải dùng boline (nhấp chuột phải) tại biome mong muốn để nghi thức có thể thiết lập biome đó."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:biome_shift"
+    }
+  ]
+}

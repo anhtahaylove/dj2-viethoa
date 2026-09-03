@@ -1,0 +1,16 @@
+{
+ "item.dart.desc": "Dart là loại đạn dùng cho Dart Shooter. Một chồng cho rất nhiều phát bắn, và chúng cải biến được như mọi công cụ khác.\\nKhông chịu ảnh hưởng của trọng lực, nhưng sát thương thấp.",
+ "item.dart_shooter.desc": "Dart Shooter, hay Blowgun, cho phép bạn bắn phi tiêu cực chuẩn.\\nChỉ cần đừng hít vào là được!",
+ "modifier.antigrav.desc": "§oDẹp trọng lực!§r\\nLàm các khối phù hợp bay lơ lửng khi bạn shift+chuột phải, tốn 4 độ bền.",
+ "modifier.cushy.desc": "§oNhư một chiếc nệm.§r\\nMượt như lụa, nhưng chẳng đau mấy.",
+ "modifier.enlightened.desc": "§oMón khoái khẩu của các vị thần.§r\\nCho 5% cơ hội các khối rơi ra Ambrosium shard.",
+ "modifier.festive.desc": "§oKẹo gậy!§r\\nLiếm chúng trên một cây thương rồi đi hạ kẻ địch.",
+ "modifier.gilded.desc": "§oNhựa cây óng ánh!§r\\nGolden Amber thu hoạch được từ khúc Golden Oak.",
+ "modifier.launching.desc": "§oĐấm móc ngược!§r\\nHất tung sinh vật bị đánh lên cao.",
+ "modifier.reach.desc": "§oCánh tay thiên thần!§r\\nKhi cầm công cụ này, bạn với xa hơn.",
+ "modifier.refrigeration.desc": "§oMột chiếc tủ đông hình công cụ!§r\\nKhối thu hoạch được sẽ bị đóng băng.",
+ "modifier.skyrooted.desc": "§oLần đầu thì nhân đôi.§r\\nĐồ rơi thêm từ các khối Aether sinh ra tự nhiên.",
+ "modifier.swetty.desc": "§oIu, nhớp nháp!§r\\nRửa là trôi thôi.",
+ "modifier.zany.desc": "§oTốc độ chạy bằng entropy.§r\\nCông cụ càng mòn thì đào càng nhanh đáng kể.",
+ "modifier.zany.extra": "Zany Speed: x%s"
+}

@@ -1,0 +1,22 @@
+{
+  "ftbutilities.auto_shutdown": "Tự động tắt máy chủ",
+  "ftbutilities.auto_shutdown.enabled_singleplayer": "Bật trong chế độ chơi đơn",
+  "ftbutilities.auto_shutdown.times": "Thời điểm tắt máy chủ",
+  "ftbutilities.afk": "AFK",
+  "ftbutilities.afk_kicked": "Bạn sẽ bị đuổi sau: %s",
+  "ftbutilities.afk.enabled_singleplayer": "Bật trong chế độ chơi đơn",
+  "ftbutilities.afk.notification_timer": "Thời gian thông báo",
+  "ftbutilities.afk.log_afk": "Ghi nhật ký AFK",
+  "ftbutilities.server_info": "Thông tin máy chủ",
+  "ftbutilities.server_info.difficulty": "Độ khó",
+  "ftbutilities.server_info.admin_quick_access": "Truy cập nhanh dành cho quản trị viên",
+  "ftbutilities.chat": "Trò chuyện",
+  "ftbutilities.commands": "Lệnh",
+  "ftbutilities.login": "Đăng nhập",
+  "ftbutilities.login.enable_motd": "Bật MOTD",
+  "ftbutilities.login.enable_starting_items": "Bật vật phẩm khởi đầu",
+  "ftbutilities.login.enable_global_badges": "Bật huy hiệu toàn cục",
+  "ftbutilities.login.enable_event_badges": "Bật huy hiệu sự kiện",
+  "ftbutilities.login.motd": "MOTD",
+  "ftbutilities.login.starting_items": "Vật phẩm khởi đầu"
+}

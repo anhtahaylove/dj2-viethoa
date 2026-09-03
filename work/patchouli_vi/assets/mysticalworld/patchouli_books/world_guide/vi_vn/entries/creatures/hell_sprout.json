@@ -1,0 +1,22 @@
+{
+  "name": "Hell Sprout",
+  "icon": "minecraft:nether_wart",
+  "category": "creatures",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "hell_sprout",
+      "breed": "Nhân giống: bằng Cooked Aubergine.",
+      "tame": "Thuần hóa: không thuần hóa được.",
+      "blurb": "Thường thấy lang thang yên bình trong Nether, thỉnh thoảng trồng Nether Wart."
+    },
+    {
+      "type": "entity",
+      "name": "Hell Sprout",
+      "entity": "mysticalworld:entity_hell_sprout",
+      "scale": 1,
+      "offset": 0,
+      "text": ""
+    }
+  ]
+}

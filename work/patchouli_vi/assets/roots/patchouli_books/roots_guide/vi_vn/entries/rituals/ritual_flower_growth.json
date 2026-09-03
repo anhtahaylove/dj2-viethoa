@@ -1,0 +1,31 @@
+{
+  "name": "Flower Growth",
+  "icon": "roots:ritual_flower_growth",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_flower_growth",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Muôn vàn loài hoa sẽ mọc quanh pyre, hữu ích để tạo các tài nguyên như $(l:resources/petals)petals$(), thuốc nhuộm hoặc dùng trang trí.$(br2)$(info) $(l:spells/natures_scythe)Nature's Scythe$() giúp dọn cỏ cao trước nghi lễ một cách dễ dàng.$(br2)Có thể cấu hình các loài hoa do nghi lễ này trồng bằng CraftTweaker."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_flower_growth",
+      "text": "Vì là nghi lễ $(l:rituals/tiers)$(bold)bậc 0$(), nghi lễ này không có thêm yêu cầu nào để hoàn thành."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi thức",
+      "text": "$(bold)Thời lượng:$() Nghi thức kéo dài $(ritual:flower_growth/SECONDS/duration) giây.$(br2)$(bold)Kích thước:$() Khu vực nghi thức mở rộng $(ritual:flower_growth/radius_x) và $(ritual:flower_growth/radius_z) khối từ tâm theo chiều ngang, cùng $(ritual:flower_growth/radius_y) khối theo chiều dọc.$(br2)$(bold)Tần suất:$() Hoa mọc sau mỗi $(ritual:flower_growth/SECONDS/interval) giây khi tìm được vị trí phù hợp."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/petals",
+        "resources/rare_flowers"
+      ]
+    }
+  ]
+}

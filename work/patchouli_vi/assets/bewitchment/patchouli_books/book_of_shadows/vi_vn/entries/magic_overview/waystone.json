@@ -1,0 +1,16 @@
+{
+  "name": "Waystone",
+  "category": "magic_overview",
+  "icon": "bewitchment:waystone",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Waystone là một phiến đá chạm khắc, thường được liên kết với một địa điểm cụ thể. Khi dùng trong nghi lễ (bằng cách nhấp chuột phải vào nghi lễ đang diễn ra), nó sẽ chuyển kết quả của nghi lễ đến địa điểm đó. Tuy nhiên, trước tiên phải liên kết phiến đá bằng cách nhấp chuột phải vào nó tại địa điểm mong muốn. Mỗi Waystone dùng được ba lần."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:waystone",
+      "text": "Waystone cũng có thể dùng trong các nghi lễ dịch chuyển tức thời."
+    }
+  ]
+}

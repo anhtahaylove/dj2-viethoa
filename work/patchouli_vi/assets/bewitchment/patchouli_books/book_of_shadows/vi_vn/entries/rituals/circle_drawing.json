@@ -1,0 +1,23 @@
+{
+  "name": "Circle Drawing",
+  "category": "rituals",
+  "icon": "bewitchment:ritual_chalk",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Lập tức vẽ một vòng tròn theo loại phấn cầm ở tay phụ, với kích thước phụ thuộc vào nguyên liệu được dùng"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:draw_small"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:draw_medium"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:draw_large"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Obsidian Breaker",
+  "icon": "alchemistry:obsidian_breaker",
+  "category": "utility_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Obsidian Breaker là một vật phẩm đơn giản, dùng để khai thác ngay lập tức một khối obsidian bằng cách giữ Shift và nhấp chuột phải vào khối đó. Vật phẩm sẽ bị tiêu hao trong quá trình này"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:obsidian_breaker"
+    }
+  ]
+}

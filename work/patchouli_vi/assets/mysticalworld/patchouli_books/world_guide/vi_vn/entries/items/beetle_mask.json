@@ -1,0 +1,18 @@
+{
+  "name": "Beetle Mask",
+  "icon": "mysticalworld:beetle_mask",
+  "category": "items",
+  "pages": [
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:beetle_mask",
+      "text": "Carapace có thể dùng để chế tạo một chiếc mặt nạ đáng sợ."
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:beetle_mask",
+      "text": "Khi đeo, chiếc mặt nạ này sẽ triệu hồi những con bọ ma hỗ trợ bạn chiến đấu."
+    }
+  ]
+}

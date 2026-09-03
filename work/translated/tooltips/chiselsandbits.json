@@ -1,0 +1,21 @@
+{
+  "mod.chiselsandbits.config.creativeClipboardSize.tooltip": "Số vật phẩm có thể lưu trong bảng tạm sáng tạo trước khi bị xóa dần; đặt thành 0 để tắt.",
+  "mod.chiselsandbits.config.dynamicModelFaceCount.tooltip": "Các mô hình phức tạp hơn mức này sẽ dùng kết xuất động.",
+  "mod.chiselsandbits.config.dynamicModelRange.tooltip": "Các khối được kết xuất động nằm ngoài phạm vi này sẽ không hiển thị.",
+  "mod.chiselsandbits.config.dynamicModelMinimizeLatancy.tooltip": "Tắt tùy chọn này có thể cải thiện hiệu năng nhưng làm giảm độ phản hồi.",
+  "mod.chiselsandbits.config.dynamicMaxConcurrentTessalators.tooltip": "Khi vượt quá số lượng này, quá trình cập nhật sẽ bắt đầu tạm dừng để tránh quá tải bộ nhớ.",
+  "mod.chiselsandbits.config.enablePositivePrintCrafting.tooltip": "Chế tạo một bản thiết kế dương bằng các bit/túi bit sẽ cho phép bạn chế tạo khối đó.",
+  "mod.chiselsandbits.config.enableStackableCrafting.tooltip": "Tính năng này cho phép xếp chồng cùng một bản thiết kế bằng cách loại bỏ hướng xoay.",
+  "mod.chiselsandbits.config.enableNegativePrintInversionCrafting.tooltip": "Chế tạo một bản thiết kế âm đã lấp đầy bằng một bản thiết kế âm trống.",
+  "mod.chiselsandbits.config.enableChiselToolHarvestCheck.tooltip": "Cần đục kim cương để thu thập các bit obsidian.",
+  "mod.chiselsandbits.config.enableToolHarvestLevels.tooltip": "Phá một khối đục có vật liệu chính là obsidian sẽ cần công cụ cấp kim cương.",
+  "mod.chiselsandbits.config.enableBitLightSource.tooltip": "Khi tắt, các bit phát sáng sẽ chỉ phát quang và khối sẽ không phát ra mức ánh sáng nào.",
+  "mod.chiselsandbits.config.bagStackSize.tooltip": "Kích thước chồng bit trong túi: tối thiểu 64, tối đa 99,999",
+  "mod.chiselsandbits.config.defaultToDynamicRenderer.tooltip": "Theo mặc định, C&B dùng trình kết xuất tĩnh và chuyển sang Dynamic Renderer khi cập nhật. Cài đặt này đảo ngược cơ chế đó; sau khi xác định độ chi tiết của mô hình, hệ thống sẽ quyết định có chuyển lại sang trình kết xuất tĩnh hay không. Hữu ích với các cảnh phức tạp dễ gây giật khi dùng trình kết xuất tĩnh.",
+  "mod.chiselsandbits.config.forceDynamicRenderer.tooltip": "Cài đặt gỡ lỗi, vô hiệu hóa hoàn toàn trình kết xuất tĩnh.",
+  "mod.chiselsandbits.config.useVBO.tooltip": "Theo mặc định, dùng cùng cài đặt với MC nhưng có thể ghi đè.",
+  "mod.chiselsandbits.config.radialMenuVolume.tooltip": "Đặt thành 0 để tắt.",
+  "mod.chiselsandbits.config.dynamicRenderFullChunksOnly.tooltip": "Ngăn chia các chunk được kết xuất động thành từng block riêng lẻ. Cài đặt này cải thiện hiệu năng trong hầu hết trường hợp phổ biến (chunk có một vài block phức tạp), nhưng làm giảm hiệu năng trong trường hợp xấu nhất (chunk chứa đầy các thiết kế cực kỳ phức tạp).",
+  "mod.chiselsandbits.config.requireBagSpace.tooltip": "Yêu cầu có một ô trống trong bag hoặc kho đồ của người chơi trước khi cho phép dùng chisel.",
+  "mod.chiselsandbits.config.voidExcessBits.tooltip": "Xóa mọi bit không thể chứa trong bag hoặc kho đồ của bạn. Giúp cải thiện hiệu năng máy chủ. Thao tác hoàn tác có thể gặp vấn đề vì một số bit đã bị xóa."
+}

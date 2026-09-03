@@ -1,0 +1,15 @@
+{
+  "name": "Blighted Lands",
+  "category": "rituals",
+  "icon": "minecraft:sand",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bằng sức mạnh siêu nhiên, nghi lễ này biến đổi thời tiết tại một khu vực, khiến vùng đất trở nên hoang tàn và cằn cỗi. Tốt nhất nên thi triển lên kẻ địch bằng Waystone để tránh làm đất của chính mình mất khả năng sinh trưởng."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:sowing_salt"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Wooden Shears",
+  "icon": "roots:wooden_shears",
+  "category": "crafting_armor_tools",
+  "sortnum": 8,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:wooden_shears",
+      "text": "Dù kém bền hơn nhiều so với kéo sắt, kéo gỗ vẫn có chức năng tương tự.$(br2)$(info) Có thể dùng để thu hoạch lá và cỏ như khi có Silk Touch, cũng như xén lông cừu."
+    }
+  ]
+}

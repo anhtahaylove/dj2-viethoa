@@ -1,0 +1,47 @@
+{
+  "integrateddynamics": {
+    "exact_registry_value": [
+      "config.integrateddynamics.variable",
+      "info_book.integrateddynamics.manual.prerequisites.squeezer",
+      "info_book.integrateddynamics.manual.prerequisites.drying_basin",
+      "info_book.integrateddynamics.manual.logic.variables.variable_card",
+      "info_book.integrateddynamics.manual.logic.variables.variable_store",
+      "info_book.integrateddynamics.manual.machines.materializer",
+      "info_book.integrateddynamics.manual.machines.proxy",
+      "info_book.integrateddynamics.manual.machines.energy_battery",
+      "info_book.integrateddynamics.manual.machines.generator",
+      "info_book.integrateddynamics.manual.machines.mechanical_squeezer",
+      "info_book.integrateddynamics.manual.machines.mechanical_drying_basin"
+    ],
+    "nameish": [
+      "aspect.aspects.integrateddynamics.read.boolean.inventory.full.name",
+      "aspect.aspects.integrateddynamics.read.boolean.inventory.empty.name",
+      "aspect.aspects.integrateddynamics.read.integer.inventory.count.name",
+      "aspect.aspects.integrateddynamics.read.integer.inventory.countslot.name",
+      "aspect.aspects.integrateddynamics.read.integer.inventory.slots.name",
+      "aspect.aspects.integrateddynamics.read.integer.inventory.slotsfilled.name",
+      "aspect.aspects.integrateddynamics.read.double.inventory.fillratio.name",
+      "aspect.aspects.integrateddynamics.read.list.inventory.itemstacks.name",
+      "aspect.aspects.integrateddynamics.read.itemstack.inventory.name",
+      "operator.operators.integrateddynamics.itemstack.inventory.name",
+      "operator.operators.integrateddynamics.entity.inventory.name"
+    ]
+  },
+  "thermalexpansion": {
+    "exact_registry_value": [],
+    "nameish": []
+  },
+  "bloodmagic": {
+    "exact_registry_value": [
+      "jei.bloodmagic.recipe.altar",
+      "jei.bloodmagic.recipe.alchemyArrayCrafting",
+      "jei.bloodmagic.recipe.soulForge",
+      "jei.bloodmagic.recipe.alchemyTable"
+    ],
+    "nameish": []
+  },
+  "bloodmagicguide": {
+    "exact_registry_value": [],
+    "nameish": []
+  }
+}

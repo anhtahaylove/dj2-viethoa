@@ -1,0 +1,12 @@
+# Safe player-facing tooltip/prose candidates.
+tooltip.ma.growth_accelerator=Grows plants above it faster.
+tooltip.ma.fertilized_essence=Bonemeal that works on Resource Crops.
+tooltip.ma.mystical_fertilizer=Instantly grows a crop.
+tooltip.ma.core_removal=Can be re-claimed using a §cCore Remover§7.
+tooltip.ma.soulium_dagger=Used to obtain §cMob Chunks§7.
+tooltip.ma.crafting_seed=Used for crafting, not planting.
+tooltip.ma.reprocessor_speed=Operation Speed: %st
+tooltip.ma.reprocessor_fuel_rate=Fuel Usage: %s/t
+tooltip.ma.reprocessor_fuel_capacity=Fuel Capacity: %s
+tooltip.ma.hold_shift_for_info=Hold §e§oSHIFT §r§7for info.
+tooltip.ma.no_fall_damage=No Fall Damage

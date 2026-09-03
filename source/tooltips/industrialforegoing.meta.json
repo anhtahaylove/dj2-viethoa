@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+      "path": "assets/industrialforegoing/lang/en_US.lang"
+    }
+  ]
+}

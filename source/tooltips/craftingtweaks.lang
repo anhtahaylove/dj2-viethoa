@@ -1,0 +1,3 @@
+# Safe player-facing tooltip/prose candidates.
+tooltip.craftingtweaks.forceClear=Force Clear Grid
+tooltip.craftingtweaks.forceClearInfo=Drops items if necessary

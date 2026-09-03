@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Cucumber-1.12.2-1.1.3.jar",
+      "path": "assets/cucumber/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "jeiutilities.tooltip.recording": "Cấu hình ghi nhớ công thức",
+  "jeiutilities.tooltip.recording.mode": "Chế độ hiện tại: %s",
+  "jeiutilities.tooltip.recording.description.restricted": "Mở công thức đã ghi nhớ hoặc đánh dấu một công thức trong khi giữ phím Shift.",
+  "jeiutilities.tooltip.recording.description.enable": "Không ghi nhớ hoặc mở công thức khi nhấn Shift.",
+  "jeiutilities.tooltip.recording.information_1": "Giữ phím %s để hiển thị bản xem trước công thức.",
+  "jeiutilities.button.name.disable": "Tắt",
+  "jeiutilities.button.name.enable": "Bật",
+  "jeiutilities.button.name.restricted": "Hạn chế",
+  "key.jeiutilities.displayRecipe": "Hiển thị bản xem trước công thức",
+  "key.jeiutilities.pickBookmark": "Chọn dấu trang",
+  "key.jeiutilities.transferRecipe": "Chuyển công thức (một lần)",
+  "key.jeiutilities.transferRecipeMax": "Chuyển công thức (tối đa)"
+}

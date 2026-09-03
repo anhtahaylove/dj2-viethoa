@@ -1,0 +1,4 @@
+# Safe player-facing tooltip/prose candidates.
+gui.redbook.description.p1=The redstone book is used in combination with the bookcase to emit a redstone signal. When placed on the bookcase a redstone signal will be emitted from all sides except the front. The strength of the signal is based on what slot on the bookcase the book occupies. 
+gui.redbook.description.p2=The bookcase has 16 slots, slot 1 being the top left slot and slot 16 being the bottom right. If the redstone book is placed in slot 1, the bookcase will emit no redstone signal. If the redstone book is placed in slot 2 the bookcase will emit redstone with a strength of 1. Each slot after that increases the strength by 1, all the way to slot 16 which emits a full redstone strength of 15.
+gui.recipe.description=Add a description.

@@ -1,0 +1,3 @@
+# Safe player-facing tooltip/prose candidates.
+item.dart.desc=The Darts are the ammo used for Dart Shooters. One stack provides many shots, and they can be modified as any tool.\nUnaffected by gravity, but do little damage.
+item.dart_shooter.desc=The Dart Shooter, or Blowgun, lets you shoot darts with great accuracy.\nJust try not to inhale!

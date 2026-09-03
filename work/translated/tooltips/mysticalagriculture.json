@@ -1,0 +1,13 @@
+{
+  "tooltip.ma.growth_accelerator": "Giúp cây trồng phía trên phát triển nhanh hơn.",
+  "tooltip.ma.fertilized_essence": "Bonemeal có tác dụng với Resource Crops.",
+  "tooltip.ma.mystical_fertilizer": "Giúp cây trồng phát triển ngay lập tức.",
+  "tooltip.ma.core_removal": "Có thể thu hồi bằng §cCore Remover§7.",
+  "tooltip.ma.soulium_dagger": "Dùng để thu thập §cMob Chunks§7.",
+  "tooltip.ma.crafting_seed": "Dùng để chế tạo, không dùng để trồng.",
+  "tooltip.ma.reprocessor_speed": "Tốc độ hoạt động: %st",
+  "tooltip.ma.reprocessor_fuel_rate": "Mức tiêu thụ nhiên liệu: %s/t",
+  "tooltip.ma.reprocessor_fuel_capacity": "Sức chứa nhiên liệu: %s",
+  "tooltip.ma.hold_shift_for_info": "Giữ §e§oSHIFT §r§7để xem thông tin.",
+  "tooltip.ma.no_fall_damage": "Không nhận sát thương khi rơi"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Boline",
+  "category": "gear",
+  "icon": "bewitchment:boline",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc liềm thường có cán màu trắng. Boline có thể thu hoạch vật phẩm từ sinh vật mà không làm hại chúng, chẳng hạn như lông từ raven hoặc sợi từ sheep. Nó cũng được dùng khi tiến hành các nghi lễ thiên về tự nhiên."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/boline"
+    }
+  ]
+}

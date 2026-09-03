@@ -1,0 +1,27 @@
+{
+  "name": "Wildwood",
+  "icon": "roots:wildwood_log",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:wildwood_log",
+      "text": "Cây Wildwood từng mọc khắp thế giới, nhưng kể từ $(l:concepts/the_fey)the Fading$(), phép thuật duy trì chúng đã suy tàn.$(br2)Giờ đây, tất cả những gì còn lại là các $(l:herbs/wildroot)rễ Wildroot$() khô héo.$(br2)$(info) Một số nhà sưu tầm đã dùng phép thuật để bảo tồn cây non, nhưng chúng rất hiếm và đắt đỏ."
+    },
+    {
+      "type": "text",
+      "title": "Nghi lễ",
+      "text": "Thay vào đó, một pháp sư hoang dã khôn ngoan có thể dùng nghi lễ $(l:rituals/ritual_wildroot_growth)Wildroot Growth$() để ươm mầm và trồng cây từ chính cây Wildroot.$(br2)Wildroot thu được cùng $(l:resources/bark#dark_oak)Bark$() lấy từ cây được dùng trong nhiều công thức, nghi lễ và phép thuật.$(br2)Ngoài ra, Wildwood còn có thể được dùng để $(l:crafting/wildwood)trang trí$() theo nhiều cách."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/wildwood",
+        "crafting/wildwood_armor",
+        "rituals/ritual_wildroot_growth"
+      ]
+    }
+  ]
+}

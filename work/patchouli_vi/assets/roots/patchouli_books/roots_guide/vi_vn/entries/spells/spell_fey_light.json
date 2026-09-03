@@ -1,0 +1,90 @@
+{
+  "name": "Fey Light",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_fey_light\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_fey_light",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này cho phép bạn đặt các nguồn sáng nổi đơn giản lên khối đang nhìn vào.$(br2)Các bổ trợ cho phép bạn chọn màu, khiến chúng tàn dần theo thời gian, đặt chúng tại vị trí của bạn hoặc tiêu thụ toàn bộ nguồn sáng ở gần.$(br2)$(warning) Những nguồn sáng bị tiêu thụ bằng $(modifier:deluminator)$() không thể được khôi phục nếu không đặt lại."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_fey_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:pink_light",
+      "anchor": "pink_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:yellow_light",
+      "anchor": "yellow_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:fixed_light",
+      "anchor": "fixed_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:purple_light",
+      "anchor": "purple_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:deluminator",
+      "anchor": "deluminator"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:green_light",
+      "anchor": "green_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:decaying_light",
+      "anchor": "decaying_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:red_light",
+      "anchor": "red_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:brown_light",
+      "anchor": "brown_light"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_fey_light",
+      "modifier": "roots:blue_light",
+      "anchor": "blue_light"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:fey_light/SECONDS/cooldown) giây.$(br2)$(bold)Deluminator:$() Với bổ trợ $(modifier:deluminator)$(), các nguồn sáng trong bán kính ngang $(spell:fey_light/radius_x) và $(spell:fey_light/radius_z), cùng bán kính dọc $(spell:fey_light/radius_y), sẽ bị tiêu thụ."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/cloud_berry"
+      ]
+    }
+  ]
+}

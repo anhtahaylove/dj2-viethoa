@@ -1,0 +1,65 @@
+{
+  "name": "Động vật",
+  "category": "world",
+  "icon": "bewitchment:owlets_wing",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Muôn loài với đủ hình dáng và kích thước mà bạn có thể bắt gặp trong hành trình"
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Owl",
+      "text": "Một loài chim thường săn thỏ và các động vật nhỏ khác. Nó bay duyên dáng xuyên qua những khu rừng rậm rạp và có thể ban sự duyên dáng ấy cho các phù thủy."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:owl",
+      "scale": 0.75
+    },
+    {
+      "type": "text",
+      "title": "Raven",
+      "text": "Một loài chim đen thường gặp trong rừng. Raven nổi tiếng vì thích những vật nhỏ lấp lánh như Gold Nugget và Silver Nugget. Raven được các phù thủy muốn tinh thông phép thuật rất ưa chuộng."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:raven",
+      "scale": 0.75
+    },
+    {
+      "type": "text",
+      "title": "Snake",
+      "text": "Một loài bò sát có nọc độc, ăn các động vật nhỏ. Bạn cũng có thể dùng Glass Bottle để “vắt” nọc từ Snake. Snake được biết là có mối liên kết mạnh mẽ với các linh hồn, kể cả quỷ, và có thể chia sẻ sức mạnh này với những phù thủy đủ can đảm tìm đến chúng."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:snake",
+      "scale": 0.425
+    },
+    {
+      "type": "text",
+      "title": "Toad",
+      "text": "Một loài lưỡng cư thường gặp gần vùng nước ngọt, đặc biệt là đầm lầy, và ăn động vật không xương sống. Toad được biết là có thể trợ giúp các phù thủy muốn tăng cường hiệu quả thuốc pha chế."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:toad",
+      "scale": 0.75
+    },
+    {
+      "type": "text",
+      "title": "Lizard",
+      "text": "Một loài bò sát phổ biến, xuất hiện ở khắp nơi, từ rừng cây xanh tốt đến vùng đất khô cằn. Lizard thích ăn động vật chân đốt, bao gồm cả nhện."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:lizard",
+      "scale": 0.5
+    }
+  ]
+}

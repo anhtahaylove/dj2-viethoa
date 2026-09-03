@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process | Where-Object { ($_.Name -in @('java.exe','javaw.exe')) -and ($_.CommandLine -match 'net.minecraft.launchwrapper.Launch') } | ForEach-Object { [PSCustomObject]@{PID=$_.ProcessId; HasServer=($_.CommandLine -match '--server'); HasPort=($_.CommandLine -match '--port'); HasAccessToken=($_.CommandLine -match '--accessToken')} } | Format-List

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ThaumcraftFix-1.12.2-1.1.11.jar",
+      "path": "assets/thaumcraft/lang/en_us.lang"
+    }
+  ]
+}

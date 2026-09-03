@@ -1,0 +1,51 @@
+{
+  "name": "Conjuration",
+  "category": "nethers_firstborn",
+  "icon": "minecraft:blaze_powder",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nether có rất nhiều sinh vật quỷ cấp thấp, trong đó có cả những loài mà người phàm cũng có thể điều khiển."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Lesser Hellmouth",
+      "text": "Một khe nứt nhỏ dẫn đến địa ngục, cho phép Pigmen và Magma Cubes thoát ra"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:lesser_hellmouth"
+    },
+    {
+      "type": "text",
+      "title": "Hellmouth",
+      "text": "Một cổng lớn hơn dẫn đến địa ngục, cho phép Blazes và Feuerwurms trồi lên thế giới"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:hellmouth"
+    },
+    {
+      "type": "text",
+      "title": "Greater Hellmouth",
+      "text": "Mở khe nứt lớn nhất có thể đến Nether, đưa Hellhounds, Ghasts và Wither Skeletons tới"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:greater_hellmouth"
+    },
+    {
+      "type": "text",
+      "title": "Triệu hồi Wither",
+      "text": "Mở một cửa địa ngục độc nhất, triệu hồi Wither hùng mạnh đến gieo tai họa cho thế giới này"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:conjure_wither"
+    }
+  ]
+}

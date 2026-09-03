@@ -1,0 +1,102 @@
+{
+  "name": "Extension",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_extension\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_extension",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Theo mặc định, phép này sẽ mở rộng giác quan, cho bạn khả năng nhìn trong bóng tối trong một khoảng thời gian.$(br2)Các bổ trợ có thể mở rộng tầm nhìn hơn nữa: làm nổi bật những thực thể thù địch hoặc hiền hòa ở gần (hoặc cả hai), thậm chí cả các loại khối cụ thể.$(br2)Bạn còn có thể giảm khoảng cách mà thực thể có thể phát hiện ra mình."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_extension"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_home",
+      "anchor": "sense_home"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_animals",
+      "anchor": "sense_animals"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:nondetection",
+      "anchor": "nondetection"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_time",
+      "anchor": "sense_time"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_hostiles",
+      "anchor": "sense_hostiles"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_plants",
+      "anchor": "sense_plants"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_containers",
+      "anchor": "sense_containers"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_spawners",
+      "anchor": "sense_spawners"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_ores",
+      "anchor": "sense_ores"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_extension",
+      "modifier": "roots:sense_liquids",
+      "anchor": "sense_liquids"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:extension/SECONDS/cooldown) giây.$(br2)$(bold)Night Vision:$() Nhận Night Vision trong $(spell:extension/SECONDS/night_vision) giây.$(br2)$(bold)Động vật:$() Với bổ trợ $(modifier:sense_animals)$(), động vật và thực thể hiền hòa trong phạm vi ngang $(spell:extension/radius_animals_x) và $(spell:extension/radius_animals_z) khối, cùng phạm vi dọc $(spell:extension/radius_animals_y) khối, sẽ được làm nổi bật trong $(spell:extension/SECONDS/animal_glow_duration) giây.$(br2)$(bold)Kẻ địch:$() Với bổ trợ $(modifier:sense_hostiles)$(), các thực thể thù địch"
+    },
+    {
+      "type": "text",
+      "text": "trong phạm vi ngang $(spell:extension/radius_hostiles_x) và $(spell:extension/radius_hostiles_z) khối, cùng phạm vi dọc $(spell:extension/radius_hostiles_y) khối, sẽ được làm nổi bật trong$(spell:extension/SECONDS/enemy_glow_duration) giây.$(br2)$(bold)Quặng:$() Với bổ trợ $(modifier:sense_ores)$(), quặng trong phạm vi ngang $(spell:extension/radius_ore_x) và $(spell:extension/radius_ore_z) khối, cùng phạm vi dọc $(spell:extension/radius_ore_y) khối, sẽ được làm nổi bật bằng hạt hiệu ứng.$(br2)$(bold)Quặng đang cầm:$() Với bổ trợ $(modifier:sense_ores)$(), quặng cùng loại với vật phẩm đang cầm ở tay phụ trong phạm vi ngang $(spell:extension/radius_ore_specific_x) và $(spell:extension/radius_ore_specific_z) khối, cùng phạm vi dọc $(spell:extension/radius_ore_specific_y) khối, sẽ được làm nổi bật."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Chất lỏng:$() Với bổ trợ $(modifier:sense_liquids)$(), các khối chất lỏng (như dung nham hoặc nước) trong phạm vi ngang $(spell:extension/radius_liquid_x) và $(spell:extension/radius_liquid_z) khối, cùng phạm vi dọc $(spell:extension/radius_liquid_y) khối, sẽ được làm nổi bật bằng hạt hiệu ứng.$(br2)$(bold)Spawner:$() Với bổ trợ $(modifier:sense_spawners)$(), Spawner trong phạm vi ngang $(spell:extension/radius_spawner_x) và $(spell:extension/radius_spawner_z) khối, cùng phạm vi dọc $(spell:extension/radius_spawner_y) khối, sẽ được làm nổi bật bằng hạt hiệu ứng.$(br2)$(bold)Vật chứa:$() Với bổ trợ $(modifier:sense_containers)$(), vật chứa trong phạm vi ngang $(spell:extension/radius_container_x) và $(spell:extension/radius_container_z) khối, cùng phạm vi dọc $(spell:extension/radius_container_y) khối"
+    },
+    {
+      "type": "text",
+      "text": "sẽ được làm nổi bật bằng hạt hiệu ứng.$(br2)$(bold)Thực vật:$() Với bổ trợ $(modifier:sense_plants)$(), thực vật trong phạm vi ngang $(spell:extension/radius_plants_x) và $(spell:extension/radius_plants_z) khối, cùng phạm vi dọc $(spell:extension/radius_plants_y) khối, sẽ được làm nổi bật bằng hạt hiệu ứng.$(br2)$(bold)Nhà:$() Với bổ trợ $(modifier:sense_home)$(), các hạt hiệu ứng sẽ chỉ về hướng điểm hồi sinh hiện tại của bạn.$(br2)$(bold)Thời gian:$() Với bổ trợ $(modifier:sense_time)$(), một tin nhắn trong khung chat sẽ cung cấp thông tin về ngày và giờ hiện tại."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/wildroot"
+      ]
+    }
+  ]
+}

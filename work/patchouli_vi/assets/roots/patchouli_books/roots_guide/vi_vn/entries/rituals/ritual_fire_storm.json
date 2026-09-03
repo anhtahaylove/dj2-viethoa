@@ -1,0 +1,81 @@
+{
+  "name": "Fire Storm",
+  "icon": "roots:ritual_fire_storm",
+  "category": "rituals",
+  "read_by_default": true,
+  "flags": "roots:ritual_fire_storm",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Những thiên thạch wild fire khổng lồ rơi từ trên trời xuống, xuyên qua mọi chướng ngại trên đường để đến vị trí nghi lễ. Wild fire không thiêu đốt người chơi, vật phẩm hoặc sinh vật hiền lành.$(br2)$(info) Các thực thể bị thiên thạch hoặc wild fire tiêu diệt được tính là do người chơi có Looting II tiêu diệt.$(br2)Wild fire tự tiêu biến theo thời gian."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_fire_storm",
+      "text": "$(standing_stones) Vì là nghi lễ $(l:rituals/tiers)$(bold)bậc IV$(), $(l:rituals/ritual_fire_storm#multiblock)cần 4 standing stones để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          [
+            "   C   ",
+            "       ",
+            "       ",
+            "C     C",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R     R",
+            "       ",
+            "       ",
+            "   C   "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R     R",
+            "       ",
+            "       ",
+            "   R   "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R  0  R",
+            "       ",
+            "       ",
+            "   R   "
+          ]
+        ]
+      },
+      "text": "Cần có các $(l:rituals/standing_stones)standing stones$() bằng runestone hoặc runed obsidian: một cột cao 3 khối và ba cột cao 4 khối."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:fire_storm/SECONDS/duration) giây.$(br2)$(bold)Thiên thạch$(): Mỗi nghi lễ có thể có tối đa $(ritual:fire_storm/projectile_count) thiên thạch cùng hoạt động tại một thời điểm.$(br2)$(bold)Sát thương$(): Mỗi thiên thạch gây chính xác $(ritual:fire_storm/HEART/projectile_damage) tim sát thương, với độ đẩy lùi là $(ritual:fire_storm/projectile_knockback).$(br2)$(bold)Vị trí$(): Nghi lễ hoạt động cả dưới lòng đất lẫn trên mặt đất."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/fey_fire",
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

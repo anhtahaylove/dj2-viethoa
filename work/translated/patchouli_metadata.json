@@ -1,0 +1,15 @@
+{
+  "guide.alchemistry.title": "Alchemistry Guidebook",
+  "guide.alchemistry.landing": "Chào mừng bạn đến với Alchemistry Guidebook. Cuốn sách này sẽ giới thiệu những kiến thức cơ bản về mod.",
+  "item.bewitchment.codex_infernalis.name": "Codex Infernalis",
+  "info.bewitchment.codex_infernalis.landing": "Chỉ cần cầm cuốn sách này cũng đã thấy có gì đó không ổn… bạn có dám tiếp tục không?",
+  "item.bewitchment.book_of_shadows.name": "Book of Shadows",
+  "info.bewitchment.book_of_shadows.landing": "Witchcraft là nghệ thuật cổ xưa về phép thuật và tự nhiên. Cuốn sách này sẽ hướng dẫn bạn tự mình khám phá những bí mật của nó.",
+  "guide.lclanding_text.name": "9bởi SBlectric và Rumaruka oCẩm nang về\\nThế giới Lightning!",
+  "mysticalworld.guidebook.name": "Encyclopædia Mysticum",
+  "mysticalworld.guidebook.landing_text": "Ngoài kia là một thế giới vô cùng bí ẩn! Cuốn sách này sẽ giúp bạn hiểu thêm về nhiều điều kỳ bí và huyền diệu mà bạn có thể bắt gặp.",
+  "item.roots.roots_guide.name": "The Magic of the Wilds",
+  "info.roots.roots_guide.landing": "Cuốn sách này tập hợp kiến thức về phép thuật tự nhiên, có từ thời các Druid cho đến thời hiện đại.$(br2)Ngày nay, các pháp sư hoang dã tìm cách khám phá những phương thức mới và tái khám phá những phương thức cổ xưa mà thế giới tự nhiên trở thành nguồn phép thuật và biến đổi.",
+  "item.twilightforest.guide.name": "Traveller's Logbook",
+  "item.lightningcraft:guide_0.name": "Lightning Guide"
+}

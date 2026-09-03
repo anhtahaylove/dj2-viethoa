@@ -1,0 +1,15 @@
+{
+  "name": "Nazar",
+  "category": "magic_overview",
+  "icon": "bewitchment:nazar",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một lá bùa có hình con mắt, dùng để bảo vệ khỏi sát thương phép thuật và xua đuổi vận rủi."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/bauble/nazar"
+    }
+  ]
+}

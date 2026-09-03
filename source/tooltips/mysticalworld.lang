@@ -1,0 +1,4 @@
+# Safe player-facing tooltip/prose candidates.
+message.squid.cooldown=Give it time to produce more ink!
+message.pearleporter.immature=This clam is has not yet produced a pearl. Wait until it emits particles!
+mysticalworld.tooltip.pearleporter=Right-click a mature clam to extract its pearl without killing it.

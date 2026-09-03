@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "FTBLib-5.4.7.2.jar",
+      "path": "assets/ftblib/lang/en_us.lang"
+    }
+  ]
+}

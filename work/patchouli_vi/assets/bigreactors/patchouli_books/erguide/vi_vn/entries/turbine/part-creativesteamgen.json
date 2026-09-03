@@ -1,0 +1,20 @@
+{
+  "name": "Creative Steam Generator",
+  "icon": "bigreactors:turbinecreativesteamgenerator",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinecreativesteamgenerator",
+      "link_recipe": true,
+      "title": "Steam Generator",
+      "text": "Steam Generator là bộ phận chỉ dành cho chế độ sáng tạo, cung cấp hơi liên tục cho Turbine."
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không$(br)$(l)Chế độ sáng tạo:$() bộ phận này chỉ có trong chế độ sáng tạo và không có công thức chế tạo"
+    }
+  ]
+}

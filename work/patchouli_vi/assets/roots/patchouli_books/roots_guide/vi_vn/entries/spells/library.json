@@ -1,0 +1,56 @@
+{
+  "name": "Spell Library",
+  "icon": "roots:gramary",
+  "category": "spells",
+  "priority": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Việc tạo và quản lý phép thuật là một hệ thống phức tạp, được chia thành nhiều chương.$(li)$(l:spells/introduction)Phần giới thiệu thứ nhất trình bày các khái niệm cơ bản, bao gồm imbuing.$()$(li)$(l:spells/introduction2)Phần giới thiệu thứ hai trình bày cơ chế áp đặt modifier$()$(li)$(l:spells/modifiers)Công dụng thực tế của modifier và phép thuật$()$(li)Mục này trình bày cơ chế và công dụng của Spell Library$()."
+    },
+    {
+      "type": "text",
+      "text": "Về khái niệm, thư viện là toàn bộ kiến thức của bạn về phép thuật và modifier.$(br2)Giao diện dùng để tương tác với kiến thức này cũng được gọi là Spell Library.$(br2)Bạn có thể bổ sung kiến thức bằng cách $(l:spells/introduction#imbuing)imbuing$() spell dust vào một $(l:crafting/gramary)gramary$(), hoặc mở staff của người khác trong giao diện thư viện.$(br2)Bạn có thể bổ sung kiến thức về modifier bằng cách $(l:spells/introduction2)áp đặt modifier$() lên từng phép thuật cụ thể."
+    },
+    {
+      "type": "text",
+      "title": "Giao diện",
+      "text": "Bạn có thể mở giao diện bằng $(l:crafting/staff)staff$(). Chỉ cần cầm staff trên tay rồi nhấn phím được gán ($(k:roots.keybinds.spell_library)) để mở thư viện.$(br2)Giao diện được chia thành hai phần: bên trái là staff hiện tại, còn bên phải chứa mọi phép thuật bạn đã biết.$(br2)$(info) Mở một staff chứa phép thuật bạn chưa biết sẽ thêm các phép thuật đó vào thư viện."
+    },
+    {
+      "type": "image",
+      "title": "Spell Library",
+      "images": [
+        "roots:textures/gui/patchouli/spell_library.png"
+      ],
+      "text": "Di chuột lên một phép thuật cũng sẽ cho biết những modifier nào đã được $(l:spells/introduction2)áp đặt$()."
+    },
+    {
+      "type": "text",
+      "title": "Cách dùng Spell Library",
+      "text": "Công dụng chính của giao diện Spell Library là chọn các phép thuật bạn muốn đưa vào staff.$(br2)Nhấp vào một phép thuật trong thư viện rồi nhấp vào một ô của staff để đặt phép thuật đó vào ô. Tương tự, bạn có thể hoán đổi các phép thuật trong staff theo cách này.$(br2)$(warning) Phép thuật mới thêm sẽ có sẵn modifier nhưng mặc định bị vô hiệu hóa.$(br2)"
+    },
+    {
+      "type": "image",
+      "title": "Giao diện Staff",
+      "images": [
+        "roots:textures/gui/patchouli/spell_library_staff.png"
+      ],
+      "text": "$(bold)Alt-Nhấp$() để truy cập modifier dành riêng cho staff này. $(l:spells/introduction2)Xem modifier$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/introduction",
+        "spells/introduction2",
+        "spells/modifiers",
+        "crafting/staff",
+        "crafting/gramary",
+        "crafting/imposer",
+        "crafting/imbuer"
+      ]
+    }
+  ]
+}

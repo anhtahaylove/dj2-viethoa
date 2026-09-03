@@ -1,0 +1,19 @@
+{
+  "tool": "pickaxe",
+  "text": [
+    {
+      "text": "Pickaxe là công cụ khai mỏ chính xác, hiệu quả với đá và quặng."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nó dùng để phá khối, rõ chưa?"
+    }
+  ],
+  "properties": [
+    "Basic mining tool",
+    "It's a pickaxe",
+    "Mines stone blocks and similar"
+  ]
+}

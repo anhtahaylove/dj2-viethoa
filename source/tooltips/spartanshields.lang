@@ -1,0 +1,23 @@
+# Safe player-facing tooltip/prose candidates.
+tooltip.spartanshields:dev.wip=Currently a Work in Progress (WIP)
+tooltip.spartanshields:dev.unimplemented=Not Yet Implemented!
+tooltip.spartanshields:protection=Max Protection: %d
+tooltip.spartanshields:shieldBash=Block and [%s] to Shield Bash
+tooltip.spartanshields:onBlock=On Block: %s
+tooltip.spartanshields:shieldSilver.desc=Damages Undead mobs
+tooltip.spartanshields:shieldSignalum.desc=Inflicts Weakness (%ds) on enemies
+tooltip.spartanshields:shieldLumium.desc=Inflicts Glowing (%ds) on enemies
+tooltip.spartanshields:shieldEnderium.desc=Inflicts Slowness (%ds) on enemies
+tooltip.spartanshields:shieldElementium.desc=Spawn Pixie (%d%% chance)
+tooltip.spartanshields:rfCapacity=%,d/%,d RF
+tooltip.spartanshields:rfPerDamage=Uses %,d RF per heart of damage absorbed
+tooltip.spartanshields:rfShield.desc=Powered using Redstone Flux
+tooltip.spartanshields:uiCapacity=%,d/%,d µI
+tooltip.spartanshields:uiPerDamage=Uses %,d µI per heart of damage absorbed
+tooltip.spartanshields:feCapacity=%,d/%,d FE
+tooltip.spartanshields:fePerDamage=Uses %,d FE per heart of damage absorbed
+tooltip.spartanshields:feShield.desc=Accepts RF, Micro Infinity, Forge Energy, etc.
+tooltip.spartanshields:hasPatterns=Has the following Banner Patterns:
+tooltip.spartanshields:cantCraftMissingMods=Cannot be crafted. Missing Mods:
+tooltip.spartanshields:cantCraftMissingMaterial=Cannot be crafted. The material %s is missing.
+message.spartanshields:poweredShieldBlockFail=Cannot absorb damage. The shield is out of power.

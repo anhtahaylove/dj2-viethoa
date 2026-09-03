@@ -1,0 +1,41 @@
+{
+  "name": "Bottled Frostfire",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:bottled_frostfire",
+  "pages": [
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:bottled_frostfire",
+      "text": "Một loại lửa nghịch thường, lạnh khi chạm vào. Khi được đặt xuống, nó có thể nung quặng sắt thành Cold Iron nếu ném quặng vào."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:cold_iron_ingot",
+      "text": "Khắc tinh của Oberon và các linh hồn nói chung. Đây là sắt được tôi trong ngọn lửa lạnh để giữ nguyên bản chất thuần khiết, giúp nó có sức mạnh áp chế linh hồn."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/cold_iron_helmet",
+      "recipe2": "bewitchment:equipment/armor/cold_iron_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/cold_iron_leggings",
+      "recipe2": "bewitchment:equipment/armor/cold_iron_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_sword",
+      "recipe2": "bewitchment:equipment/tool/cold_iron_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_hoe",
+      "recipe2": "bewitchment:equipment/tool/cold_iron_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_shovel"
+    }
+  ]
+}

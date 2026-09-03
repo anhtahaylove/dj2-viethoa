@@ -1,0 +1,25 @@
+{
+  "name": "Terrastone Pickaxe",
+  "icon": "roots:terrastone_pickaxe",
+  "category": "crafting_armor_tools_terrastone",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Terrastone tools, giống như $(cat:crafting_armor_tools_living)living tools$(), tự phục hồi dần theo thời gian (thực tế còn nhanh hơn living tools).$(br2)$(info) Chúng có cấp khai thác ngang công cụ kim cương, nhưng độ bền thấp hơn.$(br2)$(info) Terrastone Pickaxe hiệu quả hơn nhiều khi phá các block cứng, nhưng kém hơn đôi chút khi phá các block mềm."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "terrastone_pickaxe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/runed_smasher",
+        "crafting/living_pickaxe"
+      ]
+    }
+  ]
+}

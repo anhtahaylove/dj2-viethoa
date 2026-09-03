@@ -1,0 +1,65 @@
+{
+  "name": "Fumes cơ bản",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:oak_spirit",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fumes là các tinh chất được chiết xuất từ gỗ bằng cách đốt trong Oven. Chúng là thành phần thiết yếu của mọi hình thức phù thủy. Để thu Fume, hãy đặt Clay Jar vào ô giữa hàng dưới của Oven, sau đó đặt một sapling phù hợp vào ô bên trái và nhiên liệu có thể đốt vào ô dưới bên trái."
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:oak_spirit",
+      "text": "Một trong những tinh chất thiết yếu nhất, được tạo từ bất kỳ loại oak sapling nào"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:oak_spirit_alt"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:spruce_heart",
+      "text": "Tinh chất của spruce tree, thiết yếu cho Spinning Wheel"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:birch_soul",
+      "text": "Một loại Fume nhẹ và thanh, chiết xuất từ birch non"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:cloudy_oil",
+      "text": "Một loại dầu phổ biến tạo ra khi nấu thịt và thảo mộc, thường dùng làm dầu nền cho các Fume cao cấp hơn"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:cloudy_oil_alt0"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:acacia_resin",
+      "text": "Một loại Fume khá khó tìm, có khả năng chữa trị mạnh mẽ"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ebb_of_death",
+      "text": "Một loại dầu hôi hám, nồng nặc mùi chết chóc và mục rữa, chiết xuất từ Cypress tree"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:droplet_of_wisdom",
+      "text": "Một tinh chất từ Elder tree, được cho là truyền kiến thức cho người sử dụng"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:liquid_witchcraft",
+      "text": "Một tinh chất từ mandrake, luôn ngân rung năng lượng ma thuật"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:essence_of_vitality",
+      "text": "Cặn mang sức sống thu được khi đốt Yew sapling"
+    }
+  ]
+}

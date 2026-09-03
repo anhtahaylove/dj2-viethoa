@@ -1,0 +1,37 @@
+[
+  {
+    "file": "work/patchouli_vi/assets/bewitchment/patchouli_books/codex_infernalis/vi_vn/entries/transformations/werewolf.json",
+    "key": "pages[2].text",
+    "value": "$(o)Hounds of the Hunt"
+  },
+  {
+    "file": "work/patchouli_vi/assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/beetle.json",
+    "key": "pages[0].blurb",
+    "value": "Sneak-right-clicking with an empty hand will allow you to place the beetle on your shoulder!"
+  },
+  {
+    "file": "work/patchouli_vi/assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/clam.json",
+    "key": "pages[0].blurb",
+    "value": "Pearls are a renewable resource with a $(l:items/pearleporter)pearleporter$()!"
+  },
+  {
+    "file": "work/patchouli_vi/assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/endermini.json",
+    "key": "pages[0].blurb",
+    "value": "These cute little creatures still don't like being looked at!"
+  },
+  {
+    "file": "work/patchouli_vi/assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/lava_cat.json",
+    "key": "pages[0].blurb",
+    "value": "Dousing with water will transform these felines into obsidian!"
+  },
+  {
+    "file": "work/patchouli_vi/assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/sprout.json",
+    "key": "pages[0].blurb",
+    "value": "The drops depend on the colour of the sprout!"
+  },
+  {
+    "file": "work/patchouli_vi/assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/squid.json",
+    "key": "pages[0].blurb",
+    "value": "Using a glass bottle on a squid will give you ink!"
+  }
+]

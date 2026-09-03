@@ -1,0 +1,449 @@
+{
+  "chapter_index": 0,
+  "title_key": "dj2.quest.ql.0.title",
+  "chapter_title_en": "1. The Journey begins!",
+  "desc_key": "dj2.quest.ql.0.desc",
+  "chapter_desc_en": "Welcome to DJ2! I hope you'll enjoy your stay.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.0.title",
+      "en": "1. The Journey begins!"
+    },
+    {
+      "key": "dj2.quest.ql.0.desc",
+      "en": "Welcome to DJ2! I hope you'll enjoy your stay."
+    },
+    {
+      "key": "dj2.quest.db.471.title",
+      "en": "What is BQ?"
+    },
+    {
+      "key": "dj2.quest.db.471.desc",
+      "en": "§c§lIMPORTANT:§r§c Whenever the Questbook changes, do §e/bq_admin default load§c to reload the questbook with the new/changed quests.§r%n%nBQ, short for Better Questing, allows pack makers to create a detailed quest system for players, as both guide and goal. It can be opened by a keybind (default: §eK§r). Better Questing's visuals have been modified by BQTweaker.%n%nQuests are broken up into small Chapters. You don't have to completely finish one to begin working on the next, but you could if you wanted to. %nIn this pack we have made the major points, which unlock real progression through the next Chapter, larger and distinct.%n%nQuests have a requirement to complete, located on the right side. On the top left, they have a description of what the quest is (or a pun). On the bottom left, they will typically have a reward, which can be claimed by clicking the \"Claim\" button at the bottom. Some quests are \"Choice Quests\", meaning you must choose between one of several rewards before claiming. Some quests have multiple rewards.%n%nQuests have different forms as you unlock them and progress through them:%nWhen you cannot access a quest and thus cannot complete it, it has a gray background.%n- Unlocked quests are indicated by a glowing red background.%n- Completed, but with quest rewards still unclaimed quests are indicated by a glowing green background.%n- When you have completed a quest and claimed its reward (if any), it turns into a static green background.%n%nThere is a button on the bottom right of the Home page which toggles the notification appearing on the top of the screen when completing a quest.%n%nAdditionally, there are 3 buttons on the left side of the screen.%nFrom top to bottom, they are:%n- Claim all quests on the page (note that Quests with choice rewards will not be claimed).%n- Adjust the viewing size so all quests are displayed.%n- Back, which returns to the home page.%n%nYou can return to the prior page of the questbook by pressing the Page Back key (default: §eBackspace§r).%n%nLastly, you can see some additional data for quests by enabling \"Advanced Tooltips\" by pressing F3+H."
+    },
+    {
+      "key": "dj2.quest.db.472.title",
+      "en": "What is JEI?"
+    },
+    {
+      "key": "dj2.quest.db.472.desc",
+      "en": "§cJEI§r, or §cJust Enough Items§r, is the most downloaded mod ever. It is used to search items and recipes that mods add. As such, it's crucial to understand how §cJEI§r works. This pack also features §cJEI Utilities§r, which adds extra functionality to bookmarks and a recipe history panel.%n%nLeft Clicking on an item or pressing your recipe key (default: §6R§r) displays all the recipes to craft that item - it won't show anything if there are no recipes to make it.%n%nRight Clicking on an item or pressing your use key (default: §6U§r) displays all the recipes that use that item - again, if there are none it won't do anything.%n%nYou can use the scroll wheel to change pages when viewing recipes. You can also use the §6Backspace§r key to go back to the previously viewed recipe.%n%nOn the left side of the recipe viewer, you see all* the places that recipe can be done in.%n    *due to compatibility issues, it's only most, not literally all.%n%nIf you click on the title of the page, you can \"Show All Recipes,\" which lists every recipe in the game! %n%nPressing your Bookmark key (default: §6A§r) saves the item to the left side of your inventory - use this to keep track of what you intended to do 3 seconds ago.%n%n%n§cJEI Utilities§r Features:%nOn the bottom right of the search panel a history of the most recently viewed items appear.%n%nWhen looking at a specific recipe, pressing the Bookmark key will save that specific recipe as a bookmark. Pressing §6CTRL§r while pressing your Bookmark key will prevent bookmarking the ingredient unless it is the output item. When viewing the recipe of a bookmark marked this way, the specific recipe saved will be viewed first.%n%nWhile holding the Display Recipe Preview key (default: §6CTRL§r), the recipe will be displayed in-line with the other content. %n%nWhen pressing the Transfer Recipe(Single) key (default: §6CTRL + W§r) or Transfer Recipe(MAX) key (default: §6CTRL + T§r) while hovering over an item with a bookmarked recipe and inside of the relevant inventory will transfer the required items, highlighting any missing items if it fails.%n%nWhen pressing the Pick up bookmark key (default: §6Middle Click§r) you can adjust the position of bookmarks.%n%n%n%nHow to search with §cJEI§r:%n%n§cJEI§r uses substring matching, meaning searching \"coal\" finds both \"Coal\" and \"Charcoal\".%n%nYou can search from a mod by using @ - eg. \"@botania\" finds everything from the mod Botania.%n%nYou can search for two separate things by separating them with §cJEI§r's \"or\" symbol |, a vertical line, typically located above the Enter key.%n%nYou can exclude results by attaching a - before it, eg. \"-@minecraft\" finds everything that isn't from Vanilla Minecraft.%n%nYou can also combine these, for example while \"@alchem\" would show both Alchemistry and Blood Magic: Alchemical Wizardry items, you can use \"@alchem -@blood\" to show only Alchemistry, or you can use for example \"@alchem -@blood|singu\" to search for everything in Alchemistry AND Singularities.%n%nIf you can't find an item in a Chest or a Crafting field, §cJEI§r allows you to double click the search bar to toggle highlighting, which will highlight any item in an inventory that matches your search.%n%nIf you'd like to import a recipe into a Crafting Table without having to lay it out, you can simply view the recipe in §cJEI§r while in the Crafting interface, and Left Click the \"+\" button. That will move all items into the Crafting field. If you'd like to move as many items into the Crafting field from your inventory as possible, hold Shift while pressing the \"+\" button."
+    },
+    {
+      "key": "dj2.quest.db.473.title",
+      "en": "Multiplayer?"
+    },
+    {
+      "key": "dj2.quest.db.473.desc",
+      "en": "Note: This is not for setting up servers, ask on the Discord for that. This is only for players when playing as a team.%n%nWant to play with a team? There are only a few steps you need to do.%n%nFor questing:%n%nStep 1: Go to the home page of the questbook by clicking the back button in the bottom left.%nStep 2: Click on Party, and invite the person you want with you.%nStep 3: Have them accept quickly, as invitations are time sensitive.%n%nNow they have joined your questbook party, and all quest progress will advance ALL players on the team.%n%nFor claimed chunks:%n%nStep 1: Open your inventory and click \"My Team\" in the top left.%nStep 2: Click on Members and add them.%nOptional: Click on settings and change the display name.%nNow they have joined your FTB Team, and can interact with things in your claimed chunks.%n%nLater on, with the mod Extra Utilities 2:%nTo share Grid Power, do §c/xu_powersharing§r and select your teammates. They must do the same to you for Grid Power to be shared.%n%nThat's about it!"
+    },
+    {
+      "key": "dj2.quest.db.474.title",
+      "en": "Shortcuts"
+    },
+    {
+      "key": "dj2.quest.db.474.desc",
+      "en": "Keyboard shortcuts, not hot strats to bypass challenges. %n%nPressing §eT§r while hovering over an item in your inventory or JEI will highlight nearby inventories with that item inside, indicated by a white dust particle effect. If there are no valid inventories, it will do nothing. A few inventories (in particular, BiblioCraft) do not work.%n%nPressing §eShift+T§r while hovering an item in your inventory will send the item in chat, for all to see.%n%nPressing §eF3+Q§r displays a list of all F3+[x] shortcuts, and what they do.%n%n§eF3+H§r, or Display Advanced Tooltips, will allow you to see extremely helpful information - while it may be a bit much, the benefit it adds is incredible. One of these benefits is allowing you to see the exact requirements to unlock the quest - meaning you aren't scrambling around trying to figure out what you missed midway through a later chapter.%nWhile not a shortcut, you can enable NBT data visibility by opening your inventory, clicking on the gray cog in the top left called \"Client Settings\", selecting FTB Library, and setting \"Display Item NBT\" to true.%n%n§eF3+G§r, or Show Chunk Borders, allows you to see the, well, borders of the chunk you are in. However, a superior option exists, by default bound to §eF9§r. This allows you to switch between 4 modes:%n- Invisible,%n- Corners,%n- Full (similar to F3+G)%n- Region.%n%nUse this to make sure you never build a complex automation process across a chunk border that then unloads, as that can clog things up, or even cause crashes.%n%n§eF7§r, or Show Spawnable Spaces, highlights all currently spawnable spaces as Red, and all spaces that are spawnable during the night.%n%n§eButton 4§r (which can be changed in the keybinds menu if your mouse doesn't have more than 3 buttons), or Place in World puts the item you are currently holding into the world, somewhat akin to placing it in an item frame.%n%n§eF3+P§r, or Pause on Lost Focus only does something in Singleplayer. This is active by default, and when it is active, switching tabs while not in an inventory will open the escape menu, pausing the game. %n%n§eF3+A§r, or Reload Chunks, will reload any loaded chunks, which can fix issues such as chunks not rendering, or blocks being invisible.%n%nThere are a wide variety of other shortcuts useful as you progress through the pack, if you check Escape -> Options -> Controls, you can see and change almost all of them."
+    },
+    {
+      "key": "dj2.quest.db.475.title",
+      "en": "What is Divine Journey 2?"
+    },
+    {
+      "key": "dj2.quest.db.475.desc",
+      "en": "Divine Journey 2, often shortened as \"DJ2\" is an expert pack oriented around DivineRPG and automating Magic Mods.%nDJ1, typically known as Divine Journey, was a pack with similar goals made for 1.7.10 in 2017. You do not have to play DJ1 to understand DJ2.%n%nDJ2 is an Expert Pack. This means different things to different people, but here we are using it to mean:%n%n1. The pack will take a long time to complete.%n%n2. The pack is structured around progression - most things are gated, many recipes are changed from their default.%n%n3. The recipes will be expensive, and will require automation - sometimes minimal, sometimes extreme. Fortunately, there are a lot of tools that help you in this endeavor, and they'll slowly get unlocked through the first half of the pack. Applied Energistics is going to be your friend, you'll need to autocraft or autoprocess almost everything that there is a quest for.%n%n%nThe goal of the modpack is to \"Find the Meaning of Life\", already located inside a convenient bag in your inventory upon startup, so it shouldn't be that hard to.... Oh. Oh hold on a second. It needs some sort of a Key to open... The \"Key to Infinity?\" Oh. Oh no. That's gonna be hard.%n%nSimilarly to Divine Journey, you'll need \"Infinite Infinity Ingots\", while not truly \"infinite\" this time, you'll need a LOT to craft the Key to Infinity, and it'll be best done using a Creative Chest.%n%nSoooo the goal of the pack is basically to get to Creative items... Not so original, I know.%n%n%nBut what IS original is the progression. Over 600 unique custom items and over 5000 changed recipes will guide you towards the end... Good luck!%n%n%nThe structure of the modpack is the following:%n%n1. Early game: Vanilla Minecraft, Tinkers' Construct, Totemic, Roots, Immersive Engineering, Early game Mekanism, AE2 Item Storage.%n%n2. Big Exploration Block: Better Nether, Twilight Forest (optional), Atum 2, Erebus, Aether I, Iceika.%n%n3. Big Tech Block:%n   - Stage 1: Extra Utilities Pt.1, Open Blocks, Mob Grinding Utils%n   - Stage 2: Thermal Expansion, EnderIO Pt.1, AE2 Crafting Terminal & Fluid Storage%n   - Stage 3: Industrial Foregoing, some RFTools, SolarFlux Reborn, QuantumFlux%n   - Stage 4: Actually Additions, EnderIO Pt. 2, Simply Jetpacks%n   - Stage 5: Mekanism Pt. 2, Extra Utilities Pt. 2, AE2 Autocrafting & Autoprocessing, Wireless AE2, Ender Utilities, Ender Storage.%n%n4. Big Magic Block:%n   - Stage 1: AbyssalCraft Pt. 1, DivineRPG start, Blood Magic Pt. 1, EvilCraft Pt. 1%n   - Stage 2: AbyssalCraft Pt. 2, Botania Pt. 1%n   - Stage 3: Botania Pt. 2, Blood Magic Pt. 2, EvilCraft Pt. 2%n   - Stage 4: Thaumcraft%n   - Stage 5: Bewitchment%n   - Stage 6: Thaumic Augmentation, Thaumic Energistics%n   - Stage 7: DivineRPG end, LightningCraft, Extreme Reactors%n   - Stage 8: Astral Sorcery, AgriCraft, lategame Extra Utilities, Galacticraft%n%n5. Lategame: Draconic Evolution, Alchemistry, RFTools Dimensions, Avaritia, Creative Items, Unlocking the Meaning of Life."
+    },
+    {
+      "key": "dj2.quest.db.817.title",
+      "en": "Bugs"
+    },
+    {
+      "key": "dj2.quest.db.817.desc",
+      "en": "Divine Journey 2 is a heavily tweaked and edited pack. While we have done our best to ensure there are no bugs, there are some things we simply cannot change.%nFor the known bugs, we warn you wherever relevant. However, there are some bugs we may not yet know. In that case, please report bugs to GitHub: https://github.com/Divine-Journey-2/Divine-Journey-2/issues%n(This link is also available from the right side of the pause menu.)%n%nHowever, before doing so, take a few steps that are likely to fix any bugs:%n- make sure you have the latest version of the pack%n- make sure your download did not get corrupted%n- make sure you have the most recent version of Java%n- make sure your launcher is NOT CurseForge. As of 31/07/21, they force use of a long outdated version of Java, regardless of settings%n- make sure that your pack is not significantly modified, either through config changes or the introduction of new mods%n- make sure that, if you are playing on a server, they have not changed various settings or recipes (typically structure generation and chunkloading)%n%nOnce all of those are done, please make an issue describing your bug on the github, filling out any and all requested information."
+    },
+    {
+      "key": "dj2.quest.db.821.title",
+      "en": "Excavating Obsidian"
+    },
+    {
+      "key": "dj2.quest.db.821.desc",
+      "en": "Use your Alumite Pickaxe to Ore Excavate a field of Obsidian! You can easily get stacks of Obsidian in a couple minutes with this method."
+    },
+    {
+      "key": "dj2.quest.db.822.title",
+      "en": "Pink? Maybe. Alu? Might!"
+    },
+    {
+      "key": "dj2.quest.db.822.desc",
+      "en": "Use Lava Buckets on Smeltery Drains to insert Lava into your Smeltery! You can insert Water the same way to create Obsidian inside the Smeltery. Now create Alumite inside the Smeltery by alloying Obsidian with Aluminum and Iron! Then pour out some of the resulting Alumite into a Pickaxe Head Cast! Using this you can create an Alumite Pickaxe capable of mining anything up to Obsidian level!%n%nNote: You can automate the insertion of Lava and Water using Fluiducts, which you have access to right now."
+    },
+    {
+      "key": "dj2.quest.db.823.title",
+      "en": "I am GROUT!"
+    },
+    {
+      "key": "dj2.quest.db.823.desc",
+      "en": "Craft a lot of Grout! You'll need it."
+    },
+    {
+      "key": "dj2.quest.db.824.title",
+      "en": "Sand Collector"
+    },
+    {
+      "key": "dj2.quest.db.824.desc",
+      "en": "Collect some Sand with Ore Excavator!"
+    },
+    {
+      "key": "dj2.quest.db.825.title",
+      "en": "Gravel Collector"
+    },
+    {
+      "key": "dj2.quest.db.825.desc",
+      "en": "Collect some Gravel with Ore Excavator!"
+    },
+    {
+      "key": "dj2.quest.db.826.title",
+      "en": "Clay Collector"
+    },
+    {
+      "key": "dj2.quest.db.826.desc",
+      "en": "Collect some Clay with Ore Excavator!"
+    },
+    {
+      "key": "dj2.quest.db.827.title",
+      "en": "Very Metallic!"
+    },
+    {
+      "key": "dj2.quest.db.827.desc",
+      "en": "\"Smelt\" your Rough Iron Mesh using the Burning Essence you've created! Just drop the Burning Essence and the Rough Iron mesh in a puddle of water, and voilà! You got yourself an Iron Ingot!"
+    },
+    {
+      "key": "dj2.quest.db.828.title",
+      "en": "Power of the Sun!"
+    },
+    {
+      "key": "dj2.quest.db.828.desc",
+      "en": "Combine some Coal with Yellow Dye to create an essence which is surprisingly reactive!"
+    },
+    {
+      "key": "dj2.quest.db.829.title",
+      "en": "Mesh it up!"
+    },
+    {
+      "key": "dj2.quest.db.829.desc",
+      "en": "Craft 2 blocks of Iron Ore together with your Rough Hammer to create some Rough Iron Mesh."
+    },
+    {
+      "key": "dj2.quest.db.830.title",
+      "en": "Mine it up!"
+    },
+    {
+      "key": "dj2.quest.db.830.desc",
+      "en": "Obtain 15 pieces of Cobblestone or any base stone material you find underground! DON'T FORGET ABOUT ORE EXCAVATOR!"
+    },
+    {
+      "key": "dj2.quest.db.831.title",
+      "en": "Pick before Crafting?"
+    },
+    {
+      "key": "dj2.quest.db.831.desc",
+      "en": "That's right! The Crafting Table ain't so easy to create! You first need to make a Wooden Pickaxe Head and a Tool Rod, then combine them!"
+    },
+    {
+      "key": "dj2.quest.db.832.title",
+      "en": "Even more upgrades!"
+    },
+    {
+      "key": "dj2.quest.db.832.desc",
+      "en": "Upgrade the Tier 1 Drawer upgrades all the way to Tier 4! Lots of storage capacity! :O%n%n[Note: Tiers 2 & 3 have been skipped in the Quest Book, as they should be very easily accessible at this point.]"
+    },
+    {
+      "key": "dj2.quest.db.833.title",
+      "en": "Drawer upgrades"
+    },
+    {
+      "key": "dj2.quest.db.833.desc",
+      "en": "Use your Obsidian you've just gathered to create some basic Drawer Upgrades! You can use these to upgrade the capacity of your Drawers!"
+    },
+    {
+      "key": "dj2.quest.db.834.title",
+      "en": "TOOL-7"
+    },
+    {
+      "key": "dj2.quest.db.834.desc",
+      "en": "Tool-7? What does that mean? Well, it's not Tool-8, not too late to create cool new Tinkers' Tools! >:D"
+    },
+    {
+      "key": "dj2.quest.db.835.title",
+      "en": "_____ Patterns"
+    },
+    {
+      "key": "dj2.quest.db.835.desc",
+      "en": "Craft some Blank Patterns which let you create Tinkers' Parts!"
+    },
+    {
+      "key": "dj2.quest.db.836.title",
+      "en": "\"Blub-blob\""
+    },
+    {
+      "key": "dj2.quest.db.836.desc",
+      "en": "- says the molten metal when it's being poured into a Casting Basin, which you need to craft to complete this quest. You can use this block to pour out entire blocks at once!"
+    },
+    {
+      "key": "dj2.quest.db.837.title",
+      "en": "Say hello to Tinkers'!"
+    },
+    {
+      "key": "dj2.quest.db.837.desc",
+      "en": "Smelt your Grout into Seared Bricks and enter Tinkers' Construct!"
+    },
+    {
+      "key": "dj2.quest.db.838.title",
+      "en": "Rough Hammer"
+    },
+    {
+      "key": "dj2.quest.db.838.desc",
+      "en": "Craft a Rough Hammer! This tool is used to create Rough Iron Mesh out of Iron Ore."
+    },
+    {
+      "key": "dj2.quest.db.839.title",
+      "en": "How Ironic"
+    },
+    {
+      "key": "dj2.quest.db.839.desc",
+      "en": "(Not very.)"
+    },
+    {
+      "key": "dj2.quest.db.840.title",
+      "en": "Spartan Shields"
+    },
+    {
+      "key": "dj2.quest.db.840.desc",
+      "en": "Check out the Spartan Shields mod in JEI, and create one of the basic Diamond-level shields available. You can use these shields to bash enemies while blocking: Just hold Right Click like you would usually do to block, then press left click for a bashing attack!"
+    },
+    {
+      "key": "dj2.quest.db.841.title",
+      "en": "Shiny Blue Rock! :O"
+    },
+    {
+      "key": "dj2.quest.db.841.desc",
+      "en": "Mine up some DIAMONDS!"
+    },
+    {
+      "key": "dj2.quest.db.842.title",
+      "en": "Wannabe Sethbling"
+    },
+    {
+      "key": "dj2.quest.db.842.desc",
+      "en": "Mine up some Redstone! It's found on low elevations underground, near lava-level!"
+    },
+    {
+      "key": "dj2.quest.db.843.title",
+      "en": "Pattern Overflow"
+    },
+    {
+      "key": "dj2.quest.db.843.desc",
+      "en": "Having too many Patterns? Scientists have long been working on a potential solution, and only recently have they found one: For only $9.99 a month and a life-long subscription, an all-new Pattern Chest can be YOURS to own! Just sign here and add your Credit Card number with the 3 digits on the back, and this wonderful new creation is in YOUR hands!%n...%nJust kidding, it's free (as long as you have the materials for it)...!"
+    },
+    {
+      "key": "dj2.quest.db.844.title",
+      "en": "Don't burn your fingers"
+    },
+    {
+      "key": "dj2.quest.db.844.desc",
+      "en": "Craft a Casting Table to be able to pour out your molten metals into casts! The most important cast is the Ingot Cast, using which you can create (you guessed it) ingots!"
+    },
+    {
+      "key": "dj2.quest.db.845.title",
+      "en": "The core of your Smeltery"
+    },
+    {
+      "key": "dj2.quest.db.845.desc",
+      "en": "Mine some Redstone, using which you can create a Smeltery Controller! You can learn more about this multiblock in the Materials and You book from Tinkers' Construct.%n%nTo construct this multiblock, you need a rectangular base of Seared Bricks and a wall surrounding the air above this base on all four sides. There must be a Smeltery Controller as part of these walls, and there must be a Seared Tank on the same level as the Smeltery Controller. The floor and walls do not have to connect.%n%nThe smallest size Smeltery has a size of 3x2x3, consumes 3 Seared Bricks, 1 Smeltery Controller, and 1 Seared Tank. This creates a Smeltery that can smelt a whopping a single item at a time, can hold just barely over a bucket of fluid, and has no ability to insert or extract fluids.%n%nTruly amazing, will the wonder of innovation ever cease?"
+    },
+    {
+      "key": "dj2.quest.db.846.title",
+      "en": "§dEpic Backpack"
+    },
+    {
+      "key": "dj2.quest.db.846.desc",
+      "en": "Check out the Simply Backpacks mod and craft an Epic Backpack! You can store a huge amount of items in it, using the Open Backpacks keybind to open it, and even equip it to a bauble slot!"
+    },
+    {
+      "key": "dj2.quest.db.847.title",
+      "en": "Time to start the PART-y!"
+    },
+    {
+      "key": "dj2.quest.db.847.desc",
+      "en": "Use various materials to form Parts using Patterns from the Stencil Table! For example, 3 pieces of Cobblestone with a Pickaxe Head Pattern will create a Stone Pickaxe Head! For Parts made out of metal however, you'll need to use the Smeltery, melt the metal, and pour it out into a Cast, e.g. a Pickaxe Head Cast!"
+    },
+    {
+      "key": "dj2.quest.db.848.title",
+      "en": "It all starts the same way..."
+    },
+    {
+      "key": "dj2.quest.db.848.desc",
+      "en": "You know what to do: Get wood!"
+    },
+    {
+      "key": "dj2.quest.db.849.title",
+      "en": "Oh no, it's leaking!"
+    },
+    {
+      "key": "dj2.quest.db.849.desc",
+      "en": "Craft some Seared Drains to pour your liquid out through Seared Faucets! If you wish to route the liquid further, you can use Casting Channels!"
+    },
+    {
+      "key": "dj2.quest.db.850.title",
+      "en": "Lava filled Tank"
+    },
+    {
+      "key": "dj2.quest.db.850.desc",
+      "en": "Craft and fill up the Tank with Lava! You'll use it to create obsidian inside the Smeltery.%n%nThis is an optional quest - you can use any other Fluid Tank available to you at this point, however, the Thermal Expansion Portable Tank is a good option for a few reasons. %nThe first is that right clicking with a Crescent Wrench causes it to automatically output the fluid within to a tank below. %nThe second is that Tanks can be enchanted with Holding, which multiplies their maximum capacity."
+    },
+    {
+      "key": "dj2.quest.db.851.title",
+      "en": "A Crafting Table!"
+    },
+    {
+      "key": "dj2.quest.db.851.desc",
+      "en": "Use your 2x2 crafting grid to create an undamaged Stone Axe, Stone Pickaxe, and 2 Crafting Bases, then combine them to create a Crafting Table!"
+    },
+    {
+      "key": "dj2.quest.db.852.title",
+      "en": "Stone Pickaxe"
+    },
+    {
+      "key": "dj2.quest.db.852.desc",
+      "en": "Craft a Stone Pickaxe Head and use it to craft a Stone Pickaxe!"
+    },
+    {
+      "key": "dj2.quest.db.853.title",
+      "en": "Chests are lame"
+    },
+    {
+      "key": "dj2.quest.db.853.desc",
+      "en": "Craft any kind of Drawer from the Storage Drawers mod! You can store a lot of one specific type of item in it! It's useful if you have a lot of Cobblestone, Dirt, Gravel, etc. piling up in your Chests!%n%n§6Note:§r Drawers can be broken and drop §osealed§r, so you can easily move them around!"
+    },
+    {
+      "key": "dj2.quest.db.854.title",
+      "en": "Stone Torches"
+    },
+    {
+      "key": "dj2.quest.db.854.desc",
+      "en": "No longer will you need to bring excess wood with you for Sticks to craft Torches! Just put together 2 pieces of Cobblestone to get Stone Rods, and use them to create Stone Torches!"
+    },
+    {
+      "key": "dj2.quest.db.855.title",
+      "en": "Something to smelt with"
+    },
+    {
+      "key": "dj2.quest.db.855.desc",
+      "en": "Mine up some Coal! Don't forget about Ore Excavator!"
+    },
+    {
+      "key": "dj2.quest.db.856.title",
+      "en": "Partially stored"
+    },
+    {
+      "key": "dj2.quest.db.856.desc",
+      "en": "You can store your tools here. Well, partially.%n%n...By that I mean, you can't store your tools here at all, only its parts."
+    },
+    {
+      "key": "dj2.quest.db.857.title",
+      "en": "Photosynthesis"
+    },
+    {
+      "key": "dj2.quest.db.857.desc",
+      "en": "Harvest some Yellow Flowers (Dandelions, Sunflowers, etc.), and turn them into Yellow Dye!"
+    },
+    {
+      "key": "dj2.quest.db.858.title",
+      "en": "Hard as a Rock"
+    },
+    {
+      "key": "dj2.quest.db.858.desc",
+      "en": "Use your Obsidian you've just gathered to craft a full set of Obsidian Armor! This is slightly weaker than Iron Armor, however, Obsidian is easily available to Ore Excavate at any time!"
+    },
+    {
+      "key": "dj2.quest.db.859.title",
+      "en": "Totally!"
+    },
+    {
+      "key": "dj2.quest.db.859.desc",
+      "en": "Create a Totem Whittling Knife to unlock Chapter 2: Dancing on a Totem Pole!"
+    },
+    {
+      "key": "dj2.quest.db.860.title",
+      "en": "Fuel it up!"
+    },
+    {
+      "key": "dj2.quest.db.860.desc",
+      "en": "Your Smeltery requires one Seared Tank constantly fueled with Lava to keep it running. Later on you'll be able to use Liquid Pyrotheum to speed up the entire multiblock by a lot!"
+    },
+    {
+      "key": "dj2.quest.db.861.title",
+      "en": "Fully upgraded!"
+    },
+    {
+      "key": "dj2.quest.db.861.desc",
+      "en": "Obtain some Tier 5 Storage Upgrades! Villager trading is disabled, but to compensate for that, Emerald Ore generation has been added to each biome (and it's slightly more common in Extreme Hills)."
+    },
+    {
+      "key": "dj2.quest.db.862.title",
+      "en": "Smelting capabilities"
+    },
+    {
+      "key": "dj2.quest.db.862.desc",
+      "en": "Use your Iron you've obtained to create 2 Iron Rods, Then mine up a lot of Cobblestone with Ore Excavator to compress them into Compressed Cobblestone! If you can't find regular Cobblestone, note that you can craft 4 pieces of any Underground Biomes Cobblestone type into 4 pieces of Cobblestone by forming a square shape in the Crafting Window. Using these materials you can finally create a Furnace!"
+    },
+    {
+      "key": "dj2.quest.db.863.title",
+      "en": "Iron Chests"
+    },
+    {
+      "key": "dj2.quest.db.863.desc",
+      "en": "Check out the Iron Chests mod in JEI, and work your way up to creating a Diamond Chest, which has a lot more storage space than a regular Chest!"
+    },
+    {
+      "key": "dj2.quest.db.864.title",
+      "en": "Copernicus would be proud"
+    },
+    {
+      "key": "dj2.quest.db.864.desc",
+      "en": "Mine up some Copper from underground! It's found on higher elevations, sometimes even on exposed Stone on the surface! Then smelt it or ore-double it in the Smeltery!"
+    },
+    {
+      "key": "dj2.quest.db.865.title",
+      "en": "The start of Tool Creation"
+    },
+    {
+      "key": "dj2.quest.db.865.desc",
+      "en": "Make a Stencil Table! You can use it to transform your Blank Patterns into various Patterns for Tools! This is where all Tool Creation in Tinkers' Construct starts."
+    },
+    {
+      "key": "dj2.quest.db.866.title",
+      "en": "Experience Storage"
+    },
+    {
+      "key": "dj2.quest.db.866.desc",
+      "en": "Craft a few OpenBlocks Tanks and an XP Drain! You can store your Experience by standing on the XP Drain with a Tank below. Tanks also connect to each other nicely. To regain your XP, simply Right Click any of the connected Tanks!%n%nHolding Shift while above an XP Drain will double the drain speed. Furthermore, since the XP Drain works if a player is above it, standing in the middle of a 2x2 of drains will allow all 4 to drain simultaneously."
+    },
+    {
+      "key": "dj2.quest.db.1718.title",
+      "en": "Get crated"
+    },
+    {
+      "key": "dj2.quest.db.1718.desc",
+      "en": "While the \"small\" crate only stores 9 more slots, to a total of 117 stacks, it has other ways it is superior to a chest:%n- It is a full block, and can be opened while under a solid block%n- It can be upgraded to a medium and large size, which store *2 and *3 compared to the \"small\"%n- Using the Storage Crate Keeper, unlocked in Chapter 3, it can be moved around much easier than chests."
+    },
+    {
+      "key": "dj2.quest.db.1723.title",
+      "en": "Framing Mr. Drawers"
+    },
+    {
+      "key": "dj2.quest.db.1723.desc",
+      "en": "Craft a Hand Framing Tool! This tool has been brought over from the Nomifactory Modpack (https://www.curseforge.com/minecraft/modpacks/nomifactory) with a few minor changes. The Hand Framing Tool is used to re-frame Drawers already in-world (including those with items and/or upgrades!), and to convert non-framed Drawers into framed versions. The Hand Framing Tool changes Drawers it is Right Clicked or Shift-Right Clicked on, converting them based on the encoded pattern. Said pattern is set via the crafting table (view the recipes JEI as guidance).%n%n§6Note:§r The blocks used to set the pattern are not consumed."
+    }
+  ]
+}

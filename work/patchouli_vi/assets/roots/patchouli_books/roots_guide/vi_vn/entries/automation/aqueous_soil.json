@@ -1,0 +1,142 @@
+{
+  "name": "Aqueous Soil",
+  "icon": "roots:elemental_soil_water",
+  "category": "automation",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:resources/elemental_soil)Aqueous Soil$() tự động thu hoạch cây trồng mọc trên đó.$(br2)Vật phẩm rơi ra sẽ nằm ngay trên đất hoặc được đưa vào kho đồ bên dưới nếu có (cho phép tự động hóa bằng rương, phễu, v.v.).$(br2)$(info) Có thể tắt chức năng này bằng cách đặt sỏi ngay bên dưới đất."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:elemental_soil_water",
+          "C": "minecraft:wheat[age=7]",
+          "H": "minecraft:chest"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   C   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   H   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Lúa mì sẽ tự động được thu hoạch rồi đưa vào rương bên dưới."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:elemental_soil_water",
+          "C": "minecraft:wheat[age=7]",
+          "G": "minecraft:hopper"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   C   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   G   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Vật phẩm rơi ra sẽ được đặt trong phạm vi của phễu nên phễu sẽ tự động hút chúng."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:elemental_soil_water",
+          "C": "minecraft:wheat[age=7]",
+          "G": "minecraft:gravel"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   C   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   G   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Do có sỏi bên dưới Aqueous Soil, lúa mì sẽ không được thu hoạch."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

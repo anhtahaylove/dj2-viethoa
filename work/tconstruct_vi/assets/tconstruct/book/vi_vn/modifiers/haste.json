@@ -1,0 +1,24 @@
+{
+  "modifier": "haste",
+  "text": [
+    {
+      "text": "Thêm redstone vào công cụ dường như làm tăng tốc độ của nó. Hiệu ứng tăng tốc độ khai thác của redstone mạnh hơn trên các công cụ chậm."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Redstone. Thứ điên rồ thật, đúng không?"
+    }
+  ],
+  "effects": [
+    "Mỗi Redstone Dust tăng nhẹ tốc độ đào",
+    "Increases attack speed",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow"
+  ]
+}

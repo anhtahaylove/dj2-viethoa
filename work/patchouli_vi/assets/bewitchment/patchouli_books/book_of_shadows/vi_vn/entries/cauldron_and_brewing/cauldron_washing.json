@@ -1,0 +1,21 @@
+{
+  "name": "Cauldron Washing",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một công dụng khá bình thường của Cauldron là rửa sạch mực và các dấu vết tương tự khỏi vật liệu."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:banner_pattern_removal",
+      "text": "Một công dụng bình thường khác của Cauldron là tẩy thuốc nhuộm khỏi banner."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:wash_sigil",
+      "text": "Loại bỏ các sigil đã khắc lên Dragon's Blood Broom."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Safe player-facing tooltip/prose candidates.
+groovyscript.packmode.normal.description=A normal pack mode. Nothing special.
+groovyscript.packmode.hard.description=Hard mode. Everything requires at least 50 diamonds and nether stars.

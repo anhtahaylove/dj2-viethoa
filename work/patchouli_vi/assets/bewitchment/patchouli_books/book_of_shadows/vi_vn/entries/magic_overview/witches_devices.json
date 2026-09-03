@@ -1,0 +1,40 @@
+{
+  "name": "Witch's Devices",
+  "category": "magic_overview",
+  "icon": "bewitchment:witches_cauldron",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Các phù thủy sở hữu nhiều thiết bị độc đáo dùng trong mọi trường phái của Craft. Chúng được liệt kê ở các trang sau; hãy nhấp vào tiêu đề để đến mục tương ứng."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:witches_oven"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:distillery"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:spinning_wheel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:witches_cauldron"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:brazier"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:sigil_table"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:oak_poppet_shelf"
+    }
+  ]
+}

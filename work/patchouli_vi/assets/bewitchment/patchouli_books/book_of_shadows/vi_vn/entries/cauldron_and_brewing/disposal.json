@@ -1,0 +1,12 @@
+{
+  "name": "Tiêu hủy",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:lava_bucket",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Tiêu hủy",
+      "text": "Cauldron chứa Lava sẽ phá hủy mọi vật phẩm bị ném vào, đồng thời thiêu đốt mọi sinh vật đứng bên trong."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hiển thị trực quan",
+  "icon": "roots:glass_eye",
+  "category": "rituals_ritual",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Với các nghi lễ có vùng tác dụng, rất khó xác định chính xác khối nào chịu ảnh hưởng và khối nào không.$(br2)Nhấn chuột phải vào giàn thiêu khi đang cúi, đồng thời cầm $(l:crafting/knives)knife$(), sẽ hiển thị một vùng hạt màu xanh biểu thị phạm vi nghi lễ.$(br2)$(info) Kích thước của nghi lễ được hiển thị trong mục 'Chi tiết nghi lễ' của nghi lễ đó."
+    },
+    {
+      "type": "text",
+      "text": "Lặp lại thao tác bằng cách nhấn chuột phải khi đang cúi sẽ làm vùng này biến mất; nếu không, nó sẽ tự biến mất sau một khoảng thời gian.$(br2)$(info) Hiển thị này chỉ ở phía máy khách và riêng biệt cho từng người chơi. Việc kích hoạt chỉ có hiệu lực với người chơi đó."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "rituals/introduction",
+        "crafting/knives"
+      ]
+    }
+  ]
+}

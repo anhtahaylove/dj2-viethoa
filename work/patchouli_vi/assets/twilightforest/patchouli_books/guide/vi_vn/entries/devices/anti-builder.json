@@ -1,0 +1,15 @@
+{
+  "name": "Anti-builder",
+  "icon": "twilightforest:tower_device:9",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6240,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Anti-builder",
+      "item": "twilightforest:tower_device:9",
+      "text": "Khối này phát ra một luồng khí lạ, dường như bảo vệ mọi thứ trong phạm vi của nó. Mọi khối được đặt trong vùng này đều bị phá hủy, còn việc phá bất cứ thứ gì lại tạo ra một khối đỏ-lục kỳ lạ. Có vẻ không có công tắc để tắt nó, nhưng hẳn phải có cách."
+    }
+  ]
+}

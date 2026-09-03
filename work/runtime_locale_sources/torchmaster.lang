@@ -1,0 +1,14 @@
+tile.torchmaster.mega_torch.lit.tooltip=Ngăn quái vật thù địch sinh ra tự nhiên trong phạm vi khá rộng quanh đuốc.
+tile.torchmaster.mega_torch.unlit.tooltip=Ngăn quái vật thù địch sinh ra tự nhiên trong phạm vi khá rộng quanh đuốc.
+tile.torchmaster.terrain_lighter.tooltip=Tự động đặt đuốc. Cần đuốc, nhiên liệu và tín hiệu redstone.
+tile.torchmaster.dread_lamp.tooltip=Ngăn động vật thụ động như mực, dơi hoặc mèo rừng sinh ra tự nhiên trong phạm vi lớn quanh đèn.
+tile.torchmaster.feral_flare_lantern.tooltip=Từ từ chiếu sáng một khu vực rộng lớn. Khi gỡ đèn, ánh sáng sẽ dần biến mất.
+item.torchmaster.frozen_pearl.tooltip=Xóa ánh sáng còn sót lại từ Feral Flare Lantern.
+command.torchmaster.entity_dump.completed=Entities have been dumped to the log file.
+command.torchmaster.torch_list.completed=Torches have been dumped to the log file.
+container.torchmaster.terrain_lighter=Terrain Lighter
+gui.torchmaster.block.state.no_signal=No Redstone Signal
+gui.torchmaster.feral_flare_lantern.state.los_off.description=The lantern will place lights everywhere
+gui.torchmaster.feral_flare_lantern.state.los_off.short=Line of Sight: §Cdisabled§r
+gui.torchmaster.feral_flare_lantern.state.los_on.description=The lantern will only place lights $n at locations it can directly see
+gui.torchmaster.feral_flare_lantern.state.los_on.short=Line of Sight: §Aenabled§r

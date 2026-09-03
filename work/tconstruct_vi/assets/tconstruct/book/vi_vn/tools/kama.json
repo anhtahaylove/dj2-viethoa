@@ -1,0 +1,19 @@
+{
+  "tool": "kama",
+  "text": [
+    {
+      "text": "Kama là công cụ thu hoạch chính xác, dùng để phát cây và xén lông động vật."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nhấp chuột phải vào cây trồng hoặc mía sẽ thu hoạch rồi trồng lại mọi cây đã trưởng thành trong khu vực."
+    }
+  ],
+  "properties": [
+    "Thu hoạch cây trồng khi nhấp chuột phải",
+    "Shears blocks and animals",
+    "Effective on plants"
+  ]
+}

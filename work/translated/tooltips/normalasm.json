@@ -1,0 +1,15 @@
+{
+  "normalasm.notification.description": "Nhấn Ctrl + I để biết thêm thông tin",
+  "normalasm.fixes.tooltip": "Kiểm soát các bản sửa lỗi được bật hoặc tắt.",
+  "normalasm.crashes.tooltip": "Các tùy chọn xử lý sự cố",
+  "normalasm.crashes.disableReturnToMainMenu.tooltip": "Tắt nút \"Return to Main Menu\" trên màn hình sự cố, buộc người dùng đóng trò chơi sau khi xảy ra sự cố. Màn hình sự cố vẫn hiển thị các mod bị nghi ngờ và cho phép tải báo cáo sự cố lên.",
+  "normalasm.crashes.scheduledTaskproblemAction.tooltip": "Hành động cần thực hiện khi tác vụ đã lên lịch phát sinh ngoại lệ",
+  "normalasm.crashes.errorNotificationDuration.tooltip": "Thời gian hiển thị thông báo lỗi, tính bằng mili giây",
+  "normalasm.crashes.replaceErrorNotifications.tooltip": "Khi nhiều lỗi liên tiếp xảy ra, thay thế thông báo hiện tại thay vì xếp thêm thông báo vào hàng đợi",
+  "normalasm.crashes.hasteURL.tooltip": "URL gốc của máy chủ haste dùng để tải báo cáo sự cố lên, không có dấu gạch chéo ở cuối.",
+  "normalasm.fixes.bugFixes.tooltip": "Bật hoặc tắt các tối ưu hóa nhỏ và bản sửa lỗi vanilla",
+  "normalasm.fixes.crashFixes.tooltip": "Bật hoặc tắt các cải tiến về sự cố (màn hình sự cố, xác định mod, định dạng báo cáo sự cố). Lưu ý rằng bạn có thể chỉ tắt nút \"Return to Main Menu\" trong phần \"Crash Options config section\".",
+  "normalasm.fixes.modSupport.tooltip": "Bật hoặc tắt hỗ trợ cho các mod khác. Quan trọng: Việc này sẽ làm hỏng texture động của một số mod. Đừng tắt trừ khi tính năng hỗ trợ mod gây ra sự cố.",
+  "normalasm.fixes.profiler.tooltip": "Bật hoặc tắt các cải tiến cho profiler (biểu đồ tròn Alt + F3): Phân loại entity và tile entity theo mod, thêm F3 + S để mở biểu đồ tròn profiler của máy chủ",
+  "normalasm.fixes.textureFixes.tooltip": "Bật hoặc tắt tối ưu hóa texture. Tính năng này giúp tăng FPS của trò chơi, vì vậy không nên tắt."
+}

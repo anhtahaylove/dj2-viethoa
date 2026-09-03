@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "Tinkers' Addons-1.12.1-1.0.7.jar",
+      "path": "assets/tinkersaddons/lang/en_US.lang"
+    }
+  ]
+}

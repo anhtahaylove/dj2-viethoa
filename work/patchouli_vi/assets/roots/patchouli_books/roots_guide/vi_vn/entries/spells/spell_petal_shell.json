@@ -1,0 +1,102 @@
+{
+  "name": "Petal Shell",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_petal_shell\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_petal_shell",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cánh hoa tuy có vẻ mỏng manh, nhưng khi được truyền wild magic, nó có thể trở thành một tấm khiên đáng gờm.$(br2)Khi thi triển, bạn nhận được một số cánh hoa bảo vệ khỏi các đòn tấn công; mỗi cánh có thể hấp thụ hoàn toàn một đòn.$(br2)Với các modifier, bạn có thể gây thêm hiệu ứng lên kẻ tấn công hoặc tăng số cánh hoa nhận được."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_petal_shell"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_radiance",
+      "anchor": "react_radiance"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:peaceful_dance",
+      "anchor": "peaceful_dance"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_daggers",
+      "anchor": "react_daggers"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:petal_overflow",
+      "anchor": "petal_overflow"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:mossy_leaves",
+      "anchor": "mossy_leaves"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_poison",
+      "anchor": "react_poison"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_drift",
+      "anchor": "react_drift"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_fire",
+      "anchor": "react_fire"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_weakness",
+      "anchor": "react_weakness"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_petal_shell",
+      "modifier": "roots:react_slow",
+      "anchor": "react_slow"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:petal_shell/SECONDS/cooldown) giây.$(br2)$(bold)Lớp khiên:$() Bạn có thể sở hữu tối đa $(spell:petal_shell/maximum_shells) lớp khiên; giới hạn này tăng thêm $(spell:petal_shell/extra_shells) khi bật modifier $(modifier:petal_overflow)$().$(br2)$(bold)Màu sắc:$() Khi bật modifier $(modifier:mossy_leaves)$(), cánh hoa sẽ có màu xanh lục thay vì hồng.$(br2)$(bold)Sát thương bức xạ:$() Khi bật"
+    },
+    {
+      "type": "text",
+      "text": "modifier $(modifier:react_radiance)$(), kẻ tấn công phá vỡ khiên sẽ chịu $(spell:petal_shell/HEART/radiant_damage) tim sát thương bức xạ.$(br2)$(bold)Familiar:$() Với modifier $(modifier:peaceful_dance)$(), một familiar ở gần cũng được nhận khiên.$(br2)$(bold)Sát thương chém và chảy máu:$() Khi bật modifier $(modifier:react_daggers)$(), kẻ tấn công chịu $(spell:petal_shell/HEART/dagger_damage) tim sát thương và nhận Bleeding $(spell:petal_shell/ROMAN/bleed_amplifier) trong $(spell:petal_shell/SECONDS/bleed_duration), gây sát thương theo thời gian."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Sát thương độc:$() Khi bật modifier $(modifier:react_poison)$(), kẻ tấn công nhận Poison $(spell:petal_shell/ROMAN/poison_amplifier) trong $(spell:petal_shell/SECONDS/poison_duration).$(br2)$(bold)Bay lên:$() Khi bật modifier $(modifier:react_drift)$(), kẻ tấn công nhận Levitation I trong $(spell:petal_shell/SECONDS/levitate_duration).$(br2)$(bold)Sát thương lửa:$() Khi bật modifier $(modifier:react_fire)$(), kẻ tấn công chịu $(spell:petal_shell/HEART/fire_damage) tim sát thương lửa và bị thiêu đốt trong $(spell:petal_shell/fire_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Suy yếu:$() Khi bật modifier $(modifier:react_weakness)$(), kẻ tấn công nhận Weakness $(spell:petal_shell/ROMAN/weakness_amplifier) trong $(spell:petal_shell/SECONDS/weakness_duration) giây.$(br2)$(bold)Chậm chạp:$() Khi bật modifier $(modifier:react_slow)$(), kẻ tấn công nhận Slowness $(spell:petal_shell/ROMAN/slow_amplifier) trong $(spell:petal_shell/SECONDS/slow_duration) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/spirit_herb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Silk Cocoon",
+  "icon": "mysticalworld:silk_cocoon",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:silk_cocoon",
+      "link_recipe": true,
+      "text": "Những Silk Cocoon này được $(l:creatures/silkworm)Silkworms$() tạo ra sau một thời gian sinh trưởng. Có thể đẩy nhanh quá trình này bằng cách thả lá xuống đất gần đó để Silkworms ăn."
+    }
+  ]
+}

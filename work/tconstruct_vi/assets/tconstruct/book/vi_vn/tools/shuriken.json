@@ -1,0 +1,15 @@
+{
+  "tool": "shuriken",
+  "text": [
+    {
+      "text": "Shuriken là vũ khí ném tầm gần, được phóng ra tức thì. Chúng cũng có thể dùng ở tay phụ và dễ kiểm soát nhờ tốc độ cao."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Fast ranged weapon",
+    "Deadly",
+    "Ninja",
+    "Có thể ném từ tay phụ"
+  ]
+}

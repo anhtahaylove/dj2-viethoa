@@ -1,0 +1,107 @@
+### totemic.page.rattle1
+Like all §4Instruments§0, it can be played while §4sneaking§0 so as to activate §4Ceremonies§0.
+
+### totemic.entry.eagleBoneWhistle
+Eagle-Bone Whistle
+
+### totemic.page.eagleBoneWhistle0
+The §1Eagle-Bone Whistle§0 is made from the bones of a §4Bald Eagle§0, and as such it is very powerful. It is a necessity for more advanced §4Ceremonies§0, and is actually considered more of a ceremonial object than an §4Instrument§0.
+
+### totemic.entry.netherPipe
+Netherumbrian Pipes
+
+### totemic.page.netherPipe0
+The §1Netherumbrian Pipes§0 are one of the most curious instruments of them all. Although a truly vile creation, it has many uses for a Totemist. Charging it up like you would a bow makes its bellows draw in air, and after releasing all of its fumes, the §1Netherumbrian Pipes§0 will drain the life of all nearby crops. After draining their life, it will release a large amount of §4Melody§0. What's interesting about these set of is that they will give
+
+### totemic.page.netherPipe1
+off their maximum amount of music within a few plays. Do not take that lightly however, as each play creates several times more music than any other instrument. After crafting, an activation is required. To do this, simply take damage from wither effects with the §1Netherumbrian Pipes§0 in hand. Interestingly enough, it seems to prefer the life essence of Nether Wart.
+
+### totemic.page.netherPipe2
+        Soft and sweet
+
+### totemic.entry.basicsCeremonies
+§oBasics of Ceremonies
+
+### totemic.page.basicsCeremonies0
+§4Ceremonies§0 are a way for a Totemist to gather strength over a period of time through the power of §4Melody§0 to release a central burst of energy on both players and the nearby world. The center of a Ceremony is a §1Totem Base§0 and it also is where the effects of a Ceremony are released from. Ceremonies are powered by the §4Melody§0 that is released from §4Instruments§0 when they are played.
+
+### totemic.page.basicsCeremonies1
+There are two main points in a Ceremony, the first being §4Selection§0, and the second being the §4Ceremony Effects§0.
+
+### totemic.entry.selectingCeremonies
+§oSelecting Ceremonies
+
+### totemic.page.selectingCeremonies0
+In order to select which §4Ceremony§0 you wish to activate, a specific task must be complete. Any §4Instruments§0 played whilst §4Sneaking§0 will play in their §4Selector Mode§0, and will not release any §4Melody§0 as they would normally. A combination of two §4Instruments§0 in §4Selector Mode§0 will start a Ceremony depending on which were played. For example, using the §1Flute§0 in selector mode twice will activate the §4Serenade of the Depths§0.
+
+### totemic.entry.performingCeremonies
+§oPerforming Ceremonies
+
+### totemic.page.performingCeremonies0
+Once a §4Ceremony§0 has been selected, the §4startup§0 will initiate. While it is in this stage, the §1Totem Pole§0 will accept any played §1Melody§0 and store it. In order for a Ceremony effect to activate, a certain amount of §4Melody§0 is required depending on how difficult the Ceremony is. This difficulty is represented by how many ♪ there are in its entry in this book. When the §4Melody Requirement§0 for the Ceremony is reached, it will activate.
+
+### totemic.page.performingCeremonies1
+Each §4Instrument§0 can only be played up to a certain point, meaning a Ceremony could not be played with just one §4Instrument§0. This is known as the §4Melody Threshold§0. Any smoke that emits from the §1Totem Base§0 will signify that the most recently played §4Instrument§0 has reached its §4Melody Threshold§0 for that Ceremony, and the user should stop using that specific §4Instrument§0 for the rest of the Ceremony.
+
+### totemic.page.performingCeremonies2
+Additionally, there is a limited amount of time to complete a Ceremony, meaning playing speed is important. After you have created enough §4Melody§0, the Ceremony will begin performing its effects. Some Ceremonies have instant effects, others will last over a certain amount of time after the effect initially starts. It should be noted that the effects can only pertain for a certain amount of time, and will stop after that time has elapsed.
+
+### totemic.page.performingCeremonies3
+Finally, there should be care taken with the timing between playing §4Instruments§0, in order to complete a Ceremony efficiently, a rhythm between instruments may be important. Because of that, it is recommended that a §4Totemist§0 spends some time getting used to the rhythms of certain §4Instruments§0.
+
+### totemic.entry.ceremonyTips
+§oTips for Ceremonies
+
+### totemic.page.ceremonyTips0
+• After you selected a Ceremony, you need to §4stop sneaking§0 so that your music counts for the Ceremony.<br>• If you see white smoke coming from the Totem Pole after playing an instrument, its §4Melody Threshold§0 is reached and you should stop playing it.<br>• §4Wind Chimes§0 play at somewhat regular intervals. Try to time your Ceremony around them.
+
+### totemic.page.ceremonyTips1
+• More Instruments of the same kind usually don't help that much. Try getting more §4unique Instruments§0 if you can.<br>• That said, it can be helpful to have two §4Drums§0 and two or three §4Wind Chimes§0.<br>• Try holding your Flute in the §4left hand§0 and your Rattle in the §4right hand§0 to play both at once.
+
+### totemic.page.ceremonyTips2
+• If you want to cancel a Ceremony, e.g. when you made a wrong selection, you can §4left-click§0 your Totemic Staff on the Totem Base.<br>• The time you have available to complete a Ceremony changes with §4game difficulty§0.
+
+### totemic.entry.warDance
+War Dance
+
+### totemic.page.warDance0
+The §4War Dance Ceremony§0 is a Ceremony that will heighten your senses for an incoming war and bring the adrenalin to your entire body. After performing it, the §4Ceremony§0 will bring the user Speed and Strength for a long period of time time, allowing them to rush to battle.
+
+### totemic.page.warDance1
+§oA convoluted game of chess§r
+
+### totemic.entry.depths
+Symphony of the Depths
+
+### totemic.page.depths0
+The §4Symphony of the Depths§0, along with the §4War Dance§0 are some of the most basic and mundane §4Ceremonies§0 of all. The effect of this §4Ceremony§0 is as simple as it is to perform, any nearby players will be blessed with a §4Water Breathing§0 effect for a few minutes.
+
+### totemic.page.depths1
+§oMoon River§r
+
+### totemic.entry.fertility
+Rite of Spring
+
+### totemic.page.fertility0
+The §4Rite of Spring§0 is the one of the many growth and fertility §4Ceremonies§0 available to a Totemist. After activating, all nearby animals and villagers will sequentially proceed to breed, consuming food items or Emeralds respectively. However there is a decent chance that a food item will not be consumed.<br>Along with that, any nearby saplings will transform into §1Red Cedar Saplings§0.
+
+### totemic.page.fertility1
+§oLover I don't have to love§r
+
+### totemic.entry.zaphkielWaltz
+Zaphkiel Waltz
+
+### totemic.page.zaphkielWaltz0
+The §4Zaphkiel Waltz§0 is a growth and fertility §4Ceremony§0 that affects nearby crops. For a short while, nearby plants will grow at a much faster rate than usual. In addition, any nearby §1Eggs§0 will have a chance to hatch into living §4Chickens§0 at a much higher rate than they would if they were thrown.
+
+### totemic.page.zaphkielWaltz1
+§oGothicly elegant§r
+
+### totemic.entry.buffaloDance
+Buffalo Dance
+
+### totemic.page.buffaloDance0
+This beast used to roam the lands in large herds, but was mysteriously wiped out long before you came into this world. However, not all hope is lost. The §4Buffalo Dance§0 Ceremony is able to give strength to nearby Cows and turn them into Buffalos. They will start out as infants and only gain their full strength after a while.
+
+### totemic.page.buffaloDance1
+§oAvoid using red rags§r

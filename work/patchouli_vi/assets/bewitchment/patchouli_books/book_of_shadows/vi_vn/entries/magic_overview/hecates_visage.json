@@ -1,0 +1,16 @@
+{
+  "name": "Hecate's Visage",
+  "category": "magic_overview",
+  "icon": "bewitchment:hecates_visage",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc vương miện bạc rực lửa, tượng trưng cho ngọn đuốc của một nữ thần quyền năng và những tia bạc của mặt trăng đã ban sức mạnh cho bà. Khi đội, nó giảm chi phí và tăng hiệu quả của mọi nghi lễ không phải lời nguyền. Cách chế tạo cổ vật của nữ thần cổ đại này đã thất truyền theo thời gian, nhưng món bauble này vẫn có thể tìm thấy trong các rương chiến lợi phẩm và từ một số thực thể eldritch."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:hecates_visage",
+      "text": "Giảm chi phí nghi lễ"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Overgrowth",
+  "icon": "roots:ritual_overgrowth",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_overgrowth",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(info) Một nguồn $(l:herbs/terra_moss)terra moss$() thiết yếu.$(br2)Đây là một nghi lễ đơn giản nhưng hiệu quả, truyền năng lượng từ các vật phẩm hiến tế vào đá gần đó. Đá sẽ hút nước liền kề vào trong, khiến $(l:herbs/terra_moss)terra moss$() mọc trên bề mặt.$(br2)$(info) Có thể cạo lớp rêu này như bình thường."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_overgrowth",
+      "text": "Là nghi lễ $(l:rituals/tiers)$(bold)bậc 0$(), nghi lễ này không cần thêm điều kiện nào để hoàn thành."
+    },
+    {
+      "title": "Đá phù hợp",
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "w": "minecraft:water",
+          "0": "minecraft:cobblestone"
+        },
+        "pattern": [
+          [
+            "   w   ",
+            "  w0w  ",
+            "   w   "
+          ]
+        ]
+      },
+      "text": "Nước phải nằm kề ít nhất một mặt bên của đá; nước ở phía trên hoặc dưới là không đủ."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:overgrowth/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Khu vực nghi lễ mở rộng từ tâm ra $(ritual:overgrowth/radius_x) và $(ritual:overgrowth/radius_z) khối, đồng thời mở rộng $(ritual:overgrowth/radius_y) khối theo chiều dọc.$(br2)$(bold)Tần suất:$() Nghi lễ sẽ cố làm terra moss mọc sau mỗi $(ritual:overgrowth/SECONDS/interval) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "herbs/terra_moss",
+        "crafting/knives",
+        "crafting/runic_shears",
+        "automation/runic_shears",
+        "automation/ritual_overgrowth"
+      ]
+    }
+  ]
+}

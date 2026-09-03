@@ -1,0 +1,21 @@
+{
+  "enchantment.bibliocraft.bibliocraft.readingench.desc": "Cho phép đọc nội dung của một số block Bibliocraft, chẳng hạn như Printing Press.",
+  "enchantment.bibliocraft.bibliocraft.deathcompassench.desc": "Khi Atlas có nâng cấp này, nếu bạn chết, bạn sẽ hồi sinh cùng một Eternal Compass dẫn đường về nơi mình đã chết.",
+  "enchantment.divinerpg.rive.desc": "Phá thêm các block xung quanh khi đào.",
+  "enchantment.divinerpg.aftershock.desc": "Mỗi cấp tăng 5 phần trăm cơ hội gây gấp đôi sát thương bằng vũ khí cận chiến.",
+  "enchantment.enderio.witherweapon.desc": "Gây hiệu ứng Wither lên mục tiêu trúng đòn.",
+  "enchantment.enderio.shimmer.desc": "Tạo hiệu ứng lấp lánh phù phép cho vật phẩm.",
+  "enchantment.enderio.witherarrow.desc": "Gây hiệu ứng Wither lên mục tiêu trúng đòn.",
+  "enchantment.enderio.repellent.desc": "Có cơ hội dịch chuyển kẻ tấn công ra xa; cấp càng cao, cơ hội và khoảng cách dịch chuyển càng tăng.",
+  "enchantment.endercore.xpboost.desc": "Nhận thêm XP từ mob và block.",
+  "enchantment.endercore.autosmelt.desc": "Tự động nung chảy mọi thứ đào được hoặc do mob rơi ra, như thể được nung trong lò.",
+  "enchantment.enderio.soulbound.desc": "Vật phẩm không rơi ra khi chết.",
+  "enchantment.extrautils2.xu.kaboomerang.desc": "Khi Boomerang va vào block hoặc mob, nó sẽ tạo ra một vụ nổ.",
+  "enchantment.extrautils2.xu.zoomerang.desc": "Tăng 30 phần trăm tốc độ phóng Boomerang mỗi cấp.",
+  "enchantment.extrautils2.xu.burnerang.desc": "Khiến Boomerang đốt cháy mọi mục tiêu trúng đòn trong 5 giây.",
+  "enchantment.extrautils2.xu.bladerang.desc": "Tăng 4 sát thương của Boomerang mỗi cấp.",
+  "enchantment.extrautils2.xu.boomereaperang.desc": "Khiến Boomerang phá hủy mọi cây cỏ hoặc hoa trên đường bay và thu thập vật phẩm rơi ra.",
+  "enchantment.lightningcraft.hand_of_thor.desc": "Cho vũ khí khả năng gọi sét đánh kẻ địch.",
+  "enchantment.lightningcraft.elec_aura.desc": "Khi áp dụng lên giáp, sẽ phóng điện vào kẻ tấn công.",
+  "enchantment.simplyjetpacks.fuel_efficiency.desc": "Giảm lượng năng lượng jetpack và flux pack tiêu thụ khi bay hoặc chịu sát thương."
+}

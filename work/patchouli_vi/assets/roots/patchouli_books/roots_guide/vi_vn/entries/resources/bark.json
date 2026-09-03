@@ -1,0 +1,36 @@
+{
+  "name": "Bark",
+  "icon": "roots:bark_acacia",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thu được bằng cách phá khúc gỗ tương ứng bằng $(l:crafting/knives)knife$(), lớp Bark bị bóc ra chứa rất nhiều ma thuật hoang dã.$(br2)Mỗi loại cây tạo ra một loại Bark khác nhau, nhưng tất cả đều chứa lượng ma thuật hoang dã đáng kể.$(br2)$(info) Có thể tăng lượng Bark nhận được khi phá khúc gỗ bằng phù phép Fortune."
+    },
+    {
+      "type": "bark_template_quint",
+      "recipe1": "roots:oak",
+      "recipe2": "roots:birch",
+      "recipe3": "roots:jungle",
+      "recipe4": "roots:acacia",
+      "recipe5": "roots:spruce",
+      "name": "Các loại Bark"
+    },
+    {
+      "type": "bark_template_double",
+      "recipe1": "roots:dark_oak",
+      "recipe2": "roots:wildwood",
+      "anchor": "dark_oak",
+      "name": "Các loại Bark",
+      "text": "Thu được khi dùng dao phá khúc gỗ.$(br2)$(info) Có thể có thêm các loại vỏ cây từ mod khác. Để xem danh sách đầy đủ, $(uses:roots:stone_knife)xem JEI$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/knives"
+      ]
+    }
+  ]
+}

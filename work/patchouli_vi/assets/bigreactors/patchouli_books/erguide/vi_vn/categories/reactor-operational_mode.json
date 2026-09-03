@@ -1,0 +1,7 @@
+{
+  "name": "Chế độ vận hành",
+  "description": "Reactor có thể được xây dựng để hoạt động ở hai chế độ khác nhau: Passive Cooling hoặc Active Cooling.$(br2)Chế độ vận hành quyết định Reactor tạo ra thứ gì khi hoạt động.",
+  "icon": "bigreactors:reactorcoolantport",
+  "parent": "bigreactors:reactor",
+  "sortnum": 1
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Transmutation",
+  "icon": "roots:ritual_transmutation",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_transmutation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thông qua quá trình Transmutation, vật thể có thể biến đổi thành vật thể khác nếu đáp ứng đủ yêu cầu.$(br2)Các khối được biến đổi thành khối hoặc vật phẩm, nhưng cần cẩn thận để tránh tạo ra vòng lặp.$(br2)$(warning) Không thể liệt kê công thức trong sách này. Bạn có thể xem danh sách đầy đủ $(uses:roots:ritual_transmutation)bằng JEI$()."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_transmutation",
+      "text": "$(standing_stones) Là một nghi lễ $(l:rituals/tiers)$(bold)bậc I$(), nghi lễ cần $(l:rituals/ritual_transmutation#multiblock)một standing stone để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   C   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Cần một $(l:rituals/standing_stones)standing stone$() bằng runestone hoặc runed obsidian."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:transmutation/SECONDS/duration) giây; trong thời gian đó, quá trình Transmutation diễn ra mỗi $(ritual:transmutation/SECONDS/interval) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ cố biến đổi các khối trong khu vực rộng $(ritual:transmutation/radius_x) và $(ritual:transmutation/radius_z) khối theo chiều ngang, cùng $(ritual:transmutation/radius_y) khối theo chiều dọc.$(br2)"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

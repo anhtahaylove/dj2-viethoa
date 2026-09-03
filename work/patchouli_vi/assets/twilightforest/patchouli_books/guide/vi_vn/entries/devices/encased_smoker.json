@@ -1,0 +1,15 @@
+{
+  "name": "Encased Smoker",
+  "icon": "twilightforest:fire_jet:1",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/encased_smoker",
+  "sortnum": 5060,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Encased Smoker",
+      "item": "twilightforest:fire_jet:1",
+      "text": "Smoking Block luôn tỏa khói, nhưng điều này khá bất tiện với tôi. Bằng cách nối dây cho một Smoking Block, tôi có thể tạo ra thiết bị chỉ tỏa khói khi được kích hoạt. Giờ tôi phải cân nhắc tính thực tiễn của thiết bị này."
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "file": "assets/betterquesting/lang/en_US.lang",
+    "key": "dj2.quest.db.1025.title",
+    "value": "Tính toán, tính toán nữa?",
+    "stop": 3,
+    "words": 10,
+    "ratio": 0.3,
+    "vi": true,
+    "domain": "betterquesting"
+  },
+  {
+    "file": "assets/betterquesting/lang/vi_vn.lang",
+    "key": "dj2.quest.db.1025.title",
+    "value": "Tính toán, tính toán nữa?",
+    "stop": 3,
+    "words": 10,
+    "ratio": 0.3,
+    "vi": true,
+    "domain": "betterquesting"
+  },
+  {
+    "file": "assets/betterquesting/lang/en_US.lang",
+    "key": "dj2.quest.db.701.title",
+    "value": "Đạo đức của chủ nghĩa hòa bình",
+    "stop": 3,
+    "words": 11,
+    "ratio": 0.273,
+    "vi": true,
+    "domain": "betterquesting"
+  },
+  {
+    "file": "assets/betterquesting/lang/vi_vn.lang",
+    "key": "dj2.quest.db.701.title",
+    "value": "Đạo đức của chủ nghĩa hòa bình",
+    "stop": 3,
+    "words": 11,
+    "ratio": 0.273,
+    "vi": true,
+    "domain": "betterquesting"
+  },
+  {
+    "file": "assets/betterquesting/lang/en_US.lang",
+    "key": "dj2.quest.db.627.title",
+    "value": "Thuần hóa Địa hình, làm chủ Lãnh địa",
+    "stop": 3,
+    "words": 13,
+    "ratio": 0.231,
+    "vi": true,
+    "domain": "betterquesting"
+  },
+  {
+    "file": "assets/betterquesting/lang/vi_vn.lang",
+    "key": "dj2.quest.db.627.title",
+    "value": "Thuần hóa Địa hình, làm chủ Lãnh địa",
+    "stop": 3,
+    "words": 13,
+    "ratio": 0.231,
+    "vi": true,
+    "domain": "betterquesting"
+  },
+  {
+    "file": "assets/botania/lang/vi_vn.lang",
+    "key": "botania.subtitle.way",
+    "value": "O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA",
+    "stop": 27,
+    "words": 108,
+    "ratio": 0.25,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/mending_moss.json",
+    "key": "effects[3]",
+    "value": "Has to be in hotbar or offhand to repair",
+    "stop": 6,
+    "words": 9,
+    "ratio": 0.667,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/language.lang",
+    "key": "wood.flavour",
+    "value": "How much wood could a woodchuck chuck if a woodchuck could chuck wood?",
+    "stop": 6,
+    "words": 13,
+    "ratio": 0.462,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/luck.json",
+    "key": "effects[1]",
+    "value": "Tool use has a chance to increase the luck",
+    "stop": 5,
+    "words": 9,
+    "ratio": 0.556,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/abyssalcraft/lang/vi_vn.lang",
+    "key": "necronomicon.text.shub-niggurath.1",
+    "value": "Shub-Niggurath, The Black Goat of the Woods with a Thousand Young, là một Outer God trong quần thần.",
+    "stop": 5,
+    "words": 22,
+    "ratio": 0.227,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/battlesign.json",
+    "key": "properties[2]",
+    "value": "Can be used as a shield",
+    "stop": 4,
+    "words": 6,
+    "ratio": 0.667,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/shuriken.json",
+    "key": "properties[4]",
+    "value": "Can be thrown from the offhand",
+    "stop": 4,
+    "words": 6,
+    "ratio": 0.667,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/language.lang",
+    "key": "material.craft_partbuilder",
+    "value": "Can be crafted in the Part Builder",
+    "stop": 4,
+    "words": 7,
+    "ratio": 0.571,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/extratrait.json",
+    "key": "effects[2]",
+    "value": "The embossment is final and can't be changed",
+    "stop": 4,
+    "words": 8,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/botania/lang/vi_vn.lang",
+    "key": "advancement.botania:rankSSPick",
+    "value": "A Tale of Six Trillion Years and a Night",
+    "stop": 4,
+    "words": 9,
+    "ratio": 0.444,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/beheading.json",
+    "key": "effects[1]",
+    "value": "Adding more Obsidian and Ender Pearls increases the chance of decapitation",
+    "stop": 4,
+    "words": 11,
+    "ratio": 0.364,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/abyssalcraft/lang/vi_vn.lang",
+    "key": "necronomicon.text.jzahar.1",
+    "value": "J'zahar, Gatekeeper of The Abyss, là đứa con hoang của Hastur.",
+    "stop": 4,
+    "words": 12,
+    "ratio": 0.333,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/draconicevolution/lang/vi_vn.lang",
+    "key": "msg.wrongKey.txt",
+    "value": "Chìa khóa này không vừa ổ khóa",
+    "stop": 4,
+    "words": 12,
+    "ratio": 0.333,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/abyssalcraft/lang/vi_vn.lang",
+    "key": "message.chagaroth.death.2",
+    "value": "Chiếc rương sau lưng ta chứa \"The Legendary Treasure of The Dreadlands\",",
+    "stop": 4,
+    "words": 16,
+    "ratio": 0.25,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/bloodmagic/lang/vi_vn.lang",
+    "key": "guide.bloodmagic.entry.ritual.portal",
+    "value": "The Gate of the Fold",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/bloodmagicguide/lang/vi_vn.lang",
+    "key": "guide.bloodmagic.entry.ritual.portal",
+    "value": "The Gate of the Fold",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/botania/lang/vi_vn.lang",
+    "key": "botania.entry.relics",
+    "value": "The Relics of the Aesir",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/roots/lang/vi_vn.lang",
+    "key": "item.roots.roots_guide.name",
+    "value": "The Magic of the Wilds",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/language.lang",
+    "key": "material.craft_casting",
+    "value": "Can be cast from %s",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/harvestheight.json",
+    "key": "effects[2]",
+    "value": "Does not work for weapons",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/harvestheight.json",
+    "key": "effects[3]",
+    "value": "Can be combined with Width++",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/harvestwidth.json",
+    "key": "effects[2]",
+    "value": "Does not work for weapons",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/harvestwidth.json",
+    "key": "effects[3]",
+    "value": "Can be combined with Height++",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/soulbound.json",
+    "key": "effects[2]",
+    "value": "Does NOT require a modifier",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/kama.json",
+    "key": "properties[0]",
+    "value": "Harvests crops on right click",
+    "stop": 3,
+    "words": 5,
+    "ratio": 0.6,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/bloodmagic/lang/vi_vn.lang",
+    "key": "guide.bloodmagic.entry.ritual.altarBuilder",
+    "value": "The Assembly of the High Altar",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/bloodmagicguide/lang/vi_vn.lang",
+    "key": "guide.bloodmagic.entry.ritual.altarBuilder",
+    "value": "The Assembly of the High Altar",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/botania/lang/vi_vn.lang",
+    "key": "botania.entry.relicInfo",
+    "value": "The Relics of the Aesir II",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/divine_journey_2/lang/en_us.lang",
+    "key": "ritual.divine_journey_2.tough_and_pure",
+    "value": "Rite of the Tough and Pure",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/divine_journey_2/lang/vi_vn.lang",
+    "key": "ritual.divine_journey_2.tough_and_pure",
+    "value": "Rite of the Tough and Pure",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/intro/welcome.json",
+    "key": "title",
+    "value": "Surviving the first day and beyond",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/crossbow.json",
+    "key": "properties[3]",
+    "value": "Needs to be loaded before firing",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/shortbow.json",
+    "key": "properties[2]",
+    "value": "Can be used with vanilla arrows",
+    "stop": 3,
+    "words": 6,
+    "ratio": 0.5,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/bewitchment/lang/vi_vn.lang",
+    "key": "advancements.bewitchment.cauldron.title",
+    "value": "Eye of newt, and toe of frog",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/draconicevolution/lang/vi_vn.lang",
+    "key": "config.field.aoeSafeMode.entry",
+    "value": "Chế độ an toàn A.O.E",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/erebus/lang/vi_vn.lang",
+    "key": "advancement.erebus.portal.portal_activator",
+    "value": "Chìa khóa và Ổ khóa",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/extratrait.json",
+    "key": "effects[1]",
+    "value": "Traits are equal to swapping the part",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/harvestheight.json",
+    "key": "effects[0]",
+    "value": "Increases the height of the area affected",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/harvestwidth.json",
+    "key": "effects[0]",
+    "value": "Increases the width of the area affected",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/necrotic.json",
+    "key": "effects[1]",
+    "value": "Add more bones to increase the heal",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/reinforced.json",
+    "key": "effects[0]",
+    "value": "Adds a chance to not consume durability",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/silktouch.json",
+    "key": "effects[1]",
+    "value": "Not compatible with Luck or Auto-Smelt",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/soulbound.json",
+    "key": "effects[0]",
+    "value": "Tool remains in your inventory after death",
+    "stop": 3,
+    "words": 7,
+    "ratio": 0.429,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/natura/lang/vi_vn.lang",
+    "key": "tile.natura.apple_leaves.fruit.tooltip",
+    "value": "Apples to the Core\\nCó chứa Apple",
+    "stop": 3,
+    "words": 8,
+    "ratio": 0.375,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/rftools/lang/vi_vn.lang",
+    "key": "advancements.rftools.shieldsafety.title",
+    "value": "Giờ thấy an toàn chưa?",
+    "stop": 3,
+    "words": 8,
+    "ratio": 0.375,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/longbow.json",
+    "key": "properties[3]",
+    "value": "Can use regular arrows, but they're less effective",
+    "stop": 3,
+    "words": 8,
+    "ratio": 0.375,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/tools/shortbow.json",
+    "key": "properties[3]",
+    "value": "Can use regular arrows, but they're less effective",
+    "stop": 3,
+    "words": 8,
+    "ratio": 0.375,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/integrateddynamics/lang/vi_vn.lang",
+    "key": "operator.operators.integrateddynamics.itemstack.repaircost.info",
+    "value": "Chi phí sửa chữa của item",
+    "stop": 3,
+    "words": 9,
+    "ratio": 0.333,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/natura/lang/vi_vn.lang",
+    "key": "tile.natura.apple_leaves.golden_fruit.tooltip",
+    "value": "Apples to the Core\\nCó chứa Golden Apple",
+    "stop": 3,
+    "words": 9,
+    "ratio": 0.333,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/book/vi_vn/modifiers/haste.json",
+    "key": "effects[0]",
+    "value": "Each redstone dust increases mining speed by a small amount",
+    "stop": 3,
+    "words": 10,
+    "ratio": 0.3,
+    "vi": false,
+    "domain": "other"
+  },
+  {
+    "file": "assets/abyssalcraft/lang/vi_vn.lang",
+    "key": "tooltip.staff",
+    "value": "Quyền trượng của J'zahar, Gatekeeper of the Abyss.",
+    "stop": 3,
+    "words": 11,
+    "ratio": 0.273,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/tconstruct/lang/vi_vn.lang",
+    "key": "tile.tconstruct.seared.tooltip",
+    "value": "Một phần của Smeltery. An toàn để trang trí.",
+    "stop": 3,
+    "words": 12,
+    "ratio": 0.25,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/crafttweaker/lang/en_us.lang",
+    "key": "dj2.electrotine_ore.desc0",
+    "value": "§rDùng Nghi lễ §cMark of the Fallen Tower§r của Blood Magic",
+    "stop": 3,
+    "words": 13,
+    "ratio": 0.231,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/crafttweaker/lang/vi_vn.lang",
+    "key": "dj2.electrotine_ore.desc0",
+    "value": "§rDùng Nghi lễ §cMark of the Fallen Tower§r của Blood Magic",
+    "stop": 3,
+    "words": 13,
+    "ratio": 0.231,
+    "vi": true,
+    "domain": "other"
+  },
+  {
+    "file": "assets/twilightforest/patchouli_books/guide/vi_vn/entries/treasures/glass_sword.json",
+    "key": "pages_EXAMPLE_OF_EDITABLE[0].unlocked",
+    "value": "A stunning example of what a master craftsman is able to produce. Not only is the blade of this sabre unparalleled in sharpness beyond anything comparable, but its reflective and see-through surface also cascade the twilight through to cast snowflake like imagery on your surroundings. Truly, this is the height of craftsmanship.$(br2)Alas, with great beauty comes great cost. The Glass Sabre turns out to be nothing more than an exhibition of skill in crafting, rather than utility. Its sharpness is still unparalleled, but the brunt of the force is caused by glass shattering into thousands of tiny shards, it's actually rather barbaric as opposed to such a dignified-looking piece. This turned out to be nothing but a mere one-hit-wonder.",
+    "stop": 50,
+    "words": 125,
+    "ratio": 0.4,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/twilightforest/patchouli_books/guide/vi_vn/entries/treasures/glass_sword.json",
+    "key": "pages_EXAMPLE_OF_EDITABLE[0].locked",
+    "value": "A stunning example of what a master craftsman is able to produce. Not only is the blade of this sabre unparalleled in sharpness beyond anything comparable, but its reflective and see-through surface also cascade the twilight through to cast snowflake like imagery on your surroundings. Truly, this is the height of craftsmanship.",
+    "stop": 24,
+    "words": 53,
+    "ratio": 0.453,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/beetle.json",
+    "key": "pages[0].blurb",
+    "value": "Sneak-right-clicking with an empty hand will allow you to place the beetle on your shoulder!",
+    "stop": 10,
+    "words": 17,
+    "ratio": 0.588,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/sprout.json",
+    "key": "pages[0].blurb",
+    "value": "The drops depend on the colour of the sprout!",
+    "stop": 5,
+    "words": 9,
+    "ratio": 0.556,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/squid.json",
+    "key": "pages[0].blurb",
+    "value": "Using a glass bottle on a squid will give you ink!",
+    "stop": 5,
+    "words": 11,
+    "ratio": 0.455,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/lava_cat.json",
+    "key": "pages[0].blurb",
+    "value": "Dousing with water will transform these felines into obsidian!",
+    "stop": 4,
+    "words": 9,
+    "ratio": 0.444,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/clam.json",
+    "key": "pages[0].blurb",
+    "value": "Pearls are a renewable resource with a $(l:items/pearleporter)pearleporter$()!",
+    "stop": 4,
+    "words": 11,
+    "ratio": 0.364,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/mysticalworld/patchouli_books/world_guide/vi_vn/entries/creatures/endermini.json",
+    "key": "pages[0].blurb",
+    "value": "These cute little creatures still don't like being looked at!",
+    "stop": 3,
+    "words": 10,
+    "ratio": 0.3,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/twilightforest/patchouli_books/guide/vi_vn/entries/treasures/charms.json",
+    "key": "pages[1].item_list",
+    "value": "twilightforest:charm_of_keeping_1|twilightforest:charm_of_keeping_2|twilightforest:charm_of_keeping_3",
+    "stop": 3,
+    "words": 12,
+    "ratio": 0.25,
+    "vi": false,
+    "domain": "patchouli"
+  },
+  {
+    "file": "assets/twilightforest/patchouli_books/guide/vi_vn/entries/treasures/charms.json",
+    "key": "pages[2].item_list",
+    "value": "twilightforest:charm_of_keeping_1|twilightforest:charm_of_keeping_2|twilightforest:charm_of_keeping_3",
+    "stop": 3,
+    "words": 12,
+    "ratio": 0.25,
+    "vi": false,
+    "domain": "patchouli"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Controller",
+  "icon": "bigreactors:reactorcontroller",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorcontroller",
+      "link_recipe": true,
+      "title": "Controller",
+      "text": "Controller là giao diện chính để bạn điều khiển Reactor.$(br2)Nhấp chuột phải vào Controller để mở giao diện đồ họa. Tại đây, bạn có thể bật hoặc tắt Reactor, kiểm tra lượng chất phản ứng trong Fuel Rods, nhiệt độ của Reactor và nhiều thông tin khác."
+    },
+    {
+      "type": "text",
+      "text": "Tùy theo chế độ vận hành của Reactor, bạn cũng có thể kiểm tra trạng thái bộ đệm năng lượng bên trong và tỷ lệ sản xuất của Reactor $(l:reactor/passive)làm mát thụ động$(/l), hoặc lượng chất làm mát và hơi có trong Reactor $(l:reactor/active)làm mát chủ động$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorcontroller",
+      "title": "Controller"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() cần ít nhất một khối$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() có"
+    }
+  ]
+}

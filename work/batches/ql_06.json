@@ -1,0 +1,481 @@
+{
+  "chapter_index": 6,
+  "title_key": "dj2.quest.ql.6.title",
+  "chapter_title_en": "9. Gadgets and Utility",
+  "desc_key": "dj2.quest.ql.6.desc",
+  "chapter_desc_en": "Power your Grid from Extra Utilities 2, Open up some Blocks, unlock OP mob_grinding_utils.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.6.title",
+      "en": "9. Gadgets and Utility"
+    },
+    {
+      "key": "dj2.quest.ql.6.desc",
+      "en": "Power your Grid from Extra Utilities 2, Open up some Blocks, unlock OP mob_grinding_utils."
+    },
+    {
+      "key": "dj2.quest.db.1136.title",
+      "en": "Enchant ALL the things!"
+    },
+    {
+      "key": "dj2.quest.db.1136.desc",
+      "en": "Craft an Auto Enchantment Table! You can automatically insert tools, armor, or books inside to enchant them using liquid experience."
+    },
+    {
+      "key": "dj2.quest.db.1137.title",
+      "en": "Nice, in my Open-ion"
+    },
+    {
+      "key": "dj2.quest.db.1137.desc",
+      "en": "Craft some Open Ingots! These are used in a number of Open Blocks machines."
+    },
+    {
+      "key": "dj2.quest.db.1138.title",
+      "en": "Fill 'em with the smarts"
+    },
+    {
+      "key": "dj2.quest.db.1138.desc",
+      "en": "Craft an XP Bottler! This machine can fill up Empty Bottles with liquid experience pumped into it to create Bottles o' Enchanting. Everything can be automatically inserted and extracted."
+    },
+    {
+      "key": "dj2.quest.db.1139.title",
+      "en": "Power of the Sun"
+    },
+    {
+      "key": "dj2.quest.db.1139.desc",
+      "en": "Use materials from your Enchanter to create a Sun Crystal! Throw it on the ground for a while to fill it up with sunlight. Later on, this can be done instantly via throwing it in EnderIO's Liquid Sunshine."
+    },
+    {
+      "key": "dj2.quest.db.1140.title",
+      "en": "Unstable to Lunar"
+    },
+    {
+      "key": "dj2.quest.db.1140.desc",
+      "en": "Craft some Unstable Ingots and upgrade them immediately into some Moon Stones before they blow up! Make sure to have every material in your inventory, and do the second step of the crafting under 10 seconds, before the Unstable Ingots gets you.%n%nOr alternatively if you're rolling in Diamonds, you can spend 9 times the Diamond to craft Stable-'Unstable' Nuggets and put them together into a Stable-'Unstable' Ingot, which doesn't blow up, but can be used for crafting the same way."
+    },
+    {
+      "key": "dj2.quest.db.1141.title",
+      "en": "Green Lapis to Pink Lapis"
+    },
+    {
+      "key": "dj2.quest.db.1141.desc",
+      "en": "Craft some Osglolapis and turn it into Lunar Reactive Dust in your Resonator! This will require 16 GP total, meaning you'll need to use both the manual mill AND the Solar Panel, at least until you've gotten more GP Generators setup."
+    },
+    {
+      "key": "dj2.quest.db.1142.title",
+      "en": "Oof, it got overcooked"
+    },
+    {
+      "key": "dj2.quest.db.1142.desc",
+      "en": "Craft some Stoneburnt in your Resonator! Don't sniff it too much, it's got an awful smell..."
+    },
+    {
+      "key": "dj2.quest.db.1143.title",
+      "en": "Vibrant and Bzooing"
+    },
+    {
+      "key": "dj2.quest.db.1143.desc",
+      "en": "Craft a Resonator! This is the most important Extra Utilities machine. You'll need GP Generating machines in order to use it. You might want to consider crafting multiple Resonators for automation.%n%nWhen playing in multiplayer, you can do §§§c/xu_powersharing§r to open a GUI. Click players on there to share GP with them, provided they would also share GP with you."
+    },
+    {
+      "key": "dj2.quest.db.1144.title",
+      "en": "Suck 'em all up, but better!"
+    },
+    {
+      "key": "dj2.quest.db.1144.desc",
+      "en": "Craft an Absorption Hopper! This functions very similarly to a Vacuum Hopper, except it can pull items through walls and with range upgrades it can have WAAAY more range!"
+    },
+    {
+      "key": "dj2.quest.db.1145.title",
+      "en": "Suck 'em all up!"
+    },
+    {
+      "key": "dj2.quest.db.1145.desc",
+      "en": "Craft an Open Blocks Vacuum Hopper! This machine can suck up items and experience orbs from a range. You can also set output sides for each."
+    },
+    {
+      "key": "dj2.quest.db.1146.title",
+      "en": "Dark horns! Watch out!"
+    },
+    {
+      "key": "dj2.quest.db.1146.desc",
+      "en": "Alloy some Demonlord Ingots with some Gunpowder to obtain your first pieces of Mobgrindium Ingots! This is the gateway into Mob Grinding Utils.%n%nNote: If you're searching for Mob Grinding Utils in JEI, type @mob_grinding_utils."
+    },
+    {
+      "key": "dj2.quest.db.1147.title",
+      "en": "If you're not a Fan-fan..."
+    },
+    {
+      "key": "dj2.quest.db.1147.desc",
+      "en": "An alternative way of moving mobs besides Fans are regular old Conveyor Belts! Mobs CAN spawn on these blocks, so if you want to, you can build your entire mob spawning platform out of these. However, I'd just use them sparingly since Cursed Earth and Mob Fans are way better."
+    },
+    {
+      "key": "dj2.quest.db.1148.title",
+      "en": "The Shining all over again"
+    },
+    {
+      "key": "dj2.quest.db.1148.desc",
+      "en": "\"Here is Goldey!\"%n%nUpgrade your Iron Spikes into Golden Ones. These might not deal as much damage, however anything killed by them drops experience!"
+    },
+    {
+      "key": "dj2.quest.db.1149.title",
+      "en": "It steel hurts"
+    },
+    {
+      "key": "dj2.quest.db.1149.desc",
+      "en": "Craft some Wooden, Stone, and finally Iron Spikes! This damages any mob standing on top or right besides it. Great for a mob farm!"
+    },
+    {
+      "key": "dj2.quest.db.1151.title",
+      "en": "Itty Bitty Reddy Gemmy"
+    },
+    {
+      "key": "dj2.quest.db.1151.desc",
+      "en": "Use your Resonator to make some Red Coal, and then use it to craft a Redstone Star! The Red Coal will require 16 GP total, meaning you'll need to use both the manual mill AND the Solar Panel, at least until you've gotten more GP Generators setup."
+    },
+    {
+      "key": "dj2.quest.db.1152.title",
+      "en": "Smite with Thor's thunder!"
+    },
+    {
+      "key": "dj2.quest.db.1152.desc",
+      "en": "Craft some Mob Masher Smite Upgrades. You can insert at most 10 of these in the machine. This will make the Masher stronger against undead foes like Zombies and Skeletons."
+    },
+    {
+      "key": "dj2.quest.db.1153.title",
+      "en": "This is how Ketchup's made"
+    },
+    {
+      "key": "dj2.quest.db.1153.desc",
+      "en": "Craft a Mob Masher! To activate it, use a redstone signal. This is a highly upgradable mob killing machine that drops experience after every mob. Route mobs from your farm here, I'm sure they'll have a wonderful time!"
+    },
+    {
+      "key": "dj2.quest.db.1154.title",
+      "en": "Drink it and turn smart"
+    },
+    {
+      "key": "dj2.quest.db.1154.desc",
+      "en": "Use your Bottling Machine to fill Empty Bottles into Bottles o' Enchanting!"
+    },
+    {
+      "key": "dj2.quest.db.1155.title",
+      "en": "Enchantin' away"
+    },
+    {
+      "key": "dj2.quest.db.1155.desc",
+      "en": "Craft an Extra Utilities Enchanter! This is another crafting mechanic in the mod. You'll need to set up bookshelves around it the same way you do for Enchantment Table, and power it with RF. You can upgrade it with Speed Upgrades and auto insert / extract items into / from it.%n%n§c§lWARNING:§r Due to a bug with Extra Utilities, the Enchanter §cDELETES§r items when inserted via §cSCROLLING§r. Be careful."
+    },
+    {
+      "key": "dj2.quest.db.1156.title",
+      "en": "Harden up"
+    },
+    {
+      "key": "dj2.quest.db.1156.desc",
+      "en": "Craft an Extra Utilities Machine Block! This is the base for all Extra Utilities machines."
+    },
+    {
+      "key": "dj2.quest.db.1157.title",
+      "en": "The little devil inside"
+    },
+    {
+      "key": "dj2.quest.db.1157.desc",
+      "en": "Surround Lava on all 4 sides with Nether Bricks, then throw in some Gold Ingots to create some Demon Ingots. Alloy it with Lunar Reactive Dust to create Demonlord Ingots!%n%n§6Note:§r There is currently a bug with Extra Utilities that makes it so certain modded Droppers cannot create Demon Ingots. Use either the vanilla or the OpenBlocks Dropper when automating it, or switch to EnderIO's Fire Water once that is available."
+    },
+    {
+      "key": "dj2.quest.db.1158.title",
+      "en": "Carved and swirly"
+    },
+    {
+      "key": "dj2.quest.db.1158.desc",
+      "en": "Use your Enchanter to make some Magical Wood! You might want to continuously keep creating this for later use."
+    },
+    {
+      "key": "dj2.quest.db.1160.title",
+      "en": "More colors, the better"
+    },
+    {
+      "key": "dj2.quest.db.1160.desc",
+      "en": "Craft some RF Dust! This will only take 1 durability point from your Thermal Conductor Rod."
+    },
+    {
+      "key": "dj2.quest.db.1161.title",
+      "en": "It's hot! It's hot!"
+    },
+    {
+      "key": "dj2.quest.db.1161.desc",
+      "en": "Craft a Thermal Conductor Rod! This item lets your craft RF Dust which ultimately lets you get into Thermal Expansion."
+    },
+    {
+      "key": "dj2.quest.db.1162.title",
+      "en": "Crush them insects!"
+    },
+    {
+      "key": "dj2.quest.db.1162.desc",
+      "en": "Craft some Mob Masher Bane of Arthropods Upgrades. You can insert at most 10 of these in the machine. This will make the Masher deal more damage against Arthropods like Spiders and Silverfish."
+    },
+    {
+      "key": "dj2.quest.db.1163.title",
+      "en": "Lot of manual work"
+    },
+    {
+      "key": "dj2.quest.db.1163.desc",
+      "en": "Craft a Manual Mill! While holding Right Click on it, you generate 15 GP (or Grid Power). This is a resource that doesn't need cables. Simply while you're generating X amount of GP, all your GP using machines will work granted you're using at most X amount of GP overall."
+    },
+    {
+      "key": "dj2.quest.db.1164.title",
+      "en": "Solar Sally"
+    },
+    {
+      "key": "dj2.quest.db.1164.desc",
+      "en": "Craft some Solar Panels! Simply placing one down will generate 1 GP in the daytime."
+    },
+    {
+      "key": "dj2.quest.db.1165.title",
+      "en": "Fill it up!"
+    },
+    {
+      "key": "dj2.quest.db.1165.desc",
+      "en": "Craft a Stone Drum and upgrade it to an Iron Drum! It can hold 256 Buckets of any liquid, and you can Right Click on it to see how much is left. I would encourage you to set one up to feed Lava into your Smeltery."
+    },
+    {
+      "key": "dj2.quest.db.1166.title",
+      "en": "Better fluid storage"
+    },
+    {
+      "key": "dj2.quest.db.1166.desc",
+      "en": "Craft a Reinforced Large Drum! It can hold 4096 Buckets of any liquid! Wow!"
+    },
+    {
+      "key": "dj2.quest.db.1167.title",
+      "en": "3rd way to crush"
+    },
+    {
+      "key": "dj2.quest.db.1167.desc",
+      "en": "Craft an Extra Utilities Crusher! This is yet another way to turn your Ores and Ingots into Dust! It can be sped up by Extra Utilities Speed Upgrades to make it faster than the Immersive Engineering and Mekanism Crushers."
+    },
+    {
+      "key": "dj2.quest.db.1168.title",
+      "en": "Lunar Larry"
+    },
+    {
+      "key": "dj2.quest.db.1168.desc",
+      "en": "Craft some Lunar Panels to be able to generate GP passively during the night!"
+    },
+    {
+      "key": "dj2.quest.db.1169.title",
+      "en": "Lava Lewi"
+    },
+    {
+      "key": "dj2.quest.db.1169.desc",
+      "en": "Craft a Lava Mill! This machine generates GP when adjacent to flowing lava, based on the highest level of lava. Having Lava on multiple sides doesn't increase the generation. Lava placed one block away from a source block generates the most GP. Note that due to how Lava flows in the Nether, slightly more GP can be gained there."
+    },
+    {
+      "key": "dj2.quest.db.1170.title",
+      "en": "Guillotines hurt"
+    },
+    {
+      "key": "dj2.quest.db.1170.desc",
+      "en": "Craft some Mob Masher Beheading Upgrades. You can insert at most 10 of these in the machine. This will make the Masher drop mobs Skulls way more frequently than they would normally drop. Only vanilla Skulls are available though."
+    },
+    {
+      "key": "dj2.quest.db.1171.title",
+      "en": "Water Walter"
+    },
+    {
+      "key": "dj2.quest.db.1171.desc",
+      "en": "Craft a Water Mill! This machine generates GP passively when there is flowing water on any of its sides.%n%nThis generator has been nerfed, and generates significantly less power due to scaling off much faster than normal."
+    },
+    {
+      "key": "dj2.quest.db.1172.title",
+      "en": "Blows like the Wind"
+    },
+    {
+      "key": "dj2.quest.db.1172.desc",
+      "en": "Craft an OpenBlocks Fan! When powered by redstone, it blows any entity away. Useful for a mob farm, although the Mob Fan is even better."
+    },
+    {
+      "key": "dj2.quest.db.1173.title",
+      "en": "Craft of Evil"
+    },
+    {
+      "key": "dj2.quest.db.1173.desc",
+      "en": "Drops of Evil are no longer dropped by Wither Skeletons, they're instead crafted. So craft one! And use it to turn surrounding Grass into Cursed Earth! This type of soil makes mobs spawn constantly, so it's perfect for a mob farm. Just watch out, don't let it burn.%n%n§6Note:§r Only the block that the Drop of Evil was used on can be harvested with Silk Touch."
+    },
+    {
+      "key": "dj2.quest.db.1174.title",
+      "en": "Repair ALL the things!"
+    },
+    {
+      "key": "dj2.quest.db.1174.desc",
+      "en": "Craft an Auto Anvil! You can automatically insert tools & armor to repair them using liquid experience."
+    },
+    {
+      "key": "dj2.quest.db.1175.title",
+      "en": "Blow higher!"
+    },
+    {
+      "key": "dj2.quest.db.1175.desc",
+      "en": "Craft a Mob Fan Height Modifier! You can apply at most 3 of these to your Mob Fan."
+    },
+    {
+      "key": "dj2.quest.db.1176.title",
+      "en": "Mobs aren't a Fan of this"
+    },
+    {
+      "key": "dj2.quest.db.1176.desc",
+      "en": "Upgrade your OpenBlocks Fan into a Mob Fan! When powered by redstone, this machine blows mobs with great strength, and it's the perfect way to move mobs off your spawning platform. Additionally, it's highly upgradable, and with max upgrades you'll surely only need at most one per platform."
+    },
+    {
+      "key": "dj2.quest.db.1177.title",
+      "en": "Blow farther!"
+    },
+    {
+      "key": "dj2.quest.db.1177.desc",
+      "en": "Craft some Mob Fan Distance Modifiers! You can apply at most 10 of these to your Mob Fan."
+    },
+    {
+      "key": "dj2.quest.db.1178.title",
+      "en": "Sharp like Bisharp's horn"
+    },
+    {
+      "key": "dj2.quest.db.1178.desc",
+      "en": "Craft some Mob Masher Sharpness Upgrades. You can insert at most 10 of these in the machine. This will make the Masher generally deal more damage to all things."
+    },
+    {
+      "key": "dj2.quest.db.1179.title",
+      "en": "But I want it HEEEEEEEEEERE!"
+    },
+    {
+      "key": "dj2.quest.db.1179.desc",
+      "en": "Craft a Transfer Pipe and one of each type of Transfer Node - Item, Fluid, and Energy. Each functions slightly differently.%nOne big advantage is that you can route items, fluids, and energy all through one pipe - although filtering on the receiving end may be required!%n%n§cThe Item Transfer Node is a highly upgradeable and filterable item routing mechanism, and its much better than Thermal's Itemducts when fully upgraded. It can be upgraded using Extra Utilities' Speed and Stack Upgrades, along with its Filters.%n%n§3The Fluid Transfer Node functions very similarly to the Item Transfer Node (but, you know, with fluids?).%n%n§6The Energy Transfer Node cannot be upgraded, and always transfers 5,000 RF/t."
+    },
+    {
+      "key": "dj2.quest.db.1180.title",
+      "en": "A cylinder! A sphere!"
+    },
+    {
+      "key": "dj2.quest.db.1180.desc",
+      "en": "Craft a Building Guide! This block can help you build nice geometric shapes. Use the arrows on top to swap between different shapes. Use the plus and minus signs on the sides to increase or decrease the side of your build. Then power it with a redstone signal to make ghost blocks appear.%n%nYou can also upgrade it into an Enhanced Building Guide to get some more available shapes."
+    },
+    {
+      "key": "dj2.quest.db.1181.title",
+      "en": "Winding Winston"
+    },
+    {
+      "key": "dj2.quest.db.1181.desc",
+      "en": "Make a Wind Mill! This machine passively generates GP if there is nothing blocking its northern and southern sides. It generates more in the rain.%n%nThis generator has been buffed and generates 4x the normal amount."
+    },
+    {
+      "key": "dj2.quest.db.1182.title",
+      "en": "Blow wider!"
+    },
+    {
+      "key": "dj2.quest.db.1182.desc",
+      "en": "Craft some Mob Fan Width Modifiers! These are likely the most useful upgrades, and you can apply at most 3 of these to your Mob Fan."
+    },
+    {
+      "key": "dj2.quest.db.1183.title",
+      "en": "3rd way to smelt"
+    },
+    {
+      "key": "dj2.quest.db.1183.desc",
+      "en": "Yet another Furnace, eh? Well, this one can be pretty speedy with Extra Utilities Speed Upgrades!"
+    },
+    {
+      "key": "dj2.quest.db.1184.title",
+      "en": "Ultimate Velocity"
+    },
+    {
+      "key": "dj2.quest.db.1184.desc",
+      "en": "Craft at least one Ultimate Speed Upgrade. This makes machines even faster, and it can stack up to 64. You might need that speed for something in the lategame, but be aware that it'll use a lot of GP."
+    },
+    {
+      "key": "dj2.quest.db.1185.title",
+      "en": "How fast can it go!?"
+    },
+    {
+      "key": "dj2.quest.db.1185.desc",
+      "en": "Craft at least one Magical Speed Upgrade! This makes machines even faster, and it can stack up to 16 instead of just 4. However, be aware that your machines will use even more GP when upgraded with higher-tier Speed Upgrades."
+    },
+    {
+      "key": "dj2.quest.db.1186.title",
+      "en": "Getting faster"
+    },
+    {
+      "key": "dj2.quest.db.1186.desc",
+      "en": "Craft a couple Speed Upgrades, and one Stack & Mining Upgrade.%n%n- Speed Upgrades increase a machine's speed or a Transfer Node's transfer rate.%n- One Stack Upgrade makes it so the Transfer Node sends a stack of items at once, instead of individual ones.%n- The Mining Upgrade is similar to the 1.7 World Interaction Upgrade. It mines Cobblestone when placed inside a Transfer Node which is over a full block with Water and Lava source blocks on the side."
+    },
+    {
+      "key": "dj2.quest.db.1187.title",
+      "en": "Upgrading? Upgrading?"
+    },
+    {
+      "key": "dj2.quest.db.1187.desc",
+      "en": "Craft a couple Upgrade Bases! These can be crafted into Speed, Stack, and Mining Upgrades."
+    },
+    {
+      "key": "dj2.quest.db.1188.title",
+      "en": "Glass that can't be Effed"
+    },
+    {
+      "key": "dj2.quest.db.1188.desc",
+      "en": "Craft some Ineffable and Dark Ineffable Glass. While players can, mobs can't travel through these blocks, which makes them useful for mob farm or mob spawner walls, as well as general base doors. The regular one does let light through, the dark one doesn't. So mobs will be able to spawn inside when you use the dark variants."
+    },
+    {
+      "key": "dj2.quest.db.1189.title",
+      "en": "Show them the Nether!"
+    },
+    {
+      "key": "dj2.quest.db.1189.desc",
+      "en": "Craft some Mob Masher Fire Aspect Upgrades. You can insert at most 10 of these in the machine. This will set all mobs on fire that are touched by the Masher. Perfect for Cooked Porkchops!"
+    },
+    {
+      "key": "dj2.quest.db.1190.title",
+      "en": "Die!(monds)"
+    },
+    {
+      "key": "dj2.quest.db.1190.desc",
+      "en": "These fellahs deal a lot of damage...! So why not craft some?"
+    },
+    {
+      "key": "dj2.quest.db.1191.title",
+      "en": "Fiery Fred"
+    },
+    {
+      "key": "dj2.quest.db.1191.desc",
+      "en": "Craft a Fire Mill! This machine generates GP passively while over an active Fire block. Use Netherrack below.%n%nThis generator has been buffed and it generates 4x the normal amount."
+    },
+    {
+      "key": "dj2.quest.db.1192.title",
+      "en": "Don't leave any items floatin'"
+    },
+    {
+      "key": "dj2.quest.db.1192.desc",
+      "en": "Craft a couple Absorption Range Upgrades to increase the range of your Absorption Hopper! You can use at most 6 of these."
+    },
+    {
+      "key": "dj2.quest.db.1193.title",
+      "en": "It's your Lucky Day!"
+    },
+    {
+      "key": "dj2.quest.db.1193.desc",
+      "en": "Craft some Mob Masher Looting Upgrades. You can insert at most 10 of these in the machine. This will make the Masher drop more loot."
+    },
+    {
+      "key": "dj2.quest.db.1437.title",
+      "en": "Enchanted Wands"
+    },
+    {
+      "key": "dj2.quest.db.1437.desc",
+      "en": "The Builders Wand and the Destruction Wand are unbreakable."
+    },
+    {
+      "key": "dj2.quest.db.1701.title",
+      "en": "Face it: No need to place it"
+    },
+    {
+      "key": "dj2.quest.db.1701.desc",
+      "en": "Craft a Building Gadget! This handy tool allows you to build columns, walls, and much more from afar. It does require power to do so though. You can use an Immersive Engineering Charging Station, or an Energetic Infuser - starting from next Chapter.%n%nTo change its mode, hold §6G§r. Check your key bindings for all the other settings this mod uses!"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "QuarkRotN-r1.6-191.jar",
+      "path": "assets/quark/lang/en_US.lang"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Spirit Herb",
+  "icon": "roots:spirit_herb",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:spirit_herb",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tương truyền Spirit Herb hội tụ linh hồn và bóng ma của những con vật cao quý đã khuất; trong lá của nó lưu giữ phần lớn trí tuệ của chúng.$(br2)Sức nóng của Pyre không đủ để hồi sinh loài thảo dược này.$(br2)Bạn phải chăm sóc đặc biệt và dùng $(l:crafting/runic_shears)Runic Shears$() để vươn tới cõi tiên và hái một chiếc lá."
+    },
+    {
+      "type": "runic_shears_template",
+      "recipe": "spirit_herb",
+      "name": "Spirit Herb",
+      "text": "Loài cây tương đồng gần nhất trong thế giới của chúng ta là Beetroot bình dị.$(br2)Dùng $(l:crafting/runic_shears)Runic Shears$(), bạn có thể thu hoạch cây Beetroot đồng thời vươn tới cõi tiên để đổi nó lấy Spirit Herb.$(br2)Sau khi có được, nó trở thành cây trồng $(l:herbs/spirit_herb#renew)tái tạo$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:spirit_herb_seed",
+      "anchor": "renew",
+      "text": "Sau khi tách ra, hạt giống Spirit Herb có thể được gieo trên bất kỳ Farmland nào hỗ trợ cây trồng thông thường.$(br2)Khi trưởng thành, những chiếc lá đan xen của cây chuyển sang màu xanh lục tươi."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "advancement.integrateddynamics.block_reading.desc": "Chế tạo một Block Reader",
+  "advancement.integrateddynamics.cables_logic.desc": "Chế tạo một Logic Cable",
+  "advancement.integrateddynamics.drying.desc": "Chế tạo một Drying Basin.",
+  "advancement.integrateddynamics.item_origin_identification.desc": "Lấy tên mod của một Item.",
+  "advancement.integrateddynamics.menril_wrenching": "Vặn Menril",
+  "advancement.integrateddynamics.redstone_reading": "Đọc Redstone",
+  "advancement.integrateddynamics.variable_output.desc": "Chế tạo Variable Output Transformer",
+  "advancement.integrateddynamics.variable_proxying.desc": "Tạo một biến proxy hợp lệ trong §lProxy§r.",
+  "itemGroup.integrateddynamics": "Integrated Dynamics"
+}

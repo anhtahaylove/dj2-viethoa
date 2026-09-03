@@ -1,0 +1,20 @@
+{
+  "name": "Tổng quan Fission",
+  "icon": "alchemistry:fission_controller",
+  "category": "fission_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fission Multiblock cho phép bạn phân tách chính cấu trúc liên kết các nguyên tố để tạo thành nguyên tố mới. Mọi nguyên tố trừ Hydrogen đều có thể được phân tách bằng Fission Multiblock. Xem công thức trong JEI"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:fission_controller",
+      "recipe2": "alchemistry:fission_core"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:fission_casing"
+    }
+  ]
+}

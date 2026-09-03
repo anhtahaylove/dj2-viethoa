@@ -1,0 +1,10 @@
+{
+  "namespace": "immersiveengineering",
+  "english_locale": "en_us",
+  "jar": "ImmersiveEngineering-0.12-98.jar",
+  "paths": [
+    "assets/immersiveengineering/lang/en_us.lang"
+  ],
+  "keys": 478,
+  "sha256": "97441950101d13a5bfef014435923fb146220608818911e50aeb5bdc7f757cc4"
+}

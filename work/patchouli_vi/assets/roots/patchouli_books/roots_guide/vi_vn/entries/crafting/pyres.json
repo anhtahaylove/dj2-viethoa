@@ -1,0 +1,38 @@
+{
+  "name": "Pyres",
+  "icon": "roots:reinforced_pyre",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:pyre",
+      "text": "Công dụng chính của pyre là thực hiện ritual; cách sử dụng pyre trong trường hợp này được mô tả tại $(l:rituals/introduction)phần giới thiệu về ritual$().$(br2)Các công dụng khác gồm tạo một số herb nhất định, như mô tả trong phần $(l:herbs/introduction)herb$()"
+    },
+    {
+      "type": "text",
+      "text": "$(l:herbs/introduction)phần giới thiệu$(). Các công dụng khác gồm một số kiểu chế tạo cụ thể được trình bày ở các trang sau, cùng với một $(l:crafting/decorative_pyre)biến thể trang trí$().$(br2)$(info) Mọi nghi thức, bao gồm chế tạo bằng thảo mộc, chế tạo vật phẩm thông thường và công thức nấu ăn, đều có thể kết thúc sớm bằng cách đổ một xô nước lên Pyre. Ngoài ra, bạn có thể phá Pyre.$(br2)$(info) Phá Pyre khi bên trong còn vật phẩm sẽ làm chúng rơi xuống đất."
+    },
+    {
+      "type": "text",
+      "title": "Chế tạo bằng Pyre",
+      "text": "Không thể liệt kê đầy đủ trong hướng dẫn này các nghi thức chế tạo ngoài những nghi thức ở mục riêng của từng $(cat:herbs)thảo mộc$().$(br2)Ngoài ra, nhiều nghi thức có thể đã bị modpack chỉnh sửa, thay đổi hoặc thậm chí loại bỏ.$(br2)$(info) May thay, bạn có thể xem danh sách đầy đủ và cập nhật các công thức nghi thức chế tạo này (bao gồm thảo mộc) phù hợp với môi trường hiện tại của mình $(uses:roots:pyre)trong JEI$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:reinforced_pyre",
+      "title": "Gia cố",
+      "text": "Bạn có thể gia cố Pyre (vốn không chịu được vụ nổ và dễ bị các boss Vanilla phá hủy) bằng $(l:resources/runed_obsidian)Runed Obsidian$().$(br2)$(info) Pyre đã gia cố này miễn nhiễm với boss và vụ nổ."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/fire_starter",
+        "rituals/automation",
+        "rituals/introduction",
+        "crafting/decorative_pyres"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "chapter_index": 28,
+  "title_key": "dj2.quest.ql.29.title",
+  "chapter_title_en": "3. The Root of the Problem",
+  "desc_key": "dj2.quest.ql.29.desc",
+  "chapter_desc_en": "Dig through Roots, an agriculturally themed Magic Mod.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.29.title",
+      "en": "3. The Root of the Problem"
+    },
+    {
+      "key": "dj2.quest.ql.29.desc",
+      "en": "Dig through Roots, an agriculturally themed Magic Mod."
+    },
+    {
+      "key": "dj2.quest.db.52.title",
+      "en": "Rocky Road Ahead"
+    },
+    {
+      "key": "dj2.quest.db.52.desc",
+      "en": "Runed Obsidian is the next tier of Standing Stone. Its main use, though, is in upgrading tools and equipment."
+    },
+    {
+      "key": "dj2.quest.db.745.title",
+      "en": "Imposter"
+    },
+    {
+      "key": "dj2.quest.db.745.desc",
+      "en": "Craft an Imposer!%n%nThe Imposer is used to modify the abilities of spells already placed inside. To place spells inside a Staff, follow the instructions on the Staff quest.%n%nThe Imposer works quite simply in-world: place down a Staff into it, and Right Click with a Knife. This will open up a GUI, which is where the fun starts.%nEach slot of spells can be clicked, opening a sub-menu. Up to 11 different modifiers are present for each spell, allowing for massive variation within spells. To activate a modifier, simply put in the respective Roots ingredient into the slot to unlock it, and click once to activate it.%nUnlocked modifiers can be activated or deactivated at any time through the \"Open Spell Library\" key. Additionally, unlocked modifiers are global, applying to all Staffs you own.%n%nEach color border indicates something:%n§eYellow: not unlocked%n§4Red: unlocked, but not activated%n§2Green: unlocked and activated%n§dPurple: unlocked, but conflicts with an active modifier"
+    },
+    {
+      "key": "dj2.quest.db.967.title",
+      "en": "Smells like burnt plastic"
+    },
+    {
+      "key": "dj2.quest.db.967.desc",
+      "en": "Craft some Stalicripe, then plant it onto any Elemental Soil to grow more."
+    },
+    {
+      "key": "dj2.quest.db.1482.title",
+      "en": "Terra\"steel\""
+    },
+    {
+      "key": "dj2.quest.db.1482.desc",
+      "en": "Craft all Roots Terrastone Tools! They are an upgraded version of the Living Tools, increasing their durability, durability regeneration speed, and providing some minor bonuses - for instance, the Terrastone Hoe breaks Vines and Leaves as if it had Silk Touch. Instead of being repaired with tree Bark, they can be repaired with any kind of Mossy Cobblestone."
+    },
+    {
+      "key": "dj2.quest.db.1486.title",
+      "en": "Nordic Raiders"
+    },
+    {
+      "key": "dj2.quest.db.1486.desc",
+      "en": "Craft all Runed Tools! They repair slower than Terrastone, but have way more durability and can mine in a 3x3.%nThe Runed Dagger has a chance to apply a bleeding effect that stacks up to three times. Bleeding is a small damage over time effect."
+    },
+    {
+      "key": "dj2.quest.db.1598.title",
+      "en": "Spore Sports"
+    },
+    {
+      "key": "dj2.quest.db.1598.desc",
+      "en": "Punch some grass to obtain some Terra Spores. Then place down those Terra Spores on any Cobblestone that is right next to a Water source block.%n%nThen craft any kind of knife to scrape off the Terra Spores and collect the resulting Terra Moss!%n%nBe aware that later you'll need to completely automate this process (once you have access to an Extra Utilities Mechanical User).%n%nIf you can't find regular Cobblestone, you can craft 4 pieces of it from any Underground Biomes Cobblestone type by putting them in a square shape into the Crafting Window."
+    },
+    {
+      "key": "dj2.quest.db.1599.title",
+      "en": "Ouchie! Flower no touchie!"
+    },
+    {
+      "key": "dj2.quest.db.1599.desc",
+      "en": "Craft an Infernal Bulb! Then plant it onto Elemental Soil to get more!%n%nIf you haven't yet, complete a couple quests in the next Chapter to unlock the Chapter 5 Nether quests."
+    },
+    {
+      "key": "dj2.quest.db.1600.title",
+      "en": "Wood you look at that!"
+    },
+    {
+      "key": "dj2.quest.db.1600.desc",
+      "en": "Perform the Wildroot Growth Ritual on your Pyre (the Ritual is available from JEI), while one fully grown Wildroot plant is nearby. If done correctly, the Wildroot will convert into a Wildwood Tree! Harvest it to complete this quest.%n%nNote: This tree won't drop Saplings, you'll have to repeat the Ritual to get more.%n%nNote: Only exactly one, namely the closest Wildroot plant will transform."
+    },
+    {
+      "key": "dj2.quest.db.1601.title",
+      "en": "HWHEAT"
+    },
+    {
+      "key": "dj2.quest.db.1601.desc",
+      "en": "Snip off some fully grown Wheat using your Runic Shears to obtain Wildewheat! Then convert it into Seeds and plant it to get more! You can plant this on any type of Soil."
+    },
+    {
+      "key": "dj2.quest.db.1602.title",
+      "en": "Totally natural gating"
+    },
+    {
+      "key": "dj2.quest.db.1602.desc",
+      "en": "Punch some grass to have a chance to obtain some Wildroot! They're used pretty heavily in Roots, but fortunately they can be planted and grown as a crop. Alternatively, you can set up an automatic Grass shaker of sorts to obtain more of them.%n%nThen craft a Root of the Fallen using your Baykok's Bow to get into Roots!"
+    },
+    {
+      "key": "dj2.quest.db.1603.title",
+      "en": "[UTILITY] Harvest"
+    },
+    {
+      "key": "dj2.quest.db.1603.desc",
+      "en": "Craft a Harvest Spell Dust! When infused onto a Staff, you can Right Click to harvest a huge field of crops! It works best when the spell is modified with Magnetic Harvest, so you can harvest and collect all the drops in one go!%n%nIn fact, it works even better if spell is modified with Regrowth, so you can regrow crops as you harvest them!"
+    },
+    {
+      "key": "dj2.quest.db.1604.title",
+      "en": "Crushing it"
+    },
+    {
+      "key": "dj2.quest.db.1604.desc",
+      "en": "Use Charred Stone to Craft a Mortar and a Pestle from Roots! Place down the Mortar, and to use it, place some ingredients inside. To crush the ingredients, simply Right Click with the Pestle.%n%nThis lets you create String out of Wool, Bone Meal out of Bones, or Sugar out of Sugarcane.%nMost importantly, it is used to create the various spell dusts - although to use them, you'll need the Imbuer, a Gramary, and a Staff!"
+    },
+    {
+      "key": "dj2.quest.db.1605.title",
+      "en": "Surely you won't trample it"
+    },
+    {
+      "key": "dj2.quest.db.1605.desc",
+      "en": "Not with this Stone nearby! Place it near your crop field, and not only will it provide Water to nearby crops, it will also prevent anyone from trampling them!"
+    },
+    {
+      "key": "dj2.quest.db.1606.title",
+      "en": "Water Holder"
+    },
+    {
+      "key": "dj2.quest.db.1606.desc",
+      "en": "Craft 4 blocks of Endervoirs in your Fey Crafter. When placed in a 2x2 multiblock shape, it acts as an infinite water source. You can even pump water out! Try it using the quest rewards!"
+    },
+    {
+      "key": "dj2.quest.db.1607.title",
+      "en": "Blizzard's new card game"
+    },
+    {
+      "key": "dj2.quest.db.1607.desc",
+      "en": "Runestones! Craft some of them. They're used as crafting components, as well as Standing Stones for Pyre Rituals!%n%nEverything is detailed in your Druidic Arts book (if you've unlocked it). For most Rituals, a pillar Runestones with a Chiseled Runestone on top will be necessary. It doesn't have to be placed exactly where the book shows, just somewhere nearby."
+    },
+    {
+      "key": "dj2.quest.db.1608.title",
+      "en": "Yet another crafting altar"
+    },
+    {
+      "key": "dj2.quest.db.1608.desc",
+      "en": "Make a Fey Crafter! This is another central crafting mechanic in Roots. To use it however, you'll need at least one Imbued Grove Stone in the vicinity. To imbue a Grove Stone, perform the Grove Supplication Ritual.%n%nTo use this crafting altar, open its UI and place 5 ingredients inside. Then Right Click on it with any kind of Roots Knife, to complete the craft.%n%nNote: You cannot automate the Fey Crafter. In order to automate these recipes, you must use the Runic Crafter."
+    },
+    {
+      "key": "dj2.quest.db.1609.title",
+      "en": "[UTILITY] Fey Light"
+    },
+    {
+      "key": "dj2.quest.db.1609.desc",
+      "en": "Craft a Fey Light Spell Dust! When on a Staff, you can create small light sources that can just as easily be destroyed too, if you don't want them around anymore.%n%nTo obtain Sunflowers for this Spell Dust, look around in vanilla Plains biomes!"
+    },
+    {
+      "key": "dj2.quest.db.1610.title",
+      "en": "You can be Gandalf now"
+    },
+    {
+      "key": "dj2.quest.db.1610.desc",
+      "en": "Craft a Staff! This holds up to 5 Spells you've learned through the Imbuer. To set the spells your Staff will use, hold your Staff in hand, press the \"Open Spell Library\" key, and click the spell of your choice and put it in a slot of your choice. Now, whenever you Right Click with the Staff, that spell's effect will occur - provided you have the ingredients to supply it in one of Root's Bags.%nSpells can be modified, but that requires the Imposer, and is described in that quest.%n%nShift+Right Click to rotate the slot the Staff is focused on."
+    },
+    {
+      "key": "dj2.quest.db.1611.title",
+      "en": "Grove activation"
+    },
+    {
+      "key": "dj2.quest.db.1611.desc",
+      "en": "Craft a Grove Stone! Place it down, then §cperform the Grove Supplication Ritual in a nearby Pyre§r! The Grove Stone will allow nearby Fey Crafters and Runic Crafters to function.%n%nNote: By default, the Grove Stone spawn grass and flowers around them constantly, but this is reported to have significant negative impacts on performance, and has been disabled."
+    },
+    {
+      "key": "dj2.quest.db.1613.title",
+      "en": "Cool Roots tools, fools!"
+    },
+    {
+      "key": "dj2.quest.db.1613.desc",
+      "en": "Craft all Roots Living Tools! They all auto-repair, but can also be repaired with any kind of tree Bark!"
+    },
+    {
+      "key": "dj2.quest.db.1614.title",
+      "en": "Shear it, Spear it, Spirit!"
+    },
+    {
+      "key": "dj2.quest.db.1614.desc",
+      "en": "Shear a fully grown Beetroot plant using your Runic Shears to obtain some Spirit Herb! Then craft it into Seeds to obtain more! You can plant this on any type of Soil."
+    },
+    {
+      "key": "dj2.quest.db.1615.title",
+      "en": "A thirsty flower"
+    },
+    {
+      "key": "dj2.quest.db.1615.desc",
+      "en": "Use your Pyre to craft 3 Dewgonias! This is the first of many flowers and spell components in Roots.%n%nOnce you craft it a single time, you can grow this flower on any Elemental Soil to obtain more."
+    },
+    {
+      "key": "dj2.quest.db.1616.title",
+      "en": "Mount Pyre"
+    },
+    {
+      "key": "dj2.quest.db.1616.desc",
+      "en": "Craft a Pyre! This is a central crafting mechanic in Roots. To use it, simply toss the ingredients or Right Click with them on top. To remove the last ingredient, Right Click with an empty hand.%n%nTo start any craft, you'll need to light the Pyre with a Flint and Steel. Because of this reason, to be able to do any crafting, you'll need to also start the next chapter: \"Immerse Yourself\", and start creating Steel!%n%nYou can also automate the Pyre by lighting the ground with a Dispenser in the immediate 3x3 area centered around the Pyre.%n%nTo stop a given Ritual, you can take a Bucket of Water, and Right Click with it on the Pyre.%n%nSimilarly to a Botania Altar, you can Shift+Right Click the Pyre to put another set of the previously used crafting ingredients from your inventory onto the Pyre.%n%nThe Pyre can also access a chest immediately below it and pull ingredients from it to keep Rituals going. Check out the Rituals provided by Roots, you'll find a lot of useful ones, like the Healing Aura, Windwall, Animal Harvest, or Summon Creatures! Make sure to read up on the Rituals and Spells in the book!"
+    },
+    {
+      "key": "dj2.quest.db.1617.title",
+      "en": "Heavenly flower"
+    },
+    {
+      "key": "dj2.quest.db.1617.desc",
+      "en": "Craft one Cloud Berry! Then plant it onto any Elemental Soil to grow more.%n%nTo obtain Blue Orchids for this item, look around in Swamp-like biomes!"
+    },
+    {
+      "key": "dj2.quest.db.1618.title",
+      "en": "Magenta beauty"
+    },
+    {
+      "key": "dj2.quest.db.1618.desc",
+      "en": "Craft a Pereskia flower! Then convert it into a Pereskia Bulb, which you can plant on any type of Soil. Grow some additional Pereskias to complete this quest!%n%nTo obtain Lilacs for this item, look around in Foresty biomes!"
+    },
+    {
+      "key": "dj2.quest.db.1619.title",
+      "en": "The Shear power of this"
+    },
+    {
+      "key": "dj2.quest.db.1619.desc",
+      "en": "Craft a pair of Runic Shears! Using this tool, you can obtain the following 3 items:%n%n- Wildewheet by shearing fully grown Wheat,%n- Spirit Herb by shearing a fully grown Beetroot plant%n- Fey Leather by shearing Cows, Pigs, Rabbits, Llamas, Deers, Horses, Donkeys, and Mules.%n%nThis process can be automated via Dispenser."
+    },
+    {
+      "key": "dj2.quest.db.1621.title",
+      "en": "[OFFENSIVE] Radiance"
+    },
+    {
+      "key": "dj2.quest.db.1621.desc",
+      "en": "Craft a Radiance Spell Dust! When on a Staff, you can constantly shoot a strong beam of light at your target, which can obliterate your foes! PEW-PEW!"
+    },
+    {
+      "key": "dj2.quest.db.1622.title",
+      "en": "Pouch Poacher"
+    },
+    {
+      "key": "dj2.quest.db.1622.desc",
+      "en": "Upgrade your Herb Pouch into a Component Pouch, Fey Leather Pouch, and eventually an Apothecary Pouch! %nThe Component Pouch holds 12 general item slots and 6 spell component slots.%nThe Fey Leather Pouch holds 6 general item slots and 12 spell component slots.%nThe Apothecary Pouch holds 18 general item slots and 9 spell component slots.%n%nSame as with the Herb Pouch, they can be stored in the Bauble Belt slot, and accessed via the \"Open Pouch\" key."
+    },
+    {
+      "key": "dj2.quest.db.1623.title",
+      "en": "Pouchee-pouchee!"
+    },
+    {
+      "key": "dj2.quest.db.1623.desc",
+      "en": "Craft a Herb Pouch! You can store up to 9 Roots spell components. This will allow you to use spells from Staves, as they require ingredients from a Pouch to function. However, the 9 slots you are provided will not be enough to hold everything, as there are 11 possible components.%n%nThe Herb Pouch can be stored in the Bauble Belt slot and accessed via the \"Open Pouch\" key."
+    },
+    {
+      "key": "dj2.quest.db.1624.title",
+      "en": "Charizard's favorite Stone"
+    },
+    {
+      "key": "dj2.quest.db.1624.desc",
+      "en": "Use the Pyre to create some Charred Stone!%n%nNote: You'll need to progress a bit in \"Immerse Yourself!\" before you can light your Pyre."
+    },
+    {
+      "key": "dj2.quest.db.1625.title",
+      "en": "Storm, EARTH, and Fire"
+    },
+    {
+      "key": "dj2.quest.db.1625.desc",
+      "en": "Craft a batch of Elemental Soil! Crops can grow on it just like on Tilled Dirt, and they grow slightly faster than normal. Crops planted on it cannot be trampled, and water doesn't need to be placed in the vicinity for them to grow."
+    },
+    {
+      "key": "dj2.quest.db.1626.title",
+      "en": "[UTILITY] Augment"
+    },
+    {
+      "key": "dj2.quest.db.1626.desc",
+      "en": "Craft a Augment Spell Dust! In order for this to do anything, you need to modify it to a specific effect - perhaps a temporary spectator mode, or an on-demand magnet?"
+    },
+    {
+      "key": "dj2.quest.db.1627.title",
+      "en": "Better than Dirt"
+    },
+    {
+      "key": "dj2.quest.db.1627.desc",
+      "en": "Much better than Dirt in fact...! Craft some additional Elemental Soil and upgrade some batches of them to all 4 different types of Elemental Soil:%n%n- Drop it in Water to upgrade it to Aqueous Soil,%n- Drop it in Lava to upgrade it to Magmatic Soil,%n- Drop it above Y=90 with sky access to upgrade it to Caelic Soil,%n- Drop it below Y=30 without sky access to upgrade it to Terran Soil.%n%nEach type of Soil has its benefits (read their tooltip).%n%nNote: Aqueous Soil is particularly good for your early crop farms before you unlock the farmer, as it either puts them crop drops into an inventory below the Soil or drops it into the world. Some good options to make use of the Aqueous Soil include:%n- using a layer of 2x1 Drawers below the Aqueous Soil connected to a Drawer Controller to extract the drops%n- Hopper Minecarts running below the Soil to pick up the drops%n- the Roots Gathering Ritual, picking up all nearby drops%nThe auto-harvest feature can be disabled by placing gravel below the Soil."
+    },
+    {
+      "key": "dj2.quest.db.1628.title",
+      "en": "[OFFENSIVE] Wildfire"
+    },
+    {
+      "key": "dj2.quest.db.1628.desc",
+      "en": "Craft a Wildfire Spell Dust! When on a Staff, you can shoot fire at enemies! It's slightly weaker than Radiance, but sets enemies on fire!"
+    },
+    {
+      "key": "dj2.quest.db.1629.title",
+      "en": "[UTILITY] Sky Soarer"
+    },
+    {
+      "key": "dj2.quest.db.1629.desc",
+      "en": "Craft a Sky Soarer Spell Dust! When infused onto a Staff, you can dash ahead or into the air with a Right Click. If you modify it to include Friendly Earth, it also catches your fall - meaning you'll take no fall damage if you quickly use it when you land. It's a perfect way to travel before Jetpacks!"
+    },
+    {
+      "key": "dj2.quest.db.1630.title",
+      "en": "Sylvanas would be proud"
+    },
+    {
+      "key": "dj2.quest.db.1630.desc",
+      "en": "Craft a full set of Sylvan armor! While wearing this, your Roots spells have an 8%% chance to consume no spell ingredients from your inventory or Component Pouch.%n%nThe armor can be repaired using Fey Leather."
+    },
+    {
+      "key": "dj2.quest.db.1631.title",
+      "en": "Watch where you cut!"
+    },
+    {
+      "key": "dj2.quest.db.1631.desc",
+      "en": "Obtain some Fey Leather using your Runic Shears on:%n%n- a Minecraft Cow, Llama, Horse, Donkey, Mule, Rabbit, Pig, or%n- a Mystical World Deer."
+    },
+    {
+      "key": "dj2.quest.db.1632.title",
+      "en": "This is what dogs do"
+    },
+    {
+      "key": "dj2.quest.db.1632.desc",
+      "en": "Bark! Bark!%n%nUse your Knife to obtain some Bark by breaking any type of vanilla Log block!"
+    },
+    {
+      "key": "dj2.quest.db.1633.title",
+      "en": "Imbuebitably"
+    },
+    {
+      "key": "dj2.quest.db.1633.desc",
+      "en": "Craft an Imbuer and a Gramary of the Forests! Both of these items are required to be able to use any of the Spell Dusts. %nTo use, place the Imbuer down and set the Spell Dust you want to learn inside. Then Right Click and place the Gramary of the Forests on the Imbuer, and after a few seconds, you will get a message informing you that you have learned the spell."
+    },
+    {
+      "key": "dj2.quest.db.1634.title",
+      "en": "Ready for combat"
+    },
+    {
+      "key": "dj2.quest.db.1634.desc",
+      "en": "Craft all melee and ranged Roots weapons! They all auto-repair slowly, but can also be repaired with any kind of tree Bark. The Quiver can not only hold Arrows, but if you're out of Arrows, it can conjure some for you for the cost of durability damage on it."
+    },
+    {
+      "key": "dj2.quest.db.1635.title",
+      "en": "That's some WILD armor set"
+    },
+    {
+      "key": "dj2.quest.db.1635.desc",
+      "en": "Craft a full set of Wildwood armor! It's slightly tougher than the Sylvan set, and has a chance to heal you over time. The armor can be repaired with Wildwood Bark."
+    },
+    {
+      "key": "dj2.quest.db.1636.title",
+      "en": "[GATED] Multiple Spells"
+    },
+    {
+      "key": "dj2.quest.db.1636.desc",
+      "en": "These 5 spells, for one reason or another, are gated to significantly later in the game. §6You only have to craft one of these Spell Dusts to complete the quest§r, but they are quite powerful, so you should try all of them.%n%nThe Extension spell provides Night Vision and can be modified to highlight nearby hostile mobs, passive mobs, spawners, chests, or ores.%n%nThe Acid Cloud spell summons a poisonous cloud that constantly damages and knocks back enemies, and can be modified to also provide significant regeneration.%n%nThe Life Drain spell has no cooldown, dealing small amounts of damage and knockback to nearby mobs, healing you as they take damage.%n%nThe Shatter spell instantly breaks between 1 and 27 blocks, depending on modifiers, and has the ability to apply Silk Touch, Fortune 2, and/or Smelting to the drops.%n%nThe Petal Shell prevents the next 3 instances of damage from dealing damage. This can be upgraded to the next 5."
+    },
+    {
+      "key": "dj2.quest.db.1637.title",
+      "en": "Baffling!"
+    },
+    {
+      "key": "dj2.quest.db.1637.desc",
+      "en": "Craft one Baffle Cap Mushroom! Then grow it into a tall mushroom in a dark area, or spread it in a dark farm, like you would do with regular Minecraft Mushrooms!%n%nNote: In order to craft this, you need to have visited the Nether, as Lucid Spores and Orange Mushrooms can only be found there. Simply complete a couple quests in the next Chapter to unlock the Chapter 5 Nether quests."
+    },
+    {
+      "key": "dj2.quest.db.1638.title",
+      "en": "Can be found in Moonglade"
+    },
+    {
+      "key": "dj2.quest.db.1638.desc",
+      "en": "Craft a Moonglow Leaf! Then convert it into Moonglow Seeds by crafting, and plant it onto any Elemental Soil to grow more."
+    },
+    {
+      "key": "dj2.quest.db.1639.title",
+      "en": "[UTILITY] Rampant Growth"
+    },
+    {
+      "key": "dj2.quest.db.1639.desc",
+      "en": "Craft a Rampant Growth Spell Dust! When infused onto a Staff, you can quickly regrow all crops nearby! It works best with the Harvest spell, so you can immediately harvest and regrow your whole crop field!"
+    },
+    {
+      "key": "dj2.quest.db.1640.title",
+      "en": "Mystery of the Scarab"
+    },
+    {
+      "key": "dj2.quest.db.1640.desc",
+      "en": "Craft a pair of... Artificial Scarab Wings? What could this be used for?"
+    },
+    {
+      "key": "dj2.quest.db.1720.title",
+      "en": "Base moving time?"
+    },
+    {
+      "key": "dj2.quest.db.1720.desc",
+      "en": "The Medium Storage Crate stores 234 stacks. Placing the Storage Crate Keeper in any size of Storage Crate will let the Storage Crate keep its inventory when broken - although it will be expended doing this, so make sure you don't place it early. Perfect for packing up and moving long distances."
+    },
+    {
+      "key": "dj2.quest.db.1725.title",
+      "en": "Tricky Transitions"
+    },
+    {
+      "key": "dj2.quest.db.1725.desc",
+      "en": "Use the Transmutation Ritual to transform blocks into other blocks or items based on their surroundings! Note that you need a 3-high Standing Stone made of two Runestone with a Chiseled Runestone on top. The Ritual will last 120 seconds, converting 1 nearby block every 5 seconds, leading to a maximum of 24 transmutations. %n%nThis ritual allows you to easily obtain a number of materials that may otherwise require a significant amount of exploration - make sure to check it!%n%nA helper JEI Category has been created to more easily distinguish what the various blocks or items converted are.%n%nEnergized Clathrate can be found in large clumps at low Y levels in the Nether, interspersed with Liquid Glowstone."
+    },
+    {
+      "key": "dj2.quest.db.1726.title",
+      "en": "Spooky Summoning"
+    },
+    {
+      "key": "dj2.quest.db.1726.desc",
+      "en": "Use the Summon Creatures Ritual to easily summon specific mobs. The mob summoned is based on the items on nearby Catalyst Plates.%n%nThis ritual allows you to easily find a number of mobs that may otherwise require a significant amount of exploration - make sure to check it!%n%nSome especially notable entities include: §4Imps§r, Anti-Cows, §8Shadow Creatures§r, §bGuardians§r, and §5Evokers§r.%n%nA helper JEI Category has been created to more easily distinguish what the entities are."
+    }
+  ]
+}

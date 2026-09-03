@@ -1,0 +1,11 @@
+{
+  "title": "The Tinker Tank",
+  "image": {
+    "file": "tconstruct:textures/gui/book/tinker_tank.png"
+  },
+  "text": [
+    {
+      "text": "Tinker Tank là một bể khổng lồ, chứa được nhiều chất lỏng hơn Smeltery, nhưng không có nhiệt nên không thể tạo hợp kim hay nung chảy."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Squid",
+  "icon": "mysticalworld:raw_squid",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:raw_squid",
+      "text": "Bạn có thể lấy xúc tu Squid sống bằng cách giết $(l:creatures/squid)Squid$(). Có thể ăn sống, nhưng cũng có thể đem nấu chín."
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:raw_squid",
+      "title": "Calamari",
+      "text": "Quá trình sơ chế xúc tu mực để nấu ăn tạo ra rất nhiều calamari, có thể kết hợp với các nguyên liệu khác để mang lại trải nghiệm còn tuyệt vời và bí ẩn hơn!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:epic_squid",
+      "title": "Epic Squid",
+      "text": "Không thể phủ nhận sự hấp dẫn màu tím của Epic Squid! Tuy nguyên liệu chế tạo khá đắt đỏ, món này sẽ lấp đầy gần như mọi cơn đói và đồng thời mang lại nhiều lợi ích đáng kể. Thật vậy, bạn có thể ăn nó bất cứ lúc nào chỉ để nhận những lợi ích ấy."
+    }
+  ]
+}

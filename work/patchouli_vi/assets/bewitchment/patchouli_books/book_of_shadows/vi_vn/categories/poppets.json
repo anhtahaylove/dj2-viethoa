@@ -1,0 +1,6 @@
+{
+  "name": "Poppets",
+  "description": "Poppet là những vật phẩm nhỏ giống búp bê, được dùng trong ma thuật giao cảm. $(l)Để liên kết một Poppet, hãy cầm Poppet ở tay chính, cầm Taglock của mục tiêu ở tay còn lại, rồi shift-nhấp chuột phải.",
+  "icon": "bewitchment:textures/gui/patchouli/icons/book_of_shadows/poppet.png",
+  "sortnum": 8
+}

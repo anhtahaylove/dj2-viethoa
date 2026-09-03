@@ -1,0 +1,513 @@
+{
+  "chapter_index": 16,
+  "title_key": "dj2.quest.ql.16.title",
+  "chapter_title_en": "20. Which Witch is Which",
+  "desc_key": "dj2.quest.ql.16.desc",
+  "chapter_desc_en": "Brew and boil with Witchery, summon demons, and devour bosses.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.16.title",
+      "en": "20. Which Witch is Which"
+    },
+    {
+      "key": "dj2.quest.ql.16.desc",
+      "en": "Brew and boil with Witchery, summon demons, and devour bosses."
+    },
+    {
+      "key": "dj2.quest.db.129.title",
+      "en": "Loot!"
+    },
+    {
+      "key": "dj2.quest.db.129.desc",
+      "en": "Obtain the following loot by slaying certain mobs with your Athame:%n%n- Heart from Players, Villagers, Witches, Evokers, Illusioners, or Vindicators. (Witches are probably your best choice.)%n- Dimensional Sand from Endermen or Endermites.%n- Spectral Dust from any Undead mob like Skeletons or Zombies.%n%nHooves can be obtained from Pigs, Sheep, Cows, Horses, Zombie Pigman, Mooshrooms, Llamas, Donkeys, or Mules, even without using an Athame."
+    },
+    {
+      "key": "dj2.quest.db.130.title",
+      "en": "Arthana 2.0"
+    },
+    {
+      "key": "dj2.quest.db.130.desc",
+      "en": "Craft an Athame! Killing various mobs with this might make them drop some special loot! (See: next quest.)"
+    },
+    {
+      "key": "dj2.quest.db.131.title",
+      "en": "Hot from inside out"
+    },
+    {
+      "key": "dj2.quest.db.131.desc",
+      "en": "Brew up some Fiery Unguent and automate it as best as you can!"
+    },
+    {
+      "key": "dj2.quest.db.132.title",
+      "en": "Hello, fellow Tallow!"
+    },
+    {
+      "key": "dj2.quest.db.132.desc",
+      "en": "Craft some Tallow!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nIt's Swellow's pre-evolution... or is it?"
+    },
+    {
+      "key": "dj2.quest.db.133.title",
+      "en": "It's like a sieve... but for liquids!"
+    },
+    {
+      "key": "dj2.quest.db.133.desc",
+      "en": "Make a Distillery! Make sure to place it near a Witches' Altar.%n%nTo automate this machine, you'll need to insert the ingredients from the top, Blaze Powder from the sides, and pull out the results from the bottom.%n%nHowever, you might come across some difficulties:%n%n- Items might end up in the wrong slots, for example 2 stacks of the same item get sent into the Distillery, instead of 2 stacks of unique ingredients.%n%n- Some recipes take fewer than 6 inputs, and the 6th slot also gets filled up - stopping the crafting process.%n%n- Some recipes take multiple stacks of the same item, and when they enter the machine, they don't spread out correctly.%n%nBut there is a fix for all of these!%n%nIntroducing (or more like revisiting a Chapter you've completed a long time ago): THE IMPULSE HOPPER! Simply set up a filter in the middle row, and the Impulse Hopper will only let a set of items through if all of the ones in the Filter have arrived.%n%nThis still poses an issue for crafts that take multiple of the same ingredients. The solution is rather simple though: Set the filters to be 64 of each item, and only let them through once multiple stacks have arrived. They are surely going to go in the correct spot!%n%nIf you're still having trouble because your input slots are filling up, use an Integrated Dynamics Block Reader on the Distillery or a buffer chest that checks if the target block is empty, and if so, emits a redstone signal to the Impulse Hopper (in Redstone Mode: Active with signal) which will let some items through."
+    },
+    {
+      "key": "dj2.quest.db.134.title",
+      "en": "Oilin' up those Tiers and Tierin' up those Oils"
+    },
+    {
+      "key": "dj2.quest.db.134.desc",
+      "en": "Craft some Heaven Extract and Otherworldly Tears. One tastes like mashed potatoes except instead of potatoes it's more like clouds, and the other one tastes like scorched Ender Dragon wings. None of them are my favorite though."
+    },
+    {
+      "key": "dj2.quest.db.135.title",
+      "en": "Sun is down, freezin' cold"
+    },
+    {
+      "key": "dj2.quest.db.135.desc",
+      "en": "Woo, made this here with all the ice on in the booth,%nAll the gating in the pack can't stop me that's the truth,%nYeah, jump on into Bewitchment it's like I'm a sleuth,%nThis is way too big, when we end this give me the loot!"
+    },
+    {
+      "key": "dj2.quest.db.136.title",
+      "en": "It never melts!"
+    },
+    {
+      "key": "dj2.quest.db.136.desc",
+      "en": "Throw some Splash Iceworld Potions on a field of Stone, Granite, or Diorite to convert it to Perpetual Ice! The Potion has a large spread range, it even goes underground a bit."
+    },
+    {
+      "key": "dj2.quest.db.137.title",
+      "en": "Tough Purified Paste"
+    },
+    {
+      "key": "dj2.quest.db.137.desc",
+      "en": "It's time to perform your first Circle Rite.%n%nMake some Tough Purified Paste! You'll need to Right Click the ingredients on the Golden Rune in the center, then Right Click with an empty hand. If your Circle layout is correct and you have sufficient Magic Power, you'll be able to perform it."
+    },
+    {
+      "key": "dj2.quest.db.138.title",
+      "en": "Rich Witch"
+    },
+    {
+      "key": "dj2.quest.db.138.desc",
+      "en": "And here is the Golden Chalk I promised in the previous quest!"
+    },
+    {
+      "key": "dj2.quest.db.139.title",
+      "en": "Going deeper... into insanity"
+    },
+    {
+      "key": "dj2.quest.db.139.desc",
+      "en": "Brew up some of the nothingness, vacuum, manifestation of the realization of our mortal lives being insignificant in the vastness of the universe, the Brew of the Void!%n%n...%n%nUuhhhh, ...nyeheheh, it's great to be a Witch...?%n%n..."
+    },
+    {
+      "key": "dj2.quest.db.140.title",
+      "en": "Now THAT's witchy...!"
+    },
+    {
+      "key": "dj2.quest.db.140.desc",
+      "en": "Brew up a Bottle of Blood from Adder's Forks or Tongues of the Dog! Nyeeehehehehehehehheeeee....!"
+    },
+    {
+      "key": "dj2.quest.db.141.title",
+      "en": "Speed Potions would be jealous*"
+    },
+    {
+      "key": "dj2.quest.db.141.desc",
+      "en": "* Doesn't actually give you Speed.%n* Not for human consumption.%n* Consult a doctor if you've accidentally inhaled or touched it... or worse."
+    },
+    {
+      "key": "dj2.quest.db.142.title",
+      "en": "Shine a light on it!"
+    },
+    {
+      "key": "dj2.quest.db.142.desc",
+      "en": "Craft either a Silver, Iron, or Gold Candelabra! Placing this on top of your Altar will boost its Magic Power."
+    },
+    {
+      "key": "dj2.quest.db.143.title",
+      "en": "Yet another Altar! Yay!"
+    },
+    {
+      "key": "dj2.quest.db.143.desc",
+      "en": "Craft any 6 pieces of Witches' Altars! Place them in a 2x3 formation and place any piece of Carpet on top to form the multiblock.%n%nThis structure provides power for all your Bewitchment machines to function. Witches' Cauldrons, Distilleries, Spinning Wheels, Braziers, and Circle Rites wouldn't function without sufficient Magic Power in a 16 block radius. To run the Bewitchment cauldron and rituals, obtaining around one or two thousand Magic Power would be a good idea as they require the most Magic Power out of all the Bewitchment machines.%n%nTo increase the capabilities of your Altar, you can improve it through several ways:%n%n1. Spice up the immediate area with a bunch of flora! Trees, crops, growables, grass, flowers, fungi, anything natural you can think of - each will increase the maximum Magic Power by 1. Variety is critical, though, as the maximum Altar Power provided from a single type of block is capped to 4 times the number of different blocks used.%n%n2. Place a Statue nearby to worship. Each unique Statue increases the maximum Magic Power by 126.%n%n3. Add Altar Upgrades to the top of the Altar. An Altar can take one of each of the 4 types - Sword, Wand, Pentacle, and Cup. Each upgrade affects something different. Check JEI for more information!"
+    },
+    {
+      "key": "dj2.quest.db.144.title",
+      "en": "Can't capture - can summon!"
+    },
+    {
+      "key": "dj2.quest.db.144.desc",
+      "en": "Use Root's Summon Creature Ritual to spawn a villager.%n%nSummoning any Demon requires a sacrifice of a Player or a Villager, and this is the best way to have them 'ready'. Yikes!"
+    },
+    {
+      "key": "dj2.quest.db.145.title",
+      "en": "Ouch! Hot hot hot hot hot!!!"
+    },
+    {
+      "key": "dj2.quest.db.145.desc",
+      "en": "Craft a Fiery Chalk!%n%nOven mitts recommended."
+    },
+    {
+      "key": "dj2.quest.db.146.title",
+      "en": "Slaying the Master"
+    },
+    {
+      "key": "dj2.quest.db.146.desc",
+      "en": "Read the Codex Infernalis / Higher Demons / Master Leonard section to summon the Lord, the Master, the One who's behind all of this.%n%nReluctantly, but challenge him to a fight. In order to progress, there is only one way that fight should end..."
+    },
+    {
+      "key": "dj2.quest.db.147.title",
+      "en": "The final dish"
+    },
+    {
+      "key": "dj2.quest.db.147.desc",
+      "en": "Craft a Stew of the Grotesque!%n%n...Buuut I'd recommend NOT eating it.%n%nYou'll need it for the next quest in un-eaten form, and it might not be too beneficial for your health anyway."
+    },
+    {
+      "key": "dj2.quest.db.148.title",
+      "en": "HWHWEEL"
+    },
+    {
+      "key": "dj2.quest.db.148.desc",
+      "en": "Craft a Bewitchment Spinning Hwheel.%n%nWhat did you say...?%n%nUhh, to craft a Bewitchment Spinning Hwheel?%n%nSpinning Hwheel?%n%nSpinning Hwheel, yeah.%n%nYou mean Spinning Wheel.%n%nYeah, Spinning Hwheel.%n%nSpinning Wheel.%n%nSpinning Hwheel.%n%nSpinning Wheel.%n%nSpinning Hwheel.%n%nYou're saying it weird, why are you putting so much emphasis on the 'H'?%n%nWhat are you talking about, just saying it: 'Spinning Hwheel'. Craft a Spinning Hwheel. That's how you progress.%n%nSay 'wheel'.%n%nWheel.%n%nNow say 'Spinning Wheel'.%n%nSpinning Hwheel.%n%nSpinning Wheel.%n%nSpinning Hwheel.%n%nSPINNING WHEEL. D:<%n%nSpinning Hwheel.%n%nFINE. WHATEVER. YOU WIN. By the way, you need Magic Power for it... Now go.%n%nMagic Wpower."
+    },
+    {
+      "key": "dj2.quest.db.149.title",
+      "en": "A strong scent"
+    },
+    {
+      "key": "dj2.quest.db.149.desc",
+      "en": "Distill some Stone Ichor!"
+    },
+    {
+      "key": "dj2.quest.db.150.title",
+      "en": "Purity"
+    },
+    {
+      "key": "dj2.quest.db.150.desc",
+      "en": "Craft a Sigil of Purity. It burns like pure fire in your hands, reflecting your inner soul... I'm sure it's nothing to worry about!"
+    },
+    {
+      "key": "dj2.quest.db.151.title",
+      "en": "It's not a table you preach from.."
+    },
+    {
+      "key": "dj2.quest.db.151.desc",
+      "en": "Craft a Sigil Table! With this, you can (unsurprisingly) create ... Sigils! (Who would have thought.)"
+    },
+    {
+      "key": "dj2.quest.db.152.title",
+      "en": "Anti-Ghostbusters"
+    },
+    {
+      "key": "dj2.quest.db.152.desc",
+      "en": "Perform the Spiritual Rift Rite at night! You can find it under the Circle Rites section of your Book of Shadows.%n%nSometimes (not always) Ghosts will end up spawning. Defeat them to obtain some Shards of the Grotesque!"
+    },
+    {
+      "key": "dj2.quest.db.153.title",
+      "en": "A type of Heavy Metal"
+    },
+    {
+      "key": "dj2.quest.db.153.desc",
+      "en": "Okay, this quest is tough.%n%nI'll accept it.%n%nBut try to fully automate Poppets, and eventually Death Protection Poppets.%n%nGood luck!"
+    },
+    {
+      "key": "dj2.quest.db.154.title",
+      "en": "Power of the Underworld"
+    },
+    {
+      "key": "dj2.quest.db.154.desc",
+      "en": "Distill some Demon Heart combined with some of your previous Oils, and add a pinch of Pride... for an interesting result."
+    },
+    {
+      "key": "dj2.quest.db.155.title",
+      "en": "Slightly less Essential"
+    },
+    {
+      "key": "dj2.quest.db.155.desc",
+      "en": "Create the listed Essential Oils using your Witches' Oven! These ones aren't as frequently used as the ones in the \"These are Essential!\" quest, you only need to batch craft a few."
+    },
+    {
+      "key": "dj2.quest.db.156.title",
+      "en": "Chock full of Chalk"
+    },
+    {
+      "key": "dj2.quest.db.156.desc",
+      "en": "Craft a piece of Ritual Chalk!%n%nYou can draw Bewitchment Circles with this tool. All Circles have to have a Golden Rune drawn in the center.%n%nThere are 3 layers of Circles you can draw:%n%n            ███████%n         █                 █%n      █      █████      █%n   █      █             █      █%n█      █      ███      █     ⠀█%n█   █      █        █      █   █%n█   █   █             █    █   █%n█   █   █      §6█⠀§r    █    █   █%n█   █   █             █    █   █%n█   █      █        █      █   █%n█      █      ███      █     ⠀█%n   █      █             █      █%n      █      █████      █%n         █                 █%n            ███████%n%nThe white squares represent White Chalk - but some Rites later will require Red or Purple Chalk to be used for one or more of the circles.%n%nYou can recolor your existing Circles with the Rite shown in your Book of Shadows / Rituals / Circle Drawing."
+    },
+    {
+      "key": "dj2.quest.db.157.title",
+      "en": "Stitch, Thread, and File"
+    },
+    {
+      "key": "dj2.quest.db.157.desc",
+      "en": "Weave up some woven, and wave when you're done."
+    },
+    {
+      "key": "dj2.quest.db.158.title",
+      "en": "-273 °C"
+    },
+    {
+      "key": "dj2.quest.db.158.desc",
+      "en": "Freeze some Thaumium for Cold Iron. Don't worry, Frostfire never goes out, and you can even pick it back up!"
+    },
+    {
+      "key": "dj2.quest.db.159.title",
+      "en": "Never gonna die anymore!"
+    },
+    {
+      "key": "dj2.quest.db.159.desc",
+      "en": "Craft a Death Protection Poppet. When bound to yourself with your own Taglock and held in your inventory or on a Poppet Shelf, it'll prevent a lethal blow by reincarnating you instantly using its own woven body.%n%nIf that's not witchy enough for you, then I don't know what is.%n%nYou will need to automate these using the second Poppet recipe... eventually."
+    },
+    {
+      "key": "dj2.quest.db.160.title",
+      "en": "Itching for more Witching"
+    },
+    {
+      "key": "dj2.quest.db.160.desc",
+      "en": "Craft a Witches' Cauldron! Nyaaaahahahahahahahaaaaaa!%n%nThis machine functions very similarly to the Thaumcraft Crucible. You need to heat it up (a Magma Block, Fire, or Thaumcraft Nitor all work), fill it up with some Water, then throw in the required ingredients shown in JEI. However there are some key differences:%n%n- You need Magic Power for each recipe. A Cauldron more than 16 blocks away from an Altar won't function. Magic Power is consumed every second and whenever an item is thrown in. The Magic Power consumed is based on the number of items already in the Cauldron. §4If you run out of Magic Power the recipe will fail, voiding all inputs!§r%n%n- You can't directly pipe Water into it. Instead, to automate it, you'll have to use a Mechanical User with a Water bucket inside. You can use an Eternal Water bucket or an Unending Bowl inside the Mechanical User to keep the Cauldron full without having to deal with refilling the bucket.%n%n- You can also brew Bewitchment Potions in the Witches' Cauldron. Simply start with a piece of Mandrake Root, add an additional ingredient (listed in JEI), and either Redstone or Glowstone, and optionally Gunpowder for the splash effect. Once done, Right Clicking with Empty Bottles will create the desired Potion."
+    },
+    {
+      "key": "dj2.quest.db.161.title",
+      "en": "Magical Chalk!"
+    },
+    {
+      "key": "dj2.quest.db.161.desc",
+      "en": "Craft some Phasing Chalk, and hold it strongly, otherwise it may slip out and phase away into another reality."
+    },
+    {
+      "key": "dj2.quest.db.162.title",
+      "en": "These are Essential!"
+    },
+    {
+      "key": "dj2.quest.db.162.desc",
+      "en": "Create the listed types of Essentia Oils with your Witches' Oven! All of these will be heavily used later, so make sure to constantly produce them!"
+    },
+    {
+      "key": "dj2.quest.db.163.title",
+      "en": "A Witch's necessary machine"
+    },
+    {
+      "key": "dj2.quest.db.163.desc",
+      "en": "Craft a Witches' Oven! Supply it with Empty Jars to get a chance to obtain the various Essential Oils from Bewitchment!%n%n%nTo automate the machine, insert Coal, Empty Jars, and the required input ingredient from the top and the sides, and extract the results from the bottom."
+    },
+    {
+      "key": "dj2.quest.db.164.title",
+      "en": "Ground Dragon"
+    },
+    {
+      "key": "dj2.quest.db.164.desc",
+      "en": "Perform one of the most difficult Cauldron recipes to create some Dragon Resin. Fortunately you'll only need to do this once. Good luck!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nIs this how you get a Ground Dragon? Like, a Garchomp?! No. No it isn't. (That's it for the Pokemon references.)"
+    },
+    {
+      "key": "dj2.quest.db.165.title",
+      "en": "Stronger Stringer"
+    },
+    {
+      "key": "dj2.quest.db.165.desc",
+      "en": "If the input Spirit is strong, the output String will be strong too, they say..."
+    },
+    {
+      "key": "dj2.quest.db.166.title",
+      "en": "Helium would be jealous..."
+    },
+    {
+      "key": "dj2.quest.db.166.desc",
+      "en": "It magically floats. Wingardium Leviosa or somethin'?"
+    },
+    {
+      "key": "dj2.quest.db.167.title",
+      "en": "Don't let it burst!"
+    },
+    {
+      "key": "dj2.quest.db.167.desc",
+      "en": "Enter the Mortum Tower! Climb it up and defeat Vamacheron at the end to be able to climb to the highest floor.%n%nLoot some Mysterious Leaking Souls! You'll need 2 to complete this quest, but eventually you'll need 5 to delve deeper into Bewitchment!%n%nOh yeah... Welcome to Bewitchment, by the way."
+    },
+    {
+      "key": "dj2.quest.db.169.title",
+      "en": "This is Hella Borin'!"
+    },
+    {
+      "key": "dj2.quest.db.169.desc",
+      "en": "Well hopefully the title doesn't match your current feelings - you're closer than ever to lategame!%n%nCraft a Hellebore Seed and plant it to get more!"
+    },
+    {
+      "key": "dj2.quest.db.170.title",
+      "en": "These little buggers..."
+    },
+    {
+      "key": "dj2.quest.db.170.desc",
+      "en": "...is what you would say, if we were in 1.7.10! Buuuut, since then, Mandrakes have been cultivated and they no longer attack the player when harvested... Which is for the better.%n%nCraft a Mandrake Seed and plant it to collect more!"
+    },
+    {
+      "key": "dj2.quest.db.171.title",
+      "en": "Pulling the Strings"
+    },
+    {
+      "key": "dj2.quest.db.171.desc",
+      "en": "Craft a Poppet! This definitely isn't a toy that wicked Witches abuse in any way... Nonononono... Of course not.%n%nFor now, only the first recipe is available, but it's not automatable right now. Once you have access to Alchemistry and ProjectE, you'll be able to use the second recipe."
+    },
+    {
+      "key": "dj2.quest.db.172.title",
+      "en": "666"
+    },
+    {
+      "key": "dj2.quest.db.172.desc",
+      "en": "Open your Codex Infernalis and read the Higher Demons / Lord Baphomet section on how to summon this creature of nightmares, God of the Underworld.%n%nBeat him."
+    },
+    {
+      "key": "dj2.quest.db.173.title",
+      "en": "Dwelled deep enough..."
+    },
+    {
+      "key": "dj2.quest.db.173.desc",
+      "en": "A new book, containing more demonic knowledge is now available to you... the Codex Infernalis!%n%nLook up the Lesser Demons / Demon and Demoness category on how to summon them. They'll require 3 entirely red circles and a sacrifice of a Player or a Villager.%n%nOnce summoned, fight them to obtain their Heart!"
+    },
+    {
+      "key": "dj2.quest.db.174.title",
+      "en": "Demons! Rise!"
+    },
+    {
+      "key": "dj2.quest.db.174.desc",
+      "en": "Craft a Pentacle.%n%n%n... I don't like where this is going."
+    },
+    {
+      "key": "dj2.quest.db.175.title",
+      "en": "Pulling the Strings..."
+    },
+    {
+      "key": "dj2.quest.db.175.desc",
+      "en": "Craft some Diabolical Vein..%n%nAnd realize, you've already gone down on a devilish path... But there is no more turning back..."
+    },
+    {
+      "key": "dj2.quest.db.176.title",
+      "en": "Baby Ender Dragons' natural habitat"
+    },
+    {
+      "key": "dj2.quest.db.176.desc",
+      "en": "Craft your first Dragon's Blood Sapling, then grow it to get more!"
+    },
+    {
+      "key": "dj2.quest.db.177.title",
+      "en": "It's like taking a shower in heaven"
+    },
+    {
+      "key": "dj2.quest.db.177.desc",
+      "en": "Ahh, so pure!"
+    },
+    {
+      "key": "dj2.quest.db.178.title",
+      "en": "Yummie! Flames!"
+    },
+    {
+      "key": "dj2.quest.db.178.desc",
+      "en": "Craft a Flame Devourer Pendant. When the user's inflicted with the Hell Fire status effect, Right Clicking this item will yield a piece of Ignition."
+    },
+    {
+      "key": "dj2.quest.db.179.title",
+      "en": "Oyeel"
+    },
+    {
+      "key": "dj2.quest.db.179.desc",
+      "en": "Craft some Oil of Vitriol.%n%nThere is nothing more to say.%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n...%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nWhat?%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n...%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nI said there is nothing more!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n...%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nThere is definitely not a meme or a reference down here, stop looking!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n...%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n...%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nFINE...%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nSon: \"Dad, why is my sister called 'Peace'?\"%nDad: \"Well, son, your mom thought there was not enough peace in the world...!\"%nSon: \"Ah, that's interesting. Thanks, Dad!\"%nDad: \"No problem, Oil.\"%n%n%n%n%n%n%n%n%n%n%n...%n%n%n%n%n%n%n%n%n%n%n%n%nI told you not to look, it was bad anyway. :I"
+    },
+    {
+      "key": "dj2.quest.db.180.title",
+      "en": "Gypsum"
+    },
+    {
+      "key": "dj2.quest.db.180.desc",
+      "en": "Even though Gypsum is missing from 1.12 Bewitchment, it makes a return in the form of a custom item! Hurray!"
+    },
+    {
+      "key": "dj2.quest.db.181.title",
+      "en": "SWIRL"
+    },
+    {
+      "key": "dj2.quest.db.181.desc",
+      "en": "We rise%n%nWe rise%nWe fall%n%nWe rise%n%nWe rise%nWe fall%n%nWe rise%n%nWe rise%nWe fall%n%nWe rise%n%nWe rise%nWe fall%n%n%nWE RISE%n%nSWIRL%n%n(Swirl... of Depths.)"
+    },
+    {
+      "key": "dj2.quest.db.182.title",
+      "en": "Don't get too Salty"
+    },
+    {
+      "key": "dj2.quest.db.182.desc",
+      "en": "Craft some Ritualistic Salt!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nI heard sprinkling this on some undead on Thriller Bark will release their captured shadows... Or wait, that's not in this game...!"
+    },
+    {
+      "key": "dj2.quest.db.183.title",
+      "en": "Mmmm, marvelous!"
+    },
+    {
+      "key": "dj2.quest.db.183.desc",
+      "en": "Wanna be fancy and drink from a Goblet? Now is your chance! Not only will your wine taste better, but this will also give you an exquisite amount of Magic Power! Nice."
+    },
+    {
+      "key": "dj2.quest.db.184.title",
+      "en": "Brrrrrrrrr... Icy!"
+    },
+    {
+      "key": "dj2.quest.db.184.desc",
+      "en": "Use your Witches' Cauldron to create an Iceworld II Splash Potion. You'll need to throw in the following ingredients in order:%n%n- Mandrake Root%n- Ice OR Snow block%n- Glowstone Dust%n- Gunpowder%n%nThen Right Click on the Cauldron three times with an Empty Bottle to get 3 of them!%n%n§6Only one task needs to be completed to allow people to complete the quest due to a bug."
+    },
+    {
+      "key": "dj2.quest.db.185.title",
+      "en": "There is only one way out..."
+    },
+    {
+      "key": "dj2.quest.db.185.desc",
+      "en": "All this dark magic has messed with your brain... The only way out... The only way to end this... Is to go away with it... Go into the hellish Underworld by sacrificing yourself to a Curse... The Curse of Conflagration will be perfect...%n%nHow? Well, it's quite simple actually:%n%nFill a Taglock with your own juices by Shift+Right Clicking on a Bed you've slept in. (Don't try to think about it more than that.)%n%nHaving this, inflict yourself with the Curse of Conflagration using your Brazier. The ingredients can be found in your Codex Infernalis, under Curses / Conflagration.%n%nOnce under the Hell Fire status effect, use your Flame Devourer Pendant to obtain some Ignition!"
+    },
+    {
+      "key": "dj2.quest.db.186.title",
+      "en": "Curse them!"
+    },
+    {
+      "key": "dj2.quest.db.186.desc",
+      "en": "Craft a Brazier!%n%nTo use it, look up the Curses section in your Codex Infernalis. Place the input items on top, and light it with a Flint and Steel. The Curse will be cast on the player whose Taglock you've used."
+    },
+    {
+      "key": "dj2.quest.db.187.title",
+      "en": "Oilin' up"
+    },
+    {
+      "key": "dj2.quest.db.187.desc",
+      "en": "Create some Liquid Witchcraft and a Droplet of Wisdom! Mmmm... smells good! Smells a bit... witchy and knowledgy..."
+    },
+    {
+      "key": "dj2.quest.db.188.title",
+      "en": "Make it bleed!"
+    },
+    {
+      "key": "dj2.quest.db.188.desc",
+      "en": "Craft a Boline and use it on the logs of a Dragons Blood Tree. It will eventually bleed Dragon's Blood Resin. Collect it using an Absorption Hopper!"
+    },
+    {
+      "key": "dj2.quest.db.189.title",
+      "en": "MOAR SEEDZ!"
+    },
+    {
+      "key": "dj2.quest.db.189.desc",
+      "en": "Use more Mysterious Leaking Souls to craft Aconitum, Belladonna, and Wormwood Seeds."
+    },
+    {
+      "key": "dj2.quest.db.190.title",
+      "en": "No Goblet without a Drink"
+    },
+    {
+      "key": "dj2.quest.db.190.desc",
+      "en": "Fill it up! In what other way did you plan to drink from it, huh?%nIt has quite the superb taste - magnificent!"
+    },
+    {
+      "key": "dj2.quest.db.815.title",
+      "en": "Shiny AND stylish!"
+    },
+    {
+      "key": "dj2.quest.db.815.desc",
+      "en": "If you have enough Gaia spirits remaining, then it's time to upgrade your old Dark Steel or End Steel gear into the best armor before Draconic - Stellar Armor! You can upgrade these pieces the same way as Dark Steel or End Steel ones."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "name": "Standing Stones & Pillars",
+  "icon": "roots:chiseled_runestone",
+  "category": "rituals_ritual",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một số nghi lễ cần thêm standing stone hoặc runed pillar ngoài $(l:crafting/pyres)pyre$().$(br2)$(info) Mọi nghi lễ cần cấu trúc bổ sung để hoạt động đúng cách đều sẽ liệt kê chúng trong mục tương ứng.$(br2)$(info) Chỉ nghi lễ $(l:rituals/tiers)Tier I$() trở lên mới có thể cần standing stone hoặc pillar."
+    },
+    {
+      "type": "text",
+      "title": "Standing Stones",
+      "text": "Standing stone là các cột thường cao từ ba đến bốn khối, được làm bằng $(l:resources/runestone)runestone$() hoặc $(l:resources/runed_obsidian)runed obsidian$(), với khối trên cùng là $(l:crafting/runestone)chiseled runestone$() hoặc $(l:crafting/runed_obsidian)chiseled runed obsidian$().$(br2)$(info) Runed obsidian chống chịu được mọi boss vanilla và có thể kết hợp với reinforced pyre để hỗ trợ nghi lễ khi chiến đấu với chúng."
+    },
+    {
+      "type": "multiblock",
+      "name": "Standing Stones",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:chiseled_runestone",
+          "R": "roots:runestone"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Có thể dùng bricks thay cho runestone thông thường khi dựng phần chân."
+    },
+    {
+      "type": "multiblock",
+      "name": "Standing Stones",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:chiseled_runestone",
+          "R": "roots:runestone"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Chiều cao tối đa cần thiết cho Standing Stones và các trụ là bốn khối."
+    },
+    {
+      "type": "multiblock",
+      "name": "Runed Pillar",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:runed_acacia",
+          "R": "minecraft:log2[variant=acacia]"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Runed Pillar có thể được xây bằng bất kỳ loại gỗ vanilla nào, chỉ gồm các khúc gỗ với $(l:resources/runed_wood)runed wood$() đặt trên đỉnh."
+    },
+    {
+      "type": "multiblock",
+      "name": "Runed Pillar",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:runed_oak",
+          "R": "minecraft:log[variant=oak]"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Loại gỗ cần dùng cho trụ cũng sẽ được ghi rõ trong mục nghi lễ."
+    },
+    {
+      "advancement": "roots:runed_obsidian",
+      "type": "multiblock",
+      "name": "Standing Stones",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:chiseled_runed_obsidian",
+          "R": "roots:runed_obsidian"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Ngoài khả năng chống chịu Wither và Ender Dragon, các Standing Stones này còn kháng nổ."
+    },
+    {
+      "type": "multiblock",
+      "name": "Standing Stones",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:chiseled_runed_obsidian",
+          "R": "roots:runed_obsidian"
+        },
+        "pattern": [
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Có thể dùng runed obsidian bricks thay cho runed obsidian."
+    },
+    {
+      "type": "text",
+      "text": "Không phải mọi nghi lễ đều cần Standing Stones hoặc các trụ. Tuy nhiên, mọi nghi lễ có yêu cầu này sẽ hiển thị biểu tượng: $(standing_stones) cùng liên kết đến hình minh họa một cách bố trí khả thi.$(br2)Ngoài ra, bạn có thể hiển thị các bố trí này trong thế giới bằng cách nhấp vào biểu tượng con mắt ở góc dưới bên trái."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/runestone",
+        "resources/runed_obsidian",
+        "resources/runed_wood"
+      ]
+    }
+  ]
+}

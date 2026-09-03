@@ -1,0 +1,14 @@
+setIcon(<projecte:item.pe_philosophers_stone>)
+setTitle("Triết học")
+setDescription("Tạo Philosopher's Stone và mở khóa ProjectE!")
+
+addParent("triumph:dj2/root")
+setPos(105,284)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasPhilosophersStone", "minecraft:inventory_changed")
+criteria.addItem(<projecte:item.pe_philosophers_stone>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:24_philosophy")

@@ -1,0 +1,17 @@
+atum.commands.weather.sandstorm=Changing weather to sandstorm
+atum.configGui.atumStartPortal=Create Atum start portal
+mods.tips.atum.2=You can create Stoneguards & Stonewardens yourself, to help defend your base!
+mods.tips.atum.3=Pharaohs have different unique abilities
+mods.tips.atum.4=Scarabs can sometimes be found in Deadwood Logs
+mods.tips.atum.5=A Wanderer Helmet will improve your visibility
+tooltip.atum.minutesRemaining=%d Minutes Remaining
+tooltip.atum.usesRemaining=%d Uses Remaining
+death.attack.assassinated=%1$s was assassinated
+atum.configGui.atumStart=Start in Atum
+atum.configGui.atumStartStructure=Atum start structure
+atum.configGui.dimensionID=Atum Dimension ID
+atum.configGui.fog=Atum Fog
+atum.configGui.portalCreation=Atum Portal
+mods.tips.atum.1=You will die.
+container.trap=Trap
+jei.item.atum.emmerDough=Crafted by combining Emmer Flour with water

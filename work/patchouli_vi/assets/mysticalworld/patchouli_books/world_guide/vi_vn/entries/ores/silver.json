@@ -1,0 +1,37 @@
+{
+  "name": "Silver",
+  "icon": "mysticalworld:silver_ore",
+  "category": "ores",
+  "flags": "roots:silver",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:silver_ore",
+      "text": "Silver Ore xuất hiện ở những khu vực và độ sâu tương tự Gold Ore. Có thể nung quặng thành Silver Ingot để chế tạo công cụ có khả năng phù phép gần tương đương vàng nhưng bền hơn."
+    },
+    {
+      "type": "smelting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:silver_ore",
+      "title": "Silver Ingots",
+      "text": "Công cụ và vũ khí bằng Silver có cấp khai thác tương đương công cụ bằng vàng."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_axe",
+      "recipe2": "mysticalworld:silver_hoe",
+      "title": "Silver Tools"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_knife",
+      "recipe2": "mysticalworld:silver_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silver_shovel",
+      "recipe2": "mysticalworld:silver_sword"
+    }
+  ]
+}

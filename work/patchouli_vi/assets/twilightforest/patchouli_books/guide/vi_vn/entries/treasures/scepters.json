@@ -1,0 +1,41 @@
+{
+  "name": "Scepters",
+  "icon": "twilightforest:twilight_scepter",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/scepters",
+  "sortnum": 4030,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có vẻ như Lich mà ta từng giao chiến đã sử dụng vài loại Scepter khác nhau. Khi ta hạ gục nó, một trong số đó đã rơi ra. Có lẽ nếu chiến đấu với nó nhiều lần, ta có thể thu thập đủ các loại Scepter của nó."
+    },
+    {
+      "type": "spotlight",
+      "title": "Twilight Scepter",
+      "item": "twilightforest:twilight_scepter",
+      "advancement": "twilightforest:alt/treasures/twilight_scepter",
+      "text": "Bắn ra các quả cầu."
+    },
+    {
+      "type": "spotlight",
+      "title": "Twilight Scepter",
+      "item": "twilightforest:lifedrain_scepter",
+      "advancement": "twilightforest:alt/treasures/lifedrain_scepter",
+      "text": "Hút sinh lực."
+    },
+    {
+      "type": "spotlight",
+      "title": "Twilight Scepter",
+      "item": "twilightforest:zombie_scepter",
+      "advancement": "twilightforest:alt/treasures/zombie_scepter",
+      "text": "Triệu hồi quái vật từ cõi chết để hỗ trợ bạn chiến đấu."
+    },
+    {
+      "type": "spotlight",
+      "title": "Twilight Scepter",
+      "item": "twilightforest:shield_scepter",
+      "advancement": "twilightforest:alt/treasures/shield_scepter",
+      "text": "Tạo ra một hào quang bảo hộ tạm thời."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "frypan",
+  "text": [
+    {
+      "text": "Frying Pan là một vũ khí hạng nặng, dùng trọng lượng thuần túy để cản trở kẻ địch. Nó có khả năng đánh bật tự nhiên."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Giữ chuột phải để tích lực cho một cú đánh uy lực, mạnh đến mức gây thêm sát thương, đánh kẻ địch văng xa hơn và nấu chín mọi vật phẩm rơi ra."
+    }
+  ],
+  "properties": [
+    "Medium damage",
+    "Natural knockback",
+    "Rightclick: Charged Blow",
+    "Charged blow cooks food drops",
+    "No offhand"
+  ]
+}

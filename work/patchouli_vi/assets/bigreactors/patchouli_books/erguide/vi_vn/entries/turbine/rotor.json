@@ -1,0 +1,235 @@
+{
+  "name": "Rotor",
+  "icon": "bigreactors:turbinerotorshaft",
+  "category": "bigreactors:turbine",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Rotor là bộ phận quan trọng nhất của Turbine vì thiết kế của nó ảnh hưởng trực tiếp đến $(l:turbine/innerworking)khả năng sản xuất năng lượng$(/l) của Turbine.$(br2)Một Rotor được cấu tạo từ bốn loại khối:$(li)một $(l:turbine/part-rotorbearing)Rotor Bearing$(/l)$(li)một số khối $(l:turbine/part-rotorshaft)Rotor Shaft$(/l)$(li)một số $(l:turbine/part-rotorblade)Rotor Blade$(/l)$(li)một khối $(l:turbine/part-casing)Housing$(/l)"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "bigreactors:turbinebearing",
+          "S": "bigreactors:turbinerotorshaft[state=Y_NOBLADES]",
+          "A": "bigreactors:turbinerotorshaft[state=Y_XZ]",
+          "B": "bigreactors:turbinerotorshaft[state=Y_Z]",
+          "C": "bigreactors:turbinerotorshaft[state=Y_X]",
+          "1": "bigreactors:turbinerotorblade[state=Y_X_NEG]",
+          "3": "bigreactors:turbinerotorblade[state=Y_X_POS]",
+          "2": "bigreactors:turbinerotorblade[state=Y_Z_NEG]",
+          "4": "bigreactors:turbinerotorblade[state=Y_Z_POS]",
+          "X": "bigreactors:turbinehousing"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   X   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   S   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "   1   ",
+            "  2A4  ",
+            "   3   ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "   1   ",
+            "   1   ",
+            " 22A44 ",
+            "   3   ",
+            "   3   ",
+            "       "
+          ],
+          [
+            "   1   ",
+            "   1   ",
+            "   1   ",
+            "   C   ",
+            "   3   ",
+            "   3   ",
+            "   3   "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "222B444",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   1   ",
+            "   1   ",
+            "   1   ",
+            "222A444",
+            "   3   ",
+            "   3   ",
+            "   3   "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   S   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Lắp Rotor$()$(br2)Rotor có thể được lắp theo bất kỳ trục nào trong ba trục (X, Y hoặc Z) của Turbine.$(br2)Khối đầu tiên của Rotor phải là một $(l:turbine/part-rotorbearing)Rotor Bearing$(/l) đặt trên một mặt của Turbine, thường ở chính giữa.$(br2)Bắt đầu từ Rotor Bearing, đặt đủ số khối $(l:turbine/part-rotorshaft)Rotor Shaft$(/l) cần thiết để kéo dài tới mặt đối diện của Turbine, nơi nó phải tiếp xúc với một khối $(l:turbine/part-casing)Housing$(/l)."
+    },
+    {
+      "type": "text",
+      "text": "Sau khi hoàn thành trục, hãy lắp các $(l:turbine/part-rotorblade)Rotor Blades$(/l). Chúng có thể được đặt ở bất kỳ vị trí nào vuông góc và liền kề với một $(l:turbine/part-rotorshaft)Rotor Shaft$(/l), hoặc cạnh một Rotor Blade đã đặt.$(br2)Rotor có thể có bao nhiêu Rotor Blades tùy thích, theo bất kỳ cách kết hợp nào.$(br)Tuy nhiên, cần lưu ý rằng số lượng Rotor Blades cùng với sức chứa hơi của chúng có liên quan trực tiếp đến tốc độ Rotor."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Cần bao nhiêu Rotor Blades?$()$(br2)Mỗi Rotor Blade có sức chứa hơi tối đa là 25 mB: đây là lượng hơi tối đa mà nó có thể thu nhận và $(italic)sử dụng$() để làm quay Rotor.$(br2)Dùng giá trị này để tính số Rotor Blades cần thiết nhằm xử lý lưu lượng hơi đã đặt cho Turbine (trong giao diện đồ họa của Controller)."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Inductor Coils$()$(br2)Để thực sự tạo ra năng lượng, bạn cần đặt ít nhất một số $(l:turbine/coils)Inductor Coils$(/l) ở cuối Rotor (gần khối $(l:turbine/part-casing)Housing$(/l) đóng Turbine.$(br2)$(italic)Và nhớ kích hoạt chúng trong giao diện đồ họa của $(l:turbine/part-controller)Controller$(/l)!$()$(br2)Bạn có thể đặt tối đa ba vòng cuộn dây, mỗi vòng gồm tối đa tám khối cuộn dây."
+    },
+    {
+      "type": "text",
+      "text": "Bạn có thể kết hợp nhiều loại cuộn dây; khi đó, Turbine sẽ lấy giá trị trung bình của các thuộc tính của chúng.$(br2)Nhờ vậy, bạn có thể bắt đầu với các cuộn dây dễ kiếm hoặc rẻ tiền rồi thay dần, thay vì phải chờ có đủ loại hiếm hoặc đắt tiền hơn.$(br2)Ở trang tiếp theo, bạn có thể xem Rotor mẫu đã trình bày trước đó sau khi được bổ sung một số $(l:turbine/coils)Inductor Coils$(/l)."
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "bigreactors:turbinebearing",
+          "S": "bigreactors:turbinerotorshaft[state=Y_NOBLADES]",
+          "A": "bigreactors:turbinerotorshaft[state=Y_XZ]",
+          "B": "bigreactors:turbinerotorshaft[state=Y_Z]",
+          "C": "bigreactors:turbinerotorshaft[state=Y_X]",
+          "1": "bigreactors:turbinerotorblade[state=Y_X_NEG]",
+          "3": "bigreactors:turbinerotorblade[state=Y_X_POS]",
+          "2": "bigreactors:turbinerotorblade[state=Y_Z_NEG]",
+          "4": "bigreactors:turbinerotorblade[state=Y_Z_POS]",
+          "X": "bigreactors:turbinehousing",
+          "I": "minecraft:iron_block",
+          "G": "minecraft:gold_block"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   X   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "  IGG  ",
+            "  GSI  ",
+            "  GII  ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "   1   ",
+            "  2A4  ",
+            "   3   ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "   1   ",
+            "   1   ",
+            " 22A44 ",
+            "   3   ",
+            "   3   ",
+            "       "
+          ],
+          [
+            "   1   ",
+            "   1   ",
+            "   1   ",
+            "   C   ",
+            "   3   ",
+            "   3   ",
+            "   3   "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "222B444",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   1   ",
+            "   1   ",
+            "   1   ",
+            "222A444",
+            "   3   ",
+            "   3   ",
+            "   3   "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   S   ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      }
+    }
+  ]
+}

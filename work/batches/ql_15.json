@@ -1,0 +1,497 @@
+{
+  "chapter_index": 15,
+  "title_key": "dj2.quest.ql.15.title",
+  "chapter_title_en": "19. Thauma-drama!",
+  "desc_key": "dj2.quest.ql.15.desc",
+  "chapter_desc_en": "Pour over Thaumcraft, go verifiably mad, and go to Skythern and Mortum.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.15.title",
+      "en": "19. Thauma-drama!"
+    },
+    {
+      "key": "dj2.quest.ql.15.desc",
+      "en": "Pour over Thaumcraft, go verifiably mad, and go to Skythern and Mortum."
+    },
+    {
+      "key": "dj2.quest.db.38.title",
+      "en": "Sidebars!"
+    },
+    {
+      "key": "dj2.quest.db.38.desc",
+      "en": "The Handy Bag (Large) can store items based on its card size in each of its slots, which are increased from the Handy Bag's 27 to 55.%nOtherwise, functions the same as the Handy Bag, requiring a memory card to function and being able to hold 4 memory cards. It still replaces your normal inventory, meaning some features in this new inventory, such as FTB Utilities, are not visible. Press Shift+E to open your normal inventory.%nAt max capacity, this can hold 4096 items per slot in 55 slots over 4 cards, for a total of 901,120 items"
+    },
+    {
+      "key": "dj2.quest.db.73.title",
+      "en": "Surround'er to the Matrix!"
+    },
+    {
+      "key": "dj2.quest.db.73.desc",
+      "en": "Craft some additional Pedestals to surround the Runix Matrix multiblock with! 8 is a good starting point, but you will need more eventually..."
+    },
+    {
+      "key": "dj2.quest.db.74.title",
+      "en": "Constructing the unconstructable"
+    },
+    {
+      "key": "dj2.quest.db.74.desc",
+      "en": "Craft a Runic Matrix and all required components listed in your Thaumonomicon! Set it up as it's shown there, then Right Click on the Runic Matrix block with some Salis Mundus.%n%nTo use it, place or pipe items onto the middle and outer Pedestals, have a sufficient amount of Essentia available in Jars nearby, and activate the ritual with your Caster's Gauntlet. Consider using Item Lasers from Actually Additions to add items to the Pedestals, they are very good at that!%n%nIt's crucial to have a symmetrical layout of Pedestals, Jars, and other blocks nearby, as that will boost the stability of the Infusion. If your Infusion Matrix is unstable, items could get knocked down during crafting, Pedestals could emit Flux, or worse: items could entirely get destroyed, and the infusion could fail.%n%nTo prevent this, besides having a symmetrical layout, you can place stabilizer items around, below and above the Altar in a symmetrical manner. These are:%n%n- Thaumcraft Candles,%n- Skulls, Heads,%n- Thaumcraft Stabilizers.%n%nBe aware that, unlike in 1.7.10, the more variety of items you have around your Altar, the better your stability will become. These could simply include different colored candles, but not different kinds of heads/skulls, still arranged in a symmetrical manner. E.g. if you have a Creeper Head 6 blocks away from your Runic Matrix in one direction, you should have a Creeper Head or any type of skull/head 6 blocks away in the other direction as well.%n%nStabilizers are your best option. They don't need to connect to the Altar in any way, they simply need to exist nearby. Although you have the option to connect them to all Pedestals with Redstone Inlay, which will prevent items getting knocked down or destroyed - although it won't prevent the Flux issues.%n%nLastly, it's important to mention that the range of which stabilizers are detected is a 17x17x11 cuboid centered around the central Pedestal."
+    },
+    {
+      "key": "dj2.quest.db.76.title",
+      "en": "It's mine now!"
+    },
+    {
+      "key": "dj2.quest.db.76.desc",
+      "en": "Craft a Warding Sigil! This ingredient is used in many of the Warded blocks that Thaumic Augmentation adds."
+    },
+    {
+      "key": "dj2.quest.db.77.title",
+      "en": "I'm a real Thaumaturge now, mom!"
+    },
+    {
+      "key": "dj2.quest.db.77.desc",
+      "en": "This is how you do Infusion, right....? Riiiiiight...?!%n%nNo.%n%nThis just takes power. And some Pedestals with items on top.%n%nBut it's close! It'll prepare you for the reaaaal thing."
+    },
+    {
+      "key": "dj2.quest.db.78.title",
+      "en": "Master of Vengeance - Enhanced!"
+    },
+    {
+      "key": "dj2.quest.db.78.desc",
+      "en": "Craft more Ender Ingots and Enhance them in your Crucible!"
+    },
+    {
+      "key": "dj2.quest.db.79.title",
+      "en": "Better than a Cauldron"
+    },
+    {
+      "key": "dj2.quest.db.79.desc",
+      "en": "Sprinkle some more Salis Mundus, this time on an EvilCraft Purifier to convert it into a Crucible!%n%nIf you've never played Thaumcraft before, it's best to set this up in a chunk where you don't have many important machines - so preferably slightly away from your base.%n%nTo use it, fill it up with Water (piping systems work), and light a fire below it (later you can use a piece of Nitor as well). Once it starts bubbling, throw in items to break them down into Essentia. Be wary though, Essentia slowly evaporates, creating bad magical energy in the chunk called \"Flux\". You want to avoid creating Flux as much as possible, so do your recipes quickly: Throw in exact (or almost exact) amounts to create sufficient Essentia, then throw in the catalyst - the upper item in JEI recipes.%n%nIf it doesn't work, check if you still have the correct amounts of Essentia using your Thaumometer or Goggles of Revealing. If not, throw in some additional ingredients.%n%nWarning: Do NOT accidentally Right Click an item onto the Crucible! This most often occurs with the Thaumometer. Don't try to scan the Cauldron while it's active! You can scan it in item form or a block form without Water inside.%n%nTo clean up the mess you've made, use Quartz Slivers! Throwing in one piece of them will suck up 2 units of Essentia and create a Vis Crystal. You should definitely make good use of this!%n%nYou can observe the Flux in a given chunk. If levels get higher than comfortable, simply move to a different chunk. Keep in mind, a small amount of Flux doesn't hurt, but if you accidentally throw in multiple stacks of an item and/or accidentally Shift+Right Click the Crucible to empty it, then you'll release all the Flux and you can say goodbye to the chunk you were doing your alchemy in - until a bit later on, when you obtain the tools to deal with Flux. Hopefully that chunk happens to NOT be in your base... Seriously, did you listen to me? I hope so..."
+    },
+    {
+      "key": "dj2.quest.db.80.title",
+      "en": "Don't flux it up!"
+    },
+    {
+      "key": "dj2.quest.db.80.desc",
+      "en": "Craft an Auxiliary Venting Port! By placing this next to the Essentia Smeltery, you can separate out some of the Flux as harmless steam, making it useful for automation - if you don't want to constantly pay attention to your Smelteries (which you don't). You might want to place multiple of them on the same Smeltery though."
+    },
+    {
+      "key": "dj2.quest.db.81.title",
+      "en": "Finally! Crucible automation!"
+    },
+    {
+      "key": "dj2.quest.db.81.desc",
+      "en": "Craft some Alchemical Constructs! Although this quest only requires one, you'll definitely need more if you want to automate Crucible recipes. By placing 2 of these above a single Crucible, then Right Clicking the structure with a Salis Mundus, you'll transform it into a Thaumatorium! You can simply pump Essentia into the sides of this machine to automate any Crucible recipe.%n%nNote that each side only accepts 1 type of Essentia at once. Also if you put a Chest in front of the machine, the outputs will end up in there."
+    },
+    {
+      "key": "dj2.quest.db.82.title",
+      "en": "Knowledge of the Lich"
+    },
+    {
+      "key": "dj2.quest.db.82.desc",
+      "en": "Defeat the Arch Lich in the final boss room and loot 4 Knowledges of the Sky!%n%n... May he rest in peace before reaching his goal."
+    },
+    {
+      "key": "dj2.quest.db.83.title",
+      "en": "To the Sky! (-thern)"
+    },
+    {
+      "key": "dj2.quest.db.83.desc",
+      "en": "Craft a set of Apalachia Blocks to enter Skythern!"
+    },
+    {
+      "key": "dj2.quest.db.84.title",
+      "en": "Distributing Essentia has never been easier!"
+    },
+    {
+      "key": "dj2.quest.db.84.desc",
+      "en": "Craft an Auxiliary Slurry Pump! When placed next to an Essentia Smeltery, it acts as a new output, meaning that additional Arcane Alembics can be placed on top. Useful for additional speed and even less Essentia clog-up."
+    },
+    {
+      "key": "dj2.quest.db.85.title",
+      "en": "Dust to Dust"
+    },
+    {
+      "key": "dj2.quest.db.85.desc",
+      "en": "Pulverize a Rainbow Tablet for Salis Mundus, then use the duplication recipe at least once to get 2 pieces of it!%n%nYou can automate the duplication recipe with a single RFTools Crafter. Setup 2 recipes for crafting Salis Mundus, one on Keep/Int, the other on Keep/ExtC. Fill the bottom two rows with the duplication ingredients, and leave 1 slot for Salis Mundus. Once all of these ingredients are in place, hit \"R\" to make the machine remember where the items should go. The slot with Salis Mundus will stay on 63 Salis Mundus at all times, and the rest will go in the output slot. Now you just need to pump in the ingredients and pump out the Salis Mundus (no need for a filter)!"
+    },
+    {
+      "key": "dj2.quest.db.87.title",
+      "en": "Not a magician.. A scientist!"
+    },
+    {
+      "key": "dj2.quest.db.87.desc",
+      "en": "Right Click a Wood Table with your Scribing Tools to create a Research Table. Pick it up to complete this quest.%n%nThe Research Table will require Paper and non-empty Scribing Tools. To do research, simply click \"Create Theory\", and choose research options that pop up. Each time you click on an option, it uses up a piece of Paper and a bit of ink.%n%nFinishing the research will give you Research Points (or closer to a full point, if you don't get it to 100%%), which will be required to unlock further tasks in your Thaumonomicon.%n%nSometimes the research process will require additional items for a greater bonus. These items will be consumed! If you can't continue your theory because of this, simply click \"Scrap Theory\". This will let you create a completely new one, but won't give you your Paper, ink or additional items back that you used during the process.%n%nOnce you run out of lightbulbs up top, you can complete the Theory to gain the Research Points acquired during the process.%n%nYou might want to scan portions of the sky and phases of the Moon - they will sometimes be used during research.%n%nPlacing an Enchantment Table, Bookshelf, Arcane Workbench, Crucible, Focal Manipulator, or Brain in a Jar near the Research Table will let you \"focus\" on the given item at the beginning, granting you a much higher chance to learn about unique topics associated with these items."
+    },
+    {
+      "key": "dj2.quest.db.88.title",
+      "en": "Inscribe, describe, but most importantly, SUBSCRIBE!"
+    },
+    {
+      "key": "dj2.quest.db.88.desc",
+      "en": "This goes out to all the YouTubers that get to this point.%n%nSUBSCRIBE%nLEAVE A LIKE%nCOMMENT%nSHARE%nRING THAT BELL%nBECOME A MEMBER%nCLICK THE SPONSOR LINK IN THE DESCRIPTION%nWATCH THE NEXT VIDEO ON THE END CARD%n%n... Okay, now back to crafting. Craft some Scribing Tools! Fill it up with ink by combining it with an Ink Sac in a Crafting Table to complete its research. If you ever run low on ink, you can fill it up again."
+    },
+    {
+      "key": "dj2.quest.db.89.title",
+      "en": "Just a desk."
+    },
+    {
+      "key": "dj2.quest.db.89.desc",
+      "en": "Craft a Thaumcraft Wood Table. It's easiest to find it in JEI by typing '@thaum table'."
+    },
+    {
+      "key": "dj2.quest.db.90.title",
+      "en": "Rushing through the dimensions!"
+    },
+    {
+      "key": "dj2.quest.db.90.desc",
+      "en": "Craft a batch of Skythern Blocks to enter the final DivineRPG Twilight Dimension: Mortum."
+    },
+    {
+      "key": "dj2.quest.db.91.title",
+      "en": "It's Essential to route it"
+    },
+    {
+      "key": "dj2.quest.db.91.desc",
+      "en": "Craft some Essentia Tubes! By connecting these to Arcane Alembics on top of an Essentia Smeltery on one side, and a Warded Jar on the other side, you can route your Essentia into said Jars.%n%nEvery single Pipe can only transmit 1 type of Essentia. Right Click on them with an Essentia Resonator to see the current type they're set to.%n%nThis whole setup is still mostly manual until you obtain the Filling Essentia Transmuters. Additional types of Pipes can help, but as of now, you'll still have to keep an eye on the setup while it's running. If you see any Pipes leaking purple stuff, slow down or stop the machine - you don't want Flux Rifts to spawn and tear your setup apart."
+    },
+    {
+      "key": "dj2.quest.db.92.title",
+      "en": "Essentially... it's a Smeltery!"
+    },
+    {
+      "key": "dj2.quest.db.92.desc",
+      "en": "Craft an Essentia Smeltery! First set it up OUTSIDE of your base. By putting any material (that has Thaumcraft aspects shown) inside the machine, and Coal or Alumentum in the bottom slot, you can break down the material into its components.%n%nThese will first end up in the purple bar on the left, or travel into Arcane Alembics on top. Make sure not to completely fill the bar on the left, otherwise a large amount of Flux could escape and you'll be very sad if your machines get destroyed due to a Flux Rift.%n%nWARNING: Every time the machine produces an item, it ALWAYS has a chance to spill Flux into the Chunk it's located in. Once the Flux level reaches around 60-80, a Flux Rift could spawn.%n%nRight now you want to avoid this. There are three main ways of doing this:%n%n- Keep relocating the Essentia Smeltery. Only break it when the purple bar on the left is EMPTY, otherwise you'll release a lot of Flux, probably spawning a Flux Rift in the process.%n%n- Rush to complete this Chapter and the very beginning of Bewitchment (the next Chapter), to gain access to the Flux Condenser and the Flux Condenser Lattice. Using this machine you'll be able to slowly convert Flux in a Chunk into Vitium Essentia. If you feed your Essentia Smeltery slowly, you can completely get rid of Flux in a Chunk this way, and you won't have to worry about it. This might require multiple Flux Condensers for a single Smeltery though.%n%n- Make a glass roof at build height in that chunk and around it or in a dimension that has a bedrock roof and put your smelters there.%n%nTwo community assembled list of a group of preferred items to obtain Aspects, one intended for multiple essentia types per item and one intended for one essentia per item:%n%nFor the first one:%n%nPacked Ice - 15 §lGelum§r, 5 Ordo%nRotten Flesh - 5 §lHumanus§r, 5 §lVictus§r, 5 §lPerditio§r%nSkeleton Skull - 10 §lMortuus§r, 10 §lSpiritus§r, 10 §lExanimis§r%nEnder Arrow (Quark) - 11 §lMotus§r, 3 §lAversio§r, 7 §lAlienis§r%nAmber - 10 Vitreus, 10 §lVinculum§r%nOpal - 4 §lLuna§r, 4 Vitreus, 4 Praecantatio, 4 Desiderium%nGarnet - 4 §lStellae§r, 4 Vitreus, 4 §lPraemunio§r, 4 Desiderium%nScorned bricks - 10 §lDiabolus§r, 10 Praecantatio, 10 §lTenebrae§r, 10 §lIgnis§r%nDropper - 10 §lPermutatio§r, 26 Terra, 5 §lVacuos§r, 7 Potentia, 5 Machina%nCrafting Table - 12 §lInstrumentum§r, 20 §lFabrico§r, 12 Terra%nBook and Quill - 18 Herba, 3 Sensus, 11 §lAqua§r, 3 §lBestia§r, 3 §lVolatus§r, 3 §lCognitio§r, 10 §lAer§r%nPereskia - 5 Herba, 10 §lAuram§r, 2 Praecantatio, 2 Ordo%nEnergetic Alloy - 5 §lSol§r, 10 §lLux§r, 10 §lMetallum§r, 5 Sensus, 10 Potentia, 10 Desiderium%nNether Wart - 1 Herba, 2 §lVitium§r, 3 §lAlkimia§r%n%n(The §lbold§r aspects are unique to that item.)%n%nFor the second one:%n%nWool - Bestia(1)%nWool - Fabrico(1)%nNether Wart - Vitium(2)%nAconitum - Mortuus(1)%nAmber - Vinculum(1)%nLead - Ordo(1)%nEnder Pearl - Motus(1)%nClay - Aqua(1)%nCopper - Permutatio(1)%nOak Button - Machina%nEye of Ender - Praecantatio(1)%nIron Ingot - Metallum%nBlaze Powder - Alkimia(2)%nSkeleton Skull - Exanimis(2)%nWooden Shovel - Instrumentum%nBottle o Enchanting - Cognitio%nPumpkin - Herba%nDirt- Terra%nBone Block - Sensus%nBlaze Rod - Ignis(1)%nRedstone - Potentia%nTorches - Lux(1)%nFeather - Aer(1)%nFeather - Volatus(1)%nEnder Pearl - Alienis(1)%nBowl - Vacuos%nSilverwood Log - Auram(1)%nGarnet - Stellae(3)%nSnow - Gelum%nWooden Sword - Aversio%nInvar Boots - Praemunio%nGlass - Vitreus%nBlock of Gold - Desiderium(1)%nGold Ingot - Sol(2)%nHellebore Seeds - Diabolus(1)%nRotten Flesh- Humanus(2)%nOwl Wings - Luna(2)%nSand - Perditio(1)%nWheat - Victus(1)%nWormwood Seeds - Spiritus(1)%nDark Gem - Tenebrae(1)%n%n(Each item has a (number) which signifies how many aspects the item has that you do not want.)"
+    },
+    {
+      "key": "dj2.quest.db.93.title",
+      "en": "Matrix Algebra"
+    },
+    {
+      "key": "dj2.quest.db.93.desc",
+      "en": "Craft a batch of Matrix Multiplication Units! This item is only used for the Thaumcraft Runic Matrix and the Creative Thaumonomicon, so after exploring Skythern, you can build up to 8 of these multiblocks if necessary - since making more Runic Matrices definitely makes automation easier.%n%n%nInterestingly, there is some fine print on the Matrix Multiplication Unit and it says the following:%n%n\"By subtracting a lambda variable from the main diagonal of a square matrix, and solving the equation of its determinant being equal to zero, you can find the eigenvalues of the given matrix. Each eigenvalue corresponds to an eigenvector, except if their algebraic multiplicity is greater than 1, in which case a whole eigensubspace. These can be calculated by substituting the obtained lambdas back into the matrix (before the determinant step), and finding the solution for the obtained low-rank linear system of equations. The solution of this will yield the eigensubspace. In the case of all eigensubspaces being one-dimensional (which statistically occurs with probability 1), we can order these eigenvectors into a square matrix as column vectors, denoted by C. And by forming the diagonal matrix of the corresponding eigenvectors, we obtain matrix U. Then surprisingly, the original matrix will be equal to the matrix product of C*U*C^(-1), called the eigendecomposition. This is useful for calculating a large power of the original matrix, since the k'th power of it will be equal to C*U^k*C^(-1), and calculating U^k is done by raising each term in the main diagonal to the k'th power. This can not only be used to estimate the value of matrix polynomials, but used to more easily find the limiting behavior of Markov-Chains, or find certain moments of a multivariate distribution more easily and make statistical predictions...\"%n%nThe text continues, but the font size is getting smaller and smaller, and no more details can be made out clearly..."
+    },
+    {
+      "key": "dj2.quest.db.94.title",
+      "en": "The first step of becoming a Thaumaturge"
+    },
+    {
+      "key": "dj2.quest.db.94.desc",
+      "en": "Right Click on an Ender Crafter from Extended Crafting with a piece of Salis Mundus to obtain an Arcane Workbench.%n%nThis table requires additional resources for each craft: Up to 6 basic Vis Crystals in each corner and magical energy called \"Vis\" that's stored in each chunk. If you don't have enough Vis in your current Chunk to complete a given recipe, you might need to move to a different one."
+    },
+    {
+      "key": "dj2.quest.db.95.title",
+      "en": "Zwhoosh to the wham!"
+    },
+    {
+      "key": "dj2.quest.db.95.desc",
+      "en": "Craft a Caster's Gauntlet! This handy tool allows you to cast Thaumcraft Spells as well as activate Infusion Rituals."
+    },
+    {
+      "key": "dj2.quest.db.96.title",
+      "en": "Even Leatherererer"
+    },
+    {
+      "key": "dj2.quest.db.96.desc",
+      "en": "Craft some Magical Leather!%n%n%n%n%n%n%n...Tiered recipes, hurray!"
+    },
+    {
+      "key": "dj2.quest.db.97.title",
+      "en": "Gears, cogs, and MAGIC!"
+    },
+    {
+      "key": "dj2.quest.db.97.desc",
+      "en": "Craft a Simple Arcane Mechanism!%n%nIt's simple, it's arcane, and guess what, it's a mechanism. Yup."
+    },
+    {
+      "key": "dj2.quest.db.98.title",
+      "en": "Brass yourself!"
+    },
+    {
+      "key": "dj2.quest.db.98.desc",
+      "en": "Craft some Alchemical Brass Ingots! This is the most important crafting ingredient in Thaumcraft, so make sure to semi-automate it for now, and fully automate it once you have access to Alchemical Constructs."
+    },
+    {
+      "key": "dj2.quest.db.99.title",
+      "en": "Smellin' good!"
+    },
+    {
+      "key": "dj2.quest.db.99.desc",
+      "en": "Craft an Arcane Spa and some Purifying Bath Salts! Place the Salts inside and provide the Spa with Water. It will fill up a 5x5 area above it with Purifying Fluid that prevents any Warp effects for half an hour.%n%nAlso craft a Sanitizing Soap, which clears all Temporary Warp and has a chance of removing regular Warp on use."
+    },
+    {
+      "key": "dj2.quest.db.100.title",
+      "en": "Add more Magic to it!"
+    },
+    {
+      "key": "dj2.quest.db.100.desc",
+      "en": "Craft a Complex Arcane Mechanism for more complex arcane devices that you would like to mechanize arcanely for the device to be mechanized in an even more arcane way than it was previously. Yup."
+    },
+    {
+      "key": "dj2.quest.db.101.title",
+      "en": "It's makes you smarter! Or does it...?"
+    },
+    {
+      "key": "dj2.quest.db.101.desc",
+      "en": "Craft a Brain in a Jar! By placing this near your Research Table, you can select it and gain more Eldritch knowledge...%n%nBut be wary... It's forbidden knowledge... You might get some \"unwanted\" effects..."
+    },
+    {
+      "key": "dj2.quest.db.102.title",
+      "en": "I don't remember. But you do!"
+    },
+    {
+      "key": "dj2.quest.db.102.desc",
+      "en": "Craft a Mnemonic Matrix! By placing this on top of the Thaumatorium multiblock, it'll be able to remember up to 3 recipes. This is very useful for automation!"
+    },
+    {
+      "key": "dj2.quest.db.103.title",
+      "en": "An expensive one, to be sure..."
+    },
+    {
+      "key": "dj2.quest.db.103.desc",
+      "en": "Crystallize many of your Alchemical Brass Ingots into Crystallized Sodium Shards. Once you've collected enough, craft a single Sodium Ingot!%n%n%n%n%n%n%n%nYou'll need 41 Alchemical Brass Ingots. Good luck! You can also obtain this from Mortum dungeons very soon."
+    },
+    {
+      "key": "dj2.quest.db.104.title",
+      "en": "Essentia?! Bwah, I don't need it!"
+    },
+    {
+      "key": "dj2.quest.db.104.desc",
+      "en": "Craft a Void Jar! Any Essentia that enters this Jar gets teleported into a different phase of reality! What, you thought it's just voided? Well, effectively yes, but Conservation of mass would say otherwise..."
+    },
+    {
+      "key": "dj2.quest.db.105.title",
+      "en": "warded.jar"
+    },
+    {
+      "key": "dj2.quest.db.105.desc",
+      "en": "Craft a couple Glass Phials and a Warded Jar! You'll need many of these, so definitely automate them. The Phials allow you to store 10 units of Essentia for easy transport, while the Jars each store 250 units.%n%nYou can break the Jars to pick them up, they won't lose any of their contents."
+    },
+    {
+      "key": "dj2.quest.db.106.title",
+      "en": "Wouldn't be Thaumcraft without this"
+    },
+    {
+      "key": "dj2.quest.db.106.desc",
+      "en": "Upgrade an Alchemical Brass Ingot into a Thaumium Ingot! Now you're really diving deep into Thaumcraft..."
+    },
+    {
+      "key": "dj2.quest.db.107.title",
+      "en": "Discover and conquer"
+    },
+    {
+      "key": "dj2.quest.db.107.desc",
+      "en": "Craft a Thaumometer in your Arcane Workbench. You'll need to use one of each basic Vis Crystal. Then start scanning ALL the things!%n%nThis handy device lets you see the amount of Vis in a chunk, and lets you observe current Essentia amounts in a Crucible or during Infusion crafting.%n%nJust be wary NOT to use it on an active Crucible, because it'll eat it up."
+    },
+    {
+      "key": "dj2.quest.db.108.title",
+      "en": "Just a cold stone desk."
+    },
+    {
+      "key": "dj2.quest.db.108.desc",
+      "en": "Craft a Stone Table! This is simply a crafting ingredient."
+    },
+    {
+      "key": "dj2.quest.db.109.title",
+      "en": "You're a real Tuber now!"
+    },
+    {
+      "key": "dj2.quest.db.109.desc",
+      "en": "The Essentia Buffer has 8 unique slots for Essentia built into a single Pipe - meaning it's usually capable of pulling Essentia even when normal Tubes wouldn't."
+    },
+    {
+      "key": "dj2.quest.db.110.title",
+      "en": "Pipes? Check! Routing options? We still need more..."
+    },
+    {
+      "key": "dj2.quest.db.110.desc",
+      "en": "Craft all 4 types of Pipes listed here.%n%n- Essentia Valves can be turned on and off by hand or with a Redstone signal.%n- Restricted Tubes halve the suction passing through them.%n- Directional Tubes only accept suction from one side.%n- Filtered Tubes can be marked by Labels to filter for one type of Essentia."
+    },
+    {
+      "key": "dj2.quest.db.111.title",
+      "en": "Thaumonomonomanomicon"
+    },
+    {
+      "key": "dj2.quest.db.111.desc",
+      "en": "Right Click on a Bookshelf with a piece of Salis Mundus to obtain your very own Thaumonomicon!%n%nYou'll need to discover every Thaumcraft recipe by following this book. Some tasks will require you to obtain or craft items, and some will consume them! Make sure to frequently check all the tabs on the left (and later right) to see if you have any research unlocked.%nBe aware that some quests in BQ will unlock before you have the research to complete them.%n%n§cMultiplayer information:§r This modpack has the mod Knowledge Sharer. This allows you to share research with your friends. To share research, both players must hold the Thaumonomicon in their hand, and the sending player must Shift+Right Click on the receiving player. %nNote that this will only share research, not other entries - meaning all players will have to scan entities like the Crimison Cult with their Thaumometer to progress. For this reason, each player must make their own Thaumonomicon."
+    },
+    {
+      "key": "dj2.quest.db.112.title",
+      "en": "Resolve-nator"
+    },
+    {
+      "key": "dj2.quest.db.112.desc",
+      "en": "Craft an Essentia Resonator! This tool allows you to see where your Essentia is flowing to inside of your Thaumcraft pipe networks. Each pipe can only hold and create suction for one type of Essentia, so you might need to create a more complex network. The special types of Essentia Tubes will surely help you with that."
+    },
+    {
+      "key": "dj2.quest.db.113.title",
+      "en": "Smeltery^2"
+    },
+    {
+      "key": "dj2.quest.db.113.desc",
+      "en": "Upgrade your Essentia Smeltery into the Thaumium variant! This machine has double the speed of the previous tier, and breaks up Essentia with a 90%% efficiency instead of 80%%."
+    },
+    {
+      "key": "dj2.quest.db.114.title",
+      "en": "Essentia in, Essentia out"
+    },
+    {
+      "key": "dj2.quest.db.114.desc",
+      "en": "Craft an Essentia Centrifuge! This machine is capable of separating incoming Essentia into its primal elements - making it useful if you can create a more complex type of essentia more easily than a primal one. Though only one of the components will be returned for each input unit of Essentia.%n%nThe output can be pulled out from the top. It's best to use an Essentia Buffer here, as multiple types of Essentia could be output at the same time."
+    },
+    {
+      "key": "dj2.quest.db.115.title",
+      "en": "SPELLS! MORE SPELLS!"
+    },
+    {
+      "key": "dj2.quest.db.115.desc",
+      "en": "Craft a Blank Advanced Focus! This will allow you to create more complex spells by granting you a higher amount of potential spell complexity."
+    },
+    {
+      "key": "dj2.quest.db.116.title",
+      "en": "It's a Focus! ... But what does it do?"
+    },
+    {
+      "key": "dj2.quest.db.116.desc",
+      "en": "Craft a Blank Lesser Focus! You can use it to create Thaumcraft Foci with powerful effects in a Focal Manipulator. The GUI is very intuitive, you can just drag spell ingredients until your complexity maxes out. To cast the spells, use your Caster's Gauntlet.%n%nEach cast of a spell consumes a little bit of Vis in the chunk you're in, but don't worry, Vis does slowly regenerate over time."
+    },
+    {
+      "key": "dj2.quest.db.117.title",
+      "en": "I made... Circles!"
+    },
+    {
+      "key": "dj2.quest.db.117.desc",
+      "en": "Craft all 2 pi radians of a Base Focal Sphere! This is the base crafting ingredient for all Foci!"
+    },
+    {
+      "key": "dj2.quest.db.118.title",
+      "en": "Pipes §r=§r Overrated"
+    },
+    {
+      "key": "dj2.quest.db.118.desc",
+      "en": "Finally! A Thaumaturge's dream comes true when they can create Essentia without any messy pipes or the worry of creating Flux...!%n%nSimply place a Filling Essentia Transfuser on the side of your Arcane Alembics, and they'll distribute the Essentia into nearby Jars without the need for any Pipes at all. Wonderful!"
+    },
+    {
+      "key": "dj2.quest.db.119.title",
+      "en": "Give me ALL the Vis!"
+    },
+    {
+      "key": "dj2.quest.db.119.desc",
+      "en": "Craft a Workbench Charger! To do so, find a Magical Forest biome, wear your full set of Thaumaturge Armor, and look for the perfect chunk that can barely craft this with the discount!%n%nOnce crafted, you can place it on top of an Arcane Workbench or a Focal Manipulator to be capable of draining Vis from the 8 surrounding chunks as well. This way you'll have access to recipes that have a way higher Vis cost."
+    },
+    {
+      "key": "dj2.quest.db.120.title",
+      "en": "Like a button on your shirt"
+    },
+    {
+      "key": "dj2.quest.db.120.desc",
+      "en": "Craft a Vis Resonator! This is purely a crafting ingredient that you'll need a fair amount of."
+    },
+    {
+      "key": "dj2.quest.db.121.title",
+      "en": "Spells are fun! So fun!"
+    },
+    {
+      "key": "dj2.quest.db.121.desc",
+      "en": "Craft a Focal Manipulator! Placing a Focus inside will let you create a variety of different Thaumcraft spells.%n%nTo start, place a Blank Lesser or Advanced focus in the bottom left slot. Then select a spell category on the left. Some categories (like Projectile) take a modifier (what type of projectile should it be?).%n%nYou can see the current complexity of your spell on the top right - this can't exceed the total capacity shown.%n%nOn the bottom right, you can choose to increase the effectiveness of certain attributes of your spell. This will make the spell stronger, but increase its complexity.%n%nOnce satisfied, the Focal Manipulator will ask for some items. These will be consumed! To finish, click the \"Start Crafting\" button on the top right. Wait a few seconds and your spell should be applied to your Focus and ready to use!%n%nTo apply the Focus to your Caster's Gauntlet, hold the Gauntlet and press 'C' by default."
+    },
+    {
+      "key": "dj2.quest.db.122.title",
+      "en": "Academic? Try the Alembic!"
+    },
+    {
+      "key": "dj2.quest.db.122.desc",
+      "en": "Craft some Arcane Alembics and place them on top of your Essentia Smeltery! All the Essentia broken down from items will end up in these. Watch out though, if Essentia is visibly leaking, that'll create a lot of Flux in the Area, which is very dangerous! Always watch the purple meter inside the Essentia Smeltery, don't overflow it.%n%nYou can Right Click an Alembic with a Jar to get the Essentia stored inside or use piping to move it automatically to connected Jars. Watch out though, a single Pipe can only ever transmit 1 type of Essentia. If your input material contains a lot, you might not be able to route all of it. In that case, keep an eye on the system (an Essentia Resonator really helps), and break down the input in very small batches."
+    },
+    {
+      "key": "dj2.quest.db.123.title",
+      "en": "What's this again? Potentia...? Vitreus?"
+    },
+    {
+      "key": "dj2.quest.db.123.desc",
+      "en": "Craft a Jar Label! Placing this on a Jar will not only let you organize them better, but use it as a filter - only Essentia of a given type will be capable of entering the Jar.%n%nAlso craft a Brass Lid Brace! When placed on a Jar, only Essentia Tubes will be able to access the Jar."
+    },
+    {
+      "key": "dj2.quest.db.124.title",
+      "en": "Stunning Stones"
+    },
+    {
+      "key": "dj2.quest.db.124.desc",
+      "en": "Craft at least 1 Infusion Cost Stone and 1 Infusion Speed Stone. By placing them below the main legs of the Runic Matrix multiblock, you can either reduce the cost of the crafts or speed them up! Your choice... You can use at most 4 of these, obviously."
+    },
+    {
+      "key": "dj2.quest.db.125.title",
+      "en": "You held it - now you'll wear it"
+    },
+    {
+      "key": "dj2.quest.db.125.desc",
+      "en": "Craft a pair of Goggles of Revealing! This is a very handy piece of equipment that goes into your helmet slot.%n%nIt lets you see the exact amounts of Essentia in your Crucible or Arcane Infusion crafts, and it's absolutely required, otherwise you can easily miss an obvious ingredient for a craft (especially for Crucible recipes, where Essentia just constantly evaporates)."
+    },
+    {
+      "key": "dj2.quest.db.127.title",
+      "en": "New outfit? Fancy!"
+    },
+    {
+      "key": "dj2.quest.db.127.desc",
+      "en": "Craft a set of Thaumaturge Armor! Using this you'll get a fair amount of Vis cost reduction on Arcane Workbench crafts.%n%nBy placing a set of Armor on a BiblioCraft Armor Stand with a Redstone Block below, you can easily swap between the set displayed and the set you're currently wearing. Handy!%n%n(To obtain Crystallized Alumina for Alumentum, combine Crystallized Aluminum and Oxygen Shards, and combine them into Crystallized Alumina.)"
+    },
+    {
+      "key": "dj2.quest.db.128.title",
+      "en": "Have you lost your mind (yet)?"
+    },
+    {
+      "key": "dj2.quest.db.128.desc",
+      "en": "Craft a Sanity Checker! By holding this item, a bar showing your current warp level will appear on the top left. Try to keep this... as low as possible. Especially the darkest purple bar on the bottom - that's Permanent Warp that cannot be gotten rid of."
+    },
+    {
+      "key": "dj2.quest.db.231.title",
+      "en": "Dealing with Flux"
+    },
+    {
+      "key": "dj2.quest.db.231.desc",
+      "en": "Alright, enough with the Flux!%n%nThis is an automatable way of getting rid of the Flux you've accumulated in a Chunk. Craft the items shown on the right, and place the Flux Condenser Lattice on top of the Flux Condenser, feed it any kind of Essentia from the 4 sides, and pump out Vitium Essentia on the bottom.%n%nIf you can reliably store the output Vitium Essentia, then do so - otherwise pump it into a Void Jar. If the output Jar fills up, it'll STOP the Flux Condenser, and you'll be sad to see your machines destroyed by a Flux Rift in the same Chunk.%n%nThe Flux Condenser Lattice might periodically clog up, but you can Right Click on it with an Essentia Filter to unclog it. This uses up the Essentia Filter (but only if the Lattice is clogged). Once you have enough materials, automate Essentia Filters in regular crafting."
+    },
+    {
+      "key": "dj2.quest.db.620.title",
+      "en": "Elevating the Elevatium creation"
+    },
+    {
+      "key": "dj2.quest.db.620.desc",
+      "en": "The first benefit of pretending to know how to use Infusion is to craft Elevatium Ingots with a higher yield! Change your Elevatium automation to be more efficient!"
+    },
+    {
+      "key": "dj2.quest.db.1159.title",
+      "en": "Invading the Arch Lich's castle"
+    },
+    {
+      "key": "dj2.quest.db.1159.desc",
+      "en": "Find the Arch Lich's castle in Skythern! Enter it and go through its maze-like rooms to eventually find a Skythern Key in one of its upper domes!%n%nYou'll need to find and break Diorite-variants in most rooms to continue."
+    },
+    {
+      "key": "dj2.quest.db.1389.title",
+      "en": "Disturbing the residents"
+    },
+    {
+      "key": "dj2.quest.db.1389.desc",
+      "en": "Continue through the second half of the Arch Lich's castle and find 5 Skythern Boss Door Key Fragments hidden throughout the place while defeating its residents!%n%nCombine the 5 Key Fragments to be able to open the door the leads to the final boss!"
+    },
+    {
+      "key": "dj2.quest.db.1641.title",
+      "en": "Tiny Vis Storage"
+    },
+    {
+      "key": "dj2.quest.db.1641.desc",
+      "en": "The Vis Battery will allow you to store 10 Vis. Not a large amount, so you'll want a large amount of them. They snag Vis from the chunk when its above 95%% of its normal capacity, and empty into the chunk when its below 75%%. If they are provided a redstone signal, they will quickly empty all their Vis into the chunk."
+    },
+    {
+      "key": "dj2.quest.db.1722.title",
+      "en": "Researchless"
+    },
+    {
+      "key": "dj2.quest.db.1722.desc",
+      "en": "Craft the Cheater's Thaumonomicon! Its not cheating if the quest told you to! This will unlock every research - but you will go completely insane. Expect lots of warp events until you get the Botania Brew to prevent them in Chapter 21!%n%nOr, you could click the checkbox, walk away, and enjoy Thaumcraft's research system for 1.12.2. You can always come back and make it if you get tired."
+    }
+  ]
+}

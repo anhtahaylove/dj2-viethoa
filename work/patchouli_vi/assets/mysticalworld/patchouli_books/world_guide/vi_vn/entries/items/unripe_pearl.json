@@ -1,0 +1,20 @@
+{
+  "name": "Unripe Pearls",
+  "icon": "mysticalworld:unripe_pearl",
+  "category": "items",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:unripe_pearl",
+      "text": "Unripe pearls có thể được tìm thấy ở những Endermen non chưa trưởng thành, được gọi là Endermini."
+    },
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:ender_pearl",
+      "text": "Khi sử dụng, vật phẩm này sẽ dịch chuyển bạn đến một vị trí ngẫu nhiên. Có thể ghép cùng 8 viên khác để tạo thành một ender pearl.",
+      "title": "Ender Pearl"
+    }
+  ]
+}

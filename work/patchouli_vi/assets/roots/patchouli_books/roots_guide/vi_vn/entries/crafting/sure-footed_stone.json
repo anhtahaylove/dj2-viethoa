@@ -1,0 +1,23 @@
+{
+  "name": "Sure-Footed Stone",
+  "icon": "roots:runestone_trample",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_trample",
+      "text": "Giải pháp lý tưởng cho mọi nông dân!$(br2)Sure-Footed Stone không chỉ ngăn cây trồng trong phạm vi 30 khối bị người chơi, sinh vật hoặc quái vật giẫm nát mà còn tưới ẩm toàn bộ đất canh tác trong phạm vi năm khối."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/unending_bowl",
+        "resources/runestone",
+        "herbs/terra_moss"
+      ]
+    }
+  ]
+}

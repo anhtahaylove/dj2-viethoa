@@ -1,0 +1,30 @@
+{
+  "name": "Dewgonia",
+  "icon": "roots:dewgonia",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:dewgonia",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Là dạng đột biến giữa tảo bẹ dưới biển và một loài thực vật có hoa rực rỡ, thảo mộc này rõ ràng có sự hòa hợp với nước.$(br2)Khi được hái, hoa luôn ẩm ướt và có thể tiết ra chất lỏng ngọt khi vắt.$(br2)Trước đây được trồng trên ruộng ngập nước hoặc ngay dưới nước, đây là một $(l:herbs/dewgonia#renew)tài nguyên tái tạo được$()."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "dewgonia"
+    },
+    {
+      "type": "text",
+      "title": "Khả năng tái tạo",
+      "anchor": "renew",
+      "text": "Việc phát hiện ra $(l:resources/elemental_soil)elemental soil$() đã loại bỏ nhu cầu về ruộng ngập nước và đồn điền dưới nước.$(br2)Có thể trồng nó trên bất kỳ loại nào trong năm loại elemental soil mà không cần khớp nguyên tố.$(br2)Khi sẵn sàng thu hoạch, những chùm hoa đẫm nước mọc trên thân cứng cáp sẽ tỏa ra hương biển ngọt ngào."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

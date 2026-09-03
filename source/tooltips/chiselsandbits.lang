@@ -1,0 +1,20 @@
+# Safe player-facing tooltip/prose candidates.
+mod.chiselsandbits.config.creativeClipboardSize.tooltip=Number of items that can be stored on the creative clipboard before they begin to be removed, 0 will disable it.
+mod.chiselsandbits.config.dynamicModelFaceCount.tooltip=Models more complicated than this will use dynamic rendering.
+mod.chiselsandbits.config.dynamicModelRange.tooltip=Dynamically rendered blocks outside of this range will not render.
+mod.chiselsandbits.config.dynamicModelMinimizeLatancy.tooltip=Disabling can improve performance at the cost of responsiveness.
+mod.chiselsandbits.config.dynamicMaxConcurrentTessalators.tooltip=When this number is exceeded updates will begin pausing to prevent memory saturation.
+mod.chiselsandbits.config.enablePositivePrintCrafting.tooltip=Crafting a positive design with bits/bags of bits will let you craft the block.
+mod.chiselsandbits.config.enableStackableCrafting.tooltip=You can use this feature to stack the same design by stripping the rotation.
+mod.chiselsandbits.config.enableNegativePrintInversionCrafting.tooltip=Craft a filled negative design with a blank negative design.
+mod.chiselsandbits.config.enableChiselToolHarvestCheck.tooltip=To harvest obsidian bits you require a dimaond chisel.
+mod.chiselsandbits.config.enableToolHarvestLevels.tooltip=Breaking an primary obsidian chiseled block will require a diamond level tool.
+mod.chiselsandbits.config.enableBitLightSource.tooltip=When disabled light emiting bits will simply glow and the block will emit no light level.
+mod.chiselsandbits.config.bagStackSize.tooltip=Stack size of bits in the bag: Minimum of 64, maximum of 99,999
+mod.chiselsandbits.config.defaultToDynamicRenderer.tooltip=By default C&B uses the static renderer, and changes to the Dynamic Renderer on update, This setting reverse that; After determining the detail of the model it will decide to revert to the static renderer, helpful for more complicated scenes that cause stalls when using the static renderer.
+mod.chiselsandbits.config.forceDynamicRenderer.tooltip=Debug Setting, that disable the static render entirely.
+mod.chiselsandbits.config.useVBO.tooltip=By Default uses the same setting as MC, but can be overridden.
+mod.chiselsandbits.config.radialMenuVolume.tooltip=Setting to Zero will disable it.
+mod.chiselsandbits.config.dynamicRenderFullChunksOnly.tooltip=Prevents Subdividing of dynamically rendered chunks into single blocks. This increases performance for most common cases ( chunks with a handful of complicated blocks ), but decreases performance for the worst cases ( chunks full of super complicated designs ).
+mod.chiselsandbits.config.requireBagSpace.tooltip=Requires there to be an empty slot in a bag or in the player's inventory before allowing them to use the chisel.
+mod.chiselsandbits.config.voidExcessBits.tooltip=Voids any bits that couldn't be fit into a bag or your inventory. Improves server performance. The undo action could have issues as some bits are voided.

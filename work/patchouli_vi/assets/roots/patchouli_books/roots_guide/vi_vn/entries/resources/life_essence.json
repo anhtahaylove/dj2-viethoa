@@ -1,0 +1,21 @@
+{
+  "name": "Life Essence",
+  "icon": "roots:life_essence",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:life_essence",
+      "text": "Có thể dùng $(l:crafting/runic_shears)Runic Shears$() để lấy Life Essence từ một thực thể phù hợp, nhưng không theo cách thông thường. Thay vào đó, bạn phải cúi người rồi nhấp chuột phải vào thực thể.$(br2)Life Essence thu được có thể thay cho vật phẩm hiến tế trong $(l:rituals/ritual_summon_creatures)nghi lễ Summon Creatures$() và có thể được tái sử dụng vài lần."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears",
+        "rituals/ritual_summon_creatures"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Component Pouches",
+  "icon": "roots:herb_pouch",
+  "category": "spells",
+  "priority": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Việc $(l:spells/introduction)thi triển phép$() bằng $(l:crafting/staff)staff$() thường tiêu tốn $(cat:herbs)herbs$().$(br2)Không thể dùng trực tiếp các herbs này từ kho đồ. Thay vào đó, chúng phải được cất trong component pouch.$(br2)Có nhiều loại pouch: một số chỉ chứa herbs, còn số khác có thể chứa thêm vật phẩm."
+    },
+    {
+      "type": "text",
+      "title": "Thi triển & Nhuộm màu",
+      "text": "$(info) Khi thi triển phép, trò chơi sẽ tìm các herbs cần thiết trong mọi pouch thuộc kho đồ của bạn.$(br2)$(info) Ngoài việc có nhiều loại khác nhau, mỗi pouch còn có thể được nhuộm bằng cách kết hợp với thuốc nhuộm trên bàn chế tạo.$(br2)Nhờ đó, bạn có thể dễ dàng phân biệt các pouch cùng loại."
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:herb_pouch",
+      "text": "$(l:crafting/herb_pouch)herb pouch$() là loại pouch đơn giản nhất, có 9 ô chỉ chứa được herbs."
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:component_pouch",
+      "text": "Là vật chứa cao cấp hơn, $(l:crafting/component_pouch)component pouch$() không chỉ có 6 ô chứa herbs mà còn có thêm 12 ô chứa được mọi vật phẩm."
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:apothecary_pouch",
+      "text": "Kết hợp 9 ô của herb pouch với 18 ô bổ sung dành cho vật phẩm không phải herb, $(l:crafting/apothecary_pouch)apothecary pouch$() mang lại tiện ích đáng kể."
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:fey_pouch",
+      "text": "Trái ngược với apothecary pouch, $(l:crafting/fey_leather_pouch)fey leather pouch$() có 12 ô chứa herbs (thừa sức chứa mỗi loại herb một đơn vị), cùng một ngăn nhỏ chứa tối đa 6 vật phẩm không phải herb."
+    },
+    {
+      "type": "text",
+      "title": "Tính năng bổ sung",
+      "text": "Khi cài mod Baubles, bạn có thể trang bị pouch trên thắt lưng.$(br2)Nhấn phím $(k:roots.keybinds.pouch) để mở pouch trong ô thắt lưng Baubles (nếu đã cài), hoặc pouch đầu tiên trong kho đồ.$(br2)Khi bật tùy chọn cấu hình $(bold)Auto-Refill Pouches$(), mỗi khi bạn nhặt một herb đã có"
+    },
+    {
+      "type": "text",
+      "text": "có trong một trong các túi của bạn, vật phẩm sẽ cố lấp đầy ô đó trước khi được đưa vào kho đồ.$(br2)Phím tắt cũng hiển thị trong chú giải của túi. Tương tự, nếu tùy chọn tự động bổ sung được bật, phần văn bản bổ sung sẽ giải thích chức năng này và cho biết bạn có thể tắt nó trong phần cấu hình."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/apothecary_pouch",
+        "crafting/component_pouch",
+        "crafting/fey_leather_pouch",
+        "crafting/herb_pouch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Shatter",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_shatter\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_shatter",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một vụ nổ ma thuật đất hoang dã đầy uy lực phá vỡ hầu hết các khối. Theo mặc định, phép tác động theo mẫu hai khối: khối bạn đang nhắm tới và khối ngay bên dưới nó (dựa trên góc bạn nhắm vào khối).$(br2)Các modifier có thể mở rộng đáng kể phạm vi đào lên cao, rộng hơn và sâu hơn, kèm Silk Touch, Fortune, thậm chí dịch chuyển toàn bộ vật phẩm rơi ra đến chỗ bạn."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_shatter"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:wider",
+      "anchor": "wider"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:taller",
+      "anchor": "taller"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:magnetic_ray",
+      "anchor": "magnetic_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:deeper",
+      "anchor": "deeper"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:singularity",
+      "anchor": "singularity"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:moss_harvest",
+      "anchor": "moss_harvest"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:shatter_void",
+      "anchor": "shatter_void"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:shatter_fortune",
+      "anchor": "shatter_fortune"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:smelting_ray",
+      "anchor": "smelting_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_shatter",
+      "modifier": "roots:shatter_silk_touch",
+      "anchor": "shatter_silk_touch"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:shatter/SECONDS/cooldown) giây.$(br2)$(bold)Khoảng cách:$() Tầm tối đa của tia phá khối là $(spell:shatter/distance) khối.$(br2)$(bold)Kích thước:$() Theo mặc định, tia sẽ phá các khối với chiều rộng $(spell:shatter/default_width) (0 tương ứng 1 khối), chiều cao $(spell:shatter/default_height) (0 tương ứng 2 khối: khối được nhắm tới và khối bên dưới), cùng chiều sâu $(spell:shatter/default_depth) (0 tương ứng phá 1 khối)."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Chiều rộng:$() Với modifier $(modifier:wider)$(), thêm $(spell:shatter/width) khối vào mỗi bên. Giá trị 1 nghĩa là phá ba khối liền hàng.$(br2)$(bold)Chiều cao:$() Khi bật modifier $(modifier:taller)$(), thêm $(spell:shatter/height) khối vào mỗi bên. Giá trị 1 nghĩa là phá ba khối liền cột.$(br2)$(bold)Chiều sâu:$() Với modifier $(modifier:deeper)$(), thêm $(spell:shatter/depth) khối vào mức mặc định. Giá trị 2 nghĩa là có thể phá tối đa ba khối phía sau"
+    },
+    {
+      "type": "text",
+      "text": "khối ban đầu, tổng cộng ba khối bị phá (nếu chiều sâu mặc định là 0).$(br2)$(bold)Đơn khối:$() Khi bật modifier $(modifier:singularity)$(), mặc định chỉ phá một khối (thay vì hai).$(br2)$(bold)Từ tính:$() Khi bật modifier $(modifier:magnetic_ray)$(), mọi khối bị phá cùng vật phẩm rơi ra sẽ được dịch chuyển đến vị trí của bạn.$(br2)$(bold)Silk Touch:$() Khi bật modifier $(modifier:shatter_silk_touch)$(), các khối"
+    },
+    {
+      "type": "text",
+      "text": "được phá như khi dùng enchantment Silk Touch.$(br2)$(bold)Fortune:$() Khi bật modifier $(modifier:shatter_fortune)$(), các khối được phá như khi có Fortune II.$(br2)$(bold)Nung chảy:$() Khi bật modifier $(modifier:smelting_ray)$(), các khối bị phá sẽ được nung như trong lò.$(br2)$(bold)Rêu:$() Khi bật modifier $(modifier:moss_harvest)$(), các khối được xử lý như bằng dao để thu được $(l:herbs/terra_moss)terra moss$()."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tiêu hủy:$() Khi bật modifier $(modifier:shatter_void)$(), các khối sẽ bị tiêu hủy hoàn toàn thay vì bị phá."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/stalicripe"
+      ]
+    }
+  ]
+}

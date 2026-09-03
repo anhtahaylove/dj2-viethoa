@@ -1,0 +1,19 @@
+{
+  "name": "Locked Vanishing Block",
+  "icon": "twilightforest:tower_device:4",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6220,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Locked Vanishing Block",
+      "item": "twilightforest:tower_device:4",
+      "text": "Có điều gì đó không ổn với thứ này. Dù tôi làm gì, nó vẫn không phản ứng, và các Vanishing Block được kết nối cũng vậy. Tôi nhận thấy một hình dạng kỳ lạ ở giữa thiết bị này; có lẽ nó cần một loại chìa khóa nào đó?"
+    },
+    {
+      "type": "text",
+      "text": "Tất nhiên, những thiết bị này giống như ổ khóa cửa. Nếu tôi đưa Tower Key cho một thiết bị, nó sẽ được mở khóa; khi tương tác, nó sẽ biến mất trước mắt tôi và cho phép các Vanishing Block lân cận cũng biến mất."
+    }
+  ]
+}

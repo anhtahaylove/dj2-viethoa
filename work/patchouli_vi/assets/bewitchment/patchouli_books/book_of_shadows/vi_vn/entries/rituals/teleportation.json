@@ -1,0 +1,15 @@
+{
+  "name": "Teleportation",
+  "category": "rituals",
+  "icon": "bewitchment:waystone",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dịch chuyển mọi thực thể trong phạm vi nhỏ quanh ký tự trung tâm đến vị trí của Waystone hoặc thực thể, tùy vào vật phẩm được dùng. Nghi lễ chỉ hoạt động nếu mục tiêu ở cùng dimension"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:teleport"
+    }
+  ]
+}

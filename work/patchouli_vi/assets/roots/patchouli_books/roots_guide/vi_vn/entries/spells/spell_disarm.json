@@ -1,0 +1,93 @@
+{
+  "name": "Disarm",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_disarm\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_disarm",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Với phép này, bạn có thể nhanh chóng tước mọi vũ khí mà thực thể thù địch gần nhất đang cầm, đồng thời có khả năng khiến chúng thực sự đánh rơi vật đang cầm.$(br2)Các modifier có thể giúp tác động thêm nhiều thực thể, tăng tỷ lệ đánh rơi, thậm chí khiến chúng có cơ hội đánh rơi cả giáp đang mặc!"
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_disarm"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:boost_drops",
+      "anchor": "boost_drops"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:armor_i",
+      "anchor": "armor_i"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:disarm_duumvirate",
+      "anchor": "disarm_duumvirate"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:armor_ii",
+      "anchor": "armor_ii"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:poison_hands",
+      "anchor": "poison_hands"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:flower_child",
+      "anchor": "flower_child"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:blaze",
+      "anchor": "blaze"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:weakness",
+      "anchor": "weakness"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_disarm",
+      "modifier": "roots:liquid_lurch",
+      "anchor": "liquid_lurch"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:disarm/SECONDS/cooldown) giây.$(br2)$(bold)Phạm vi:$() Phép tác động đến thực thể thù địch hợp lệ gần nhất trong phạm vi $(spell:disarm/radius_x) và $(spell:disarm/radius_z) khối theo chiều ngang, cùng $(spell:disarm/radius_y) khối theo chiều dọc.$(br2)$(bold)$(bold)Đánh rơi:$() Vật phẩm bị tước có $(spell:disarm/PERCENT/drop_chance) cơ hội rơi ra; khi bật modifier $(modifier:boost_drops)$(), tỷ lệ này tăng thêm $(spell:disarm/PERCENT/chance_increase)."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Giáp:$() Khi dùng một trong hai modifier $(modifier:armor_i)$() hoặc $(modifier:armor_ii)$(), tỷ lệ đánh rơi một mảnh giáp là $(spell:disarm/armor_chance); nếu bật cả hai, tỷ lệ này tăng thêm $(spell:disarm/armor_chance).$(br2)$(bold)Độc:$() Với modifier $(modifier:poison_hands)$(), thực thể bị tước vũ khí nhận Poison $(spell:disarm/ROMAN/poison_amplifier) trong $(spell:disarm/SECONDS/poison_duration) giây.$(br2)$(bold)Lửa:$() Khi bật modifier $(modifier:blaze)$(), thực thể bị tước vũ khí bị thiêu đốt trong $(spell:disarm/fire_duration) giây.$(br2)$(bold)Đẩy lùi:$() Khi bật modifier $(modifier:liquid_lurch)$(), thực thể bị tước vũ khí cũng bị"
+    },
+    {
+      "type": "text",
+      "text": "bị đẩy lùi với lực $(spell:disarm/knockback_strength).$(br2)$(bold)Weakness:$() Khi bật bổ trợ $(modifier:weakness)$(), các thực thể bị tước vũ khí sẽ chịu Weakness $(spell:disarm/ROMAN/weakness_amplifier) trong $(spell:disarm/SECONDS/weakness_duration) giây.$(br2)$(bold)Bộ đôi:$() Khi bật bổ trợ $(modifier:disarm_duumvirate)$(), hai thực thể thù địch gần nhất sẽ bị tước vũ khí.$(br2)$(bold)Hoa:$() Khi bật bổ trợ $(modifier:flower_child)$(), vật phẩm thực thể đang cầm sẽ được thay bằng hoa."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/wildewheet",
+        "herbs/moonglow"
+      ]
+    }
+  ]
+}

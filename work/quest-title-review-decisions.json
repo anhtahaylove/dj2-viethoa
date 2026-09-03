@@ -1,0 +1,548 @@
+[
+  {
+    "key": "dj2.quest.ql.28.title",
+    "value": "2. Dancing on a Totem Pole",
+    "decision": "translate",
+    "reason": "prose/pun"
+  },
+  {
+    "key": "dj2.quest.db.6.title",
+    "value": "The Collector",
+    "decision": "translate",
+    "reason": "prose"
+  },
+  {
+    "key": "dj2.quest.db.105.title",
+    "value": "warded.jar",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.111.title",
+    "value": "Thaumonomonomanomicon",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.126.title",
+    "value": "<3",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.130.title",
+    "value": "Arthana 2.0",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.158.title",
+    "value": "-273 °C",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.172.title",
+    "value": "666",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.180.title",
+    "value": "Gypsum",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.229.title",
+    "value": "777 53V3N 777",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.285.title",
+    "value": "Melon^3",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.302.title",
+    "value": "Part of the Golden Club",
+    "decision": "translate",
+    "reason": "prose with item name preserved"
+  },
+  {
+    "key": "dj2.quest.db.356.title",
+    "value": "Structure Projector",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.358.title",
+    "value": "Starlight acquisition acceleration modification",
+    "decision": "translate",
+    "reason": "prose with Starlight preserved"
+  },
+  {
+    "key": "dj2.quest.db.373.title",
+    "value": "O2",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.415.title",
+    "value": "S-O-L-A-R",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.428.title",
+    "value": "Compressor Automation",
+    "decision": "translate",
+    "reason": "objective with Compressor preserved"
+  },
+  {
+    "key": "dj2.quest.db.443.title",
+    "value": "The PenULTIMATE Crafting Table",
+    "decision": "translate",
+    "reason": "pun with Crafting Table preserved"
+  },
+  {
+    "key": "dj2.quest.db.444.title",
+    "value": "Yet Another Machiavellian Machine Frame (YAMMF)",
+    "decision": "translate",
+    "reason": "pun with Machine Frame/acronym preserved"
+  },
+  {
+    "key": "dj2.quest.db.452.title",
+    "value": "\"Ultimate\" Crafting Table",
+    "decision": "translate",
+    "reason": "pun with Crafting Table/Ultimate preserved"
+  },
+  {
+    "key": "dj2.quest.db.464.title",
+    "value": "01010000 01100001 01100011 01101011 01100001 01100111 01100101",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.485.title",
+    "value": "10^100 Chrome",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.489.title",
+    "value": "Yeet-rium",
+    "decision": "translate",
+    "reason": "material pun; translate yeet while preserving searchable Yttrium"
+  },
+  {
+    "key": "dj2.quest.db.508.title",
+    "value": "Strontium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.511.title",
+    "value": "Electrolyzer",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.520.title",
+    "value": "Chad-mium",
+    "decision": "translate",
+    "reason": "material/meme pun; preserve searchable Cadmium and Chad"
+  },
+  {
+    "key": "dj2.quest.db.533.title",
+    "value": "V-M-B",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.540.title",
+    "value": "Bismuth",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.546.title",
+    "value": "Neon",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.574.title",
+    "value": "Obby",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.585.title",
+    "value": "Thermal",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.599.title",
+    "value": "§6Intermedium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.600.title",
+    "value": "§aPrudentium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.602.title",
+    "value": "§bSuperium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.603.title",
+    "value": "§cSupremium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.604.title",
+    "value": "§5Insanium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.619.title",
+    "value": "Perfectium",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.640.title",
+    "value": "The Enderest of Enderer Pearls",
+    "decision": "translate",
+    "reason": "pun with Ender Pearl preserved"
+  },
+  {
+    "key": "dj2.quest.db.685.title",
+    "value": "negordyH",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.695.title",
+    "value": "E[MC] §r=§r [E]MC^2",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.743.title",
+    "value": "Quasi Quantum Supercomputer Singularity",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.761.title",
+    "value": "Plasma",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.775.title",
+    "value": "Essence++;",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.799.title",
+    "value": "Singularity^2",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.805.title",
+    "value": "ᛊᚣᚭᚭᛞᛣᛉᛣᚬ ᛉᚭᚭᛞᛗᚨᚣᛊ",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.824.title",
+    "value": "Sand Collector",
+    "decision": "translate",
+    "reason": "objective with Sand preserved"
+  },
+  {
+    "key": "dj2.quest.db.825.title",
+    "value": "Gravel Collector",
+    "decision": "translate",
+    "reason": "objective with Gravel preserved"
+  },
+  {
+    "key": "dj2.quest.db.826.title",
+    "value": "Clay Collector",
+    "decision": "translate",
+    "reason": "objective with Clay preserved"
+  },
+  {
+    "key": "dj2.quest.db.834.title",
+    "value": "TOOL-7",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.846.title",
+    "value": "§dEpic Backpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.852.title",
+    "value": "Stone Pickaxe",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.863.title",
+    "value": "Iron Chests",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.916.title",
+    "value": "Beta Redstone Furnace",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1039.title",
+    "value": "Iron Umbergolem",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1074.title",
+    "value": "Jade Umbergolem",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1082.title",
+    "value": "Mud Umbergolem",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1083.title",
+    "value": "Gold Umbergolem",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1091.title",
+    "value": "Beacon v0.1",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1127.title",
+    "value": "( ( O ) )",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1231.title",
+    "value": "Emperor of Empowerer",
+    "decision": "translate",
+    "reason": "pun with Empowerer preserved"
+  },
+  {
+    "key": "dj2.quest.db.1270.title",
+    "value": "Oxygen & Hydrogen!",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1336.title",
+    "value": "Vibrant Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1337.title",
+    "value": "Energetic Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1341.title",
+    "value": "Flux-Infused JetPlate",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1342.title",
+    "value": "Fluxed Thruster",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1350.title",
+    "value": "Electrical Steel Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1354.title",
+    "value": "Hardened Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1355.title",
+    "value": "Leadstone Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1357.title",
+    "value": "Resonant Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1358.title",
+    "value": "Reinforced Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1367.title",
+    "value": "Dark Soularium Thruster",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1373.title",
+    "value": "Conductive Iron Jetpack",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1377.title",
+    "value": "The Tesseract 2: 1.12.2",
+    "decision": "translate",
+    "reason": "series/version title"
+  },
+  {
+    "key": "dj2.quest.db.1378.title",
+    "value": "Dark Soularium JetPlate",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1413.title",
+    "value": "Mob Imprisonment Tool",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1443.title",
+    "value": "2^3 Spatial Component",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1444.title",
+    "value": "Crafting Unit",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1445.title",
+    "value": "128^3 Spatial Component",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1446.title",
+    "value": "16^3 Spatial Component",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1467.title",
+    "value": "= Necronomicon + 1",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1489.title",
+    "value": "Rune(terra)",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1500.title",
+    "value": "Necronomicon += 1",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1506.title",
+    "value": "BHWOOOOOOOOOHNNNNNN",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1509.title",
+    "value": "Necronominominominomicon",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1540.title",
+    "value": "Gork",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1544.title",
+    "value": "Mork",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1609.title",
+    "value": "[UTILITY] Fey Light",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1704.title",
+    "value": "Ctrl+C Ctrl+V",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1708.title",
+    "value": "enableCommandBlocks=true",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1714.title",
+    "value": "Botanical Brewery",
+    "decision": "keep",
+    "reason": "item/block/mob/material/proper name, formula, code, rune, sound effect, or intentionally encoded/stylized title"
+  },
+  {
+    "key": "dj2.quest.db.1735.title",
+    "value": "Sacrificing Starlight",
+    "decision": "translate",
+    "reason": "prose with Starlight preserved"
+  }
+]

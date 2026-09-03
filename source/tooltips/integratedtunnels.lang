@@ -1,0 +1,3 @@
+# Safe player-facing tooltip/prose candidates.
+general.integratedtunnels.description=Transfer other stuff over Integrated Dynamics networks.
+config.integratedtunnels.modcompat.tooltip=Mod compatibility settings

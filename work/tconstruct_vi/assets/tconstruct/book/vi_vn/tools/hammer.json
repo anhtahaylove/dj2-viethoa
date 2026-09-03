@@ -1,0 +1,21 @@
+{
+  "tool": "hammer",
+  "text": [
+    {
+      "text": "Hammer là một công cụ khai thác diện rộng. Nó khai thác các khối trên một vùng rộng và đặc biệt hiệu quả trước undead."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Đây là lựa chọn tối ưu để khai thác những khu vực lớn và cho các chuyến đào mỏ dài ngày."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Advanced mining tool",
+    "3x3 AOE Mining",
+    "Hiệu quả với Stone và các loại Ore",
+    "Bonus damage against undead"
+  ]
+}

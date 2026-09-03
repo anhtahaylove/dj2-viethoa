@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
+      "path": "assets/betterbuilderswands/lang/en_us.lang"
+    }
+  ]
+}

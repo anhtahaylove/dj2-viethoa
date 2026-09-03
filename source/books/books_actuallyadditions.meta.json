@@ -1,0 +1,10 @@
+{
+  "namespace": "actuallyadditions",
+  "english_locale": "en_US",
+  "jar": "ActuallyAdditions-1.12.2-r152.jar",
+  "paths": [
+    "assets/actuallyadditions/lang/en_US.lang"
+  ],
+  "keys": 325,
+  "sha256": "4aba5d647b62c68823c1563d5329be40086f8f7acd5a1cadea2660e37ddcb046"
+}

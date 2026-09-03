@@ -1,0 +1,569 @@
+{
+  "chapter_index": 20,
+  "title_key": "dj2.quest.ql.20.title",
+  "chapter_title_en": "24. Fly to the Stars!",
+  "desc_key": "dj2.quest.ql.20.desc",
+  "chapter_desc_en": "Blast off with GalactiCraft, and the Laser Focus Multiblock!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.20.title",
+      "en": "24. Fly to the Stars!"
+    },
+    {
+      "key": "dj2.quest.ql.20.desc",
+      "en": "Blast off with GalactiCraft, and the Laser Focus Multiblock!"
+    },
+    {
+      "key": "dj2.quest.db.1.title",
+      "en": "Laser crafting advantages"
+    },
+    {
+      "key": "dj2.quest.db.1.desc",
+      "en": "Now that you have a Laser Focus multiblock, you can craft Mirion Ingots and Empower Actually Additions Crystals significantly faster.%n%nYou may want to set up a separate Laser Focus multiblock specifically for Empowering."
+    },
+    {
+      "key": "dj2.quest.db.339.title",
+      "en": "Heed the Heat"
+    },
+    {
+      "key": "dj2.quest.db.339.desc",
+      "en": "Craft a full set of Thermal Padding armor to defend against the extreme temperatures on Mars! Equip it in your Galacticraft inventory tab."
+    },
+    {
+      "key": "dj2.quest.db.363.title",
+      "en": "More machinery"
+    },
+    {
+      "key": "dj2.quest.db.363.desc",
+      "en": "Now these items could have been crafted before you reached Mars, you didn't need them yet. So once you return, craft 5 Ambient Thermal Controllers and upgrade them later with Martian materials."
+    },
+    {
+      "key": "dj2.quest.db.364.title",
+      "en": "The God of War, the Red Planet"
+    },
+    {
+      "key": "dj2.quest.db.364.desc",
+      "en": "Fly to Mars! Your landing will be softer thanks to the Tier 2 Rocket, so you won't even need to hold Space this time."
+    },
+    {
+      "key": "dj2.quest.db.365.title",
+      "en": "Satellite Foresight"
+    },
+    {
+      "key": "dj2.quest.db.365.desc",
+      "en": "Craft a Satellite Controller and a Communications Dish Card. Then Right Click the Dish Card onto the base of a Communications Dish and the Satellite Controller itself, and power the Controller from the top.%n%nIf the Communications Dish can find a Satellite in orbit, you'll be able to contact it to discover all the planets in order.%n%nOnce you've sent a Satellite into orbit, keep the Controller powered, and check back on it regularly. Maybe it has discovered a planet you can go to!"
+    },
+    {
+      "key": "dj2.quest.db.366.title",
+      "en": "It's the 21st century!"
+    },
+    {
+      "key": "dj2.quest.db.366.desc",
+      "en": "Build a Basic Satellite! You'll need additional infrastructure to send it up into space and contact it..."
+    },
+    {
+      "key": "dj2.quest.db.367.title",
+      "en": "Fabricate, Locate, and Communicate"
+    },
+    {
+      "key": "dj2.quest.db.367.desc",
+      "en": "Craft a Communications Dish. This machine is used to locate Satellites you've launched into space. It is also used as a crafting ingredient."
+    },
+    {
+      "key": "dj2.quest.db.368.title",
+      "en": "Better Plates!"
+    },
+    {
+      "key": "dj2.quest.db.368.desc",
+      "en": "Craft some Tier 2 Heavy-Duty Plates!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nI swear they're better and not just more expensive...! Trust me!"
+    },
+    {
+      "key": "dj2.quest.db.369.title",
+      "en": "Moon Bombardment Beneficiator"
+    },
+    {
+      "key": "dj2.quest.db.369.desc",
+      "en": "Obtain some Meteoric Iron! This is normally done by seeking some Fallen Meteors on the surface of the Moon, however that can be slow and tedious. Because of this, an alternative recipe has been added that you might want to use."
+    },
+    {
+      "key": "dj2.quest.db.370.title",
+      "en": "Process, Compress, but Repossess nonetheless"
+    },
+    {
+      "key": "dj2.quest.db.370.desc",
+      "en": "Craft some Compressed materials. I would recommend setting up separate Compressors for each of the items listed."
+    },
+    {
+      "key": "dj2.quest.db.371.title",
+      "en": "Volume Shrinker"
+    },
+    {
+      "key": "dj2.quest.db.371.desc",
+      "en": "Make a Compressor and immediately upgrade it to an Electric Compressor!%n%nThis machine can make various Compressed and Heavy-Duty materials, and is vital to automate it immediately. It's a bit slow, but you'll be able to craft an extremely fast version of this machine with the Ultimate Compressor, a Modular Machine only available after visiting the Moon. Until then, make a bunch of Electric Compressors and CONSTANTLY keep crafting the requirements for Heavy-Duty Plates. Don't think you can get away with only making Compressors instead of the Electric Compressors, either - they can't be automated!%n%n§6§6Remember that Galacticraft machines only accept power from the side with the green dot!"
+    },
+    {
+      "key": "dj2.quest.db.372.title",
+      "en": "Breathe!"
+    },
+    {
+      "key": "dj2.quest.db.372.desc",
+      "en": "Craft some Heavy Oxygen Tanks! To fill them, place them into the bottom right slot of the Oxygen Compressor. Make sure to equip them in your Galacticraft inventory.%n%nWhen on a planet that lacks Oxygen, a graphic on the top right of your HUD will show up, letting you know how much Oxygen you have left."
+    },
+    {
+      "key": "dj2.quest.db.373.title",
+      "en": "O2"
+    },
+    {
+      "key": "dj2.quest.db.373.desc",
+      "en": "Craft an Oxygen Collector and an Oxygen Compressor.%n%n1. Place the Oxygen Collector near some leaves (these can be natural or placed down), power it through the green dot on the side, and let it collect some Oxygen.%n%n2. Place the Oxygen Compressor on the side with the black dot to transfer the collected Oxygen to it. Power it through its green dot as well.%n%n3. Now you can place an Oxygen Tank in the bottom right slot to fill it up with Oxygen.%n%nYou can also craft an Oxygen Storage Module to store some Oxygen. That way the filling process could be faster."
+    },
+    {
+      "key": "dj2.quest.db.374.title",
+      "en": "My favorite type of Biscuit"
+    },
+    {
+      "key": "dj2.quest.db.374.desc",
+      "en": "Make all 4 types of Galacticraft Wafers that are available at this point.%n%nIt'll become useful if you immediately automate them with one or more Circuit Fabricators."
+    },
+    {
+      "key": "dj2.quest.db.375.title",
+      "en": "What starts as black and becomes yellow after refining?!"
+    },
+    {
+      "key": "dj2.quest.db.375.desc",
+      "en": "Craft a Refinery! You can power it from the top, push Oil in from the left, and pull Fuel out on the right."
+    },
+    {
+      "key": "dj2.quest.db.376.title",
+      "en": "Going Heavy"
+    },
+    {
+      "key": "dj2.quest.db.376.desc",
+      "en": "Make some Compressed Bronze and create your first Heavy-Duty Plates! Since this material will be used a LOT throughout Galacticraft, I highly recommend setting up a separate Compressor for it, and later fully automating it."
+    },
+    {
+      "key": "dj2.quest.db.377.title",
+      "en": "Expanding your reach"
+    },
+    {
+      "key": "dj2.quest.db.377.desc",
+      "en": "Craft a Tier 3 Rocket and obtain the Research Paper for Venus from your Satellite Controller!%n%nThis Tier of Rocket will be capable of bringing you to both Venus AND the Asteroid Belt, the final two Galacticraft dimensions available in the pack. %n%nBefore traveling to Venus, make sure you have all items listed in the Tier 1 Rocket quest. Additionally, you'll need to bring a Bucket and a Fluid container again, as well as your §cIsothermal Armor§f and §cShears§f."
+    },
+    {
+      "key": "dj2.quest.db.378.title",
+      "en": "More Loot! Rockin' it."
+    },
+    {
+      "key": "dj2.quest.db.378.desc",
+      "en": "Use the Tier 2 Dungeon Key you've obtained from the Evolved Creeper Boss to open the final Chest at the end of the Dungeon. You could either find the Schematic for the Automatic Cargo Rocket or the Tier 3 Rocket. You (again) need the latter, and they are (again) convertible into each other."
+    },
+    {
+      "key": "dj2.quest.db.379.title",
+      "en": "Tier 3 Rocket components"
+    },
+    {
+      "key": "dj2.quest.db.379.desc",
+      "en": "Craft all the items listed to the right for a Tier 3 Rocket!"
+    },
+    {
+      "key": "dj2.quest.db.380.title",
+      "en": "Preparing for Venus"
+    },
+    {
+      "key": "dj2.quest.db.380.desc",
+      "en": "Craft a full set of Isothermal Armor! Equipping these in your Galacticraft inventory will make your character immune to extreme heats or extreme colds. Like Venus! Did you know that the surface temperature of Venus is about 475 °C or 900 °F? Yay!"
+    },
+    {
+      "key": "dj2.quest.db.381.title",
+      "en": "Sine and Cosine"
+    },
+    {
+      "key": "dj2.quest.db.381.desc",
+      "en": "Craft a Frequency Module! When equipped in your Galacticraft inventory, you'll be able to hear MUCH better in space. It's also used as a crafting ingredient."
+    },
+    {
+      "key": "dj2.quest.db.382.title",
+      "en": "Fewl"
+    },
+    {
+      "key": "dj2.quest.db.382.desc",
+      "en": "Refine some Oil into Galacticraft Fuel.%n%nAlso craft an Empty Canister and Right Click a container to fill it up with Fuel. Keep this on you, you might need it to return from a planet if something goes wrong. You don't wanna get stranded!"
+    },
+    {
+      "key": "dj2.quest.db.383.title",
+      "en": "Introducing Ecological Collapse"
+    },
+    {
+      "key": "dj2.quest.db.383.desc",
+      "en": "Use your Liquicrafter to create some Oil!%n%nYou'll need 1 Bucket of Actually Additions Empowered Oil, 1 Bucket of Thermal Expansion Tree Oil, and 1 Basic Wafer.%n%nNote: Galacticraft Oil appears as 2 different items in JEI. However both of them can be used for the exact same thing. This is because Galacticraft doesn't actually use the Forge Liquid API like literally every other mod. Wonderful! If your quest isn't completing, then simply place down the Oil and pick it back up to convert it."
+    },
+    {
+      "key": "dj2.quest.db.384.title",
+      "en": "Sapphires go whoosh"
+    },
+    {
+      "key": "dj2.quest.db.384.desc",
+      "en": "Craft a couple Sapphire Accelerators. These are components used for the Tier 2 Rocket."
+    },
+    {
+      "key": "dj2.quest.db.385.title",
+      "en": "Don't be too cheesy"
+    },
+    {
+      "key": "dj2.quest.db.385.desc",
+      "en": "Craft some Cheesy Wafers! Make sure to automate it!"
+    },
+    {
+      "key": "dj2.quest.db.386.title",
+      "en": "Shiny blue rocks! (No, not Diamonds...)"
+    },
+    {
+      "key": "dj2.quest.db.386.desc",
+      "en": "Find some Sapphire Ore underground on the Moon! Or, you know, just use your Quarry."
+    },
+    {
+      "key": "dj2.quest.db.387.title",
+      "en": "Wait WHAT? Aliens?!"
+    },
+    {
+      "key": "dj2.quest.db.387.desc",
+      "en": "Find a red structure poking out on the Martian surface and head down further into its corridors! You'll need some kind of teleportation like Ender Pearls or a Staff of Travelling to get to the final loot room. Loot some Secret Aliens Technology!%n%nThen obtain some Bacterial Sludge from underground. Although the quest only asks for one, you'll need 5 Buckets of it to upgrade your Ambient Thermal Controllers.%n%n§6Note:§r Galacticraft doesn't fully support the Forge liquid system, so there are actually two unique Bacterial Sludge Bucket items. Because of this, this quest has 2 Tasks for the 2 different Buckets, but you only need to complete one of them."
+    },
+    {
+      "key": "dj2.quest.db.388.title",
+      "en": "Emplatification"
+    },
+    {
+      "key": "dj2.quest.db.388.desc",
+      "en": "Craft some Tier 3 Heavy-Duty Plates! They're eeeeeven better than the Tier 2 variants. Hurray!"
+    },
+    {
+      "key": "dj2.quest.db.389.title",
+      "en": "It's always sunny in Phila- I mean on Venus"
+    },
+    {
+      "key": "dj2.quest.db.389.desc",
+      "en": "Loot all 12 Fragments of the Sun from the Treasure Room inside the maze!"
+    },
+    {
+      "key": "dj2.quest.db.390.title",
+      "en": "Weeeeee! (-nus)"
+    },
+    {
+      "key": "dj2.quest.db.390.desc",
+      "en": "Here we are! Venus. What a wonderf- Is that ACID RAIN? ... And why is it so HOT!? Ugh, I hate this place..."
+    },
+    {
+      "key": "dj2.quest.db.391.title",
+      "en": "Put on your workshoes"
+    },
+    {
+      "key": "dj2.quest.db.391.desc",
+      "en": "Craft a couple Single Solar Modules and combine them into a Full Solar Panel. You'll need 24 of the latter for a working Satellite, but as you can automate almost every part of the process (other than the Compressed materials), your ME System will happily do the job for you! Make sure to set up the required automation now. Go!"
+    },
+    {
+      "key": "dj2.quest.db.392.title",
+      "en": "Awww, it isn't made out of cheese?"
+    },
+    {
+      "key": "dj2.quest.db.392.desc",
+      "en": "If you've made all the preparations, enter your Tier 1 Rocket and press Space to launch. Once you reach a high enough altitude, the map of the solar system opens up. Select the Earth and then select the Moon, and press \"Launch\" on the top right.%n%nMake sure to hold spacebar when entering the Moon's orbit, otherwise you'll crash your Rocket. That wouldn't be great now, would it.%n%nYou can recover your Rocket and your Launch Pads after safely landing."
+    },
+    {
+      "key": "dj2.quest.db.393.title",
+      "en": "TO THE MOON!"
+    },
+    {
+      "key": "dj2.quest.db.393.desc",
+      "en": "Craft a Tier 1 Rocket and 9 Rocket Launch Pads. Place down the Launch Pads in a 3x3 formation. If correctly assembled, the central square should pop up a bit. Place the Rocket on top and Fuel it up with your Fuel Loader.%n%n§c§lBUT BEFORE YOU GO!§f%n%nYou need to make sure you can return, otherwise you WILL get stranded on the Moon. Even if you die, you'll respawn on the Moon again. To do this either take your Fuel Loader with you, or bring along some teleportation technology - choose from between EnderIO, Quantum Flux, Mekanism, and Astral Sorcery!%nIf you ever get stuck out in space, /home, /spawn, and /gchouston should all be able to take you back, but they should make you feel like a dirty cheater! >:D%n%nSO READ THIS CHECKLIST BEFORE YOU GO:%n%n1. Have you discovered the Moon in your Planet Progression Telescope? If not, check the previous quests.%n%n2. Fuel up your Rocket to the maximum. (if you are doing the intended route, §cremember to bring the Fuel Loader and a power source with you§f).%n%n3. Make sure you have your full Oxygen apparatus on you. This includes: an Oxygen Mask, an Oxygen Gear, two full Heavy Oxygen Tanks, and a Parachute. If you don't have the Parachute, you'll die upon landing.%n%n4. Bring an additional Filled Fuel Canister and an additional Empty Canister. You might need to move some Fuel around to return.%n%n5. Bring a Dungeon Locator, if you don't want to spend HOURS looking for an underground Dungeon.%n%n6. A Frequency Module is technically optional, but without it you won't be able to hear much of anything on a planet without an atmosphere.%n%n7. Bring some Food, Armor, and Weapons.%n%n8. Bring an RFTools Builder with a Shape Card Quarry, a power source and an inventory to place items into. A Dimensional Transceiver or an Ender Chest is the best option. You'll need a bunch of Ores and Rocks from the Moon, so might as well not do it manually."
+    },
+    {
+      "key": "dj2.quest.db.394.title",
+      "en": "Can't see underground?"
+    },
+    {
+      "key": "dj2.quest.db.394.desc",
+      "en": "Craft a Dungeon Locator! This is normally a tool usable only in Creative mode, but since underground Galacticraft dungeons can be really difficult to find, it's available to craft in this pack. Make good use of it on the Moon, Mars, and Venus."
+    },
+    {
+      "key": "dj2.quest.db.395.title",
+      "en": "Twolescope"
+    },
+    {
+      "key": "dj2.quest.db.395.desc",
+      "en": "Craft a Telescope! This time you'll use it to discover planets, not stars.%n%nOnce your Satellite Controller is done researching, it'll spit out a Moon Research Paper. Put this in the top slot and power the Telescope with a Mekanism Energy Tablet while it does its research! Once it's done, you'll locate the exact position of the Moon and unlock the ability to travel to it!"
+    },
+    {
+      "key": "dj2.quest.db.396.title",
+      "en": "Higher! Yes! Hiiiiiiigheeeeerrr!"
+    },
+    {
+      "key": "dj2.quest.db.396.desc",
+      "en": "Craft two Tier 1 Boosters! This will let you fly farther with your Rockets...!"
+    },
+    {
+      "key": "dj2.quest.db.397.title",
+      "en": "Above Ground Moon Dungeon"
+    },
+    {
+      "key": "dj2.quest.db.397.desc",
+      "en": "Find an Abandoned Moon Facility!%n%nObtain 3 Key Fragments from 3 of its rooms then go down from the center to defeat the Highly Evolved Zombie! Obtain a couple Spacerocks it drops!"
+    },
+    {
+      "key": "dj2.quest.db.398.title",
+      "en": "IT IS MADE OUT OF CHEESE!"
+    },
+    {
+      "key": "dj2.quest.db.398.desc",
+      "en": "Find some Cheese Ore underground on the Moon! Or, you know, just use your Quarry."
+    },
+    {
+      "key": "dj2.quest.db.399.title",
+      "en": "Welcome to 7x7 machines, I hope you'll enjoy your stay!"
+    },
+    {
+      "key": "dj2.quest.db.399.desc",
+      "en": "Make a Circuit Fabricator!%n%nAlthough the quest only asks for one, you might want to make more, for faster speed. You can automatically input items from the top (they'll go into the right slots), and pull the output from the bottom.%n%nIt's also important to note that most Galacticraft machines can ONLY be powered from the left side, where the green dot is. If you automate this with AE2 Autocrafting, make sure to have the Silicon Wafers when you make the pattern in different slots."
+    },
+    {
+      "key": "dj2.quest.db.400.title",
+      "en": "Framing the Stars"
+    },
+    {
+      "key": "dj2.quest.db.400.desc",
+      "en": "Craft some Tough Galactic Plating. I recommend setting up a couple Alloy Smelters with at least Melodic Capacitors to produce them passively, since you'll need a LOT of these going forward.%n%nThen use them and your Galactic Ingots to craft your first Galactic Machine Frame!"
+    },
+    {
+      "key": "dj2.quest.db.401.title",
+      "en": "Flying Space-Observer Constructor"
+    },
+    {
+      "key": "dj2.quest.db.401.desc",
+      "en": "Craft a Satellite Builder! This machine requires power input from the top.%n%nBefore you can visit any of the planets in person, you'll need to locate them, learn their orbit, and plot your trajectory. The Planet Progression mod does exactly this! You'll send up a Satellite into orbit, contact it, and slowly locate each of the available planets in order."
+    },
+    {
+      "key": "dj2.quest.db.402.title",
+      "en": "The brain of the operation"
+    },
+    {
+      "key": "dj2.quest.db.402.desc",
+      "en": "Craft a Basic Satellite Module! The quest only asks for one, but you'll need 6 for a complete Satellite."
+    },
+    {
+      "key": "dj2.quest.db.403.title",
+      "en": "To the red planet! Are there aliens...?"
+    },
+    {
+      "key": "dj2.quest.db.403.desc",
+      "en": "Craft a Tier 2 Rocket in your NASA Workbench and obtain the Research Paper for Mars from your Satellite Controller! Make sure to discover Mars before attempting to travel to it.%n%nBefore you launch, make sure again that everything is alright. If you're doing the intended way, you might want to bring even more fuel, 3 Filled Fuel Canisters will do.%nAdditionally, you'll need at least 1 empty Bucket and a Tank that can store at least 5 Buckets of Liquid. %n%nRead the Tier 1 Rocket quest \"TO THE MOON!\" again if you're unsure if you're missing something."
+    },
+    {
+      "key": "dj2.quest.db.404.title",
+      "en": "Cool Moon Loot. Woot!"
+    },
+    {
+      "key": "dj2.quest.db.404.desc",
+      "en": "Insert the Key into the Tier 1 Dungeon Reward located behind the boss room. This might contain one of two Schematics: The Moon Buggy or the Tier 2 Rocket Schematic. You're looking for the latter, but fortunately even if you were unlucky and got the Moon Buggy Schematic, you can convert it into the one you need by crafting."
+    },
+    {
+      "key": "dj2.quest.db.405.title",
+      "en": "Tier 1 Rocket parts"
+    },
+    {
+      "key": "dj2.quest.db.405.desc",
+      "en": "Craft a Nose Cone, 4 Rocket Fins and a Tier 1 Rocket Engine. These are the main components for a Tier 1 Rocket."
+    },
+    {
+      "key": "dj2.quest.db.406.title",
+      "en": "I'm a Fan of Rockets"
+    },
+    {
+      "key": "dj2.quest.db.406.desc",
+      "en": "Craft an Oxygen Fan and upgrade it to an Oxygen Vent. This is a common component used in Galacticraft Rocket and Machine crafting."
+    },
+    {
+      "key": "dj2.quest.db.407.title",
+      "en": "More expensive than Granny's vases"
+    },
+    {
+      "key": "dj2.quest.db.407.desc",
+      "en": "Craft some Tin and Copper Canisters. These are simple crafting ingredients for some Galacticraft items and machines."
+    },
+    {
+      "key": "dj2.quest.db.408.title",
+      "en": "Venus materials"
+    },
+    {
+      "key": "dj2.quest.db.408.desc",
+      "en": "Obtain some Solar Ore from underground; some Volcanic Rock from around Lava pool, and near (or underneath) Volcanos; and at least 8 Buckets worth of Sulphuric Acid.%n%nThe easiest way to find Sulphuric Acid is to locate Vapor Spout blocks on ground level - a Sulphuric Acid pool will be right below. Alternatively, use the Roots Light Drifter spell and drift underground to spot them.%n%nIf you're low on Sulphuric Acid, you can duplicate the Liquid with some AbyssalCraft Crystallized Sulfur Clusters in the Liquicrafter.%n%n§6Note:§r Galacticraft doesn't fully support the Forge liquid system, so there are actually two unique Sulphuric Acid Bucket items. Because of this, this quest has 2 Tasks for the 2 different Buckets, but you only need to complete one of them."
+    },
+    {
+      "key": "dj2.quest.db.409.title",
+      "en": "RF to Lightning"
+    },
+    {
+      "key": "dj2.quest.db.409.desc",
+      "en": "Enough with the Lightning strikes!%n%nWith the RF Lightning Generator, you can convert RF directly into LE!%nYou can also increase the speed of your Lightningcraft Infusion Multiblock by x5 compared to the base."
+    },
+    {
+      "key": "dj2.quest.db.410.title",
+      "en": "Underground Moon Dungeon"
+    },
+    {
+      "key": "dj2.quest.db.410.desc",
+      "en": "Find an Underground Moon Dungeon, enter it, and get to the end. Defeat the Evolved Skeleton Boss to obtain the Tier 1 Dungeon Key.%n%nIf you have a Dungeon Locator, it will point you to the nearest one, likely saving you a significant amount of time searching."
+    },
+    {
+      "key": "dj2.quest.db.412.title",
+      "en": "Loading..."
+    },
+    {
+      "key": "dj2.quest.db.412.desc",
+      "en": "Craft a Fuel Loader! When placed on the left side of a Launch Pad, and powered from the left, you can fill a Rocket on top of the Launch Pad.%n%nTo insert fuel, you'll need to use the right side, where the Launch Pad is normally. It's simplest to do this with a Phantomface."
+    },
+    {
+      "key": "dj2.quest.db.413.title",
+      "en": "Breathing in space"
+    },
+    {
+      "key": "dj2.quest.db.413.desc",
+      "en": "Craft and equip an Oxygen Mask, an Oxygen Gear, and a Parachute. These will be vital to survive out in space, and vital to come back and land without dying."
+    },
+    {
+      "key": "dj2.quest.db.414.title",
+      "en": "Satellite Flooring"
+    },
+    {
+      "key": "dj2.quest.db.414.desc",
+      "en": "Craft 25 Satellite Launch Pads and assemble them into a 5x5 square. When correctly assembled, the middle square should pop up."
+    },
+    {
+      "key": "dj2.quest.db.415.title",
+      "en": "S-O-L-A-R"
+    },
+    {
+      "key": "dj2.quest.db.415.desc",
+      "en": "Use your Liquicrafter to process the Solar Ores you collected into Empowered Solar Dust and Solar Ingots!"
+    },
+    {
+      "key": "dj2.quest.db.416.title",
+      "en": "Your first Rocket!"
+    },
+    {
+      "key": "dj2.quest.db.416.desc",
+      "en": "Craft a Satellite Rocket! This is what you can use to send a Satellite into space:%n%n1. Place the Satellite Rocket onto the 5x5 Satellite Launch Pad.%n%n2. Place the Fuel Loader on the left of it to load some fuel into it. You'll need to power the Fuel Loader from the left.%n%n3. Right Click the Satellite Rocket and place a Satellite into it.%n%n4. Launch the Satellite Rocket. Your Satellite will be correctly sent into space!%n%n5. Now you can use your Satellite Controller and Communications Dish to connect to the Satellite."
+    },
+    {
+      "key": "dj2.quest.db.417.title",
+      "en": "This job pays well IRL"
+    },
+    {
+      "key": "dj2.quest.db.417.desc",
+      "en": "Make a NASA Workbench! This is used to build all your Rockets. For now, only the Tier 1 Rocket and the Satellite Rocket are available. To unlock more Schematics, you'll need to find them on the Moon, Mars, or Venus. To do so, scroll to the last page, insert the Schematic and press \"Unlock Schematic\".%n%n(If you can't click on the buttons on the left because JEI is interfering, you can press Ctrl+O to disable JEI temporarily. Press it again to re-enable it.)%n%nMost Rockets can have an inventory. Simply insert Chests in the top right when building the Rocket to add some."
+    },
+    {
+      "key": "dj2.quest.db.418.title",
+      "en": "IMA FIRIN' MAH LAZER"
+    },
+    {
+      "key": "dj2.quest.db.418.desc",
+      "en": "Craft all the components for the Laser Focus multiblock listed on the right! You can use larger Input, Output, and Energy input Hatches.%n%nThis machine focuses a laser beam at the input item to plasmafy it, charging it with a LOT of power... Good thing Portions of the Sun can transfer such energy, and Hyperglued Meteoric Casing can sustain it...!%n%nYou'll also need Mekanism Laser Energy, inputted near the tip of the Focus. You can easily convert RF into Mekanism Laser Energy using a Mekanism Laser. To charge the Mekanism Laser Acceptor faster, you can use all 4 sides. To make it EVEN faster, you can combine up to 5 Mekanism Laser beams into 1 stronger one using a Laser Amplifier."
+    },
+    {
+      "key": "dj2.quest.db.419.title",
+      "en": "It makes the Asteroid as strong as possible"
+    },
+    {
+      "key": "dj2.quest.db.419.desc",
+      "en": "Craft a block of Hyperglued Meteoric Casing!%n%nThe central point of this block is very strong and can sustain any sort of pressure..."
+    },
+    {
+      "key": "dj2.quest.db.420.title",
+      "en": "Crafting with Liquids"
+    },
+    {
+      "key": "dj2.quest.db.420.desc",
+      "en": "Obtain the required materials listed on the right, and assemble them into a Liquicrafter Modular Machine multiblock.%n%nYou can use larger Input and Output Hatches, and you can use any kind of Conduit to import liquids and items into the Hatches on the left, and output them from the right.%n%nThis machine can combine liquids and items into other liquids and items, and it'll be used for some recipes from now on.%n%nThe first recipe you'll need it for is Galacticraft Oil, to be able to fuel your Rockets that you want to send to space."
+    },
+    {
+      "key": "dj2.quest.db.421.title",
+      "en": "Quarrying some Desh, Deshing some Quarry"
+    },
+    {
+      "key": "dj2.quest.db.421.desc",
+      "en": "Obtain some Desh Ore from Mars. I recommend quarrying the place again."
+    },
+    {
+      "key": "dj2.quest.db.422.title",
+      "en": "To the Asteroid Belt!"
+    },
+    {
+      "key": "dj2.quest.db.422.desc",
+      "en": "After researching the Asteroid Belt, fly there with your Tier 3 Rocket!%n%nPreparations include the same items as before. You won't need a Fluid container this time."
+    },
+    {
+      "key": "dj2.quest.db.423.title",
+      "en": "To the underground again!"
+    },
+    {
+      "key": "dj2.quest.db.423.desc",
+      "en": "Find an Underground Mars Dungeon, enter it, and get to the end. Defeat the Creeper Boss! You can only do this by reflecting its projectiles back at it, similarly to how you would do to Ghasts in the Nether.%n%nIf you have a Dungeon Locator, it will point you to the nearest one, likely saving you a significant amount of time searching."
+    },
+    {
+      "key": "dj2.quest.db.424.title",
+      "en": "Underground one final time"
+    },
+    {
+      "key": "dj2.quest.db.424.desc",
+      "en": "Locate the underground Venus Dungeon using your Dungeon Locator! Get to the end and defeat the Spider Queen boss! Use some Shears to cut off some of her special string. Make sure to start from the bottom, otherwise you'll destroy the whole stem and get less string at the end.%n%n%n%n%nYou made sure to bring Shears like I told you riiiiiiiiiiiiiiiight...?"
+    },
+    {
+      "key": "dj2.quest.db.425.title",
+      "en": "Parts of it still orbit the Sun to this day..."
+    },
+    {
+      "key": "dj2.quest.db.425.desc",
+      "en": "Find a special Meteor that's lit up from the top and built of unbreakable blue rocks! Head inside and discover that this is actually a Puzzle Meteor. Solve the 4 puzzles inside to gain 4 Key Fragments and head down to defeat the Asteroid Keeper! It drops 5 Chunks of Meteor that Ended the Era of Dinosaurs!"
+    },
+    {
+      "key": "dj2.quest.db.426.title",
+      "en": "Strong, like Titan"
+    },
+    {
+      "key": "dj2.quest.db.426.desc",
+      "en": "Find some Ilmenite Ore in the Asteroids dimension. It's pretty rare but spawns in large veins inside of asteroids. It's best to use a Digital Miner to locate some. Once you obtained some, process the Titanium Shards into Titanium Ingots.%n%nIf you use Silk Touch you get Ilmenite Ore directly, which has a more efficient conversion to Titanium Ingots.%n%nThe quest only asks for 10, but you'll need more eventually, so also set up a Quarry here."
+    },
+    {
+      "key": "dj2.quest.db.427.title",
+      "en": "Beamer presentation"
+    },
+    {
+      "key": "dj2.quest.db.427.desc",
+      "en": "Craft an Energy Beam Reflector and an Energy Beam Receiver to unlock Draconic Evolution Fusion Crafting!"
+    },
+    {
+      "key": "dj2.quest.db.428.title",
+      "en": "Compressor Automation"
+    },
+    {
+      "key": "dj2.quest.db.428.desc",
+      "en": "Craft the required materials listed on the right to build an Ultimate Compressor! It's a MUCH faster variant of any of the base Galacticraft Compressors and it can craft even if the inputs are jammed up in a couple stacks. Woohoo!"
+    },
+    {
+      "key": "dj2.quest.db.429.title",
+      "en": "Up, down, up, down, up, down..."
+    },
+    {
+      "key": "dj2.quest.db.429.desc",
+      "en": "Craft 2 sets of Hydraulic Platforms! Place one in a 2x2 on the ground, and place the other one a couple blocks higher up. You can use this as a fancy elevator!"
+    },
+    {
+      "key": "dj2.quest.db.1402.title",
+      "en": "A-Maze-ing exploration!"
+    },
+    {
+      "key": "dj2.quest.db.1402.desc",
+      "en": "Find the large above ground Venus structure and explore it! You'll need to find the Boss Door Key first, then climb up to the top and defeat the Master Mazescribe, who drops the Treasure Key!%n%nAfterwards, descend back down into the Maze and find the Treasure Room!"
+    }
+  ]
+}

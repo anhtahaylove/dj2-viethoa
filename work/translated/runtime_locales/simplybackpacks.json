@@ -1,0 +1,11 @@
+{
+  "key.simplybackpacks.backpackopen.desc": "Mở Balo",
+  "key.simplybackpacks.backpackpickup.desc": "Bật/Tắt Tự Động Nhặt",
+  "key.simplybackpacks.category": "Simply Backpacks",
+  "simplybackpacks.autopickupdisabled": "Tự Động Nhặt: §cĐã Tắt§r",
+  "simplybackpacks.autopickupenabled": "Tự Động Nhặt: §aĐã Bật§r",
+  "simplybackpacks.metadata": "Metadata",
+  "simplybackpacks.nbtdata": "Thẻ NBT",
+  "simplybackpacks.shift": "Nhấn <§6§oShift§r> để xem thông tin.",
+  "simplybackpacks.whitelist": "Danh sách cho phép"
+}

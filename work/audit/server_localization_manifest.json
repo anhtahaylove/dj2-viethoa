@@ -1,0 +1,151 @@
+{
+  "generated": "2026-08-25T00:02:08.673093",
+  "scope": "player-facing localization only; no registry/progression/recipe changes",
+  "files": [
+    {
+      "path": "scripts/JEI/Excavator.zs",
+      "sha256": "e05b5af5d3b4ee4165f7e1302b13a0431b9b4d5117f81e205251949ed53c9fa1",
+      "bytes": 19539
+    },
+    {
+      "path": "scripts/ContentTweaker/ContentTweakerItems.zs",
+      "sha256": "53cd267eb690f7d8d044881816e72f04dca1fbdd0c11acb3e18575235cd6f626",
+      "bytes": 73508
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/01_divin_into_dj2.txt",
+      "sha256": "f6a53aeeaec47e9ed74b8dc094883664550ce6c1133ee42dde81bd5ca0247a7c",
+      "bytes": 478
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/02_technology.txt",
+      "sha256": "cda610654e727b1b5671e90d29d338343ec66c5e46b835e617ac0bfc79e92cca",
+      "bytes": 447
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/03_root_3.txt",
+      "sha256": "e8b28ed3c643504f0e1ea66702e3ce4a512b8d474154c5c9b64a304c8e0edc06",
+      "bytes": 370
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/04_digital_storage.txt",
+      "sha256": "8432b8804f3320d51cdf32d65e124089ee1cd21e082837f7721bf09d27d347dc",
+      "bytes": 474
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/05_surviving_the_sands.txt",
+      "sha256": "c9563ff7b0ad17cae0c0fcd6a0d677dccb8c236237939100805be48877cbf0b1",
+      "bytes": 439
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/06_no_more_mosquitos.txt",
+      "sha256": "82d7a4fefeec96b4dd173ce1eb02602ce81f22a46858b099a8205c947992b90d",
+      "bytes": 486
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/07_sky_soarer.txt",
+      "sha256": "ff0d0de30cd38a175195787722039affa49567758f15b8eecc9ae052187b02d1",
+      "bytes": 490
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/08_the_big_tech_block.txt",
+      "sha256": "315fce2c2fd4707e87556074aecf2776353f2872240d3b56cae97dcc5c41ccd9",
+      "bytes": 453
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/09_digital_crafting.txt",
+      "sha256": "f3a89001613f25c21acd649413ca37ebab7e0fce9437e0b6199aba323b7f3d9d",
+      "bytes": 478
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/10_dig_dig_dig.txt",
+      "sha256": "1ff2fe9cd38b102f45c9c15366b6699b56c3e8dd012d195d61a82b6eaa79411f",
+      "bytes": 415
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/11_elevating.txt",
+      "sha256": "2c5b6d7a0c150e71552c28b819572ba9772102edc7d77647173ac9d67da2c9a2",
+      "bytes": 502
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/12_autocrafting.txt",
+      "sha256": "161422d69498a57a4064ad72436274e929c782c06f15de70486848db567b1f77",
+      "bytes": 478
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/13_the_big_magic_block.txt",
+      "sha256": "31f01c210f7f01441341f308a7b7273a5239cf34ddb3cf559d37622692833481",
+      "bytes": 438
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/14_manamana.txt",
+      "sha256": "60e36cf77fb6dfbf0955b9f55f7f4613606091c7057b31b7681e2f4ebc3cf749",
+      "bytes": 489
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/15_becoming_a_thaumaturge.txt",
+      "sha256": "6d01e67adc11cdecf4f3135983e9b234ecdae064fed46f5eb945da7704c27e1b",
+      "bytes": 440
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/16_nyahhahahahaaaa.txt",
+      "sha256": "70325b99c1d71a8e185d266591c4c778878c9f1904037dc21b6b72ca7a02b1c3",
+      "bytes": 452
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/17_digital_essentia.txt",
+      "sha256": "e6dcd4654c3c910520eab13712d3da9b20d3cde06bc0c5ea3f08218bf724f927",
+      "bytes": 502
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/18_child_of_zeus.txt",
+      "sha256": "dde3aad7cfea8934601d6e1f16988e5b93382c21353ca3e54cbfb0e2bd58a688",
+      "bytes": 471
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/19_astrology.txt",
+      "sha256": "b4deb47398c56ac2d11289ea505fddc98b7972bad697190cf7e1d787d6362b9b",
+      "bytes": 436
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/20_to_the_skies_and_beyond.txt",
+      "sha256": "489007ca30cf77dab0e7615ce57185ad1fdd3b71ea89b213a93049ad83f31bcc",
+      "bytes": 467
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/21_welcome_to_lategame.txt",
+      "sha256": "28929173e1b50f6c115b46404708f1e5ad3a907d8851bc38bc7bdc472af22d2b",
+      "bytes": 470
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/22_in_my_element.txt",
+      "sha256": "0b98738e42487cfb074d4333760cecb05a18e0a3bbd6fe6dc2e0e351757e8ae3",
+      "bytes": 457
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/23_dimension_hopper.txt",
+      "sha256": "ac4f99c5d9d72bf2fb504edfdfcfc07e7bc3372c07dd266b8f64bba2081021ec",
+      "bytes": 494
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/24_philosophy.txt",
+      "sha256": "77fbf4d1fc617851aa11128b3742f461bc10d3a2c5dbbc4b02207c110b188cbf",
+      "bytes": 447
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/25_discovering_the_meaning_of_life.txt",
+      "sha256": "96ab092e23927cbe57e71f4ffdf2228c8d007be09ef1dd6fc9003c983a61afce",
+      "bytes": 480
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/26_THE_TRUE_ENDING.txt",
+      "sha256": "8d215f824709f22ed5d9c843dd8c68f16058df76fa54b8ef6e8dbac5eb87b711",
+      "bytes": 433
+    },
+    {
+      "path": "config/triumph/script/triumph/dj2/root.txt",
+      "sha256": "8b1f5bfaee2630f0b1c4004e3053f91429a81063facb52d0f766130c4d755fe4",
+      "bytes": 438
+    }
+  ]
+}

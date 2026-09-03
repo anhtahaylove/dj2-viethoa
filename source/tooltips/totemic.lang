@@ -1,0 +1,23 @@
+# Safe player-facing tooltip/prose candidates.
+item.totemic:totemic_staff.tooltip=A staff for your Totemic needs!
+item.totemic:rattle.tooltip=Sneak while playing to use Selector Mode
+item.totemic:eagle_bone_whistle.tooltip=Sneak while playing to use Selector Mode
+item.totemic:medicine_bag.tooltip=Sneak+Right Click on a Totem Pole to set the effect
+item.totemic:nether_pipe.tooltip=Sneak while playing to use Selector Mode
+tile.totemic:cedar_sapling.tooltip=Created through Rite of Spring Ceremony
+tile.totemic:drum.tooltip=Sneak and hit to use Selector Mode
+tile.totemic:wind_chime.tooltip=Sneak and hit to use Selector Mode
+totemic.config.client.tooltip=Options that have no effects on servers
+item.totemic:ceremony_cheat.tooltip1=Use on a Totem Base to instantly
+item.totemic:ceremony_cheat.tooltip2=start up the selected Ceremony
+item.totemic:flute.tooltip0=Sneak while playing to use Selector Mode
+item.totemic:flute.tooltip1=Irresistible to Animals and Villagers
+item.totemic:jingle_dress.tooltip=Has no Selector Mode
+item.totemic:medicine_bag.tooltipCharge=Charge: %d / %d
+item.totemic:medicine_bag.tooltipClosed=Closed
+item.totemic:medicine_bag.tooltipEmpty=Empty
+item.totemic:medicine_bag.tooltipOpen=Open
+item.totemic:totem_whittling_knife.tooltip1=A knife for all your whittlin' needs
+item.totemic:totem_whittling_knife.tooltip2=Sneak+Right Click or Scroll to change carving
+item.totemic:totem_whittling_knife.tooltip3=Currently Carving: %s
+tile.totemic:wooden_pillar.tooltip=Decorative only

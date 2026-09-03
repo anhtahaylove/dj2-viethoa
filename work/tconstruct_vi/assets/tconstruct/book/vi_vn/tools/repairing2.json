@@ -1,0 +1,10 @@
+{
+  "image": {
+    "file": "tconstruct:textures/gui/book/inventory_repair.png"
+  },
+  "text": [
+    {
+      "text": "Chỉ cần lấy Sharpening Kit làm từ vật liệu cần dùng rồi đặt nó cùng công cụ vào lưới chế tạo."
+    }
+  ]
+}

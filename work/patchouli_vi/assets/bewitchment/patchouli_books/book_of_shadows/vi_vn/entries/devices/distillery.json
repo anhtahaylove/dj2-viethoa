@@ -1,0 +1,60 @@
+{
+  "name": "Distillery",
+  "category": "devices",
+  "icon": "bewitchment:distillery",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dùng để tạo ra các loại fumes cao cấp hơn khả năng của riêng Witch’s Oven. Thiết bị này cũng có thể tạo ra một số hợp chất khác. Distillery cần năng lượng phép thuật và phải dùng Blaze Powder làm nhiên liệu."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:distillery"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:cleansing_balm",
+      "text": "Một loại thuốc mỡ có khả năng thanh tẩy"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:demonic_elixir",
+      "text": "Một hỗn hợp ghê tởm thấm đẫm tinh chất quỷ dữ"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:fiery_unguent",
+      "text": "Meme cay nóng có ngay tại đây"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:bottled_frostfire",
+      "text": "Một loại phản-hỏa kỳ lạ, lạnh khi chạm vào. Khi được đặt xuống, nó có thể nung quặng sắt thành Cold Iron nếu ném quặng vào"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:oil_of_vitriol",
+      "text": "Lời chỉ trích cay độc và khắc nghiệt"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:swirl_of_depths",
+      "text": "$(o)Có thể hơi thôi miên"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:heaven_extract",
+      "text": "Đến từ thiên đường"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:stone_ichor",
+      "text": "Hỗn hợp mang hương đất"
+    },
+    {
+      "type": "bewitchment:distillery_recipe",
+      "recipe": "bewitchment:otherworld_tears",
+      "text": "Nếu lắng nghe thật kỹ, bạn có thể nghe thấy tiếng chúng than khóc ~"
+    }
+  ]
+}

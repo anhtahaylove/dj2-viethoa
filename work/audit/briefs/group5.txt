@@ -1,0 +1,541 @@
+### LO: botania_03
+botania.tagline.sparks	Simple and fast short-range Mana transporters
+botania.tagline.spawnerClaw	Power spawners with Mana, even if there's nobody around
+botania.tagline.spawnerMover	The ability to move spawners
+botania.tagline.spectralPlatform	Disguisable platform with no solid body
+botania.tagline.spectrolus	Mana from wool
+botania.tagline.speedUpBelt	Speeds you up the more you walk
+botania.tagline.spellCloth	Cloth that can be combined to with items to remove enchants
+botania.tagline.spreader	Your essential Mana transporter
+botania.tagline.starSword	A sword that calls upon fallen stars
+botania.tagline.starfield	Create a starry sky
+botania.tagline.stoneAlchemy	Create new stone types
+botania.tagline.superCloudPendant	Gives you triple jump
+botania.tagline.superLavaPendant	Full on fire and lava resistance
+botania.tagline.superTravelBelt	Gotta go fast
+botania.tagline.swapRing	Makes one always use the right tool for the job
+botania.tagline.tangleberrie	Keeps mobs in
+botania.tagline.tcIntegration	Tidbits of integration with Thaumcraft
+botania.tagline.temperanceStone	A limiter for the power of a Terra Shatterer   @@KEEP: Terra Shatterer
+botania.tagline.terraAxe	An axe that chops down whole trees. How inspired
+botania.tagline.terraPick	Upgradable pickaxe with large area of effect powers
+botania.tagline.terraSword	A sword that fires a beam that damages mobs
+botania.tagline.terraformRod	A rod to terraform
+botania.tagline.terrasteel	Powerful metal derived from Mana and nature
+botania.tagline.terrasteelArmor	Diamond-tier armor with Manasteel properties
+botania.tagline.teruTeruBozu	Weather control and cuteness overload
+botania.tagline.thermalily	Mana from lava
+botania.tagline.thirdEye	See all the mobs
+botania.tagline.thorRing	Because the Terra Shatterer wasn't strong enough   @@KEEP: Terra Shatterer
+botania.tagline.thornChakram	Throwable vine weapon that bounces and poisons
+botania.tagline.thunderSword	A sword that calls upon thunder
+botania.tagline.tigerseye	Scares and repels creepers
+botania.tagline.tinyPlanet	Send Mana bursts flying around you
+botania.tagline.tinyPotato	A potato friend for all of us
+botania.tagline.tornadoRod	A rod to jump high in the sky
+botania.tagline.travelBelt	Go faster, jump higher and step better
+botania.tagline.turntable	Spin spreaders around
+botania.tagline.tutorial	Get set up quickly
+botania.tagline.unstableBlocks	Fancy accent blocks
+botania.tagline.vinculotus	Intercepts enderman teleportation
+botania.tagline.vineBall	Throwable vines you can climb like ladders
+botania.tagline.virus	Super high powered horses
+botania.tagline.wand	Your essential multitool
+botania.tagline.waterRing	Move super fast underwater
+botania.tagline.waterRod	A rod to create water
+botania.tagline.welcome	Welcome to the Hotel Botania
+botania.tagline.worldSeed	A consumable that returns one to world spawn
+botania.tagline.wrap	It's a wrap
+botania.triggers.manaSpace	Space for Mana
+botania.triggers.runeAltarCanCraft	Altar Can Craft
+botania.versioning.flavour0	NANI SORE!? BOTANIA IS OUTDATED!?
+botania.versioning.flavour1	What do you mean Botania is outdated, you ignorant fool?
+botania.versioning.flavour10	Two hundred updates, that's why they call me Mister Fahrenheit.
+botania.versioning.flavour11	Perry the Platypus, I present to you, Botania-update-inator.
+botania.versioning.flavour12	Botania updated. #hoennconfirmed
+botania.versioning.flavour13	You activated my Trap Card! I play Botania Update!
+botania.versioning.flavour14	Let's play a drinking game, have a drink every time Botania updates. *hic*
+botania.versioning.flavour15	Pay no attention to the Botania update behind the curtain.
+botania.versioning.flavour16	You get an update! You get an update! EVERYONE GETS AN UPDATE!
+botania.versioning.flavour17	Your build's unbalanced and your hair's a Kuriboh! Hey. Hoo.
+botania.versioning.flavour18	WhY iS tHiS uPdAtE mEsSaGe CaSeD lIkE tHiS!?
+botania.versioning.flavour19	By updating botania you must not accept the terms of service.
+botania.versioning.flavour2	It's not like Botania wants to be outdated, b-b-BAKA!
+botania.versioning.flavour20	wow such botania so update much fix very content
+botania.versioning.flavour21	This botania update will self destruct in 3...2...
+botania.versioning.flavour22	There were bugs in botania, but everything changed when the fire nation attacked. Or not.
+botania.versioning.flavour23	Botania updated. On other news, Germany totally bribed the referee.
+botania.versioning.flavour24	Hey! Hey player! Hey player! Hey player hey! Botania update!
+botania.versioning.flavour25	And what do we say to the Botania update?
+botania.versioning.flavour26	And I grabbed the Botania update AND I THREW IT ON THE GROUND! MAAAN!
+botania.versioning.flavour27	If you can break wood with your fists, why don't you update Botania too?
+botania.versioning.flavour28	BotaniaWow! You'll say wow every time! As seen on your chat log!
+botania.versioning.flavour29	Just update it, update it, update it, update it! No one wants to be outdated!
+botania.versioning.flavour3	Beam me up Scotty. We got a new Botania version.
+botania.versioning.flavour30	Botania used Update! It's super effective!
+botania.versioning.flavour31	A new Botania update is available, now 20% cooler.
+botania.versioning.flavour32	Congratulations! You're the 100,000th Botania player with an outdated version, click HERE for a free iPad!
+botania.versioning.flavour33	Before you update your Botania version, would you like to install the ask toolbar?
+botania.versioning.flavour34	Back on the Botania update treadmill. No fun required. #angbadang
+botania.versioning.flavour35	Would you become a Magical Girl for a Botania Update?
+botania.versioning.flavour36	Why did the Botania Update cross the road? To get to the client side.
+botania.versioning.flavour37	Take that old build, watch it burn, sink in the river the updates I learned.
+botania.versioning.flavour38	This new Botania Update fits perfectly in the Super Health Space.
+botania.versioning.flavour39	Introducing the new Botania Update, now with 0% more numbers and GUIs.
+botania.versioning.flavour4	The Botania update asks if you have you accepted Vazkii as your lord and saviour.
+botania.versioning.flavour40	This is my Botania Update. There are many like it but this one is mine.
+botania.versioning.flavour41	What is the air-speed velocity of an unladen Botania Update?
+botania.versioning.flavour42	If you go look in the lang files, this flavour text is #42. That means you should install this Update.
+botania.versioning.flavour43	That's impossible, a Botania Update doesn't break down. It's a portuguese.
+botania.versioning.flavour44	Look at the update, now back at me, now back at the update. There's a download button there, moron.
+botania.versioning.flavour45	No, you can't have fries with your Botania Update.
+botania.versioning.flavour46	You were expecting Botania to be up to date, but it was me, Dio!
+botania.versioning.flavour47	Rumour says if you move the truck there's a Botania Update below it.
+botania.versioning.flavour48	I wonder when Bevo's updating his pack...
+botania.versioning.flavour49	1 Botania Update on the wall, 1 Botania Update on the wall.
+botania.versioning.flavour5	Hey, a Botania update, that's rare, isn't it?
+botania.versioning.flavour50	You notice Botania has updated. It fills you with determination.
+botania.versioning.flavour51	Update your game Sjin!
+botania.versioning.flavour52	Thy lord addeth and thy user updateth away.
+botania.versioning.flavour53	Who wants a Botania Update at 3 in the morning?
+botania.versioning.flavour54	Everybody say: Updating de!
+botania.versioning.flavour55	Thank you for signing up for Update Facts! Botania has updated!
+botania.versioning.flavour56	Update botania, roach boy, support the pyramid =)
+botania.versioning.flavour57	gr8 b8 m8 here's an upd8
+botania.versioning.flavour58	The power of the update compels you!
+botania.versioning.flavour59	NICOLO BREADMUND GIVE UPDATE
+botania.versioning.flavour6	What does the scouter say about the Botania update?
+botania.versioning.flavour60	Botania Updates. They do what they must, because they can.
+botania.versioning.flavour61	Update me! Update me! Update me Seymore!
+botania.versioning.flavour62	Nine out of ten doctors recommend you update Botania.
+botania.versioning.flavour63	The update bacons at midnight.
+botania.versioning.flavour64	A new Botania Update is out. And it's name is JOHN CENA! DOO DOO DOO DOO
+botania.versioning.flavour7	Oi mate, there's a new Botania update. Why am I australian?
+botania.versioning.flavour8	Because having a life is too mainstream, here's a Botania update.
+botania.versioning.flavour9	Thank you based Botania update.
+botania.versioning.outdated	You are running Botania build %s, the latest is build %s.
+
+### LO: extrautils2_02
+extrautils2.text.requires.an.active.rainbow.generator	[Requires an active Rainbow Generator]   @@KEEP: Generator
+extrautils2.text.requires.enchantment.level.to.craft	Requires 1 enchantment level to craft
+extrautils2.text.requires.gp.proportional.to.the.distance	Requires GP, proportional to the distance covered by the portal.
+extrautils2.text.requires.rf.transmitters.to.send	Requires RF transmitters to send energy
+extrautils2.text.requires.s.enchantment.levels.to	Requires %s enchantment levels to craft
+extrautils2.text.requires.s.gp	Requires: %s GP
+extrautils2.text.right.click.soil.with.a.drop.of.evil	Right click soil with a drop of evil.
+extrautils2.text.right.click.soil.with.x.drop.of.evil	Right click soil with x drop of evil.
+extrautils2.text.s.absorbed.into.cursed.lasso	%s absorbed into cursed lasso
+extrautils2.text.s.generators.are.missing	%s generators are missing:
+extrautils2.text.s.generators.are.not.running	%s generators are not running:
+extrautils2.text.s.got.revenge.on.nemesis.s	%s got revenge on nemesis %s
+extrautils2.text.s.got.revenge.on.s	%s got revenge on %s
+extrautils2.text.s.gp.to.s.gp.s	%s GP to %s GP: %s
+extrautils2.text.s.has.too.much.health.s.hearts.reduce	%s has too much health (%s hearts). Reduce to %s hearts.
+extrautils2.text.s.is.a.hostile.mob	%s is a hostile mob.
+extrautils2.text.s.is.dominating.s	%s is dominating %s
+extrautils2.text.s.is.not.a.hostile.mob	%s is not a hostile mob.
+extrautils2.text.s.is.not.x.hostile.mob	%s is not x hostile mob.
+extrautils2.text.s.is.too.busy.attacking.someone	%s is too busy attacking someone.
+extrautils2.text.s.is.too.powerful	%s is too powerful.
+extrautils2.text.s.is.x.hostile.mob	%s is x hostile mob.
+extrautils2.text.s.of.s.mb	%s of %s MB
+extrautils2.text.s.s.rf	%s / %s RF
+extrautils2.text.s.x.s	%s x %s
+extrautils2.text.s.x.s.s.gp	%s x %s: %s GP
+extrautils2.text.scanning.s.s.s	Scanning: [%s, %s, %s]
+extrautils2.text.see.the.extra.utilities.manual.for	See the Extra Utilities 2 Manual for more info   @@KEEP: Extra Utilities 2 Manual
+extrautils2.text.select.players.to.share.power.with	Select players to share power with.
+extrautils2.text.select.screen.display.image	Select Screen Display Image
+extrautils2.text.select.which.properties.are.allowed	Select which properties are allowed
+extrautils2.text.sending.s.rf.energy.per.tick	Sending %s RF energy per tick
+extrautils2.text.serving.s.tiles	Serving %s tiles
+extrautils2.text.set.to.current.block	Set to Current Block
+extrautils2.text.shiftrightclick.with.an.empty.hand	Shift-right-click with an empty hand to pick up.
+extrautils2.text.signifies.the.current.value.of.the	[] signifies the current value of the property
+extrautils2.text.small.enough.to.fit.between.blocks	Small enough to fit between blocks
+extrautils2.text.sneakrightclick.to.release.soul	Sneak-right-click to release soul.
+extrautils2.text.sourcefull.water.blocks.do.not.count	Source/full water blocks do not count.
+extrautils2.text.stabby.stabby.stab	Stabby stabby stab!.
+extrautils2.text.stored.energy.battery.s.s.rf	Stored Energy (Battery): %s / %s RF
+extrautils2.text.stored.energy.total.s.s.rf	Stored Energy (Total): %s / %s RF
+extrautils2.text.stores.rf.energy.for.wireless.transmission	Stores RF energy for wireless transmission
+extrautils2.text.tank.s.s	Tank: %s / %s
+extrautils2.text.the.generator.spectrum.is.complete	The Generator Spectrum is complete!   @@KEEP: Generator
+extrautils2.text.the.higher.the.level.the.more.gp	The higher the level, the more GP.
+extrautils2.text.the.remote.block.changes.once.per	The remote block changes once per second.
+extrautils2.text.the.snow.globe.has.gathered.enough	The snow globe has gathered enough information about our world and is now active.
+extrautils2.text.the.specter.of.death.will.arrive	The Specter of Death will arrive in %s seconds.
+extrautils2.text.thinner.than.the.thinnest.of.pancakes	Thinner than the thinnest of pancakes.
+extrautils2.text.this.ingot.is.highly.unstable.and	This ingot is highly unstable and will explode after 10 seconds.
+extrautils2.text.this.world.is.filled.with.such.life	This world is filled with such life and beauty. Let's go destroy it all.
+extrautils2.text.time.for.death.and.destruction	Time for death and destruction?
+extrautils2.text.to.activate.this.globe.it.must.travel	To activate this globe, it must travel to any %s of the following biome types:
+extrautils2.text.transform.time.s	Transform Time: %s
+extrautils2.text.transmits.rf.energy.from.batteries	Transmits RF energy from batteries to nearby blocks
+extrautils2.text.truly.a.weapon.for.madmen.who.else	"Truly, a weapon for madmen. Who else would attack fire with a blade?"
+extrautils2.text.unable.to.contact.indexer	Unable to contact indexer
+extrautils2.text.unable.to.find.any.ingredients	Unable to find any ingredients
+extrautils2.text.unable.to.place.mob	Unable to place mob.
+extrautils2.text.use.the.gui.to.specify.a.range.of	Use the GUI to specify a range of blocks from which the remote block is chosen.
+extrautils2.text.use.the.rf.energy.stored.in.wireless	Use the RF energy stored in wireless batteries to create heat
+extrautils2.text.uses.s.gp	Uses %s GP
+extrautils2.text.uses.s.rf.to.create.s.seconds.of	Uses %s RF to create %s seconds of burn time.
+extrautils2.text.uses.s.rf.to.create.s.ticks.of.burn	Uses %s RF to create %s ticks of burn time.
+extrautils2.text.when.all.other.generators.are.creating	When all other generators are creating power, taste the unlimited power of the rainbow
+extrautils2.text.will.also.explode.if.the.crafting	Will also explode if the crafting window is closed or the ingot is thrown on the ground.
+extrautils2.text.x.s.y.s.z.s	x = %s, y = %s, z = %s
+extrautils2.text.you.can.either.hold.the.globe.in	You can either hold the globe in your inventory or throw it on the ground.
+extrautils2.text.you.feel.your.luck.changing	You feel your luck changing
+key.xu2.searchforitems	Search Nearby Inventories for Item
+lingering_potion.effect.oily	Oily Lingering Potion
+lingering_potion.effect.xu2.doom	Lingering Potion of Doom
+lingering_potion.effect.xu2.fizzy.lifting	Lingering Potion of Fizzy Lifting
+lingering_potion.effect.xu2.gravity	Lingering Potion of Gravity
+lingering_potion.effect.xu2.gravity.long	Lingering Potion of Gravity
+lingering_potion.effect.xu2.greek.fire	Lingering Potion of Greek Fire
+lingering_potion.effect.xu2.love	Lingering Potion of Love
+lingering_potion.effect.xu2.purging	Lingering Potion of Purging
+lingering_potion.effect.xu2.relapse	Lingering Potion of Relapse
+lingering_potion.effect.xu2.second.chance	Lingering Potion of Second Chance
+machine.extrautils2:generator_redstone	Heated Redstone Generator   @@KEEP: Generator
+modifier.brittle.desc	Has a random chance of breaking when it takes damage. Can break 'unbreakable' tools.
+modifier.magical_modifier.desc	Adds 3 extra modifiers to a tool
+modifier.xu_whispering.desc	Will occasionally whisper it's will to you
+modifier.xu_withering.desc	When held, creates an aura of evil that brings misfortune to the wielder.
+modifier.xu_xp_boost.desc	Gives bonus XP when mining or slaying mobs.
+splash_potion.effect.oily	Oily Splash Potion
+splash_potion.effect.xu2.doom	Splash Potion of Doom
+splash_potion.effect.xu2.fizzy.lifting	Splash Potion of Fizzy Lifting
+splash_potion.effect.xu2.gravity	Splash Potion of Gravity
+splash_potion.effect.xu2.gravity.long	Splash Potion of Gravity
+splash_potion.effect.xu2.greek.fire	Splash Potion of Greek Fire
+splash_potion.effect.xu2.love	Splash Potion of Love
+splash_potion.effect.xu2.purging	Splash Potion of Purging
+splash_potion.effect.xu2.relapse	Splash Potion of Relapse
+splash_potion.effect.xu2.second.chance	Splash Potion of Second Chance
+tipped_arrow.effect.xu2.doom	Arrow of Doom
+tipped_arrow.effect.xu2.fizzy.lifting	Arrow of Fizzy Lifting
+tipped_arrow.effect.xu2.gravity	Arrow of Gravity
+tipped_arrow.effect.xu2.gravity.long	Arrow of Gravity
+tipped_arrow.effect.xu2.greek.fire	Arrow of Greek Fire
+tipped_arrow.effect.xu2.love	Arrow of Love
+tipped_arrow.effect.xu2.purging	Arrow of Purging
+tipped_arrow.effect.xu2.relapse	Arrow of Relapse
+tipped_arrow.effect.xu2.second.chance	Arrow of Second Chance
+villager.contract	I, "Villager No. %s",\nalso known as "%s",\n\nbeing of sound mind and body, do agree to allow my physical, spiritual and/or mental essences to be bound to x physical object, and to use any skills that I may currently possess to provide useful service to "%s". I agree that my essence shall remain bound to the physical object until either\n\n1. The object is destroyed\n2. The universe ends\n3. The very concept of time and/or entropy is destroyed or rendered untenable\n4. I get bored of standing around in limbo making weird noises, and float away to the next life (which is unlikely since I like making weird noises).\n\nSigned  ______________
+villager.response.deal.10	"Well, it'll pay the bills."
+villager.response.deal.11	"I could never say no to x villager with such x small nose."
+villager.response.deal.12	"You seem trustworthy!"
+villager.response.deal.13	"This is x good deal!"
+villager.response.deal.14	"You have excellent penmanship! It's x deal!"
+
+### LO: integratedtunnels_02
+aspect.aspects.integratedtunnels.write.itemstack.player.click.info	Click with the given item.
+aspect.aspects.integratedtunnels.write.itemstack.world.entity.item.export.info	Export the given items to the facing entities.
+aspect.aspects.integratedtunnels.write.itemstack.world.entity.item.export.name	Export Item To Entities
+aspect.aspects.integratedtunnels.write.itemstack.world.entity.item.import.info	Import the given items from the facing entities.
+aspect.aspects.integratedtunnels.write.itemstack.world.entity.item.import.name	Import Item From Entities
+aspect.aspects.integratedtunnels.write.itemstack.world.entityitem.export.info	Place the item into the world.
+aspect.aspects.integratedtunnels.write.itemstack.world.entityitem.export.name	Place Item Entity
+aspect.aspects.integratedtunnels.write.itemstack.world.entityitem.import.info	Pick up the item from the world.
+aspect.aspects.integratedtunnels.write.itemstack.world.entityitem.import.name	Pick Up Item Entity
+aspect.aspects.integratedtunnels.write.itemstack.world.item.block.export.info	Place the item block in the world.
+aspect.aspects.integratedtunnels.write.itemstack.world.item.block.export.name	Place Item Block
+aspect.aspects.integratedtunnels.write.itemstack.world.item.block.import.info	Pick up the item block in the world.
+aspect.aspects.integratedtunnels.write.itemstack.world.item.block.import.name	Pick Up Item Block
+aspect.aspects.integratedtunnels.write.list.fluid.export.info	Export the given fluids.
+aspect.aspects.integratedtunnels.write.list.fluid.import.info	Import the given fluids.
+aspect.aspects.integratedtunnels.write.list.item.export.info	Export the given items.
+aspect.aspects.integratedtunnels.write.list.item.import.info	Import the given items.
+aspect.aspects.integratedtunnels.write.list.player.click.info	Click with the given items.
+aspect.aspects.integratedtunnels.write.list.world.block.block.export.info	Place the given blocks in the world.
+aspect.aspects.integratedtunnels.write.list.world.block.block.import.info	Pick up the given blocks in the world.
+aspect.aspects.integratedtunnels.write.list.world.block.block.import.name	Pick Up Blocks
+aspect.aspects.integratedtunnels.write.list.world.entity.fluid.export.info	Export the given fluid to the facing entities.
+aspect.aspects.integratedtunnels.write.list.world.entity.fluid.export.name	Export Fluid To Entities
+aspect.aspects.integratedtunnels.write.list.world.entity.fluid.import.info	Import the given fluid from the facing entities.
+aspect.aspects.integratedtunnels.write.list.world.entity.fluid.import.name	Import Fluid From Entities
+aspect.aspects.integratedtunnels.write.list.world.entity.item.export.info	Export the given items to the facing entities.
+aspect.aspects.integratedtunnels.write.list.world.entity.item.export.name	Export Items To Entities
+aspect.aspects.integratedtunnels.write.list.world.entity.item.import.info	Import the given items from the facing entities.
+aspect.aspects.integratedtunnels.write.list.world.entity.item.import.name	Import Items From Entities
+aspect.aspects.integratedtunnels.write.list.world.entityitem.export.info	Place the given items into the world.
+aspect.aspects.integratedtunnels.write.list.world.entityitem.export.name	Place Item Entities
+aspect.aspects.integratedtunnels.write.list.world.entityitem.import.info	Pick up the given items from the world.
+aspect.aspects.integratedtunnels.write.list.world.entityitem.import.name	Pick Up Item Entities
+aspect.aspects.integratedtunnels.write.list.world.fluid.export.info	Place the given fluids in the world.
+aspect.aspects.integratedtunnels.write.list.world.fluid.import.info	Pick up the given fluids in the world.
+aspect.aspects.integratedtunnels.write.list.world.fluid.import.name	Pick Up Fluids
+aspect.aspects.integratedtunnels.write.list.world.item.block.export.info	Place the given item blocks in the world.
+aspect.aspects.integratedtunnels.write.list.world.item.block.export.name	Place Item Blocks
+aspect.aspects.integratedtunnels.write.list.world.item.block.import.info	Pick up the given item blocks in the world.
+aspect.aspects.integratedtunnels.write.list.world.item.block.import.name	Pick Up Item Blocks
+aspect.aspects.integratedtunnels.write.nbt.fluid.export.info	Export all fluids that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.fluid.export.name	Export Fluids NBT
+aspect.aspects.integratedtunnels.write.nbt.fluid.import.info	Import all fluids that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.fluid.import.name	Import Fluids NBT
+aspect.aspects.integratedtunnels.write.nbt.item.export.info	Export all items that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.item.export.name	Export Items NBT
+aspect.aspects.integratedtunnels.write.nbt.item.import.info	Import all items that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.item.import.name	Import Items NBT
+aspect.aspects.integratedtunnels.write.nbt.player.click.info	Click with the items that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.player.click.name	Click Item NBT
+aspect.aspects.integratedtunnels.write.nbt.world.block.block.export.info	Place the blocks in the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.block.block.export.name	Place Blocks NBT
+aspect.aspects.integratedtunnels.write.nbt.world.block.block.import.info	Pick up the blocks in the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.block.block.import.name	Pick Up Blocks NBT
+aspect.aspects.integratedtunnels.write.nbt.world.entity.fluid.export.info	Export all fluid that match the given NBT tag to the facing entities.
+aspect.aspects.integratedtunnels.write.nbt.world.entity.fluid.export.name	Export Fluid NBT To Entities
+aspect.aspects.integratedtunnels.write.nbt.world.entity.fluid.import.info	Import all fluid that match the given NBT tag from the facing entities.
+aspect.aspects.integratedtunnels.write.nbt.world.entity.fluid.import.name	Import Fluid NBT From Entities
+aspect.aspects.integratedtunnels.write.nbt.world.entity.item.export.info	Export all items that match the given NBT tag to the facing entities.
+aspect.aspects.integratedtunnels.write.nbt.world.entity.item.export.name	Export Items NBT To Entities
+aspect.aspects.integratedtunnels.write.nbt.world.entity.item.import.info	Import all items that match the given NBT tag from the facing entities.
+aspect.aspects.integratedtunnels.write.nbt.world.entity.item.import.name	Import Items NBT From Entities
+aspect.aspects.integratedtunnels.write.nbt.world.entityitem.export.info	Place the item entities into the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.entityitem.export.name	Place Item Entities NBT
+aspect.aspects.integratedtunnels.write.nbt.world.entityitem.import.info	Pick up the item entities from the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.entityitem.import.name	Pick Up Item Entities NBT
+aspect.aspects.integratedtunnels.write.nbt.world.fluid.export.info	Place the given fluids in the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.fluid.export.name	Place Fluids NBT
+aspect.aspects.integratedtunnels.write.nbt.world.fluid.import.info	Pick up the given fluids in the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.fluid.import.name	Pick Up Fluids NBT
+aspect.aspects.integratedtunnels.write.nbt.world.item.block.export.info	Place the item blocks in the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.item.block.export.name	Place Item Blocks NBT
+aspect.aspects.integratedtunnels.write.nbt.world.item.block.import.info	Pick up the item blocks in the world that match the given NBT tag.
+aspect.aspects.integratedtunnels.write.nbt.world.item.block.import.name	Pick Up Item Blocks NBT
+aspect.aspects.integratedtunnels.write.operator.fluid.export.info	Export all fluids that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.fluid.export.name	Export Fluids Predicate
+aspect.aspects.integratedtunnels.write.operator.fluid.import.info	Import all fluids that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.fluid.import.name	Import Fluids Predicate
+aspect.aspects.integratedtunnels.write.operator.item.export.info	Export all items that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.item.export.name	Export Items Predicate
+aspect.aspects.integratedtunnels.write.operator.item.import.info	Import all items that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.item.import.name	Import Items Predicate
+aspect.aspects.integratedtunnels.write.operator.player.click.info	Click with the items that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.player.click.name	Click Item Predicate
+
+### LO: integratedtunnels_03
+aspect.aspects.integratedtunnels.write.operator.world.block.block.export.info	Place the blocks in the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.block.block.export.name	Place Blocks Predicate
+aspect.aspects.integratedtunnels.write.operator.world.block.block.import.info	Pick up the blocks in the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.block.block.import.name	Pick Up Blocks Predicate
+aspect.aspects.integratedtunnels.write.operator.world.entity.fluid.export.info	Export all fluid that match the given predicate to the facing entities.
+aspect.aspects.integratedtunnels.write.operator.world.entity.fluid.export.name	Export Fluid Predicate To Entities
+aspect.aspects.integratedtunnels.write.operator.world.entity.fluid.import.info	Import all fluid that match the given predicate from the facing entities.
+aspect.aspects.integratedtunnels.write.operator.world.entity.fluid.import.name	Import Fluid Predicate From Entities
+aspect.aspects.integratedtunnels.write.operator.world.entity.item.export.info	Export all items that match the given predicate to the facing entities.
+aspect.aspects.integratedtunnels.write.operator.world.entity.item.export.name	Export Items Predicate To Entities
+aspect.aspects.integratedtunnels.write.operator.world.entity.item.import.info	Import all items that match the given predicate from the facing entities.
+aspect.aspects.integratedtunnels.write.operator.world.entity.item.import.name	Import Items Predicate From Entities
+aspect.aspects.integratedtunnels.write.operator.world.entityitem.export.info	Place the item entities into the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.entityitem.export.name	Place Item Entities Predicate
+aspect.aspects.integratedtunnels.write.operator.world.entityitem.import.info	Pick up the item entities from the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.entityitem.import.name	Pick Up Item Entities Predicate
+aspect.aspects.integratedtunnels.write.operator.world.fluid.export.info	Place the given fluids in the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.fluid.export.name	Place Fluids Predicate
+aspect.aspects.integratedtunnels.write.operator.world.fluid.import.info	Pick up the given fluids in the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.fluid.import.name	Pick Up Fluids Predicate
+aspect.aspects.integratedtunnels.write.operator.world.item.block.export.info	Place the item blocks in the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.item.block.export.name	Place Item Blocks Predicate
+aspect.aspects.integratedtunnels.write.operator.world.item.block.import.info	Pick up the item blocks in the world that match the given predicate.
+aspect.aspects.integratedtunnels.write.operator.world.item.block.import.name	Pick Up Item Blocks Predicate
+aspect.aspecttypes.integratedtunnels.boolean.blacklist.info	If everything except for items in the given list must be handled.
+aspect.aspecttypes.integratedtunnels.boolean.craft.info	If the instance should be crafted if it is not present in the network.
+aspect.aspecttypes.integratedtunnels.boolean.emptyisany.info	If an empty value matches with everything, otherwise nothing matches.
+aspect.aspecttypes.integratedtunnels.boolean.emptyisany.name	Empty is Wildcard
+aspect.aspecttypes.integratedtunnels.boolean.exactamount.info	If only the exact given amount is allowed to be moved, not less.
+aspect.aspecttypes.integratedtunnels.boolean.fluid.checkamount.name	Check Fluid Amount
+aspect.aspecttypes.integratedtunnels.boolean.fluid.nbtrecursive.info	If nested NBT tags and list should be checked recursively
+aspect.aspecttypes.integratedtunnels.boolean.fluid.nbtrecursive.name	Check NBT Recursively
+aspect.aspecttypes.integratedtunnels.boolean.fluid.nbtrequire.info	If true, all fluids without NBT tag will not be matched.
+aspect.aspecttypes.integratedtunnels.boolean.fluid.nbtrequire.name	Require Fluid NBT
+aspect.aspecttypes.integratedtunnels.boolean.fluid.nbtsubset.info	If the given NBT tag must be a subset of the fluid NBT tag.
+aspect.aspecttypes.integratedtunnels.boolean.fluid.nbtsuperset.info	If the given NBT tag must be a superset of the fluid NBT tag.
+aspect.aspecttypes.integratedtunnels.boolean.item.checkstacksize.name	Check Stack Size
+aspect.aspecttypes.integratedtunnels.boolean.item.nbtrecursive.info	If nested NBT tags and list should be checked recursively
+aspect.aspecttypes.integratedtunnels.boolean.item.nbtrecursive.name	Check NBT Recursively
+aspect.aspecttypes.integratedtunnels.boolean.item.nbtrequire.info	If true, all items without NBT tag will not be matched.
+aspect.aspecttypes.integratedtunnels.boolean.item.nbtrequire.name	Require Item NBT
+aspect.aspecttypes.integratedtunnels.boolean.item.nbtsubset.info	If the given NBT tag must be a subset of the item NBT tag.
+aspect.aspecttypes.integratedtunnels.boolean.item.nbtsuperset.info	If the given NBT tag must be a superset of the item NBT tag.
+aspect.aspecttypes.integratedtunnels.boolean.player.continuousclick.info	If a continuous click must be simulated, otherwise each click takes one tick.
+aspect.aspecttypes.integratedtunnels.boolean.player.sneak.info	If player sneaking (holding shift) must be simulated.
+aspect.aspecttypes.integratedtunnels.boolean.roundrobin.info	If interfaces should be iterated in circular order, ignoring priorities.
+aspect.aspecttypes.integratedtunnels.boolean.world.blockupdate.name	Cause Block Update
+aspect.aspecttypes.integratedtunnels.boolean.world.breaknodrops.info	If the block should only be broken if it produces drops.
+aspect.aspecttypes.integratedtunnels.boolean.world.breaknodrops.name	Break Block When No Drops
+aspect.aspecttypes.integratedtunnels.boolean.world.delaybeforepickup.name	Pickup Delay (ticks)
+aspect.aspecttypes.integratedtunnels.boolean.world.ignorepickupdelay.name	Ignore Pickup Delay
+aspect.aspecttypes.integratedtunnels.double.world.offsetx.info	Value between 0 and 1.
+aspect.aspecttypes.integratedtunnels.double.world.offsety.info	Value between 0 and 1.
+aspect.aspecttypes.integratedtunnels.double.world.offsetz.info	Value between 0 and 1.
+aspect.aspecttypes.integratedtunnels.double.world.pitch.info	Up/down rotation between -180 to 180 degrees.
+aspect.aspecttypes.integratedtunnels.double.world.velocity.info	Entity speed, value between 0 and 25.
+aspect.aspecttypes.integratedtunnels.double.world.yaw.info	Left/right rotation between -180 to 180 degrees.
+aspect.aspecttypes.integratedtunnels.integer.energy.rate.name	Energy Transfer Rate
+aspect.aspecttypes.integratedtunnels.integer.entityindex.info	The n-th entity that will be picked. -1 will always pick a random entity.
+aspect.aspecttypes.integratedtunnels.integer.fluid.rate.name	Fluid Transfer Rate
+aspect.aspecttypes.integratedtunnels.integer.item.rate.name	Item Transfer Rate
+config.integratedtunnels.general.analytics	Send anonymous analytics
+config.integratedtunnels.general.crashOnInvalidRecipe	Crash on invalid Recipe
+config.integratedtunnels.general.crashOnModCompatCrash	Crash on Compatibility issue
+config.integratedtunnels.general.exporterEnergyBaseConsumption	Energy exporter base consumption
+config.integratedtunnels.general.exporterFluidBaseConsumption	Fluid exporter base consumption
+config.integratedtunnels.general.exporterItemBaseConsumption	Item exporter base consumption
+config.integratedtunnels.general.exporterWorldBlockBaseConsumptionDisabled	World block exporter base consumption (disabled)
+config.integratedtunnels.general.exporterWorldBlockBaseConsumptionEnabled	World block exporter base consumption (enabled)
+config.integratedtunnels.general.exporterWorldEnergyBaseConsumptionDisabled	World energy exporter base consumption (disabled)
+config.integratedtunnels.general.exporterWorldEnergyBaseConsumptionEnabled	World energy exporter base consumption (enabled)
+config.integratedtunnels.general.exporterWorldFluidBaseConsumptionDisabled	World fluid exporter base consumption (disabled)
+config.integratedtunnels.general.exporterWorldFluidBaseConsumptionEnabled	World fluid exporter base consumption (enabled)
+config.integratedtunnels.general.exporterWorldItemBaseConsumptionDisabled	World item exporter base consumption (disabled)
+config.integratedtunnels.general.exporterWorldItemBaseConsumptionEnabled	World item exporter base consumption (enabled)
+config.integratedtunnels.general.importerEnergyBaseConsumption	Energy importer base consumption
+config.integratedtunnels.general.importerFluidBaseConsumption	Fluid importer base consumption
+config.integratedtunnels.general.importerItemBaseConsumption	Item importer base consumption
+config.integratedtunnels.general.importerWorldBlockBaseConsumptionDisabled	World block importer base consumption (disabled)
+
+### LO: extrautils2_03
+villager.response.deal.16	"I'd be x fool not to sign!"
+villager.response.deal.17	"I will sign your petition!"
+villager.response.deal.18	"You sir, have got x deal."
+villager.response.deal.19	"Beats my old apartment."
+villager.response.deal.20	"I trust your face!"
+villager.response.deal.21	"What are friends for?"
+villager.response.deal.22	"My horoscope said this was x good idea!"
+villager.response.deal.23	"Wow! This is the deal of x lifetime!"
+villager.response.deal.24	"You seem nice!"
+villager.response.deal.25	"I like signing things!"
+villager.response.deal.26	"I really need x job."
+villager.response.deal.27	"I can think of no downside to this."
+villager.response.deal.28	"I guess it's something to do."
+villager.response.deal.3	"It's x deal!"
+villager.response.deal.4	"Free room and board? Sign me up!"
+villager.response.deal.5	"Sounds great! When do I start?"
+villager.response.deal.6	"This is the best deal I've ever heard!"
+villager.response.deal.7	"Meh, it's not like I was doing anything with my soul. Okay!"
+villager.response.deal.9	"Let's do this thing!"
+villager.response.no_deal.0	"Go away bad man!"
+villager.response.no_deal.1	"NO NOTCH! NO NOTCH PLEASE NO! NOOOOOOO!"
+villager.response.no_deal.11	"Sorry I already owe my soul to Villager Student Loans (ltd)"
+villager.response.no_deal.12	"What is that mouse cursor doing? Also No!"
+villager.response.no_deal.16	"Yes! wait, I mean the other one... No!"
+villager.response.no_deal.18	"Sure, why not? I mean apart from.. wait... NO!"
+villager.response.no_deal.19	"I don't trust your face!"
+villager.response.no_deal.20	"Your eyes are too shifty, and your nose is too small!"
+villager.response.no_deal.21	"You're x witch!"
+villager.response.no_deal.22	"Move along sir!"
+villager.response.no_deal.25	"I have to go to the bathroom."
+villager.response.no_deal.26	"That paper is evil!"
+villager.response.no_deal.27	"I'm sorry, but that paper is too rectangular."
+villager.response.no_deal.28	"I'm sorry, but no"
+villager.response.no_deal.29	"Thanks... but no thanks."
+villager.response.no_deal.3	"No thank you."
+villager.response.no_deal.30	"You are shady!"
+villager.response.no_deal.4	"My villager parents warned me about paper."
+villager.response.no_deal.5	"Thanks but no thanks but no but really no but go away weirdo."
+villager.response.no_deal.9	"umm... I must go... I left my fridge."
+villager.response.trade_first.0	"Trade with me first."
+villager.response.trade_first.1	"Buy something first."
+villager.response.trade_first.10	"I want to trade some things first."
+villager.response.trade_first.11	<Villager noise>*\n\n*"Let's trade first."
+villager.response.trade_first.12	"First, let's do some trading."
+villager.response.trade_first.13	"Trade with me."
+villager.response.trade_first.14	"Maybe if you traded x bit more..."
+villager.response.trade_first.15	"I need to get rid of some junk first"
+villager.response.trade_first.16	"BUY MY STUFF"
+villager.response.trade_first.17	"Mind trading x bit first?"
+villager.response.trade_first.18	"Gotta sell some stuff first..."
+villager.response.trade_first.19	"Let's talk trading first."
+villager.response.trade_first.2	"Maybe if you bought something."
+villager.response.trade_first.20	"You trade with me, then I *might* trade with you"
+villager.response.trade_first.3	"Hmm... I've got to sell my stock first."
+villager.response.trade_first.4	"Throw in some trading first and then you got x deal."
+villager.response.trade_first.5	"Let's trade some things first."
+villager.response.trade_first.6	"I need to clear my inventory..."
+villager.response.trade_first.7	"I only sell my soul to loyal customers..."
+villager.response.trade_first.8	"No selling souls to non-paying customers (store policy)""
+villager.response.trade_first.9	"Let's trade goods first!"
+
+### LO: astralsorcery_04
+perk.astralsorcery.med_inc_resist.name	Increased Elemental Resistances
+perk.astralsorcery.mod_tc_added_runic.name	Added Runic Shielding
+perk.astralsorcery.mod_tc_inc_runic.name	Increased Runic Shielding
+perk.astralsorcery.mod_tc_key_ci.desc	Your health is set to 1.
+perk.astralsorcery.outer_s_inc_def.name	Increased Armor and Elemental Resistances
+perk.astralsorcery.outer_s_inc_dmg.name	Increased Melee and Projecile Damage
+perk.astralsorcery.outer_s_inc_life.name	Increased Maximum Life
+perk.astralsorcery.outer_s_inc_mine.name	Increased Mining Speed
+perk.astralsorcery.outer_s_inc_trv.name	Increased Reach and Movement Speed
+perk.astralsorcery.thorns_ranged.desc	Ranged damage is also being reflected
+perk.astralsorcery.threshold_armara.name	Chakra of Defence
+perk.astralsorcery.threshold_evorsio.name	Chakra of Destruction
+perk.astralsorcery.threshold_vicio.name	Chakra of Motion
+perk.astralsorcery.ulteria_more_perkexp.name	More Perk Experience
+perk.astralsorcery.unwav_life_armor.name	Increased Maximum Life and less Armor
+perk.astralsorcery.vicio.desc	Gain experience by traveling the world
+perk.astralsorcery.vorux_inc_perkeff.name	Increased Perk Effect
+perk.attribute.astralsorcery.critchance.name	Critical Hit Chance
+perk.attribute.astralsorcery.critmulti.name	Critical Damage Multiplier
+perk.attribute.astralsorcery.expgain.name	Perk Experience gained
+perk.attribute.astralsorcery.lifeleech.modifier.name	%% of damage dealt gained as life
+perk.attribute.astralsorcery.perkeffect.name	Effectiveness of Perks
+perk.attribute.astralsorcery.thorns.modifier.name	%% of melee damage taken is reflected
+perk.info.disabled	Perk effects disabled in your modpack.
+perk.info.gem.content.empty	Right-click to choose gem from your inventory.
+perk.info.gem.content.empty.none	You have no gems in your inventory!
+perk.info.gem.content.item	Socketed Gem: %s
+perk.info.gem.empty	Empty Gem Socket
+perk.info.gem.remove	Right-click to remove gem and add to your inventory.
+perk.info.missing_progress	You're unable to grasp the effects of this perk.
+perk.info.points	Available points: %s
+perk.info.sealed.break	[Double-click to break]
+perk.info.sealed.usage	Drag and drop a seal onto the perk you want to seal.
+perk.reader.description.addition	A + %s
+perk.reader.description.increase	I   * %s
+perk.reader.description.moreless	M     * %s
+perk.reader.limit.default	(limited to %s)
+perk.reader.limit.percent	(limited to %s%%)
+perk.reader.postprocess.default	Forced to %s
+progress.missing.knowledge	Something seems to be here, but understanding of it is not yet revealed.
+progress.remove.attunement	Your light fades...
+progress.switch.attunement	The light subtly shifts...
+research.ALTAR1.name	Luminous Crafting Table   @@KEEP: Luminous Crafting Table
+research.ALTAR2.name	Starlight Crafting Altar   @@KEEP: Starlight Crafting Altar
+research.ATT_CAPE.name	Mantle of Stars   @@KEEP: Mantle of Stars
+research.ATT_TRAIT.name	Enhanced Crystal Attunement
+research.ATT_WANDS.name	Attuned Resonating Wand   @@KEEP: Resonating Wand
+research.ATT_WAND_AEVITAS.name	Wand Attunement: Aevitas
+research.ATT_WAND_ARMARA.name	Wand Attunement: Armara
+research.ATT_WAND_DISCIDIA.name	Wand Attunement: Discidia
+research.ATT_WAND_EVORSIO.name	Wand Attunement: Evorsio
+research.ATT_WAND_VICIO.name	Wand Attunement: Vicio
+research.CHARGED_TOOLS.name	Infused Crystal Tools   @@KEEP: Crystal Tool
+research.DRAWING_TABLE.name	Stellar Refraction Table   @@KEEP: Stellar Refraction Table
+research.ENHANCED_COLLECTOR.name	Enhanced Collector Crystal   @@KEEP: Collector Crystal
+research.ROCK_CRYSTALS.name	Rock Crystal Properties   @@KEEP: Rock Crystal
+
+### LO: evilcraft_07
+info_book.evilcraft.second_age.weapons.necromancer_staff.text	&1Zombies&0 seem to be controllable once you have a skull of some kind. After mounting such a skull on a staff I discovered that I can spawn zombies that will attack any entity I target for a limited amount of time.
+info_book.evilcraft.second_age.weapons.vein_sword.text	Short on &4Blood&0 and always out in the fields attacking mobs? Why not use this sword that will boost the &4Blood&0 you will get in your &1Blood Extractor&0 after killing mobs? As a bonus, this sword will provide a default &1Looting&0 bonus when crafted.   @@KEEP: Blood Extractor
+info_book.evilcraft.section.main	Origins of Darkness   @@KEEP: Origins of Darkness
+info_book.evilcraft.structure.text1	This book is split into two major parts, for the two ages of evilness I like to classify everything in. I consider everything before my coming to this world as the &1First Age&0, and my life's work the &1Second Age&0.
+info_book.evilcraft.structure.text2	You can navigate through this book by clicking on the arrows at the bottom, shift clicking will flip through whole sections instead of single pages. At the start of large sections you will see a content table which will contain hyperlinks to its subsections for faster browsing. When you come across recipes, the items that are explained in this book are clickable as a fast reference to the section they are explained in. You will also notice a button at the top left of this book, which will take you to the section above your current one. The button at the top right corner will go back to the previously visited page each time when clicked.
+info_book.second_age.evolved_blood_machinery.colossal_blood_chest	Colossal Blood Chest   @@KEEP: Colossal Blood Chest
+info_book.second_age.evolved_blood_machinery.colossal_blood_chest.text1	&1Blood Chests&0 are great, throw in your damaged stuff, and they come out repaired. One downside of using that machine is the occasional bad effect your items can get, and it can be quite annoying to continuously clear that effect with your &1Purifier&0.   @@KEEP: Blood Chest
+info_book.second_age.evolved_blood_machinery.colossal_blood_chest.text2	Actually, the disadvantes don't stop there. The &1Blood Chests&0 has a very small inventory to put your items in, it is slow, has a small tank size and is really slow. Worst of all, my &1Promises&0 can't even be used to boost the machine!   @@KEEP: Blood Chest
+info_book.second_age.evolved_blood_machinery.colossal_blood_chest.text3	That is why I created the &1Colossal Blood Chest&0! It solves all of the problems I have mentioned As a logical consequence, this machine is quite a bit bigger than its regular variant. Because of this massive size, I had to make use the strange powers of &1Undead Planks&0 to be able to hold the structure together.   @@KEEP: Colossal Blood Chest | Undead Plank
+info_book.second_age.evolved_blood_machinery.colossal_blood_chest.text4	This &1Colossal Blood Chest&0 should only be used if you have a lot of items you need to repair at once. The reason for this is that its base &4Blood&0 usage is higher than the usage of the &1Blood Chests&0, but the more items that are being repaired simultaneously, the more efficient this &4Blood&0 usage becomes.   @@KEEP: Colossal Blood Chest | Blood Chest
+info_book.second_age.evolved_blood_machinery.colossal_blood_chest.text5	To build this, make a &1hollow&0 3x3x3 structure of &1Reinforced Undead Planks&0. For the structure to form, your need exactly one &1Colossal Blood Chest&0 block somewhere in the structure wall, make sure not to place it in the middle of the structure, as it must remain hollow.   @@KEEP: Reinforced Undead Plank | Colossal Blood Chest
+info_book.second_age.evolved_blood_machinery.sanguinary_environmental_accumulator	Sanguinary Environmental Acc.   @@KEEP: Sanguinary Environmental Acc.
+info_book.second_age.evolved_blood_machinery.sanguinary_environmental_accumulator.text1	I was getting tired of running to &1Dark Temples&0 every time I had to accumulate some environment to craft new items. One day, I was so tired of it that I just broke one the machines standing in there, and to my suprise it dropped a strange new item.
+info_book.second_age.evolved_blood_machinery.sanguinary_environmental_accumulator.text2	After some research, I was able to use this new item in a new kind of &1Environmental Accumulator&0 that is able to run on &4Blood&0. I was also able to make this machine completely bad-effect proof, so no more biome degradation or random deaths by walking near those temples.   @@KEEP: Environmental Accumulator
+info_book.second_age.evolved_blood_machinery.sanguinary_environmental_accumulator.text3	This machine requires a hefty amount of &4Blood&0 to work, that is why you will need &18&0 &4Blood&0 tanks of any type spread around the machine as can be seen in the following image. This machine will not work without those tanks, smoke effects can be seen at the locations where the tanks are supposed to be placed.
+info_book.second_age.tools.rejuvenated_flesh.text	&1Flesh&0 can be combined with &1Garmonbozia&0 to make it an infinite source of food. You will however need to supply it with &4Blood&0 to be able to eat from it.   @@KEEP: Garmonbozia
+key.evilcraft.exaltedCrafting	Open Exalted Crafter   @@KEEP: Exalted Crafter
+potions.evilcraft.paling.postfix	Potion of Paling
+subtitles.evilcraft.mob.vengeancespirit.ambient	Vengeance Spirit Growl   @@KEEP: Vengeance Spirit
+subtitles.evilcraft.mob.vengeancespirit.death	Vengeance Spirit Death   @@KEEP: Vengeance Spirit
+weather_container.evilcraft.clear	My only sunshine
+weather_container.evilcraft.rain	When the rain begins to fall

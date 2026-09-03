@@ -1,0 +1,110 @@
+{
+  "01_divin_into_dj2.txt": {
+    "title": "Divin' into DJ2!",
+    "description": "Craft a Totem Whittling Knife to jump into the mods!"
+  },
+  "02_technology.txt": {
+    "title": "Technology!",
+    "description": "Obtain an Engineer's Hammer to start Immersive Engineering!"
+  },
+  "03_root_3.txt": {
+    "title": "Root 3",
+    "description": "Open up the third Chapter, Roots, and craft a Pyre!"
+  },
+  "04_digital_storage.txt": {
+    "title": "Digital Storage",
+    "description": "Start Applied Energistics by crafting an Energy Acceptor!"
+  },
+  "05_surviving_the_sands.txt": {
+    "title": "Surviving the Sands",
+    "description": "Survive the Sands of Atum!"
+  },
+  "06_no_more_mosquitos.txt": {
+    "title": "No more mosquitos",
+    "description": "Complete Erebus by crafting a Crown of Skies to unlock The Aether!"
+  },
+  "07_sky_soarer.txt": {
+    "title": "Sky Soarer",
+    "description": "Defeat all Aether bosses and complete all Aether activities for the Resonating Orb!"
+  },
+  "08_the_big_tech_block.txt": {
+    "title": "The Big Tech Block",
+    "description": "Craft some RF Powder to jump into the Big Tech Block!"
+  },
+  "09_digital_crafting.txt": {
+    "title": "Digital Crafting",
+    "description": "Make a Crafting Terminal so you can directly use the items in your ME System to craft!"
+  },
+  "10_dig_dig_dig.txt": {
+    "title": "Dig dig dig",
+    "description": "Make a Builder as your first Quarry!"
+  },
+  "11_elevating.txt": {
+    "title": "Elevating...",
+    "description": "Craft some Elevatium Ingots! These are a crucial material that'll be used a lot in the pack."
+  },
+  "12_autocrafting.txt": {
+    "title": "Autocrafting!",
+    "description": "Make an Methodology Processor to unlock AE2 Autocrafting!"
+  },
+  "13_the_big_magic_block.txt": {
+    "title": "The Big Magic Block",
+    "description": "Craft a Blood Altar to enter the Big Magic Block!"
+  },
+  "14_manamana.txt": {
+    "title": "Manamana",
+    "description": "Craft a Pure Daisy to enter Botania!"
+  },
+  "15_becoming_a_thaumaturge.txt": {
+    "title": "Becoming a Thaumaturge",
+    "description": "Make a Thaumonomicon to unlock Thaumcraft!"
+  },
+  "16_nyahhahahahaaaa.txt": {
+    "title": "Nyahhahahahaaaa...!",
+    "description": "Craft a Witches' Oven and become a certified Witch!"
+  },
+  "17_digital_essentia.txt": {
+    "title": "Digital Essentia",
+    "description": "Craft an Essentia Infusion Provider for your Thaumic automation needs!"
+  },
+  "18_child_of_zeus.txt": {
+    "title": "Child of Zeus",
+    "description": "Craft a Lightning Infusion Table to enter LightninCraft!"
+  },
+  "19_astrology.txt": {
+    "title": "Astrology",
+    "description": "Unlock Astral Sorcery by crafting an Astral Tome!"
+  },
+  "20_to_the_skies_and_beyond.txt": {
+    "title": "To the skies and beyond",
+    "description": "Craft a Tier 1 Rocket to visit the Moon!"
+  },
+  "21_welcome_to_lategame.txt": {
+    "title": "Welcome to Lategame!",
+    "description": "Enter Lategame by crafting a Draconic Core!"
+  },
+  "22_in_my_element.txt": {
+    "title": "In my Element",
+    "description": "Craft a Chemical Dissolver to unlock Alchemistry!"
+  },
+  "23_dimension_hopper.txt": {
+    "title": "Dimension Hopper",
+    "description": "Craft an Empty Dimension Tab to be able to create custom dimensions with RFTools!"
+  },
+  "24_philosophy.txt": {
+    "title": "Philosophy",
+    "description": "Make a Philosopher's Stone and unlock ProjectE!"
+  },
+  "25_discovering_the_meaning_of_life.txt": {
+    "title": "Discovering the Meaning of Life",
+    "description": "Obtain the Key to Infinity and unlock the Bag of Truth!"
+  },
+  "26_THE_TRUE_ENDING.txt": {
+    "title": "THE TRUE ENDING",
+    "description": "Find out the Truth!"
+  },
+  "root.txt": {
+    "title": "Divine Journey 2 challenges",
+    "description": "Make your friends proud (or jealous) by completing these progression related advancements!"
+  }
+}

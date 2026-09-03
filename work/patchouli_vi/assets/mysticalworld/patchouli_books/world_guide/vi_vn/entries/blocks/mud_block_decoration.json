@@ -1,0 +1,72 @@
+{
+  "name": "Đồ trang trí từ Mud Block",
+  "icon": "mysticalworld:mud_block_stairs",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_stairs",
+      "link_recipe": true,
+      "text": "Có thể chế tạo cầu thang từ cả dried mud blocks lẫn dried mud bricks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_stairs",
+      "recipe2": "mysticalworld:mud_brick_stairs",
+      "link_recipe": true,
+      "title": "Cầu thang"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_slab",
+      "link_recipe": true,
+      "text": "Có thể chế tạo phiến từ cả dried mud blocks lẫn dried mud bricks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_slab",
+      "recipe2": "mysticalworld:mud_brick_slab",
+      "link_recipe": true,
+      "title": "Slabs"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_wall",
+      "link_recipe": true,
+      "text": "Có thể chế tạo Walls từ cả dried mud blocks và dried mud bricks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_wall",
+      "recipe2": "mysticalworld:mud_brick_wall",
+      "link_recipe": true,
+      "title": "Walls"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_fence",
+      "link_recipe": true,
+      "text": "Có thể chế tạo Fences từ cả dried mud blocks và dried mud bricks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_fence",
+      "recipe2": "mysticalworld:mud_brick_fence",
+      "link_recipe": true,
+      "title": "Fences"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_fence_gate",
+      "link_recipe": true,
+      "text": "Có thể chế tạo Fence Gates từ cả dried mud blocks và dried mud bricks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_fence_gate",
+      "recipe2": "mysticalworld:mud_brick_fence_gate",
+      "link_recipe": true,
+      "title": "Fences"
+    }
+  ]
+}

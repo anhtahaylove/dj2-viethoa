@@ -1,0 +1,361 @@
+{
+  "chapter_index": 2,
+  "title_key": "dj2.quest.ql.2.title",
+  "chapter_title_en": "5. Exploration I",
+  "desc_key": "dj2.quest.ql.2.desc",
+  "chapter_desc_en": "Fight through the Nether, and decide if you want to venture into the Twilight Forest.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.2.title",
+      "en": "5. Exploration I"
+    },
+    {
+      "key": "dj2.quest.ql.2.desc",
+      "en": "Fight through the Nether, and decide if you want to venture into the Twilight Forest."
+    },
+    {
+      "key": "dj2.quest.db.927.title",
+      "en": "Boing"
+    },
+    {
+      "key": "dj2.quest.db.927.desc",
+      "en": "Obtain some Barrel Cacti and one stem of Nether Cactus! They are spread out through the whole Nether, but are more common on Gravel fields! It shouldn't be difficult to find 'em!"
+    },
+    {
+      "key": "dj2.quest.db.928.title",
+      "en": "Going down low, low, low, low, low, low, low, low"
+    },
+    {
+      "key": "dj2.quest.db.928.desc",
+      "en": "Create a portal to the Nether and enter it! When you enter the first time, the loading time might take a while, because custom Better Nether terrain is being generated. Once you enter, make sure to create a waypoint with JourneyMap so you can find your way back!%n%n%n%n%nPlayer had them Iron Leggin's on (on),%nBoots with the Plate (with the Plate),%nThe whole world is lookin' at sir!%nThey hit the floor (they hit the floor),%nNext thing you know,%nPlayer went low, low, low, low, low, low, low, low!"
+    },
+    {
+      "key": "dj2.quest.db.929.title",
+      "en": "Shroomz"
+    },
+    {
+      "key": "dj2.quest.db.929.desc",
+      "en": "Obtain the 3 different kinds of Better Nether Mushrooms!%n%n- Lucis Spores are commonly found near Egg Plant fields, they're large 6-block yellow mushrooms on the side of Nether walls.%n%n- Orange Mushrooms confuse you with their name, because they're actually purple, large 1-block models.%n%n- Bone Mushroom Spores can be found growing from Bone Blocks usually near Soul Sand fields."
+    },
+    {
+      "key": "dj2.quest.db.930.title",
+      "en": "With Dare (you) Fight"
+    },
+    {
+      "key": "dj2.quest.db.930.desc",
+      "en": "Slay the Wither and obtain its precious Nether Star!"
+    },
+    {
+      "key": "dj2.quest.db.931.title",
+      "en": "With Daring Skill-eton!"
+    },
+    {
+      "key": "dj2.quest.db.931.desc",
+      "en": "Find a Nether Fortress and slay some Wither Skeletons for their Skulls! Make a Tinkers' Cleaver if you're having trouble obtaining Skulls! The Cleaver has built-in Beheading functionality."
+    },
+    {
+      "key": "dj2.quest.db.932.title",
+      "en": "Where to go?"
+    },
+    {
+      "key": "dj2.quest.db.932.desc",
+      "en": "Craft a Blank Magic Map and use it in the Twilight Forest to reveal boss locations!"
+    },
+    {
+      "key": "dj2.quest.db.933.title",
+      "en": "Playing Twilight!"
+    },
+    {
+      "key": "dj2.quest.db.933.desc",
+      "en": "Once you've entered the Twilight Forest, collect some Torchberries from underground and slay some Ravens for their Feathers!"
+    },
+    {
+      "key": "dj2.quest.db.934.title",
+      "en": "Large floaty thing"
+    },
+    {
+      "key": "dj2.quest.db.934.desc",
+      "en": "Enter the Dark Tower found in the middle of the Dark Forest! Climb to the top to find the Ur-ghast! This boss won't take damage from melee hits, so you must damage it with ranged weapons. Once defeated, obtain its Trophy and some Carminite!"
+    },
+    {
+      "key": "dj2.quest.db.935.title",
+      "en": "Underground... yet again!"
+    },
+    {
+      "key": "dj2.quest.db.935.desc",
+      "en": "Enter the Dark Forest and find the entrance to the Goblin Knight Stronghold! Before you can enter however, you'll need to place at least 1 Trophy you've collected on a Trophy Pedestal near the entrance. Once inside, fight some Knights, Goblins, or Helmet Crabs to obtain some Armor Shards! Then find the central room with the four Knight Phantoms inside! Defeat them to be able to move on!%n%nNote: There is no sure drop the Knight Phantoms give, so the quest only asks for Armor Shards."
+    },
+    {
+      "key": "dj2.quest.db.936.title",
+      "en": "Nearing the end"
+    },
+    {
+      "key": "dj2.quest.db.936.desc",
+      "en": "Enter the snowy biome and find the Alpha Yeti Cave! Defeat the Yeti packs and the boss to obtain some Alpha Yeti Fur!"
+    },
+    {
+      "key": "dj2.quest.db.937.title",
+      "en": "Mystery of the Scarab III"
+    },
+    {
+      "key": "dj2.quest.db.937.desc",
+      "en": "Once you've completed Roots, Immersive Engineering, and the Twilight Forest, you can craft a Flawless Scarab Body and a pair of Flawless Scarab Wings! ...But what for?"
+    },
+    {
+      "key": "dj2.quest.db.938.title",
+      "en": "Light the way!"
+    },
+    {
+      "key": "dj2.quest.db.938.desc",
+      "en": "Climb down from the Giant Cloud and enter the caves below the Highlands biome! Find the Giant Obsidian structure and break it with your Giant's Pickaxe to find the Lamp of Cinders inside a Chest!%n%nGG, you have completed the Twilight Forest!%n%n%n%nOr have you skipped it...? Either way, I hope you had fun and made the right decision!"
+    },
+    {
+      "key": "dj2.quest.db.939.title",
+      "en": "Plasma Fire"
+    },
+    {
+      "key": "dj2.quest.db.939.desc",
+      "en": "Find one of the rare Scorchers that can spawn in the Nether! Slay it for its Purple Blaze!"
+    },
+    {
+      "key": "dj2.quest.db.940.title",
+      "en": "They can grow here too"
+    },
+    {
+      "key": "dj2.quest.db.940.desc",
+      "en": "Find a platform of Nether Reed and obtain some! It can be used as a replacement for Sugar Cane in the Paper and Sugar recipe, and Nether Reed Blocks can be used as a replacement for Wood Logs. They only grow next to lava."
+    },
+    {
+      "key": "dj2.quest.db.941.title",
+      "en": "Then everything changed when the fire nation attacked..."
+    },
+    {
+      "key": "dj2.quest.db.941.desc",
+      "en": "Find a Fortress or an Underground Blaze Dungeon to obtain some Blaze Rods!"
+    },
+    {
+      "key": "dj2.quest.db.942.title",
+      "en": "Ore-derly Ore-naments"
+    },
+    {
+      "key": "dj2.quest.db.942.desc",
+      "en": "Find the 2 types of DivineRPG Nether Ores and mine up some of them!"
+    },
+    {
+      "key": "dj2.quest.db.943.title",
+      "en": "Impeccable Implications"
+    },
+    {
+      "key": "dj2.quest.db.943.desc",
+      "en": "Find some cute orange Imps roaming around in the Nether! Then, mercilessly slaughter them for their hide! D:%nIf you are having trouble finding an Imp, there is a Roots Ritual - \"Summon Creatures\" - that will let you summon an Imp."
+    },
+    {
+      "key": "dj2.quest.db.944.title",
+      "en": "Skipping Twilight...?"
+    },
+    {
+      "key": "dj2.quest.db.944.desc",
+      "en": "During the creation of the pack, a vote was held on the Divine Journey 2 Discord server about the inclusion of Twilight Forest into the main progression line. The result was: Implement an item that lets you skip the Twilight Forest, since many of us players have already completed it, and there is nothing new to see.%n%nIf you wish to skip the Twilight Forest, craft a Twilight Key. This will allow you to craft the Lamp of Cinders, which would otherwise be the final item obtained in the Forest, and allow you to progress further into the pack.%n%nHowever, if you haven't played through Twilight Forest yet, I highly encourage you to try it out, since it's most likely the single best exploration mod in Minecraft - especially if OP flight methods aren't available. The best way to travel through Twilight in this pack is with the Roots Sky Soarer spell, as well as Tinkers' Slime Boots and Slimesling.%n%nDue to Twilight's popularity though, it's incredibly overused: it's included in a large portion of packs, which is understandably why people get bored of it.%n%nSo if you wish to follow this route, you don't have to enter the Twilight Forest to go on."
+    },
+    {
+      "key": "dj2.quest.db.945.title",
+      "en": "Enter the Twilight"
+    },
+    {
+      "key": "dj2.quest.db.945.desc",
+      "en": "Craft a Twilight Rock! It is used to enter the Twilight Forest. Surround a 2x2 pool of Water with Dirt or Grass blocks, and place any kind of Flowers all the way around (even on the corners). Then throw in the Twilight Rock to create a Twilight Forest Portal!%n%nThis quest will unlock once you've completed the Stalicripe quest in Chapter 3 and the HOP Graphite Dust quest in Chapter 4."
+    },
+    {
+      "key": "dj2.quest.db.946.title",
+      "en": "On Scorched Ground"
+    },
+    {
+      "key": "dj2.quest.db.946.desc",
+      "en": "Summon and defeat the King of Scorchers in the Nether! It's recommended to fight it in an enclosed area so it can't fly away and shoot you down with fireballs. Once defeated, obtain its Statue and Fury Fire!"
+    },
+    {
+      "key": "dj2.quest.db.947.title",
+      "en": "INFERNOOO!!!"
+    },
+    {
+      "key": "dj2.quest.db.947.desc",
+      "en": "Craft an Infernal Flame! This item can be used to summon the King of Scorchers in the Nether."
+    },
+    {
+      "key": "dj2.quest.db.948.title",
+      "en": "A-MAZE-ing dungeon design"
+    },
+    {
+      "key": "dj2.quest.db.948.desc",
+      "en": "Now that you have defeated the Lich, entering the Twilight Swamp won't cause a bad Hunger effect on the player. So go there, and find the entrance of the Minoshroom Labyrinth! Get to the end to fight Minoshroom himself! He won't give you a warm welcome though... Slay it to obtain the Meef Stroganoff!"
+    },
+    {
+      "key": "dj2.quest.db.949.title",
+      "en": "Spooky Scary Skeleton"
+    },
+    {
+      "key": "dj2.quest.db.949.desc",
+      "en": "Now that you have defeated the Naga, the barrier around the Lich's Tower will disappear. Enter the Tower, climb to the top, and fight the Twilight Lich!%n%nIf you're having trouble with the fight, know that you have to knock back its projectiles to break its shields. Only blue projectiles can be knocked back, and you can see the upcoming projectile by looking at his hands. Once all of its shields are broken, you can start to damage it!"
+    },
+    {
+      "key": "dj2.quest.db.950.title",
+      "en": "Three headed monstrosity"
+    },
+    {
+      "key": "dj2.quest.db.950.desc",
+      "en": "Once you've defeated the Minoshroom, keep heading deeper inside the Swamp, all the way to the Fire Swamp! Right in the dead center you'll find the Hydra. Defeat all of its heads to obtain its Trophy, Hydra Chops, and some Fiery Blood!"
+    },
+    {
+      "key": "dj2.quest.db.951.title",
+      "en": "Hot Candy"
+    },
+    {
+      "key": "dj2.quest.db.951.desc",
+      "en": "Use some Cincinnasite, Steel, Constantan, and Lava to create a Forged Cincinnasite Block! You can obtain Constantan by mixing Copper and Nickel in the Smeltery or Crushing them with the Immersive Engineering Crusher, then combining the Dusts."
+    },
+    {
+      "key": "dj2.quest.db.952.title",
+      "en": "Cin- cinna- citcin... whatever."
+    },
+    {
+      "key": "dj2.quest.db.952.desc",
+      "en": "Mine up some Cincinnasite Ore from the Nether! It can be affected by Fortune."
+    },
+    {
+      "key": "dj2.quest.db.953.title",
+      "en": "It's getting real cloudy"
+    },
+    {
+      "key": "dj2.quest.db.953.desc",
+      "en": "Once the Hydra, Ur-Ghast, and Snow Queen have been defeated, you will no longer take damage from Acid Rain in the Highlands biome! So enter it and find the Giant Cloud floating above the biome! Climb up to fight Giant You and obtain the Giant's Pickaxe!"
+    },
+    {
+      "key": "dj2.quest.db.954.title",
+      "en": "Elsa's long lost sister"
+    },
+    {
+      "key": "dj2.quest.db.954.desc",
+      "en": "Enter the Glacier biome! In the middle, you'll find the Aurora Palace. Climb up to the top to fight the Snow Queen and obtain her Trophy!"
+    },
+    {
+      "key": "dj2.quest.db.955.title",
+      "en": "Watch your step!"
+    },
+    {
+      "key": "dj2.quest.db.955.desc",
+      "en": "Mine up some Egg Plants! Watch out if you're in a field of them - they will poison you when you set foot on them, because they have%n%nVENOMMMM, got that poisonous VENOMMMM,%nAnd I'm not knowin' when I'mmmm%nEver gonna step in themmmm%nReady to step any moment and I'mmm%nThinkin' it's time to go get 'em%nThey ain't gonna know what him 'em%nW-W-When they get collected -%n%nVENOMMMM, got that poisonous VENOMMMM,%nAnd I'm not knowin' when I'mmmm%nEver gonna step in themmmm%nReady to step any moment and I'mmm%nThinkin' it's time to go get 'em%nThey ain't gonna know what him 'em%nW-W-When they get collected."
+    },
+    {
+      "key": "dj2.quest.db.956.title",
+      "en": "Big snake thing"
+    },
+    {
+      "key": "dj2.quest.db.956.desc",
+      "en": "Find the Naga Fortress and defeat the Naga to obtain its Trophy and some of its Scales! To defeat it, keep hitting it while its tail keeps getting shorter, all the way until it's basically only a head!"
+    },
+    {
+      "key": "dj2.quest.db.957.title",
+      "en": "From Fire to Water"
+    },
+    {
+      "key": "dj2.quest.db.957.desc",
+      "en": "Use your Brewing Stand to create some Extended Water Breathing Potions! You will need to fish up a Pufferfish for this."
+    },
+    {
+      "key": "dj2.quest.db.958.title",
+      "en": "Blub-blubba-blub"
+    },
+    {
+      "key": "dj2.quest.db.958.desc",
+      "en": "Craft a Brewing Stand!"
+    },
+    {
+      "key": "dj2.quest.db.959.title",
+      "en": "Monumental!"
+    },
+    {
+      "key": "dj2.quest.db.959.desc",
+      "en": "Obtain some Prismarine Shards and Prismarine Crystals! You can get Prismarine Crystals from either breaking Ancient Sea Lanterns that spawn in some underwater ravines or from using Prismarine Shards in a Crusher. Prismarine Shards can only be obtained from killing Guardians at this point, but later on you'll be able to craft them from Quartz with an Atomic Reconstructor.%n%nGuardians rarely spawn in Deep Ocean biomes and constantly in an Ocean Monument.%n%nEither way, you will want to get Water Breathing for this. At this point, your options are to make potions with the Brewing Stand or use the Totemic Medicine Bag with a Squid Totem."
+    },
+    {
+      "key": "dj2.quest.db.960.title",
+      "en": "Snow White's demise"
+    },
+    {
+      "key": "dj2.quest.db.960.desc",
+      "en": "Find some ominous-looking Black Apple plants in the Nether! They commonly spawn in Egg Plant fields. Break them for a couple Black Apples!"
+    },
+    {
+      "key": "dj2.quest.db.961.title",
+      "en": "Eye see-d you!"
+    },
+    {
+      "key": "dj2.quest.db.961.desc",
+      "en": "Break some Eyeballs hanging from the Nether ceiling to obtain some Eye Seeds!"
+    },
+    {
+      "key": "dj2.quest.db.962.title",
+      "en": "Pretty!"
+    },
+    {
+      "key": "dj2.quest.db.962.desc",
+      "en": "Use your Nether Star to craft a Magical Snow Globe! Then enter at least 7 of the biome types listed to activate it!"
+    },
+    {
+      "key": "dj2.quest.db.963.title",
+      "en": "Forged in Lava"
+    },
+    {
+      "key": "dj2.quest.db.963.desc",
+      "en": "Craft a Cincinnasite Forge! This machine functions like a vanilla Furnace, except smelts twice as fast. It can also be used in combination with the External Heater from Immersive Engineering to have it use power instead of fuel to smelt!"
+    },
+    {
+      "key": "dj2.quest.db.964.title",
+      "en": "Golden Mass Destruction"
+    },
+    {
+      "key": "dj2.quest.db.964.desc",
+      "en": "Craft a Golden Fury! It's a weapon with infinite durability that uses Gold Nuggets to rapidfire. If you're out of Gold Nuggets in the Nether, know that Cincinnasite can be crafted into them."
+    },
+    {
+      "key": "dj2.quest.db.965.title",
+      "en": "Don't get caught in the spikes"
+    },
+    {
+      "key": "dj2.quest.db.965.desc",
+      "en": "Use some Shears to obtain some Thornvines! If you wanna get a lot, make sure to break them from the bottom, since blocks that pop off and are not broken by Shears will just disappear."
+    },
+    {
+      "key": "dj2.quest.db.966.title",
+      "en": "Respawn Anchor but cooler"
+    },
+    {
+      "key": "dj2.quest.db.966.desc",
+      "en": "Find an Altar built out of Cincinnasite and Bone Blocks! It will contain a Respawner Statue! Mine it up to complete this quest! You can offer it Glowstone Dust to set a spawn point, even in the Nether or End!"
+    },
+    {
+      "key": "dj2.quest.db.968.title",
+      "en": "Green and chewy"
+    },
+    {
+      "key": "dj2.quest.db.968.desc",
+      "en": "Obtain some Stalagnate commonly found near Thornvines! Simply chop them with an Axe, you can't obtain the leafy version, but you can obtain Stalagnate Seeds to regrow the plant."
+    },
+    {
+      "key": "dj2.quest.db.969.title",
+      "en": "Feels no pain in Forest Fires"
+    },
+    {
+      "key": "dj2.quest.db.969.desc",
+      "en": "Obtain some Magma Flower Seeds commonly found near Lava Lakes and on Magma Blocks! It's one of the most difficult Flowers to find in the Nether, but don't give up!"
+    },
+    {
+      "key": "dj2.quest.db.970.title",
+      "en": "What A-GAVE it away?"
+    },
+    {
+      "key": "dj2.quest.db.970.desc",
+      "en": "Punch Agave plants scattered around in the Nether. You don't need to use Shears to obtain them."
+    }
+  ]
+}

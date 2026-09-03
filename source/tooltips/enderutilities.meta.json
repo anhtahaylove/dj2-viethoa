@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "enderutilities-1.12.2-0.7.15.jar",
+      "path": "assets/enderutilities/lang/en_us.lang"
+    }
+  ]
+}

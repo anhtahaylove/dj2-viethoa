@@ -1,0 +1,20 @@
+{
+  "name": "Ectoplasm",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:ectoplasm",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chất nhớt siêu nhiên được cho là tiết ra từ cơ thể người lên đồng trong trạng thái xuất thần và tạo thành vật chất để các linh hồn hiện hình."
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ectoplasm",
+      "text": "Bạn sẽ gọi ai đây?"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ectoplasm_alt"
+    }
+  ]
+}

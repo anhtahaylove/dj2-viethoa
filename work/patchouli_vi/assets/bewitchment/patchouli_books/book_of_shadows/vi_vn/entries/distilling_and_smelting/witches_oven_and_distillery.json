@@ -1,0 +1,20 @@
+{
+  "name": "Witches' Oven and Distillery",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:distillery",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù có công dụng và vẻ ngoài bình thường, cả Witches' Oven lẫn Distillery đều thiết yếu cho mọi dạng ma thuật cao cấp. Witches' Oven có thể chưng cất cây non và các vật phẩm khác thành tinh chất nguyên chất, còn Distillery có thể xử lý Fumes cùng các nguyên liệu khác thành những hỗn hợp phức tạp hơn."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:witches_oven"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:distillery"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Darkness",
+  "category": "curses",
+  "icon": "minecraft:dye",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:darkness",
+      "text": "Làm mù mục tiêu và tất cả những ai ở gần họ. Hiệu ứng không liên tục mà xảy ra ngẫu nhiên trong suốt thời gian lời nguyền."
+    }
+  ]
+}

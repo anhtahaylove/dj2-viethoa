@@ -1,0 +1,14 @@
+setIcon(<contenttweaker:resonating_orb>)
+setTitle("Vút bay trên trời")
+setDescription("Đánh bại mọi boss và hoàn thành mọi hoạt động ở Aether để nhận Resonating Orb!")
+
+addParent("triumph:dj2/root")
+setPos(-65,216)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasResonatingOrb", "minecraft:inventory_changed")
+criteria.addItem(<contenttweaker:resonating_orb>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:07_sky_soarer")

@@ -1,0 +1,19 @@
+{
+  "tool": "arrow",
+  "text": [
+    {
+      "text": "Arrows là những vật phóng chết người được bắn từ bow. Mỗi bộ arrows chế tạo được có nhiều phát bắn và có thể nhặt lại."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Sát thương gây ra phụ thuộc vào cả bow lẫn arrows. Các vật liệu khác nhau mang lại nhiều đặc tính đa dạng."
+    }
+  ],
+  "properties": [
+    "Ammo for Bows",
+    "Có thể nhặt lại",
+    "One Stack contains many shots"
+  ]
+}

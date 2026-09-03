@@ -1,0 +1,20 @@
+{
+  "name": "Clay Jar",
+  "category": "distilling_and_smelting",
+  "icon": "bewitchment:empty_jar",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Clay Jar là vật dụng thiết yếu trong bộ sưu tập của phù thủy, dùng để chứa mọi loại hơi phục vụ chế tạo."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:unfired_jar"
+    },
+    {
+      "type": "smelting",
+      "recipe": "bewitchment:unfired_jar"
+    }
+  ]
+}

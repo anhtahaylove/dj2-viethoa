@@ -1,0 +1,125 @@
+### totemic.entry.rainDance
+Rain Dance Ceremony
+
+### totemic.page.rainDance0
+The §4Rain Dance Ceremony§0 is a way for you to bring a torrent of rain into the world. If the rain becomes too much to bare, the §4Drought Ceremony§0 is always available, which will remove all rain. Because the effects of this §4Ceremony§0 are so potent, it may be hard to perform.
+
+### totemic.page.rainDance1
+§oLike a Politoed§r.
+
+### totemic.entry.drought
+Drought Ceremony
+
+### totemic.page.drought0
+The §4Drought Ceremony§0 will clear the sky and end any storms that may be plaguing your world. It is simply the opposite of the §4Rain Dance Ceremony§0.
+
+### totemic.page.drought1
+§oNinetails, Not Kurama!§r
+
+### totemic.entry.fluteInfusion
+Serenade for Syrinx
+
+### totemic.page.fluteInfusion0
+The §4Serenade for Syrinx§0 is a way to enchant a regular §1Flute§0 with melodic energy, giving it special properties. Nearby flutes in your inventory or on the ground will be infused with Totemic energy, becoming §1Pan's Flute§0. The timbre of her Flute is quite more beautiful than that of a mundane one, meaning it produces more §4Melody§0 and works better with §4Totem Poles§0.
+
+### totemic.page.fluteInfusion1
+In addition, nearby §1Animals§0 and §1Villagers§0 will be completely and utterly unable to resist the melody, and will follow you if you play the flute.
+
+### totemic.page.fluteInfusion2
+§oHide in the Sugar Cane§r
+
+### totemic.entry.eagleDance
+Eagle Dance
+
+### totemic.page.eagleDance0
+The §1Bald Eagle§0 is a sacred bird, some say they are spiritual messengers between humans and gods. Its feathers and bones are important ceremonial items and are used to make the §1Eagle-Bone Whistle§0.<br>Since they have gone almost extinct, they are not found in the wild; similarly to Buffalos they have to be created by the §4Eagle Dance§0 Ceremony. This Ceremony will infuse
+
+### totemic.page.eagleDance1
+nearby §1Parrots§0 and turn them into Bald Eagles. Once transformed, they can be tamed with any kind of raw fish and bred with Salmon.
+
+### totemic.page.eagleDance2
+§oWelcome to 'Murica!§r
+
+### totemic.entry.cleansing
+Steve's Lullaby
+
+### totemic.page.cleansing0
+§4Steve's Lullaby§0 is such a beautiful and cleansing piece that it is able to calm down, and remove the evil properties of a few select monsters in the world. §4Zombie Villagers§0 will become their living counterpart. The same will occur for §4Zombie Pigmen§0, becoming regular §4Pigs§0. Only a few monsters will be affected per activation, and they need to have been §4weakened§0 by a potion effect first.
+
+### totemic.page.cleansing1
+§oDon't tell Brahms!§r
+
+### totemic.entry.baykokSummon
+Totentanz
+
+### totemic.page.baykokSummon0
+§4Totentanz§0 is a Ceremony that will summon the spirit known as §1Baykok§0. Do not attempt this ceremony unless you are well equipped for combat.<br>§1Baykok§0 is an evil spirit who appears as a skeleton-like figure. He ruthlessly hunts warriors and is a master of archery, attacking with invisible arrows.
+
+### totemic.page.baykokSummon1
+If you manage to defeat §1Baykok§0, you will be able to get his bow, among other loots. Any §1Arrows§0 fired from §1Baykok's Bow§0 are visible only to the bow wielder. In addition, his bow is stronger and has a higher §4Enchantability§0 than a mundane bow.
+
+### totemic.page.baykokSummon2
+§oWhen Death draws near you...§r
+
+### totemic.entry.sunDance
+Sun Dance
+
+### totemic.page.sunDance0
+The §4Sun Dance§0 is one of the most sacred Ceremonies, and also the most painful one to perform: You will be faced with a §1near-death experience§0. If you pull through, you and everyone nearby will be healed and protected from damage for a while.<br>The Sun Dance will not reduce your health below half a heart.
+
+### totemic.page.sunDance1
+§oKneeling, my god is the sun§r
+
+### totemic.entry.danseMacabre
+Danse Macabre
+
+### totemic.page.danseMacabre0
+The §4Danse Macabre§0 is probably the most deceptive §4Ceremony§0 of them all. All nearby §1Rotten Flesh§0 on the ground will transform into very, very dangerous §4Zombies§0. Whilst this may seem like a downside, there is a decent chance that the creation will instead be a §4Zombie Villagers§0. Interestingly enough, if performed in the §1Nether§0 it seems like a different monster will spawn in the world instead.
+
+### totemic.page.danseMacabre1
+These effects effectively mean that §1Rotten Flesh§0 can be converted into §4Experience Points§0, or if it is combined with §4Steve's Lullaby§0, it will be able to create §4Villagers§0.
+
+### totemic.page.danseMacabre2
+§oNovember Spawned a Monster§r
+
+### totemic.entry.totemicStaff
+Totemic Staff
+
+### totemic.page.totemicStaff0
+The §1Totemic Staff§0 can be used to gather information on several blocks by right clicking on them.<br>In addition, holding one whilst left-clicking a Totem Base will cancel ceremonies, and any musical selections on it.
+
+### totemic.page.totemicStaff1
+§oNo resemblance to wrenches§r
+
+### totemic.entry.barkStripper
+Bark Stripper
+
+### totemic.page.barkStripper0
+The §1Bark Stripper§0 is a way for you to remove the bark from your §1Red Cedar Logs§0 and reveal stripped wood from the tree. To do so, just hold the §1Bark Stripper§0 in your hand, and right click on the log, after a few seconds it will finish stripping the bark from the log, revealing the stripped log.
+
+### totemic.page.barkStripper1
+The §1Red Cedar Stripped Log§0 can be crafted into planks at a more efficient rate, and can be put in a furnace to create charcoal.<br>Red Cedar Stripped Logs that are left on grass will slowly regrow their bark after a while.
+
+### totemic.entry.baykokBow
+Baykok's Bow
+
+### totemic.page.baykokBow0
+§1Baykok's Bow§0 is a powerful bow that can only be obtained by slaying the spirit §1Baykok§0. §1Baykok§0 can be summoned with the §4Totentanz§0 Ceremony.<br>Arrows fired from this bow deal more damage, and non-tipped arrows will become invisible to anyone but you. The bow also has a higher §4Enchantability§0, and is more durable than a mundane bow.
+
+### totemic.entry.tipi
+Tipi
+
+### totemic.page.tipi0
+The §1Tipi§0 is cone shaped tent which can be used to sleep through the night. It consists of a wooden frame, adorned with a tarp consisting of either Buffalo hide or textile. It can be placed on top of a flat surface of grass or dirt, and requires an open sky to be used.
+
+### totemic.entry.totemTorch
+Totem Torch
+
+### totemic.page.totemTorch0
+The §1Totem Torch§0 is simply a larger and more decorative version of a regular torch.
+
+### totemic.entry.woodenPillars
+Wooden Pillars
+
+### totemic.page.woodenPillars0
+§1Wooden Pillars§0 are simple decorative blocks that, unlike Totem Poles, have no carvings and can be oriented in any direction. They, as well as §1Pillar Bases§0, can be made from any type of wood.

@@ -1,0 +1,107 @@
+{
+  "name": "Catalyst Plates",
+  "icon": "roots:catalyst_plate",
+  "category": "rituals_ritual",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Được dùng để cung cấp thông tin cho $(l:rituals/ritual_summon_creatures)Ritual of Summon Creatures$(), catalyst plates có hai loại: một loại bằng $(l:resources/runestone)runestone$() và loại còn lại bằng $(l:resources/runed_obsidian)runed obsidian$() bền hơn, chịu được boss.$(br2)$(warning) Catalyst plates phải được đặt trong phạm vi 6 khối quanh pyre để được phát hiện.$(br2)$(warning) Một số sinh vật cần nhiều plate để triệu hồi."
+    },
+    {
+      "type": "text",
+      "title": "Cách dùng",
+      "text": "$(bold)Nhấp chuột phải$() vào catalyst plate trống thuộc bất kỳ loại nào khi đang cầm vật phẩm sẽ đặt vật phẩm đó lên plate; các plate đã có vật phẩm sẽ được bổ sung tương ứng.$(br2)$(bold)Nhấp chuột phải$() bằng tay $(bold)không$() sẽ lấy toàn bộ vật phẩm khỏi plate.$(br2)$(info) Nếu $(bold)đi lén$() khi thực hiện, bạn sẽ chỉ lấy một vật phẩm khỏi plate thay vì lấy tất cả."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:offering_plate",
+      "text": "Để biết cách chế tạo $(l:crafting/runestone)chiseled runestone$(), hãy xem mục tương ứng trong phần chế tạo trang trí.$(br2)Các khối ở hai bên công thức có thể là bất kỳ loại runestone nào, kể cả chiseled runestone."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:reinforced_offering_plate",
+      "text": "Công thức của $(l:crafting/runed_obsidian)chiseled runed obsidian$() tương tự công thức của chiseled runestone thông thường.$(br2)Tương tự, các khối ở hai bên công thức có thể là bất kỳ loại runed obsidian nào, kể cả chiseled runed obsidian."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "W": "roots:catalyst_plate[facing=north]",
+          "E": "roots:catalyst_plate[facing=north]",
+          "N": "roots:catalyst_plate[facing=north]",
+          "S": "roots:catalyst_plate[facing=north]"
+        },
+        "pattern": [
+          [
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             "
+          ],
+          [
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             "
+          ],
+          [
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             "
+          ],
+          [
+            "N           W",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "      0      ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "             ",
+            "S           E"
+          ]
+        ]
+      },
+      "text": "Bốn plate minh họa khoảng cách xa nhất có thể đặt plate tính từ pyre."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/catalyst_plates",
+        "rituals/ritual_summon_creatures"
+      ]
+    }
+  ]
+}

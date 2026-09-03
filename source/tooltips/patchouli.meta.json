@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "Patchouli-1.0-23.6.jar",
+      "path": "assets/patchouli/lang/en_US.lang"
+    }
+  ]
+}

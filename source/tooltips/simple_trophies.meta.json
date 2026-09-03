@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "simpletrophies-1.2.2.1.jar",
+      "path": "assets/simple_trophies/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "item.sound_muffler.tooltip.mode.black_list": "Chế độ: §8Danh Sách Đen",
+  "item.sound_muffler.tooltip.mode.white_list": "Chế độ: §8Danh Sách Trắng",
+  "item.sound_muffler.tooltip.range": "Phạm vi: §8%d",
+  "item.sound_muffler.tooltip.sound": "§8- %s",
+  "item.sound_muffler.tooltip.sounds.count": "Âm Thanh Đã Giảm: §8%d",
+  "item.sound_muffler_bauble.tooltip.header": "§8§oPhiên Bản Bauble"
+}

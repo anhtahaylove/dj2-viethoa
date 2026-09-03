@@ -1,0 +1,539 @@
+### LO: botania_02
+botania.tagline.cobbleRod	A rod to create cobble
+botania.tagline.cocoon	Hatch your own animals
+botania.tagline.complexBrews	Stronger brews with new effects
+botania.tagline.corporea	A system to manage inventories
+botania.tagline.corporeaCrystalCube	View and request items from a Corporea network
+botania.tagline.corporeaFunnel	Request items from a Corporea network via redstone
+botania.tagline.corporeaIndex	Request items from a Corporea network via chat
+botania.tagline.corporeaInterceptor	Intercept Corporea requests and send redstone signals
+botania.tagline.corporeaRetainer	Memory for re-doing Corporea requests
+botania.tagline.cosmeticBaubles	Accessories that don't provide power
+botania.tagline.craftCrate	A way to craft automatically
+botania.tagline.craftingHalo	Portable crafting, fast or with a grid
+botania.tagline.crystalBow	A faster bow that creates arrows from Mana
+botania.tagline.daffomill	Moves items with wind
+botania.tagline.dandelifeon	Mana from life
+botania.tagline.decorativeBlocks	Just what it says, really
+botania.tagline.dirtPath	This dirt is for walking
+botania.tagline.dirtRod	A rod to create dirt
+botania.tagline.dispenserTweaks	Dispensers planting seeds
+botania.tagline.distributor	Equally split Mana between multiple pools
+botania.tagline.divaCharm	Charm mobs that attack you
+botania.tagline.diviningRod	A rod to find ores
+botania.tagline.dodgeRing	Sweep to the side to dodge attacks
+botania.tagline.dreadthorne	Damages adult animals
+botania.tagline.dreamwoodSpreader	Harder, better, faster, stronger
+botania.tagline.elfGear	Manasteel equivalent gear with special properties
+botania.tagline.elfMessage	Definitely a message. Yup
+botania.tagline.elfResources	What's beyond the gate
+botania.tagline.elvenLenses	Advanced Mana Lenses with new abilities   @@KEEP: Mana Lens
+botania.tagline.elvenLore	Some lore on why we are where we are
+botania.tagline.endStoneDecor	Some end-themed decoration
+botania.tagline.enderAir	Throwable bottles that create End Stone   @@KEEP: End Stone
+botania.tagline.enderDagger	A dagger that cuts through endermen like butter
+botania.tagline.enderEyeBlock	Look activated redstone detector
+botania.tagline.enderHand	Ender Chest access anywhere   @@KEEP: Ender Chest
+botania.tagline.endoflame	Mana from fuel
+botania.tagline.entropinnyum	Mana from TNT
+botania.tagline.exchangeRod	A rod to change blocks
+botania.tagline.exoflame	Ignites and speeds up Furnaces
+botania.tagline.fIntro	Flowers that use mana for beneficial powers
+botania.tagline.fallenKanade	Powerful, short range regeneration
+botania.tagline.felPumpkin	A pumpkin that can spawn blazes
+botania.tagline.fireChakram	A burning Thorn Chakram   @@KEEP: Thorn Chakram
+botania.tagline.fireRod	A rod to create circles of flame
+botania.tagline.flasks	Bigger brew containers
+botania.tagline.flightTiara	The ability to fly... for a bit
+botania.tagline.flowerBag	A trusty pouch to hold your floral goodness
+botania.tagline.flowerShrinking	Smaller flowers with a smaller range
+botania.tagline.flowerSpeed	Changing how long flowers take to work
+botania.tagline.flowers	The roots of your studies
+botania.tagline.flugelEye	The true power of a Flügel
+botania.tagline.forestDrum	Harvest crops and uproot grass with mana bursts
+botania.tagline.gIntro	Flowers that consume resources to make mana
+botania.tagline.gaiaRitual	Summon the Guardian of Gaia for GREAT JUSTICE!   @@KEEP: Guardian of Gaia
+botania.tagline.gardenOfGlass	Your new challenge
+botania.tagline.gatherDrum	Shear sheep and milk cows with mana bursts
+botania.tagline.ghostRail	Send minecarts flying
+botania.tagline.glassPick	A pickaxe with built-in silk touch for glass
+botania.tagline.goddessCharm	Prevents explosions from damaging the world
+botania.tagline.gourmaryllis	Mana from food
+botania.tagline.grassHorn	Reap all grass and crops around you
+botania.tagline.grassSeeds	Seeds to create Grass, Podzol and Mycelium
+botania.tagline.gravityRod	A rod to lift and throw mobs
+botania.tagline.headCreating	Create any player's head
+botania.tagline.heiseiDream	Turns mobs against each other
+botania.tagline.hopperhock	Picks up items
+botania.tagline.hourglass	A simple timer, using the sands of time
+botania.tagline.hydroangeas	Mana from water
+botania.tagline.icePendant	Walk on water, by making ice
+botania.tagline.incense	Brews on an area of effect
+botania.tagline.infiniteFruit	Endless supply of nourishment
+botania.tagline.invisibilityCloak	Exactly what it says on the tin
+botania.tagline.itemFinder	Find items in chests, minecarts and villager trades
+botania.tagline.jadedAmaranthus	Creates more Mystical Flowers
+botania.tagline.jiyuulia	Keeps mobs out
+botania.tagline.judgementCloaks	Cloaks to judge opponents
+botania.tagline.keepIvy	Ivy that can be attached to items to keep them after death
+botania.tagline.kekimurus	Mana from cake
+botania.tagline.kingKey	Open the treasury
+botania.tagline.knockbackBelt	Prevent all knockback damage
+botania.tagline.laputaShard	Raise parts of your world as floating islands
+botania.tagline.lavaPendant	Fire resistance, somewhat
+botania.tagline.lens	Varied augmentations for your spreaders
+botania.tagline.lexicon	What you're reading right now, dummy
+botania.tagline.livingwoodBow	A stronger bow that regenerates using Mana
+botania.tagline.lokiRing	The power to be here, and there, and over there too
+botania.tagline.loonium	Conjures dungeon loot
+botania.tagline.luminizerTransport	Fly through the skies
+botania.tagline.mIntro	Start off with Mana
+botania.tagline.magnetRing	Pull items towards you
+botania.tagline.manaAlchemy	Turn A into B. Exchange may or may not be equivalent
+botania.tagline.manaBlaster	Portable Mana Spreader, with lenses!   @@KEEP: Mana Spreader
+botania.tagline.manaBomb	Manastorm Charge go BOOM. BOOM BOOM. BOOMBOOMBOOMBOOMBOOMBOOM   @@KEEP: Manastorm Charge
+botania.tagline.manaConjuration	Duplicate your resources with mana
+botania.tagline.manaDetector	Detects Mana Bursts and emits Redstone signals   @@KEEP: Mana Burst
+botania.tagline.manaEnchanting	Using mana to enchant your tools
+botania.tagline.manaGear	Iron-tier equipment that repairs itself with Mana
+botania.tagline.manaMirror	Remote Portable Mana Access
+botania.tagline.manaTablet	Portable Mana Storage
+botania.tagline.manaVoid	Destroys all mana that comes into it
+botania.tagline.manastar	A flower for classifying mana loss or income
+botania.tagline.manaweave	Cloth armor that regenerates with mana and provides a boost to rod powers
+botania.tagline.marimorphosis	Creates new stone types
+botania.tagline.miningRing	Mine faster with Haste
+botania.tagline.missileRod	A rod to pew pew
+botania.tagline.monocle	An essential tool for viewing flowers' radiuses
+botania.tagline.munchdew	Mana from leaves
+botania.tagline.mushrooms	Touch fuzzy, but don't get dizzy
+botania.tagline.narslimmus	Mana from slime
+botania.tagline.obedienceStick	Mass binding flowers to a spot
+botania.tagline.openBucket	A bucket that destroys anything that comes inside
+botania.tagline.openCrate	A simple device to drop things
+botania.tagline.orechid	Creates ores from stone
+botania.tagline.orechidIgnem	Creates nether ores from netherrack
+botania.tagline.overgrowthSeed	An elusive object that powers up flowers
+botania.tagline.pavement	Pavement for road building
+botania.tagline.phantomInk	Make your armor and baubles invisible
+botania.tagline.pistonRelay	Remote piston extension
+botania.tagline.pixieRing	Spawn more pixie friends (warning: friends might suicide spontaneously)
+botania.tagline.platform	Disguisable platform you can fall down in
+botania.tagline.pollidisiac	Makes animals breed
+botania.tagline.pool	Mana storage for the masses
+botania.tagline.poolCart	This is not a web framework
+botania.tagline.preventingDecay	Seeing the numbers in mana
+botania.tagline.prism	Switch a Mana Burst's effective Lens on the fly   @@KEEP: Mana Burst
+botania.tagline.pureDaisy	Creator of Livingwood and Livingrock, among others   @@KEEP: Livingrock | Livingwood
+botania.tagline.rafflowsia	Mana from flowers
+botania.tagline.rainbowRod	A rod to create rainbow bridges, and fancy building blocks
+botania.tagline.rannuncarpus	Places blocks down
+botania.tagline.reachRing	Reach farther, build farther
+botania.tagline.redString	Remote inventories and other remote things
+botania.tagline.redstoneSpreader	A spreader that fires on a Redstone pulse
+botania.tagline.regenIvy	Ivy that can be attached to items to have them regenerate durability
+botania.tagline.relicInfo	They're real after all
+botania.tagline.relics	A myth? Or reality?
+botania.tagline.rfGenerator	Converts Mana into Energy
+botania.tagline.runeAltar	Create runes for stronger flowers and items
+botania.tagline.sextant	A tool to help create circles
+botania.tagline.shedding	Things dropping other things
+botania.tagline.shinyFlowers	Shiny flowers and floating flowers
+botania.tagline.shulk_me_not	Mana from shulkers
+botania.tagline.skyDirtRod	A rod to create dirt, in the sky
+botania.tagline.slimeBottle	Slime chunk detector
+botania.tagline.smeltRod	A rod to smelt blocks
+botania.tagline.solegnolia	Creates spaces where the Ring of Magnetization doesn't work   @@KEEP: Ring of Magnetization
+botania.tagline.sparkChanger	Control augments on sparks with redstone
+botania.tagline.sparkUpgrades	Upgrade your Sparks to allow for better functionality
+
+### LO: astralsorcery_02
+astralsorcery.constellation.octans.capeeffect	A mantle infused with this Constellation makes the wearer as one with water; protecting from knockback attacks, granting underwater breathing, and allowing handling of tools like there was no water at all.
+astralsorcery.constellation.octans.effect	Reflecting this Constellation's light onto water makes it softly bubble, and sea life seems much more abundant under it's rays.
+astralsorcery.constellation.octans.enchantments	Helmets exposed to Octans provide oxygen from the water to the wearer, and drinking this Constellation's light causes gills to grow for a short time.
+astralsorcery.constellation.octans.ritual	Powered by Starlight, this ritual attracts fish in nearby water blocks, allowing them to be easily harvested.   @@KEEP: Starlight
+astralsorcery.constellation.pelotrio.capeeffect	A mantle infused with this Constellation's light will often manifest Starlight into animated tools, mimicking the wearer's behavior when breaking blocks with a pickaxe, chopping down trees with an axe, or even striking enemies with weapons.   @@KEEP: Starlight
+astralsorcery.constellation.pelotrio.effect	The irresistible and unnaturally impulsive rays of this set of stars are only visible during the darkest or brightest nights.
+astralsorcery.constellation.pelotrio.enchantments	Focusing these conjuring energies on a bow summons forth unlimited ammunition. The same energies summons vigor to anyone who drinks potions exposed to the Constellation's light.
+astralsorcery.constellation.pelotrio.ritual	Immersing the nearby area in the diffused light of this Constellation conjurs all kinds of beings to life.
+astralsorcery.constellation.ulteria.effect	The light of this Constellation endures, even across the vast distances it travels, like an unstoppable otherworldly juggernaut.
+astralsorcery.constellation.ulteria.enchantments	Weapons and equipment bathed in the light of this constellation not only make the wearer more durable, but are themselves more durable. Drinking of this light can help you outlast the most devious of attacks.
+astralsorcery.constellation.ulteria.trait	Drawing in your available resources can result in fueling increased focus.
+astralsorcery.constellation.vicio.capeeffect	This Attunement eases the burdens of travel by reducing your weight enough to ride the currents of the wind, allowing you to fly like one would with an elytra.
+astralsorcery.constellation.vicio.effect	Bathing in the rays of this Constellation make everything feel slower, while seeming to make you faster in whatever you do.
+astralsorcery.constellation.vicio.enchantments	The essence of this Constellation's light increases speed of the drinker, whereas boots imbued with its light reduce the speed of impacts with the ground.
+astralsorcery.constellation.vicio.ritual	This ritual improves the mobility of all within, allowing movement in ways not normally possible for those without wings.
+astralsorcery.constellation.vorux.effect	Light from this Constellation invokes rage and aggression in those bathed in it, even from the far depths of the Astral.
+astralsorcery.constellation.vorux.enchantments	The best defense is an aggressive offense for wielders of equipment bathed in this light. Potions imbued with this Constellation are often nicknamed "Liquid Courage".
+astralsorcery.constellation.vorux.trait	Burning the candle at both ends may provide for more illumination, but it invites the following darkness all the faster.
+config.astralsorcery.category.aevitas_ore_perk	Ore-Spawning: Aevitas Ore Perk
+config.astralsorcery.category.fluid_rarities	Fluids: Neromantic Prime   @@KEEP: Neromantic Prime
+config.astralsorcery.category.herdable_animals_blacklist	Blacklist: Herdable Animals
+config.astralsorcery.category.mineralis_ritual	Ore-Spawning: Mineralis Ritual
+config.astralsorcery.category.perk_void_trash_replacement	'Trash to Treasure'-Perk Replacement List
+config.astralsorcery.category.treasure_shrine	Ore-Spawning: Treasure Shrine
+constellation.noInformation	There is nothing here.
+crystal.attuned	Tuned to %s
+crystal.collect.type	Collects Starlight from %s   @@KEEP: Starlight
+crystal.trait	Trait of %s
+gui.journal.cst.ritual.trait	Ritual Trait Modifier:
+jei.category.altar.attunement	Starlight Crafting Altar   @@KEEP: Starlight Crafting Altar
+jei.category.altar.discovery	Luminous Crafting Table   @@KEEP: Luminous Crafting Table
+knowledge.astralsorcery.fragment.attunement.alignmentcharge.name	Alignment Charge Rate
+knowledge.astralsorcery.fragment.constellation.clusterbonus.name	Boosting Crystal Yield
+knowledge.astralsorcery.fragment.constellation.clusterspeed.name	Boosting Growing Speed
+knowledge.astralsorcery.fragment.constellation.illumwand.name	Illuminated Block Strength
+knowledge.astralsorcery.fragment.constellation.inftool.name	Infused Tool Powers
+knowledge.astralsorcery.fragment.discovery.ancientshrine.name	Ancient Shrine Locations   @@KEEP: Ancient Shrine
+knowledge.astralsorcery.fragment.exploration.caveillumwand.name	Colors and Operation
+knowledge.astralsorcery.fragment.exploration.grindstone.name	Weapons and Ores
+knowledge.astralsorcery.fragment.exploration.nocturnal.name	Spawn Types and Rarity
+knowledge.astralsorcery.fragment.misc.cannibalism.name	Cannibalism and Reach
+knowledge.astralsorcery.fragment.misc.perks.name	Difference Within Bonuses.
+knowledge.astralsorcery.fragment.perk_gems.name	Influencing Through Harvest
+knowledge.astralsorcery.fragment.radiance.fysallidic.name	Impact of Mythical Creatures
+misc.chaos.resistance	+%s Chaos Resistance
+misc.craftInformation	§7Click to see recipe
+misc.ctrlcopy	CTRL + leftclick to copy
+misc.fragment.added	Gained Knowledge about: %s
+misc.fragment.added.cst	The constellation %s vanishes out of sight.
+misc.fragment.constellation.desc.1	A strange constellation is drawn on this scroll.
+misc.fragment.constellation.desc.2	Discovering it should provide additional clues.
+misc.fragment.container.desc	Something is shining inside the casing.
+misc.fragment.container.open	Right-click to open.
+misc.fragment.content.desc.1	The scroll has some pale scribblings on it.
+misc.fragment.content.desc.2	Right-click to add it to your tome.
+misc.fragment.content.empty	The scroll appears to be blank.
+misc.grindstone.double	Chance to double output: %s
+misc.journal.info.1	Hover over one of the clusters and zoom in
+misc.journal.info.2	using the scroll wheel or %s and %s
+misc.knowledge.inscribed	Contains knowledge from %s
+misc.knowledge.inscribed.creative	Contains massive knowledge
+misc.knowledge.missing	An empty and sparkly scroll
+misc.link.link	Linked %s to %s!
+misc.link.unlink	Unlinked %s from %s!
+misc.link.unlink.all	Unlinked all links!
+misc.moreInformation	<Hold SHIFT for more details>
+misc.sword.sharpened	Sharpened (%s increased Damage)
+misc.transmutation.constellation	Requires focused light from %s
+perk.astralsorcery.aevitas.desc	Gain experience by building things
+perk.astralsorcery.alcara_more_perkeff.name	More Perk Effect
+perk.astralsorcery.armara.desc	Gain experience by taking damage
+perk.astralsorcery.base_inc__melee_damage.name	Increased Melee Damage
+perk.astralsorcery.base_inc_harvest.name	Increased Mining Speed
+perk.astralsorcery.base_inc_life.name	Increased Maximum Life
+perk.astralsorcery.base_inc_ms.name	Increased Movement Speed
+perk.astralsorcery.base_inc_perkeffect_t1.name	Greater Increased Perk Effect
+perk.astralsorcery.base_inc_perkeffect_t2.name	Increased Perk Effect
+perk.astralsorcery.base_inc_perkeffect_t3.name	Increased Perk Effect
+perk.astralsorcery.base_inc_perkeffect_t4.name	Increased Perk Effect
+perk.astralsorcery.base_inc_proj_damage.name	Increased Projectile Damage
+perk.astralsorcery.compat.thaumcraft	Astral Sorcery: Thaumcraft Compat
+perk.astralsorcery.core.desc.1	Other tree roots may be unlocked without
+perk.astralsorcery.core.desc.2	requiring a connection to the existing perks
+perk.astralsorcery.core.desc.4	Grants 3 additional Perk Points
+perk.astralsorcery.crit_inc_ch_mul.name	Increased Critical Hit Chance and Multiplier
+perk.astralsorcery.crit_inc_chance_melee.name	Increased Melee Damage and Critical Hit Chance
+perk.astralsorcery.crit_inc_chance_proj.name	Increased Projectile Damage and Critical Hit Chance
+perk.astralsorcery.cst_alcara.desc.1	Increases and decreases to Perk Experience
+perk.astralsorcery.cst_alcara.desc.2	apply to Perk Effect instead at 50%% of their value.
+perk.astralsorcery.cst_alcara.desc.4	You can only unlock 1 Focus Perk.
+perk.astralsorcery.cst_gelu.desc.1	Gain +3%% increased Perk Effect per allocated Perk.
+perk.astralsorcery.cst_gelu.desc.2	Other modifiers to Perk Effect no longer apply.
+perk.astralsorcery.cst_gelu.desc.4	You can only unlock 1 Focus Perk.
+perk.astralsorcery.cst_ulteria.desc.1	+5%% more Perk Experience per unspent Perk Point.
+perk.astralsorcery.cst_ulteria.desc.3	You can only unlock 1 Focus Perk.
+perk.astralsorcery.cst_vorux.desc.1	Gain +1%% Perk Effect per unsealed allocated Perk.
+perk.astralsorcery.cst_vorux.desc.2	You cannot gain Perk Experience.
+perk.astralsorcery.cst_vorux.desc.4	You can only unlock 1 Focus Perk.
+perk.astralsorcery.def_gem_path.name	More Perk Effect
+perk.astralsorcery.discidia.desc	Gain experience by dealing damage
+
+### LO: integratedtunnels_01
+aspect.aspects.integratedtunnels.write.block.world.block.block.export.info	Place the block in the world.
+aspect.aspects.integratedtunnels.write.block.world.block.block.import.info	Pick up the block in the world.
+aspect.aspects.integratedtunnels.write.block.world.block.block.import.name	Pick Up Block
+aspect.aspects.integratedtunnels.write.boolean.energy.export.info	Export energy if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.energy.import.info	Import energy if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.fluid.export.info	Export fluids if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.fluid.export.name	Export All Fluids
+aspect.aspects.integratedtunnels.write.boolean.fluid.import.info	Import fluids if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.fluid.import.name	Import All Fluids
+aspect.aspects.integratedtunnels.write.boolean.item.export.info	Export items if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.item.export.name	Export All Items
+aspect.aspects.integratedtunnels.write.boolean.item.import.info	Import items if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.item.import.name	Import All Items
+aspect.aspects.integratedtunnels.write.boolean.player.click.info	Click with any item.
+aspect.aspects.integratedtunnels.write.boolean.player.clickempty.info	Click with an empty hand.
+aspect.aspects.integratedtunnels.write.boolean.world.block.export.info	Place all item blocks in the world.
+aspect.aspects.integratedtunnels.write.boolean.world.block.export.name	Place All Item Blocks
+aspect.aspects.integratedtunnels.write.boolean.world.block.import.info	Pick up all item blocks in the world.
+aspect.aspects.integratedtunnels.write.boolean.world.block.import.name	Pick Up All Item Blocks
+aspect.aspects.integratedtunnels.write.boolean.world.entity.energy.export.info	Export energy to the facing entities if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.world.entity.energy.export.name	Export All Energy To Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entity.energy.import.info	Import energy from the facing entities if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.world.entity.energy.import.name	Import All Energy From Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entity.fluid.export.info	Export fluid to the facing entities if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.world.entity.fluid.export.name	Export All Fluid To Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entity.fluid.import.info	Import fluid from the facing entities if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.world.entity.fluid.import.name	Import All Fluid From Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entity.item.export.info	Export items to the facing entities if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.world.entity.item.export.name	Export All Items To Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entity.item.import.info	Import items from the facing entities if the boolean is true
+aspect.aspects.integratedtunnels.write.boolean.world.entity.item.import.name	Import All Items From Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entityitem.export.info	Place all items into the world.
+aspect.aspects.integratedtunnels.write.boolean.world.entityitem.export.name	Place All Item Entities
+aspect.aspects.integratedtunnels.write.boolean.world.entityitem.import.info	Pick up all items from the world.
+aspect.aspects.integratedtunnels.write.boolean.world.entityitem.import.name	Pick Up All Item Entities
+aspect.aspects.integratedtunnels.write.boolean.world.fluid.export.info	Place all fluids in the world.
+aspect.aspects.integratedtunnels.write.boolean.world.fluid.export.name	Place All Fluids
+aspect.aspects.integratedtunnels.write.boolean.world.fluid.import.info	Pick up all fluids in the world.
+aspect.aspects.integratedtunnels.write.boolean.world.fluid.import.name	Pick Up All Fluids
+aspect.aspects.integratedtunnels.write.fluidstack.fluid.export.info	Export the given fluid.
+aspect.aspects.integratedtunnels.write.fluidstack.fluid.import.info	Import the given fluid.
+aspect.aspects.integratedtunnels.write.fluidstack.world.entity.fluid.export.info	Export the given fluid to the facing entities.
+aspect.aspects.integratedtunnels.write.fluidstack.world.entity.fluid.export.name	Export Fluid To Entities
+aspect.aspects.integratedtunnels.write.fluidstack.world.entity.fluid.import.info	Import the given fluid from the facing entities.
+aspect.aspects.integratedtunnels.write.fluidstack.world.entity.fluid.import.name	Import Fluid From Entities
+aspect.aspects.integratedtunnels.write.fluidstack.world.fluid.export.info	Place the given fluid in the world.
+aspect.aspects.integratedtunnels.write.fluidstack.world.fluid.import.info	Pick up the given fluid in the world.
+aspect.aspects.integratedtunnels.write.fluidstack.world.fluid.import.name	Pick Up Fluid
+aspect.aspects.integratedtunnels.write.integer.energy.export.info	Export the given amount of energy each tick.
+aspect.aspects.integratedtunnels.write.integer.energy.export.name	Export Energy Amount
+aspect.aspects.integratedtunnels.write.integer.energy.import.info	Import the given amount of energy each tick.
+aspect.aspects.integratedtunnels.write.integer.energy.import.name	Import Energy Amount
+aspect.aspects.integratedtunnels.write.integer.fluid.export.info	Export the given amount of fluids each tick.
+aspect.aspects.integratedtunnels.write.integer.fluid.export.name	Export Fluid Amount
+aspect.aspects.integratedtunnels.write.integer.fluid.import.info	Import the given amount of fluids each tick.
+aspect.aspects.integratedtunnels.write.integer.fluid.import.name	Import Fluid Amount
+aspect.aspects.integratedtunnels.write.integer.item.export.info	Export the given amount of items each tick.
+aspect.aspects.integratedtunnels.write.integer.item.export.name	Export Item Amount
+aspect.aspects.integratedtunnels.write.integer.item.import.info	Import the given amount of items each tick.
+aspect.aspects.integratedtunnels.write.integer.item.import.name	Import Item Amount
+aspect.aspects.integratedtunnels.write.integer.item.slot.export.info	Export items to the given slot. -1 is any slot, -2 or less is no slot.
+aspect.aspects.integratedtunnels.write.integer.item.slot.export.name	Export Item Slot
+aspect.aspects.integratedtunnels.write.integer.item.slot.import.info	Import items from the given slot. -1 is any slot, -2 or less is no slot.
+aspect.aspects.integratedtunnels.write.integer.item.slot.import.name	Import Item Slot
+aspect.aspects.integratedtunnels.write.integer.player.click.info	Click with the given amount of items.
+aspect.aspects.integratedtunnels.write.integer.world.entity.energy.export.info	Export the given amount of Energy to the facing entities each tick.
+aspect.aspects.integratedtunnels.write.integer.world.entity.energy.export.name	Export Energy Amount To Entities
+aspect.aspects.integratedtunnels.write.integer.world.entity.energy.import.info	Import the given amount of energy from the facing entities each tick.
+aspect.aspects.integratedtunnels.write.integer.world.entity.energy.import.name	Import Energy Amount From Entities
+aspect.aspects.integratedtunnels.write.integer.world.entity.fluid.export.info	Export the given amount of fluid to the facing entities each tick.
+aspect.aspects.integratedtunnels.write.integer.world.entity.fluid.export.name	Export Fluid Amount To Entities
+aspect.aspects.integratedtunnels.write.integer.world.entity.fluid.import.info	Import the given amount of fluid from the facing entities each tick.
+aspect.aspects.integratedtunnels.write.integer.world.entity.fluid.import.name	Import Fluid Amount From Entities
+aspect.aspects.integratedtunnels.write.integer.world.entity.item.export.info	Export the given amount of items to the facing entities each tick.
+aspect.aspects.integratedtunnels.write.integer.world.entity.item.export.name	Export Item Amount To Entities
+aspect.aspects.integratedtunnels.write.integer.world.entity.item.import.info	Import the given amount of items from the facing entities each tick.
+aspect.aspects.integratedtunnels.write.integer.world.entity.item.import.name	Import Item Amount From Entities
+aspect.aspects.integratedtunnels.write.integer.world.entityitem.export.info	Place the given amount of items into the world.
+aspect.aspects.integratedtunnels.write.integer.world.entityitem.export.name	Place Item Entities
+aspect.aspects.integratedtunnels.write.integer.world.entityitem.import.info	Pick up the given amount of items from the world.
+aspect.aspects.integratedtunnels.write.integer.world.entityitem.import.name	Pick Up Item Entities
+aspect.aspects.integratedtunnels.write.itemstack.item.export.info	Export the given item.
+aspect.aspects.integratedtunnels.write.itemstack.item.import.info	Import the given item.
+
+### LO: botania_04
+botania.versioning.updateMessage	["Click for... [",{"text":"Download","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to automatically download the latest version","color":"green"}},"clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/botania-ceu/download/latest"}},"] [",{"text":"Website","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the mod's website","color":"green"}},"clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/botania-ceu"}},"] [",{"text":"Changelog","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the version's Changelog","color":"green"}},"clickEvent":{"action":"open_url","value":"https://github.com/TeamDimensional/Botania-CEu"}},"]"]
+botania.wings2	Wings: One-Winged Angel
+botania.wings3	Wings: Ice Fairy
+botania.wings5	Wings: Black Snow Princess
+botania.wings6	Wings: Lord of the Pit
+botania.wings8	Wings: Mega Ultra Chicken
+botania.wings9	Wings: The One
+boundBlock.wireframe.enabled	Bound Block Wireframe
+chargeAnimation.enabled	Charging Animation Enabled
+darkQuartz.enabled	Enable Smokey Quartz   @@KEEP: Smokey Quartz
+debugInfo.enabled	Enable Botania's F3 debug information
+elfPortal.particles.enabled	Enable Portal Particles
+enderPickpocket.enabled	Enable Ender Pickpocketing
+fallenKanade.enabled	Enable Fallen Kanade   @@KEEP: Fallen Kanade
+fancySkybox.normalWorlds	Fancy Skybox in non-GoG Worlds
+flightBar.height	Flugel Tiara Flight Bar Height
+flightBarBreath.height	Flight Bar Height with Breath Bar
+flower.forceCheck	Flower Force Checking
+flowerParticles.frequency	Flower Particle Frequency
+flowerTextures.alt	Alternate Flower Textures
+generator.botania-skyblock	Garden of Glass
+generator.botania-skyblock.info	Not recommended for Botania newcomers
+groovyscript.wiki.botania.petal_apothecary_catalysts.add	Adds a new catalyst
+groovyscript.wiki.botania.petal_apothecary_catalysts.note0	The default list of catalysts is empty, which has a special behavior of "any seeds can be used as a catalyst". This special behavior is removed when any items are added as catalysts.
+groovyscript.wiki.botania.petal_apothecary_catalysts.remove	Removes a catalyst
+groovyscript.wiki.botania.petal_apothecary_catalysts.title	Petal Apothecary Catalysts   @@KEEP: Petal Apothecary
+groovyscript.wiki.botania.runic_altar_catalysts.add	Adds a new catalyst, making it impossible to use it in Runic Altar recipes   @@KEEP: Runic Altar
+groovyscript.wiki.botania.runic_altar_catalysts.remove	Removes a catalyst and makes it possible to use this item in Runic Altar recipes   @@KEEP: Runic Altar
+groovyscript.wiki.botania.runic_altar_catalysts.title	Runic Altar Catalysts   @@KEEP: Runic Altar
+groovyscript.wiki.botania.runic_altar_retained_items.add	Adds a retained item
+groovyscript.wiki.botania.runic_altar_retained_items.remove	Removes a retained item
+groovyscript.wiki.botania.runic_altar_retained_items.title	Runic Altar Retained Items   @@KEEP: Runic Altar
+groovyscript.wiki.botania.terrestrial_agglomeration_plate.blocks.value	Blocks required underneath the plate, or blocks that will be created under the plate when the recipe is done. The replacement blocks may be `null`, which makes the recipe keep that block intact
+groovyscript.wiki.botania.terrestrial_agglomeration_plate.inputColor.value	Starting color of the particles displayed when executing the recipe
+groovyscript.wiki.botania.terrestrial_agglomeration_plate.mana.value	Mana cost of the recipe. 1 mana pool is 1 million
+groovyscript.wiki.botania.terrestrial_agglomeration_plate.outputColor.value	Ending color of the particles displayed when executing the recipe
+groovyscript.wiki.botania.terrestrial_agglomeration_plate.title	Terrestrial Agglomeration Plate   @@KEEP: Terrestrial Agglomeration Plate
+groovyscript.wiki.botania_ceu.rune_altar.input.required	that `input` IIngredients cannot contain the items configured as Runic Altar's catalysts (default is Livingrock)   @@KEEP: Runic Altar | Livingrock
+harvestLevel.boreLens	Bore Lens Harvest Level
+harvestLevel.weightLens	Weight Lens Harvest Level
+lexicon.enable.justifiedText	Lexicon Justified Text
+lexicon.enable.rotatingItems	Lexicon Rotating Items
+lexicon.render.3D	3D Lexicon Render
+magnetRing.invert	Inverted Magnet Ring Controls
+manaBar.height	Mana Bar Height
+manaEnchanter.enabled	Enable Mana Enchanter   @@KEEP: Mana Enchanter
+manaFluxfield.enabled	Enable Mana Fluxfield   @@KEEP: Mana Fluxfield
+manaSpreaders.silent	Silent Mana Spreaders   @@KEEP: Mana Spreader
+matrixMode.enabled	Enable Matrix Mode
+passiveWither.time	Passive Wither Time
+powerSystem.subtle	Use Subtle Power System
+pylonModel.old	Use Old Pylon Model
+quickLookup.lexicaOfflineMode	Lexica Wiki Lookup Offline Mode
+quickLookup.useShift	Lexica Quick Lookup Uses Shift Key
+references.enabled	Enable Tooltip References
+ringOfOdin.fireResist	Enable Ring of Odin Fire Resist   @@KEEP: Ring of Odin
+shaders.enabled	Enable Shader Usage
+spreader.posShift	Spreader Pos Shift
+spreader.traceTime	Spreader Trace Time
+staticFloaters.enabled	Enable Static Floating Flowers
+thaumraftStabilizers.enabled	TC Infusion Stabilizers   @@KEEP: Stabilizer
+thermalily.obsidian	Thermalily Needs Obsidian   @@KEEP: Thermalily
+vanillaParticleConfig.enabled	Use Vanilla Particle Config
+versionChecking.enabled	Enable Version Checking
+wandBeam.static	Enable Static Wand Beam
+worldgen.flower.density	Worldgen Flower Density
+worldgen.flower.patchChance	Worldgen Flower Patch Chance
+worldgen.flower.patchSize	Worldgen Flower Patch Size
+worldgen.flower.quantity	Worldgen Flower Quantity
+worldgen.flower.tallChance	Worldgen Flower Tall Chance
+worldgen.mushroom.quantity	Worldgen Mushroom Quantity
+
+### LO: evilcraft_02
+config.evilcraft.redstone_grenade.dropAfterUsage	Drop Redstine Grenade after use
+config.evilcraft.rejuvenated_flesh.biteUsage	Rejuvenated Flesh blood usage   @@KEEP: Rejuvenated Flesh
+config.evilcraft.rejuvenated_flesh.containerSize	Rejuvenated Flesh capacity   @@KEEP: Rejuvenated Flesh
+config.evilcraft.sang_envir_acc.baseUsage	Sanguinary Envir. Acc. blood usage
+config.evilcraft.sanguinary_pedestal.efficiencyBoost	Sanguinary Pedestal blood multiplier   @@KEEP: Sanguinary Pedestal
+config.evilcraft.spiked_plate.damage	Spiked Plate damage   @@KEEP: Spiked Plate
+config.evilcraft.spiked_plate.mobMultiplier	Spiked Plate MB mob multiplier   @@KEEP: Spiked Plate
+config.evilcraft.spirit_furnace.bossMBPerTick	Spirit Furnace boss blood usage   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.mBPerTick	Spirit Furnace blood usage   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.mobDeathSounds	Spirit Furnace death sounds   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.mobDrops	Spirit Furnace custom mob drops   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.playerDrops	Spirit Furnace custom player drops   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.playerMBPerTick	Spirit Furnace player blood usage   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.requiredTicksPerHp	Spirit Furnace boss entity cook time   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_furnace.villagerDropEmeraldChance	Spirit Furnace villager emerald chance   @@KEEP: Spirit Furnace
+config.evilcraft.spirit_reanimator.clearBoxContents	Spirit Reanimator clear on revival   @@KEEP: Spirit Reanimator
+config.evilcraft.spirit_reanimator.mBPerTick	Spirit Reanimator blood usage   @@KEEP: Spirit Reanimator
+config.evilcraft.spirit_reanimator.requiredTicks	Spirit Reanimator reanimation time   @@KEEP: Spirit Reanimator
+config.evilcraft.vein_sword.durability	Vein Sword durability   @@KEEP: Vein Sword
+config.evilcraft.vein_sword.extractionBoost	Vein Sword blood boost   @@KEEP: Vein Sword
+config.evilcraft.vengeance.areaOfEffect	Vengeance area of effect size
+config.evilcraft.vengeance.vengeanceChance	Vengeance Spirit toggle chance   @@KEEP: Vengeance Spirit
+config.evilcraft.vengeance_pickaxe.fortuneLevel	Vengeance Pickaxe fortune level   @@KEEP: Vengeance Pickaxe
+config.evilcraft.vengeance_pickaxe.vengeanceLevel	Vengeance Pickaxe vengeance level   @@KEEP: Vengeance Pickaxe
+config.evilcraft.vengeance_ring.areaOfEffect	Vengeance ring area of effect size
+config.evilcraft.vengeance_spirit.alwaysVisibleInCreative	Vengeance Spirits always visible in creative   @@KEEP: Vengeance Spirit
+config.evilcraft.vengeance_spirit.entityBlacklist	Vengeance Spirit blacklist   @@KEEP: Vengeance Spirit
+config.evilcraft.vengeance_spirit.nonDegradedSpawnChance	Vengeance Spirit spawn chance on item use   @@KEEP: Vengeance Spirit
+config.evilcraft.vengeance_spirit.spawnLimit	Vengeance Spirit spawn limit   @@KEEP: Vengeance Spirit
+config.evilcraft.vengeance_spirit.spawnLimitArea	Vengeance Spirit spawn area limit   @@KEEP: Vengeance Spirit
+config.evilcraft.werewolf_flesh.humanoidFleshDropChance	Humanoid flesh drop chance
+config.evilcraft.worldgeneration	World generation settings
+gui.waila.block_info_config	Shift-info for blocks
+gui.waila.box_of_eternal_closure_config	Box of Eternal Closure contents   @@KEEP: Box of Eternal Closure
+gui.waila.inner_blocks_config	Actual inner blocks
+info_book.evilcraft.first_age.items.dark_spike.text	Using a &1Dark Gem&0 and a piece of &1Iron&0, I was able to create very sharp and durable &1Spikes&0. Mobs don't seem to like them very much...   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.items.dark_tank.text1	Using some &1Iron&0, &1Dark Gems&0 and a piece of &1Glass&0, it is possible to construct a strong container that is able to hold fluids. It is possible to place these tanks somewhere, or hold them in your inventory.   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.items.dark_tank.text2	When it is placed somewhere, you can right-click which gives it a purple-ish glow, and it seems to open up a hole at the bottom of the tank which is able to automatically fill tanks, item containers and players carrying containers underneath it.
+info_book.evilcraft.first_age.items.dark_tank.text3	Shift + right-clicking with the tank in your hand and not aiming at a block (because you know you will just place the tank down if you would do so) will enable a special mode to make it automatically try to fill any container you are currently holding if it can accept that fluid.
+info_book.evilcraft.first_age.items.dark_tank.text4	It looks like it can hold about sixteen buckets. If that is too limiting for you, these tanks seem to be expandable by placing multiple ones inside a crafting table, no fluids seem to go lost in this process.
+info_book.evilcraft.first_age.items.display_stand.text1	This small block can showcase your favorite items and blocks. It seems to support any wood type, and it can be placed with any rotation you want. You can pipe items in and out from the bottom or the top.
+info_book.evilcraft.first_age.items.display_stand.text2	Interaction from all other sides of the block will be delegated to the item itself, so you can interact with its inventory, fluids, energy, ...
+info_book.evilcraft.first_age.items.dull_dust.text	Combining some &1Sugar&0 and &1Gunpowder&0 will result in a weird dust that doesn’t seem to be very useful at the moment, hence the name. Although this might change one day.   @@KEEP: Gunpowder
+info_book.evilcraft.first_age.items.exalted_crafter.text1	Crafting tables can be inconvenient sometimes when at remote locations. It looks like the &1Crushed Dark Gems&0 give the power to craft things from within your inventory! Attaching some kind of chest to it gives an easy internal inventory, even your &1Ender Chest&0 seems to work. Power users might be happy with this item, since it can be bound to a hotkey. Using that same hotkey when the gui is open will clear your inventory, and using the hotkey with shift will balance all the items currently inside the grid. There is a toggle button available that allows you to switch between the return targets when shift-removing items from the crafting grid, you can choose between either the inner item inventory or your player inventory.   @@KEEP: Crushed Dark Gem | Ender Chest
+info_book.evilcraft.first_age.items.exalted_crafter.text2	Striking it with lightning seems to make it bound to reality so that it can’t be destroyed or disappear when dropped.
+info_book.evilcraft.first_age.items.obscured_glass.text	Some people might find regular &1Glass&0 too bright. Combining some glass with a &1Dark Gem&0 seems to make a special type of glass that almost completely reduces the amount of light that gets through. I am still able to look through the glass though, very strange...   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.items.potentia_sphere.text	Combining several shiny mundane items will result in a sphere that seems to possess some awesome powers, I might discover a way to harness these powers in the near future. It looks like the power can be inverted by using some &1Dark Gems&0.   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.items.spiked_plate.text1	Some &1Spikes&0 and a &1Plate&0 will result in a plate which will damage any mob walking over it, me and my peers don’t seem to take any damage though. The powers of the &1Dark Gem&0 seems to ensure killing mobs in this process to drop the same things when killed by any player.   @@KEEP: Dark Gem
+info_book.evilcraft.first_age.items.spiked_plate.text2	For your convenience, they also give off a redstone signal when a mob is taking damage.
+info_book.evilcraft.first_age.items.spikey_claws.text1	Nothing is more annoying than swapping tools around when trying to break blocks, and the suddenly having to fight incoming mobs.
+info_book.evilcraft.first_age.items.spikey_claws.text2	Combining some &1Spikes&0 allows you to break almost all soft materials very quickly. At the same time, any mobs that come creeping by can also be attacked with sufficient power.
+info_book.evilcraft.first_age.new_world	A Strange New World
+info_book.evilcraft.first_age.new_world.biome_extract.text1	Our world is made up of &1Biomes&0, many different variantions exist. Unfortunately, we can not choose the location of these &1Biomes&0, or at least not always.
+info_book.evilcraft.first_age.new_world.biome_extract.text2	One of the abilities of the &1Environmental Accumulator&0 is that it can accept special &1Biome Extract Bottles&0 which it can fill with the &1Biome&0 the machine is currently placed in. These bottles can be thrown anywhere on the ground to transform that area to the given biome.   @@KEEP: Environmental Accumulator | Biome Extract Bottle
+info_book.evilcraft.first_age.new_world.biome_extract.text3	One major disadvantage of the &1Environmental Accumulator&0 is that it will degrade its biome over time, so the bottles coming out of it will become pretty useless. If only there was an alternative way to craft these &1Biome Extracts&0 without bad effects...   @@KEEP: Environmental Accumulator | Biome Extract
+info_book.evilcraft.first_age.new_world.dark_ore.text	This world is filled with all sorts of resources, this I have known for a long time... But today I have made a new discovery, there is an ore in this world, with a somewhat dark shine to it, it makes me think of precious gems, but I sense a very obscure presence within them. Hitting them with an iron pick axe seems to be the minimal requirement to get some of these gems. There also seems to appear some kind of rather strange dust, when I mine them, I’m sure I will find a use for this dust soon enough. It appears that Fortune levels increase the chance of getting these dusts.
+
+### LO: evilcraft_06
+info_book.evilcraft.second_age.tools.broom.introduction.text2	&1Brooms&0 are made of three main parts. The &1Rod&0 is the basis of your broom, this will influence its main properties. A &1Brush&0 is needed to make the Broom maneuvarable. Finally, a &1Cap&0 is needed to balance your &1Broom&0.
+info_book.evilcraft.second_age.tools.broom.introduction.text3	All possible &1Broom&0 parts must be created using the &1Bare Rod, Brush&0 and &1Cap&0, this can be done by combining these three parts of any material in any crafting grid. Parts made from different materials seem to have different properties. All possible properties will be explained in the following section after that I will give an overview of all &1Broom&0 parts.
+info_book.evilcraft.second_age.tools.broom.introduction.text4	When flying with the &1Broom&0, make sure that it has enough &4Blood&0 at all times, otherwise the &1Broom&0 will slow down significantly.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.acceleration	&l&nAcceleration&r&NThe higher this value, the faster the &1Broom&0 will accelerate.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.bouncy	&l&nBouncy&r&NColliding entities will be bounced away, depending on this modifier value.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.damage	&l&nDamage&r&NThe damage that will be afflicted onto colliding mobs. The faster the &1Broom&0 is flying, the higher this damage will be.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.efficiency	&l&nEfficiency&r&NA higher modifier value will result in a higher chance that nood &4Blood&0 needs to be consumed.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.flame	&l&nFlame&r&NAny colliding entity will be lit on fire.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.hungerer	&l&nHungerer&r&NColliding entities will experience sudden hunger.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.icy	&l&nIcy&r&NSlows down colliding entities.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.intro	In this section, I will list all modifier effects I have discovered during my adventures. They can be applied to an existing &1Broom&0 by combining it in any crafting grid. Once the modifier is applied, there is no way to remove it again from the &1Broom&0.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.kamikaze	&l&nKamikaze&r&NWhen colliding with an entity the &1Broom&0 will explode. It is very unlikely that a mounted player would survive something like this.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.levitation	&l&nLevitation&r&NThe higher this value, the faster the &1Broom&0 can fly up.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.luck	&l&nLuck&r&NThis ability makes the mounted player more lucky when killing mobs and breaking blocks.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.maneuverability	&l&nManeuverability&r&NHow fast a &1Broom&0 can rotate.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.modifier_count	&l&nModifier Count&r&NThe maximum amount of modifiers a &1Broom&0 can have.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.particles	&l&nParticles&r&NHow much particles should be emitted from the &1Broom&0 when flying.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.smash	&l&nSmash&r&NThis is used to enable the &1Broom&0 to break blocks when flying. Higher values can break harder blocks.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.speed	&l&nSpeed&r&NThe top speed of a &1Broom&0.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.sturdyness	&l&nThoughness&r&NHigher modifier values will make the &1Broom&0 less influencable by external factors during movement.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.swimming	&l&nSwimming&r&NThis makes the &1Broom&0 better maneuverable in liquids.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.witherer	&l&nWitherer&r&NThe wither effect will be applied to colliding entities.
+info_book.evilcraft.second_age.tools.broom.modifiers.text.withershield	&l&nWither Shield&r&NThe higher the modifier value, the larger the chance that the mounted player will be protected from incoming projectiles.
+info_book.evilcraft.second_age.tools.broom.parts.text1	Various materials can be used to make broom parts. Their tooltip shows what base modifiers will be present on the resulting &1Broom&0 after crafting.
+info_book.evilcraft.second_age.tools.effortless_ring.text	I was able to construct a special ring that can apply the &1Promises&0 of &Productivity&0 and &1Velocity&0 which allows you to walk faster, jump higher and step more easily on blocks. Just hold this item anywhere inside your inventory to gain its effects. Note that this step assist can be avoided by holding &oShift&r.
+info_book.evilcraft.second_age.tools.gemstone_torch.text	I was able to combine the &1Burning Gemstone&0 with a &1Dark Stick&0 to make a special torch that seems to absorb any spawning &1Vengeance Spirits&0 in its light area. Note that any spirits spawned outside the area will still be able to wander in this area though, but a simple mundane wall should be able to solve that.   @@KEEP: Vengeance Spirit | Dark Stick
+info_book.evilcraft.second_age.tools.introduction.text	Items that use &4Blood&0 mostly have an internal container that can hold some &4Blood&0 which can be filled using the &1Blood Infuser&0 or by activating auto-supply mode on other tools and holding the item to fill in your hand. When using these items, it will drain some &4Blood&0. When that item has ran out of &4Blood&0, it will try to drain &4Blood&0 from other containers in your inventory, or it will stop functioning if no such item can be found.   @@KEEP: Blood Infuser
+info_book.evilcraft.second_age.tools.invigorating_pendant.text	Getting rid of bad potion effects can be a pain. This pendant is able to remove any bad effect at the cost of some &4Blood&0. Worse effects cost more &4Blood&0. It even seems to extinguish fire, but I wouldn’t recommend swimming in lava just yet. You will need a special kind of string to craft this, which can be created by combining regular string with a small fragment of gold.
+info_book.evilcraft.second_age.tools.kineticator.text1	This item is able to attract items and experience orbs in a certain area. This area can be changed by right-clicking it, enabling or disabling it is done with a simple shift + right-click. Items that are attracted from nearby consumes little to no &4Blood&0, but items from further away will require some more &4Blood&0. Sneaking will avoid kineticating items.
+info_book.evilcraft.second_age.tools.kineticator.text2	Reversing the recipe will give the opposite version of this item which is able to repel items and experience orbs.
+info_book.evilcraft.second_age.tools.primed_pendant.text	After making the &1Invigorating Pendant&0, I started thinking. What if it would be possible to not only remove, but also apply effects? This new pendant is able to hold one &1Potion&0, and by using &4Blood&0 it will continuously apply its effect to you. I noticed that some effects cost more &4Blood&0 than the others. You can insert new &1Potions&0 by simply right-clicking with the item.   @@KEEP: Invigorating Pendant
+info_book.evilcraft.second_age.tools.sceptre_of_thunder	Sceptre of Thunder   @@KEEP: Sceptre of Thunder
+info_book.evilcraft.second_age.tools.sceptre_of_thunder.text	I feel oddly at peace when there are thunderstorms. That is why I made a simple tool that can spawn such storms. This item can however be used only once, making this a rather expensive process.
+info_book.evilcraft.second_age.tools.vengeance_pickaxe.text	I’ve discovered a way to reuse the technology from the &1Vengeance Ring&0 into a pickaxe. This seems to drastically reduce the durability of the pickaxe though. But it has an interesting side-effect that when crafted will have the ability to trigger an enormous &1Fortune&0.   @@KEEP: Vengeance Ring
+info_book.evilcraft.second_age.weapons.mace_of_destruction	Mace of Destruction   @@KEEP: Mace of Destruction
+info_book.evilcraft.second_age.weapons.mace_of_destruction.text	This is a variant of the &1Mace of Distortion&0, the force that is released by this mace is actually a powerful explosion. The longer you charge the mace, the bigger the explosion will be. Increasing the power level of this mace will increase the starting power of the explosion, so you can charge even more.   @@KEEP: Mace of Distortion
+info_book.evilcraft.second_age.weapons.mace_of_distortion	Mace of Distortion   @@KEEP: Mace of Distortion
+info_book.evilcraft.second_age.weapons.mace_of_distortion.text	Holding right-click with this mace will build up a circular sphere around it that, when released, will trigger a force upon all other entities within that sphere knocking them back and causing some damage as long as the mace has enough &4Blood&0. Shift + right-clicking it will cycle through the different power levels, each higher level will cause more damage, but at the same time cost more &4Blood&0.
+
+### LO: integratedtunnels_05
+info_book.integratedtunnels.tutorials.world_item_importer_exporter.text1	Simular to &oItem Importers&r and &oItem Exporters&r, &lWorld Item Importers&r and &lWorld Item Exporters&r can respectively pick up items from the world into your item network and place items into the world from your item network. Furthermore, these can also be used to interact with dropped items that have inventories, such as &oShulker Boxes&r.   @@KEEP: Item Importer
+info_book.integratedtunnels.world.block.text1	The &lBlock World Importers&r and &lBlock World Exporters&r allow you to place blocks and break them. Various aspect properties such as silk touching are available.
+info_book.integratedtunnels.world.energy.text1	The &lEnergy World Importers&r and &lFluid World Exporters&r help you interact with entities that have an energy buffer, such as dropped batteries.
+info_book.integratedtunnels.world.fluid.text1	With &lFluid World Importers&r and &lFluid World Exporters&r, you can place fluid source blocks, pick them up and interact with entities that are a tank, such as dropped tank items. Various aspect properties exists to change things like whether or not a block update should be caused.
+info_book.integratedtunnels.world.item.text1	&lItem World Importers&r and &lItem World Exporters&r can be used to place items in the world, pick them up, and interact with entities that have an inventory, such as dropped Shulker Boxes and Donkeys. Various aspect properties exists to change things like dispensing, throw-velocity, pickup delay, pitch and yaw.
+parttype.parttypes.integratedtunnels.exporter_energy.info	Exports energy from the network
+parttype.parttypes.integratedtunnels.exporter_fluid.info	Exports fluids from the network
+parttype.parttypes.integratedtunnels.exporter_item.info	Exports items from the network
+parttype.parttypes.integratedtunnels.exporter_world_block.info	Place blocks into the world
+parttype.parttypes.integratedtunnels.exporter_world_block.name	World Block Exporter
+parttype.parttypes.integratedtunnels.exporter_world_energy.info	Place energy into the world
+parttype.parttypes.integratedtunnels.exporter_world_energy.name	World Energy Exporter
+parttype.parttypes.integratedtunnels.exporter_world_fluid.info	Place fluids into the world
+parttype.parttypes.integratedtunnels.exporter_world_fluid.name	World Fluid Exporter
+parttype.parttypes.integratedtunnels.exporter_world_item.info	Place items into the world
+parttype.parttypes.integratedtunnels.exporter_world_item.name	World Item Exporter
+parttype.parttypes.integratedtunnels.importer_energy.info	Imports energy into the network
+parttype.parttypes.integratedtunnels.importer_fluid.info	Imports fluids into the network
+parttype.parttypes.integratedtunnels.importer_item.info	Imports items into the network
+parttype.parttypes.integratedtunnels.importer_world_block.info	Pick up blocks from the world
+parttype.parttypes.integratedtunnels.importer_world_block.name	World Block Importer
+parttype.parttypes.integratedtunnels.importer_world_energy.info	Pick up energy from the world
+parttype.parttypes.integratedtunnels.importer_world_energy.name	World Energy Importer
+parttype.parttypes.integratedtunnels.importer_world_fluid.info	Pick up fluids from the world
+parttype.parttypes.integratedtunnels.importer_world_fluid.name	World Fluid Importer
+parttype.parttypes.integratedtunnels.importer_world_item.info	Pick up items from the world
+parttype.parttypes.integratedtunnels.importer_world_item.name	World Item Importer   @@KEEP: Item Importer
+parttype.parttypes.integratedtunnels.interface_energy.info	Attaches an energy holder to the network
+parttype.parttypes.integratedtunnels.interface_fluid.info	Attaches an fluid tank to the network
+parttype.parttypes.integratedtunnels.interface_item.info	Attaches an item inventory to the network
+parttype.parttypes.integratedtunnels.player_simulator.info	Simulates player actions

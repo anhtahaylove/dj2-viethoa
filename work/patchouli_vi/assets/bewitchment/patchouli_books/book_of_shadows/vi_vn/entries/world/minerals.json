@@ -1,0 +1,87 @@
+{
+  "name": "Minerals",
+  "category": "world",
+  "icon": "bewitchment:amethyst",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù là vật chất vô cơ, Minerals, từ đá quý, đá cho đến kim loại, vẫn giữ vai trò quan trọng không kém trong Witchcraft."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Coquina",
+      "text": "Một loại đá trầm tích được tìm thấy trên Beaches. Loại đá này có mối liên kết mạnh mẽ với đại dương và thực chất được cấu thành từ phần còn lại của các loài có vỏ."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/coquina.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Amethyst",
+      "text": "Một tinh thể tím cực kỳ phổ biến. Nó được dùng để tăng cường ma thuật tấn công, và một số người cho rằng nó có thể tác động tích cực đến sức khỏe."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/amethyst.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Garnet",
+      "text": "Một loại đá quý có sắc đỏ tím đậm. Đá này rất hiệu quả trong việc bảo vệ khỏi ma thuật tà ác, nên mang đặc tính phòng thủ."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/garnet.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Opal",
+      "text": "Một loại đá quý trắng nhạt nổi tiếng với hiệu ứng “đổi màu” hay “ánh lửa”, màn trình diễn ánh sáng rực rỡ thay đổi tùy theo góc cầm. Đá này hỗ trợ ma thuật bổ trợ, chẳng hạn như cường hóa sức mạnh."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/opal.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Salt",
+      "text": "Một khoáng vật được tìm thấy khá gần mặt đất. Tuy trông không có gì nổi bật, Salt được dùng để chống lại mọi loại sinh vật siêu nhiên, đóng vai trò như một hàng rào vật lý ngăn cản chúng."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/salt.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Silver",
+      "text": "Một kim loại sáng chói, chỉ đứng sau Gold. Tượng trưng cho mặt trăng và sự thuần khiết, Silver là kim loại quý được dùng trong nhiều thiết bị ma thuật. Nó cũng được sử dụng rộng rãi để tiêu diệt các sinh vật siêu nhiên, phổ biến nhất là Werewolf, nhưng Vampire và những Undead khác cũng bị nó gây tổn thương."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/silver.png"
+      ],
+      "border": true
+    }
+  ]
+}

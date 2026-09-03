@@ -1,0 +1,11 @@
+{
+  "name": "Slot Filler",
+  "icon": "alchemistry:slot_filler",
+  "category": "utility_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Để tạo mẫu chế tạo AE2/RS/v.v. cho Chemical Combiner, bạn có thể dùng vật phẩm Slot Filler lấp các ô trống trong mẫu để mọi vật phẩm được chuyển vào đúng ô. Máy sẽ bỏ qua Slot Filler khi xử lý công thức, sau đó tiêu hao nó cùng các nguyên liệu đầu vào khác"
+    }
+  ]
+}

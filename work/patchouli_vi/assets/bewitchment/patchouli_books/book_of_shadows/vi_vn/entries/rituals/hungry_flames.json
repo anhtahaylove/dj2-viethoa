@@ -1,0 +1,15 @@
+{
+  "name": "Hungry Flames",
+  "category": "rituals",
+  "icon": "minecraft:blaze_powder",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Triệu hồi lửa từ bên dưới để nấu và nung mọi vật phẩm trong vòng tròn, nhưng một số vật phẩm có thể bị thiêu thành XP"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:hungry_flames"
+    }
+  ]
+}

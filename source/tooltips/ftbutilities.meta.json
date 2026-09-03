@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "FTBUtilities-5.4.1.131.jar",
+      "path": "assets/ftbutilities/lang/en_us.lang"
+    }
+  ]
+}

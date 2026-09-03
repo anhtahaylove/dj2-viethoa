@@ -1,0 +1,55 @@
+{
+  "name": "Decorative Wildwood",
+  "icon": "roots:wildwood_stairs",
+  "category": "crafting_decoration",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_planks",
+      "text": "$(l:resources/wildwood)Wildwood$() và $(l:resources/bark#dark_oak)Wildwood Bark$() có nhiều biến thể trang trí và cách sử dụng khác nhau."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_door",
+      "recipe2": "roots:wildwood_trapdoor",
+      "title": "Cửa"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_button",
+      "recipe2": "roots:wildwood_pressure_plate",
+      "title": "Khối Redstone"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_fence",
+      "recipe2": "roots:wildwood_fence_gate",
+      "title": "Hàng rào"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_slab",
+      "recipe2": "roots:wildwood_unslab",
+      "title": "Phiến & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_wall",
+      "recipe2": "roots:wildwood_stair",
+      "title": "Tường & Cầu thang"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:wildwood_ladder",
+      "title": "Thang"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/wildwood"
+      ]
+    }
+  ]
+}

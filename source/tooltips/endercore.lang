@@ -1,0 +1,10 @@
+# Safe player-facing tooltip/prose candidates.
+endercore.tooltip.oreDictNames=Ore Dictionary Names:
+endercore.tooltip.durability=Durability:
+endercore.enchantment.xpboost.tooltip=Extra XP from mobs and blocks
+endercore.enchantment.autosmelt.tooltip=Automatically smelts whatever is mined
+endercore.chat.invis.warn.1=EnderCore is currently in %1$sinvisible mode%2$s %3$s.
+endercore.chat.invis.warn.2=This means that %1$sno gameplay changes will be active%2$s.
+endercore.chat.invis.warn.3=You can override this in the config.
+endercore.chat.invis.warn.4=This warning will only show once unless configured otherwise.
+endercore.chat.invis.reason.1=as requested by mod(s): %s

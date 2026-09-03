@@ -1,0 +1,12 @@
+{
+  "tooltip.chickenfeed_1": "Cho gà ăn.",
+  "tooltip.entityconveyor_2": "Mob có thể sinh ra trên khối này.",
+  "tooltip.hopper_2": "Có thể cấu hình để đẩy ra ở bất kỳ mặt nào.",
+  "tooltip.mobswab_1": "Dùng lên mob để thu thập 'DNA'.",
+  "tooltip.sawupgrade_arthropods": "Bane of Arthropods: +1. Tối đa 10.",
+  "tooltip.sawupgrade_beheading": "Beheading: +1. Tối đa 10.",
+  "tooltip.sawupgrade_fire": "Fire Aspect: +1. Tối đa 10.",
+  "tooltip.sawupgrade_looting": "Looting: +1. Tối đa 10.",
+  "tooltip.sawupgrade_sharpness": "Sharpness: +1. Tối đa 10.",
+  "tooltip.sawupgrade_smite": "Smite: +1. Tối đa 10."
+}

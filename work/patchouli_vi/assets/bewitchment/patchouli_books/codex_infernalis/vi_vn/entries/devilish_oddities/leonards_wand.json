@@ -1,0 +1,16 @@
+{
+  "name": "Leonard's Wand",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:leonards_wand",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một cây đũa phép đặc biệt thuộc về chính Master Leonard. Người sở hữu nó có thể thi triển các loại brew như phép thuật, mỗi brew cung cấp khoảng 8 “lần dùng”. Tuy nhiên, lấy được nó lại là chuyện khác. Leonard chỉ giao nó ra khi bóng ma hiện tại của ông bị tiêu diệt, một nhiệm vụ không hề dễ dàng."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:leonards_wand",
+      "text": "Cây đũa phép này không thể được sửa chữa hoặc phù phép"
+    }
+  ]
+}

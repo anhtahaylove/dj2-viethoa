@@ -1,0 +1,17 @@
+{
+  "modifier": "magicmushroom",
+  "text": [
+    {
+      "text": "Loại nấm kỳ diệu này có thể tăng khả năng của công cụ bằng phép thuật."
+    }
+  ],
+  "effects": [
+    "Tăng cấp khai thác thêm một bậc",
+    "Chỉ dùng một lần",
+    "Bằng phép thuật!"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer"
+  ]
+}

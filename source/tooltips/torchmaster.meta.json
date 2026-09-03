@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "torchmaster_1.12.2-1.8.5.0.jar",
+      "path": "assets/torchmaster/lang/en_us.lang"
+    }
+  ]
+}

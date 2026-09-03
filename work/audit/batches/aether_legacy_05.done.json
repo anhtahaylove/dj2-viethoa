@@ -1,0 +1,19 @@
+{
+ "lore.aether_legacy.yellow_cape": "Một chiếc Yellow Cape màu vàng rực, chế từ Yellow Wool.",
+ "lore.aether_legacy.zanite_axe": "Một trong những công cụ bậc trung của Aether, bạn đào gỗ nhanh hơn đá, và càng mòn thì nó càng nhanh hơn nữa.",
+ "lore.aether_legacy.zanite_block": "Một khối Zanite Gemstone nén lại. Chúng cấp năng lượng cho beacon được, mà trông cũng bóng bẩy nữa.",
+ "lore.aether_legacy.zanite_boots": "Một phần của bộ Zanite Armor, độ bảo vệ nó mang lại tăng lên khi độ bền giảm xuống.",
+ "lore.aether_legacy.zanite_chestplate": "Một phần của bộ Zanite Armor, độ bảo vệ nó mang lại tăng lên khi độ bền giảm xuống.",
+ "lore.aether_legacy.zanite_gemstone": "Phiên bản Sắt của Aether. Những viên đá tím óng ánh này có thể rèn thành công cụ và giáp, càng dùng càng mạnh.",
+ "lore.aether_legacy.zanite_gloves": "Một phần của bộ Zanite Armor, cần có để hoàn thiện trọn bộ Zanite Armor.",
+ "lore.aether_legacy.zanite_helmet": "Một phần của bộ Zanite Armor, độ bảo vệ nó mang lại tăng lên khi độ bền giảm xuống.",
+ "lore.aether_legacy.zanite_leggings": "Một phần của bộ Zanite Armor, độ bảo vệ nó mang lại tăng lên khi độ bền giảm xuống.",
+ "lore.aether_legacy.zanite_ore": "Một loại quặng hơi hiếm, làm rơi Zanite Gemstone khi phá bằng công cụ Đá.",
+ "lore.aether_legacy.zanite_pendant": "Một chiếc mặt dây chuyền giúp bạn đào nhanh hơn. Nó không bền lâu đâu, nên hãy dùng cho khôn ngoan!",
+ "lore.aether_legacy.zanite_pickaxe": "Một trong những công cụ bậc trung của Aether, nó đào được những gì Sắt đào được, chỉ khác là độ bền càng giảm thì nó càng nhanh. Nhưng cẩn thận đấy, sửa xong là nó lại chậm như cũ!",
+ "lore.aether_legacy.zanite_ring": "Một chiếc nhẫn giúp bạn đào nhanh hơn. Nó không bền lâu đâu, nên hãy dùng cho khôn ngoan!",
+ "lore.aether_legacy.zanite_shovel": "Một trong những công cụ bậc trung của Aether, càng đào đất và Quicksoil thì độ bền càng giảm, và càng nhanh hơn. Chờ đủ lâu là nó bắt đầu phá khối tức thì luôn! Cẩn thận khi sửa, vì độ bền càng nhiều thì nó càng chậm.",
+ "lore.aether_legacy.zanite_sword": "Một trong những công cụ bậc trung của Aether, sát thương của thanh kiếm này khởi đầu ở mức gỗ, và sẽ lên tới mức Kim Cương khi độ bền xuống thấp.",
+ "title.aether_legacy.sun_spirit.name": "Sun Spirit",
+ "title.aether_legacy.valkyrie_queen.name": "Valkyrie Queen"
+}

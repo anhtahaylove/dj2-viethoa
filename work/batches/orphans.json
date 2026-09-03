@@ -1,0 +1,30 @@
+{
+  "chapter_index": null,
+  "chapter_title_en": "Orphan quests",
+  "entries": [
+    {
+      "key": "dj2.quest.db.75.title",
+      "en": "Removed"
+    },
+    {
+      "key": "dj2.quest.db.75.desc",
+      "en": "Craft the required components listed in the right and construct the Tender Ender Blender Machine Blueprint, and Right Click it to visualize the multiblock. Now, using the preview, assemble the multiblock! This machine can charge any Ender Utilities Ender Cores without the need to be in the End or risking blowing up an End Crystal. It simply requires power and nothing else!%n%nThe machine uses 3 Hatches: 1 Item Input, 1 Item Output and 1 Energy Input. You can decide where you'd like to place these. Any size of Item Input/Output Hatches will suffice, but you'll need to use at least a Reinforced Energy Input Hatch.%n%nThe central block is the Stabilized End Crystal (the preview doesn't always seem to show it correctly). The lower layer consists of 3 Hatches, Machine Controller, and 1 Casing in the center. 4 blocks of Fortified Glass go on above the Hatches and the Controller. Finally, another layer of 5 Casings is required to cap it off. The Blueprint also needs to be placed inside for the machine to function."
+    },
+    {
+      "key": "dj2.quest.db.239.title",
+      "en": "§5Requires the Induction Smelter§r"
+    },
+    {
+      "key": "dj2.quest.db.239.desc",
+      "en": ""
+    },
+    {
+      "key": "dj2.quest.db.477.title",
+      "en": "Gone, Reduced to Elements"
+    },
+    {
+      "key": "dj2.quest.db.477.desc",
+      "en": ""
+    }
+  ]
+}

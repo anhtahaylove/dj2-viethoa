@@ -1,0 +1,3488 @@
+{
+  "wave": "config",
+  "mods": [
+    "aether_legacy",
+    "astralsorcery",
+    "atum",
+    "bigreactors",
+    "buildinggadgets",
+    "chiselsandbits",
+    "cyclopscore",
+    "enderio",
+    "evilcraft",
+    "galacticraftcore",
+    "galacticraftplanets",
+    "integratedtunnels",
+    "jecalculation",
+    "journeymap",
+    "loottweaker",
+    "mekanism",
+    "openmods",
+    "projectintelligence",
+    "quark",
+    "reccomplex",
+    "simplyjetpacks",
+    "spartanshields",
+    "storagedrawers",
+    "thaumicaugmentation",
+    "twilightforest",
+    "universaltweaks"
+  ],
+  "rows": [
+    {
+      "namespace": "aether_legacy",
+      "key": "aether_legacy.config.title",
+      "en": "Aether Configuration"
+    },
+    {
+      "namespace": "astralsorcery",
+      "key": "config.astralsorcery.category.amulet_enchantments",
+      "en": "Amulet Enchantments"
+    },
+    {
+      "namespace": "astralsorcery",
+      "key": "config.astralsorcery.category.astralsorcery",
+      "en": "AstralSorcery"
+    },
+    {
+      "namespace": "atum",
+      "key": "atum.configGui.atumStart",
+      "en": "Start in Atum"
+    },
+    {
+      "namespace": "atum",
+      "key": "atum.configGui.atumStartStructure",
+      "en": "Atum start structure"
+    },
+    {
+      "namespace": "atum",
+      "key": "atum.configGui.dimensionID",
+      "en": "Atum Dimension ID"
+    },
+    {
+      "namespace": "atum",
+      "key": "atum.configGui.fog",
+      "en": "Atum Fog"
+    },
+    {
+      "namespace": "atum",
+      "key": "atum.configGui.portalCreation",
+      "en": "Atum Portal"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.client",
+      "en": "Client-only configs"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.client.disableReactorFuelRodRender",
+      "en": "Disable Reactor Fuel Rods animation"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.client.disableReactorParticles",
+      "en": "Disable all particles in the Reactor"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.client.disableTurbineParticles",
+      "en": "Disable all particles in the Turbine"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.client.disableTurbineRotorRender",
+      "en": "Disable Turbine Rotor animation"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.compatibility",
+      "en": "Compatibility"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.compatibility.autoAddUranium",
+      "en": "Add uranium as a reactor reactant"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.compatibility.enableMetallurgyFantasyMetalsInTurbines",
+      "en": "Use Metallurgy fantasy metals in turbines"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.general",
+      "en": "General"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.general.enableComedy",
+      "en": "Comedy"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.general.fuelUsageMultiplier",
+      "en": "Fuel usage multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.general.powerProductionMultiplier",
+      "en": "Power production multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.general.registerCreativeMultiblockParts",
+      "en": "Register creative parts"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.general.ticksPerRedstoneUpdate",
+      "en": "Ticks per redstone update"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.reactor",
+      "en": "Reactor"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.reactor.maxReactorHeight",
+      "en": "Max height (Y)"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.reactor.maxReactorSize",
+      "en": "Max size (X/Z)"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.reactor.reactorPowerProductionMultiplier",
+      "en": "Power production multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes",
+      "en": "Recipes"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.enableCyaniteFromYelloriumRecipe",
+      "en": "Craft cyanite from yellorium"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.enableReactorPowerTapRecipe",
+      "en": "Allow Reactor Power Taps"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerCharcoalForSmelting",
+      "en": "Smelt charcoal into graphite"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerCoalForSmelting",
+      "en": "Smelt coal into graphite"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerCreativeMultiblockParts",
+      "en": "Register creative parts"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerGraphiteCharcoalCraftingRecipes",
+      "en": "Craft graphite from charcoal and gravel"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerGraphiteCoalCraftingRecipes",
+      "en": "Craft graphite from coal and gravel"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerYelloriteSmeltToUranium",
+      "en": "Smelt yellorite ore into uranium ingots"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.registerYelloriumAsUranium",
+      "en": "Use uranium/plutonium instead of yellorium/blutonium"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.requireObsidianGlass",
+      "en": "Use hardened or reinforced glass"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.recipes.requireSteelInsteadOfIron",
+      "en": "Use steel instead of iron ingots [NOT USED]"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine",
+      "en": "Turbine"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.maxTurbineHeight",
+      "en": "Max height (Y)"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.maxTurbineSize",
+      "en": "Max size (X/Z)"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.turbineAeroDragMultiplier",
+      "en": "Aero drag multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.turbineCoilDragMultiplier",
+      "en": "Coil drag multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.turbineFluidPerBladeMultiplier",
+      "en": "Fluid per blade multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.turbineMassDragMultiplier",
+      "en": "Mass drag multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.turbine.turbinePowerProductionMultiplier",
+      "en": "Power production multiplier"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen",
+      "en": "World Gen"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.anglesiteOreEnableWorldGen",
+      "en": "Generate anglesite ore"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.anglesiteOreMaxClustersPerChunk",
+      "en": "Max number of cluster of anglesite ore per chunks"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.anglesiteOrePerCluster",
+      "en": "Maximum number of anglesite ore per cluster"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.benitoiteOreEnableWorldGen",
+      "en": "Generate benitoite ore"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.benitoiteOreMaxClustersPerChunk",
+      "en": "Max number of cluster of benitoite ore per chunks"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.benitoiteOrePerCluster",
+      "en": "Maximum number of benitoite ore per cluster"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.dimensionWhitelist",
+      "en": "Allowed dimensions (IDs) for yellorite generation"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.enableWorldGen",
+      "en": "Enable world generation"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.enableWorldRegeneration",
+      "en": "Re-generate existing chunks"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.userWorldGenVersion",
+      "en": "User-set world generation version"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.yelloriteOreEnableWorldGen",
+      "en": "Generate yellorite ore"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.yelloriteOreMaxClustersPerChunk",
+      "en": "Max number of cluster of yellorite ore per chunks"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.yelloriteOreMaxY",
+      "en": "Yellorite ore maximum height"
+    },
+    {
+      "namespace": "bigreactors",
+      "key": "config.bigreactors.worldgen.yelloriteOrePerCluster",
+      "en": "Maximum number of yellorite ore per cluster"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.absoluteCoordDefault",
+      "en": "Default to absolute Coord-Mode"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.canOverwriteBlocks",
+      "en": "Allow non-Air-Block-Overwrite"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.enableDestructionGadget",
+      "en": "Enable Destruction Gadget"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.paste.dropped.max",
+      "en": "Construction Paste Drop Count - Max"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.paste.dropped.min",
+      "en": "Construction Paste Drop Count - Min"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.paste.enabled",
+      "en": "Enable Construction Paste"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.poweredByFE",
+      "en": "Powered by Forge Energy"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.rayTraceRange",
+      "en": "Max Build Distance"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryBlacklist",
+      "en": "Blacklist Settings"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryBlacklist.blockBlacklist",
+      "en": "Blacklisted Blocks"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets",
+      "en": "Gadgets"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.damageCost",
+      "en": "Damage Cost"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.durability",
+      "en": "Durability"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.energyCost",
+      "en": "Energy Cost"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetBuilding",
+      "en": "Building Gadget"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetCopyPaste",
+      "en": "Copy-Paste Gadget"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetDestruction",
+      "en": "Destruction Gadget"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetDestruction.maxEnergy",
+      "en": "Maximum Energy"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetDestruction.nonfuzzy.enabled",
+      "en": "Non-Fuzzy Mode Enabled"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetDestruction.nonfuzzy.multiplier",
+      "en": "Non-Fuzzy Mode Multiplier"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.gadgetExchanger",
+      "en": "Exchanging Gadget"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.maxEnergy",
+      "en": "Maximum Energy"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryGadgets.maxRange",
+      "en": "Maximum allowed Range"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryPasteContainers",
+      "en": "Construction Paste Containers"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryPasteContainers.capacity.t1",
+      "en": "T1 Paste Container Capacity"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryPasteContainers.capacity.t2",
+      "en": "T2 Paste Container Capacity"
+    },
+    {
+      "namespace": "buildinggadgets",
+      "key": "config.buildinggadgets.general.subCategoryPasteContainers.capacity.t3",
+      "en": "T3 Paste Container Capacity"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.ShowBitsInJEI",
+      "en": "Show Bits in JEI"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.addBrokenBlocksToCreativeClipboard",
+      "en": "Add Broken Blocks to Creative clipboard"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.bagStackSize",
+      "en": "Bit Bag - Bit Stack Size"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.bitLightPercentage",
+      "en": "Percentage of block for max light level"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.blacklistTickingBlocks",
+      "en": "Black List Ticking Blocks"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.chatModeNotification",
+      "en": "Notify mode changes with chat"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.compatabilityMode",
+      "en": "Enhance Mod compatibility"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.creativeClipboardSize",
+      "en": "Creative Clip Board Size"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.damageTools",
+      "en": "Tools take damage"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.defaultToDynamicRenderer",
+      "en": "Default To Dynamic Renderer"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.diamondChiselUses",
+      "en": "Diamond Chisel Uses"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.disableCustomVertexFormats",
+      "en": "Disable Using Custom Vertex Formats"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.displayMeasuringTapeInChat",
+      "en": "Display Measuring Tape In Chat"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.dynamicMaxConcurrentTessalators",
+      "en": "Maximum Number of Concurrent Updates"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.dynamicModelFaceCount",
+      "en": "Max faces for static render"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.dynamicModelMinimizeLatancy",
+      "en": "Minimize Latency for dynamic renders"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.dynamicModelRange",
+      "en": "Max Distance for dynamic render"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.dynamicRenderFullChunksOnly",
+      "en": "Dynamic Renderer Full Chunks Only"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableAPITestingItem",
+      "en": "Enable API Testing Item"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableBitBag",
+      "en": "Enable Chiseled Bit Bag"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableBitLightSource",
+      "en": "Chiseled blocks can emit light"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselCrafting",
+      "en": "Enable Chiseling Blocks in Crafting Table"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_ConnectedMaterial",
+      "en": "Enable Mode - Connected Material"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_ConnectedPlane",
+      "en": "Enable Mode - Connected Plane"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_DrawnRegion",
+      "en": "Enable Mode - Drawn Region"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_LargeCube",
+      "en": "Enable Mode - Large Cube"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_Line",
+      "en": "Enable Mode - Line"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_MediumCube",
+      "en": "Enable Mode - Medium Cube"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_Plane",
+      "en": "Enable Mode - Plane"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_SameMaterial",
+      "en": "Enable Mode - Same Material"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_SmallCube",
+      "en": "Enable Mode - Small Cube"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_Snap2",
+      "en": "Enable Mode - Grid Snapped 1/8 Cube"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_Snap4",
+      "en": "Enable Mode - Grid Snapped 1/4 Cube"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselMode_Snap8",
+      "en": "Enable Mode - Grid Snapped 1/2 Cube"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselToolHarvestCheck",
+      "en": "Check tool types / levels for chisels"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChiselToolHarvestCheckTools",
+      "en": "Tool types emulated by chisels"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableChisledBits",
+      "en": "Enable Chiseled Bits"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableDiamondChisel",
+      "en": "Enable Diamond Chisel"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableFaceLightmapExtraction",
+      "en": "Use Model Analysis to get Lightmap Data."
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableGoldChisel",
+      "en": "Enable Golden Chisel"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableIronChisel",
+      "en": "Enable Iron Chisel"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableMirrorPrint",
+      "en": "Enable Mirror Chisel Design"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableModelCompression",
+      "en": "Compress Vertex Data In Memory"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableNegativePrint",
+      "en": "Enable Negative Chisel Design"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableNegativePrintInversionCrafting",
+      "en": "Invert Negative Chisel Designs"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enablePositivePatternMode_Additive",
+      "en": "Enable Mode - Additive"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enablePositivePatternMode_Impose",
+      "en": "Enable Mode - Impose"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enablePositivePatternMode_Placement",
+      "en": "Enable Mode - Placement"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enablePositivePatternMode_Replace",
+      "en": "Enable Mode - Replace"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enablePositivePrint",
+      "en": "Enable Positive Chisel Design"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enablePositivePrintCrafting",
+      "en": "Crafting with Positive Chisel Design"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableRightClickModeChange",
+      "en": "Cycle Chisel mode on right click"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableSetBitCommand",
+      "en": "Enable /setbit Command"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableStackableCrafting",
+      "en": "Craft Chiseled Blocks to Remove Rotation"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableStoneChisel",
+      "en": "Enable Stone Chisel"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableTapeMeasure_Bit",
+      "en": "Enable Mode - Bit"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableTapeMeasure_Block",
+      "en": "Enable Mode - Block"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableTapeMeasure_Distance",
+      "en": "Enable Mode - Distance"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableToolHarvestLevels",
+      "en": "Check tool level when breaking blocks"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableToolbarIcons",
+      "en": "Show mode icon for chisel in tool bar"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableVivecraftCompatibility",
+      "en": "Enable Vivecraft Compatibility"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.enableWoodenWrench",
+      "en": "Enable Wooden Wrench"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.fluidBitsAreClickThrough",
+      "en": "Click through Fluid Bits."
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.forceDynamicRenderer",
+      "en": "Disable Static Renderer"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.goldChiselUses",
+      "en": "Gold Chisel uses"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.invertBitBagFullness",
+      "en": "Invert damage bar on bit-bag."
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.ironChiselUses",
+      "en": "Iron Chisel Uses"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.itemNameModeDisplay",
+      "en": "Notify mode changes with tool highlight"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.logEligibilityErrors",
+      "en": "Log Exceptions when calculating Eligibility"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.maxDrawnRegionSize",
+      "en": "Max Drawn Region Size"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.maxMillisecondsPerBlock",
+      "en": "Max Milliseconds Per Block"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.maxMillisecondsUploadingPerFrame",
+      "en": "Max Milliseconds Uploading/Cycle"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.maxTapeMeasures",
+      "en": "Max Tape Measures"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.maxUndoLevel",
+      "en": "Max Undo Level"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.perChiselMode",
+      "en": "Store selected mode per chisel"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.persistCreativeClipboard",
+      "en": "Save/Load Creative Clipboard Contents"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.radialMenuVolume",
+      "en": "'Click' volume for radial menu."
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.requireBagSpace",
+      "en": "Require Inventory/Bag Space"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.showUsage",
+      "en": "Add help text to item descriptions"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.stoneChiselUses",
+      "en": "Stone Chisel Uses"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.useGetLightValue",
+      "en": "Use Get Light Value to get light value of blocks."
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.useVBO",
+      "en": "Use VBOs"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.voidExcessBits",
+      "en": "Void Excess Bits"
+    },
+    {
+      "namespace": "chiselsandbits",
+      "key": "mod.chiselsandbits.config.wrenchUses",
+      "en": "Wrench Uses"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore",
+      "en": "%s configuration"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.Waila",
+      "en": "Waila"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.biome",
+      "en": "Biome generation settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.block",
+      "en": "Block settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.core",
+      "en": "Core settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.enchantment",
+      "en": "Enchantment settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.entity",
+      "en": "Entity settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.fluid",
+      "en": "Fluid settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general",
+      "en": "General settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.analytics",
+      "en": "Send anonymous analytics"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.anonymousAnalyticsID",
+      "en": "Anonymous id"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.crashOnInvalidRecipe",
+      "en": "Crash on invalid Recipe"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.crashOnModCompatCrash",
+      "en": "Crash on Compatibility issue"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.debug",
+      "en": "Develop mode"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.devWorldButton",
+      "en": "Dev World Button"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.minimumPotionTypesArraySize",
+      "en": "Minimal size of potion array"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.version",
+      "en": "Version"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.general.versionChecker",
+      "en": "Version check"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.item",
+      "en": "Item settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.machine",
+      "en": "Machine settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.mob",
+      "en": "Mob settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.modcompat",
+      "en": "Mod compatibility settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.potion",
+      "en": "Potion settings"
+    },
+    {
+      "namespace": "cyclopscore",
+      "key": "config.cyclopscore.worldgeneration",
+      "en": "World generation settings"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.blocks.charges.concussion",
+      "en": "Concussion Charge"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.blocks.charges.confusion",
+      "en": "Confusion Charge"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.blocks.charges.ender",
+      "en": "Ender Charge"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.brokenspawner",
+      "en": "Broken Spawner"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.darksteel",
+      "en": "Dark Steel"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.enchanter",
+      "en": "Enchanter"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.experience",
+      "en": "Experience Obelisk"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.farm",
+      "en": "Farming Station"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.generator.combustion",
+      "en": "Combustion Generator"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.generator.solar",
+      "en": "Solar Panels"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.generator.zombie",
+      "en": "Zombie Generator"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.inhibitor",
+      "en": "Inhibitor Obelisk"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.armor",
+      "en": "Armor"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.axe",
+      "en": "Axe"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.bow",
+      "en": "Bow"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.coldfire",
+      "en": "Cold Fire Igniter"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.crook",
+      "en": "Crook"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.pickaxe",
+      "en": "Pickaxe"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.shears",
+      "en": "Shears"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.sword",
+      "en": "The Ender"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.treetap",
+      "en": "Treetap"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.elytra",
+      "en": "Chestplate: Elytra Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.empowered",
+      "en": "Empowered Upgrades"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.explosive",
+      "en": "Pickaxe: Explosive Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.glider",
+      "en": "Chestplate: Glider Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.hoe",
+      "en": "Axe: Fork (Hoe) Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.jump",
+      "en": "Boots: Jump Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.nightvision",
+      "en": "Helmet: Night Vision Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.padding",
+      "en": "Helmet: Padding Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.soundlocator",
+      "en": "Helmet: Sound Locator Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.speed",
+      "en": "Leggings: Speed Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.spoon",
+      "en": "Pickaxe: Spoon (Shovel) Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.swim",
+      "en": "Leggings: Swimming Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.theoneprobe",
+      "en": "Helmet: The One Probe Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.darksteel.upgrades.travel",
+      "en": "Pickaxe/Sword: Travel Upgrade"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.infinitypowder",
+      "en": "Infinity Powder"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.items.magnet",
+      "en": "Electromagnet"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.killerjoe",
+      "en": "Killer Joe"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.rod",
+      "en": "Rod of Return"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.soulbinder",
+      "en": "Soulbinder"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.soulvial",
+      "en": " Soul Vial"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.spawner",
+      "en": "Powered Spawner"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.tank",
+      "en": "Tank"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.telepad",
+      "en": "TelePad"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.tranceiver",
+      "en": "Tranceiver"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.vacuum",
+      "en": "Vacuum Chest/XP Vacuum"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.vat",
+      "en": "Vat"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.weather",
+      "en": "Weather Obelisk"
+    },
+    {
+      "namespace": "enderio",
+      "key": "enderio.config.wireless",
+      "en": "Wireless Charger"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft",
+      "en": "%s configuration"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.BloodMagic",
+      "en": "Blood magic"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.JEI",
+      "en": "JEI"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.Waila",
+      "en": "Waila"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.baubles",
+      "en": "Baubles"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.block",
+      "en": "Block settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.core",
+      "en": "Core settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.degradationeffect",
+      "en": "Degradation effect"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.enchantment",
+      "en": "Enchantment settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.entity",
+      "en": "Entity settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.excrement_pile.effectiveness",
+      "en": "Excrement effectiveness"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.fluid",
+      "en": "Fluid settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.forestry",
+      "en": "Forestry"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.general",
+      "en": "General settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.general.debug",
+      "en": "Develop mode"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.general.farting",
+      "en": "Farting"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.general.retrogen",
+      "en": "Retrogen"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.general.version",
+      "en": "Version"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.general.versionChecker",
+      "en": "Version check"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.item",
+      "en": "Item settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.kineticator.kineticateBlacklist",
+      "en": "Kineticator blacklist"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.machine",
+      "en": "Machine settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.mob",
+      "en": "Mob settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.netherfish.isEnabled",
+      "en": "Netherfish"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.poisonous_libelle.isEnabled",
+      "en": "Poisonous Libelle"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.potion",
+      "en": "Potion settings"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.tconstruct",
+      "en": "Tinkers' Construct"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.vengeance_spirit.isEnabled",
+      "en": "Vengeance Spirit"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.weather_container.shapelessRecipes",
+      "en": "Shapeless recipes"
+    },
+    {
+      "namespace": "evilcraft",
+      "key": "config.evilcraft.werewolf.isEnabled",
+      "en": "Werewolf    "
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.alternate_canister_recipe",
+      "en": "Alternate Canister Recipe"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.asteroids_flags",
+      "en": "Challenge Mode Flags"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.detectable_i_ds",
+      "en": "Detectable IDs"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.disable_lander",
+      "en": "Disable Moon Lander"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.disable_spaceship_grief",
+      "en": "Disable Rocket Explosions"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.disable_spaceship_particles",
+      "en": "Disable Rocket Particles"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.disable_update_check",
+      "en": "Disable Update Check"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.enable_aluminum_ore_gen",
+      "en": "Overworld Aluminum Gen"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.enable_copper_ore_gen",
+      "en": "Overworld Copper Gen"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.enable_retrogen_oil",
+      "en": "Retrogen Overworld Oil"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.enable_sealer_edge_checks",
+      "en": "Sealer Edge Checks"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.enable_silicon_ore_gen",
+      "en": "Overworld Silicon Gen"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.enable_tin_ore_gen",
+      "en": "Overworld Tin Gen"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.external_oil_gen",
+      "en": "External Oil Gen"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.force_overworld_respawn",
+      "en": "Force Overworld Respawn"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.hard_mode",
+      "en": "Harder Difficulty"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.id_achiev_base",
+      "en": "Base Achievement ID"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.map_scroll_invert",
+      "en": "Invert Map Scroll"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.meteor_spawn_mod",
+      "en": "Meteor Spawn Modifier"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.more_stars",
+      "en": "Show More Stars"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.oil_gen_factor",
+      "en": "Oil Gen Factor"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.override_capes",
+      "en": "Donor Capes Override"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.quick_mode",
+      "en": "Quick Game (easier)"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.rocket_disabled_dimensions",
+      "en": "Rocket Disabled Dimensions"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.rocket_fuel_factor",
+      "en": "Rocket Fuel Factor"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.sealable_i_ds",
+      "en": "Sealable Blocks"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.space_stations_require_permission",
+      "en": "Space Stations Permissions"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.static_loaded_dimensions",
+      "en": "Static Loaded Dimensions"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.suffocation_cooldown",
+      "en": "Suffocation Cooldown"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.suffocation_damage",
+      "en": "Suffocation Damage"
+    },
+    {
+      "namespace": "galacticraftcore",
+      "key": "gc.configgui.title",
+      "en": "Galacticraft Core Config"
+    },
+    {
+      "namespace": "galacticraftplanets",
+      "key": "gc.configgui.dimension_id_asteroids",
+      "en": "Asteroids Dimension ID"
+    },
+    {
+      "namespace": "galacticraftplanets",
+      "key": "gc.configgui.dimension_id_mars",
+      "en": "Mars Dimension ID"
+    },
+    {
+      "namespace": "galacticraftplanets",
+      "key": "gc.configgui.dimension_id_venus",
+      "en": "Venus Dimension ID"
+    },
+    {
+      "namespace": "galacticraftplanets",
+      "key": "gc.configgui.disable_ambient_lightning",
+      "en": "Disable Lightning (Venus)"
+    },
+    {
+      "namespace": "galacticraftplanets",
+      "key": "gc.configgui.launch_controller_chunk_load",
+      "en": "Launch Controller Chunkloading"
+    },
+    {
+      "namespace": "galacticraftplanets",
+      "key": "gc.configgui.planets.title",
+      "en": "Galacticraft Planets Config"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels",
+      "en": "%s configuration"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.capability",
+      "en": "Capability settings"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.core",
+      "en": "Core settings"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.general",
+      "en": "General settings"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.general.debug",
+      "en": "Develop mode"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.general.version",
+      "en": "Version"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.general.versionChecker",
+      "en": "Version check"
+    },
+    {
+      "namespace": "integratedtunnels",
+      "key": "config.integratedtunnels.tesla",
+      "en": "Tesla"
+    },
+    {
+      "namespace": "jecalculation",
+      "key": "jecalculation.config.force_client",
+      "en": "Force Client"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.advanced",
+      "en": "Advanced Options"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.cartography",
+      "en": "Cartography"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.fullmap",
+      "en": "Fullscreen Map"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.minimap",
+      "en": "MiniMap Preset 1"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.minimap2",
+      "en": "MiniMap Preset 2"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.waypoint",
+      "en": "Waypoints"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.waypoint_beacons",
+      "en": "Waypoint Beacons"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.category.webmap",
+      "en": "Web Map"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.control_arrowkeys",
+      "en": "This value can be adjusted with arrow keys for finer control"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.default",
+      "en": "[ Default: %1$s ]"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.default_numeric",
+      "en": "[ Range: %1$d ~ %2$d , Default: %3$d ]"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.file_header_1",
+      "en": "JourneyMap configuration file. Modify at your own risk!"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.file_header_2",
+      "en": "To use in all worlds, place here: %1$s"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.file_header_3",
+      "en": "To override configuration for a single world, place here: %1$s(world name)"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.file_header_4",
+      "en": "To restore the default settings, simply delete this file before starting Minecraft"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.file_header_5",
+      "en": "For more information, go to: %1$s"
+    },
+    {
+      "namespace": "journeymap",
+      "key": "jm.config.reset",
+      "en": "Reset"
+    },
+    {
+      "namespace": "loottweaker",
+      "key": "loottweaker.config.lastCfgVersion",
+      "en": "Do not touch!"
+    },
+    {
+      "namespace": "loottweaker",
+      "key": "loottweaker.config.workarounds.category",
+      "en": "Workarounds"
+    },
+    {
+      "namespace": "loottweaker",
+      "key": "loottweaker.config.workarounds.forceInitClasses",
+      "en": "Classes to force initialise"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.client",
+      "en": "Client Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.general",
+      "en": "General Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.generators.general",
+      "en": "General Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.generators.generation",
+      "en": "Generation Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.generators.generators",
+      "en": "Generator Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.machines",
+      "en": "Machine Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.storage",
+      "en": "Energy Storage Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.tier",
+      "en": "Tier Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.tools.armor",
+      "en": "Armor Balance"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.tools.general",
+      "en": "General Settings"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.tools.tools",
+      "en": "Tools Balance"
+    },
+    {
+      "namespace": "mekanism",
+      "key": "mekanism.configgui.ctgy.usage",
+      "en": "Usage Settings"
+    },
+    {
+      "namespace": "openmods",
+      "key": "openmodslib.config.config",
+      "en": "Mod specific configuration"
+    },
+    {
+      "namespace": "openmods",
+      "key": "openmodslib.config.features",
+      "en": "Enable/disable features"
+    },
+    {
+      "namespace": "openmods",
+      "key": "openmodslib.config.features.blocks",
+      "en": "Enable/disable blocks"
+    },
+    {
+      "namespace": "openmods",
+      "key": "openmodslib.config.features.items",
+      "en": "Enable/disable items"
+    },
+    {
+      "namespace": "openmods",
+      "key": "openmodslib.config.update_warning",
+      "en": "§c§lNote:§r to change configuration in runtime, use §l/om_config_s§r or §l/om_config_m§r commands"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.advanced_config",
+      "en": "Advanced Configuration"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.basic_config",
+      "en": "Basic Configuration"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.edit_mode",
+      "en": "Edit Mode"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.edit_repo_loc",
+      "en": "Edit Repository Location"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.edit_repo_select_title",
+      "en": "Specify absolute path to edit repo \"ModDocs\" folder"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.et_fluid",
+      "en": "ET Search fluid"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.max_tabs",
+      "en": "Max Tab Count"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.max_tabs.title",
+      "en": "Set max tab count."
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.open_editor",
+      "en": "Open PI Editor"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.open_style_settings",
+      "en": "Open Style Settings"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.pi_configuration.title",
+      "en": "PI Configuration"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.pi_errors.title",
+      "en": "One or more errors have occurred"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.reload_documentation",
+      "en": "Reload Documentation"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.reload_from_disk",
+      "en": "Reload From Disk"
+    },
+    {
+      "namespace": "projectintelligence",
+      "key": "pi.config.set_pi_language",
+      "en": "Set PI Language"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.cantimport",
+      "en": "Can't Import a Config if a world is loaded"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.close",
+      "en": "Close Game"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.configure",
+      "en": "Configure Quark"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.disabledcount",
+      "en": "%d Features Disabled. Please Restart your game:"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.disabledcount1",
+      "en": "1 Feature Disabled. Please Restart your game:"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.donate",
+      "en": "Donate"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.enableq",
+      "en": "Enable \"q\" Button"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstload",
+      "en": "First Load"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo0",
+      "en": "Welcome to Quark! Quark has a lot of features, so check the Quark Website"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo1",
+      "en": "for a quick primer. Every feature can be turned off, so feel free to"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo2",
+      "en": "hit the Configure Quark button to disable features you don't like."
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo3",
+      "en": "In the Configuration menu you can use the Import Config button to"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo4",
+      "en": "import a list of disabled features from the quark website."
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo5",
+      "en": "WARNING"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo6",
+      "en": "If you are going to play on a Vanilla server, or a modded server that"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo7",
+      "en": "doesn't have Quark installed. You NEED to disable every module except"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo8",
+      "en": "for Client, or you will find incompatibilities and/or crashes. If you're "
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.firstloadinfo9",
+      "en": "playing on a server with Quark, don't disable anything outside Client."
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.general",
+      "en": "General Settings"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.import",
+      "en": "Import Config"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.importinfo0",
+      "en": "You can import a list of disabled features from the Quark Website"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.importinfo1",
+      "en": "using this menu. In the website, click the checkmark on any feature"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.importinfo2",
+      "en": "you wish to disable. When you're done, click the Copy button."
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.importinfo3",
+      "en": "You can import it by pasting (press Ctrl+V) to the text field. "
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.importinfo3m",
+      "en": "You can import it by pasting (press Cmd+V) to the text field. "
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.automation",
+      "en": "Automation"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.building",
+      "en": "Building"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.client",
+      "en": "Client"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.decoration",
+      "en": "Decoration"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.experimental",
+      "en": "Experimental"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.management",
+      "en": "Management"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.misc",
+      "en": "Miscellaneous"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.oddities",
+      "en": "Oddities"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.tweaks",
+      "en": "Tweaks"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.vanity",
+      "en": "Vanity"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.module.world",
+      "en": "World"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.needrestart",
+      "en": "(Some settings you changed will require you to restart your game)"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.opensite",
+      "en": "Quark Site"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.qdisabled",
+      "en": "(If you disable the q button, you can access this menu from the Mods list)"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.reddit",
+      "en": "Reddit"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.skip",
+      "en": "Skip to Main Menu"
+    },
+    {
+      "namespace": "quark",
+      "key": "quark.config.title",
+      "en": "Quark Configuration"
+    },
+    {
+      "namespace": "reccomplex",
+      "key": "reccomplex.configgui.ctgy.balancing",
+      "en": "Balancing"
+    },
+    {
+      "namespace": "reccomplex",
+      "key": "reccomplex.configgui.ctgy.controls",
+      "en": "Controls"
+    },
+    {
+      "namespace": "reccomplex",
+      "key": "reccomplex.configgui.ctgy.decoration",
+      "en": "Decoration"
+    },
+    {
+      "namespace": "reccomplex",
+      "key": "reccomplex.configgui.ctgy.general",
+      "en": "General"
+    },
+    {
+      "namespace": "reccomplex",
+      "key": "reccomplex.configgui.ctgy.visual",
+      "en": "Visual"
+    },
+    {
+      "namespace": "reccomplex",
+      "key": "reccomplex.configgui.title",
+      "en": "Structure Gen Config"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.aesthetics",
+      "en": "Aesthetics Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.aesthetics.enableArmor3DModels",
+      "en": "Enable Armor 3D Models"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.controls",
+      "en": "Controls Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.controls.customControls",
+      "en": "Custom Controls"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.controls.descendKey",
+      "en": "Custom Descend key"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.controls.doubleTapSprintInAir",
+      "en": "Allow double-tap sprinting while flying"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.controls.flyKey",
+      "en": "Custom Fly key"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.controls.invertHoverSneakingBehavior",
+      "en": "Invert Hover Mode Sneaking Behavior"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.crafting",
+      "en": "Crafting Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.gui",
+      "en": "GUI Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration",
+      "en": "Integration Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationEIO",
+      "en": "EnderIO Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationIE",
+      "en": "Immersive Engineering Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationMek",
+      "en": "Mekanism Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationRA",
+      "en": "Redstone Arsenal Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationRR",
+      "en": "Redstone Repository Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationTD",
+      "en": "Thermal Dynamics Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationTE",
+      "en": "Thermal Expansion Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.enableIntegrationVanilla",
+      "en": "Vanilla Integration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.integration.gelidEnderiumEnergyUsageBonus",
+      "en": "Redstone Repository Enderium Energy Efficiency Bonus"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.items",
+      "en": "Item Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.items.addRAItemsIfNotInstalled",
+      "en": "Add Redstone Arsenal items if not installed"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.items.enableFuelEfficiencyEnchantment",
+      "en": "Enable Fuel Efficiency Enchantment"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.misc",
+      "en": "Misc"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.misc.joinAdvancements",
+      "en": "Join Advancements"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.sounds",
+      "en": "Sound Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.sounds.jetpackSounds",
+      "en": "Jetpack Sounds"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.title",
+      "en": "Simply Jetpacks Configuration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning",
+      "en": "Tuning Settings"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.accelVertical",
+      "en": "Vertical Acceleration"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.armorEnergyPerHit",
+      "en": "Armor Energy Per Hit"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.armorReduction",
+      "en": "Armor Reduction"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.chargerMode",
+      "en": "Charger Mode"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.emergencyHoverMode",
+      "en": "Emergency Hover Mode"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.enchantability",
+      "en": "Enchantability"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.energyCapacity",
+      "en": "Energy Capacity"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.energyPerTickIn",
+      "en": "Energy Per Tick In"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.energyPerTickOut",
+      "en": "Energy Per Tick Out"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.energyUsage",
+      "en": "Energy Usage"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.speedSideways",
+      "en": "Sideways Speed"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.speedVertical",
+      "en": "Vertical Speed"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.speedVerticalHover",
+      "en": "Vertical Speed (Hover Mode)"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.speedVerticalHoverSlow",
+      "en": "Vertical Speed (Hover Mode / Slow Descent)"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.sprintEnergyModifier",
+      "en": "Sprint Energy Usage Multiplier"
+    },
+    {
+      "namespace": "simplyjetpacks",
+      "key": "config.simplyjetpacks.tuning.sprintSpeedModifier",
+      "en": "Sprint Speed Multiplier"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields.durabilityWoodShield",
+      "en": "Crude Wooden Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.general",
+      "en": "General Settings"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedAbyssalcraft",
+      "en": "Abyssalcraft Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedBWM",
+      "en": "Better With Mods Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedBotania",
+      "en": "Botania Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedCommon",
+      "en": "Common Modded Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedPowered",
+      "en": "RF & FE Powered Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedThaumcraft",
+      "en": "Thaumcraft Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.moddedThermal",
+      "en": "Thermal Foundation Modded Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:category.vanilla",
+      "en": "Vanilla Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:cooldownShieldBash",
+      "en": "Shield Bash Cooldown"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:damageToFEMultiplier",
+      "en": "Damage To FE Multiplier"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:damageToRFMultiplier",
+      "en": "Damage To RF Multiplier"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:disableShieldBash",
+      "en": "Disable Shield Bash"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:disableStandardShields",
+      "en": "Disable Standard Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:disableTowerShields",
+      "en": "Disable Tower Shields"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityAbyssalniteShield",
+      "en": "Abyssalnite Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityBronzeShield",
+      "en": "Bronze Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityConstantanShield",
+      "en": "Constantan Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityCopperShield",
+      "en": "Copper Braced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityCoraliumShield",
+      "en": "Coralium Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityDarkstoneShield",
+      "en": "Darkstone Braced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityDiamondShield",
+      "en": "Diamond Reinforced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityDreadiumShield",
+      "en": "Dreadium Reinforced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityElectrumShield",
+      "en": "Electrum Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityElementiumShield",
+      "en": "Elementium Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityEnderiumShield",
+      "en": "Enderium Strengthened Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityEthaxiumShield",
+      "en": "Ethaxium Strengthened Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityGoldShield",
+      "en": "Gold Gilded Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityInvarShield",
+      "en": "Invar Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityIronShield",
+      "en": "Iron Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityLeadShield",
+      "en": "Lead Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityLumiumShield",
+      "en": "Radiant Lumium Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityManasteelShield",
+      "en": "Manasteel Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityNickelShield",
+      "en": "Nickel Braced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityObsidianShield",
+      "en": "Bulky Obsidian Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityPlatinumShield",
+      "en": "Platinum Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilitySignalumShield",
+      "en": "Signalum Strengthened Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilitySilverShield",
+      "en": "Silver Gilded Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilitySoulforgedSteelShield",
+      "en": "Soulforged Steel Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilitySteelShield",
+      "en": "Steel Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityStoneShield",
+      "en": "Stone Braced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityTerrasteelShield",
+      "en": "Terrasteel Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityThaumiumShield",
+      "en": "Thaumium Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityTinShield",
+      "en": "Tin Braced Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityVoidShield",
+      "en": "Void Plated Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:durabilityWoodShield",
+      "en": "Crude Wooden Shield Durability"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableAbyssalniteShield",
+      "en": "Abyssalnite Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableBronzeShield",
+      "en": "Bronze Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableConstantanShield",
+      "en": "Constantan Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableCopperShield",
+      "en": "Copper Braced Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableCoraliumShield",
+      "en": "Coralium Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableDarkstoneShield",
+      "en": "Darkstone Braced Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableDreadiumShield",
+      "en": "Dreadium Reinforced Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableElectrumShield",
+      "en": "Electrum Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableElementiumShield",
+      "en": "Elementium Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableEnderIOShield",
+      "en": "Dark Steel Riot Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableEnderiumShield",
+      "en": "Enderium Strengthened Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableEthaxiumShield",
+      "en": "Ethaxium Strengthened Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableInvarShield",
+      "en": "Invar Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableLeadShield",
+      "en": "Lead Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableLumiumShield",
+      "en": "Radiant Lumium Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableManasteelShield",
+      "en": "Manasteel Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableNickelShield",
+      "en": "Nickel Braced Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableObsidianShield",
+      "en": "Bulky Obsidian Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enablePlatinumShield",
+      "en": "Platinum Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableRAShield",
+      "en": "Flux-Infused Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableRFToolsShield",
+      "en": "Infused Riot Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableSignalumShield",
+      "en": "Signalum Strengthened Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableSilverShield",
+      "en": "Silver Gilded Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableSoulforgedSteelShield",
+      "en": "Soulforged Steel Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableSpikesEnchantment",
+      "en": "Spikes Enchantment Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableSteelShield",
+      "en": "Steel Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableTerrasteelShield",
+      "en": "Terrasteel Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableThaumiumShield",
+      "en": "Thaumium Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableTinShield",
+      "en": "Tin Braced Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:enableVoidShield",
+      "en": "Void Plated Shield Enabled"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:forceDisableUncraftableTooltips",
+      "en": "Force Disable Uncraftable Shield Tooltips"
+    },
+    {
+      "namespace": "spartanshields",
+      "key": "config.spartanshields:vanillaOnly",
+      "en": "Vanilla Shields Only"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storageDrawers.config.prop.enableQuantifiableUpgrades",
+      "en": "Enable Quantity Display"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.addons",
+      "en": "Addons"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.addons.separateTabs",
+      "en": "Separate Creative Tabs"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.addons.showCreative",
+      "en": "Show Blocks in Creative Tabs"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.addons.showNEI",
+      "en": "Show Blocks in NEI"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks",
+      "en": "Block Settings"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.compDrawers",
+      "en": "Compacting Drawer"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.controller",
+      "en": "Drawer Controller"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.controllerSlave",
+      "en": "Controller Slave"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.framedBlocks",
+      "en": "Framed Blocks"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.fullDrawers1",
+      "en": "Drawers 1x1"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.fullDrawers2",
+      "en": "Drawers 1x2"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.fullDrawers4",
+      "en": "Drawers 2x2"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.halfDrawers2",
+      "en": "Compact Drawers 1x2"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.halfDrawers4",
+      "en": "Compact Drawers 2x2"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.blocks.trim",
+      "en": "Trim"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.framedBlocks.consumeDecorationItems",
+      "en": "Consume Decoration Items"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.framedBlocks.enableFramedDrawers",
+      "en": "Enable Framed Drawers"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.framedBlocks.enableFramedTrims",
+      "en": "Enable Framed Trims"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.framedBlocks.enableFramingTable",
+      "en": "Enable Framing Table"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.general",
+      "en": "General Settings"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.integration",
+      "en": "Integration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.integration.enableAE2",
+      "en": "Enable Applied Energistics 2 Integration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.integration.enableMineTweaker",
+      "en": "Enable MineTweaker Integration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.integration.enableTOP",
+      "en": "Enable TOP Integration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.integration.enableThaumcraft",
+      "en": "Enable Thaumcraft Integration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.integration.enableWaila",
+      "en": "Enable WAILA Integration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.baseStorage",
+      "en": "Base Storage"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.controllerRange",
+      "en": "Controller Range"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.creativeTabVanillaWoods",
+      "en": "Creative Tab Vanilla Woods"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.defaultQuantify",
+      "en": "Quantity Visible by Default"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableCreativeUpgrades",
+      "en": "Enable Creative Upgrade"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableDebugLogging",
+      "en": "Enable Debug Logging"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableDrawerUI",
+      "en": "Enable Drawer UI"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableFallbackRecipes",
+      "en": "Enable Fallback Recipes"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableIndicatorUpgrades",
+      "en": "Enable Indicator Upgrades"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableItemConversion",
+      "en": "Enable Item Conversion"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableLockUpgrades",
+      "en": "Enable Drawer Locking"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enablePersonalUpgrades",
+      "en": "Enable Access Protection"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableRedstoneUpgrades",
+      "en": "Enable Redstone Upgrade"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableShroudUpgrades",
+      "en": "Enable Item Concealing"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableSidedInput",
+      "en": "Enable Sided Input"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableSidedOutput",
+      "en": "Enable Sided Output"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableSortingUpgrades",
+      "en": "Enable Sorting Upgrade"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableStorageUpgrades",
+      "en": "Enable Storage Upgrades"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableTape",
+      "en": "Enable Tape"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enableVoidUpgrades",
+      "en": "Enable Void Upgrade"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.enabled",
+      "en": "Enabled"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.invertClick",
+      "en": "Invert Hand"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.invertShift",
+      "en": "Invert Sneak"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.keepContentsOnBreak",
+      "en": "Keep Contents on Break"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.recipeOutput",
+      "en": "Recipe Output"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.renderStorageUpgrades",
+      "en": "Render Storage Upgrades"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.prop.wailaStackRemainder",
+      "en": "WAILA amount presentation"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.registries",
+      "en": "Registries"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.registries.compRules",
+      "en": "Compacting Rules"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.registries.oreBlacklist",
+      "en": "Ore Dictionary Blacklist"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.registries.oreWhitelist",
+      "en": "Ore Dictionary Whitelist"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.registries.registerExtraCompRules",
+      "en": "Register Extra Compacting Rules"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.title",
+      "en": "Storage Drawers Configuration"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.upgrades",
+      "en": "Upgrade Settings"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.upgrades.level2Mult",
+      "en": "Storage Multiplier (II)"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.upgrades.level3Mult",
+      "en": "Storage Multiplier (III)"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.upgrades.level4Mult",
+      "en": "Storage Multiplier (IV)"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.upgrades.level5Mult",
+      "en": "Storage Multiplier (V)"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.config.upgrades.level6Mult",
+      "en": "Storage Multiplier (VI)"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.waila.config.displayContents",
+      "en": "Slot Contents"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.waila.config.displayStackLimit",
+      "en": "Stack Limit"
+    },
+    {
+      "namespace": "storagedrawers",
+      "key": "storagedrawers.waila.config.displayStatus",
+      "en": "Upgrade Status"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.augment",
+      "en": "Augment"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.client",
+      "en": "Client"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.gameplay",
+      "en": "Gameplay"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.general",
+      "en": "General"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.harness",
+      "en": "Harness"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.impetus",
+      "en": "Impetus"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.impetus_generator",
+      "en": "Impetus Generator"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.impulse_cannon",
+      "en": "Impulse Cannon"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.ward",
+      "en": "Ward Focus and Blocks"
+    },
+    {
+      "namespace": "thaumicaugmentation",
+      "key": "thaumicaugmentation.text.config.world",
+      "en": "World"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.admin_portals",
+      "en": "Admin-Only Twilight Portals"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.animate_trophyitem",
+      "en": "Rotate Trophy Heads on Item model"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.antibuilder_blacklist",
+      "en": "Antibuilder Blacklist"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.canopy_coverage",
+      "en": "Canopy Coverage"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.check_portal_destination",
+      "en": "Pre-Check Portal Destination"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.compat",
+      "en": "Compatibility"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.dimension",
+      "en": "Dimension Settings"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.dimension_id",
+      "en": "Dimension ID"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.dimension_seed",
+      "en": "Dimension Seed"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.druid_hut_weight",
+      "en": "Druid Hut weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.enable_skylight",
+      "en": "Enable Skylight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.fallen_hollow_log_weight",
+      "en": "Fallen Hollow Log weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.fallen_small_log_weight",
+      "en": "Fallen Small Log weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.first_person_effects",
+      "en": "Render 1st Person Effects"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.foundation_weight",
+      "en": "Foundation weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.glacier_packed_ice",
+      "en": "Glaciers made of Packed Ice instead of Ice"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.grove_ruins_weight",
+      "en": "Grove Ruins weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.hollow_hill_stalactites",
+      "en": "Custom Hollow Hill Stalactites"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.hollow_stump_weight",
+      "en": "Hollow Stump weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.large_hill",
+      "en": "Large Hills"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.leaves_light_opacity",
+      "en": "Twilight Leaves opacity"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_icon_bounciness",
+      "en": "Icon Bounciness"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_icon_enable",
+      "en": "Enable Loading Icon Animation"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_icon_scale",
+      "en": "Icon Scaling"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_icon_tilt_pushback",
+      "en": "Icon Tilt Offset"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_icon_tilting",
+      "en": "Icon Wobbliness"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_icon_wobble_bounce_frequency",
+      "en": "Icon Animation Speed"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_screen",
+      "en": "Loading Screen"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.loading_screen_swap_frequency",
+      "en": "Loading Screen switching"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.medium_hill",
+      "en": "Medium and Large Hills"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.monolith_weight",
+      "en": "Monolith weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.origin_dimension",
+      "en": "Origin Dimension"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.parry_non_twilight",
+      "en": "Parry non-Twilight projectiles"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.parry_window_arrow",
+      "en": "Timing Windowspan for Arrows"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.parry_window_fireball",
+      "en": "Timing Windowspan for Fireballs"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.parry_window_throwable",
+      "en": "Timing Windowspan for Throwables"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.performance",
+      "en": "Performance Tweaks"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.portal_creator",
+      "en": "Portal Creation Item"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.portal_lighting",
+      "en": "Portal Creation Lightning Fire"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.portal_return",
+      "en": "Should Portals generate as a two-way portal"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.portals",
+      "en": "Disable Twilight Portals"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.portals_in_other_dimensions",
+      "en": "Portals in other dimensions"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.progression_default",
+      "en": "Progression Rule Default"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.shieldParryTicksBeam",
+      "en": "Timing Windowspan for Beams???"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.shield_parry",
+      "en": "Shield Parrying"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.silent_cicadas",
+      "en": "Silent Cicadas"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.skylight_forest",
+      "en": "Skylight Forest [WIP]"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.skylight_oaks",
+      "en": "Skylight Oaks [WIP]"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.small_hill",
+      "en": "All Hills"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.spawn_in_tf",
+      "en": "New Players Spawn in Twilight Forest"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.stalactite_config_only",
+      "en": "Only Use the Stalactite Config"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.stalagmite_weight",
+      "en": "Stalagmite weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.stone_circle_weight",
+      "en": "Stone Circle weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.twilight_oaks",
+      "en": "Twilight Oak Chance"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.uncrafting",
+      "en": "Disable Uncrafting in Uncrafting Table"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.uncrafting_list",
+      "en": "Uncrafting List"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.uncrafting_whitelist",
+      "en": "Turn Uncrafting List to Whitelist"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.well_weight",
+      "en": "Well weight"
+    },
+    {
+      "namespace": "twilightforest",
+      "key": "twilightforest.config.world_gen_weights",
+      "en": "World-Gen Weights"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.blocks",
+      "en": "Blocks"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.debug",
+      "en": "Debug"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.entities",
+      "en": "Entities"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.items",
+      "en": "Items"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.masterswitches",
+      "en": "Master Switches"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.misc",
+      "en": "Misc"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.performance",
+      "en": "Performance"
+    },
+    {
+      "namespace": "universaltweaks",
+      "key": "cfg.universaltweaks.config.world",
+      "en": "World"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Witches' Altar",
+  "category": "devices",
+  "icon": "bewitchment:stone_witches_altar",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Năng lượng Ma thuật, hay ME, tồn tại trong mọi dạng sống, từ mầm cây nhỏ nhất đến Dragon vĩ đại ở Tận cùng Thời gian. Các nhóm khác có thể gọi nó là “Vis”, “Lifepoints”, “Magan” hoặc tên tương tự, nhưng về bản chất, đó vẫn là nguồn lực nguyên sơ của sự sống và tự nhiên. Phải đặt hệ thực vật gần Altar để tạo ra ME, vì ME lưu chuyển tự do qua thực vật và nấm."
+    },
+    {
+      "type": "text",
+      "text": "ME cũng tồn tại trong động vật, nhưng không thể khai thác từ chúng vì linh hồn ngăn nó rời khỏi cơ thể cho đến khi chính linh hồn lìa xác. Tuy nhiên, một số di hài của động vật (và con người) vẫn cộng hưởng với ME; tuy không đủ để Altar khai thác, nhưng đủ để làm chất dẫn trong các nghi lễ."
+    },
+    {
+      "type": "text",
+      "title": "Altar",
+      "text": "Là trung tâm trong cơ sở của mọi phù thủy, Altar có thể khai thác sức mạnh của hệ thực vật quanh đó thành dạng năng lượng mà các thiết bị khác sử dụng được. Hầu hết thiết bị phải được đặt gần Altar mới có thể hoạt động. Altar có thể làm từ nhiều vật liệu, từ Stone đến Nether Bricks và nhiều loại khác, rồi hoàn thiện bằng cách đặt thảm màu bất kỳ lên trên. Altar cũng có thể được cường hóa bằng một số vật phẩm. Thông tin về các yếu tố bổ trợ nằm ở những trang tiếp theo."
+    },
+    {
+      "type": "crafting",
+      "title": "Chế tạo Altar",
+      "recipe": "bewitchment:stone_witches_altar"
+    },
+    {
+      "type": "text",
+      "title": "Yếu tố bổ trợ Altar",
+      "text": "Cốc tăng nhẹ cả tốc độ thu nhận lẫn hệ số nhân, gồm goblet, bottle và flower pot. Kiếm tăng hệ số nhân, gồm athame, boline và các loại lưỡi kiếm khác. Đũa phép tăng công suất tối đa của Altar, gồm torch, candle và end rod. Pentacle tăng tốc độ thu nhận, gồm skull, gem và pentacle."
+    },
+    {
+      "type": "multiblock",
+      "name": "Cách xây dựng",
+      "multiblock": {
+        "mapping": {
+          "A": "bewitchment:stone_witches_altar[type=0]",
+          "0": "bewitchment:stone_witches_altar[type=0]"
+        },
+        "pattern": [
+          [
+            "AA",
+            "0A",
+            "AA"
+          ]
+        ]
+      },
+      "text": "Các khối xung quanh Altar $(i)không được$() là những khối Altar khác"
+    }
+  ]
+}

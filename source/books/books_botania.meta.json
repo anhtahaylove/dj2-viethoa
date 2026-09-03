@@ -1,0 +1,10 @@
+{
+  "namespace": "botania",
+  "english_locale": "en_us",
+  "jar": "botania-r1.10-372.jar",
+  "paths": [
+    "assets/botania/lang/en_us.lang"
+  ],
+  "keys": 1377,
+  "sha256": "4fc9b3bd372ee26dbbea59cbeced8d0e44bd2a5dff1fce8d4100e973bceddb10"
+}

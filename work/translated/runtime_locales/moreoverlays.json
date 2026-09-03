@@ -1,0 +1,10 @@
+{
+  "key.moreoverlays.category": "More Overlays",
+  "key.moreoverlays.chunkbounds.desc": "Hiện/Ẩn ranh giới Chunk",
+  "key.moreoverlays.lightoverlay.desc": "Hiện/Ẩn vùng tối",
+  "gui.config.moreoverlays.tile": "Cài Đặt MoreOverlays",
+  "config.moreoverlays.category.lightoverlay": "Lớp phủ ánh sáng",
+  "config.moreoverlays.category.chunkbounds": "Ranh giới Chunk",
+  "config.moreoverlays.category.itemsearch": "Tìm kiếm vật phẩm",
+  "config.moreoverlays.category.rendersettings": "Cài đặt hiển thị"
+}

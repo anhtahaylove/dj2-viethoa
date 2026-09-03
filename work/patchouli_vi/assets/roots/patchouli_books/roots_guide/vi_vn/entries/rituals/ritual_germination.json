@@ -1,0 +1,76 @@
+{
+  "name": "Germination",
+  "icon": "roots:ritual_germination",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_germination",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thiên nhiên hoang dã tràn ngập cây trồng, thực vật, bụi cây và cây thân gỗ. Trong mỗi loài đều có một tia sống thôi thúc chúng sinh trưởng.$(br2)Quá trình Germination từ từ nuôi dưỡng những tia sống này, khiến chúng phát triển theo thời gian.$(br2)$(info) Tốc độ sinh trưởng sẽ không nhanh bằng các phép như $(l:spells/spell_growth_infusion)Growth Infusion$()."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_germination",
+      "text": "$(standing_stones) Là một nghi lễ $(l:rituals/tiers)$(bold)bậc I$(), $(l:rituals/ritual_germination#multiblock)cần một standing stone để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          [
+            "   C   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Cần một $(l:rituals/standing_stone)standing stone$() bằng runestone hoặc runed obsidian."
+    },
+    {
+      "type": "text",
+      "title": "Thông số nghi lễ",
+      "text": "$(bold)Thời gian:$() Nghi lễ kéo dài $(ritual:germination/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Khu vực nghi lễ trải rộng $(ritual:germination/radius_x) và $(ritual:germination/radius_z) khối tính từ tâm, cùng $(ritual:germination/radius_y) khối theo chiều dọc.$(br2)$(bold)Tần suất:$() Quá trình sinh trưởng được kích hoạt mỗi $(ritual:germination/SECONDS/interval) giây; tối đa $(ritual:germination/count) khối có thể sinh trưởng sẽ nhận $(ritual:germination/ticks) tick sinh trưởng.$(br2)Mỗi khối có thể sinh trưởng có thể nhận thêm tối đa $(ritual:germination/bonus_ticks) tick thưởng."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tần suất$(): Cuối cùng, cây trồng được áp dụng $(ritual:germination/block_crop_ticks) tick."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

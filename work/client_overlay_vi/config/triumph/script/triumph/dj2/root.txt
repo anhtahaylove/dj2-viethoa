@@ -1,0 +1,15 @@
+setIcon(<contenttweaker:corrupted_dragon_token>)
+
+setTitle("Thử thách Divine Journey 2")
+
+setDescription("Hãy khiến bạn bè tự hào (hoặc ghen tị) bằng cách hoàn thành các advancement theo progression này!")
+
+setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
+
+setShowToast(false)
+
+setAnnounceToChat(true)
+
+setHidden(true)
+
+addCriteria("impossible", "minecraft:impossible")

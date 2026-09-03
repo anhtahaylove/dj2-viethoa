@@ -1,0 +1,10 @@
+{
+  "namespace": "abyssalcraft",
+  "english_locale": "en_us",
+  "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+  "paths": [
+    "assets/abyssalcraft/lang/en_us.lang"
+  ],
+  "keys": 338,
+  "sha256": "f990a8cbb523fe8ccbd56ff9b3ad95ea62dd44197febcb7089e579366b5caa2a"
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "IntegratedDynamics-1.12.2-1.1.11.jar",
+      "path": "assets/integrateddynamics/lang/en_us.lang"
+    }
+  ]
+}

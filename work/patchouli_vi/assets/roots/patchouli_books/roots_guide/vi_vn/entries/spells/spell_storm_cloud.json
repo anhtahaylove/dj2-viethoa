@@ -1,0 +1,102 @@
+{
+  "name": "Storm Cloud",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_storm_cloud\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_storm_cloud",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này tạo ra một cơn bão cục bộ luôn theo bạn, ngay phía trên đầu.$(br2)Cơn bão sẽ dập lửa xung quanh, trên người bạn và đồng minh. Nó cũng ban Fire Resistance $(spell:storm_cloud/ROMAN/fire_resistance) trong $(spell:storm_cloud/SECONDS/duration).$(br2)Với các modifier, bạn có thể biến dung nham thành obsidian, nước thành băng, hồi máu, bắn cột băng và gọi sét đánh kẻ địch gần đó."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_storm_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:spread",
+      "anchor": "spread"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:peaceful_storm",
+      "anchor": "peaceful_storm"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:magnetic_storm",
+      "anchor": "magnetic_storm"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:lightning_strikes",
+      "anchor": "lightning_strikes"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:reactive_jolt",
+      "anchor": "reactive_jolt"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:healing_rain",
+      "anchor": "healing_rain"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:poison_storm",
+      "anchor": "poison_storm"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:ignification",
+      "anchor": "ignification"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:icicles",
+      "anchor": "icicles"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_storm_cloud",
+      "modifier": "roots:freezing_rain",
+      "anchor": "freezing_rain"
+    },
+    {
+      "type": "text",
+      "title": "Thiết lập phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:storm_cloud/SECONDS/cooldown) giây.$(br2)$(bold)Thời lượng:$() Mây bão tồn tại trong $(spell:storm_cloud/SECONDS/duration).$(br2)$(bold)Bán kính:$() Mây bao phủ $(spell:storm_cloud/radius) khối quanh bạn và sẽ dập lửa trên các thực thể trong phạm vi đó. Khi bật modifier $(modifier:spread)$(), phạm vi tăng thêm $(spell:storm_cloud/extended_radius) khối.$(br2)$(bold)Sét:$() Khi bật modifier $(modifier:lightning_strikes)$(), có"
+    },
+    {
+      "type": "text",
+      "text": "$(spell:storm_cloud/PERCENT/lightning_chance) xác suất kích hoạt sau mỗi $(spell:storm_cloud/SECONDS/lightning_interval) giây khi hiệu ứng còn hoạt động.$(br2)$(bold)Ôn hòa:$() Khi bật modifier $(modifier:peaceful_storm)$(), chỉ sinh vật thù địch mới chịu các hiệu ứng bất lợi.$(br2)$(bold)Hồi máu:$() Khi bật modifier $(modifier:healing_rain)$(), các thực thể hợp lệ được hồi $(spell:storm_cloud/HEART/heal_amount) tim sau mỗi $(spell:storm_cloud/SECONDS/heal_interval) khi phép còn hoạt động.$(br2)$(bold)Obsidian:$() Khi bật modifier $(modifier:ignification)$(),"
+    },
+    {
+      "type": "text",
+      "text": "các khối dung nham trong bán kính cơn bão sẽ biến thành obsidian.$(br2)$(bold)Băng:$() Khi bật modifier $(modifier:freezing_rain)$(), nước gần đó sẽ biến thành băng.$(br2)$(bold)Poison:$() Khi bật modifier $(modifier:poison_storm)$(), các thực thể sẽ chịu Poison $(spell:storm_cloud/ROMAN/poison_amplifier) trong $(spell:storm_cloud/SECONDS/poison_duration).$(br2)$(bold)Từ lực:$() Khi bật modifier $(modifier:magnetic_storm)$(), kẻ tấn công tầm xa sẽ bị dịch chuyển đến chỗ bạn nếu đòn đánh của chúng trúng bạn."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Cột băng:$() Khi bật modifier $(modifier:icicles)$(), có $(spell:storm_cloud/PERCENT/icicle_chance) xác suất sau mỗi $(spell:storm_cloud/SECONDS/icicle_interval) giây khi cơn bão còn hoạt động để tạo một đạn cột băng bắn vào mục tiêu hợp lệ, gây $(spell:storm_cloud/HEART/icicle_damage) tim sát thương vật lý.$(br2)$(bold)Phản kích điện:$() Khi bật modifier $(modifier:reactive_jolt)$(), bất kỳ ai tấn công bạn khi cơn bão còn hoạt động sẽ chịu $(spell:storm_cloud/HEART/lightning_damage) tim sát thương."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/cloud_berry"
+      ]
+    }
+  ]
+}

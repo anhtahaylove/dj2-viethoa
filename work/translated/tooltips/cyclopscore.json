@@ -1,0 +1,11 @@
+{
+  "general.cyclopscore.tooltip.info": "<Giữ Shift để xem thông tin>",
+  "chat.cyclopscore.command.onlyOneValue": "Vui lòng chỉ định một giá trị mới",
+  "chat.cyclopscore.command.invalidNewValue": "Giá trị mới không hợp lệ",
+  "chat.cyclopscore.command.updatedValue": "Đã cập nhật %s thành: %s",
+  "chat.cyclopscore.command.invalidPlayer": "Không tìm thấy người chơi '%s'",
+  "chat.cyclopscore.command.ignitedPlayer": "Người chơi '%s' đã bị thiêu đốt trong %s giây",
+  "chat.cyclopscore.command.noConfigsFound": "Không tìm thấy giá trị cấu hình nào có thể thiết lập",
+  "config.cyclopscore.worldgeneration.tooltip": "Cài đặt tạo thế giới",
+  "config.cyclopscore.modcompat.tooltip": "Cài đặt tương thích mod"
+}

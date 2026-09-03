@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "Seared Furnace có thể có kích thước từ 3x3 đến 11x11 và chiều cao tối thiểu là 3. Cấu trúc càng lớn, số vật phẩm có thể nung cùng lúc càng nhiều. Để cấu trúc hợp lệ, nó cần có sàn, trần và khung bao quanh các mặt bên (khung quanh trần và sàn là tùy chọn)"
+    },
+    {
+      "text": "Cấu trúc có thể được xây bằng bất kỳ loại seared block nào, cùng một controller duy nhất. Phải có ít nhất một tank chứa nhiên liệu, đặt ở cạnh ngoài của cấu trúc (xem hình). Trần có thể được thay bằng slab hoặc stair, ngoài ra vẫn hỗ trợ các block giống như phần còn lại của cấu trúc.",
+      "paragraph": true
+    }
+  ]
+}

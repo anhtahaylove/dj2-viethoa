@@ -1,0 +1,1702 @@
+{
+ "approved": 212,
+ "drift": [],
+ "rows": [
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.armorstand",
+   "en": "Armor Stand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.add.tt1",
+   "en": "Add Waypoint Pin Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.add.tt2",
+   "en": "Click anywhere on the map",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.atlas",
+   "en": "The Atlas",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.autocenter.tt1",
+   "en": "If enabled, the atlas will",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.autocenter.tt2",
+   "en": "search the inventory for a",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.autocenter.tt3",
+   "en": "valid map that shows where",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.autocenter.tt4",
+   "en": "you are at the currently",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.autocreate.tt1",
+   "en": "If enabled, creates new",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.autocreate.tt8",
+   "en": "Auto Center must be",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.center",
+   "en": "Auto Center",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.create",
+   "en": "Auto Create",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.edit.tt1",
+   "en": "Waypoint Pin Edit Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.edit.tt2",
+   "en": "Click a waypoint to edit",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.edit.tt3",
+   "en": "the pin name and color",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.edit.tt5",
+   "en": "To quickly delete a waypoint,",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.mapXcenter",
+   "en": "Map X Center:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.mapZcenter",
+   "en": "Map Z Center:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.mapZoom",
+   "en": "Map zoom level:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.no",
+   "en": "No",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.select.tt1",
+   "en": "Waypoint Select Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.select.tt2",
+   "en": "Hover over a waypoint",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.select.tt3",
+   "en": "and left click to select",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.select.tt4",
+   "en": "that waypoint.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.select.tt7",
+   "en": "Left click while holding Ctrl",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.transfer",
+   "en": "Waypoint Transfer",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.transfer.cancel",
+   "en": "Cancel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.transfer.from",
+   "en": "From Atlas to Map Frame",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.transfer.to",
+   "en": "From Map Frame to Atlas",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.yes",
+   "en": "Yes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.atlas.zoom",
+   "en": "Zoom level",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.bookcase",
+   "en": "Bookcase",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.case",
+   "en": "Display Case",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.catalog.close",
+   "en": "Close",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.catalog.count",
+   "en": "Count",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.catalog.names",
+   "en": "Item / Block Name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.chime",
+   "en": "Chime",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.chimesound",
+   "en": "Chime Sound",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.presets",
+   "en": "Presets",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.pulse",
+   "en": "Pulse",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.redstone",
+   "en": "Redstone",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.solid",
+   "en": "Solid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.clock.ticksound",
+   "en": "Tick Sound",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.compass.currentlocation",
+   "en": "Current Loc",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.compass.x",
+   "en": "X:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.compass.z",
+   "en": "Z:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.craft",
+   "en": "Craft",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.desk",
+   "en": "Wooden Desk",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.fancyworkbench",
+   "en": "Fancy Workbench",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.label",
+   "en": "Wooden Label",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.left",
+   "en": "Left",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.mapWaypoint.accept",
+   "en": "Accept",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.mapWaypoint.cancel",
+   "en": "Cancel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.mapWaypoint.remove",
+   "en": "Remove",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.mapWaypoint.waypoint",
+   "en": "Waypoint",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.aspectRatio",
+   "en": "Aspect Ratio",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.corner",
+   "en": "Master Corner",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.hideFrame",
+   "en": "Hide Frame",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.resolution",
+   "en": "Resolution",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.rotation",
+   "en": "Rotation",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.scale",
+   "en": "Scale",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.showFrame",
+   "en": "Show Frame",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.painting.size",
+   "en": "Painting Size",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.paintpress.custom",
+   "en": "Custom",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.paintpress.of",
+   "en": "of",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.paintpress.page",
+   "en": "Page",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.paintpress.transfer",
+   "en": "Transfer",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.paintpress.vanilla",
+   "en": "Vanilla",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.potionshelf",
+   "en": "Potion Shelf",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.recipe.crafted",
+   "en": "Crafted Successfully",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.recipe.disabled",
+   "en": "Crafting with recipe books is disabled.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.recipe.failed",
+   "en": "Failed to remove ingredients",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.recipe.invalid",
+   "en": "Invalid Recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.recipe.missing",
+   "en": "Missing Ingredients",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.redbook.title",
+   "en": "Book Title:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.right",
+   "en": "Right",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.shelf",
+   "en": "Wooden Shelf",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.aqua",
+   "en": "Aqua",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.black",
+   "en": "Black",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.blue",
+   "en": "Blue",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.bold",
+   "en": "Bold",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.center",
+   "en": "Center",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.darkaqua",
+   "en": "Dark Aqua",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.darkblue",
+   "en": "Dark Blue",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.darkgray",
+   "en": "Dark Gray",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.darkgreen",
+   "en": "Dark Green",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.darkpurple",
+   "en": "Dark Purple",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.darkred",
+   "en": "Dark Red",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.format",
+   "en": "Format",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.gold",
+   "en": "Gold",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.gray",
+   "en": "Gray",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.green",
+   "en": "Green",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.italic",
+   "en": "Italic",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.left",
+   "en": "Left",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.lightpurple",
+   "en": "Light Purple",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.linenum",
+   "en": "Line#",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.red",
+   "en": "Red",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.right",
+   "en": "Right",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.scale",
+   "en": "Text Scale",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.strikethrough",
+   "en": "Strikethrough",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.underline",
+   "en": "Underline",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.white",
+   "en": "White",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.sign.yellow",
+   "en": "Yellow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.table",
+   "en": "Wooden Table",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.testeritem.display",
+   "en": "Display name:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.testeritem.unlocal",
+   "en": "Unlocalized name:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.toolrack",
+   "en": "Tool Rack",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.delete",
+   "en": "Delete",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.enableDiscard",
+   "en": "Discard",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.exit",
+   "en": "Exit",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.guiTitle",
+   "en": "Typesetting Table: Book Management",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.nextPage",
+   "en": "Next Page",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.pageOfpages",
+   "en": "of",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.prevPage",
+   "en": "Prev Page",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.private",
+   "en": "Private",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.public",
+   "en": "Public",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bibliocraft",
+   "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.typesetting.select",
+   "en": "Select",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.bag.disabled",
+   "en": "Bag disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.bag.enabled",
+   "en": "Bag enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.blacklist",
+   "en": "Black list",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.blockquickactions.disabled",
+   "en": "Block quick actions: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.blockquickactions.enabled",
+   "en": "Block quick actions: active",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.builderswand.template",
+   "en": "Template name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.clearcraftinggrid",
+   "en": "Clear grid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.cyclemode.disabled",
+   "en": "Cycle mode: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.cyclemode.enabled",
+   "en": "Cycle mode: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.delay.inserter",
+   "en": "Delay between operations",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.block_count",
+   "en": "Length (number of blocks)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.delay",
+   "en": "Delay between operations",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.delay_num",
+   "en": "Delay: %d",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.length_num",
+   "en": "Length: %d",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.redstone_mode.extend_when_powered",
+   "en": "Extend when powered",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.redstone_mode.retract_when_powered",
+   "en": "Retract when powered",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.redstone_mode.toggle_on_pulse",
+   "en": "Toggle on pulse (rising edge)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.drawbridge.take_blocks",
+   "en": "Take block states from world",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.enderinfuser.chargeableinput",
+   "en": "Chargeable items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.fillstacks",
+   "en": "Fill all existing stacks",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.filterpresets",
+   "en": "Filter presets",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.filters.disabled",
+   "en": "Ignore filters",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.filters.enabled",
+   "en": "Use filters",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.furnace.fast",
+   "en": "Fast mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.furnace.slow",
+   "en": "Slow/Eco mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.holdshifttoincludehotbar",
+   "en": "(hold shift to include hotbar)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.inserter.filter.input",
+   "en": "Filter is for input (pulling)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.inserter.filter.output",
+   "en": "Filter is for side outputs",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.inventoryfilters",
+   "en": "Inventory filters",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.item.disabled",
+   "en": "Item disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.item.enabled",
+   "en": "Item enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.leaveoneitemongrid.disabled",
+   "en": "Leave one item: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.leaveoneitemongrid.enabled",
+   "en": "Leave one item: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.memorycards",
+   "en": "Memory Cards",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.meta.ignore",
+   "en": "Ignore damage/metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.meta.match",
+   "en": "Match damage/metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.modulestorage",
+   "en": "Module storage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.moveallitems",
+   "en": "Move all items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.moveallitemsexcepthotbar",
+   "en": "Move all items (except hotbar)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.movematchingitems",
+   "en": "Move matching items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.movematchingitemsexcepthotbar",
+   "en": "Move matching items (except hotbar)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.msu.creative.disabled",
+   "en": "Creative mode: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.msu.creative.enabled",
+   "en": "Creative mode: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.nbt.ignore",
+   "en": "Ignore NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.nbt.match",
+   "en": "Match NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.outputtoenderchest.disabled",
+   "en": "Output to Ender Chest: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.outputtoenderchest.enabled",
+   "en": "Output to Ender Chest: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.pickup_manager.functionality.disabled",
+   "en": "Bypass this functionality",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.pickup_manager.functionality.enabled",
+   "en": "Use this functionality",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.pickupmode.all",
+   "en": "Pickup mode: all",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.pickupmode.disabled",
+   "en": "Pickup mode: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.pickupmode.matching",
+   "en": "Pickup mode: matching",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.private",
+   "en": "Private",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.public",
+   "en": "Public",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.quickstack",
+   "en": "Quick Stack",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.quicktoggle",
+   "en": "Quick Toggle",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.redstone.high",
+   "en": "Redstone mode: operate when powered",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.redstone.ignored",
+   "en": "Redstone mode: ignored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.redstone.low",
+   "en": "Redstone mode: operate when unpowered",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.renameitems",
+   "en": "Rename items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.restockmode.all",
+   "en": "Restock mode: all",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.restockmode.disabled",
+   "en": "Restock mode: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.restockmode.hotbar",
+   "en": "Restock mode: hotbar-only",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.setname",
+   "en": "Set name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.settargetname",
+   "en": "Set target name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.slot.amount",
+   "en": "Number of slots",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.slot.amount.num",
+   "en": "Slots: %d",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.slotpresets",
+   "en": "Slot presets",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.slowfasttoggle",
+   "en": "Toggle slow/fast mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sortitems",
+   "en": "Sort items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sortitems.player",
+   "en": "Sort player inventory",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.pause",
+   "en": "Pause",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.pitch",
+   "en": "Pitch",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.play",
+   "en": "Play",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.repeat.disabled",
+   "en": "Repeat: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.repeat.enabled",
+   "en": "Repeat: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.stop",
+   "en": "Stop",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.sound_block.volume",
+   "en": "Volume",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.stack.limit.num",
+   "en": "Max stack: %d",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.stacklimit",
+   "en": "Stack limit",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.tool_workstation.itemtorename",
+   "en": "Item to rename",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.tool_workstation.tool",
+   "en": "Tool or item to modify",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.transportfilters",
+   "en": "Transport filters",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.transportitemsslot",
+   "en": "Transport items to remote inventory",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.updateitems.disabled",
+   "en": "Update items: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.updateitems.enabled",
+   "en": "Update items: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.use.areablock",
+   "en": "Use area around the block",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.use.areaplayer",
+   "en": "Use area around player",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.use.linkcrystaltargets",
+   "en": "Use Link Crystal targets",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.useitemsfrominventory.disabled",
+   "en": "Take items from inventory: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.useitemsfrominventory.enabled",
+   "en": "Take items from inventory: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.useoredictionary.disabled",
+   "en": "Use Ore Dictionary: disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.useoredictionary.enabled",
+   "en": "Use Ore Dictionary: enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.gui.label.whitelist",
+   "en": "White list",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.placement_properties.asu.slots",
+   "en": "Number of slots",
+   "route": "runtime"
+  }
+ ]
+}

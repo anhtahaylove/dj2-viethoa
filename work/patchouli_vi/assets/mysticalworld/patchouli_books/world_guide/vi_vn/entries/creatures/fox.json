@@ -1,0 +1,23 @@
+{
+  "name": "Fox",
+  "icon": "mysticalworld:pelt",
+  "category": "creatures",
+  "flag": "roots:fox",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "fox",
+      "breed": "Nhân giống: bằng Apple.",
+      "tame": "Thuần hóa: bằng Apple.",
+      "blurb": ""
+    },
+    {
+      "type": "entity",
+      "name": "Fox",
+      "entity": "mysticalworld:entity_fox",
+      "scale": 0.8,
+      "offset": 0,
+      "text": "Dù là những kẻ săn Chicken và Rabbit hung dữ, chúng sẽ trở nên hiền lành khi được thuần hóa!"
+    }
+  ]
+}

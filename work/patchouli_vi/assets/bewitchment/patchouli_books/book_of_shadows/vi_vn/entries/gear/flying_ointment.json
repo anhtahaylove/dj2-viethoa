@@ -1,0 +1,15 @@
+{
+  "name": "Flying Ointment",
+  "category": "gear",
+  "icon": "bewitchment:flying_ointment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một hỗn hợp khá ghê rợn gồm mỡ người chết cùng nhiều loài cây độc và thơm có đặc tính tác động thần kinh. Có thể xức hỗn hợp này lên chổi để truyền ma thuật, giúp nó bay được. Loại thuốc mỡ này cũng được cho là dùng trong một số buổi lễ hắc ám, thường khi có mặt một ác quỷ hùng mạnh."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:flying_ointment"
+    }
+  ]
+}

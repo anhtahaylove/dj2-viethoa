@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "MoreTweaker-1.0.19.jar",
+      "path": "assets/moretweaker/lang/en_us.lang"
+    }
+  ]
+}

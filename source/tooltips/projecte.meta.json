@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ProjectE-1.12.2-PE1.4.1.jar",
+      "path": "assets/projecte/lang/en_us.lang"
+    }
+  ]
+}

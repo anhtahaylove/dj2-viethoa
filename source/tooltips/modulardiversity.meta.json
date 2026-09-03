@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Modular Diversity-1.8.jar",
+      "path": "assets/modulardiversity/lang/en_us.lang"
+    }
+  ]
+}

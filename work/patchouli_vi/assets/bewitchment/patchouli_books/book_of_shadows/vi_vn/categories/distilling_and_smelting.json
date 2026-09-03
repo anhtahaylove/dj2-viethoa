@@ -1,0 +1,6 @@
+{
+  "name": "Chưng cất và Nung luyện",
+  "description": "Witches' Oven có thể là cỗ máy đầu tiên mà một phù thủy tập sự sở hữu. Nó có thể đốt một số thuốc thử để tạo ra các loại khói đặc biệt cùng nhiều sản phẩm phụ. Nếu đặt Clay Jar vào Witches' Oven, bình sẽ thu lại lượng khói được tạo ra. Chỉ cần bình nếu sản phẩm đầu ra là khói. Ngoài ra, nó còn có thể dùng để chế biến nhiều loại thức ăn chín.",
+  "icon": "bewitchment:textures/gui/patchouli/icons/book_of_shadows/oven.png",
+  "sortnum": 3
+}

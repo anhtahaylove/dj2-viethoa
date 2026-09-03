@@ -1,0 +1,18 @@
+{
+  "modifier": "sharpness",
+  "text": [
+    {
+      "text": "Bạn có thể dùng Quartz để mài sắc lưỡi vũ khí. Dùng càng nhiều Quartz, lưỡi vũ khí càng sắc. Cũng có tác dụng với vật phẩm cùn."
+    }
+  ],
+  "effects": [
+    "Increases attack damage",
+    "Different weapons scale differently",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

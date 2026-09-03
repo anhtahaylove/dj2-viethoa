@@ -1,0 +1,64 @@
+{
+  "name": "Trees",
+  "category": "world",
+  "icon": "bewitchment:elder_sapling",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thường xuất hiện trong đủ loại rừng, cây cối là nền tảng của hầu hết thuật phù thủy."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Cypress",
+      "text": "Một loài cây cao, sẫm màu, mọc ở những vùng cây lá kim như Taiga. Cây này gắn liền với cái chết và thế giới bên kia, đồng thời thiết yếu để tạo ra làn khói Ebb of Death. Dù vậy, chổi làm từ gỗ của nó giúp người cưỡi tạm thời có hiệu ứng Resistance khi bay."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/cypress.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Elder",
+      "text": "Elder là loài cây thường thấy trong những khu rừng xanh tốt, gồm Forest và Birch Forest. Cây này gắn liền với trí tuệ, còn cây non của nó tạo ra làn khói Drop of Wisdom. Chổi phép làm từ gỗ Elder thuộc hàng nhanh nhất. Cây cũng cho những quả mọng mọng nước, mang mùi hương giống cha bạn."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/elder.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Juniper",
+      "text": "Loài cây chủ yếu mọc ở những vùng khô hạn, phổ biến nhất tại Savanna. Cây nổi tiếng với sức mạnh ma thuật lớn, và chiết xuất từ cây non được dùng để chế tạo Liquid Witchcraft. Broom làm từ loại gỗ này có sẵn sức mạnh ma thuật và không cần ME để bay. Cây tạo ra những quả nón nhỏ màu xanh trông như quả mọng, thường được dùng làm gia vị."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/juniper.png"
+      ],
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "Dragon's Blood",
+      "text": "Một loài cây quý hiếm được coi trọng nhờ nhựa cây có nhiều công dụng, phổ biến nhất là dùng cho Sigils. Loài cây này đã tuyệt chủng ngoài tự nhiên, nhưng một số Alchemists được biết là vẫn bí mật trồng chúng và có thể tặng cây non cho người họ tin tưởng. Rạch một khúc gỗ trưởng thành bằng Boline sẽ mở đường lấy nhựa, khiến nhựa đỏ như máu rỉ ra. Broom làm từ loài cây quý hiếm này nhanh hơn mọi loại khác, ngoại trừ Elder Broom,"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/dragonsblood.png"
+      ],
+      "border": true,
+      "text": "đổi lại, chúng có thể được gắn Sigils và sẽ áp dụng hiệu ứng của chúng lên người cưỡi."
+    }
+  ]
+}

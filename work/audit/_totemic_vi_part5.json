@@ -1,0 +1,10 @@
+{
+ "totemic.entry.windChime": "Wind Chime",
+ "totemic.page.windChime0": "§1Wind Chime§0 là nhạc cụ đung đưa theo gió và định kỳ tạo ra §4Melody§0. §1Wind Chime§0 không được có khối nào bên dưới, và phải treo vào một khối phía trên. Tuy §1Wind Chime§0 không tạo ra nhiều §4Melody§0, nó lại chẳng cần người chơi can thiệp. Khuyến nghị chỉ nên treo vài cái Wind Chime gần một §1Totem Pole§0 cùng lúc.",
+ "totemic.page.windChime1": "Không hiếm khi thấy §1Wind Chime§0 treo trên cành lá, thậm chí có tin đồn rằng làm vậy khiến chúng tạo ra nhiều §4Melody§0 hơn. Khi §1Wind Chime§0 kêu, nó sẽ rung lắc mạnh và sinh ra §1Melody§0. Vì âm nhạc từ §1Wind Chime§0 quá dễ có, §4Ngưỡng Melody§0 rất nhanh đạt tới. Đánh vào §1Wind Chime§0 khi đang §4Cúi mình§0 sẽ khiến nó chơi ở §4Selector Mode§0.",
+ "totemic.entry.drum": "Drum",
+ "totemic.page.drum0": "§1Drum§0 là khối nhạc cụ, chỉ cần đấm bằng tay là chơi được. Mọi §1Totemist§0 nên học nhịp điệu dùng khi §1Flute§0 và §1Drum§0 cùng tấu, vì nó có thể cần cho các §1Ceremony§0 giai đoạn đầu.",
+ "totemic.page.drum1": "Nên đặt vài cái §1Drum§0 quanh §1Totem Pole§0 để có thể chơi luân phiên. Như hầu hết nhạc cụ, §4cúi mình§0 khi chơi sẽ cho phép bạn chọn một §4Ceremony§0.",
+ "totemic.entry.jingleDress": "Jingle Dress",
+ "totemic.page.jingleDress0": "§1Jingle Dress§0. Một trong những trang phục danh giá nhất mà §4Totemist§0 có thể sở hữu. Đó là chiếc váy lá đính đầy chuông. Chạy sẽ tạo ra §4Melody§0; người ta nói chạy càng nhanh thì càng tạo nhiều, và thuốc tăng tốc còn đẩy nó lên cao hơn nữa! Có lẽ hiệu ứng của nó sẽ được kích hoạt khi chạy giữa những chiếc §1Drum§0."
+}

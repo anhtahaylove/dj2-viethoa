@@ -1,0 +1,13 @@
+{
+  "title": "Bolt Crafting",
+  "text": [
+    {
+      "text": "Để chế tạo bolts, bạn cần Bolt Core. Bolt Cores được tạo bằng cách đặt Arrow Shaft lên casting table rồi rót vật liệu làm đầu lên đó."
+    }
+  ],
+  "image": {
+    "file": "tconstruct:textures/gui/book/bolt_core.png",
+    "width": 150,
+    "height": 75
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Venison",
+  "icon": "mysticalworld:cooked_venison",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:venison",
+      "text": "Có thể lấy Venison từ $(l:creatures/deer)deer$() rồi nấu thành một bữa ăn thịnh soạn."
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:venison",
+      "title": "Cooked Venison",
+      "text": "Bạn cũng có thể lấy dạng thịt đã nấu chín từ deer bị giết khi đang cháy hoặc bằng sát thương lửa."
+    }
+  ]
+}

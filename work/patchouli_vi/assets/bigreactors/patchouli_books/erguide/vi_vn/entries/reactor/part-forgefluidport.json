@@ -1,0 +1,25 @@
+{
+  "name": "Coolant Port",
+  "icon": "bigreactors:reactorcoolantport",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorcoolantport",
+      "link_recipe": true,
+      "title": "Coolant Port",
+      "text": "Coolant Port cho phép bạn đưa chất lỏng vào hoặc lấy chất lỏng ra khỏi Reactor $(l:reactor/active)làm mát chủ động$(/l).$(br2)Port này nhận và xả chất lỏng vanilla, nhưng chỉ khi chúng là $(l:misc/coolantsystem)chất làm mát hoặc hơi hợp lệ$(/l).$(br2)Có thể dùng $(l:misc/wrench)wrench$(/l) để chuyển Port giữa chế độ đầu vào và đầu ra."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorcoolantport",
+      "title": "Coolant Port"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không$(br)$(l)Wrench:$() có thể dùng $(l:misc/wrench)wrench$(/l) để chuyển đổi chế độ của Port"
+    }
+  ]
+}

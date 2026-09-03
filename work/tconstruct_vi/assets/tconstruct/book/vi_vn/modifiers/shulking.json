@@ -1,0 +1,19 @@
+{
+  "modifier": "shulking",
+  "text": [
+    {
+      "text": "Trao cho công cụ của bạn năng lực của Shulker. Đánh kẻ địch để khiến chúng bất lực giữa không trung."
+    }
+  ],
+  "effects": [
+    "Each point increases floating duration",
+    "Causes enemies to float away",
+    "Hilarious",
+    "Single level"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

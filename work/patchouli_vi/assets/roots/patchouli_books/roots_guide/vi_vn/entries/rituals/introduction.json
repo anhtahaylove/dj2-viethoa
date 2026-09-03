@@ -1,0 +1,52 @@
+{
+  "name": "Giới thiệu về nghi lễ",
+  "icon": "minecraft:writable_book",
+  "category": "rituals",
+  "sortnum": 1,
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nghi lễ là cách giải phóng năng lượng hoang dã của thiên nhiên và vận dụng nó cho một mục đích cụ thể.$(br2)Thiết bị chính dùng trong nghi lễ là $(l:crafting/pyres)Pyre$(). Hãy nhấp chuột phải hoặc ném năm nguyên liệu cần thiết lên Pyre để thực hiện nghi lễ. (Nhấp chuột phải lần nữa để lấy vật phẩm ra)."
+    },
+    {
+      "type": "text",
+      "text": "Khi đã đặt đúng nguyên liệu lên Pyre, HUD sẽ hiển thị thông tin về nghi lễ. Bước cuối cùng là châm lửa cho Pyre để bắt đầu nghi lễ.$(br2)$(info) Có thể châm Pyre bằng $(l:rituals/fire_starter)Flint and Steel hoặc dụng cụ tạo lửa khác$().$(br2)$(info) Có thể kết thúc sớm nghi lễ đang diễn ra bằng cách dập lửa. Hãy nhấp chuột phải bằng xô nước hoặc chất lỏng phù hợp."
+    },
+    {
+      "type": "text",
+      "text": "$(info) Một số nghi lễ cần $(l:rituals/standing_stones)Standing Stones, Runed Pillars$() hoặc $(l:rituals/catalyst_plates)Catalyst Plates$() để dẫn hướng năng lượng.$(br2)Một số ít nghi lễ còn cần thêm thành phần ngoài những thứ đã nêu; chúng sẽ được ghi rõ trong mục của từng nghi lễ."
+    },
+    {
+      "type": "text",
+      "title": "Cấp nghi lễ",
+      "text": "($(o)Xem $(l:rituals/tiers)Cấp nghi lễ$())$(br2)Nghi lễ được phân cấp theo số thành phần cần thêm ngoài Pyre cơ bản.$(br2)Yêu cầu của mỗi nghi lễ sẽ được hiển thị dưới dạng hình ảnh multiblock.$(br2)Vì vậy, cấp của nghi lễ tương ứng với số thành phần cần thiết."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "Mỗi mục nghi lễ đều liệt kê thông tin cụ thể. Nội dung sẽ thay đổi tùy loại nghi lễ, nhưng thường gồm kích thước, thời lượng, v.v.$(br2)Các nghi lễ phức tạp hơn cũng mô tả cách hoạt động và tần suất kích hoạt của từng chức năng."
+    },
+    {
+      "type": "text",
+      "title": "Hiển thị trực quan",
+      "text": "($(o)Xem $(l:rituals/visualisation)Hiển thị nghi lễ$())$(br2)Nếu nghi lễ có bán kính hoặc kích thước khối lập phương cụ thể, bạn có thể hiển thị chính xác phạm vi của nó trong thế giới.$(br2)Để làm vậy, hãy lén và nhấp chuột phải bằng $(l:crafting/knives)Knife$() vào $(l:crafting/pyres)Pyre$() đang chứa nguyên liệu nghi lễ (hoặc để hiển thị một nghi lễ đã kích hoạt trước đó)."
+    },
+    {
+      "type": "text",
+      "title": "Tự động hóa",
+      "text": "($(o)Xem $(l:rituals/automation)Tự động hóa nghi lễ$())$(br2)Nguyên liệu cho nghi lễ có thể được cất trong rương bên dưới pyre và sẽ tự động được lấy dùng mỗi khi pyre trống.$(br2)Nghi lễ đã bắt đầu sẽ tự động tiếp tục nếu có nguyên liệu mới. Các nguồn lửa gần đó cũng sẽ được dùng để bắt đầu nghi lễ."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/automation",
+        "rituals/tiers",
+        "rituals/standing_stones",
+        "rituals/visualisation",
+        "crafting/pyres"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Living Hoe",
+  "icon": "roots:living_hoe",
+  "category": "crafting_armor_tools_living",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Living Tools có lợi thế lớn so với các công cụ khác: chúng tự sửa chữa theo thời gian.$(br2)$(info) Riêng Living Hoe có thể phá cỏ và cây trong phạm vi rộng hơn.$(br2)Có thể sửa Living Tools thủ công trong Anvil hoặc Imbuer bằng bất kỳ loại Bark nào."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_hoe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_hoe",
+        "crafting/runed_plough",
+        "resources/bark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Rare Flowers",
+  "icon": "minecraft:double_plant:1",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một $(l:crafting/grove_stone)grove stone$() đang hoạt động có thể tạo ra số lượng đáng ngạc nhiên các loài hoa hiếm, đặc biệt là hoa cao hai khối như sunflower, peony và rose bush.$(br2)Cách kích hoạt grove stone được mô tả chi tiết trong nghi thức $(l:rituals/ritual_grove_supplication)Grove Supplication$(); một số bước cũng được giải thích trong phần $(l:crafting/introduction#grove)giới thiệu về chế tạo$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/grove_stone",
+        "concepts/groves"
+      ]
+    }
+  ]
+}

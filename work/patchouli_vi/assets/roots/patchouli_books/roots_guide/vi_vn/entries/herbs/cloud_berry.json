@@ -1,0 +1,30 @@
+{
+  "name": "Cloud Berry",
+  "icon": "roots:cloud_berry",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:cloud_berry",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Được trồng từ một bụi cây nhẹ bẫng đến mức càng mọc nhiều Cloud Berry, nó càng dễ tự bật khỏi mặt đất.$(br2)Giờ không còn cần buộc bụi cây xuống, nhưng quả vẫn lơ lửng như lông vũ khi bị thả ra.$(br2)Được dùng trong các phép thuật và nghi lễ liên quan đến bầu trời, $(l:herbs/cloud_berry#renew)nó cũng là cây trồng tái tạo được$()."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "cloud_berry"
+    },
+    {
+      "type": "text",
+      "anchor": "renew",
+      "title": "Khả năng tái tạo",
+      "text": "Là một loại thảo mộc nguyên tố, nó cần được trồng trên một trong năm loại $(l:resources/elemental_soil)elemental soil$(). Có thể mọc trên bất kỳ Elemental Soils nào. $(br2)Ngoài ra, nó phát triển như mọi cây trồng khác và chín khi những chùm trắng bám vào các nhánh xanh mảnh mai, đung đưa ngay cả khi không có gió."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

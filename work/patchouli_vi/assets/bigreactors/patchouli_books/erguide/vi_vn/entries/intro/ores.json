@@ -1,0 +1,38 @@
+{
+  "name": "Quặng",
+  "icon": "bigreactors:oreyellorite",
+  "category": "bigreactors:intro",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:oreyellorite",
+      "text": "Nguồn nhiên liệu thông thường để vận hành các Reactor của bạn.$(br2)Yellorite có thể được tìm thấy ở hầu hết mọi biome và có thể nung thành các thỏi Yellorium."
+    },
+    {
+      "type": "smelting",
+      "recipe": "bigreactors:oreyellorite",
+      "text": "Yellorium ở dạng thỏi hoặc khối có thể được đưa vào Access Port để chuyển thành nhiên liệu cho Reactor."
+    },
+    {
+      "type": "spotlight",
+      "item": "bigreactors:orebenitoite",
+      "text": "Quặng này chỉ được tìm thấy ở những nơi sâu thẳm nhất của địa ngục.$(br2)Nhìn lên. Hoặc xuống."
+    },
+    {
+      "type": "spotlight",
+      "item": "bigreactors:mineralbenitoite",
+      "text": "Tinh thể Benitoite có một số đặc tính khác thường mà bạn vẫn chưa tìm ra cách sử dụng."
+    },
+    {
+      "type": "spotlight",
+      "item": "bigreactors:oreanglesite",
+      "text": "Bạn cần đi đến tận cùng hành trình mới tìm thấy loại quặng khó kiếm này."
+    },
+    {
+      "type": "spotlight",
+      "item": "bigreactors:mineralanglesite",
+      "text": "Những tinh thể này sáng bóng và đẹp mắt, nhưng bạn vẫn chưa biết cách tận dụng chúng."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "PlanetProgression-1.12.2-0.4.8.jar",
+      "path": "assets/planetprogression/lang/en_US.lang"
+    }
+  ]
+}

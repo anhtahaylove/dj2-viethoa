@@ -1,0 +1,12 @@
+{
+  "name": "Filled Goblet",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:filled_goblet",
+  "pages": [
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:filled_goblet",
+      "text": "Khi chứa đầy hỗn hợp ma thuật này, Goblet sẽ tăng sức mạnh cho altar và phát tín hiệu redstone."
+    }
+  ]
+}

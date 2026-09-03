@@ -1,0 +1,26 @@
+{
+  "name": "Runed Excavator",
+  "icon": "roots:runed_shovel",
+  "category": "crafting_armor_tools_runed",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cứng cáp và bền bỉ, vẫn có khả năng tự hồi phục nhưng chậm hơn nhiều so với các công cụ khác. $(br2)$(info) Chiếc xẻng này có cấp khai thác tương đương công cụ kim cương.$(br2)$(info) Đáng chú ý nhất, chiếc xẻng này không chỉ phá một khối mà đào cả vùng 3x3."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_shovel"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_shovel",
+        "crafting/living_shovel",
+        "resources/runed_obsidian"
+      ]
+    }
+  ]
+}

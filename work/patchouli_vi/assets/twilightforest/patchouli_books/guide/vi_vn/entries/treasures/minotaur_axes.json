@@ -1,0 +1,27 @@
+{
+  "name": "Minotaur Axes",
+  "icon": "twilightforest:minotaur_axe",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/minotaur_axes",
+  "sortnum": 5030,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Những vũ khí được rèn tinh xảo, sử dụng bởi Minotaur và Minoshroom. Chúng có vẻ giống bao chiếc rìu khác, nhưng thiết kế lại rất kỳ lạ. Dù nhẹ khi cầm, chúng trở nên nặng nề lúc chạy."
+    },
+    {
+      "type": "spotlight",
+      "title": "Golden Minotaur Axe",
+      "item": "twilightforest:minotaur_axe_gold",
+      "advancement": "twilightforest:alt/treasures/minotaur_axe_gold",
+      "text": "Sắc bén, mạnh mẽ nhưng cực kỳ mong manh. Chỉ những Minotaur xứng đáng nhất mới sở hữu vũ khí này."
+    },
+    {
+      "type": "spotlight",
+      "title": "Diamond Minotaur Axe",
+      "item": "twilightforest:minotaur_axe",
+      "advancement": "twilightforest:alt/treasures/minotaur_axe_diamond",
+      "text": "Một vũ khí được rèn tinh xảo, mang sức mạnh của Diamond. Vũ khí uy lực này là lựa chọn của Minoshroom, rất xứng tầm một mãnh thú."
+    }
+  ]
+}

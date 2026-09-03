@@ -1,0 +1,44 @@
+{
+  "name": "Bàn thờ và yếu tố điều chỉnh",
+  "category": "magic_overview",
+  "icon": "bewitchment:pentacle",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "title": "Bàn thờ",
+      "text": "Nếu Magical Energy là huyết mạch trong lãnh địa của phù thủy, thì bàn thờ là trái tim luân chuyển nó. Bàn thờ được tạo bằng cách đặt 6 Altar Block cùng loại theo bố cục 2x3, rồi phủ lên trên một tấm thảm có màu bất kỳ. Bàn thờ có thể hút năng lượng từ thực vật trong bán kính 32 mét và phân phối cho mọi thiết bị trong bán kính 16 mét."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:stone_witches_altar"
+    },
+    {
+      "type": "multiblock",
+      "name": "Cách xây dựng",
+      "multiblock": {
+        "mapping": {
+          "A": "bewitchment:stone_witches_altar[type=0]",
+          "0": "bewitchment:stone_witches_altar[type=0]"
+        },
+        "pattern": [
+          [
+            "AA",
+            "0A",
+            "AA"
+          ]
+        ]
+      },
+      "text": "Các khối xung quanh altar $(i)không được$() là những altar block khác"
+    },
+    {
+      "type": "text",
+      "title": "Vật bổ trợ",
+      "text": "Vật bổ trợ được chia thành 4 nhóm: cups, swords, wands và pentacles. Altar chỉ nhận hiệu ứng từ vật phẩm đầu tiên được thêm vào của mỗi Suite, và các vật phẩm cùng Suite không cộng dồn."
+    },
+    {
+      "type": "text",
+      "text": "Cups: Glass Bottles, Flower Pots, Goblets và Filled Goblets. $(br2)Swords: các loại kiếm Vanilla, Silver Swords, Athames, Bolines. $(br2)Wands: Candles, Torches, End Rods. $(br2)Pentacles: Precious Gems, Skulls and Heads và chính Pentacle."
+    }
+  ]
+}

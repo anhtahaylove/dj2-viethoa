@@ -1,0 +1,7 @@
+# Safe player-facing tooltip/prose candidates.
+tooltip.wawla.generic.temperature=Temperature: %dK
+tooltip.wawla.vanilla.jump=Jump: %f (%dX)
+tooltip.wawla.vanilla.speed=Speed: %f (%dX)
+tooltip.wawla.enchdesc.missing=No description found. Please ask the author of %s to add one. Localization key is %s
+tooltip.wawla.enchdesc.activate=Press %s%s%s for enchantment descriptions.
+tooltip.wawla.dragonmounts.start=Click to start hatching!

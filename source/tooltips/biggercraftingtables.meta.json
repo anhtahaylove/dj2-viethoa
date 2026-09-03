@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "BiggerCraftingTables-1.12.2-2.3b.jar",
+      "path": "assets/biggercraftingtables/lang/en_US.lang"
+    }
+  ]
+}

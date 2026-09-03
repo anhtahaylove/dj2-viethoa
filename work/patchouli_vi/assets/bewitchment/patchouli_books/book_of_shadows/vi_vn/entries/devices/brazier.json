@@ -1,0 +1,60 @@
+{
+  "name": "Brazier",
+  "category": "devices",
+  "icon": "bewitchment:brazier",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Brazier là một vật chứa đặc biệt dùng để đốt các nguyên liệu. Tùy vào nguyên liệu được đốt, Brazier có thể tạo hiệu ứng từ cường hóa thụ động, sương mù dày đặc, cho đến triệu hồi sinh vật từ cõi bên kia. Đốt vật phẩm là một cách chắc chắn giúp chúng vượt qua tấm màn ngăn cách để vào thế giới linh hồn và giao tiếp với các linh hồn tại đó."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:brazier",
+      "text": "Brazier cũng có thể đốt Incense; khi được châm lửa, nó sẽ ban hiệu ứng đặc biệt cho những người trong khu vực. Một số kẻ hiểm độc còn truyền tai nhau rằng Brazier có thể dùng để gieo lời nguyền lên mục tiêu…"
+    },
+    {
+      "type": "text",
+      "title": "Incense",
+      "text": "Khi đốt một lượng nguyên liệu nhất định trong Brazier cùng Dragon’s Blood Resin làm chất xúc tác, Incense sẽ được tạo ra. Khi đốt, nó tạo ra làn sương có thể ban một số hiệu ứng thụ động cho người ngủ trong khói, đồng thời xua đuổi những sinh vật hắc ám chạm vào làn khói ấy."
+    },
+    {
+      "type": "text",
+      "text": "Tuy nhiên, do bản chất hư ảo của làn khói này, hiệu ứng từ Incense không thể mạnh bằng Sigil hoặc Brew, trừ khi…"
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:vitality",
+      "text": "Cường hóa thể xác và máu thịt của người dùng, giúp họ gây nhiều sát thương hơn và chịu ít sát thương hơn."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:deftness",
+      "text": "Tăng tốc độ và sự nhanh nhẹn của người dùng."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:invigorating",
+      "text": "Tăng sức bền tổng thể của người dùng và giúp họ phá block nhanh hơn."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:cats_eye",
+      "text": "Kích thích thị giác của người dùng, giúp họ nhìn trong bóng tối như mèo."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:fullness",
+      "text": "Giúp người dùng lâu đói hơn và chịu được nhiều đòn đánh hơn."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:intensity",
+      "text": "Khi được đốt trong một brazier riêng cạnh brazier chứa loại incense khác, nó tăng cường hiệu lực của các hiệu ứng. Không tương thích với Concentration."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:concentration",
+      "text": "Làm khói từ brazier gần đó đặc và cô đọng hơn, giúp các hiệu ứng kéo dài lâu hơn nhiều. Không tương thích với Intensity."
+    }
+  ]
+}

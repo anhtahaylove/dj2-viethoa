@@ -1,0 +1,17 @@
+{
+  "name": "Nguyên lý hoạt động",
+  "icon": "bigreactors:turbinebearing",
+  "category": "bigreactors:turbine",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Turbine tạo năng lượng như thế nào?$(br2)Bằng cách quay $(l:turbine/rotor)Rotor$(/l).$(br2)Chất lưu từ Turbine Vapor Fluid Tank được bơm vào buồng $(l:turbine/rotor)Rotor$(/l) theo lưu lượng bạn đặt trong giao diện của $(l:turbine/part-controller)Controller$(/l).$(br2)Mỗi $(l:turbine/part-rotorblade)Rotor Blade$(/l) thu một lượng nhỏ hơi, khiến $(l:turbine/rotor)Rotor$(/l) quay."
+    },
+    {
+      "type": "text",
+      "text": "Khi $(l:turbine/coils)Induction Coils$(/l) được $(l:turbine/part-controller)kích hoạt$(/l), năng lượng tạo ra phụ thuộc vào tốc độ của $(l:turbine/rotor)Rotor$(/l) và giá trị trung bình của các thuộc tính như hiệu suất và lực cản của tất cả khối cuộn dây.$(br2)$(italic)Lưu ý rằng đây chỉ là cách giải thích đơn giản hóa về những gì thực sự diễn ra bên trong Turbine, dù vẫn đủ chính xác để bạn chế tạo những Turbine tốt nhất có thể.$() "
+    }
+  ]
+}

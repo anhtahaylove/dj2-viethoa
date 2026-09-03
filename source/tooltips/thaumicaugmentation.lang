@@ -1,0 +1,11 @@
+# Safe player-facing tooltip/prose candidates.
+thaumicaugmentation.subtitle.rift_mover_input_loop=Metaspatial Accumulator hums
+thaumicaugmentation.subtitle.rift_mover_output_loop=Metaspatial Extruder hums
+thaumicaugmentation.subtitle.booster_start=Impetus Thruster turns on
+thaumicaugmentation.subtitle.booster_end=Impetus Thruster turns off
+thaumicaugmentation.subtitle.booster_loop=Impetus Thruster runs
+thaumicaugmentation.subtitle.impulse_cannon_beam_start=Impulse Cannon turns on
+thaumicaugmentation.subtitle.impulse_cannon_beam_end=Impulse Cannon turns off
+thaumicaugmentation.subtitle.impulse_cannon_beam_loop=Impulse Cannon beam hums
+thaumicaugmentation.subtitle.impulse_cannon_burst=Impulse Cannon fires burst
+thaumicaugmentation.subtitle.impulse_cannon_railgun=Impulse Cannon fires railgun shot

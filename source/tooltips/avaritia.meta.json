@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "Avaritia-1.12.2-3.3.0.37-universal.jar",
+      "path": "assets/avaritia/lang/en_US.lang"
+    }
+  ]
+}

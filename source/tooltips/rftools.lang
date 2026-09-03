@@ -1,0 +1,11 @@
+# Safe player-facing tooltip/prose candidates.
+advancements.rftools.builder.description=Bob The Builder!
+advancements.rftools.general.description=Starting RFTools!
+advancements.rftools.hardpower.description=Build an Endergenic Generator
+advancements.rftools.clearvision.description=Place a modular screen
+advancements.rftools.specialores.description=Mine dimensional shards
+advancements.rftools.goingup.description=Make an elevator and go up (or down?)
+advancements.rftools.storepower.description=Put down a powercell
+advancements.rftools.shieldsafety.description=Activate a shield
+advancements.rftools.alltheitems.description=Place down a modular storage block
+advancements.rftools.firstteleport.description=Teleport to a new location @todo

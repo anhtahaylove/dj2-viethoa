@@ -1,0 +1,11 @@
+{
+  "title": "The Seared Furnace",
+  "image": {
+    "file": "tconstruct:textures/gui/book/seared_furnace.png"
+  },
+  "text": [
+    {
+      "text": "Seared Furnace vượt trội hơn mọi lò nung, có thể nấu một phần tư chồng vật phẩm cùng lúc và nấu thức ăn nhanh hơn."
+    }
+  ]
+}

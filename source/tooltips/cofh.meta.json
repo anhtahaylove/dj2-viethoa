@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang"
+    }
+  ]
+}

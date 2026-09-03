@@ -1,0 +1,123 @@
+{
+  "name": "Sigil Table",
+  "category": "devices",
+  "icon": "bewitchment:sigil_table",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc bàn viết trông khá bình thường, được xử lý bằng Dragon’s Blood Resin nên mang sắc đỏ thẫm. Chiếc bàn viết cầu kỳ này dùng để vẽ Sigil. Nó còn có một lưới 5x5 độc đáo, mang lại nhiều không gian và sự tự do khi vẽ."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:sigil_table"
+    },
+    {
+      "type": "text",
+      "title": "Sigils",
+      "text": "Sigil là những biểu tượng đặc biệt do phù thủy tạo ra để sinh ra một số hiệu ứng hoặc bảo vệ khu vực nhất định. Sigil phải được vẽ bằng Dragon’s Blood Resin, tuy nhiên tùy loại Sigil cụ thể mà cũng có thể cần các hợp chất tương tự khác như thuốc nhuộm."
+    },
+    {
+      "type": "text",
+      "text": "Có thể đặt Sigil lên khối để tác động đến các thực thể xung quanh; chúng sẽ phai đi sau một tuần. Sigil cũng có thể được đặt lên rương và cửa làm từ gỗ cây Dragon’s Blood, khiến bất kỳ ai tương tác với chúng đều chịu hiệu ứng của Sigil."
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:mending"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_mending",
+      "text": "Khiến mục tiêu hồi phục sinh lực"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:ruin"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_ruin",
+      "text": "Khiến mục tiêu chạm vào Sigil mắc bệnh"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:binding"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_binding",
+      "text": "Gây tê liệt tạm thời"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:cleansing"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_cleansing",
+      "text": "Loại bỏ hiệu ứng bất lợi khỏi mục tiêu"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:failure"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_failure",
+      "text": "Khiến nghi lễ của mục tiêu thất bại trong một thời gian"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:purity"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_purity",
+      "text": "Loại bỏ một số lời nguyền nhẹ, nhưng không phải tất cả"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:luck"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_luck",
+      "text": "Tăng cơ hội tìm được chiến lợi phẩm tốt hơn trong rương trong một khoảng thời gian"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:battle"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_battle",
+      "text": "Tăng nhẹ sức mạnh và khả năng chống chịu"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:disorientation"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_disorientation",
+      "text": "Làm rối trí mob và người chơi"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:shrieking"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_shrieking",
+      "text": "Rít vào mục tiêu, $(o)cực kỳ lớn"
+    },
+    {
+      "type": "bewitchment:sigil_recipe",
+      "recipe": "bewitchment:sentinel"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:sigil_sentinel",
+      "text": "Triệu hồi những hồn ma rùng rợn để tấn công mục tiêu"
+    }
+  ]
+}

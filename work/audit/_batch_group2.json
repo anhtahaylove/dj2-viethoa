@@ -1,0 +1,190 @@
+{
+ "betternether": {
+  "commands.findnethercity.usage": "Wrong usage, must be /findNetherCity or /findNetherCity x y z",
+  "commands.findnethercity.usage.console": "No coordinates in input",
+  "commands.findnethercity.usage.coordinates": "Wrong coordinates",
+  "container.chest_of_drawers": "Chest of Drawers",
+  "container.forge": "Forge",
+  "message.spawn_help": "§c§lYou must hold Glowstone Dust to set your spawn point here",
+  "message.spawn_set": "§2§lYour spawn point was set here"
+ },
+ "cucumber": {
+  "guide.cu.page_indicator": "Page %s / %s",
+  "tooltip.cu.author": "Author: %s",
+  "tooltip.cu.back": "Back",
+  "tooltip.cu.exit": "Exit",
+  "tooltip.cu.hold_shift_for_info": "§7Hold §e§oSHIFT §r§7for info.",
+  "tooltip.cu.uses_left": "Uses Left: %s"
+ },
+ "ironchest": {
+  "book.ironchest.dirtchest9000.page1": "\"Welcome to your new DirtChest 9000! We hope you will enjoy many happy years of storing your stack of dirt in our storage utility.\"",
+  "book.ironchest.dirtchest9000.page2": "\"Usage: simply insert the stack of dirt of your choice into the highly receptive slot and enjoy the great convenience of having that dirt available to you, any time you pass by this chest!\"",
+  "book.ironchest.dirtchest9000.page3": "\"We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future! Kind regards, The DirtChest 9000 manual writers incorporated.\"",
+  "book.ironchest.dirtchest9000.page4": "\"Warranty: This product has no warranty of any kind. Your dirt may not be stored, it may slowly leech into the environment, or alternatively, it may not do anything at all.\"",
+  "book.ironchest.dirtchest9000.page5": "\"DirtChest 9000 is kind to the environment. Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava. We would be very sad.\"",
+  "book.ironchest.dirtchest9000.title": "How to use your DirtChest 9000!"
+ },
+ "packagedauto": {
+  "recipe.packagedauto.crafting": "Crafting",
+  "recipe.packagedauto.crafting.short": "Crafting",
+  "recipe.packagedauto.processing": "Processing",
+  "recipe.packagedauto.processing.short": "Processing",
+  "recipe.packagedauto.processing_ordered": "Ordered Processing",
+  "recipe.packagedauto.processing_ordered.short": "Ordered"
+ },
+ "cofhworld": {
+  "cofhworld.list": "--- Loaded CoFHWorld features page %d of %d ---",
+  "cofhworld.list.usage": "Lists all CoFHWorld features",
+  "cofhworld.reload.failed": "Failed to reload config; check your logs.",
+  "cofhworld.reload.successful": "Configuration reloaded.",
+  "cofhworld.reload.usage": "Reloads CoFHWorld configuration"
+ },
+ "enderstorage": {
+  "enderstorage.command.no_arguments": "Invalid number of arguments",
+  "enderstorage.command.no_colour": "Invalid color: %s",
+  "enderstorage.command.no_freq": "Invalid freq",
+  "enderstorage.command.usage": "enderstorage <freq>|(<colour> <colour> <colour>) [owner]",
+  "enderstorage.serverop": "Operator"
+ },
+ "simple_trophies": {
+  "simple_trophies.misc.copied": "Copied to clipboard!",
+  "simple_trophies.misc.earnedAt": "Earned at %s",
+  "simple_trophies.misc.modelBy": "Trophy model by %s",
+  "simple_trophies.misc.modelName": "Model: \"%s\"",
+  "simple_trophies.misc.tooltip.displaying": "Displaying: %s"
+ },
+ "chisel_guide": {
+  "chisel_guide.guide": "Chisel",
+  "chisel_guide.guide.test_page_1": "Test Page #1",
+  "chisel_guide.guide.test_page_2": "Test Page #2",
+  "chisel_guide.guide.test_page_2.page_1": "Test Page #2.1"
+ },
+ "dj2addons": {
+  "dj2addons.brew.saturegen": "Fullness",
+  "dj2addons.commands.desc": "§2/ct dj2addons [category] §3Prints data relevant to CraftTweaker extensions.",
+  "dj2addons.commands.usage": "Usage: §2/ct dj2addons [arg] §3Args: hand | mods | bewitchment | extrautils2 | totemic",
+  "dj2addons.effect.regenerateHunger": "Nourishment"
+ },
+ "gbook": {
+  "cmd.gbook.guide.done": "Reloading complete",
+  "text.copyToClipboard.line1": "The book wants to put text in your clipboard.",
+  "text.copyToClipboard.line2": "Are you sure you want to allow this?",
+  "text.copyToClipboard.success": "Text successfully copied."
+ },
+ "integratedderivative": {
+  "operator.operators.integratedderivative.arithmetic.basename": "Int. Derivative - %s",
+  "operator.operators.integratedderivative.arithmetic.name": "Arithmetic",
+  "operator.operators.integratedderivative.arithmetic.pow.name": "Power",
+  "tooltip.omni_duplicate.name": "Copies the group of the first connector that has a channel"
+ },
+ "natura": {
+  "msg.natura.respawn_obelisk.activate": "Obelisk activated. Spawn point has been set!",
+  "msg.natura.respawn_obelisk.deactivate": "Obelisk deactivated. Spawn point has been reset!",
+  "option.natura.alternatecropitem": "Alternate Crop",
+  "option.natura.alternatedooritem": "Alternate Door"
+ },
+ "restrictedportals": {
+  "achievement.rpunlock.End": "End Unlocked!",
+  "achievement.rpunlock.Nether": "Nether Unlocked!",
+  "achievement.rpunlock.desc": "Craft a",
+  "achievement.rpunlock.desc2": "Right click a portal with"
+ },
+ "tcinventoryscan": {
+  "tcinventoryscan:scanning": "Scanning",
+  "tcinventoryscan:serverNotInstalled": "This server does not have Thaumcraft Inventory Scanning installed. It will be disabled.",
+  "tcinventoryscan:thaumometerTooltip": "Inventory Scanning available",
+  "tcinventoryscan:thaumometerTooltipMore": "Hover items with the Thaumometer\\non the cursor to scan."
+ },
+ "justenoughreactors": {
+  "justenoughreactors.gui.fuel.title": "Reactor Fuel",
+  "justenoughreactors.gui.reactor.title": "Reactor Interior",
+  "justenoughreactors.gui.turbine.title": "Turbine Coil"
+ },
+ "zenutils": {
+  "commands.undefined.usage": "Command Usage is undefined.",
+  "message.zenutils.validate": "Your scripts are different from the server. Ask the server admin for more info.",
+  "tooltip.zenutils.energy": "Energy: %s / %s RF"
+ },
+ "demagnetize": {
+  "description.demagnetize.demagnetizer.1": "Demagnetizers prevent item magnets from various mods from picking up items around them.",
+  "description.demagnetize.demagnetizer.2": "They can be filtered or redstone controlled.",
+  "description.demagnetize.demagnetizer.3": "The Advanced Demagnetizer has a larger range and more filter slots.",
+  "label.demagnetize.demagnetizer.blacklist.name": "Blacklist items",
+  "label.demagnetize.demagnetizer.filter.name": "Filter",
+  "label.demagnetize.demagnetizer.range.name": "Range",
+  "label.demagnetize.demagnetizer.rsignored.name": "Redstone Ignored",
+  "label.demagnetize.demagnetizer.rsoff.name": "Redstone Off",
+  "label.demagnetize.demagnetizer.rson.name": "Redstone On",
+  "label.demagnetize.demagnetizer.whitelist.name": "Whitelist items",
+  "tooltip.demagnetize.configured.name": "Configured"
+ },
+ "quantumflux": {
+  "chat.rfExciter.maxTransfer": "%s maximum transfer",
+  "chat.rfStored": "%s RF in reserve",
+  "chat.rfStored.max": " (%s capacity)",
+  "chat.telepad.link.clear": "Telepad location cleared",
+  "chat.telepad.link.error.1": "Telepads can only link if they are in the same dimension",
+  "chat.telepad.link.stored": "Telepad location saved",
+  "chat.telepad.link.success": "Telepad successfully linked!",
+  "flair.block.gluetrap": "Zombies check in, but they don't check out! ",
+  "flair.item.industrialDiamond": "Created by putting Graphite Dust into an explosion",
+  "flair.item.netherBane": "Sabre of the Moon",
+  "key.quantumflux.magnet": "Toggle QuantumFlux magnet"
+ },
+ "betterp2p": {
+  "gui.advanced_memory_card.bind": "Bind",
+  "gui.advanced_memory_card.desc.effect": "Effect:",
+  "gui.advanced_memory_card.desc.mode": "Switch to %s",
+  "gui.advanced_memory_card.desc.mode.input": "Input",
+  "gui.advanced_memory_card.desc.mode.output": "Output",
+  "gui.advanced_memory_card.desc.not_set": "Not set",
+  "gui.advanced_memory_card.mode.copy": "Mode: Copy Output",
+  "gui.advanced_memory_card.mode.input": "Mode: Bind Input",
+  "gui.advanced_memory_card.mode.output": "Mode: Bind Output",
+  "gui.advanced_memory_card.pos": "Pos: %d, %d, %d",
+  "gui.advanced_memory_card.select": "Select"
+ },
+ "mysticalagradditions": {
+  "desc.dragon_scale": "It drops from Ender Dragons.",
+  "desc.withering_soul": "It drops from Withers.",
+  "jei.ma.tier_6_crop": "Tier 6 Crop",
+  "tooltip.ma.creative_essence": "The essence of infinite creativity.",
+  "tooltip.ma.insanium": "Insanium",
+  "tooltip.ma.paxel": "Paxel",
+  "trait.ma.chunky": "Chunky",
+  "trait.ma.chunky.desc": "Makes your tool or weapon drop Mob Chunks.",
+  "trait.ma.prosperous": "Prosperous",
+  "trait.ma.prosperous.desc": "Makes your tool or weapon randomly drop Prosperity Shards."
+ },
+ "simplybackpacks": {
+  "key.simplybackpacks.backpackopen.desc": "Open Backpack",
+  "key.simplybackpacks.backpackpickup.desc": "Toggle Auto-pickup",
+  "key.simplybackpacks.category": "Simply Backpacks",
+  "simplybackpacks.autopickupdisabled": "Auto-Pickup: §cDisabled§r",
+  "simplybackpacks.autopickupenabled": "Auto-Pickup: §aEnabled§r",
+  "simplybackpacks.metadata": "Metadata",
+  "simplybackpacks.nbtdata": "NBT Tags",
+  "simplybackpacks.shift": "Press <§6§oShift§r> for info.",
+  "simplybackpacks.whitelist": "Whitelist"
+ },
+ "oreexcavation": {
+  "oreexcavation.key.excavate": "Excavate",
+  "oreexcavation.key.shape": "Shape Toggle/Edit (Ctrl)",
+  "oreexcavation.undo.failed.disabled": "Undo has been disabled!",
+  "oreexcavation.undo.failed.items": "Undo Failed: Unable to repay items",
+  "oreexcavation.undo.failed.no_history": "Undo Failed: Nothing to undo",
+  "oreexcavation.undo.failed.obstructed": "Undo Failed: Area obstructed",
+  "oreexcavation.undo.failed.xp": "Undo Failed: Unable to repay XP",
+  "oreexcavation.undo.success": "Undoing last excavation...."
+ },
+ "torchmaster": {
+  "command.torchmaster.entity_dump.completed": "Entities have been dumped to the log file.",
+  "command.torchmaster.torch_list.completed": "Torches have been dumped to the log file.",
+  "container.torchmaster.terrain_lighter": "Terrain Lighter",
+  "gui.torchmaster.block.state.no_signal": "No Redstone Signal",
+  "gui.torchmaster.feral_flare_lantern.state.los_off.description": "The lantern will place lights everywhere",
+  "gui.torchmaster.feral_flare_lantern.state.los_off.short": "Line of Sight: §Cdisabled§r",
+  "gui.torchmaster.feral_flare_lantern.state.los_on.description": "The lantern will only place lights $n at locations it can directly see",
+  "gui.torchmaster.feral_flare_lantern.state.los_on.short": "Line of Sight: §Aenabled§r"
+ }
+}

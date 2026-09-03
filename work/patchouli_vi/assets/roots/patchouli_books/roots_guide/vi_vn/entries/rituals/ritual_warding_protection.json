@@ -1,0 +1,80 @@
+{
+  "name": "Warding Protection",
+  "icon": "roots:ritual_warding_protection",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_warding_protection",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mọi sinh vật trong khu vực nghi lễ đều được bảo vệ đáng kể, đủ để tránh bị thương và thậm chí có thể tránh tử vong.$(br2)$(warning) Điều này cũng áp dụng cho các sinh vật thù địch đi vào khu vực nghi lễ, bên cạnh các sinh vật thụ động.$(br2)$(warning) Hiệu ứng này chỉ áp dụng cho thực thể, không áp dụng cho khối hoặc công trình."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_warding_protection",
+      "text": "$(standing_stones) Vì là nghi lễ $(l:rituals/tiers)$(bold)bậc IV$(), nghi lễ này $(l:rituals/ritual_warding_protection#multiblock)yêu cầu bốn standing stone$(). Xem các trang sau của mục này để biết chiều cao."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          [
+            "   C   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   C   "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "C     C",
+            "       ",
+            "       ",
+            "   R   "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R     R",
+            "       ",
+            "       ",
+            "   R   "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "R  0  R",
+            "       ",
+            "       ",
+            "   R   "
+          ]
+        ]
+      },
+      "text": "Cần hai $(l:rituals/standing_stones)standing stone$() cao ba khối và hai standing stone cao bốn khối."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:warding_protection/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ cố chuyển hóa các khối trong khu vực rộng $(ritual:warding_protection/radius_x) và $(ritual:warding_protection/radius_z) khối theo chiều ngang, cùng $(ritual:warding_protection/radius_y) khối theo chiều dọc.$(br2)$(bold)Bảo vệ$(): Hiệu ứng bảo vệ được áp dụng sau mỗi $(ritual:warding_protection/SECONDS/interval) giây và kéo dài $(ritual:warding_protection/SECONDS/invuln_duration) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Công thức với Carrot",
+  "icon": "mysticalworld:cooked_carrot",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:cooked_carrot",
+      "text": "Giống như Beetroot, Carrot cũng có thể được nướng."
+    },
+    {
+      "type": "smelting",
+      "recipe": "minecraft:carrot",
+      "title": "Cooked Carrot",
+      "text": "Carrot có thể được nấu từ từ trong lò nung."
+    }
+  ]
+}

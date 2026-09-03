@@ -1,0 +1,13 @@
+{
+  "name": "Poppet",
+  "category": "poppets",
+  "icon": "bewitchment:poppet",
+  "priority": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet",
+      "text": "Poppet cơ bản dùng để chế tạo mọi loại Poppet khác; không có tác dụng và không thể liên kết."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+setIcon(<contenttweaker:crown_of_skies>)
+setTitle("Không còn muỗi nữa")
+setDescription("Hoàn thành Erebus bằng cách chế tạo Crown of Skies để mở khóa The Aether!")
+
+addParent("triumph:dj2/root")
+setPos(105,182)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasCrownOfSkies", "minecraft:inventory_changed")
+criteria.addItem(<contenttweaker:crown_of_skies>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:06_no_more_mosquitos")

@@ -1,0 +1,27 @@
+{
+  "name": "Besmirched Robes",
+  "category": "demonic_gear",
+  "icon": "bewitchment:besmirched_hat",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một bản nâng cấp của Witch’s Robes thông thường, được tạo ra bằng cách khâu vải nhuốm máu và đen sạm, Golden Thread cùng Diabolic Veins lên Witch’s Robes. Khi mặc, quỷ ít có khả năng tấn công hơn, đồng thời tăng cường các dạng ma thuật hắc ám như lời nguyền. "
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:besmirched_hat"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:besmirched_hood"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:besmirched_robes"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:besmirched_pants"
+    }
+  ]
+}

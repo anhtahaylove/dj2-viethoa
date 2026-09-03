@@ -1,0 +1,23 @@
+{
+  "name": "Clam",
+  "icon": "mysticalworld:pearl",
+  "category": "creatures",
+  "flag": "roots:clam",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "clam",
+      "breed": "Nhân giống: Không nhân giống được.",
+      "tame": "Thuần hóa: Không thuần hóa được.",
+      "blurb": "Pearl là tài nguyên tái tạo được nếu có $(l:items/pearleporter)Pearleporter$()!"
+    },
+    {
+      "type": "entity",
+      "name": "Clam",
+      "entity": "mysticalworld:entity_clam",
+      "scale": 0.6,
+      "offset": 0.4,
+      "text": "Clam trưởng thành phát ra các hạt, và khi bị giết sẽ rơi ra một $(l:items/pearl)pearl$() (hoặc có thể là ender pearl nếu đó là Clam đặc biệt!)"
+    }
+  ]
+}

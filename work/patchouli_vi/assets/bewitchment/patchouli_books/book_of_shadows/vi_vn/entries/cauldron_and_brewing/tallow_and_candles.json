@@ -1,0 +1,26 @@
+{
+  "name": "Tallow and Candles",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:tallow",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tallow là mỡ được nấu từ xác chết. Tuy được dùng trong một số loại thuốc và nghi lễ, nó thường được dùng nhất để chế tạo Flying Ointment và Candles."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:tallow",
+      "text": "Mỡ nấu từ xác chết. Dùng để làm Candles và nhiều thứ khác."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:white_candle",
+      "text": "Candles có đủ 16 màu khác nhau!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:flying_ointment",
+      "text": "Một hỗn hợp khá ghê rợn gồm Tallow từ xác chết cùng nhiều loài cây độc và thơm có đặc tính tác động đến thần kinh; có thể xức hỗn hợp này lên chổi để truyền ma thuật, giúp chúng bay được."
+    }
+  ]
+}

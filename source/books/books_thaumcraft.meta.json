@@ -1,0 +1,10 @@
+{
+  "namespace": "thaumcraft",
+  "english_locale": "en_us",
+  "jar": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+  "paths": [
+    "assets/thaumcraft/lang/en_us.lang"
+  ],
+  "keys": 475,
+  "sha256": "a3ef5c11306ef32eb3a398fc80af1b26025f6ea82eba92bccea74486859d6ac3"
+}

@@ -1,0 +1,465 @@
+{
+  "chapter_index": 4,
+  "title_key": "dj2.quest.ql.4.title",
+  "chapter_title_en": "7. Exploration II",
+  "desc_key": "dj2.quest.ql.4.desc",
+  "chapter_desc_en": "Scavenge for materials in Atum 2 and become arachnophobic in The Erebus.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.4.title",
+      "en": "7. Exploration II"
+    },
+    {
+      "key": "dj2.quest.ql.4.desc",
+      "en": "Scavenge for materials in Atum 2 and become arachnophobic in The Erebus."
+    },
+    {
+      "key": "dj2.quest.db.1037.title",
+      "en": "I'll take one RAA!"
+    },
+    {
+      "key": "dj2.quest.db.1037.desc",
+      "en": "Climb to the top of the Sunspeaker Tower and destroy the central structure encased in Glass. By Left Clicking on it, it'll blow up and drop a Heart of Ra."
+    },
+    {
+      "key": "dj2.quest.db.1038.title",
+      "en": "Dirty Relics"
+    },
+    {
+      "key": "dj2.quest.db.1038.desc",
+      "en": "Find some Relic Ore underground and mine it up without using Silk Touch! Obtain every single type of Dirty Relic from it."
+    },
+    {
+      "key": "dj2.quest.db.1039.title",
+      "en": "Iron Umbergolem"
+    },
+    {
+      "key": "dj2.quest.db.1039.desc",
+      "en": "Please read the quest description of the Mud Umbergolem quest! The Iron Umbergolem is found in the North-Eastern corner of the Maze."
+    },
+    {
+      "key": "dj2.quest.db.1040.title",
+      "en": "Onwards, to the Land of Bzz!"
+    },
+    {
+      "key": "dj2.quest.db.1040.desc",
+      "en": "Enter the Erebus! Make sure to bring lots of food, good gear, a Backpack, and Water Buckets. You're gonna be inside for a while. Once entered, place your second Staff of Gaea in the Gaean Keystone that spawned on the other side. If the Staff of Gaea does not go into the Gaean Keystone try removing any leaves that are nearby that are not part of the portal frame."
+    },
+    {
+      "key": "dj2.quest.db.1041.title",
+      "en": "For Gaea-lactic travels"
+    },
+    {
+      "key": "dj2.quest.db.1041.desc",
+      "en": "Craft TWO Gaean Gems! One's needed to ENTER Erebus, the other's needed to LEAVE Erebus. (You don't wanna get stuck, do you?)"
+    },
+    {
+      "key": "dj2.quest.db.1042.title",
+      "en": "Don't offer it too much"
+    },
+    {
+      "key": "dj2.quest.db.1042.desc",
+      "en": "Craft an Erebus Offering Altar! To use it, simply Right Click the 3 required items on it, and wait..."
+    },
+    {
+      "key": "dj2.quest.db.1043.title",
+      "en": "[ARTIFACTS] Melee Weapons"
+    },
+    {
+      "key": "dj2.quest.db.1043.desc",
+      "en": "Find and raid a Pyramid! Go down into the maze below the structure. You can disable traps by Right Clicking on them with a Pickaxe. Get to the end and summon the Pharaoh using 4 Royal Torches. Once defeated, Right Click on its tomb to find various treasures and exactly one Artifact! There are 4 types of Artifacts: Melee, Ranged, Armor & Necklace. You'll need to find two different types of Artifacts (so you'll need to raid at least 2 Pyramids) in order to continue. To complete this quest specifically, you'll need to find one Melee Artifact."
+    },
+    {
+      "key": "dj2.quest.db.1044.title",
+      "en": "The Mystery Revealed"
+    },
+    {
+      "key": "dj2.quest.db.1044.desc",
+      "en": "Craft a Scarab! This item is used to enter the Atum. To create the portal, place a 5x5 platform of Sandstone. Then raise up the edges by 1 block, and fill up the resulting 3x3 inner area with Water source blocks. Finally, build a 2-high Sandstone pillar on each of the corners, and throw in the Scarab.%n%nNote: If you're building this portal in Creative Mode for some reason, and it isn't working, try again without flying."
+    },
+    {
+      "key": "dj2.quest.db.1045.title",
+      "en": "No need for Emmer-gency"
+    },
+    {
+      "key": "dj2.quest.db.1045.desc",
+      "en": "Grow some Emmer! This is the Atum equivalent of Wheat. In order to grow the seeds, you'll need water and tillable soil, so either find an Oasis or go back to the Overworld for them."
+    },
+    {
+      "key": "dj2.quest.db.1046.title",
+      "en": "Emmer-ge in the Seeds!"
+    },
+    {
+      "key": "dj2.quest.db.1046.desc",
+      "en": "Find some Emmer Seeds by either punching tall grass in an Atum Oasis or in a treasure chest!"
+    },
+    {
+      "key": "dj2.quest.db.1047.title",
+      "en": "Not M enough, do it EMMER!"
+    },
+    {
+      "key": "dj2.quest.db.1047.desc",
+      "en": "Crush your Emmer using your Quern to obtain some Emmer Flour! To turn Emmer Flour into Emmer Dough, simply Right Click with it on a Water source block."
+    },
+    {
+      "key": "dj2.quest.db.1048.title",
+      "en": "Manual labour"
+    },
+    {
+      "key": "dj2.quest.db.1048.desc",
+      "en": "Color your Ceramic Tile Blocks brown, then craft a Quern! To use it, place some items on it, then hold Right Click with an empty hand to crush the materials on top."
+    },
+    {
+      "key": "dj2.quest.db.1049.title",
+      "en": "You're a wizard, Harry!"
+    },
+    {
+      "key": "dj2.quest.db.1049.desc",
+      "en": "Craft TWO Staves of Gaea. One's used to ENTER Erebus, the other's used to LEAVE Erebus.%n%n[Read this if you've still managed to get stuck in Erebus] Okay. You didn't listen to me. I warned you multiple times. Well, this is your fault now. All the materials required for an Offering Altar, a Gaean Gem and a Staff of Gaea can be found inside Erebus. Emeralds are quite rare, but you might be able to gather them from some of the quest rewards in this chapter. Welp, time to get minin'! Also, if you can't seem to craft a Furnace, just remember how you made Iron the first time. You can find Dandelions and Yellow Petal Blocks in Erebus as well. (By the way, this is why the Offering Altar, the Gaean Gem and the Staff of Gaea only require some basic materials.)"
+    },
+    {
+      "key": "dj2.quest.db.1050.title",
+      "en": "Low on food?"
+    },
+    {
+      "key": "dj2.quest.db.1050.desc",
+      "en": "Tarantula legs might be disgusting, but if there's nothing better, cook them and munch them up! They're crispy."
+    },
+    {
+      "key": "dj2.quest.db.1051.title",
+      "en": "Insertion assertion"
+    },
+    {
+      "key": "dj2.quest.db.1051.desc",
+      "en": "Craft a Gaean Keystone! Then build a portal frame out of any kind of solid blocks and fill the middle with leaf blocks! The frame can be any shape, convex, or concave, horizontal, or vertical. To activate the portal, place the Gaean Keystone in front of the portal, and put a Staff of Gaea inside."
+    },
+    {
+      "key": "dj2.quest.db.1052.title",
+      "en": "Perfect in a mob farm"
+    },
+    {
+      "key": "dj2.quest.db.1052.desc",
+      "en": "Craft at least one Velocity Block! Any entity on top will be pushed in the direction the arrow is pointing toward with 5x the base walking speed. Moreover, mobs can spawn on top of these blocks, which make them a perfect candidate for a mob farm floor!"
+    },
+    {
+      "key": "dj2.quest.db.1053.title",
+      "en": "Strip the Stripes"
+    },
+    {
+      "key": "dj2.quest.db.1053.desc",
+      "en": "Find either some Solifuges (in the Ulterior Outback biome) or some Centipedes (in the Ulterior Outback / Elysian Fields / Subterranean Savannah biome) to obtain some Bio-Velocity!"
+    },
+    {
+      "key": "dj2.quest.db.1054.title",
+      "en": "Purity!"
+    },
+    {
+      "key": "dj2.quest.db.1054.desc",
+      "en": "Wash some of your Dirty Relics to turn them into beautiful Pure Relics! You can Right Click them on Sunspeakers to sell them for Gold Coins."
+    },
+    {
+      "key": "dj2.quest.db.1055.title",
+      "en": "[ARTIFACTS] Necklaces"
+    },
+    {
+      "key": "dj2.quest.db.1055.desc",
+      "en": "Please read the Melee Artifact quest description. This quest is for the rarest type of Artifacts, Necklace Artifacts!"
+    },
+    {
+      "key": "dj2.quest.db.1056.title",
+      "en": "Snitches get Riches"
+    },
+    {
+      "key": "dj2.quest.db.1056.desc",
+      "en": "Find a Sunspeaker Tower! They're commonly found in mountainous areas of Atum, and emit a red beacon light. Right Click on them with your washed Relics to trade them for Gold Coins! You can get a surprisingly large amount of Coins this way."
+    },
+    {
+      "key": "dj2.quest.db.1057.title",
+      "en": "Thread-threat"
+    },
+    {
+      "key": "dj2.quest.db.1057.desc",
+      "en": "Use your Spinning Wheel to create 12 pieces of Linen Cloth! Though that's enough to complete this quest, you might need more thereafter..."
+    },
+    {
+      "key": "dj2.quest.db.1058.title",
+      "en": "You spin my flax Right Round"
+    },
+    {
+      "key": "dj2.quest.db.1058.desc",
+      "en": "Craft a Spinning Wheel! To use it, hold Right Click on the top with 3 Flax Flowers in your hands. Then You spin my flax right round, right round, when you go down, when you go down, down, since you can take out the resulting flax from down below, from the side of the block."
+    },
+    {
+      "key": "dj2.quest.db.1059.title",
+      "en": "So flax-ible!"
+    },
+    {
+      "key": "dj2.quest.db.1059.desc",
+      "en": "Grow some Flax Flowers! You'll need Water and tillable soil, so you might want to find an Oasis or go back to the Overworld for this."
+    },
+    {
+      "key": "dj2.quest.db.1060.title",
+      "en": "Breaking the Fourth Wall"
+    },
+    {
+      "key": "dj2.quest.db.1060.desc",
+      "en": "Find a peculiar looking camel-shaped structure in the desert! Go inside to find some developer jokes that might or might not break the fourth wall, and find the Idol of Labor Artifact. You can even start a conversation with it by Right Clicking it..."
+    },
+    {
+      "key": "dj2.quest.db.1061.title",
+      "en": "The most useful smoothie"
+    },
+    {
+      "key": "dj2.quest.db.1061.desc",
+      "en": "Obtain some Poison Gland from any of the poisonous bugs in Erebus, and a Nettle Leaf from Nettles found in Elysian Fields or the Subterranean Savannahs! This is probably the most useful Potion you'll get access to, since many of the creatures in this dimension poison you. It'll be especially useful when fighting against Tarantulas and the Tarantula Brood Mother."
+    },
+    {
+      "key": "dj2.quest.db.1062.title",
+      "en": "Yummie"
+    },
+    {
+      "key": "dj2.quest.db.1062.desc",
+      "en": "Craft an Erebus Co. Smoothie-matic 2000! This machine is used to create smoothies with various magical effects (just like Potions)."
+    },
+    {
+      "key": "dj2.quest.db.1063.title",
+      "en": "Silky Wonders"
+    },
+    {
+      "key": "dj2.quest.db.1063.desc",
+      "en": "Find some Relic Ore underground and mine it up using Silk Touch!"
+    },
+    {
+      "key": "dj2.quest.db.1064.title",
+      "en": "Wanna build a Bathroom?"
+    },
+    {
+      "key": "dj2.quest.db.1064.desc",
+      "en": "Find some Marl underground in Atum and smelt it in your Kiln to create some White Ceramic Tile Blocks!"
+    },
+    {
+      "key": "dj2.quest.db.1065.title",
+      "en": "Desert Fire"
+    },
+    {
+      "key": "dj2.quest.db.1065.desc",
+      "en": "Use your Relic Ingots to craft some Relic Blocks and create an Atum Kiln! This is a multiblock structure made of 2 Kiln blocks and 6 Small Limestone Bricks in a 2x2. The Kiln blocks go on top in the same row besides each other. This machine is mainly used to create some Atum-specific items, but can smelt some furnace recipes."
+    },
+    {
+      "key": "dj2.quest.db.1066.title",
+      "en": "Black Tarantula"
+    },
+    {
+      "key": "dj2.quest.db.1066.desc",
+      "en": "Find a Giant Eucalyptus Tree that spawns exclusively in the Ulterior Outback biome. It requires in a tall open space to generate. Defeat the Tarantulas at the bottom, climb up to the top, and fight the Tarantula Brood Mother! In phase 1, it can only be damaged by ranged projectiles. If you're using a Golden Fury, make sure to stand farther back in order to hit her! Phase 2 begins when the Brood Mother goes below 50%% health. In this phase, you can only damage it by melee hits. It might be a good idea to start off the fight from a platform you've built up next to the tower, so you can't get knocked down in phase 1 at least. Good luck! You'll need it... Once defeated, mine up the Tarantula Egg it leaves behind!%n%nBlack Tarantula, time for the massive come sing ya!%nBlack Tarantula, don't play with my style I might sting ya...!%nBlack tarantula, you want me inject me bacteria..!%nAnd if ya body goin' stiff and your spine goin' numb... Now come fi' get some..."
+    },
+    {
+      "key": "dj2.quest.db.1067.title",
+      "en": "A Soul from Atum"
+    },
+    {
+      "key": "dj2.quest.db.1067.desc",
+      "en": "It almost doesn't even seem to HAVE a soul.... Or does it...?"
+    },
+    {
+      "key": "dj2.quest.db.1068.title",
+      "en": "Fluffy!"
+    },
+    {
+      "key": "dj2.quest.db.1068.desc",
+      "en": "Craft some White Linen! This can be used as a replacement for Wool, or to craft an Atum Poppet."
+    },
+    {
+      "key": "dj2.quest.db.1069.title",
+      "en": "Tastier than Emmer-alds"
+    },
+    {
+      "key": "dj2.quest.db.1069.desc",
+      "en": "After you've Right Clicked your Emmer Flour onto a Water source block to turn it into Emmer Dough, smelt it to get Emmer Bread!"
+    },
+    {
+      "key": "dj2.quest.db.1070.title",
+      "en": "Rock'n'Roll"
+    },
+    {
+      "key": "dj2.quest.db.1070.desc",
+      "en": "Find all the Erebus-specific Ores underground: Temple Ore, Fossil Ore, and Gneiss Ore. Mine up some of them to complete this quest!%n%nGneiss Ore can be obtained from Gneiss, found near lava fountains. Make sure to surround the block with Water when mining it out!%n%nThe other two Ores can be found while exploring the surface or caves, no need for tunneling."
+    },
+    {
+      "key": "dj2.quest.db.1071.title",
+      "en": "Birth of the Powerpuff girls?"
+    },
+    {
+      "key": "dj2.quest.db.1071.desc",
+      "en": "Craft a Power Egg! ...Now what could THIS be used for...?"
+    },
+    {
+      "key": "dj2.quest.db.1072.title",
+      "en": "It's an Ant! It's a Lion!"
+    },
+    {
+      "key": "dj2.quest.db.1072.desc",
+      "en": "It's an Antlion!%n%nOnce you've activated all the gates, you'll find yourself in the Antlion bossroom! Watch out, this boss is tough! It can charge at you, knock you away and even blind you for two seconds at a time. It's recommended to use a Potion of Strength to take it down.%n%nOnce defeated, mine up its Antlion Egg and return through the portal you came in. One of the portals in the previous room should bring you back to the top."
+    },
+    {
+      "key": "dj2.quest.db.1073.title",
+      "en": "Watch out: Falling Pandas"
+    },
+    {
+      "key": "dj2.quest.db.1073.desc",
+      "en": "Find some Bamboo Stalks in Erebus! It's pretty easy to get a lot of it."
+    },
+    {
+      "key": "dj2.quest.db.1074.title",
+      "en": "Jade Umbergolem"
+    },
+    {
+      "key": "dj2.quest.db.1074.desc",
+      "en": "Please read the quest description of the Mud Umbergolem quest! The Jade Umbergolem is found in the South-Western corner of the Maze."
+    },
+    {
+      "key": "dj2.quest.db.1075.title",
+      "en": "A Mixin' job"
+    },
+    {
+      "key": "dj2.quest.db.1075.desc",
+      "en": "Craft some Mixed Erebusian Stone! It's a nice building block, but it's also used to progress further."
+    },
+    {
+      "key": "dj2.quest.db.1076.title",
+      "en": "An unwelcome customer"
+    },
+    {
+      "key": "dj2.quest.db.1076.desc",
+      "en": "Find a Sunspeaker Tower in mountainous areas of Atum! Defeat some of the Sunspeakers to obtain some Efreet Hearts! Though you might want to trade with them first..."
+    },
+    {
+      "key": "dj2.quest.db.1077.title",
+      "en": "Where Amoonguss hides"
+    },
+    {
+      "key": "dj2.quest.db.1077.desc",
+      "en": "Find a Fungal Forest biome in Erebus and collect a couple pieces of each type of large mushrooms! Though this is enough to complete this quest, you might need more very soon...%n%n%nIf you have Silk Touch, you can harvest the full mushroom blocks directly!"
+    },
+    {
+      "key": "dj2.quest.db.1078.title",
+      "en": "The perfect combo"
+    },
+    {
+      "key": "dj2.quest.db.1078.desc",
+      "en": "Mix together some Mushrooms and Amber to create some Hardened Amber Moosh!"
+    },
+    {
+      "key": "dj2.quest.db.1079.title",
+      "en": "It's Frozen Macaroni!"
+    },
+    {
+      "key": "dj2.quest.db.1079.desc",
+      "en": "No it's not. But find some Amber scattered around in Erebus and mine it up!"
+    },
+    {
+      "key": "dj2.quest.db.1080.title",
+      "en": "[ARTIFACTS] Ranged Weapons"
+    },
+    {
+      "key": "dj2.quest.db.1080.desc",
+      "en": "Please read the Melee Artifact quest description. This quest is for Ranged Artifacts!"
+    },
+    {
+      "key": "dj2.quest.db.1081.title",
+      "en": "Into the Pyramid!"
+    },
+    {
+      "key": "dj2.quest.db.1081.desc",
+      "en": "Once you've defeated all the Umbergolems, find your way back to the center and activate the Capstones on top by placing one of each Umbergolem Scarab into its Capstone! Then this quest will serve as a checklist on what you'll need. Near the entrance you'll find a chest that contains 8 Jades. Place them into the floor tiles to activate the trapdoor! You'll need to do this 4 more times with the items listed in this quest.%n%nNote: You can obtain Magma Cream from Fire Ants spawning in Erebus. The other items should be self-explanatory. You should have already gotten Exoskeleton Plates from Beetles roaming the Maze and Magma Crawler Eyes from Magma Crawlers commonly found on the ceiling of Maze corridors."
+    },
+    {
+      "key": "dj2.quest.db.1082.title",
+      "en": "Mud Umbergolem"
+    },
+    {
+      "key": "dj2.quest.db.1082.desc",
+      "en": "Find an Antlion Overlord Pyramid partially (or sometimes fully) hidden underground exclusively in Volcanic Desert biomes! Descend into the Maze surrounding the Pyramid, and find the four Umbergolem Idol Guardians found in the farthest edges of the Maze! This quest is specifically for the Mud Umbergolem, found in the North-Western corner. Once defeated, pickup the Scarab they drop!"
+    },
+    {
+      "key": "dj2.quest.db.1083.title",
+      "en": "Gold Umbergolem"
+    },
+    {
+      "key": "dj2.quest.db.1083.desc",
+      "en": "Please read the quest description of the Mud Umbergolem quest! The Gold Umbergolem is found in the South-Eastern corner of the Maze."
+    },
+    {
+      "key": "dj2.quest.db.1084.title",
+      "en": "What comes after Atum(n)?"
+    },
+    {
+      "key": "dj2.quest.db.1084.desc",
+      "en": "Brrr.... Freezing cold Winter! Finish up Atum by crafting an Atum Warrior that lets you enter Iceika, the land of Winter!"
+    },
+    {
+      "key": "dj2.quest.db.1085.title",
+      "en": "Are we... Date-ing?"
+    },
+    {
+      "key": "dj2.quest.db.1085.desc",
+      "en": "Trade with Sunspeakers all the way until you get the Enchanted Golden Date trade! This item grants the exact same effect as an Enchanted Golden Apple. Though you might not want to eat it, and just keep it for progression.%nIf you don't want to or can't get the trade to show up, you can also find this rarely in any Crate in Atum.%nAdditionally, if you progress through Erebus and into The Aether, you can enchant a normal Golden Date into an Enchanted Golden Date. Yay choices!"
+    },
+    {
+      "key": "dj2.quest.db.1086.title",
+      "en": "[ARTIFACTS] Armor Pieces"
+    },
+    {
+      "key": "dj2.quest.db.1086.desc",
+      "en": "Please read the Melee Artifact quest description. This quest is for Armor Artifacts!"
+    },
+    {
+      "key": "dj2.quest.db.1087.title",
+      "en": "From Depths to Highs"
+    },
+    {
+      "key": "dj2.quest.db.1087.desc",
+      "en": "Craft a Crown of Skies that lets you enter the Aether!"
+    },
+    {
+      "key": "dj2.quest.db.1088.title",
+      "en": "Oh, they're still ALIVE!?"
+    },
+    {
+      "key": "dj2.quest.db.1088.desc",
+      "en": "Find some Mummies in Atum! They can spawn at night or in Pyramids. Defeat them and collect their Cloth Scraps!"
+    },
+    {
+      "key": "dj2.quest.db.1089.title",
+      "en": "Flax-ing my crops"
+    },
+    {
+      "key": "dj2.quest.db.1089.desc",
+      "en": "Obtain some Flax Seeds by either finding an Oasis and breaking the tall grass there, or finding some in a treasure chest!"
+    },
+    {
+      "key": "dj2.quest.db.1090.title",
+      "en": "SPEEEEEEEEEEEEEEEED!!!"
+    },
+    {
+      "key": "dj2.quest.db.1090.desc",
+      "en": "Okay this block is ridiculous. This time it speeds up any entity to 10x base walking speed. It works even better for a mob farm.%n%nOh, and the same mobs drop Supernatural Velocity as well.%n%n§6Note:§r This is an extremely rare drop, and you may want to wait until the Powered Spawner is unlocked to pursue this."
+    },
+    {
+      "key": "dj2.quest.db.1091.title",
+      "en": "Beacon v0.1"
+    },
+    {
+      "key": "dj2.quest.db.1091.desc",
+      "en": "Craft a Radiant Beacon! This block emits red light and is later used as an ingredient for an actual Beacon."
+    },
+    {
+      "key": "dj2.quest.db.1732.title",
+      "en": "Arach-no"
+    },
+    {
+      "key": "dj2.quest.db.1732.desc",
+      "en": "Are you Arachnophobic and want to avoid spiders as much as possible? Are you Arachnophilic and don't want to kill spiders? Are you tired of having to explore the Erebus Dimension in so many packs?%n%nThis is the path for you! Just send a Robit into the Erebus Dimension via a highly immersive crafting recipe, and your little Robit will tirelessly labor away to fetch you the Crown of Skies.%nAnd the best part is, since this is The Erebus Dimension, its not covered by your local employment regulations, meaning you don't have to pay the Robit anything!"
+    }
+  ]
+}

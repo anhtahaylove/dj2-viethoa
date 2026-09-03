@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "zenutils-1.27.2.jar",
+      "path": "assets/zenutils/lang/en_us.lang"
+    }
+  ]
+}

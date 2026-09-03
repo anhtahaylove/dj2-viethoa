@@ -1,0 +1,14 @@
+{
+  "name": "Naga",
+  "icon": "twilightforest:trophy:0",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/naga",
+  "sortnum": 3010,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:naga",
+      "text": "Đó là một sinh vật khổng lồ màu xanh lục, trông như rắn nhưng có khuôn mặt giống người. Vảy của nó phảng phất nhiều màu sắc khác."
+    }
+  ]
+}

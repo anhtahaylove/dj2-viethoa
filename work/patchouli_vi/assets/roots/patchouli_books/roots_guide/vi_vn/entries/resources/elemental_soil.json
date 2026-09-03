@@ -1,0 +1,49 @@
+{
+  "name": "Elemental Soil",
+  "icon": "roots:elemental_soil",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chỉ cần Elemental Soil để trồng một trong bốn loài cây nguyên tố: $(l:herbs/infernal_bulb)Infernal Bulb$(), $(l:herbs/dewgonia)Dewgonia$(), $(l:herbs/stalicripe)Stalicripe$() và $(l:herbs/cloud_berry)Cloud Berry$().$(br2)$(info) Loại đất này cũng trồng được gần như mọi cây trồng khác và tăng tốc độ sinh trưởng của chúng.$(br2)Elemental Soil còn có các biến thể tương ứng với bốn nguyên tố, mỗi loại có cách chế tạo riêng."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "roots:elemental_soil_air",
+      "text": "Caelic Soil được tạo ra khi ném Elemental Soil xuống đất ở độ cao trên $(config:air_min_y). Sau $(config:air_delay) giây, sự gần gũi với bầu trời sẽ biến đổi nó.$(br2)$(info) Nó tăng tốc độ sinh trưởng của mọi thứ được trồng trên đó."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "roots:elemental_soil_earth",
+      "text": "Terran Soil được tạo ra bằng cách ném Elemental Soil xuống nền hang động dưới lòng đất, ít nhất phải thấp hơn độ cao $(config:earth_max_y). Sau $(config:earth_delay) giây hấp thụ sức mạnh nơi sâu thẳm, có thể thu lại đất.$(br2)$(info) Terran Soil cực kỳ màu mỡ, đôi khi khiến cây cho thêm vật phẩm."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "roots:elemental_soil_water",
+      "text": "Aqueous Soil được tạo ra bằng cách ngâm Elemental Soil trong nước ít nhất $(config:water_delay) giây. Khi đã ngấm nước hoàn toàn, có thể thu lại đất đã được truyền sức mạnh.$(br2)$(info) Aqueous Soil tự động thu hoạch mọi cây trồng trên đó, trừ khi sỏi được đặt ngay bên dưới đất."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "roots:elemental_soil_fire",
+      "text": "Magmatic Soil được tạo ra bằng cách ném Elemental Soil thẳng vào dung nham. Ngọn lửa dữ dội sẽ lập tức biến đổi và đẩy đất ra để thu lại.$(br2)$(info) Magmatic Soil tự động nung chín một phần vật phẩm từ mọi cây trồng trên đó, đôi khi còn cho kinh nghiệm khi thu hoạch."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "herbs/infernal_bulb",
+        "herbs/dewgonia",
+        "herbs/cloud_berry",
+        "herbs/stalicripe",
+        "herbs/renewable_resources",
+        "automation/aqueous_soil"
+      ]
+    }
+  ]
+}

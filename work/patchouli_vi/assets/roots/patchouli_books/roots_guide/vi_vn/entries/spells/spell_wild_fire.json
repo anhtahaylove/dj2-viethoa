@@ -1,0 +1,103 @@
+{
+  "name": "Wildfire",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_wild_fire\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_wild_fire",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này giải phóng sức mạnh khổng lồ của khu rừng nguyên tố, bắn ra một quả cầu lửa lớn gây sát thương cho mọi thực thể trúng phải.$(br2)Các modifier cho phép bạn gây hiệu ứng trạng thái, tránh làm hại thực thể hiền lành, tạo $(l:resources/fey_fire)fey fire$() trong thế giới và thậm chí phóng các cột băng vào mục tiêu trúng đòn."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_wild_fire"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:purple_flame",
+      "anchor": "purple_flame"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:peaceful_flame",
+      "anchor": "peaceful_flame"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:weakening_thorns",
+      "anchor": "weakening_thorns"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:slow_fire",
+      "anchor": "slow_fire"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:green_flame",
+      "anchor": "green_flame"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:spiritual_duality",
+      "anchor": "spiritual_duality"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:poisoned_fire",
+      "anchor": "poisoned_fire"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:floating_cinders",
+      "anchor": "floating_cinders"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:pyroclastic_cloud",
+      "anchor": "pyroclastic_cloud"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_wild_fire",
+      "modifier": "roots:fire_and_ice",
+      "anchor": "fire_and_ice"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:wild_fire/SECONDS/cooldown) giây.$(br2)$(bold)Sát thương:$() Quả cầu lửa gây $(spell:wild_fire/HEART/damage) tim sát thương lửa và thiêu cháy sinh vật trong $(spell:wild_fire/fire_duration) giây.$(br2)$(bold)Thời gian tồn tại:$() Quả cầu lửa sẽ bay trong $(spell:wild_fire/SECONDS/lifetime) giây.$(br2)$(bold)Chậm chạp:$() Khi bật modifier $(modifier:slow_fire)$(), mục tiêu nhận Slowness $(spell:wild_fire/ROMAN/slow_amplifier) trong $(spell:wild_fire/SECONDS/slow_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Độc:$() Khi bật modifier $(modifier:poisoned_fire)$(), mục tiêu cũng nhận Poison $(spell:wild_fire/ROMAN/poison_amplifier) trong $(spell:wild_fire/SECONDS/poison_duration) giây.$(br2)$(bold)Bay lên:$() Khi bật modifier $(modifier:floating_cinders)$(), mục tiêu cũng nhận Levitation I trong $(spell:wild_fire/SECONDS/levitate_duration).$(br2)$(bold)Hiền hòa:$() Khi bật modifier $(modifier:peaceful_flame)$(), các thực thể không thù địch không bị Wildfire gây sát thương.$(br2)$(bold)Tím:$() Với modifier $(modifier:purple_flame)$(), quả cầu lửa của bạn"
+    },
+    {
+      "type": "text",
+      "text": "sẽ có màu tím!$(br2)$(bold)Xanh lá:$() Khi bật modifier $(modifier:green_flame)$(), quả cầu lửa của bạn sẽ có màu xanh lá!$(br2)$(bold)Cột băng:$() Khi bật modifier $(modifier:fire_and_ice)$(), các thực thể trúng quả cầu lửa cũng bị $(spell:wild_fire/icicle_count) cột băng nhắm tới, mỗi cột gây $(spell:wild_fire/HEART/icicle_damage) tim sát thương khi trúng.$(br2)$(bold)Suy yếu:$() Với modifier $(modifier:weakening_thorns)$(), các thực thể cũng nhận Weakness $(spell:wild_fire/ROMAN/weakness_amplifier) trong $(spell:wild_fire/SECONDS/weakness_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Fey Fire:$() Khi bật modifier $(modifier:pyroclastic_cloud)$(), mặt đất bên dưới mục tiêu sẽ sinh ra $(l:resources/fey_fire)fey fire$().$(br2)$(bold)Song hành:$() Khi bật modifier $(modifier:spiritual_duality)$(), hai luồng lửa được bắn ra thay vì một."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/infernal_bulb",
+        "resources/fey_fire"
+      ]
+    }
+  ]
+}

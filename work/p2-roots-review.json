@@ -1,0 +1,2362 @@
+[
+  {
+    "namespace": "roots",
+    "key": "roots.tooltip.trap_paper_health_divider",
+    "value": " /",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.tooltip.logs",
+    "value": "logs",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.tooltip.bark",
+    "value": "bark",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.tooltip.terra_moss",
+    "value": "terra moss",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.tooltip.modifier.costs",
+    "value": "Costs",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.staff.slot_and_spell",
+    "value": "Selected Slot (%d) has spell: %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.staff.no_slots",
+    "value": "Your staff has no room for new spells!",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.staff.empty_slot",
+    "value": "That staff slot is already empty.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pouch.no_herbs",
+    "value": "You don't have enough %s in your component pouches!",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pouch.no_pouch",
+    "value": "You need a herb pouch with stored herbs in order to cast spells!",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.repeat1",
+    "value": "Sneak-Right-Click",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.repeat2",
+    "value": "with empty hand",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.repeat3",
+    "value": "to repeat ritual.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.repeat4",
+    "value": "to repeat craft.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.begin1",
+    "value": "Light the pyre",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.begin2",
+    "value": "to begin ritual.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.info.pyre.begin3",
+    "value": "to begin craft.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.transmutation.name",
+    "value": "Transmutation Ritual",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.summon_creatures.name",
+    "value": "Creature Summoning",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.runic_shears.name",
+    "value": "Runic Shearing",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.runic_shears_entity.name",
+    "value": "Runic Entity Shearing",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.runic_shears_summon_entity.name",
+    "value": "Runic Entity Summoning",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.runic_carving.name",
+    "value": "Runic Carving",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.ritual_crafting.name",
+    "value": "Pyre Crafting Ritual",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.mortar_and_pestle.name",
+    "value": "Mortar and Pestle",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.ritual.name",
+    "value": "Pyre Ritual",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.loot.name",
+    "value": "Spirit Drops",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.fey_crafting.name",
+    "value": "Fey Crafting",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.spell_costs.name",
+    "value": "Spell Costs",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.spell_modifiers.name",
+    "value": "Spell Modifiers",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.bark_carving.name",
+    "value": "Bark Carving",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.terra_moss.name",
+    "value": "Moss Scraping",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.chrysopoeia.name",
+    "value": "Item Transmutation",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.runed_wood.name",
+    "value": "Runed Wood Carving",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.block_break.name",
+    "value": "Block Breaking",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.right_click_block.name",
+    "value": "Block Interaction",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.soil.name",
+    "value": "Elemental Soil",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.pyre_light.name",
+    "value": "Pyre Lighting",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.ritual_visualise.name",
+    "value": "Ritual Visualisation",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.spell_imbuing.name",
+    "value": "Spell Imbuing",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "container.roots.spell_imposing.name",
+    "value": "Spell Imposing",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.wildwood.desc",
+    "value": "Once a sacred tree, the only remnant of these that remain in the world are their wildroots. From these a skilled wild mage, with the correct words and ingredients, can invoke the ritual of Wildroot Growth.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.wildwood_sapling.desc",
+    "value": "A rare, treasured young of a tree that does not itself bear children. No longer born, almost all of them have been secreted away by the druids of old.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.wildwood_leaves.desc",
+    "value": "Unlike the leaves of other trees, the sacred wildwood has no longer the strength to bear saplings. Instead, the kernel of life common to all parts of the wildwood - the wildroot - may be found tucked amongst its leaves and its branches.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.elemental_soil_fire.desc",
+    "value": "Created by tossing a piece of Elemental Soil into a pool of lava.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.elemental_soil_water.desc",
+    "value": "Created by tossing a piece of Elemental Soil into a pool of water and waiting a few seconds.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.elemental_soil_air.desc",
+    "value": "Created by dropping a piece of Elemental Soil onto a surface closer to the sky, and unobscured from it.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.elemental_soil_earth.desc",
+    "value": "Created by dropping a piece of Elemental Soil onto a surface covered from the sky and in the depth's of the ground.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.open_book_button_text",
+    "value": "Open Book",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "jei.roots.water_info",
+    "value": "Must be adjacent to water",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "config.roots.category.general",
+    "value": "General",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "config.roots.category.rituals",
+    "value": "Rituals",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "config.roots.category.spells",
+    "value": "Spells",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "config.roots.category.moss",
+    "value": "Terra Moss",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "config.roots.category.elemental_soil",
+    "value": "Elemental Soil",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "config.roots.category.crops",
+    "value": "Growing & Harvesting",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.hud.top.pyre.progress_info",
+    "value": "seconds remaining",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.commands.dump.desc",
+    "value": "§2/ct roots_properties [mode] §3Dumps the specified property table(s) to the log.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.commands.dump.usage",
+    "value": "Usage: ct roots_properties [mode] Modes: all | ritual | spell | spirit_drops",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.commands.dump_recipes.desc",
+    "value": "§2/ct roots_recipes [category] §3Dumps a list of ResourceLocations of registered recipes.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.commands.dump_recipes.usage",
+    "value": "Usage: ct roots_recipes [mode] Modes: all | animal_harvest | chrysopoeia | fey_crafting | flower_growth | mortar | pacifist | pyre_crafting | runic_shears | transmutation | life_essence",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.will",
+    "value": "will be %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.is",
+    "value": "is %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.0",
+    "value": "full",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.1",
+    "value": "gibbous, waning",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.3",
+    "value": "crescent, waning",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.4",
+    "value": "new",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.5",
+    "value": "crescent, waxing",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.message.sense_time.moon.7",
+    "value": "gibbous, waxing",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.absorption.desc",
+    "value": "Grants you an absorption shield.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.additional_target1.desc",
+    "value": "An additional target will be affected by Geas.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.additional_target2.desc",
+    "value": "An additional target will be affected by Geas.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.amplified_healing.desc",
+    "value": "The healing gained from the damage caused is amplified.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.amplified_saturation.desc",
+    "value": "Adjusts the ratio, cause consume saturation to heal for more.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.animal_savior.desc",
+    "value": "Applies an absorption shield to all nearby peaceful entities.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.antivenom.desc",
+    "value": "Foods that cause poison no longer do so, and give more saturation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.aquaplane.desc",
+    "value": "Movement boost is limited to the horizontal axis, excluding vertical movement.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.arboreal_bypass.desc",
+    "value": "Allows you to travel through trees while being boosted by this spell.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.armor_i.desc",
+    "value": "Increases the chances of armor being removed.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.armor_ii.desc",
+    "value": "Increases the chances of armor being removed.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.arms_of_air.desc",
+    "value": "Additionally increases the radius that crops are affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.augment_slow_fall.desc",
+    "value": "Reduces the speed at which you fall.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.avalanche.desc",
+    "value": "Deals physical damage to affected creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.barkskin.desc",
+    "value": "Attackers are slowed whenever they hit you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.big_bellied.desc",
+    "value": "Adjusts the saturation ratio, giving you more saturation from food.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.bitter_luck.desc",
+    "value": "Grants you Luck... but only luck for some things.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.blaze.desc",
+    "value": "Affected creatures are set on fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.blazing_speed.desc",
+    "value": "Increases the speed at which blocks are harvested.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.blue_light.desc",
+    "value": "Creates a light that is blue.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.boost_drops.desc",
+    "value": "Increases the chances of disarmed items being dropped.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.boosting_trap.desc",
+    "value": "Launches creatures who trigger the trap into the air.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.bottled_goods.desc",
+    "value": "Foods that you must drink give more saturation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.brimstone.desc",
+    "value": "Part of the damage is dealt as fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.brown_light.desc",
+    "value": "Creates a light that is brown.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.bubble_amplified.desc",
+    "value": "Greatly increase the amount of damage absorbed by the bubble.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.bubble_knockback.desc",
+    "value": "Melee attackers are knocked back from you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.burn_in_hell.desc",
+    "value": "Stopped enemies suffer fire damage.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.burning_ray.desc",
+    "value": "Afflicts damaged targets with fire and sets them aflame.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.chem_trails.desc",
+    "value": "Causes clouds of smoke to form in your wake.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.chthonic.desc",
+    "value": "Water-based and creatures in water take increased damage.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.circle_of_winds.desc",
+    "value": "Causes the effect in a circle around you, instead of a specific angle.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.cooked_goods.desc",
+    "value": "Foods that are cooked give more saturation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.decaying_light.desc",
+    "value": "Causes all created fey lights to slowly decay and disappear.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.deeper.desc",
+    "value": "Increases the depth dug to three blocks, regardless of the size.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.deluminator.desc",
+    "value": "Consumes all fey lights within a radius.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.dewebbing.desc",
+    "value": "Additionally harvests cobwebs.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.disarm_duumvirate.desc",
+    "value": "Affects two creatures instead of one.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.distributed_healing.desc",
+    "value": "Causes the healing to be distributed amongst you and nearby allies.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.draining_stop.desc",
+    "value": "After the effect ends, creatures are weakened for a duration.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.earthen_radius.desc",
+    "value": "Increases the radius of the spell.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.embiggening.desc",
+    "value": "Causes mushrooms and saplings to grow into their larger forms.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.empowering_trap.desc",
+    "value": "Grants you strength when a trap is triggered.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.eternal_flame.desc",
+    "value": "The duration of the boost is increased by a significant amount.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_absorb.desc",
+    "value": "Causes excess healing to grant you an absorption shield.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_damage.desc",
+    "value": "Causes excess healing to damage nearby hostile creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_growth.desc",
+    "value": "Causes excess healing to be dispersed into nearby crops & other growables.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_heal.desc",
+    "value": "Causes excess healing to be dispersed amongst nearby allies.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_levitation.desc",
+    "value": "Causes excess healing to levitate you instead.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_purification.desc",
+    "value": "Excess healing purifies you over negative potion effects.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.excess_stone_skin.desc",
+    "value": "Causes excess healing to grant you resistance.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.extended_geas.desc",
+    "value": "Increases the duration of the geas.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.extended_harvest.desc",
+    "value": "Increases the range of harvested crops.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.extinguisher.desc",
+    "value": "Extinguishes flames in the direction that you're facing.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.faithful_sharing.desc",
+    "value": "A single creature tamed by you nearby is also affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.false_night.desc",
+    "value": "Has a chance to reset a nearby villagers' locked trades.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.fiery_harvest.desc",
+    "value": "Causes harvested items to be processed by any relevant furnace recipe.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.fire_and_ice.desc",
+    "value": "Large icy projectiles cause additional damage to afflicted targets.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.fire_cloud.desc",
+    "value": "Flames mingle with the acid & burn enemies.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.fire_trap.desc",
+    "value": "Sets creatures who trigger the trap on fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.fixed_light.desc",
+    "value": "Creates a light directly where you stand.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.flaming_wind.desc",
+    "value": "Sets affected creatures and eligible nearby blocks on fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.floating_cinders.desc",
+    "value": "Damaged creatures are also levitated for a short period of time.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.flower_child.desc",
+    "value": "Affected creatures have weapons replaced with flowers.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.flower_harvester.desc",
+    "value": "Additionally harvests flowers.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.flower_spreading.desc",
+    "value": "Causes a single targeted flower to reproduce rapidly.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.fortunate_scythe.desc",
+    "value": "The level of fortune applied by the spell is increased by 2.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.freed_familiars.desc",
+    "value": "No longer affects creatures tamed by you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.freezing_rain.desc",
+    "value": "Causes nearby water blocks to freeze.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.friendly_earth.desc",
+    "value": "Prevents damage taken from falling shortly after casting the spell.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.ghostly_trap.desc",
+    "value": "Deals additional damage to undead creatures who trigger the trap.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.gifts_of_undeath.desc",
+    "value": "Has a chance to harvest gifts from undead, invisible spirits.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.glowing_ray.desc",
+    "value": "Causes all affected targets to glow for a period of time.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.grass_harvester.desc",
+    "value": "Additionally harvests grass, ferns, etc.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.green_flame.desc",
+    "value": "Produces a green flame.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.green_light.desc",
+    "value": "Creates a light that is green.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.grounded_wind.desc",
+    "value": "Creatures affected take increased fall damage.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.harvest_silk_touch.desc",
+    "value": "Blocks are broken as though with silk touch.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.haste.desc",
+    "value": "Grants you haste.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.hasty_escape.desc",
+    "value": "You are granted speed whenever you stop an enemy.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.healing_cloud.desc",
+    "value": "Instead of causing damage, the cloud heals.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.healing_rain.desc",
+    "value": "Heals nearby allies and extinguishes fires.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.healing_ray.desc",
+    "value": "Causes healing instead of doing damage.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.hydration.desc",
+    "value": "The ground beneath grown crops is hydrated to the maximum.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.ice_age.desc",
+    "value": "Deals cold damage to enemies once the effect is complete.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.icicles.desc",
+    "value": "Flings sharp icicles at any enemy struck by wildfire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.ignification.desc",
+    "value": "Causes nearby lava blocks to convert into obsidian.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.increased_speed.desc",
+    "value": "While casting this, your speed is increased.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.incubation.desc",
+    "value": "Baby animals in range will grow.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.inferno.desc",
+    "value": "Deals fire damage to affected creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.inflammatory_bubble.desc",
+    "value": "Affected creatures are stricken with fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.inversion.desc",
+    "value": "Lower saturation foods grant a higher value of food and saturation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.iron_excess.desc",
+    "value": "Excess saturation is converted into a temporary resistance effect.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.iron_gut.desc",
+    "value": "Foods that cause nausea or hunger no longer do so, and give more saturation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.item_updraft.desc",
+    "value": "Causes items floating on the ground to also be affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.jaunt.desc",
+    "value": "Moves you a short distance, landing on the next highest or lowest block.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.larger_trap.desc",
+    "value": "The area which creatures must enter to trigger the trap is increased.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.leaf_harvester.desc",
+    "value": "Additionally harvests leaves from nearby trees.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.levitating_bubble.desc",
+    "value": "Affected creatures are stricken with levitation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.light_drifter.desc",
+    "value": "Enter an incorporeal state, drifting and seeing through objects.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.lightened_load.desc",
+    "value": "Reduces the healing gained but increases the damage dealt.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.lightning_strikes.desc",
+    "value": "Causes nearby targets to be rarely struck by lightning.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.liquid_lurch.desc",
+    "value": "Affected creatures are knocked backwards by a jet of water.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.liquid_repulsion.desc",
+    "value": "Blasts affected creatures backwards with strong currents.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.magnetic_harvest.desc",
+    "value": "Teleports harvested items directly to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.magnetic_harvester.desc",
+    "value": "Teleports broken blocks to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.magnetic_radiance.desc",
+    "value": "Teleports drops & XP of slain creatures to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.magnetic_ray.desc",
+    "value": "Teleports all dropped blocks to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.magnetic_storm.desc",
+    "value": "Teleports ranged attackers to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.magnetism.desc",
+    "value": "Teleports items (and experience) to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.minor_halt.desc",
+    "value": "Reduces the duration that enemies are stopped for.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.momentum.desc",
+    "value": "Increases the momentum gained from the spell.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.moon_bubble.desc",
+    "value": "Magical damage dealt to you is halved.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.moonfall.desc",
+    "value": "Does greater damage depending on the time of night and closeness to midnight.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.moss_harvest.desc",
+    "value": "Scrapes moss away from eligible blocks, converting them and dropping terra moss.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.mossy_leaves.desc",
+    "value": "Petals & shell are recoloured green.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.mushroom_harvester.desc",
+    "value": "Additionally harvests mushrooms (although not tall mushrooms).",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.nondetection.desc",
+    "value": "Reduce the radius at which enemies can detect you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.ore_infusion.desc",
+    "value": "Single blocks of stone have a chance to be randomly converted into an ore.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.overtime.desc",
+    "value": "Increases the duration that enemies are stopped for.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_cloud.desc",
+    "value": "No longer affects passive creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_dance.desc",
+    "value": "Additionally affects a single nearby creature who is tamed by you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_drain.desc",
+    "value": "Prevents peaceful creatures from being affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_flame.desc",
+    "value": "Peaceful creatures are no longer damaged.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_passage.desc",
+    "value": "No longer affects peaceful creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_radiance.desc",
+    "value": "Prevents peaceful creatures from being damaged by the spell.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_storm.desc",
+    "value": "Peaceful creatures are no longer affected by this spell.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_trap.desc",
+    "value": "Peaceful creatures no longer trigger the trap.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.peaceful_winds.desc",
+    "value": "Peaceful creatures are no longer affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.petal_overflow.desc",
+    "value": "Increases the maximum number of charges to 5.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.pink_light.desc",
+    "value": "Creates a light that is pink.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poison_hands.desc",
+    "value": "Affected creatures are poisoned.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poison_protection.desc",
+    "value": "Additionally protects you from poison for the duration.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poison_storm.desc",
+    "value": "Creatures who are damaged by this spell are also poisoned.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poisoned_fire.desc",
+    "value": "Part of the damage dealt is dealt as poison.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poisoned_harvest.desc",
+    "value": "Poisons eligible harvested drops.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poisonous_breeze.desc",
+    "value": "Causes affected creatures to become poisoned.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.poisonous_trap.desc",
+    "value": "Poisons creatures who trigger the trap.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.purple_flame.desc",
+    "value": "Produces a purple flame.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.purple_light.desc",
+    "value": "Creates a light that is purple.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.pyroclastic_cloud.desc",
+    "value": "Wherever Wildfire strikes, leaves behind patches of fey fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.radius_boost.desc",
+    "value": "Increases the radius of the cloud.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.rampant_breeding.desc",
+    "value": "Causes nearby or targetted creatures to go into breeding mode.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.rampant_growth_i.desc",
+    "value": "Additionally increases the radius that crops are affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.rampant_growth_ii.desc",
+    "value": "Additionally increases the radius that crops are affected.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.reach.desc",
+    "value": "Increases the distance you can reach with tools.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_daggers.desc",
+    "value": "Causes creatures who attack you to take physical damage & begin bleeding.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_drift.desc",
+    "value": "Causes creatures who attack you to start levitating.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_fire.desc",
+    "value": "Sets creatures who attack you on fire.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_poison.desc",
+    "value": "Poisons creatures who attack you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_radiance.desc",
+    "value": "Causes creatures who attack you radiant damage.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_slow.desc",
+    "value": "Slows creatures who attack you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.react_weakness.desc",
+    "value": "Causes attackers to be weakened.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.reactive_jolt.desc",
+    "value": "Enemies who attack you while the cloud is active are jolted with electricity.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.red_light.desc",
+    "value": "Creates a light that is red.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.reflective_bubble.desc",
+    "value": "Fire damage dealt to you is also reflected back at the attacker as physical damage.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.regenerative_sky.desc",
+    "value": "Grants regeneration when the spell is cast.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.regrowth.desc",
+    "value": "Each harvested crop has a chance to distribute growth to nearby crops.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.reject_nature.desc",
+    "value": "Peaceful creatures are now affected by the bubble.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.repelling_trap.desc",
+    "value": "Causes creatures who trigger the trap to be flung backwards.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.repulsive_bubble.desc",
+    "value": "Any creature inside the bubble is flung away.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.root_lover.desc",
+    "value": "Uncooked vegetables give more saturation.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.scattered_goods.desc",
+    "value": "Nearby food items on the ground are consumed.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.second_wind.desc",
+    "value": "Grants you breath when underwater.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_animals.desc",
+    "value": "Highlights nearby animals for a duration.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_containers.desc",
+    "value": "Highlights nearby containers.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_home.desc",
+    "value": "Be given a sign that points towards your spawn location.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_hostiles.desc",
+    "value": "Highlights nearby hostile creatures for a duration.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_liquids.desc",
+    "value": "Highlights nearby liquids.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_ores.desc",
+    "value": "Highlights either all nearby ores or the ore held in your off-hand.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_plants.desc",
+    "value": "Highlights nearby growing plants and plant life.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_spawners.desc",
+    "value": "Highlights nearby spawners.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sense_time.desc",
+    "value": "Sense details about time.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.shatter_fortune.desc",
+    "value": "Increases the level of fortune applied to block breaking by 2.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.shatter_silk_touch.desc",
+    "value": "Blocks broken are broken as though done with the Silk Touch enchantment.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.shatter_void.desc",
+    "value": "Instead of breaking blocks, blocks are instantly destroyed and deleted.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.sickly_ray.desc",
+    "value": "Afflicts damaged targets with a sickening poison.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.silk_scythe.desc",
+    "value": "Blocks broken are broken as though done with the Silk Touch enchantment.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.singularity.desc",
+    "value": "Targets a single block only.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slow_fall.desc",
+    "value": "Grants you the slow fall effect once the boost ends.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slow_falling.desc",
+    "value": "Creatures affected are granted slow fall.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slow_fire.desc",
+    "value": "Damaged creatures are also slowed.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slowing.desc",
+    "value": "Slows creatures who are damaged by the cloud.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slowing_drain.desc",
+    "value": "Slows creatures that are affected by the drain.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slowing_ray.desc",
+    "value": "Afflicts damaged targets with slowness.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.slowing_trap.desc",
+    "value": "Slows creatures who are affected by the trap.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.smelting_ray.desc",
+    "value": "Blocks broken are processed as though smelted in a furnace.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.spectral_drain.desc",
+    "value": "Has a chance to drain the life of a faint spirit if no other targets are available.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.speed.desc",
+    "value": "Increases your movement speed.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.spider_unsuffrage.desc",
+    "value": "Affected arachnids are damaged harshly.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.spirit_bubble.desc",
+    "value": "Undead deal decreased damage to you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.spiritual_duality.desc",
+    "value": "Fires an additional jet of flame when cast.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.spread.desc",
+    "value": "Increases the radius of the storm.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.stoneskin.desc",
+    "value": "Additionally grants resistance for a duration.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.strength_of_flame.desc",
+    "value": "Grants you strength.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.strong_gusts.desc",
+    "value": "The winds blow creatures further and higher.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.suction.desc",
+    "value": "Reverses the effects, sucking affected creatures towards you instead.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.taller.desc",
+    "value": "Increases the height dug to three blocks, regardless of the size.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.targeted_drain.desc",
+    "value": "Drains only from the creature targeted.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.targeted_harvest.desc",
+    "value": "Reduces the radius of the spell to the eight squares around you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.thoughtful.desc",
+    "value": "Prevents overconsumption of saturation and the creation of overhealing.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.time_slip.desc",
+    "value": "After the effect ends, creatures are slowed for a duration.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.undead_rejection.desc",
+    "value": "Affected undead are damaged harshly.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.underwater_increase.desc",
+    "value": "Increase the effectiveness of the spell when cast underwater.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.unholy_command.desc",
+    "value": "Forces affected undead creatures to instead fight for you.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.unholy_command",
+    "value": "Unholy Command",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.unholy_vanquisher.desc",
+    "value": "Does increased damage to the undead.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.verticality.desc",
+    "value": "Shoots you straight up, regardless of where you're looking.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.voiding_scythe.desc",
+    "value": "Items that are broken by this spell are instead destroyed and their drops voided.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.waterfall.desc",
+    "value": "Deals water damage to affected creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.weakened_response.desc",
+    "value": "Affected creatures have weakness applied to them.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.weakening_cloud.desc",
+    "value": "Applies weakness to affected creatures.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.weakening_thorns.desc",
+    "value": "Afflicts damaged targets with weakness.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.weakening_trap.desc",
+    "value": "Afflicts damaged targets with weakness",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.weakness.desc",
+    "value": "Entities who are disarmed are also weakened.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.wider.desc",
+    "value": "Increases the width dug to three blocks, regardless of the size.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.wider_ray.desc",
+    "value": "Causes the width of the ray to widen.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.withering.desc",
+    "value": "Affected creatures are stricken with withering.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.withering_ray.desc",
+    "value": "Afflicts damaged targets with the withering effect.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.yellow_light.desc",
+    "value": "Creates a light that is yellow.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.modifiers.modifiers.yield.desc",
+    "value": "Causes harvested items to be processed by any relevant mortar & pestle recipe.",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.guide.modifier.additional_cost",
+    "value": "%s: x%s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.guide.modifier.increased_cost",
+    "value": "All: %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.guide.modifier.decreased_cost",
+    "value": "All: %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.guide.modifier.specific_increased_cost",
+    "value": "%s: %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  },
+  {
+    "namespace": "roots",
+    "key": "roots.guide.modifier.specific_decreased_cost",
+    "value": "%s: %s",
+    "origins": [
+      "Roots-1.12.2-3.1.9.2.jar"
+    ]
+  }
+]

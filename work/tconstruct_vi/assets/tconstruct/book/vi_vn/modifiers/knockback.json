@@ -1,0 +1,17 @@
+{
+  "modifier": "knockback",
+  "text": [
+    {
+      "text": "Gắn piston vào công cụ rồi kích hoạt đúng lúc dường như có thể hất mob ra xa hơn."
+    }
+  ],
+  "effects": [
+    "Adds extra knockback",
+    "Mỗi Piston tăng khoảng cách hất văng",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

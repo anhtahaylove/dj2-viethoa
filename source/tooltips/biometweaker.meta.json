@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "BiomeTweaker-1.12.2-3.2.369.jar",
+      "path": "assets/biometweaker/lang/en_US.lang"
+    }
+  ]
+}

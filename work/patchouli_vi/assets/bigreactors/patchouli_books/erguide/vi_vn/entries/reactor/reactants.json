@@ -1,0 +1,21 @@
+{
+  "name": "Chất phản ứng",
+  "icon": "bigreactors:ingotyellorium",
+  "category": "bigreactors:reactor",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chất phản ứng là một chất hóa học có thể dùng bên trong Reactor để duy trì phản ứng hạt nhân.$(br2)Có hai loại chất phản ứng:$(li)$(bold)Nhiên liệu:$() nhiên liệu duy trì phản ứng dây chuyền hạt nhân bên trong $(l:reactor/part-fuelrod)Fuel Rods$(/l)$(li)$(bold)Chất thải:$() sản phẩm của phản ứng tiêu thụ nhiên liệu sau khi nhiên liệu bị chiếu xạ."
+    },
+    {
+      "type": "text",
+      "text": "Theo mặc định, Extreme Reactors đăng ký hai chất phản ứng: nhiên liệu Yellorium và chất thải tương ứng Cyanite.$(br2)Mỗi chất phản ứng có một danh sách vật phẩm dùng để tạo ra nó, chẳng hạn bằng cách đưa chúng vào $(l:reactor/part-solidaccessport)Access Port$(/l).$(br2)Ví dụ, có thể thu được Yellorium từ $(l:intro/ores)Yellorium Ingots$(/l). Khi được đẩy ra khỏi Reactor, Cyanite sẽ biến thành Cyanite Ingots."
+    },
+    {
+      "type": "text",
+      "text": "Các mod hoặc modpack khác có thể thêm chất phản ứng và nguồn chất phản ứng riêng, hoặc sửa đổi/xóa các loại mặc định."
+    }
+  ]
+}

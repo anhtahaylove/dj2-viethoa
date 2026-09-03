@@ -1,0 +1,41 @@
+{
+  "name": "Charms",
+  "icon": "twilightforest:charm_of_keeping_3",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/charms",
+  "sortnum": 2100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "NỘI DUNG TẠM Thông tin chung về Charms"
+    },
+    {
+      "flag": "!mod:baubles",
+      "type": "twilightforest:gallery",
+      "title": "Charms",
+      "item_list": "twilightforest:charm_of_keeping_1|twilightforest:charm_of_keeping_2|twilightforest:charm_of_keeping_3",
+      "text": "NỘI DUNG TẠM Charms of Keeping giúp giữ lại nhiều loại vật phẩm ngay cả sau khi chết. PHIÊN BẢN NÀY HIỂN THỊ KHI KHÔNG CÓ BAUBLES"
+    },
+    {
+      "flag": "mod:baubles",
+      "type": "twilightforest:gallery",
+      "title": "Charms",
+      "item_list": "twilightforest:charm_of_keeping_1|twilightforest:charm_of_keeping_2|twilightforest:charm_of_keeping_3",
+      "text": "NỘI DUNG TẠM Charms of Keeping giữ lại nhiều loại vật phẩm ngay cả sau khi chết. PHIÊN BẢN NÀY XUẤT HIỆN KHI CÓ BAUBLES"
+    },
+    {
+      "flag": "!mod:baubles",
+      "type": "twilightforest:gallery",
+      "title": "Charms",
+      "item_list": "twilightforest:charm_of_life_1|twilightforest:charm_of_life_2",
+      "text": "Ngoài vẻ ngoài như một món trang sức chẳng có gì nổi bật, mặt sau của nó còn khắc một dòng chữ kỳ lạ: \"Cái chết cũng chẳng thể chia lìa đôi ta.\""
+    },
+    {
+      "flag": "mod:baubles",
+      "type": "twilightforest:gallery",
+      "title": "Charms",
+      "item_list": "twilightforest:charm_of_life_1|twilightforest:charm_of_life_2",
+      "text": "Ngoài vẻ ngoài như một món trang sức chẳng có gì nổi bật, mặt sau của nó còn khắc một dòng chữ kỳ lạ: \"Cái chết cũng chẳng thể chia lìa đôi ta.\"$(br2)Nó đủ nhỏ để cất cùng những món đồ trang sức và vật dụng lặt vặt khác."
+    }
+  ]
+}

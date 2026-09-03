@@ -1,0 +1,7 @@
+groovyscript.command.copy.hover=Click to copy:
+groovyscript.command.copy.copied_start=Copied [
+groovyscript.command.copy.copied_end=] to the clipboard
+groovyscript.jei.category.groovyscript:fluid_recipe.name=In world fluid recipes
+groovyscript.jei.category.groovyscript:explosion.name=Explosion recipes
+groovyscript.jei.category.groovyscript:burning.name=Burning recipes
+groovyscript.jei.category.groovyscript:piston_push.name=Piston push recipes

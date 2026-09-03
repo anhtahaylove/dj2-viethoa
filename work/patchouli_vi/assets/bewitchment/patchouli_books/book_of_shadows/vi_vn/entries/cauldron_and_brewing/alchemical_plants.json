@@ -1,0 +1,40 @@
+{
+  "name": "Thực vật giả kim",
+  "category": "cauldron_and_brewing",
+  "icon": "bewitchment:torchwood",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có thể tạo ra nhiều loại cây khác nhau bằng thuật giả kim trong Cauldron."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:embergrass",
+      "text": "Một loài cây được tạo ra bằng thuật giả kim. Nó phát tán tàn lửa, thiêu đốt bất kỳ ai chạm vào. Cây này cũng tự lan rộng nên rất thích hợp để bảo vệ căn cứ."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:torchwood",
+      "text": "Một loài cây được tạo ra bằng thuật giả kim. Bầu ở đầu thân gỗ của nó phát sáng. Giống cây tự nhiên, Torchwood cũng tự lan rộng."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:frostflower",
+      "text": "Tuy có vẻ là một nghịch lý sống, chất lỏng của bông hoa được tạo ra bằng thuật giả kim này sẽ đóng băng khi tiếp xúc với không khí và có thể dùng để chế tạo snowball."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:flower_siphoning_poppy",
+      "text": "Dù trông vô hại như bao loài hoa khác, Siphoning Flower được tạo ra bằng thuật giả kim lại phủ đầy gai móc li ti và sẽ lấy mẫu máu của bất kỳ ai chạm vào."
+    },
+    {
+      "type": "text",
+      "text": "Có thể thu mẫu này bằng cách dùng boline lên bông hoa khi cầm Empty Taglock ở tay phụ. Công thức này áp dụng cho mọi loài hoa vanilla."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:blue_ink_cap",
+      "text": "Một loài nấm được tạo ra bằng thuật giả kim. Phần gleba dạng thạch của nó tạo ra sắc tố xanh lam đậm, nên có thể dùng thay cho thuốc nhuộm xanh lam."
+    }
+  ]
+}

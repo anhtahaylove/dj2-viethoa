@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Mekanism-1.12.2-9.8.3.390.jar",
+      "path": "assets/mekanism/lang/en_us.lang"
+    }
+  ]
+}

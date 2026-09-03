@@ -1,0 +1,5 @@
+{
+  "commands.undefined.usage": "Cách dùng lệnh chưa được định nghĩa.",
+  "message.zenutils.validate": "Script của bạn khác với máy chủ. Hỏi quản trị viên máy chủ để biết thêm.",
+  "tooltip.zenutils.energy": "Năng lượng: %s / %s RF"
+}

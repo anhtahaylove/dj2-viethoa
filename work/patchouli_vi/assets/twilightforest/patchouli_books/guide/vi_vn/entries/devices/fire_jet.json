@@ -1,0 +1,15 @@
+{
+  "name": "Fire Jet",
+  "icon": "twilightforest:fire_jet:3",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/fire_jet",
+  "sortnum": 5050,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Fire Jet",
+      "item": "twilightforest:fire_jet:3",
+      "text": "Những vòi phun bất ổn này sẽ phun lửa ngẫu nhiên. Tôi phải cẩn thận khi ở gần chúng vì dường như chẳng có thứ gì kích hoạt chúng. Không hiểu vì sao chúng ngừng phun khi bên dưới không có Lava; có lẽ đó chính là bí mật của chúng?"
+    }
+  ]
+}

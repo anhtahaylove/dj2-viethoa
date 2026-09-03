@@ -1,0 +1,23 @@
+{
+  "name": "Endermini",
+  "icon": "mysticalworld:unripe_pearl",
+  "category": "creatures",
+  "flag": "roots:endermini",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "endermini",
+      "breed": "Nhân giống: không.",
+      "tame": "Thuần hóa: không.",
+      "blurb": "Mấy sinh vật bé nhỏ dễ thương này vẫn không thích bị nhìn chằm chằm đâu!"
+    },
+    {
+      "type": "entity",
+      "name": "Endermini",
+      "entity": "mysticalworld:entity_endermini",
+      "scale": 0.7,
+      "offset": 0,
+      "text": "Những sinh vật này thường sống ở The End cùng với những người anh em lớn hơn của chúng, Endermen."
+    }
+  ]
+}

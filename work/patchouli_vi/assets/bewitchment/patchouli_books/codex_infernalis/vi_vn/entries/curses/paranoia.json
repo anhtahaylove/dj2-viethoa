@@ -1,0 +1,12 @@
+{
+  "name": "Paranoia",
+  "category": "curses",
+  "icon": "minecraft:ender_eye",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:paranoia",
+      "text": "Nỗi sợ của đối tượng bị khuếch đại và không ngừng đeo bám họ. Ngay cả trong tâm trí, họ cũng không được an toàn."
+    }
+  ]
+}

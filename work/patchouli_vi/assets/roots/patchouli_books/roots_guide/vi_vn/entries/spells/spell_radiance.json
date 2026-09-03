@@ -1,0 +1,93 @@
+{
+  "name": "Radiance",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_radiance\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_radiance",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một tia sáng bức xạ mạnh mẽ phóng từ vị trí của bạn theo hướng đang nhìn, gây sát thương cho các thực thể trúng phải và nảy khỏi mọi block nó tiếp xúc.$(br2)Các modifier có thể ngăn sinh vật hiền lành chịu sát thương, dịch chuyển vật phẩm rơi ra từ kẻ địch bị tiêu diệt đến chỗ bạn và còn nhiều tác dụng khác!"
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_radiance"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:peaceful_radiance",
+      "anchor": "peaceful_radiance"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:magnetic_radiance",
+      "anchor": "magnetic_radiance"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:withering_ray",
+      "anchor": "withering_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:glowing_ray",
+      "anchor": "glowing_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:healing_ray",
+      "anchor": "healing_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:sickly_ray",
+      "anchor": "sickly_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:burning_ray",
+      "anchor": "burning_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:wider_ray",
+      "anchor": "wider_ray"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_radiance",
+      "modifier": "roots:slowing_ray",
+      "anchor": "slowing_ray"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:radiance/SECONDS/cooldown) giây.$(br2)$(bold)Kích thước:$() Tầm xa tối đa của tia Radiance là $(spell:radiance/distance) block, tính cả các lần nảy, còn chiều rộng mặc định là $(spell:radiance/width). Với modifier $(modifier:wider_ray)$(), chiều rộng tăng thêm $(spell:radiance/added_width).$(br2)$(bold)Sát thương:$() Mỗi thực thể trúng tia chịu $(spell:radiance/HEART/damage) tim sát thương bức xạ. Undead chịu thêm $(spell:radiance/HEART/undead_damage) tim sát thương."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Wither:$() Khi bật modifier $(modifier:withering_ray)$(), thực thể nhận Wither I trong $(spell:radiance/SECONDS/wither_duration) giây.$(br2)$(bold)Glowing:$() Khi bật modifier $(modifier:glowing_ray)$(), thực thể nhận Glowing I trong $(spell:radiance/SECONDS/glow_duration).$(br2)$(bold)Hồi máu:$() Khi bật modifier $(modifier:healing_ray)$(), thay vì gây sát thương, tia sẽ hồi $(spell:radiance/HEART/healing) tim cho sinh vật hiền lành và đồng minh.$(br2)$(bold)Poison:$() Khi bật modifier $(modifier:sickly_ray)$(), các thực thể"
+    },
+    {
+      "type": "text",
+      "text": "bị tia gây sát thương sẽ nhận Poison $(spell:radiance/ROMAN/poison_amplifier) trong $(spell:radiance/SECONDS/poison_duration).$(br2)$(bold)Lửa:$() Khi bật modifier $(modifier:burning_ray)$(), thực thể bị thiêu đốt trong $(spell:radiance/fire_duration) giây.$(br2)$(bold)Chậm chạp:$() Khi bật modifier $(modifier:slowing_ray)$(), thực thể bị ảnh hưởng nhận Slowness $(spell:radiance/ROMAN/slow_amplifier) trong $(spell:radiance/SECONDS/slow_duration) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/cloud_berry",
+        "herbs/pereskia"
+      ]
+    }
+  ]
+}

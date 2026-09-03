@@ -1,0 +1,29 @@
+{
+  "name": "Tesla Power Tap",
+  "icon": "bigreactors:reactorpowertaptesla",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorpowertaptesla",
+      "link_recipe": true,
+      "title": "Tesla Power Tap",
+      "text": "Tesla Power Tap cho phép bạn lấy năng lượng từ Reactor $(l:reactor/passive)làm mát thụ động$(/l).$(br2)Power Tap này có thể xuất năng lượng bằng $(l:misc/powersystem)hệ thống năng lượng$(/l) Tesla và chỉ có thể kết nối với đường ống hoặc máy móc tương thích với hệ thống đó."
+    },
+    {
+      "type": "text",
+      "text": "Chỉ có thể dùng một loại Power Tap để xây dựng một Reactor."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorpowertaptesla",
+      "title": "Tesla Power Tap"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mọi mặt (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không$(br)$(l)Hệ thống năng lượng:$() Tesla"
+    }
+  ]
+}

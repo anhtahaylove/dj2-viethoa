@@ -1,0 +1,15 @@
+{
+  "name": "The Extreme Wrench",
+  "icon": "bigreactors:wrench",
+  "category": "bigreactors:misc",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:wrench",
+      "link_recipe": true,
+      "title": "The Extreme Wrench",
+      "text": "The Extreme Wrench là... ừm... một chiếc cờ lê.$(br2)Bạn có thể dùng nó để đổi chế độ đầu vào/đầu ra của các bộ phận như Access Port hoặc Coolant Ports."
+    }
+  ]
+}

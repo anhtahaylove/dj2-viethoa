@@ -1,0 +1,17 @@
+{
+  "modifier": "bane_of_arthopods",
+  "text": [
+    {
+      "text": "Đánh một con nhện bằng chính mắt của nó sẽ khiến nó khiếp sợ lùi lại. Gặp vấn đề với sâu bọ ư? Đây là giải pháp. Diệt sạch côn trùng."
+    }
+  ],
+  "effects": [
+    "Gây sát thương cực lớn lên spider và silverfish",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:hammer",
+    "tconstruct:arrow"
+  ]
+}

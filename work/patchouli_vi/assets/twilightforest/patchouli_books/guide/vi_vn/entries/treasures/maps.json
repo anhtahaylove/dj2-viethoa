@@ -1,0 +1,34 @@
+{
+  "name": "Bản đồ",
+  "icon": "twilightforest:magic_map",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/maps",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thông tin về bản đồ"
+    },
+    {
+      "type": "spotlight",
+      "title": "Magic Map",
+      "item": "twilightforest:magic_map",
+      "advancement": "twilightforest:alt/treasures/treasures/magic_map",
+      "text": "Magic Map giúp bạn tìm quần xã và công trình"
+    },
+    {
+      "type": "spotlight",
+      "title": "Maze Map",
+      "item": "twilightforest:maze_map",
+      "advancement": "twilightforest:alt/treasures/treasures/maze_map",
+      "text": "Maze Map giúp bạn xem bố cục mê cung"
+    },
+    {
+      "type": "spotlight",
+      "title": "Ore Map",
+      "item": "twilightforest:ore_map",
+      "advancement": "twilightforest:alt/treasures/treasures/ore_map",
+      "text": "Ore Map giúp bạn nhìn thấy những gì nằm dưới lòng đất, đặc biệt là các loại quặng"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Rotor Shaft",
+  "icon": "bigreactors:turbinerotorshaft",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinerotorshaft",
+      "link_recipe": true,
+      "title": "Rotor Shaft",
+      "text": "Rotor Shaft là bộ phận chính của $(l:turbine/rotor)Rotor$(/l) trong Turbine.$(br2)Các khối Rotor Shaft phải được đặt nối tiếp nhau bên trong Turbine và kéo dài hết chiều dài của nó, bắt đầu từ $(l:turbine/part-rotorbearing)Rotor Bearing$(/l) và kết thúc sát một khối $(l:turbine/part-casing)Housing$(/l) ở phía đối diện.$(br2)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:turbinerotorshaft",
+      "title": "Rotor Shaft"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() có$(br)$(l)Vị trí hợp lệ:$() bên trong Turbine$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

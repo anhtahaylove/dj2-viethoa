@@ -1,0 +1,20 @@
+{
+  "tool": "rapier",
+  "text": [
+    {
+      "text": "Rapier là vũ khí đặc biệt dùng những đòn đánh nhanh để hạ gục kẻ địch, kể cả khi có giáp. Mỗi đòn đánh bằng Rapier sẽ xuyên qua một phần giáp của mục tiêu."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nhấp chuột phải để lùi nhanh một đoạn ngắn, giúp né sát thương sắp tới."
+    }
+  ],
+  "properties": [
+    "Fast, but low damage",
+    "50% Armor Piercing",
+    "Rightclick: Backpedal",
+    "No offhand"
+  ]
+}

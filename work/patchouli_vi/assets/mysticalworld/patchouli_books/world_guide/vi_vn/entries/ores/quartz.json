@@ -1,0 +1,14 @@
+{
+  "name": "Quartz Ore",
+  "icon": "mysticalworld:granite_quartz_ore",
+  "category": "ores",
+  "flag": "roots:quartz",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:granite_quartz_ore",
+      "text": "Quartz xuất hiện trong các cụm Granite ở Overworld và khi khai thác sẽ cho kết quả giống Quartz tìm thấy ở Nether."
+    }
+  ]
+}

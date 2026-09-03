@@ -1,0 +1,15 @@
+{
+  "name": "Tổng quan Evaporator",
+  "icon": "alchemistry:evaporator",
+  "category": "evaporator_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Evaporator là một máy không dùng năng lượng, làm bay hơi chất lỏng để tạo ra vật phẩm. Theo mặc định, máy thường được dùng nhất để tạo $(item)Mineral Salt$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:atomizer"
+    }
+  ]
+}

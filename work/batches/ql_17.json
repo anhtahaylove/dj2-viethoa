@@ -1,0 +1,585 @@
+{
+  "chapter_index": 17,
+  "title_key": "dj2.quest.ql.17.title",
+  "chapter_title_en": "22. Venture for Power",
+  "desc_key": "dj2.quest.ql.17.desc",
+  "chapter_desc_en": "Begin anew in Vethea and electrify your world with LightningCraft.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.17.title",
+      "en": "22. Venture for Power"
+    },
+    {
+      "key": "dj2.quest.ql.17.desc",
+      "en": "Begin anew in Vethea and electrify your world with LightningCraft."
+    },
+    {
+      "key": "dj2.quest.db.236.title",
+      "en": "Even more charge"
+    },
+    {
+      "key": "dj2.quest.db.236.desc",
+      "en": "Upgrade your current Lightning Cell to the Advanced version, capable of storing a lot more LE!"
+    },
+    {
+      "key": "dj2.quest.db.237.title",
+      "en": "So this is what I needed Demon Hearts for...!"
+    },
+    {
+      "key": "dj2.quest.db.237.desc",
+      "en": "Defeat or Powered Spawn some Demon Soldiers, found naturally spawning in the Nether.%n%nAnd now that you have a sufficient source of Demon Hearts, infuse some Demonstones as well! Note that once you go to the Underworld you can find Demonstones in structures, very handy."
+    },
+    {
+      "key": "dj2.quest.db.240.title",
+      "en": "From the skies it strikes"
+    },
+    {
+      "key": "dj2.quest.db.240.desc",
+      "en": "Craft a Skyfather Ingot in your Lightning Infusion Table!"
+    },
+    {
+      "key": "dj2.quest.db.241.title",
+      "en": "Storing the power of Lightning"
+    },
+    {
+      "key": "dj2.quest.db.241.desc",
+      "en": "Craft a Lightning Energy Cell! This device is capable of storing LE (Lightning Energy), and automatically powering any LE consuming machine placed next to it.%n%nTo charge it with LE, place some kind of a Terminal on top, and swing your Golden Club to summon Lightning! Later you'll be able to automatically gain Lightning Energy too, but for now, this is the only method."
+    },
+    {
+      "key": "dj2.quest.db.242.title",
+      "en": "Air Terminal Ranking"
+    },
+    {
+      "key": "dj2.quest.db.242.desc",
+      "en": "Craft up tiers of Air Terminals until you reach the Copper Air Terminal!%n%nPlacing any of these on top of a Lightning Energy Cell and then summoning Lightning on top will fill the Cell with a bit of LE (Lightning Energy). The amount of LE per Lightning is determined by the type of the Air Terminal."
+    },
+    {
+      "key": "dj2.quest.db.243.title",
+      "en": "Infusing with Lightning"
+    },
+    {
+      "key": "dj2.quest.db.243.desc",
+      "en": "Craft a Lightning Infusion Table!%n%nThis machine requires LE (Lightning Energy) to function. See the nearby quests on how to generate LE.%n%nYou will no longer need to create Electricium in-world, you can use this machine from now on.%n%nEach recipe in the Lightning Infusion Table takes exactly 30 seconds to craft. Later you can upgrade the machine so each recipe will take exactly 15 seconds.%n%nYou will soon unlock an upgradable multiblock that will process all recipes inside the table much quicker, and with less lag."
+    },
+    {
+      "key": "dj2.quest.db.244.title",
+      "en": "Vanilla start with extra Nightmares"
+    },
+    {
+      "key": "dj2.quest.db.244.desc",
+      "en": "Make a Crafting Table and use it to create a Moonlight Furnace. It works functionally the same as a regular Furnace. Use it to smelt your Ores you create with Dream Stone and Dream Dirt!"
+    },
+    {
+      "key": "dj2.quest.db.245.title",
+      "en": "I remember doing this...!"
+    },
+    {
+      "key": "dj2.quest.db.245.desc",
+      "en": "Craft a Wooden Pickaxe and collect some Dream Stones! These work exactly like Cobblestone, with the exception of being able to use it and Dream Dirt to magically conjure up some Ores...!"
+    },
+    {
+      "key": "dj2.quest.db.246.title",
+      "en": "Alloying again..."
+    },
+    {
+      "key": "dj2.quest.db.246.desc",
+      "en": "Alloy up some Invar in your Smeltery!"
+    },
+    {
+      "key": "dj2.quest.db.247.title",
+      "en": "Becoming stronger with Tinkers'"
+    },
+    {
+      "key": "dj2.quest.db.247.desc",
+      "en": "Make some Seared Bricks and set up a basic Smeltery! You can obtain Lava from Fire Crystals, and you can create some useful alloys to make powerful tools and weapons!%n%nMake sure to create a powerful Cleaver or Longsword and some kind of ranged weapon!"
+    },
+    {
+      "key": "dj2.quest.db.249.title",
+      "en": "Becoming strong with Tinkers'"
+    },
+    {
+      "key": "dj2.quest.db.249.desc",
+      "en": "Setup a small base (I recommend simply digging into a wall), and craft all Tinkers' Tables listed to the right. Create some Tools that are better than the Vanilla ones!"
+    },
+    {
+      "key": "dj2.quest.db.250.title",
+      "en": "Softening Dream Dirt"
+    },
+    {
+      "key": "dj2.quest.db.250.desc",
+      "en": "Use Dream Dirt, Dream Stone, and Water to obtain Sand, Gravel, and Clay!"
+    },
+    {
+      "key": "dj2.quest.db.251.title",
+      "en": "Water §r=§r Life"
+    },
+    {
+      "key": "dj2.quest.db.251.desc",
+      "en": "Once you've collected 8 pieces of Firelights, you can obtain 2 Water Buckets to make an infinite Water source.%n%nUsing this, make Mushrooms and Mushroom Stew for food!"
+    },
+    {
+      "key": "dj2.quest.db.252.title",
+      "en": "Light the Fire, spill the Water!"
+    },
+    {
+      "key": "dj2.quest.db.252.desc",
+      "en": "Find some Firelights randomly scattered across Vethea! It's most common on the top layer, but before having access to good equipment, stay on the bottom layer and look for brown structures that may include this block!"
+    },
+    {
+      "key": "dj2.quest.db.253.title",
+      "en": "Conjuring Ores"
+    },
+    {
+      "key": "dj2.quest.db.253.desc",
+      "en": "Use Dream Stone and Dream Dirt in the Crafting Table to obtain all of the Ores listed to the right.%n%nSome additional ones are also available if you want to make tools, weapons, or anything else out of them. Look up the usage of Dream Dirt or Dream Stone, and scroll to the end to see their recipes!%n%nThese are: Lapis, Realmite, Arlemite, Rupee, Quartz, and Salt Ores."
+    },
+    {
+      "key": "dj2.quest.db.254.title",
+      "en": "Get that power out!"
+    },
+    {
+      "key": "dj2.quest.db.254.desc",
+      "en": "Craft a Redstone Flux Power Tap. You need that sweet-sweet power, man!"
+    },
+    {
+      "key": "dj2.quest.db.255.title",
+      "en": "Max Power"
+    },
+    {
+      "key": "dj2.quest.db.255.desc",
+      "en": "Craft some Reactor Casings to get into Extreme Reactors! This mod works exactly like the 1.7.10 Big Reactors mod. However since it's only available so late into the game, Reactors generate WAY more power this time!%n%nHow much power? 500 times the default.%n%n%nYeah.%n%nBy the way, if you're new to Extreme Reactors (or Big Reactors), make sure to read the guide book rewarded for this quest! It contains information on how to construct, activate, and use these reactors.%n%nOh, and by the way, they can't blow up. It's not a possibility that's coded in. Hurray!%n%nIf you want to test out your reactor output, you can go to §6br.sidoh.org§r - it was made for Big Reactors, but Extreme Reactors follows the same math. Keep in mind that power output will be 500 times what is listed!"
+    },
+    {
+      "key": "dj2.quest.db.256.title",
+      "en": "Into Immersive: Again!"
+    },
+    {
+      "key": "dj2.quest.db.256.desc",
+      "en": "Craft 27 Coke Bricks and Blast Bricks! Also craft an Engineer's Hammer and use it to form the multiblocks!%n%nSimilarly to how you did it before, create Coal Coke and create Steel!"
+    },
+    {
+      "key": "dj2.quest.db.257.title",
+      "en": "Get to the top(-per)!"
+    },
+    {
+      "key": "dj2.quest.db.257.desc",
+      "en": "Advance to the topmost layer of Vethea and find a rare structure: an Arena made of Luna Bricks. Collect a couple of the Bricks and head out!%n%n%n%n%n%nBy the way, this Arena would host the final boss of Vethea, but it's so ridiculously overtuned, that I can't wholeheartedly require you to fight it... It's Lady Luna and she has 4000 hearts of health and can two-shot you with acid on the ground, not to mention you can only damage her with either melee, ranged, or arcanic weapons, depending on her current form which she changes about every 10-15 seconds.%n%nI DO NOT recommend summoning her, but if you're up for a challenge (and I mean REALLY up for one), then use a Moon Clock at the Lunic Altar to summon her... But don't tell me that I didn't warn you."
+    },
+    {
+      "key": "dj2.quest.db.258.title",
+      "en": "Harder, better, faster, stronger"
+    },
+    {
+      "key": "dj2.quest.db.258.desc",
+      "en": "Upgrade your LE Transmitters and Receivers to Tier 2 for more efficient wireless transmission!%n%n§6You only need to do one task."
+    },
+    {
+      "key": "dj2.quest.db.259.title",
+      "en": "Wireless LE"
+    },
+    {
+      "key": "dj2.quest.db.259.desc",
+      "en": "Craft a Tier 1 LE Transmitter or a Tier 1 LE Receiver! Place the Transmitter next to the Lightning Energy Cell where you're generating LE, and place the Receiver next to a Lightning Infusion Table to provide it with LE!%n%nTo connect them up, craft a Tx/Rx tag, Shift+Right Click the Transmitter and Right Click the Receiver. To use the Tx/Rx tag again, simply craft it into a fresh one in the Crafting Table.%n%nUnfortunately due to the nature of Lightning Energy, it cannot be transmitted through mundane cables, so the only option is to send it wirelessly!%n%n§l§6You only need to do one task."
+    },
+    {
+      "key": "dj2.quest.db.260.title",
+      "en": "Special Room: Restroom"
+    },
+    {
+      "key": "dj2.quest.db.260.desc",
+      "en": "Find a Restroom where Datticon might hide! Collect some of the Furnaces inside. These will be used later on...%n%nIf you met Datticon, remember where this room is, you'll need to trade with her soon."
+    },
+    {
+      "key": "dj2.quest.db.261.title",
+      "en": "Raid: Arcane Legends"
+    },
+    {
+      "key": "dj2.quest.db.261.desc",
+      "en": "This modpack's been sponsored by Raid: Arcane Legends! Simply load into the Dungeon of Arcana using the link in the description, defeat mobs, trade with NPCs and collect various powerful materials! You can choose to be a melee fighter or a ranged archer! No microtransactions*%n%nThe rewarded Levers are used to open doors with incredible loot behind!! (Or, just Raw Arcanium...)%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n* I swear**%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n** Okay, fine, there are microtransactions, you got me..."
+    },
+    {
+      "key": "dj2.quest.db.263.title",
+      "en": "Undergoing some travels"
+    },
+    {
+      "key": "dj2.quest.db.263.desc",
+      "en": "Craft an Underworld Charge to charge up the Underworld with..."
+    },
+    {
+      "key": "dj2.quest.db.264.title",
+      "en": "Heliosis' Dream"
+    },
+    {
+      "key": "dj2.quest.db.264.desc",
+      "en": "Find a large brown structure on the top layer of Vethea. Get through a small parkour puzzle and loot some Heliosis Lumps from Chests at the end! Use them to craft an Ender Chest!%n%nYou can also create dyes to color your Ender Chest. Lookup the usage of DivineRPG Acid to see how they're made. Of course, Lapis is also available. To secure the Ender Chest, use a piece of Diamond on its handle. Of course, this means you also need an Ender Chest with a piece of Diamond attached on the other side.%n%nSend back 4 Souls Vials to the Overworld that contain different types of mobs from each layer so you can Powered Spawn them for their Pearls.%n%n%n%nWARNING: Do NOT attempt to spawn Raglok. It will crash your game (or server) and corrupt the world. Yikes! You do NOT need any loot from it."
+    },
+    {
+      "key": "dj2.quest.db.265.title",
+      "en": "Endering the final stage!"
+    },
+    {
+      "key": "dj2.quest.db.265.desc",
+      "en": "Combine Dirty Pearls, Acid, and Emerald to conjure an Ender Pearl.%n%nThen upgrade it into an Eye of the Nightmare using some Blaze Powder, a slice of Glistering Melon and some Shiny Pearls!"
+    },
+    {
+      "key": "dj2.quest.db.266.title",
+      "en": "A machine casing... again."
+    },
+    {
+      "key": "dj2.quest.db.266.desc",
+      "en": "Energize some Osmium and craft a Mekanism Steel Casing!"
+    },
+    {
+      "key": "dj2.quest.db.267.title",
+      "en": "Walls + Pearls + Water §r=§r ??"
+    },
+    {
+      "key": "dj2.quest.db.267.desc",
+      "en": "Biodiesel!%n%nThat's what they make.%n%nFor some reason..."
+    },
+    {
+      "key": "dj2.quest.db.268.title",
+      "en": "Awaken the Dungeon's Fiends"
+    },
+    {
+      "key": "dj2.quest.db.268.desc",
+      "en": "Find a room with some Parasecta or Dramix Altars inside the Dungeon of Arcana! Place your Wizards Book on one of them to spawn Parasecta / Dramix!%n%nDefeat it and collect your loot, the Dungeon Tokens!"
+    },
+    {
+      "key": "dj2.quest.db.269.title",
+      "en": "You're not a Wizard, Steve!"
+    },
+    {
+      "key": "dj2.quest.db.269.desc",
+      "en": "Find Lord Vatticus inside his special room (the small Library) in the Dungeon of Arcana. Exchange some Arcanium with him for a Wizards Book!"
+    },
+    {
+      "key": "dj2.quest.db.270.title",
+      "en": "Getting your hands dirty"
+    },
+    {
+      "key": "dj2.quest.db.270.desc",
+      "en": "Locate a tree of some Logs nearby and dig a tunnel towards it, collecting some Dream Dirt in the meantime.%n%nBut WATCH OUT: there is NO BEDROCK LAYER at Y=0, so always watch your height level when mining below ground! Don't fall out of the world!"
+    },
+    {
+      "key": "dj2.quest.db.271.title",
+      "en": "Club-achu! Evolve!"
+    },
+    {
+      "key": "dj2.quest.db.271.desc",
+      "en": "Craft some Thunderstones!%n%n(You can get Scorned Bricks from Compressed Netherrack and Compressed Obsidian.)"
+    },
+    {
+      "key": "dj2.quest.db.272.title",
+      "en": "It's farther down than the Nether"
+    },
+    {
+      "key": "dj2.quest.db.272.desc",
+      "en": "Build up a vertical Portal of a 2x2 inside (or 4x4 outside) shape out of Demonstone and light it with your Underworld Charge. (You do not need to have corner blocks.)%n%nThen enter the Underworld!"
+    },
+    {
+      "key": "dj2.quest.db.273.title",
+      "en": "Automating Demon Hearts"
+    },
+    {
+      "key": "dj2.quest.db.273.desc",
+      "en": "If you haven't done so yet, automate Demon Hearts by using the duplication recipe in the alloy smelter."
+    },
+    {
+      "key": "dj2.quest.db.274.title",
+      "en": "Even better Air Terminal"
+    },
+    {
+      "key": "dj2.quest.db.274.desc",
+      "en": "Upgrade your Electricium Air Terminal into a Skyfather variant!"
+    },
+    {
+      "key": "dj2.quest.db.275.title",
+      "en": "Better Air Terminal"
+    },
+    {
+      "key": "dj2.quest.db.275.desc",
+      "en": "Craft an Electricium Air Terminal for even more efficiency!"
+    },
+    {
+      "key": "dj2.quest.db.276.title",
+      "en": "Lightning fast"
+    },
+    {
+      "key": "dj2.quest.db.276.desc",
+      "en": "Craft a Lightning Upgrade! Applying a single one of these to a Lightning Infuser will speed it up by a factor of 2, making it so every recipe takes 15 seconds instead of 30."
+    },
+    {
+      "key": "dj2.quest.db.277.title",
+      "en": "Hardest, best, fastest, strongest"
+    },
+    {
+      "key": "dj2.quest.db.277.desc",
+      "en": "Upgrade your LE Transmitter and Receivers to Tier 3, the final tier! The LE Receiver will reduce the energy cost of recipes in the Lightningcraft Infusion Multiblock by 50%%.%n%n§6You only need to do one task."
+    },
+    {
+      "key": "dj2.quest.db.278.title",
+      "en": "Shiny yet dark"
+    },
+    {
+      "key": "dj2.quest.db.278.desc",
+      "en": "Craft some Mystical Iron Ingots to finish up the LightningCraft progression!"
+    },
+    {
+      "key": "dj2.quest.db.279.title",
+      "en": "Back to the start"
+    },
+    {
+      "key": "dj2.quest.db.279.desc",
+      "en": "Wow, a lot of mobs inside! And it's very dark indeed.%n%nYour first goal should be to survive: Dig yourself a small tunnel right below ground, but WATCH OUT: there is NO BEDROCK LAYER at Y=0, so always watch your height level when mining below ground! Don't fall out of the world!%n%nYour tunnel should lead to nearby trees. There are 3 types of them in Vethea: Firewood, Hyrewood, and Mintwood. Find any of them and get some Logs. They don't drop any Saplings though, so you should be conservative.%n%nOnce you've collected some, make a Wooden Pickaxe Head."
+    },
+    {
+      "key": "dj2.quest.db.280.title",
+      "en": "Nervously going to sleep..."
+    },
+    {
+      "key": "dj2.quest.db.280.desc",
+      "en": "Return home and craft a Nightmare Bed!%n%nMake a completely dark area (you can use Dark Ineffable Glass to keep the area dark while still being able to walk into it), and place the Bed inside. (Make sure to have at least a 2x2 area beside your Bed to spawn into when coming back.)%n%nSleeping in it will send you to Vethea, the Nightmare! Obviously, since it's a dream, you can't bring any of your items with you, and you can't bring any items out...%n%nOr can you?%n%nWith your technology, it might be possible. Make sure you have an Ender Chest outside of the Nightmare to send items to, then you'll only need to build an Ender Chest inside... How hard could it be...?%n%nThen, with the Ender Chest, you can send items back and forth! The most important items to send back are the various Pearls you can find by defeating mobs, and to make the Pearl farming easier, also send back Soul Vials with the mobs inside - to Powered Spawn them."
+    },
+    {
+      "key": "dj2.quest.db.281.title",
+      "en": "Defeating the masses"
+    },
+    {
+      "key": "dj2.quest.db.281.desc",
+      "en": "Vethea has 4 layers, with different types of mobs spawning on each layer. To advance to the next layer, simply dig up! These mobs drop all the Pearls listed to the right, and the Acid Hag (spawning on the bottom two layers) drops Acid. Collect it all!%n%nNote: You probably want to prepare before heading up to the top layers, as mobs are increasingly more difficult. I would suggest creating a network of tunnels to travel between. Use ladders to your advantage!%n%nOnce you have access to Soul Vials (which you pretty much should, if you've completed this quest), also grab a mob from each layer to transfer back into the Overworld!"
+    },
+    {
+      "key": "dj2.quest.db.282.title",
+      "en": "Gotta catch them all"
+    },
+    {
+      "key": "dj2.quest.db.282.desc",
+      "en": "Use Sand, Lava, and Polished Pearls to create Soul Sand!%n%nUse Soul Sand, Glass, and any kind of Pearls to make a Soul Vial! Collect 4 types of mobs (1 from each layer) to later Powered Spawn them in your base for their loot!"
+    },
+    {
+      "key": "dj2.quest.db.283.title",
+      "en": "Hot stone to hot liquid"
+    },
+    {
+      "key": "dj2.quest.db.283.desc",
+      "en": "Find some Fire Crystals! There should be plenty in Vethea. You can use these to conjure Lava! Useful for powering a Tinkers' Construct Smeltery."
+    },
+    {
+      "key": "dj2.quest.db.284.title",
+      "en": "From Fire they birth"
+    },
+    {
+      "key": "dj2.quest.db.284.desc",
+      "en": "Use a Lava Bucket and Clean Pearls to make some Blaze Rods!"
+    },
+    {
+      "key": "dj2.quest.db.285.title",
+      "en": "Melon^3"
+    },
+    {
+      "key": "dj2.quest.db.285.desc",
+      "en": "Find some Dream Melons inside Chests in small Crypts on the bottom layer of Vethea, then craft it into vanilla Melon slices and Glistering Melon slices!"
+    },
+    {
+      "key": "dj2.quest.db.286.title",
+      "en": "You've Ventured for Power"
+    },
+    {
+      "key": "dj2.quest.db.286.desc",
+      "en": "Return from Vethea using the Portal located right where you spawned in.%n%nUsing a Dungeon Token, some Ignition (from the end of Bewitchment), an Impetus Crystal, Lightning Grenade (gathered from an Environmental Accumulator) and Clean Pearls you've just obtained craft some Lightning Charges! This will open LightningCraft for you!"
+    },
+    {
+      "key": "dj2.quest.db.287.title",
+      "en": "I like my Arcanium well done"
+    },
+    {
+      "key": "dj2.quest.db.287.desc",
+      "en": "Find an Arcanium Extractor inside the Dungeon. It can spawn in multiple different types of rooms.%n%nUse Raw Arcanium in the top slot and Collectors in the bottom slot to create Arcanium!"
+    },
+    {
+      "key": "dj2.quest.db.288.title",
+      "en": "Club-achu! Use Thunderbolt!"
+    },
+    {
+      "key": "dj2.quest.db.288.desc",
+      "en": "Throw a Mana Diamond, Crystalline Alloy Ingot, and Mirion Ingot on the ground in the same spot, and (while highlighting a block) strike them with Lightning to transform them into a piece of Electricium Ingot!%n%nRinse and repeat 3 more times to complete the quest."
+    },
+    {
+      "key": "dj2.quest.db.289.title",
+      "en": "Accelerating your Dreams"
+    },
+    {
+      "key": "dj2.quest.db.289.desc",
+      "en": "Find Datticon inside the Dungeon of Arcana and buy 3 Accelerons from her!%n%nThese will be used to accelerate your dreams and send you flying into the nightmare of Vethea..."
+    },
+    {
+      "key": "dj2.quest.db.290.title",
+      "en": "Red Lightning"
+    },
+    {
+      "key": "dj2.quest.db.290.desc",
+      "en": "Craft a Mystic Ingot! This is the highest tier LightningCraft material."
+    },
+    {
+      "key": "dj2.quest.db.291.title",
+      "en": "If Thaumic Tinkerer won't add this..."
+    },
+    {
+      "key": "dj2.quest.db.291.desc",
+      "en": "...Then LightningCraft will!%n%nCraft some Ichor by striking Lightning on Demon Blood, a Skyfather Ingot, and Stone Ichor.%n%nYou no longer need to use your Club (you can if you want to), instead use the Lightning strikes generated by your Electrostatic Generators!"
+    },
+    {
+      "key": "dj2.quest.db.292.title",
+      "en": "Undercreeps would be proud"
+    },
+    {
+      "key": "dj2.quest.db.292.desc",
+      "en": "Use the Lightningcraft Infusion Multiblock to get Guard's Bone Meal, any Crusher to get Electricium Dust and the Underpowder you've gained from Powered Spawning Undercreeps to craft some Empowered Underpowder!"
+    },
+    {
+      "key": "dj2.quest.db.293.title",
+      "en": "I like my Arcanium rare"
+    },
+    {
+      "key": "dj2.quest.db.293.desc",
+      "en": "Open Dungeon Doors with Levers (or any other type of Redstone) and collect Raw Arcanium behind using a Shovel."
+    },
+    {
+      "key": "dj2.quest.db.294.title",
+      "en": "Collector collector"
+    },
+    {
+      "key": "dj2.quest.db.294.desc",
+      "en": "Defeat mobs inside the Dungeon to collect Collectors and become a Collector collector."
+    },
+    {
+      "key": "dj2.quest.db.295.title",
+      "en": "'Pop' - it comes out"
+    },
+    {
+      "key": "dj2.quest.db.295.desc",
+      "en": "Construct your Reactor and use it to produce Cyanite Ingots!%n%nIf you want to optimize Cyanite gain - and you will - you'll want to make your reactor as inefficient as possible. This means no coolant, having the rods spaced out so they are always 4 blocks away from the nearest rod in the X and Z direction (diagonally has no such restriction), and as big a reactor as possible!"
+    },
+    {
+      "key": "dj2.quest.db.296.title",
+      "en": "Yellorium in, Cyanite out"
+    },
+    {
+      "key": "dj2.quest.db.296.desc",
+      "en": "Craft one (or two) Access Ports for Yellorium input and Cyanite output. You can change it between Inlet and Outlet mode and insert Yellorium into one using an Export Bus, Item Conduit, etc., and extract Cyanite from the other one using an Import Bus, Item Conduit, etc."
+    },
+    {
+      "key": "dj2.quest.db.297.title",
+      "en": "The Heart of the Reactor"
+    },
+    {
+      "key": "dj2.quest.db.297.desc",
+      "en": "Craft a Reactor Controller! This is where you can start and stop the reactor, and check how much RF it's producing."
+    },
+    {
+      "key": "dj2.quest.db.298.title",
+      "en": "Burn it! BURN THE FUEL!"
+    },
+    {
+      "key": "dj2.quest.db.298.desc",
+      "en": "Craft some Fuel Rods and Control Rods to cap them off!"
+    },
+    {
+      "key": "dj2.quest.db.299.title",
+      "en": "It's got a Blue tone"
+    },
+    {
+      "key": "dj2.quest.db.299.desc",
+      "en": "Use your Cyanite Ingots and some Mystical Iron to craft a Blutonium Ingot and unlock Astral Sorcery!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nYo, listen up here's a story%nAbout a little ingot%nThat lives in a blue world%nAnd all day and all night%nAnd everything it sees is just blue%nLike itself inside and outside%nBlue its house%nWith a blue little window%nAnd a blue corvette%nAnd everything is blue for it%nAnd itself and everybody around%nCause it ain't got nobody to listen to%n%nI'm blue%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nI'm blue%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di%nDa ba dee da ba di"
+    },
+    {
+      "key": "dj2.quest.db.300.title",
+      "en": "Limitless Enchanting Channelling Erebus"
+    },
+    {
+      "key": "dj2.quest.db.300.desc",
+      "en": "Craft an Enchantment Reallocator! This machine uses LE to transfer all Enchantments from the item placed into the top slot to the item placed into the bottom slot. There is no excuse for Protection III anymore!"
+    },
+    {
+      "key": "dj2.quest.db.301.title",
+      "en": "Special Room: Library"
+    },
+    {
+      "key": "dj2.quest.db.301.desc",
+      "en": "Find a special Library Room inside the Dungeon and use a Silk Touch tool to collect some Bookshelves! These will be used later on..."
+    },
+    {
+      "key": "dj2.quest.db.302.title",
+      "en": "Part of the Golden Club"
+    },
+    {
+      "key": "dj2.quest.db.302.desc",
+      "en": "Craft a Golden Club! You only need one, but you can make more if you want.%n%nBy swinging this in the air it uses up 2 durability to summon lightning! If you want to use it for anything useful (other than looks), then make sure to use it WHILE HOVERING OVER a block. This is required for LE (Lightning Energy) generation but lightning transformations can be done by other sources of lightning as well."
+    },
+    {
+      "key": "dj2.quest.db.303.title",
+      "en": "Steel, ey!"
+    },
+    {
+      "key": "dj2.quest.db.303.desc",
+      "en": "Use your Blast Furnace to create some Steel!"
+    },
+    {
+      "key": "dj2.quest.db.304.title",
+      "en": "Zappy!"
+    },
+    {
+      "key": "dj2.quest.db.304.desc",
+      "en": "Gather the components to assemble the Lightningcraft Infusion Multiblock!%nIn addition to the listed components, you will need any Item Output Hatch, a Small or larger Item Input Hatch, and at least a Huge Energy Input Hatch.%n%nThis will allow you to process recipes faster and for higher output than the Lightningcraft Infuser, but more importantly, without the significant TPS lag the Infuser causes. It will also allow for additional recipes, such as the Mystic Ingot.%n%nThe Lightningcraft Infusion Multiblock can be upgraded:%n- By replacing the Skyfather Air Terminal atop the structure with an LE Reciever (Tier 3), the energy cost will be halved.%n- By replacing the Advanced Lightning Cell below the structure with a Mystic Lightning Cell, the processing speed will be doubled.%n- By instead replacing the Advanced Lightning Cell below the structure with an RF Lightning Generator, the processing speed will be 5 times faster!"
+    },
+    {
+      "key": "dj2.quest.db.306.title",
+      "en": "Venturing? Again? For Power?"
+    },
+    {
+      "key": "dj2.quest.db.306.desc",
+      "en": "Find a Skeleton Guard Tower spawning rarely in the Underworld. Capture a Skeleton Guard and Powered Spawn it for its Bones!%n%nAdditionally, find some Undercreeps and defeat them to collect their Underpowder! You probably want to Powered Spawn these fellahs as well."
+    },
+    {
+      "key": "dj2.quest.db.307.title",
+      "en": "No more Clubbing!"
+    },
+    {
+      "key": "dj2.quest.db.307.desc",
+      "en": "Make an Electrostatic Generator!%n%nThis is a powerful machine that can summon Lightning using two materials:%n%n- some LE Energy,%n- any kind of block (Cobblestone is probably the easiest).%n%nTo kick-start the process, place this next to a Lightning Cell, place a higher tier Air Terminal on top of the Cell, provide a constant stream of blocks to the Electrostatic Generator, and wait until Lightning strikes!%n%nThe Lightning will generate more LE than the Electrostatic Generator used, effectively creating free LE from just Cobblestone.%n%nYou can also place multiple Electrostatic Generators next to a single Lightning Cell to charge it even faster!"
+    },
+    {
+      "key": "dj2.quest.db.309.title",
+      "en": "Even better Air Terminal"
+    },
+    {
+      "key": "dj2.quest.db.309.desc",
+      "en": "Upgrade your Skyfather Air Terminal into a Mystic variant! This is the highest tier of Air Terminal."
+    },
+    {
+      "key": "dj2.quest.db.1700.title",
+      "en": "Hypnotized"
+    },
+    {
+      "key": "dj2.quest.db.1700.desc",
+      "en": "Craft the Ensorcelled Core in the Lightningcraft Infusion Multiblock using the decreased energy cost from the LE Reciever (Tier 3)."
+    },
+    {
+      "key": "dj2.quest.db.1709.title",
+      "en": "Magical yet electrical"
+    },
+    {
+      "key": "dj2.quest.db.1709.desc",
+      "en": "Craft a Mystic Energy Cell!%nThis holds 20000 LE, but more importantly, can be used as a replacement for the Advanced Lightning Cell below the Lightningcraft Infusion Multiblock to double its processing speed."
+    },
+    {
+      "key": "dj2.quest.db.1717.title",
+      "en": "Bottoms up!"
+    },
+    {
+      "key": "dj2.quest.db.1717.desc",
+      "en": "Thaumcraft Warp follows you into Vethea - craft a Vial of Sane Thoughts to prevent it from clouding your mind."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Giới thiệu về phép thuật",
+  "icon": "minecraft:writable_book",
+  "category": "spells",
+  "priority": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Việc tạo và quản lý phép thuật là một hệ thống phức tạp, được chia thành nhiều chương.$(li)Chương này trình bày các khái niệm cơ bản, bao gồm cả việc truyền phép.$(li)$(l:spells/introduction2)Cơ chế áp dụng modifier$()$(li)$(l:spells/modifiers)Công dụng thực tế của modifier và phép thuật$()$(li)$(l:spells/library)Cơ chế và công dụng của thư viện phép thuật$()."
+    },
+    {
+      "type": "text",
+      "text": "Tương tự $(l:rituals/introduction)nghi lễ$(), phép thuật là cách giải phóng năng lượng hoang dã ẩn chứa trong thảo mộc và vận dụng nó để thay đổi thế giới xung quanh bạn.$(br2)Khác với nghi lễ, phép thuật chỉ yêu cầu bạn mang theo một $(l:crafting/staff)Staff$() và $(l:spells/component_pouches)một Component Pouch bất kỳ$().$(br2)$(warning) Tuy nhiên, giống như nghi lễ, bạn phải hoàn thành một số bước nhất định trước khi có thể bắt đầu"
+    },
+    {
+      "type": "text",
+      "text": "thi triển phép thuật, bao gồm thu thập một số nguyên liệu, nghiền chúng thành bụi phép và truyền chúng vào $(l:spells/library)thư viện phép thuật của bạn$().$(br2)$(info) Vì vậy, bạn cũng cần một $(l:crafting/mortar_and_pestle)Mortar & Pestle$(), $(l:crafting/imbuer)Imbuer$() và cuối cùng là một $(l:crafting/gramary)Gramary$(), đóng vai trò liên kết cá nhân với thư viện phép thuật của bạn.$(br2)Cách điều chỉnh phép thuật bằng modifier sẽ được trình bày chi tiết hơn trong mục riêng: $(l:spells/introduction2)Giới thiệu về Modifier$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Staff",
+      "recipe": "roots:staff",
+      "text": "Công cụ chính để thi triển phép thuật là Staff. Vật phẩm này dễ chế tạo, có năm ô; mỗi ô có thể chứa một phép thuật, kể cả nhiều bản sao của cùng một phép, với các modifier riêng."
+    },
+    {
+      "type": "text",
+      "text": "$(info) Toàn bộ thông tin về cách thao tác với Staff và các ô phép $(l:crafting/staff)có trong trang dành riêng cho Staff$().$(br2)Sau khi truyền một phép thuật vào thư viện, bạn có thể cầm Staff và nhấn '$(k:roots.keybinds.spell_library)' để mở $(l:spells/library)thư viện phép thuật$().$(br2)$(info) Hướng dẫn sử dụng thư viện phép thuật có trong mục $(l:spells/library)thư viện phép thuật$().$(br2)Dù có thể thay đổi phép thuật bất cứ lúc nào, sau đó bạn có thể cần bật lại các modifier."
+    },
+    {
+      "type": "crafting",
+      "title": "Thành phần",
+      "recipe": "roots:herb_pouch",
+      "text": "Staff chứa phép thuật, nhưng bạn cũng phải cung cấp thảo mộc làm năng lượng cho nó thông qua một $(l:spells/component_pouches)Component Pouch$().$(br2)Có nhiều loại với kích thước khác nhau. Loại được minh họa là loại dễ chế tạo nhất và có 9 ô."
+    },
+    {
+      "type": "text",
+      "text": "Dù mục $(l:spells/component_pouches)về các loại Component Pouch$() sẽ giải thích chi tiết hơn, sau đây là phần tóm tắt:$(br2)$(li)Thảo mộc đặt trong ô của túi sẽ được tiêu thụ để cung cấp năng lượng cho phép thuật.$(li)$(info) Vì hầu hết phép thuật không cần dùng hết một vật phẩm, phần còn lại sẽ không bị mất mà được lưu trong lớp lót của túi.$(li)Lượng còn lại của một loại thảo mộc cụ thể sẽ hiển thị dưới dạng số thập phân ở góc dưới bên trái màn hình sau khi thảo mộc được tiêu thụ."
+    },
+    {
+      "type": "text",
+      "title": "Chi phí phép thuật",
+      "text": "Chi phí dùng phép được hiển thị dưới dạng số thập phân với ba chữ số sau dấu phẩy, ví dụ: Wildroot x0.250.$(br2)$(info) Chi phí được trừ mỗi khi thi triển phép trực tiếp; với phép niệm liên tục, một phần chi phí sẽ được trừ sau mỗi tick niệm phép.$(br2)Chi phí dùng phép có thể gồm một hoặc nhiều loại thảo mộc, và có thể chứa"
+    },
+    {
+      "type": "text",
+      "text": "thêm thảo mộc và hệ số nhân khi áp dụng modifier.$(br2)Như đã đề cập, tổng lượng thảo mộc của bạn sẽ hiện ở góc dưới bên trái màn hình mỗi khi thảo mộc bị lấy khỏi túi.$(br2)"
+    },
+    {
+      "type": "text",
+      "title": "Spell Dust",
+      "text": "Spell Dust được tạo bằng cách cho các nguyên liệu liệt kê trong mục tương ứng vào $(l:crafting/mortar_and_pestle)Mortar$() rồi nghiền bằng Pestle.$(br2)Spell Dust này chứa thông tin thô cần thiết cho $(l:spells/library)Spell Library$() và có thể được truyền vào thư viện bằng $(l:crafting/gramary)Gramary$().$(br2)$(warning) Không thể truyền trực tiếp Spell Dust vào Staff."
+    },
+    {
+      "type": "text",
+      "title": "Truyền phép",
+      "anchor": "imbuing",
+      "text": "Quá trình kích hoạt Spell Dust và dẫn nó vào $(l:spells/library)Spell Library$() cần cả $(l:crafting/imbuer)Imbuer$() lẫn $(l:crafting/gramary)Gramary$().$(br2)Để thực hiện, hãy đặt Gramary và Spell Dust lên Imbuer. Một thông báo sẽ cho biết phép nào đã được thêm vào thư viện của bạn.$(br2)$(info) Các công dụng khác của Imbuer ngoài phép thuật được giải thích trong $(l:crafting/imbuer)mục Imbuer$()."
+    },
+    {
+      "type": "text",
+      "text": "$(info) Sau khi phép được truyền, nó sẽ xuất hiện trong $(l:spells/library)Spell Library$(); bạn có thể dùng ngay giao diện để thêm phép vào Staff.$(br2)$(info) Khác với các công dụng khác của $(l:crafting/imbuer)Imbuer$(), Gramary sẽ vẫn nằm bên trong sau khi quá trình hoàn tất. Chỉ cần nhấp chuột phải vào Imbuer để lấy nó ra."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/introduction2",
+        "spells/library",
+        "spells/modifiers",
+        "crafting/gramary",
+        "crafting/staff",
+        "crafting/imbuer"
+      ]
+    }
+  ]
+}

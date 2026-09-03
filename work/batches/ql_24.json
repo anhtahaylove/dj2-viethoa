@@ -1,0 +1,185 @@
+{
+  "chapter_index": 24,
+  "title_key": "dj2.quest.ql.24.title",
+  "chapter_title_en": "30. Mysteries",
+  "desc_key": "dj2.quest.ql.24.desc",
+  "chapter_desc_en": "ᛤᚢ, ᚠᛞᚣ ᚢᛤᛝᚼ ᛤᛗᛗᛉᛝᚼᚥ, ᚭᛞᛗᚨᛤᚸ!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.24.title",
+      "en": "30. Mysteries"
+    },
+    {
+      "key": "dj2.quest.ql.24.desc",
+      "en": "ᛤᚢ, ᚠᛞᚣ ᚢᛤᛝᚼ ᛤᛗᛗᛉᛝᚼᚥ, ᚭᛞᛗᚨᛤᚸ!"
+    },
+    {
+      "key": "dj2.quest.db.791.title",
+      "en": "§lᚨᚢᚼ ᛋᛞᚥᚼ"
+    },
+    {
+      "key": "dj2.quest.db.791.desc",
+      "en": "§lᛊᛞ, ᚠᛞᚣ'ᛝᚼ ᚭᚼᚨ ᚣᛈ ᛪᛉᚨᚢ ᚥᛗ. ᚦᚸᛉᚨᚨᚼᛗᛊᛋᛗᛞᛪ... ᚨᚢᛤᚨ ᛋᛗᛤᚴᚠ ᛞᚸᚥ ᚮᛞᛞᚸ. ᚢᚼ ᛪᛤᛊ ᚨᚢᚼ ᛞᛣᚸᚠ ᛞᛣᚼ ᚨᚢᛤᚨ ᛋᛞᚣᚸᚥ ᚼᛝᚼᛗ ᛋᛞᚭᚼ ᛋᚸᛞᛊᚼ ᚨᛞ ᛊᚨᛞᛈᛈᛉᛣᚬ ᚭᚼ...! ᛉ ᛇᛣᛞᛪ ᛪᚢᛤᚨ ᚢᚼ ᚨᛞᚸᚥ ᚠᛞᚣ... ᚥᛞᛣ'ᚨ ᚦᚼᚸᛉᚼᛝᚼ ᚢᛉᚭ, ᚢᚼ'ᛊ ᛋᛗᛤᚴᚠ...! ᚨᚢᚼᛗᚼ ᛉᛊ ᛤ ᚭᚼᛤᛣᛉᛣᚬ ᛞᚣᚨ ᚨᚢᚼᛗᚼ - ᛤ ᚭᚼᛤᛣᛉᛣᚬ ᚮᛞᛗ ᛤᚸᚸ ᚠᛞᚣᛗ ᚸᛉᛝᚼᛊ, ᚭᛞᛗᚨᛤᚸᛊ! ᛤᛣᚥ ᛉ ᛋᛤᛣ ᛊᚢᛞᛪ ᚠᛞᚣ ᚨᚢᛤᚨ ᚭᚼᛤᛣᛉᛣᚬ... ᚦᚣᚨ ᚮᛉᛗᛊᚨ, ᚠᛞᚣ'ᚸᚸ ᚢᛤᛝᚼ ᚨᛞ ᚼᛤᛗᛣ ᚭᚠ ᚨᛗᚣᛊᚨ. ᚨᚼᚸᚸ ᚭᚼ, ᛪᚢᛤᚨ ᛉᛊ ᚭᚠ ᛣᛤᚭᚼ?%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⣿%n⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⣀⣾⣿⠀⠀⠀⠀⣿⡇⠀⠀⢠⣿⡿⠿⣿⡄⠀⠀⣿⡇⠀⠀⠰⠿⠿⣿⣧⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠸⠋⢹⣿⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⢀⣴⡿⠃⠀⠀⣿⡇⠀⠀⠀⠀⠿⢿⣅⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⣿⡇⠀⠀⢀⣾⣿⣋⣀⡀⠀⠀⣿⡇⠀⠀⢶⣶⣀⣸⡿⠃⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⣿⡇⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⣿⡇⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⣿⣿%n⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⣿%n⣿⡇⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⣿⡇⠀⠀⠀⣀⣀⣀⣀⠀⠀⠀⣿⡇⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⢀⣾⣿⡇⠀⠀⠀⣿⡇⠀⠀⢸⣿⢛⣛⠛⠀⠀⠀⣿⡇⠀⠀⣾⡿⠛⡿⠇⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⣴⣿⣁⣿⣇⡀⠀⠀⣿⡇⠀⠀⠸⠿⠛⢻⣿⡀⠀⠀⣿⡇⠀⠀⣿⡿⠿⢿⣧⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠛⠛⠛⣿⡟⠃⠀⠀⣿⡇⠀⠀⠻⣷⣤⣾⡿⠀⠀⠀⣿⡇⠀⠀⠿⣷⣤⣾⠟⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿%n⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⣿⣿%n⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠿⠿⠿⣿⡿⠃⠀⠀⣿⡇⠀⠀⢰⣿⠿⢿⣷⠀⠀⠀⣿⡇⠀⠀⣼⡿⠛⢿⣷⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⣿⡇⠀⠀⢈⣿⠿⢿⣏⠀⠀⠀⣿⡇⠀⠀⠻⢿⡶⢿⣿⠇⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⢸⣿⠁⠀⠀⠀⠀⣿⡇⠀⠀⢿⣿⣀⣼⣿⠃⠀⠀⣿⡇⠀⠀⠰⣿⣤⣾⠿⠀⠀⠀⣿⣿%n⣿⡇⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿%n⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿"
+    },
+    {
+      "key": "dj2.quest.db.792.title",
+      "en": "§lᚨᚢᚼ ᛊᚼᛋᛞᛣᚥ ᚨᚼᛊᚨ"
+    },
+    {
+      "key": "dj2.quest.db.792.desc",
+      "en": "§lᚠᛞᚣ'ᛝᚼ ᛈᛤᛊᛊᚼᚥ ᚨᚢᚼ ᚮᛉᛗᛊᚨ ᚨᚼᛊᚨ... ᚨᚢᛤᚨ ᛪᛤᛊ ᚼᛤᛊᚠ, ᛪᛤᛊᛣ'ᚨ ᛉᚨ. ᛊᛞ ᚠᛞᚣ'ᚸᚸ ᚢᛤᛝᚼ ᚨᛞ ᚥᛞ ᚦᚼᚨᚨᚼᛗ ᚨᚢᛤᛣ ᚨᚢᛤᚨ! ᚨᚼᚸᚸ ᚭᚼ, ᛪᚢᛤᚨ ᛉᛊ ᚭᚠ ᚮᛤᛝᛞᛗᛉᚨᚼ ᛊᚣᚦᛊᚨᛤᛣᛋᚼ?"
+    },
+    {
+      "key": "dj2.quest.db.793.title",
+      "en": "§lᚨᚢᚼ ᚨᚢᛉᛗᚥ ᚨᚼᛊᚨ"
+    },
+    {
+      "key": "dj2.quest.db.793.desc",
+      "en": "§lᛝᚼᛗᚠ ᛋᚸᚼᛝᚼᛗ... ᚠᛞᚣ'ᛝᚼ ᛤᚸᚭᛞᛊᚨ ᚼᛤᛗᛣᚼᚥ ᚭᚠ ᚨᛗᚣᛊᚨ. ᚠᛞᚣᛗ ᛣᚼᛥᚨ ᚨᛤᛊᛇ ᛉᛊ ᚨᛞ ᚮᛉᚬᚣᛗᚼ ᛞᚣᚨ ᛪᚢᛤᚨ ᚭᚠ ᚮᛤᛝᛞᛗᛉᚨᚼ ᛣᚣᚭᚦᚼᛗ ᛉᛊ!"
+    },
+    {
+      "key": "dj2.quest.db.794.title",
+      "en": "§lᚨᚢᚼ ᚮᛞᚣᛗᚨᚢ ᚨᚼᛊᚨ"
+    },
+    {
+      "key": "dj2.quest.db.794.desc",
+      "en": "§lᚨᚢᛉᛊ ᛉᛊ ᚭᚠ ᚭᛞᛊᚨ ᚥᛉᚮᚮᛉᛋᚣᚸᚨ ᚨᛤᛊᛇ ᛊᛞ ᚮᛤᛗ. ᚠᛞᚣ'ᚸᚸ ᚮᛉᛣᚥ ᚨᚢᚼ ᛤᛣᛊᛪᚼᛗᛊ ᛪᚢᛉᚸᚼ ᛗᚼᛤᚥᛉᛣᚬ ᛤᚦᛞᚣᚨ ᚨᚢᛤᚨ ᛞᚸᚥ ᚮᛞᛞᚸ'ᛊ ᛗᛤᚭᚦᚸᚼ ᛤᚦᛞᚣᚨ ᚨᚢᚼ ᛈᛉᚸᚸᛤᛗᛊ ᛞᚮ ᛋᛗᚼᛤᚨᛉᛞᛣ...%n%nᚠᛞᚣᚨᚣᚦᚼ.ᛋᛞᚭ/ᛪᛤᚨᛋᚢ?ᛝ=█████_█████"
+    },
+    {
+      "key": "dj2.quest.db.795.title",
+      "en": "ᚨᚢᚼ ᚨᛗᚣᚨᚢ"
+    },
+    {
+      "key": "dj2.quest.db.795.desc",
+      "en": "ᛝᚼᛗᚠ ᚬᛞᛞᚥ, ᚭᚠ ᛊᛤᛋᛗᛉ.... ᛉ ᚭᚼᛤᛣ ᛈᚣᛈᛉᚸ. ᛣᛞᛪ ᚠᛞᚣ'ᛗᚼ ᛗᚼᛤᚥᚠ ᚨᛞ ᚸᚼᛤᛗᛣ ᚨᚢᚼ ᚨᛗᚣᚨᚢ!%n%nᛇᚼᚠ ᚨᛞ ᛉᛣᚮᛉᛣᛉᚨᚠ | ᚦᛗᛉᚬᚢᚨᚼᛊᚨ ᚨᛞᛇᚼᛣ | ᛇᚼᚠ ᚨᛞ ᛉᛣᚮᛉᛣᛉᚨᚠ%n ᚦᛗᛉᚬᚢᚨᚼᛗ ᚨᛞᛇᚼᛣ |   ᚭᚼᚥᛉᚣᚭ ᚨᛞᛇᚼᛣ | ᚥᛤᛗᛇᚼᛗ ᚨᛞᛇᚼᛣ%nᛇᚼᚠ ᚨᛞ ᛉᛣᚮᛉᛣᛉᚨᚠ |  ᚥᛤᛗᛇᚼᛊᚨ ᚨᛞᛇᚼᛣ | ᛇᚼᚠ ᚨᛞ ᛉᛣᚮᛉᛣᛉᚨᚠ"
+    },
+    {
+      "key": "dj2.quest.db.796.title",
+      "en": "Infinite Infinity"
+    },
+    {
+      "key": "dj2.quest.db.796.desc",
+      "en": "While not truly infinite, you'll need a lot of Infinity Ingots. Get to work!%n%nThe best way to speed up its production is to use multiple Creative Chests pumping into the Quantum Compressors from all sides with fully upgraded Transfer Nodes (64 Ultimate Speed Upgrades and a stack upgrade in each), and using a LOT of Dark Matter Pedestals with Watches of Flowing Time on each. Don't forget to activate the Pedestals after placing the item on top with a Right Click. You'll hear a sound when it's activated."
+    },
+    {
+      "key": "dj2.quest.db.797.title",
+      "en": "The Essence of Creativity"
+    },
+    {
+      "key": "dj2.quest.db.797.desc",
+      "en": "Just looking at it allows you to imagine all the stories that could ever be written, all the paintings that could ever be painted, and all the music that could ever be composed."
+    },
+    {
+      "key": "dj2.quest.db.798.title",
+      "en": "Creative Drawers"
+    },
+    {
+      "key": "dj2.quest.db.798.desc",
+      "en": "Craft a Creative Vending Upgrade! Putting this onto a Drawer turns it into a creative item source."
+    },
+    {
+      "key": "dj2.quest.db.799.title",
+      "en": "Singularity^2"
+    },
+    {
+      "key": "dj2.quest.db.799.desc",
+      "en": "With infinite items you have the chance to make a Singularity out of Singularities...%n%nI wonder how dense it is at its core.%n%nThe best way to speed up its production is to use multiple Creative Chests pumping into the Quantum Compressors from all sides with fully upgraded Transfer Nodes (64 Ultimate Speed Upgrades and a stack upgrade in each), and using a LOT of Dark Matter Pedestals with Watches of Flowing Time on each. Don't forget to activate the Pedestals after placing the item on top with a Right Click. You'll hear a sound when it's activated."
+    },
+    {
+      "key": "dj2.quest.db.800.title",
+      "en": "I've never Bin so close..."
+    },
+    {
+      "key": "dj2.quest.db.800.desc",
+      "en": "Craft a Creative Bin, which is another creative item source.%n%n(I'm sensing a pattern here.)"
+    },
+    {
+      "key": "dj2.quest.db.801.title",
+      "en": "Infinite Backpack"
+    },
+    {
+      "key": "dj2.quest.db.801.desc",
+      "en": "Craft a Creative Satchel!%n%nIt's a magician's dream: infinite bunnies to pull out!"
+    },
+    {
+      "key": "dj2.quest.db.802.title",
+      "en": "Conversion to the max"
+    },
+    {
+      "key": "dj2.quest.db.802.desc",
+      "en": "Craft a Creative Conversion Kit! It allows you to convert any Thermal Expansion container into its creative variant!%n%n§6Note:§r If you're playing on a public server, you won't be able to break or pick up any Thermal Expansion Creative machine obtained from the Creative Conversion Kit, unless you're OP'ped - then you can use a Cresent Hammer. So make sure to place them in all in a desired spot!%nHowever this doesn't affect Singleplayer mode or small private servers, as you'll be able to pick up any Creative Thermal machine with a Crescent Hammer regardless."
+    },
+    {
+      "key": "dj2.quest.db.803.title",
+      "en": "This is how kids movies are made"
+    },
+    {
+      "key": "dj2.quest.db.803.desc",
+      "en": "The Wand of Animation is a Wand-erous tool that lets you turn any block alive... Not that you §oneed§r to do that, but it's fun!"
+    },
+    {
+      "key": "dj2.quest.db.804.title",
+      "en": "Infinite everything"
+    },
+    {
+      "key": "dj2.quest.db.804.desc",
+      "en": "Craft a Creative ME Storage Cell! When configured in a Cell Workbench, it'll provide infinite of any item you specified."
+    },
+    {
+      "key": "dj2.quest.db.805.title",
+      "en": "ᛊᚣᚭᚭᛞᛣᛉᛣᚬ ᛉᚭᚭᛞᛗᚨᚣᛊ"
+    },
+    {
+      "key": "dj2.quest.db.805.desc",
+      "en": "ᛊᚢᛞᛪ ᚭᚼ ᛪᚢᛤᚨ ᚠᛞᚣ ᚬᛞᚨ, ᚭᛞᛗᚨᛤᚸ!%n"
+    },
+    {
+      "key": "dj2.quest.db.806.title",
+      "en": "The Fall of Evil"
+    },
+    {
+      "key": "dj2.quest.db.806.desc",
+      "en": "Show Immortus who's in control of this world!%n%nThe power of Infinity is yours with the Sword of the Cosmos."
+    },
+    {
+      "key": "dj2.quest.db.807.title",
+      "en": "Infinite Creativity"
+    },
+    {
+      "key": "dj2.quest.db.807.desc",
+      "en": "Compress your Creativity into a Singularity in your pocket.%n%nᚮᛞᚣᛣᚥ ᛤ ᛈᚣᚴᚴᚸᚼ? ᚭᛤᚠᚦᚼ ᛉ ᛋᛤᛣ ᚢᚼᚸᛈ ᛪᛉᚨᚢ ᚨᚢᛤᚨ..."
+    },
+    {
+      "key": "dj2.quest.db.808.title",
+      "en": "Reversing Evil"
+    },
+    {
+      "key": "dj2.quest.db.808.desc",
+      "en": "Maybe there is a way to reverse the power of this evil...%n%nBy combining the Call of the Underworld with one of the Essences I created earlier, it should be possible to negate its energy..."
+    },
+    {
+      "key": "dj2.quest.db.809.title",
+      "en": "The Actual Truth"
+    },
+    {
+      "key": "dj2.quest.db.809.desc",
+      "en": "It worked! I seem to be able to cleanse the Corrupted Key to Infinity with this item..."
+    },
+    {
+      "key": "dj2.quest.db.813.title",
+      "en": "Puzzling"
+    },
+    {
+      "key": "dj2.quest.db.813.desc",
+      "en": "Craft a Jigsaw Puzzle Crafting Table! Guess what it'll be used for..."
+    },
+    {
+      "key": "dj2.quest.db.814.title",
+      "en": "§lᚨᚢᚼ ᚮᛉᛣᛤᚸ ᚨᚼᛊᚨ"
+    },
+    {
+      "key": "dj2.quest.db.814.desc",
+      "en": "§lᛪᚼᚸᛋᛞᚭᚼ, ᚨᛞ ᚨᚢᚼ ᚮᛉᛣᛤᚸ ᚨᚼᛊᚨ. ᚨᚢᛉᛊ ᛞᛣᚼ ᛉᛊ ᛤ ᚥᚼᛋᚼᛈᚨᛉᛝᚼᚸᚠ ᛊᛉᚭᛈᚸᚼ ᛞᛣᚼ. ᛪᚢᛤᚨ ᛈᛤᛋᛇ ᛤᛗᚼ ᚠᛞᚣ ᛈᚸᛤᚠᛉᛣᚬ?%n%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███"
+    }
+  ]
+}

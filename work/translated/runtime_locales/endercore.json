@@ -1,0 +1,22 @@
+{
+  "enchantment.endercore.xpboost.desc": "Nhận thêm XP từ mob và block.",
+  "enchantment.endercore.autosmelt.desc": "Tự động nung chảy mọi thứ đào được hoặc do mob rơi ra, như thể được nung trong lò.",
+  "endercore.tooltip.oreDictNames": "Tên Ore Dictionary:",
+  "endercore.tooltip.durability": "Độ bền:",
+  "endercore.chat.invis.warn.1": "EnderCore hiện đang ở %1$schế độ ẩn%2$s %3$s.",
+  "endercore.chat.invis.reason.1": "theo yêu cầu của mod: %s",
+  "endercore.celebrate": "Chúc Mừng Năm Mới!",
+  "endercore.chat.invis.reason.2": "theo cấu hình",
+  "endercore.chat.invis.warn.2": "Điều này có nghĩa là %1$skhông có thay đổi lối chơi nào được kích hoạt%2$s.",
+  "endercore.chat.invis.warn.3": "Bạn có thể ghi đè điều này trong cấu hình.",
+  "endercore.chat.invis.warn.4": "Cảnh báo này chỉ hiện một lần trừ khi được cấu hình khác đi.",
+  "endercore.command.config.result.fail": "Tải lại cấu hình cho %s thất bại",
+  "endercore.command.config.result.invalid": "Modid %s không hợp lệ",
+  "endercore.command.config.result.success": "Tải lại cấu hình cho %s thành công",
+  "endercore.config.title": "Ender Core",
+  "endercore.enchantment.autosmelt.tooltip": "Tự động nung chảy bất kỳ thứ gì được khai thác",
+  "endercore.enchantment.xpboost.tooltip": "Thêm XP từ quái vật và khối",
+  "endercore.resourcepack.readme": "Đây là file thực sự được dùng cho tài nguyên trong game. ",
+  "endercore.resourcepack.readme2": "Đừng chỉnh sửa file này, nó sẽ được mod tạo/xoá tự động.",
+  "endercore.tooltip.showDetails": "<Giữ Shift>"
+}

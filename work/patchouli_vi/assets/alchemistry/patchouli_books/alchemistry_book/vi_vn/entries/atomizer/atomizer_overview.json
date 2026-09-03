@@ -1,0 +1,15 @@
+{
+  "name": "Tổng quan về Atomizer",
+  "icon": "alchemistry:atomizer",
+  "category": "atomizer_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Atomizer là một cỗ máy dùng năng lượng để chuyển đổi chất lỏng thành nguyên tố hoặc hợp chất Alchemistry tương ứng"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:atomizer"
+    }
+  ]
+}

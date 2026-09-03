@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "modularmachinery-1.12.2-1.10.0.jar",
+      "path": "assets/modularmachinery/lang/en_US.lang"
+    }
+  ]
+}

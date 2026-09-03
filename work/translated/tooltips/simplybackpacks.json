@@ -1,0 +1,10 @@
+{
+  "item.simplybackpacks.commonbackpack.info": "Chiếc backpack đơn giản nhất.",
+  "item.simplybackpacks.commonbackpack.info2": "§fChứa 18 Stack§r",
+  "item.simplybackpacks.epicbackpack.info": "Chiếc backpack tối thượng.",
+  "item.simplybackpacks.epicbackpack.info2": "§dChứa 99 Stack§r",
+  "item.simplybackpacks.rarebackpack.info": "Một chiếc backpack khá tốt.",
+  "item.simplybackpacks.rarebackpack.info2": "§bChứa 66 Stack§r",
+  "item.simplybackpacks.uncommonbackpack.info": "Một chiếc backpack nhỉnh hơn một chút.",
+  "item.simplybackpacks.uncommonbackpack.info2": "§eChứa 33 Stack§r"
+}

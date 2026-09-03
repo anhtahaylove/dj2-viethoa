@@ -1,0 +1,789 @@
+{
+ "rows": [
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.button.colour",
+   "en": "Colour Config"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.button.render",
+   "en": "Render options"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.cable_node_colour32",
+   "en": "Dense Cable Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.cable_node_colour8",
+   "en": "Cable Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.enable_cable_connections",
+   "en": "Show Cable Connections"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.enable_cable_nodes",
+   "en": "Show Cable Nodes"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.enable_chanel_labels",
+   "en": "Show Channel Labels"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.enable_machine_nodes",
+   "en": "Show Machine Nodes"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.enable_p2p",
+   "en": "Show P2P Links"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.highlight_inactive_buses",
+   "en": "Highlight Inactive Buses"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.machine_node_colour32",
+   "en": "Adv Machine Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.machine_node_colour8",
+   "en": "Basic Machine Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_0",
+   "en": "ME P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_1",
+   "en": "Item P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_2",
+   "en": "Redstone P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_3",
+   "en": "EU P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_4",
+   "en": "FE P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_5",
+   "en": "Fluid P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.p2p_colour_6",
+   "en": "Light P2P Colour"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.rand_p2p_colour_offset",
+   "en": "P2P Colour Offsets"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.rand_p2p_colours",
+   "en": "Random P2P Colours"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.render_no_depth",
+   "en": "Render Nodes Though Blocks"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.render_p2p_no_depth",
+   "en": "Render P2P Though Blocks"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.cfg.small_chanel_labels",
+   "en": "Small Channel Labels"
+  },
+  {
+   "namespace": "aenetvistool",
+   "key": "gui.netvistool.title",
+   "en": "Advanced Network Visualization Tool"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.button.close",
+   "en": "Close"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.button.copyList",
+   "en": "Copy"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.button.sortingMode.count",
+   "en": "Count ↓"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.button.sortingMode.countReversed",
+   "en": "Count ↑"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.button.sortingMode.name",
+   "en": "Name ↓"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.button.sortingMode.nameReversed",
+   "en": "Name ↑"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "gui.buildinggadgets.materialList.title",
+   "en": "Material List"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "help.gui.buildinggadgets.button.help.enter",
+   "en": "Show hovering help text"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "help.gui.buildinggadgets.button.help.exit",
+   "en": "Exit help mode"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.anchor",
+   "en": "Anchor"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.categories.buildingGadgets",
+   "en": "Building Gadgets"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.connected_area",
+   "en": "Connected Area"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.fuzzy",
+   "en": "Fuzzy"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.material_list",
+   "en": "Material List"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.range",
+   "en": "Range / Overlay"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.rotate_mirror",
+   "en": "Rotate / Mirror"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.settings_menu",
+   "en": "Settings Menu"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "key": "key.undo",
+   "en": "Undo"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.cancel",
+   "en": "Cancel"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.close",
+   "en": "Close"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.close_style_editor",
+   "en": "Close Style Editor"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.copy_hex_value",
+   "en": "Copy Hex Value"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.copy_to_clipboard",
+   "en": "Copy to Clipboard"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.copy_value",
+   "en": "Copy Value"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.darken",
+   "en": "Darken Colour"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.delete",
+   "en": "Delete"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.deny_access",
+   "en": "Deny Access"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.go_back",
+   "en": "Go Back"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.go_forward",
+   "en": "Go Forward"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.lighten",
+   "en": "Lighten Colour"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.more_information",
+   "en": "More Info"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.next",
+   "en": "Next"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.next_page",
+   "en": "Next Page"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.next_style",
+   "en": "Next Style"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.open_style_editor",
+   "en": "Open Style Editor"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.paste_hex_value",
+   "en": "Paste Hex Value"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.paste_value",
+   "en": "Paste Value"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.prev_page",
+   "en": "Previous Page"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.previous",
+   "en": "Previous"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.save",
+   "en": "Save"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.search_settings",
+   "en": "Search Mode"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.skip",
+   "en": "Skip"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.button.yes",
+   "en": "Yes"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.gui.navigation.title",
+   "en": "Navigation"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.gui.project_intelligence.title",
+   "en": "Project Intelligence"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.style.button_style.prop",
+   "en": "Button Style"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "gui.back.page",
+   "en": "Back §7(%s)"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "gui.tweakStructures.generate",
+   "en": "Gen"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.add",
+   "en": "Add"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.apply",
+   "en": "Apply"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.biomes",
+   "en": "Biomes"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.block",
+   "en": "Block"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.blockpos",
+   "en": "Position"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.blockpos.shift",
+   "en": "Shift"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.blockpos.x",
+   "en": "x"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.blockpos.y",
+   "en": "y"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.blockpos.z",
+   "en": "z"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.blocks",
+   "en": "Blocks"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.command",
+   "en": "Command"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.custom",
+   "en": "Custom"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.customize",
+   "en": "Customize"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.destination",
+   "en": "Destination"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.destinations",
+   "en": "Destinations"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.dimensions",
+   "en": "Dimensions"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.earlier",
+   "en": "Earlier"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.edit",
+   "en": "Edit"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.environment",
+   "en": "Environment"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.false",
+   "en": "False"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.hidegui",
+   "en": "Hide GUI"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.componentid",
+   "en": "Component ID"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.groupid",
+   "en": "Group ID"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.items.summary",
+   "en": "%s Items"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.minMax",
+   "en": "Min: %s, Max: %s"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.multi.count",
+   "en": "Item Count"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.range",
+   "en": "Min - Max"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.single.chance",
+   "en": "Item Chance"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.inventorygen.weightNumber",
+   "en": "Weight: %s"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.later",
+   "en": "Later"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.list.noelements",
+   "en": "No Elements"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.metadata",
+   "en": "Metadata"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.random.weight",
+   "en": "Weight"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.random.weight.custom.short",
+   "en": "C"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.randomize",
+   "en": "Randomize"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.remove",
+   "en": "Remove"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.reset",
+   "en": "Reset"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.save",
+   "en": "Save"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.source",
+   "en": "Source"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.sources",
+   "en": "Sources"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.surfacepos",
+   "en": "Position"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.surfacepos.x",
+   "en": "x"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.surfacepos.z",
+   "en": "z"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.true",
+   "en": "True"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.gui.visualizegui",
+   "en": "Visualize"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.HUDOffsetX",
+   "en": "HUD Offset - X"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.HUDOffsetY",
+   "en": "HUD Offset - Y"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.HUDScale",
+   "en": "HUD Scale"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.HUDTextColor",
+   "en": "HUD Text Color"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.enableEnergyHUD",
+   "en": "Enable Energy HUD"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.enableStateHUD",
+   "en": "Enable State HUD"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.enableStateMessages",
+   "en": "Enable State Messages"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.holdShiftForDetails",
+   "en": "Hold Shift for Details"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.hudPosition",
+   "en": "HUD Position"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.minimalEnergyHUD",
+   "en": "Minimal Energy HUD"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.showExactEnergyInHUD",
+   "en": "Exact Energy HUD"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "config.simplyjetpacks.gui.showHUDWhileChatting",
+   "en": "Show HUD While Chatting"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.button.toggleCharger",
+   "en": "Toggle Charger"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.button.toggleEHover",
+   "en": "Toggle Emergency Hover Mode"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.button.toggleEngine",
+   "en": "Toggle Engine"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.button.toggleHover",
+   "en": "Toggle Hover Mode"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.energy.depleted",
+   "en": "Depleted"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.fluxpack.energy",
+   "en": "Fluxpack Energy"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.jetpack.energy",
+   "en": "Jetpack Energy"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.state.charger",
+   "en": "Charger"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.state.eHover",
+   "en": "Emergency Hover"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.state.engine",
+   "en": "Engine"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "gui.simplyjetpacks.hud.state.hover",
+   "en": "Hover"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.back",
+   "en": "Back"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.cancel",
+   "en": "Cancel"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.configureaspect",
+   "en": "Configure aspect..."
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.configureformat",
+   "en": "Format content..."
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.default",
+   "en": "Default"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.exporttheme",
+   "en": "Export theme"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.hidden",
+   "en": "Hidden"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.maintained",
+   "en": "Maintained"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.modules",
+   "en": "Modules"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.no",
+   "en": "No"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.ok",
+   "en": "Ok"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.toggled",
+   "en": "Toggled"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.visible",
+   "en": "Visible"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.waila",
+   "en": "Waila"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.button.yes",
+   "en": "Yes"
+  },
+  {
+   "namespace": "waila",
+   "key": "screen.label.scale",
+   "en": "Scale"
+  }
+ ]
+}

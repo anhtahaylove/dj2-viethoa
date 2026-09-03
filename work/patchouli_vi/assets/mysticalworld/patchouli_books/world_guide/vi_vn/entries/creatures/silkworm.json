@@ -1,0 +1,27 @@
+{
+  "name": "Silkworm",
+  "icon": "mysticalworld:silk_cocoon",
+  "category": "creatures",
+  "flag": "roots:silkworm",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:silkworm_egg",
+      "text": "Chúng sẽ lớn dần theo thời gian và tạo ra $(l:items/silk_cocoon)cocoons$().$(br2)Chúng không xuất hiện ở quần xã cụ thể nào và cũng không thể sinh sản, nhưng bạn có thể cho chúng nở từ trứng. Xem trang sau để biết nơi trứng rơi ra."
+    },
+    {
+      "type": "entity",
+      "name": "Silkworm",
+      "entity": "mysticalworld:entity_silkworm",
+      "scale": 1.5,
+      "offset": -0.3,
+      "text": "Bạn có thể nhấp chuột phải để cho chúng ăn lá, giúp đẩy nhanh quá trình."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:leaves",
+      "flag": "roots:silkworm_leaves",
+      "text": "Cho Silkworm ăn lá sẽ tăng số lượng Silk Cocoon rơi ra và đẩy nhanh quá trình.$(br2)Silkworm không xuất hiện tự nhiên và cũng không thể sinh sản, nhưng có thể nở từ trứng (với một tỉ lệ thành công nhất định).$(br2)Bạn có thể tìm thấy trứng bằng cách phá lá, tương tự như khi tìm sapling."
+    }
+  ]
+}

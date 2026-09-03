@@ -1,0 +1,19 @@
+{
+  "tool": "longsword",
+  "text": [
+    {
+      "text": "Longsword là vũ khí tấn công, thường dùng để lao vào trận chiến với tốc độ tối đa. Nó chậm hơn Broadsword nhưng tăng sát thương tốt hơn."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Giữ chuột phải để tích lực lao tới, cho phép bạn thực hiện một cú nhảy ngắn."
+    }
+  ],
+  "properties": [
+    "Above average damage but slower",
+    "Rightclick: Lunge",
+    "No offhand"
+  ]
+}

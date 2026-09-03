@@ -1,0 +1,25 @@
+{
+  "name": "Aubergine",
+  "icon": "mysticalworld:aubergine",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:cooked_aubergine",
+      "text": "Có thể thu hoạch Aubergine từ $(l:crops/aubergine)cây Aubergine trưởng thành$() và sử dụng theo nhiều cách."
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:aubergine",
+      "title": "Cooked Aubergine",
+      "text": "Sau khi nấu chín và loại bỏ hạt, có thể thêm các nguyên liệu khác vào Aubergine để món ăn càng ngon hơn!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:stuffed_aubergine",
+      "title": "Stuffed Aubergine",
+      "text": "Một món chay tuyệt hảo, kết hợp Aubergine với Beetroot, Carrot và Potato để tạo nên một bữa ăn thực sự thịnh soạn!"
+    }
+  ]
+}

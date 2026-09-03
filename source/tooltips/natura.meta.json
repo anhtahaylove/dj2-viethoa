@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "natura-legacy-1.12.2-4.4.1.jar",
+      "path": "assets/natura/lang/en_us.lang"
+    }
+  ]
+}

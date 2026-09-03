@@ -1,0 +1,32 @@
+{
+  "name": "Chrysopoeia",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_chrysopoeia\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_chrysopoeia",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này chuyển hóa vật phẩm thành vật phẩm khác, dù giá trị trao đổi thường không cân xứng.$(br2)Khi thi triển, vật phẩm đang cầm ở tay phụ sẽ được biến đổi theo danh sách công thức. Bạn có thể xem tất cả công thức trong $(uses:roots:chrysopoeia)JEI$().$(br2)$(warning) Phép này không có modifier."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_chrysopoeia"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:chrysopoeia/SECONDS/cooldown) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/infernal_bulb",
+        "herbs/spirit_herb",
+        "herbs/dewgonia"
+      ]
+    }
+  ]
+}

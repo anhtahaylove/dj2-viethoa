@@ -1,0 +1,15 @@
+{
+  "name": "Token of Remedies",
+  "category": "magic_overview",
+  "icon": "bewitchment:token_of_remedies",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một lá bùa có lõi Amethyst. Nó chữa nhiều hiệu ứng trạng thái bất lợi cho người đeo, nhưng tiêu hao năng lượng phép thuật."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/bauble/token_of_remedies"
+    }
+  ]
+}

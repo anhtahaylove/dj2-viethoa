@@ -1,0 +1,43 @@
+{
+  "name": "Giới thiệu về thảo dược",
+  "icon": "minecraft:writable_book",
+  "category": "herbs",
+  "priority": true,
+  "turnin": "roots:all_the_herbs_3",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thảo dược là một phần thiết yếu của Roots. Chúng cần thiết để chế tạo, thực hiện nghi lễ, cũng như tạo và thi triển phép thuật.$(br2)Những thảo dược đầu tiên bạn có thể tìm thấy khi phá dương xỉ và cỏ là: $(l:herbs/terra_moss)terra spores$() và $(l:herbs/wildroot)wildroot$().$(br2)Đây cũng là những nguyên liệu quan trọng trong nhiều công thức và nghi lễ đầu game."
+    },
+    {
+      "type": "text",
+      "title": "Tái tạo",
+      "text": "Bạn có thể dành thời gian phá cỏ để tích trữ nhiều thảo dược này, nhưng vẫn có những cách khác.$(br2)$(l:herbs/terra_moss)Terra Moss$() (thảo dược duy nhất không mọc trên bất kỳ loại đất nào) có thể được $(l:herbs/renewable_resources)tái tạo$() bằng $(l:rituals/ritual_overgrowth)Overgrowth Ritual$().$(br2)Ngoại trừ các thảo dược nguyên tố ($(l:herbs/infernal_bulb)Infernal Bulb$(), $(l:herbs/dewgonia)Dewgonia$(), $(l:herbs/cloud_berry)Cloud Berry$() và $(l:herbs/stalicripe)Stalicripe$()), mọi thảo dược đều có thể trồng như cây mùa vụ trên đất canh tác thông thường."
+    },
+    {
+      "type": "text",
+      "text": "Điều này cung cấp nguồn $(l:herbs/wildroot)wildroot$() có thể $(l:herbs/renewable_resources)tái tạo$() ngay từ đầu game.$(br2)Một số thảo dược như $(l:herbs/spirit_herb)Spirit Herb$(), $(l:herbs/pereskia)Pereskia$() và $(l:herbs/wildewheet)Wildewheet$() phải được chế tạo thành hạt giống (hoặc củ) trước khi có thể trồng lại.$(br2)$(info) Thảo dược nguyên tố phải được trồng trên một trong năm loại đất nguyên tố. Không cần ghép thảo dược với một loại đất nguyên tố cụ thể."
+    },
+    {
+      "type": "text",
+      "title": "Mở khóa thảo dược",
+      "anchor": "pyre",
+      "text": "Khi mới bắt đầu Roots, bạn chưa thể tiếp cận ngay mọi loại thảo dược. Một số cần được tạo bằng công cụ cụ thể, trong khi số khác cần nghi lễ chế tạo trên Pyre.$(br2)Công thức của từng thảo dược được ghi trong mục tương ứng và có thể được chế tạo bao nhiêu lần tùy thích.$(br)$(info) Sau lần chế tạo đầu tiên, trồng thảo dược như cây mùa vụ luôn là lựa chọn đáng giá."
+    },
+    {
+      "type": "quest",
+      "title": "Hoàn thành",
+      "trigger": "roots:all_the_herbs_3",
+      "text": "Để hoàn thành mục này, hãy thu thập mỗi loại thảo dược một cây bằng cách chế tạo trong $(l:crafting/pyre)pyre$(), giao dịch với dân làng hoặc tìm ngoài tự nhiên.$(br2)Tổng cộng có 11 loại và bạn có thể theo dõi chúng bằng tiến trình $(adv:roots:all_the_herbs_3)$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "herbs/renewable_resources",
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

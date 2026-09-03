@@ -1,0 +1,16 @@
+{
+  "name": "Taglock",
+  "category": "gear",
+  "icon": "bewitchment:taglock",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc lọ có thể chứa tinh chất của một sinh vật. Có lời đồn rằng tinh chất này cũng có thể được lấy từ nơi nghỉ ngơi của vật chủ mong muốn..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:bone_needle",
+      "recipe2": "bewitchment:taglock"
+    }
+  ]
+}

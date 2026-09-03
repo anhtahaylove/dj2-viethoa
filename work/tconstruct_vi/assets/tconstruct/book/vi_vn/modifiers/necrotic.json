@@ -1,0 +1,18 @@
+{
+  "modifier": "necrotic",
+  "text": [
+    {
+      "text": "Đặt xương của Wither Skeleton lên công cụ sẽ ban cho nó sức mạnh hút sinh lực tà ác."
+    }
+  ],
+  "effects": [
+    "Heal when dealing damage",
+    "Thêm Bone để tăng lượng hồi phục",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

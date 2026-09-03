@@ -1,0 +1,16 @@
+{
+  "name": "Feuerwurm",
+  "category": "nethers_firstborn",
+  "icon": "bewitchment:adders_fork",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Feuerwurm là loài quỷ cấp thấp có hình dáng giống rắn. Dù địa vị thấp kém hơn những loài quỷ khác, chúng nổi tiếng với cú cắn kinh tởm, thấm đẫm hận thù và rút cạn sinh lực của nạn nhân."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:feuerwurm",
+      "scale": 0.275
+    }
+  ]
+}

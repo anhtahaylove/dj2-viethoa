@@ -1,0 +1,39 @@
+{
+  "name": "Goblins",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:blockchain_goblin\"}}",
+  "category": "entities",
+  "advancement": "twilightforest:alt/entities/goblins",
+  "sortnum": 2100,
+  "pages": [
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/redcap",
+      "entity": "twilightforest:redcap",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/redcap_sapper",
+      "entity": "twilightforest:redcap_sapper",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/goblin_knight",
+      "entity": "twilightforest:goblin_knight_lower{Passengers:[{id:\"twilightforest:goblin_knight_upper\",hasArmor:1b,hasShield:1b}],hasArmor:1b}",
+      "text": "Vì cả thế giới của Upper Goblin luôn đè trên vai Lower Goblin, hắn chưa bao giờ bỏ tập chân."
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/goblin_knight",
+      "entity": "twilightforest:goblin_knight_upper{hasArmor:1b}",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "entity",
+      "advancement": "twilightforest:alt/entities/blockchain_goblin",
+      "entity": "twilightforest:blockchain_goblin",
+      "text": "Block & Chain Goblin sẵn sàng khiến mọi người bay màu bằng tuyệt kỹ công nghệ blockchain mới nhất của mình."
+    }
+  ]
+}

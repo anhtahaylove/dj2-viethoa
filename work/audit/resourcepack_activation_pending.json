@@ -1,0 +1,9 @@
+{
+  "state": "pending-zero-player-activation",
+  "active_expected_sha1": "9bd44317db6ca7cc7ee159c4084fa050048cf020",
+  "disk_property_sha1": "9bd44317db6ca7cc7ee159c4084fa050048cf020",
+  "http_status": 200,
+  "http_bytes": 1498452,
+  "http_sha1": "9bd44317db6ca7cc7ee159c4084fa050048cf020",
+  "new_build_sha1": "a3d6fe3ded9317913d6cf402530ac88ade29993f"
+}

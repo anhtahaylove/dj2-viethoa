@@ -1,0 +1,24 @@
+{
+  "name": "Pereskia",
+  "icon": "roots:pereskia",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:pereskia",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù có quan hệ mật thiết với các fairy, Pereskia bắt nguồn từ thế giới của chúng ta trước khi được đưa sang fey realm.$(br2)Sau khi được tái tạo bằng sức nóng của $(l:crafting/pyres)pyre$(), có thể tách củ ra để giúp nó trở nên $(l:herbs/pereskia#renew)tái tạo được$().$(br2)Thường gắn liền với sự bảo vệ, trật tự và ánh sáng, củ của nó sẽ $(l:resources/roasted_pereskia)thành một món ăn ngon$() khi được nấu chín."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "pereskia"
+    },
+    {
+      "type": "crafting",
+      "title": "Khả năng tái tạo",
+      "recipe": "roots:pereskia_seed",
+      "anchor": "renew",
+      "text": "Việc tách củ khỏi cây Pereskia rất đơn giản. Củ có thể được trồng trên bất kỳ loại đất canh tác nào hỗ trợ cây trồng thông thường.$(br2)Khi trưởng thành, nó nở thành một bông hoa hồng rực rỡ với hương thơm ngọt ngào."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Gathering",
+  "icon": "roots:ritual_gathering",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_gathering",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Vật phẩm nằm rải rác trên mặt đất sẽ được phép thuật thu gom và kéo vào kho đồ liền kề.$(br2)Thao tác này được thực hiện định kỳ trong suốt nghi thức, rất thích hợp để thu gom những thứ thường xuyên rơi ra.$(br2)$(warning) Kho đồ đích có thể nằm ở bất kỳ đâu quanh giàn thiêu, ngoại trừ bên dưới."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_gathering",
+      "text": "Là nghi thức $(l:rituals/tiers)$(bold)bậc 0$(), nghi thức này không có thêm yêu cầu nào để hoàn thành."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "I": "minecraft:torch"
+        },
+        "pattern": [
+          [
+            "III",
+            "III",
+            "III"
+          ],
+          [
+            "III",
+            "I0I",
+            "III"
+          ]
+        ]
+      },
+      "text": "Kho đồ đích có thể được đặt tại bất kỳ vị trí ngọn đuốc nào."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi thức",
+      "text": "$(bold)Thời gian:$() Nghi lễ kéo dài $(ritual:gathering/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Khu vực nghi lễ trải rộng $(ritual:gathering/radius_x) và $(ritual:gathering/radius_z) khối tính từ tâm, cùng $(ritual:gathering/radius_y) khối theo chiều dọc.$(br2)$(bold)Tần suất:$() Vật phẩm được kiểm tra mỗi $(ritual:gathering/SECONDS/interval) giây."
+    }
+  ]
+}

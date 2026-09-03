@@ -1,0 +1,44 @@
+{
+  "name": "Fey Crafter",
+  "icon": "roots:fey_crafter",
+  "category": "crafting",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:fey_crafter",
+      "text": "Fey Crafter được tạo ra để dẫn truyền năng lượng vào quá trình chế tạo những vật phẩm mạnh mẽ.$(br2)$(l:concepts/groves)Lịch sử không ghi lại$() nó được tạo ra trước hay sau $(l:crafting/grove_stone)Grove Stone$(), nhưng nó cần Grove Stone để hoạt động."
+    },
+    {
+      "type": "text",
+      "title": "Grove Stone",
+      "text": "Grove Stone phải được đặt trong phạm vi 10 khối quanh Fey Crafter và cũng phải được kích hoạt bằng $(l:rituals/ritual_grove_supplication)Grove Supplication ritual$().$(br2)Nếu thực hiện đúng các bước này, từng đợt lá sẽ cuộn trào ra từ nó.$(br2)Một số lá sẽ bay về phía các Fey Crafter gần đó.$(br2)Khi phối hợp cùng nhau, chúng có thể chế tạo nên những vật phẩm tuyệt vời."
+    },
+    {
+      "type": "text",
+      "title": "Công thức",
+      "text": "Hầu hết vật phẩm được tạo bằng Fey Crafter đều có mục hướng dẫn trong cuốn sách này, nhưng bạn có thể xem danh sách đầy đủ qua JEI (nếu đã cài đặt).$(br2)Bạn có thể $(uses:roots:fey_crafter)nhấp vào đây để xem danh sách$() vật phẩm.$(br2)$(info) Vật phẩm đầu ra sẽ được đưa vào kho đồ liền kề không nằm trong danh sách đen, hoặc được thả ra thế giới dưới dạng vật phẩm."
+    },
+    {
+      "type": "text",
+      "title": "Tự động hóa",
+      "text": "Bạn có thể dùng dispenser Vanilla có gắn $(l:crafting/knives)Knife$() để kích hoạt quá trình chế tạo, nhưng cách này có một số hạn chế.$(br2)$(info) Bạn không thể tự động đưa nguyên liệu vào Fey Crafter, nhưng có thể làm vậy với $(l:crafting/runic_crafter)Runic Crafter$().$(br2)$(info) Fey Crafter sẽ phát tín hiệu comparator mức 15 nếu đã sẵn sàng chế tạo, nếu không sẽ là 0."
+    },
+    {
+      "type": "text",
+      "title": "Di chuyển",
+      "text": "Có thể di chuyển Fey Crafter mà không cần thực hiện lại $(l:rituals/ritual_grove_supplication)Grove Supplication ritual$().$(br2)$(info) Miễn là Fey Crafter được đặt trong phạm vi 10 khối quanh một Grove Stone đang hoạt động, nó sẽ vận hành bình thường.$(br2)Ngược lại, nếu phá hoặc di chuyển Grove Stone, bạn sẽ phải thực hiện lại nghi lễ."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "concepts/groves",
+        "concepts/the_fey",
+        "crafting/grove_stone",
+        "crafting/runic_crafter",
+        "crafting/introduction",
+        "automation/crafting"
+      ]
+    }
+  ]
+}

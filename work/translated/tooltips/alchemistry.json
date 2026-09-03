@@ -1,0 +1,11 @@
+{
+  "generic_potion_compound.tooltip": "Có hiệu ứng khi sử dụng",
+  "item.alchemistry:fertilizer.tooltip": "Có thể dùng như bonemeal",
+  "item.alchemistry:obsidian_breaker.tooltip": "Nhấp chuột phải vào khối obsidian khi cầm vật phẩm này để khai thác obsidian ngay lập tức. Vật phẩm này sẽ bị tiêu hao.",
+  "item.alchemistry:milk.tooltip": "Tôi chỉ là milk",
+  "item.alchemistry:periodic_diagram.tooltip": "Nhấp chuột phải để mở bảng tuần hoàn toàn màn hình",
+  "tooltip.alchemistry.energy_requirement": "Yêu cầu %d FE/t",
+  "tile.wet_sand.tooltip": "Có thể trồng sugarcane mà không cần khối nước liền kề",
+  "jei.elements.description": "Có thể tạo mọi element (trừ Hydrogen) bằng multiblock Fusion.\\nMultiblock này nhận 2 element làm đầu vào và hợp nhất chúng để tạo ra element mới có số hiệu nguyên tử bằng tổng số hiệu nguyên tử của chúng.\"",
+  "tile.evaporator.tooltip": "Hoạt động chậm hơn 50% ở các quần xã không khô hạn"
+}

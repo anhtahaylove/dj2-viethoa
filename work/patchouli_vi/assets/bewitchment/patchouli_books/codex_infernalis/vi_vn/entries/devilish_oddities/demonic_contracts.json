@@ -1,0 +1,47 @@
+{
+  "name": "Demonic Contracts",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:contract",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nhiều quỷ dữ đề nghị ký hợp đồng với người phàm, và những hợp đồng ấy thường phải được ký bằng máu… Hoàn thành một giao kèo báng bổ như vậy sẽ khiến bên thứ hai trao sức mạnh địa ngục cho bên thứ nhất. Danh vọng, của cải, bất cứ thứ gì...$(br)$(o)Mực chẳng có giá trị gì với ta đâu, $(playername)… Giờ thì ký đi"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:contract",
+      "title": "Pact: Desiccation",
+      "text": "Bạn sẽ có thể thi triển năng lực giết cây trồng để gia tăng sức mạnh"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:contract",
+      "title": "Khế ước: Devouring Rage",
+      "text": "Sau khi hoàn thành, bạn có thể hồi máu bằng cách giết sinh vật sống."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:contract",
+      "title": "Khế ước: Berserker",
+      "text": "Sau khi hoàn thành, máu càng thấp thì bạn càng gây nhiều sát thương."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:contract",
+      "title": "Khế ước: Ignition",
+      "text": "Sau khi hoàn thành, quặng bạn đào sẽ tự động được nung chảy."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:contract",
+      "title": "Khế ước: Salamandrine Tolerance",
+      "text": "Sau khi hoàn thành, bạn sẽ chịu ít sát thương từ lửa hơn."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:contract",
+      "title": "Yêu cầu: Mahapadma",
+      "text": "Khi kích hoạt, hãy cầm Taglock của mục tiêu ở tay phụ. Mục tiêu sẽ bị đông cứng hoàn toàn rồi vỡ thành nhiều mảnh và chết."
+    }
+  ]
+}

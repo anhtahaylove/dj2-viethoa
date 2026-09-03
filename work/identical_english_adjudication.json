@@ -1,0 +1,41 @@
+{
+  "reviewed": 124,
+  "review_date": "2026-09-02",
+  "method": "Every one of the 124 needs_review rows was read individually, then checked against how the pack already treats sibling keys in the same family (container.*, *_potion.effect.*, modifier.*.name, guide.*.entry.*, botania.entry.*) and against work/protected_terms.json.",
+  "verdict_counts": {
+    "keep_english": 121,
+    "genuine_gap": 3
+  },
+  "genuine_gaps": [
+    {
+      "namespace": "betternether",
+      "key": "container.chest_of_drawers",
+      "en": "Chest of Drawers",
+      "why": "A GUI container title, not a registry name -- betternether ships no tile.chest_of_drawers.name, so nothing in JEI depends on this string. The pack already translates 15 of 25 container.* keys (container.forge = 'Lo Ren', container.chestDouble = 'Ruong doi'), so leaving this one English is inconsistent, not deliberate.",
+      "not_protected": true
+    },
+    {
+      "namespace": "moartinkers",
+      "key": "modifier.lightboost.name",
+      "en": "Power of the Sun",
+      "why": "CONTESTED. Reads as prose, but every one of the 56 untranslated modifier.*.name keys in the pack is English while 204 modifier.*.desc keys are translated. The established convention is name=English, desc=Vietnamese. Flagged for the user rather than changed: fixing it alone would break the convention, and changing all 56 is a separate decision.",
+      "recommendation": "keep_english_unless_convention_changes"
+    },
+    {
+      "namespace": "tconstruct",
+      "key": "tile.tconstruct.soil.slimy_mud_blue.tooltip",
+      "en": "tile.tconstruct.soil.slimy_mud_green.tooltip",
+      "why": "UPSTREAM MOD BUG, not a localization gap. The English source value is itself a raw translation key -- Tinkers' Construct points blue and magma slimy mud at the green tooltip key and never resolves it. The player sees the literal key text in-game in English too. Translating it would be wrong; the value must stay byte-identical or the display changes behaviour. Also applies to tile.tconstruct.soil.slimy_mud_magma.tooltip.",
+      "recommendation": "keep_english_upstream_defect"
+    }
+  ],
+  "keep_english_rationale": {
+    "ritual_and_entry_names": "guide.bloodmagic.entry.ritual.* (Ritual of the Feathered Knife), botania.entry.*, totemic.ceremony.*, thaumcraft research titles -- proper names used for wiki and JEI lookup. The pack already translates the .info prose bodies under these same entries (49 of 91 bloodmagic ritual keys carry Vietnamese), so the split is deliberate: name English, body Vietnamese.",
+    "potion_arrow_effect_names": "All 38 *_potion.effect.* / tipped_arrow.effect.* keys are English across every namespace -- these render as item names in inventory and JEI.",
+    "advancement_titles": "botania advancement.* and enderio advancement.* are song and film references (A Tale of Six Trillion Years and a Night, The Third 'S' is Silent). Translating destroys the reference.",
+    "memes_and_music_cues": "botania.subtitle.way (O-oooooooooo AAAAE-A-A-I-A-U-JO), botania.page.munchdew2 (Itadakimasu~), totemic.page.danseMacabre2 (November Spawned a Monster) -- Morrissey and Smiths song titles used as flavour.",
+    "format_and_unit_strings": "gui.lander.velocityu (m/s), gasconduits mB/t, reborncore %smB/%smB, extrautils2 'x = %s, y = %s, z = %s', chisel '%s FE/t' -- units and format scaffolding with no translatable words.",
+    "escaped_literals": "enderio.darksteel.upgrades.tooltip.lineitem is '\\u0020*\\u0020%s' -- escape sequences plus a token."
+  },
+  "action_taken": "Only container.chest_of_drawers is treated as a real miss and queued for translation. The other two flagged rows are documented and left unchanged."
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "quantumflux-1.12.2-2.0.18.jar",
+      "path": "assets/quantumflux/lang/en_US.lang"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Vanishing Block",
+  "icon": "twilightforest:tower_device:2",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6210,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Vanishing Block",
+      "item": "twilightforest:tower_device:2",
+      "text": "Thứ này kỳ lạ hơn tôi tưởng. Khi tôi chạm vào khối này hoặc truyền tín hiệu Redstone cho nó, nó biến mất ngay trước mắt tôi. Dù chờ bao lâu, nó cũng không trở lại, vậy nó có thể phục vụ mục đích bảo mật gì?"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "button.back.name": "Quay lại",
+  "button.next.name": "Tiếp",
+  "button.prev.name": "Trước Đó",
+  "button.search.name": "Tìm Kiếm",
+  "test.category.name": "Test Category",
+  "test.entry.name": "Test Entry",
+  "test.guide.format": "Đây l\\nà một bài\\n\\tkiểm tra định dạng",
+  "text.book": "Sách: %s",
+  "text.book.creative": "Sách Sáng Tạo",
+  "text.book.warning": "&c[CẢNH BÁO] Hãy xoá vật phẩm này, nó không có sách liên kết!",
+  "text.brewing.brew": "Đang Pha Chế",
+  "text.brewing.error": "&cLỗi trong công thức",
+  "text.category": "Danh Mục: %s",
+  "text.entry": "Mục: %s",
+  "text.furnace.error": "&cLỗi trong công thức",
+  "text.furnace.smelting": "Nung chảy",
+  "text.linked.open": "Sneak + Use để mở",
+  "text.open.failed": "Có gì đó ngăn bạn mở cuốn sách này",
+  "text.page": "Trang: %s",
+  "text.shaped.crafting": "Chế Tạo Có Định Hình",
+  "text.shapeless.crafting": "Chế Tạo Không Định Hình"
+}

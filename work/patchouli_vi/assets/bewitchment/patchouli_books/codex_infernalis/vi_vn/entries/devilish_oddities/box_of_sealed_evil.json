@@ -1,0 +1,16 @@
+{
+  "name": "Box of Sealed Evil",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:box_of_sealed_evil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc hộp mang hình sinh vật có sừng kỳ lạ khiến bạn cảm giác như nó đang dõi theo mình. Bạn có dám mở không?"
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:box_of_sealed_evil",
+      "text": "$(o)Bất ngờ chưa, Pandora's box~"
+    }
+  ]
+}

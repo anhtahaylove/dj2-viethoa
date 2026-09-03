@@ -1,0 +1,5 @@
+{
+  "jecalculation.chat.max_loop": "Rất tiếc, phép tính có vẻ không hội tụ sau 1000 lần lặp. Vui lòng liên hệ nhà phát triển nếu bạn cho rằng quá trình này phải cho ra kết quả.",
+  "jecalculation.chat.server_mode": "Mod không hoạt động ở chế độ client, nên bạn không thể mở giao diện nếu không có vật phẩm máy tính",
+  "jecalculation.chat.export": "Các công thức đã chọn đã được xuất sang \"%s\"."
+}

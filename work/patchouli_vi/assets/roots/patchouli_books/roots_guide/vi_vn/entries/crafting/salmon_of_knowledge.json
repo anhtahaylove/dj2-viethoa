@@ -1,0 +1,23 @@
+{
+  "name": "Salmon of Knowledge",
+  "icon": "roots:salmon_of_knowledge",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(italic)Thuở xưa, một con cá hồi đã ăn quả của chín cây,$(br)chín cây đến từ mọi miền trên thế giới,$(br)nhờ đó lĩnh hội toàn bộ tri thức của thế gian.$()$(br2)Dù con cá hồi ấy giờ chỉ còn trong truyền thuyết, một pháp sư hoang dã vẫn có thể tạo ra cách chia sẻ kiến thức của mình với người khác.$(br2)$(info) Dữ liệu NBT được thiết lập khi chế tạo."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "salmon_of_knowledge"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafting"
+      ]
+    }
+  ]
+}

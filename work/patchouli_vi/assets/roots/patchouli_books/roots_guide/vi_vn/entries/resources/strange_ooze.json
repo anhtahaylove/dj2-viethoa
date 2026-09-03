@@ -1,0 +1,21 @@
+{
+  "name": "Strange Ooze",
+  "icon": "roots:strange_ooze",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:strange_ooze",
+      "link_recipe": true,
+      "text": "Chất kỳ lạ này do những sinh vật nhầy nhụa sống tại Fey realm tiết ra. Bạn có thể thu được nó bằng cách dùng $(l:crafting/runic_shears)runic shears$() lên các thực thể phù hợp trong thế giới của chúng ta.$(br2)Bạn có thể xem danh sách nguồn đầy đủ trong $(sources:roots:strange_ooze)JEI$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears"
+      ]
+    }
+  ]
+}

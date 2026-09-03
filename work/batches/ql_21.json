@@ -1,0 +1,393 @@
+{
+  "chapter_index": 21,
+  "title_key": "dj2.quest.ql.21.title",
+  "chapter_title_en": "25. With Wyvern's Wings",
+  "desc_key": "dj2.quest.ql.21.desc",
+  "chapter_desc_en": "Breathe through Draconic Evolution, and unlock PackagedAuto for larger patterns.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.21.title",
+      "en": "25. With Wyvern's Wings"
+    },
+    {
+      "key": "dj2.quest.ql.21.desc",
+      "en": "Breathe through Draconic Evolution, and unlock PackagedAuto for larger patterns."
+    },
+    {
+      "key": "dj2.quest.db.86.title",
+      "en": "Buy 1 Get 1 50%% off!"
+    },
+    {
+      "key": "dj2.quest.db.86.desc",
+      "en": "Use your Awakened Cores to make an Awakened Dragon Token!"
+    },
+    {
+      "key": "dj2.quest.db.168.title",
+      "en": "Wake"
+    },
+    {
+      "key": "dj2.quest.db.168.desc",
+      "en": "Craft 4 Awakened Cores!%n%n%n...Getting fancy here, don't we?"
+    },
+    {
+      "key": "dj2.quest.db.211.title",
+      "en": "November 27, 1784: Proposed. Today: Developed."
+    },
+    {
+      "key": "dj2.quest.db.211.desc",
+      "en": "Craft a Chaotic Energy Core!"
+    },
+    {
+      "key": "dj2.quest.db.238.title",
+      "en": "Scary Monsters and Nice Dragons"
+    },
+    {
+      "key": "dj2.quest.db.238.desc",
+      "en": "You're stronger now.%n%nMuch stronger.%n%nIt's time.%n%nTravel to 2 coordinates to the end that are both a multiple of 10,000 to find the island of the Chaos Guardian.%n%nMake sure to bring additional charge for your armor.%n%nDefeat the Dragon.%n%nDig down in the center and collect its Chaos Shards.%n%nQuickly fly away, before the island goes boom. (The explosion even kills in Creative mode.)%n%nGood luck!%n%n%n%n%n%n%n%n%n%n%nHooooo jyaaah...!! Sunshu-- uh, o ah yaa-aah!%nEh-eh oh eh o e AH! Eh-eh ooooo-ooooj!%nHooooo jyaaah...!! Sunshu-- uh, o ah yaa-aah!%nEh-eh oh eh o e AH! YEWS! OH MY GOD!"
+    },
+    {
+      "key": "dj2.quest.db.305.title",
+      "en": "Dislocation Acquisition"
+    },
+    {
+      "key": "dj2.quest.db.305.desc",
+      "en": "Craft a Dislocator Receptacle and a couple pieces of Draconium Infused Obsidian!%n%nThese can all be arranged into the shape of a portal (either standing like a Nether Portal, or lying down like an End Portal). Make sure not to have the Dislocator Receptacle on a corner.%n%nTo link up 2 of such Portals, use 2 Dislocators. Shift+Right Click on one of them with one Dislocator, then Right Click on the other one to place it inside. Do the same with the other Dislocator on the other Portal if you'd like to travel both ways.%n%nThese portals can not only transfer you, the player, they also work on any entity - perfect to transport the Wither from a spawning place into a killing chamber, since the Wither floats down.%n%nThat still isn't all! They can also transmit RF power through Draconic Evolution Energy Crystals.%n%nWireless power, teleportation, and entity moving all in one multiblock. Amazing!"
+    },
+    {
+      "key": "dj2.quest.db.317.title",
+      "en": "Theseus' Ship"
+    },
+    {
+      "key": "dj2.quest.db.317.desc",
+      "en": "Craft a Dislocator! Shift+Right Click to bind it to a place. Right Click to teleport to that base. Has twenty (20) uses.%nWhen placed on a Dislocator Pedestal, has infinite uses.%n%nAnd, if you have a moment to spare, consider how horrifying teleportation would be."
+    },
+    {
+      "key": "dj2.quest.db.361.title",
+      "en": "Fusion Crafting"
+    },
+    {
+      "key": "dj2.quest.db.361.desc",
+      "en": "Set up Fusion Crafting! Place the Fusion Crafting Core in the middle, and place the 9 Fusion Crafting Injectors nearby. Note that some recipes take more than 9 Crafting Injectors, but 9 is a good number to start with.%n%nYou'll need to power each Crafting Injector, and place the central item in each recipe in the Crafting Core and the outer item in the Injectors.%n%nEventually you'll NEED to automate this machine (preferably one of the higher tier ones). You can do this with Actually Additions Item Lasers.%n%n1. You'll first need to set up an Item Interface from Actually Additions next to an AE2 Interface that is on Blocking Mode.%n%n2. Then place a Laser on the Item Interface making sure that all sides of the Laser either touch the Item Interface or air only.%n%n3. Now set up the Fusion Injectors around the Fusion Crafting Core and keep the Injectors on Single Item Mode so that only one item gets inserted into each Injector.%n%n4. Put Item Lasers connecting to all Injectors from any side of the Laser. This means you can share an Item Laser between multiple Injectors if you want.%n%n5. Then place a Laser on the Fusion Core making sure that all sides of the Item Laser only touch the Core or air, and set the Laser to a priority of 1 by Right Clicking on it once with a Compass.%n%n6. Apply a redstone signal to the Crafting Core with a Redstone Clock or similar to let the crafts automatically start.%n%n7. Connect all Lasers with the Laser Wrench and use any pipes you want to extract the output of the Crafting Core into your ME System making sure that the pipes do not connect to the Item Lasers.%n%n8. Lastly, hook up the Interface to your ME System and power the Injectors: you are now ready to start crafting!%n%n%nNote that when you make the Pattern for crafts for Fusion Crafting, the center item needs to be in the upper left slot in the Pattern Terminal, and the other ingredients can go anywhere. Just pulling the recipe from JEI will put the items where they need to go."
+    },
+    {
+      "key": "dj2.quest.db.411.title",
+      "en": "Crystal Eyes"
+    },
+    {
+      "key": "dj2.quest.db.411.desc",
+      "en": "Craft some Crystaltine Ingots with your new acquired Plasma Cores!%n%nThey are a pain to craft manually... But wait, the next quest might be able to help you on that."
+    },
+    {
+      "key": "dj2.quest.db.430.title",
+      "en": "Wyvern Weaver"
+    },
+    {
+      "key": "dj2.quest.db.430.desc",
+      "en": "Craft your first Wyvern Core! It takes a quarter of a Mana Pool. You'll need a LOT of these, so it might be time to increase your Mana generation."
+    },
+    {
+      "key": "dj2.quest.db.431.title",
+      "en": "Stores Absolutely ZERO Energy!"
+    },
+    {
+      "key": "dj2.quest.db.431.desc",
+      "en": "Craft a couple Draconic Energy Cores!"
+    },
+    {
+      "key": "dj2.quest.db.432.title",
+      "en": "Egg-streme Heart-ships"
+    },
+    {
+      "key": "dj2.quest.db.432.desc",
+      "en": "Use Dragon Egg Essence to craft some Dragon Eggs and Dragon Hearts!"
+    },
+    {
+      "key": "dj2.quest.db.433.title",
+      "en": "Your prize"
+    },
+    {
+      "key": "dj2.quest.db.433.desc",
+      "en": "Once the Wither slayer is correctly set up, take your prized Nether Stars and run off with them!"
+    },
+    {
+      "key": "dj2.quest.db.434.title",
+      "en": "Oneshotting Withers"
+    },
+    {
+      "key": "dj2.quest.db.434.desc",
+      "en": "Make a Draconic Evolution Mob Grinder!%n%nWhen powered, it's even capable of destroying the Wither with a single blow. Use this to your advantage and build a Wither killer machine! Summon the Wither using Wither Builders (or Formation Planes, Block Placers, your choice). Make sure it stays inside a Witherproof enclosement, and wait for its invulnerability to wear off. Then kill it with a Mob Grinder (it even works through the Witherproof wall)!%n%nIt's also important to mention that the Wither CAN destroy your Wither Builder or other machines that aren't protected by Witherproof blocks. Popular solutions include:%n%n- letting the Wither fall in a tall chamber while its invulnerability wears off, and killing it at the bottom.%n%n- using Draconic Evolution portals made out of a Dislocator Receptacle and some Draconium Infused Obsidian, and teleporting the Wither away from your precious machines into another chamber with the Mob Grinder next to the outer walls; this design takes up less space but is more expensive."
+    },
+    {
+      "key": "dj2.quest.db.435.title",
+      "en": "Biggerer Battery"
+    },
+    {
+      "key": "dj2.quest.db.435.desc",
+      "en": "Craft a Draconic Flux Capacitor! This is the highest tier Flux Capacitor available in the pack.%n%nCharge it up in your Thermal Expansion Energetic Infuser or Draconic Evolution Energy Infuser.%n%nShift+Right Click with it to toggle it between multiple modes. You can also equip this in a Bauble slot or just leave it in your inventory to charge your desired items."
+    },
+    {
+      "key": "dj2.quest.db.436.title",
+      "en": "Oh, Packers!"
+    },
+    {
+      "key": "dj2.quest.db.436.desc",
+      "en": "Craft a Packager! You'll only need one Packager for every 20 recipes on your Network, which stores one copy of each Packaged Recipe Holder. The other copies are stored in individual Unpackagers.%n%nIf your Packager is too slow, parallelize the recipes it does with Packager Extensions!"
+    },
+    {
+      "key": "dj2.quest.db.437.title",
+      "en": "Package"
+    },
+    {
+      "key": "dj2.quest.db.437.desc",
+      "en": "Make some Packaging Components!%n%nPackaged Auto is a mod that lets you encode recipes that have more than 9 unique input items. Good examples are Elevatium Ingots in the Laser Focus or some 9x9 crafts."
+    },
+    {
+      "key": "dj2.quest.db.438.title",
+      "en": "Never exceed the Schwarzschild radius!"
+    },
+    {
+      "key": "dj2.quest.db.438.desc",
+      "en": "Craft a Quantum Compressor! This machine is capable of producing Singularities...! That's right! You'll need good material production using either a Quarry or preferably Seeds, and you'll need to compress them.%n%nThis machine needs to be powered, it needs a Singularification Catalyst in its left slot (which won't be used up), and all inputs can be inserted from the top and the sides, outputs can be extracted from the sides and the bottom."
+    },
+    {
+      "key": "dj2.quest.db.439.title",
+      "en": "False Advertising"
+    },
+    {
+      "key": "dj2.quest.db.439.desc",
+      "en": "Holds no energy, just takes it. 0 stars.%n%nEven takes like a stack of Redstone Blocks. Make sure to automate their crystallization at least!"
+    },
+    {
+      "key": "dj2.quest.db.440.title",
+      "en": "WELCOME TO LATEGAME!"
+    },
+    {
+      "key": "dj2.quest.db.440.desc",
+      "en": "Make a Plasma Core in the Laser Focus and use it to craft your first Draconic Core!%n%nAll of the 4 included ingots are non-trivial, but all of them can be fully automated. You'll need a lot of Draconic Cores moving forward, so make sure to automate every single step of its creation!"
+    },
+    {
+      "key": "dj2.quest.db.442.title",
+      "en": "Let's Drag On"
+    },
+    {
+      "key": "dj2.quest.db.442.desc",
+      "en": "Finally you feel powerful enough to hold what seems to be pure Dark Energy in your hands...%n%nAre you ready to abuse its powers?"
+    },
+    {
+      "key": "dj2.quest.db.443.title",
+      "en": "The PenULTIMATE Crafting Table"
+    },
+    {
+      "key": "dj2.quest.db.443.desc",
+      "en": "Make your first 9x9 Crafting Table!%n%nSomething's missing though...%n%nIt's not EXTREME enough..."
+    },
+    {
+      "key": "dj2.quest.db.444.title",
+      "en": "Yet Another Machiavellian Machine Frame (YAMMF)"
+    },
+    {
+      "key": "dj2.quest.db.444.desc",
+      "en": "I swear this is the last tier of Machine Frames... For sure, this time! For suuuuuuuuuuure.....!!"
+    },
+    {
+      "key": "dj2.quest.db.445.title",
+      "en": "Mass Infusion"
+    },
+    {
+      "key": "dj2.quest.db.445.desc",
+      "en": "Craft some Draconic Fusion Injectors! With these, you'll have access to almost all Draconic Evolution Infused items."
+    },
+    {
+      "key": "dj2.quest.db.446.title",
+      "en": "Powerer Tools"
+    },
+    {
+      "key": "dj2.quest.db.446.desc",
+      "en": "Craft all Draconic Tools & Weapons.%n%nSimilarly to your armor, you can further upgrade these by applying some Upgrade Keys to them through Fusion Crafting."
+    },
+    {
+      "key": "dj2.quest.db.447.title",
+      "en": "SPUDDY!"
+    },
+    {
+      "key": "dj2.quest.db.447.desc",
+      "en": "Upgrade your Inert Potato Armor into Infused Potato armor, then §cRight Click each piece§r to turn it into an Energized Potato piece!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n(Now you might think it's bad design not to have the Infused Potato pieces here, but if you Right Click one before this quests would detect it, then you'd have no way to finish the quest other than to recraft the piece from the start.)"
+    },
+    {
+      "key": "dj2.quest.db.448.title",
+      "en": "The Wonders of Armor tiering"
+    },
+    {
+      "key": "dj2.quest.db.448.desc",
+      "en": "Tier up the following Armor pieces until you obtain a full set of Inert Potato Armor:%n%n1. Emeradic armor%n2. Refined Coralium armor%n3. Dreadium armor%n4. Manasteel armor%n5. Living armor%n6. Elementium armor%n7. Terrasteel armor%n8. Thaumium armor%n9. Thaumium Fortress armor%n10. Bewitchment Silver armor%n11. Cold Iron armor%n12. Electricium armor%n13. Skyfather armor%n14. Mystic armor%n15. Heavy Duty armor%n16. Desh armor%n17. Titanium armor%n18. Inert Potato armor"
+    },
+    {
+      "key": "dj2.quest.db.449.title",
+      "en": "Well, Egg-shually..."
+    },
+    {
+      "key": "dj2.quest.db.449.desc",
+      "en": "Craft some Dragon Egg Seeds! You'll need to plant them on some soil with a block of Dragon Egg Crux underneath. These were the 4 Dragons you needed to kill throughout the pack. Now you can craft everything that a Dragon would drop."
+    },
+    {
+      "key": "dj2.quest.db.450.title",
+      "en": "The final Processor"
+    },
+    {
+      "key": "dj2.quest.db.450.desc",
+      "en": "Make 4 Scheduling Processors!%n%nThey're used for the highest tier Storage Components and Packaged Auto items."
+    },
+    {
+      "key": "dj2.quest.db.451.title",
+      "en": "Look Ma! No Damage!"
+    },
+    {
+      "key": "dj2.quest.db.451.desc",
+      "en": "Do you like the idea of taking zero damage?%n%nDo you like the idea of your armor being simply recharged by RF?%n%nDO YOU WANNA BE OVERPOWERED?!?!?!?%n%nWell then. This is the armor set for you. Make good use of it."
+    },
+    {
+      "key": "dj2.quest.db.452.title",
+      "en": "\"Ultimate\" Crafting Table"
+    },
+    {
+      "key": "dj2.quest.db.452.desc",
+      "en": "This is it...%n%nIt's finally EXTREME enough!%n%nThe difference is...%n%nMore POWER!%n%nYeeeessss!%n%nI can craft EVEN MORE POWERFUL items in this...!%n%nNothing can stop me now!"
+    },
+    {
+      "key": "dj2.quest.db.453.title",
+      "en": "Bigger Battery"
+    },
+    {
+      "key": "dj2.quest.db.453.desc",
+      "en": "Craft a Wyvern Flux Capacitor! Charge it up in your Thermal Expansion Energetic Infuser or Draconic Evolution Energy Infuser.%n%nShift+Right Click with it to toggle it between multiple modes. You can also equip this in a Bauble slot or just leave it in your inventory to charge your desired items."
+    },
+    {
+      "key": "dj2.quest.db.454.title",
+      "en": "Get Woke, Sun"
+    },
+    {
+      "key": "dj2.quest.db.454.desc",
+      "en": "Charge up some Draconium Blocks in the Laser Focus, then use your Fusion Injector setup to convert them into Awakened Draconium Blocks!"
+    },
+    {
+      "key": "dj2.quest.db.455.title",
+      "en": "Rats, another crafting chain"
+    },
+    {
+      "key": "dj2.quest.db.455.desc",
+      "en": "Well what can you do with your Basic Fusion Crafting setup...? Immediately upgrade it to Wyvern tier! Yup! That's it. Nothing else. So do it!"
+    },
+    {
+      "key": "dj2.quest.db.456.title",
+      "en": "Your Patterns, Ma'am"
+    },
+    {
+      "key": "dj2.quest.db.456.desc",
+      "en": "Craft a Package Recipe Holder! This Pattern can have up to 20 recipes that all use up to 81 unique input items. To encode it, use the Package Recipe Encoder. You can also copy its settings there onto another Package Recipe Holder, but make sure not to override one that already holds some recipes. It's safest to check each Recipe Holder first by placing them into the Encoder and hitting \"Load\" one by one. Only press \"Save\" if you're sure you intend to override the input Recipe Holder.%n%nYou'll need 2 identical Recipe Holders for each craft, one for the Packager and one for the Unpackager."
+    },
+    {
+      "key": "dj2.quest.db.457.title",
+      "en": "OP"
+    },
+    {
+      "key": "dj2.quest.db.457.desc",
+      "en": "Upgrade your Wyvern Armor into a full set of Draconic armor!%n%nThe upgrades aren't over though... Check the Draconic Evolution Upgrade Keys in JEI to make your Armor even stronger!"
+    },
+    {
+      "key": "dj2.quest.db.458.title",
+      "en": "It's got Sparklez like a certain Captain"
+    },
+    {
+      "key": "dj2.quest.db.458.desc",
+      "en": "Now that you have a steady source of Nether Stars, make a couple Crystal Matrix Ingots!%n%n(If you're low on Diamonds, craft a Diamond Seed!)"
+    },
+    {
+      "key": "dj2.quest.db.459.title",
+      "en": "Stronger magnetic field"
+    },
+    {
+      "key": "dj2.quest.db.459.desc",
+      "en": "Craft an item Dislocator! This is the best Magnet available so far, even better than the Greater Ring of Magnetization.%n%nSimply Shift+Right Click to activate / deactivate it. You can also place it in a Bauble slot."
+    },
+    {
+      "key": "dj2.quest.db.460.title",
+      "en": "Strongest magnetic field"
+    },
+    {
+      "key": "dj2.quest.db.460.desc",
+      "en": "\"Can my Magnet get even better?!?!?!\" - is what you'd think, and yes, yes it can. This is the best Magnet available in the pack, and it works similarly to the previous tier:  Simply Shift+Right Click to activate / deactivate it, and you can place it in a Bauble slot."
+    },
+    {
+      "key": "dj2.quest.db.461.title",
+      "en": "Auto Your Mato"
+    },
+    {
+      "key": "dj2.quest.db.461.desc",
+      "en": "Needing to automate some 5x5, 7x7, or 9x9 Extended Crafting recipes?! Well, look no further than the Automation Interface!%n%n1. Once crafted, place it on top of an Extended Crafting 5x5, 7x7, or 9x9 Crafting Table, and set up a recipe in the Crafting Table on the bottom (you can use the \"+\" button from JEI).%n%n2. Then open your Automation Interface and click the \"Save Recipe\" icon on the bottom left.%n%n3. It's important to also click the Gear icon on the bottom right and choose which direction the input items are coming from and which direction the output items should go to.%n%n4. Power the Interface with some RF, and use perhaps an ME Interface to send items to it and back."
+    },
+    {
+      "key": "dj2.quest.db.462.title",
+      "en": "Look Ma! Bunch of damage!"
+    },
+    {
+      "key": "dj2.quest.db.462.desc",
+      "en": "Craft a full set of Wyvern tools & weapons. These tools can be charged up and upgraded.%n%nYou can also apply the Reaper enchantment to the Sword to sometimes obtain Mob Souls when killing Mobs. These can then be used in Stabilized Mob Spawners.%n%nSimilarly to the armor pieces, you'll need to tier up weapons and tools through the exact same tiers as before (except that LightningCraft tools have been removed since they have multiple broken interactions)."
+    },
+    {
+      "key": "dj2.quest.db.463.title",
+      "en": "The balance of power must be preserved"
+    },
+    {
+      "key": "dj2.quest.db.463.desc",
+      "en": "Craft the most \"BALANCED\" tool in the game. Yup."
+    },
+    {
+      "key": "dj2.quest.db.464.title",
+      "en": "01010000 01100001 01100011 01101011 01100001 01100111 01100101"
+    },
+    {
+      "key": "dj2.quest.db.464.desc",
+      "en": "Craft a Package Recipe Encoder! Use this machine to Encode recipes that take more than 9 unique input items. You can fill any slot in the 9x9 with the requirements. The maximum amount of unique items you can have is 81."
+    },
+    {
+      "key": "dj2.quest.db.465.title",
+      "en": "4.99 each!"
+    },
+    {
+      "key": "dj2.quest.db.465.desc",
+      "en": "Throughout the entire modpack, you'll only need to kill the Ender Dragon 4 times. You had to have killed it at least twice now; once in the first Exploration section, and once to get your first Dragon Scale for Bewitchment. You might need to kill it 2 more times, if so, grab your End Crystals, resummon it, and whack it a couple times. It's the perfect way to test out your new armor set anyway!%n%nCollect some Dragon Eggs and craft a Dragon Token to continue."
+    },
+    {
+      "key": "dj2.quest.db.466.title",
+      "en": "Post Office"
+    },
+    {
+      "key": "dj2.quest.db.466.desc",
+      "en": "To use your Packaged recipes, you'll need to place an Unpackager before each machine, in place of an ME Interface."
+    },
+    {
+      "key": "dj2.quest.db.467.title",
+      "en": "Got Power?"
+    },
+    {
+      "key": "dj2.quest.db.467.desc",
+      "en": "Build a Draconic Energy Storage multiblock structure!%n%nThis quest asks for Tier 4, but you can build a higher tier one to store even more power!%n%nIf you're unsure of the construction, consult your Draconic Evolution Information Tablet. You can also simply Right Click the Energy Core to see the exact layout.%n%nTier 1 stores 45.5 Million RF%nTier 2 stores 273 Million RF%nTier 3 stores 1.64 Billion RF%nTier 4 stores 9.88 Billion RF%nTier 5 stores 59.3 Billion RF%nTier 6 stores 356 Billion RF%nTier 7 stores 2.14 Trillion RF, or Java's Max Integer Limit (the highest number possible in Java)%nTier 8 stores 2^63 RF. Best represented by \"Infinite\". Even if you generate a very respectable 10 Million RF/tick, you'd need over 1460 IRL years to fill it up... So, just consider it an infinite power storage!%n%nTo insert or extract energy, use Energy Pylons. Place them near the multiblock, and place a Glass block on top or on the bottom, closer to the center of Energy Storage structure.%n%nYou can simply Right Click the blue orb that forms to toggle between input and output mode."
+    },
+    {
+      "key": "dj2.quest.db.469.title",
+      "en": "More than three layers of <3's"
+    },
+    {
+      "key": "dj2.quest.db.469.desc",
+      "en": "Finally, after all this time, you gain access to Blue Hearts, the final tier of Heart Canisters!%n%nThey're not the easiest thing to make, but eventually I'm sure you can max out the final layer of hearts."
+    },
+    {
+      "key": "dj2.quest.db.545.title",
+      "en": "An Inscriber's dream"
+    },
+    {
+      "key": "dj2.quest.db.545.desc",
+      "en": "Build the Mass Inscriber multiblock!%n%nThis is an incredibly fast version of the AE2 Inscriber, allowing you to create Circuits and Processors in bulk without even needing any Presses!%n%nTake advantage of this machine!"
+    }
+  ]
+}

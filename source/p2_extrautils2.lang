@@ -1,0 +1,13 @@
+extrautils2.text.access.denied.use.command.s.to.try=Access Denied. Use command /%s to try to ally with the owner.
+extrautils2.text.accessible.from.all.sides=Accessible from all Sides
+extrautils2.text.acts.as.a.portal.to.a.remote.block=Acts as a portal to a remote block location.
+extrautils2.text.all.players.can.currently.access=All players can currently access your inventories
+extrautils2.text.allows.itemsfluidsenergy.to.be.inserted=Allows items/fluids/energy to be inserted or extracted from a selected item
+extrautils2.text.allows.mining.of.cobblestone.and=Allows mining of cobblestone and pumping of water
+extrautils2.text.always.on=Always On
+extrautils2.text.base.power.given.s.gp=Base Power Given: %s GP
+extrautils2.text.biome.s=Biome: %s
+extrautils2.text.block.range.end=Block Range End
+extrautils2.text.block.range.start=Block Range Start
+extrautils2.text.blocks.mined.s=Blocks Mined: %s
+extrautils2.text.boosts.fuel.efficiency.with.additional=Boosts fuel efficiency with additional GP up to %s.

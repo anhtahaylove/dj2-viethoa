@@ -1,0 +1,87 @@
+{
+  "name": "Heavy Storms",
+  "icon": "roots:ritual_heavy_storms",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_heavy_storms",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Triệu gọi sức mạnh của gió mùa khiến mưa rơi liên tục trong suốt thời gian diễn ra nghi lễ.$(br2)$(warning) Không thể tắt mưa trong thời gian diễn ra nghi lễ.$(br2)Ngoài ra, sét sẽ đánh xuống trong khu vực nghi lễ, nhưng mọi ngọn lửa vừa bùng lên và mọi sinh vật đang cháy đều sẽ được dập tắt."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_heavy_storms",
+      "text": "$(standing_stones) Là nghi lễ $(l:rituals/tiers)$(bold)bậc II$(), $(l:rituals/ritual_heavy_storms#multiblock)cần một standing stone và một runed pillar$(). Vui lòng xem các trang sau."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone",
+          "O": "minecraft:log2[variant=dark_oak]",
+          "D": "roots:runed_dark_oak"
+        },
+        "pattern": [
+          [
+            "   D   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   O   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   C   "
+          ],
+          [
+            "   O   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   R   "
+          ],
+          [
+            "   O   ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "   R   "
+          ]
+        ]
+      },
+      "text": "Cần một $(l:rituals/standing_stone)dark oak pillar và standing stone$() bằng runestone hoặc runed obsidian."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:heavy_storms/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ tìm kiếm trong khu vực rộng $(ritual:heavy_storms/radius_x) và $(ritual:heavy_storms/radius_z) khối theo chiều ngang, cùng $(ritual:heavy_storms/radius_y) khối theo chiều dọc.$(br2)$(bold)Sét$(): Mỗi tick, sét có $(ritual:heavy_storms/PERCENT/lightning_chance) xác suất đánh xuống."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tần suất sét$(): Trong mỗi lần thực hiện nghi lễ, sét sẽ đánh tổng cộng $(ritual:heavy_storms/lightning_interval) lần (-1 biểu thị số lần vô hạn)."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Runed Wood",
+  "icon": "roots:runed_birch",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Runed wood được chế tạo bằng cách cầm $(l:crafting/knife)knife$() ở một tay và $(l:herbs/wildroot)wildroot$() ở tay kia. Chỉ cần nhấp chuột phải vào khúc gỗ phù hợp bằng knife để biến đổi nó.$(br2)Runed wood này được dùng làm phần đỉnh của $(l:rituals/standing_stones)runed pillars$() cần thiết cho một số nghi thức.$(br2)$(info) Wildroot sẽ bị tiêu hao trong quá trình này."
+    },
+    {
+      "type": "runic_carving_template_double",
+      "recipe1": "acacia",
+      "recipe2": "oak",
+      "name": "Acacia & Oak"
+    },
+    {
+      "type": "runic_carving_template_double",
+      "recipe1": "dark_oak",
+      "recipe2": "birch",
+      "name": "Dark Oak & Birch"
+    },
+    {
+      "type": "runic_carving_template_double",
+      "recipe1": "jungle",
+      "recipe2": "spruce",
+      "name": "Jungle & Spruce"
+    },
+    {
+      "type": "runic_carving_template",
+      "recipe": "wildwood",
+      "name": "Wildwood"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/knives",
+        "herbs/wildroot"
+      ]
+    }
+  ]
+}

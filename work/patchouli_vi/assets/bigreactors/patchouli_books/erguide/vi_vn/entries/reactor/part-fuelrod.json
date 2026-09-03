@@ -1,0 +1,29 @@
+{
+  "name": "Fuel Rod",
+  "icon": "bigreactors:reactorfuelrod",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorfuelrod",
+      "link_recipe": true,
+      "title": "Fuel Rod",
+      "text": "Các Fuel Rod được đặt bên trong Reactor thành những dãy dài theo chiều ngang hoặc dọc.$(br2)Chúng đóng vai trò là bể chứa chất phản ứng, gồm nhiên liệu, chất thải hoặc hỗn hợp cả hai, và được chiếu xạ khi Reactor hoạt động để tạo ra nhiệt, sau đó nhiệt được chuyển thành năng lượng hoặc dùng để hóa hơi chất làm mát."
+    },
+    {
+      "type": "text",
+      "text": "Fuel Rod đầu tiên của mỗi dãy phải nằm sau một khối $(l:reactor/part-casing)Casing$(/l), còn Fuel Rod cuối cùng của mỗi dãy phải nằm trước một $(l:reactor/part-controlrod)Control Rod$(/l).$(br2)Bạn có thể xếp tất cả các dãy Fuel Rod theo chiều dọc (trục Y) hoặc chiều ngang (trục X hay Z), nhưng không thể kết hợp cả hai.$(br2)Do yêu cầu này, tất cả Control Rod phải được đặt trên cùng một mặt của Reactor."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorfuelrod_vanillaglass",
+      "title": "Fuel Rod"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() có$(br)$(l)Vị trí hợp lệ:$() bên trong Reactor$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

@@ -1,0 +1,2502 @@
+[
+  {
+    "namespace": "immersiveengineering",
+    "key": "advancement.immersiveengineering:openManual.desc",
+    "en": "Acquire the Engineer's Manual"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "advancement.immersiveengineering:skyhookPro.desc",
+    "en": "Travel a total of 1km with the Skyhook"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.barrel",
+    "en": "Will keep its fluid when broken!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.barrelTemp",
+    "en": "Cannot store hot fluids or gases"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.coil.construction0",
+    "en": "For decoration purposes only"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.coil.construction1",
+    "en": "Will not transmit power"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.crate",
+    "en": "Will keep its inventory when broken!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver",
+    "en": "Go ahead, make my day!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver.fenrir",
+    "en": "There's nothing I don't cherish!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver.infinity",
+    "en": "All you need is a little pinch of infinity"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver.rommie",
+    "en": "Targeting AI 'Rommie' included!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver.superchief",
+    "en": "CHOO CHOO!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver.tesla",
+    "en": "A shocking invention!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.revolver.warlord",
+    "en": "Don't take my toys away!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.chemthrower_focus",
+    "en": "Decreases spread and increases range of the Chemical Thrower"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.chemthrower_multitank",
+    "en": "Allows multiple Fluids in the Chemical Thrower"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.drill_capacity",
+    "en": "Increases the internal tank size of the Mining Drill and Chemical Thrower"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.drill_damage",
+    "en": "Increases the attack damage and digging speed of the Mining Drill, stacks up to 3"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.drill_lube",
+    "en": "Reduces the damage the Mining Drill's head sustains"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.drill_waterproof",
+    "en": "Allows the Mining Drill to operate under water"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.railgun_capacitors",
+    "en": "Reduces charge time of the Railgun"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.revolver_bayonet",
+    "en": "Adds melee damage to the Revolver"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.revolver_electro",
+    "en": "Revolver shots inflict shock damage"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.revolver_magazine",
+    "en": "Increases the Revolver's magazine size"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.shield_magnet",
+    "en": "Equips the shield at the press of a button"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.flavour.toolupgrade.shield_shock",
+    "en": "Shocks attackers and vapourizes projectiles"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.blueprint.creates0",
+    "en": "Created Items: §6Hold Shift§r"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.filter.fuzzy",
+    "en": "Filter: Fuzzy<br>Filters items while<br>ignoring their damage value."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.filter.nbt",
+    "en": "Filter: NBT Data<br>Filters items with<br>respect to their NBT Data."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.filter.oreDict",
+    "en": "Filter: OreDictionary<br>Filters items based on<br>their OreDictionary names."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.holdShiftForInfo",
+    "en": "§8Hold Shift for more info§r"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.applyTo",
+    "en": "Can be applied to:"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.ancient",
+    "en": "Named and designed after the ancient Sheikah technology"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.angelsthesis",
+    "en": "Named after the themesong, colourscheme based on Evangelion Unit EVA-01."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.argo",
+    "en": "No direct reference, but style+colour were inspired by the videogame 'Destiny'."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.chloris",
+    "en": "Named and designed after the hoverboard/revolvers wielded by Reese Chloris."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.crescentrose",
+    "en": "Named and designed after the \"high-caliber sniper-scythe\" wielded by Ruby Rose."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.darkfire",
+    "en": "Named and designed after the Dark Fire magic employed by Riku and Terra."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.dominator",
+    "en": "Named and designed in reference to the massive handcannon of the anime series. Doesn't transform, I'm afraid."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.dragonsbreath",
+    "en": "Named and designed after the exotic rocket launcher of the same name."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.erruption",
+    "en": "No particular reference, just another use of vanilla textures, specificially the block breaking overlay."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.exia",
+    "en": "Named and designed after the close combat Gundam Mobile Suit."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.eyas",
+    "en": "Named and designed after the handcannon 'Eyasluna'. Hawkmoon's little brother."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.felix",
+    "en": "Named and coloured after the mercenary 'Felix' in RvB Seasons 11-13."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.fox",
+    "en": "Very fluffy. Named in reference to a specific IRC channel and its inhabitants."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.glacis",
+    "en": "No particular inspiration, decided to experiment with transparency."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.gurrenlagann",
+    "en": "Named in reference to and designed after the main and titular Gunman."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.harrowed",
+    "en": "Designed after weaponry in the heroic 'King's Fall'."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.hawk",
+    "en": "Named and designed after the exotic handcannon 'Hawkmoon'."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.hollow",
+    "en": "Named and designed after world 'Hollow Bastion'."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.kindled",
+    "en": "Named in obvious reference. Designed in an attempt to incorporate vanilla textures and animations into shaders."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.locus",
+    "en": "Named and coloured after the mercenary 'Locus' in RvB Seasons 11-13."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.lususnaturae",
+    "en": "Named after a song on the Volume 4 soundtrack. Also, the name sounds badass."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.magnum",
+    "en": "Designed by a contest winner!"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.massfusion",
+    "en": "The design references the energy weapons of Fallout series."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.matrix",
+    "en": "No particular inspiration, just another use for the pipe overlay."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.microshark",
+    "en": "Named in reference to and designed after the Minishark and Megashark machineguns."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.milo",
+    "en": "Named and designed after the spear/rifle wielded by Pyrrha Nikos."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.n7",
+    "en": "Named and designed after the highest designation of the Alliance special forces."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.normandy",
+    "en": "Named and designed after Normandy SR2 in its Alliance colour scheme."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.omnitool",
+    "en": "Named and designed after the holographic multitools."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.phoenix",
+    "en": "No particular inspiration, just another use for the gradient type of shaders."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.qrow",
+    "en": "Named after Qrow Branwen and designed after his sword/scythe."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.radiant",
+    "en": "Named and designed after world 'Radiant Garden'."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.regal",
+    "en": "Designed after weaponry in the 'King's Fall' raid."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.rosequartz",
+    "en": "First shader ever made!<br>No direct reference, though the name itself was inspired by a character in the „Inkheart“ series of novels"
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.sharkface",
+    "en": "Named and coloured after the mercenary 'Sharkface' in RvB Seasons 9 and 13."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.sponsor",
+    "en": "Obvious design reference to the Fallout series, but named indistinctly."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.stormflower",
+    "en": "Named and designed after the bladed SMGs wielded by Lie Ren."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.sunstrike",
+    "en": "No direct reference but name+colour were inspired by Sunbreaker Titans from the videogame 'Destiny'."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.sutherland",
+    "en": "Named and designed after the Knightmare Frame used by the Holy Britannian Empire."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.taken",
+    "en": "Designed after the 'Taken' enemies."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.terra",
+    "en": "Heavily inspired by Livingwood and Terrasteel materials, and incoporating some of Botania's textures."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.trident",
+    "en": "Named and designed after the lasergun/spear wielded by Neptune Vasilias."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.twili",
+    "en": "Named and designed in reference to the race of the same name."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.usurper",
+    "en": "Named and designed in reference to Zant, the usurper to the throne."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.vanguard",
+    "en": "Named and coloured after the Vanguard faction."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.vaulttec",
+    "en": "Coloured and named in obvious reference."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.waaagh",
+    "en": "Yellow makez da biggest BOOOMS!<br>Designed in obvious reference to the Orks in the 40k universe."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "desc.immersiveengineering.info.shader.details.warbird",
+    "en": "Design inspired by planes of the previous great wars."
+  },
+  {
+    "namespace": "immersiveengineering",
+    "key": "gui.immersiveengineering.assembler.nospace",
+    "en": "All pattern slots are filled!"
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.charsetpipe.applicable.info",
+    "en": "If the target block is a pipe."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.charsetpipe.hascontents.info",
+    "en": "If an item is going through this pipe."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.ic2.eu.caninsert.info",
+    "en": "If EU can really be inserted into the target, takes into account storage and capacity"
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.refinedstorage.network.applicable.info",
+    "en": "If the target has a Refined Storage network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.rf.caninsert.info",
+    "en": "If RF can really be inserted into the target, takes into account storage and capacity"
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.tesla.caninsert.info",
+    "en": "If Tesla can really be inserted into the target, takes into account storage and capacity"
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.thaumcraft.isaspectcontainer.info",
+    "en": "If the given block can hold aspects."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.thaumcraft.isessentiaprovider.info",
+    "en": "If the target can provide essentia."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.thaumcraft.isessentiareceiver.info",
+    "en": "If the target can receive essentia."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.boolean.thaumcraft.isessentiatransport.info",
+    "en": "If the target can transport essentia."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.double.thaumcraft.auraflux.info",
+    "en": "How much flux is in the aura at the target location."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.double.thaumcraft.auravis.info",
+    "en": "How much vis is in the aura at the target location."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.integer.thaumcraft.aurabase.info",
+    "en": "The aura baseline at the target location."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.integer.thaumcraft.essentiaminsuction.info",
+    "en": "The minimum required suction for the target essentia transport."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.integer.thaumcraft.suction.info",
+    "en": "The current suction in the target essentia transport."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.itemstack.charsetpipe.content.info",
+    "en": "The item currently going through this pipe."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.charsetpipe.contents.info",
+    "en": "The items currently going through this pipe."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.refinedstorage.fluid.fluidstacks.info",
+    "en": "A list of all the fluids in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.refinedstorage.inventory.craftableitems.info",
+    "en": "A list of all the craftable items in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.refinedstorage.inventory.craftingitems.info",
+    "en": "A list of all the items that are currently being crafted in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.refinedstorage.inventory.itemstacks.info",
+    "en": "A list of all the items in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.refinedstorage.inventory.missingcraftingitems.info",
+    "en": "A list of all the missing items in the current crafting jobs for the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.thaumcraft.allaspects.info",
+    "en": "Get a list of all available Thaumcraft Aspects in the game."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.list.thaumcraft.aspectcontainer.info",
+    "en": "All aspects in the given aspect container."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.thaumcraftaspect.thaumcraft.aspectcontainer.info",
+    "en": "The selected aspect in the given aspect container."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.thaumcraftaspect.thaumcraft.essentia.info",
+    "en": "The contained aspect in the target essentia transport."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.read.thaumcraftaspect.thaumcraft.suction.info",
+    "en": "The current aspect suction in the target essentia transport."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.boolean.refinedstorage.cancelcraft.info",
+    "en": "Cancel all running crafting jobs in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.integer.signals.destindex.info",
+    "en": "Set the (zero-based) index of a minecart's next destination."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.itemstack.refinedstorage.cancelcraft.info",
+    "en": "Cancel all running crafting jobs for the given item in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.itemstack.refinedstorage.craft.info",
+    "en": "Trigger a crafting job for the given item."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.list.refinedstorage.cancelcraft.info",
+    "en": "Cancel all running crafting jobs for the given items in the RS network."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.list.refinedstorage.craft.info",
+    "en": "Trigger a crafting job for all the items in the given list."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "aspect.aspects.integrateddynamics.write.list.signals.destinations.info",
+    "en": "Set a new destination list on a minecart."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "error.jei.integrateddynamics.recipetransfer.recipe.toobig.desc",
+    "en": "Too big for the Logic Programmer recipe pattern."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "operator.operators.integrateddynamics.thaumcraft.aspect.amount.info",
+    "en": "The amount of vis in the aspect."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "operator.operators.integrateddynamics.thaumcraft.aspect.entityaspects.info",
+    "en": "Get the list of aspects in the given entity."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "operator.operators.integrateddynamics.thaumcraft.aspect.getcombinationaspect.info",
+    "en": "Get the combination aspect of the two given aspects."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "operator.operators.integrateddynamics.thaumcraft.aspect.getcompoundaspects.info",
+    "en": "The list of aspects this aspect is made up of."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "operator.operators.integrateddynamics.thaumcraft.aspect.isprimal.info",
+    "en": "If the given aspect is a primal aspect."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "operator.operators.integrateddynamics.thaumcraft.aspect.israwaspectequal.info",
+    "en": "If the given raw aspects are equal."
+  },
+  {
+    "namespace": "integrateddynamicscompat",
+    "key": "valuetype.integrateddynamics.error.thaumcraftaspect.no_aspect",
+    "en": "The inserted item contains no aspects."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.booklet.hudDisplay.noInfo",
+    "en": "No Info available! Sorry :("
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.booklet.hudDisplay.noInfo.desc.1",
+    "en": "Sneak while looking at an Actually Additions"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.booklet.hudDisplay.noInfo.desc.2",
+    "en": "block to see more information about it!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.booklet.hudDisplay.open",
+    "en": "Right-Click to open..."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.booklet.searchField",
+    "en": "Click to search..."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.deathRecorded",
+    "en": "Your death has been recorded. Use a Death Tracker to find the death location!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.gui.respectModInfo",
+    "en": "If this is enabled, the filter will compare the mods items come from §cinstead of comparing the items themselves§r. This can be useful for storage systems with mod-based chests. Can also be combined with the other options, but that normally isn't very useful."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.gui.respectOredictInfo.all",
+    "en": "The item being passed has to contain §2all§r of the OreDictionary tags of the item in the filter."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.gui.respectOredictInfo.one",
+    "en": "The item being passed only has to contain §2only one§r of the OreDictionary tags of the item in the filter."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.gui.smartInfo",
+    "en": "When pressing this, all items from inventories adjacent to this relay will be added to this part of the white- or blacklist. Adding Item Filters to the list before will cause them to also be filled."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.gui.whitelistInfo",
+    "en": "To let all items through, an empty blacklist can be used, to let no items through, an empty whitelist can be used. To configure certain items, place them or configured Item Filters in the slots."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.inputter.info.1",
+    "en": "This is the first Slot in the connected Inventory to <p> at."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.inputter.info.2",
+    "en": "This is the slot after the last Slot in the connected Inventory to <p> at. What that means: If you, for example, write 2 in the field to the left and 5 in this one, it will <p> at Slot 2, 3, and 4."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.laserRelay.energy.display",
+    "en": "Right-Click to change!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.laserRelay.item.display.1",
+    "en": "Right-Click to increase!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.laserRelay.item.display.2",
+    "en": "Sneak-Right-Click to decrease!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.laserRelay.mode.noCompasss",
+    "en": "Hold a %s to modify!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.machineBroke",
+    "en": "The block shattered as you tried to break it. Maybe it wasn't sturdy enough to be broken?"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.placer.sides.2",
+    "en": "Usually when placing down blocks, they are placed towards the side of another block that you are looking at. Because the Phantom Placer can place blocks in mid-air, it doesn't know that. Usually you should just set it to a solid side."
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.redstoneMode.invalidItem",
+    "en": "Hold a %s to toggle!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "info.actuallyadditions.redstoneMode.validItem",
+    "en": "Right-Click to toggle!"
+  },
+  {
+    "namespace": "actuallyadditions",
+    "key": "tooltip.actuallyadditions.item_booklet.sub.3",
+    "en": "has to offer."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.diagram.erase",
+    "en": "Use while sneaking to erase."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.diagram.redprint.0",
+    "en": "Use on a block to copy its settings."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.diagram.redprint.1",
+    "en": "Use on a block to transfer stored settings."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.offhandUse",
+    "en": "Hold in offhand to automatically use when placing a block."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.security.lock",
+    "en": "Use on securable blocks or combine with securable items."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.experience.0",
+    "en": "Stores experience within its pages."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.experience.1",
+    "en": "Use to store knowledge in the tome."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.experience.2",
+    "en": "Use while sneaking to retrieve stored knowledge."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.experience.a.0",
+    "en": "§bPress (%s) to enable auto-collect.§r"
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.experience.a.1",
+    "en": "§ePress (%s) to disable auto-collect.§r"
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.lexicon.0",
+    "en": "Converts items to equivalent forms."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.lexicon.1",
+    "en": "Also known as a Thesoreus."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.lexicon.a.0",
+    "en": "Right click (open) to study."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.lexicon.a.1",
+    "en": "Right click (open) to transmute items."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.lexicon.b.0",
+    "en": "§bPress (%s) to gain wisdom!§r"
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.tome.lexicon.b.1",
+    "en": "§ePress (%s) to forsake knowledge.§r"
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.upgrade.creative.0",
+    "en": "Converts a block to a Creative version."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.upgrade.creative.1",
+    "en": "May be used on any tier of block."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.upgrade.full.0",
+    "en": "Fully upgrades a block to a given tier."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.upgrade.full.1",
+    "en": "May be used on any lower tier."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.upgrade.incremental.0",
+    "en": "Incrementally upgrades a block."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.upgrade.incremental.1",
+    "en": "Requires tier immediately preceding."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.util.multimeter.0",
+    "en": "Provides information about things."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.util.multimeter.1",
+    "en": "Use while sneaking to configure some blocks."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.util.wrench.0",
+    "en": "Rotates and dismantles blocks."
+  },
+  {
+    "namespace": "thermalfoundation",
+    "key": "info.thermalfoundation.util.wrench.1",
+    "en": "Actually a wrench, but anything is a hammer if you need it to be one."
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.inventoryswapper",
+    "en": "- Can swap the player's inventory with the|lf  currently selected memory card's contents|lf- Player inventory slots marked as blue|lf  are enabled for swap operation|lf- Middle click to toggle individual slots|lf- In Cycle mode changing the selected card|lf  effectively does 'swap + change card + swap',|lf  which allows quickly cycling through multiple|lf  sets of items"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.memory_chest",
+    "en": "- Middle click to lock the current item type for the slot|lf- You can also middle click (and/or drag)|lf  with items in cursor to do it faster|lf- Only that type of item can enter an empty slot|lf- A Private chest can't be opened by others,|lf  and it is also unbreakable"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.msu",
+    "en": "- Middle click (items in cursor or slot): lock the slot to that item|lf- Alt + middle click: Swap two stacks|lf- Shift + Middle click (in Creative): Fill stack (> 1 item in cursor)|lf  or cycle the stack size in x10 increments (1 item in cursor)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.nullifier",
+    "en": "- Just a nullifier, but with 9 large slots...|lf- Will auto-pickup any matching items that it currently has stored|lf- Any partial stacks will be filled first, and then the rest will be voided|lf- Right click with to place the block that is currently selected|lf- Ctrl + Toggle/Scroll: Change slot selection|lf- Ctrl + middle click to empty/void a slot's contents"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.pickupmanager",
+    "en": "- Can control what the player is allowed to pick up|lf- Can also directly transport items to a remote inventory|lf- The transport filters are checked first|lf- If they are disabled, or the item is not allowed there|lf  then the Inventory filters are checked next|lf- The transport filters determine which items will get transported on pickup|lf- The Inventory filters determine which items the player can pick up,|lf  assuming the item didn't get transported|lf- Note: Needs a capacitor to transport items! (add in a Tool Workstation)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.portalpanel",
+    "en": "- You can add a dye per destination in the Dye slot|lf- The dye will change the created portal's color (cosmetic only!)|lf- The destination location comes from the Link Crystal when a portal is activated|lf- A Portal Panel must be placed ON a Portal Frame block,|lf  which is connected to a valid portal \"frame loop\" via|lf  a \"continuous path\" of Portal Frame blocks|lf  (diagonal connection is not enough)|lf- The portal frame loop itself however can also contain diagonal corners|lf- The maximum sizes for the portal forming algorithm are configurable|lf  (see the config file or the in-game config menu)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.quick_stacker_advanced",
+    "en": "- Player inventory slots marked as blue|lf  are enabled for quick stacking|lf- Middle click to toggle individual slots|lf- Double left-click the block to activate|lf- By default only moves items that already|lf  exist in the target inventory|lf- Sneak while activating to move all items|lf  from enabled slots|lf- Left click the module selection buttons to select|lf  that Memory Card/filters for configuration|lf- Right click the button to enable/disable|lf  that target inventory|lf- In Area mode the maximum range is 16 blocks|lf- In bound targets mode the maximum range is 32 blocks"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.quickstacker",
+    "en": "- By default only moves items that|lf  already exist in the target inventory|lf- Sneak to move all items from enabled slots|lf  (even if they aren't already present in the target inventory)|lf- Use the Toggle hotkey to activate|lf- Can be sneak + right clicked on inventories|lf  to quick stack matching items to that inventory|lf- Player inventory slots marked as blue|lf  are enabled for quick stacking|lf- Middle click to toggle individual slots|lf- Doesn't need to be held to use|lf  (but does then need to be the first found|lf  \"unselected keybind operatable item\" in the inventory)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.infoarea.sound_block",
+    "en": "- Volume values over 1 increase the maximum range|lf- The range will be Volume * 16 blocks"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.enderinfuser.input",
+    "en": "Ender Pearls or Eyes of Ender"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.handybag.shiftclick.doubletapshift",
+    "en": "Shift-click behaviour:|lfdouble-tap shift to toggle"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.handybag.shiftclick.invhotbar",
+    "en": "Shift-click behaviour:|lfmove between inventory and hotbar"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.handybag.shiftclick.tobag",
+    "en": "Shift-click behaviour:|lfmove to bag"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.leaveonefilledstack",
+    "en": "Leave one filled stack of every item type"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.portalpanel.dyeslot",
+    "en": "Place a dye here to apply a color|lfto the button and the created portal"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.sound_block.clear",
+    "en": "Clear (or right click the field)"
+  },
+  {
+    "namespace": "enderutilities",
+    "key": "enderutilities.gui.label.tool_workstation.useemptynametoreset",
+    "en": "Use empty name to reset to default"
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_absorption",
+    "en": "Gives 10 Absorption hearts every 8 minutes."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_antivenom",
+    "en": "Prevents you from getting the Poison effect."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_attack_aoe",
+    "en": "Increases your sword's attack radius to 5x5."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_fire",
+    "en": "Prevents you from taking fire/lava damage."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_jump",
+    "en": "Increases your jump height."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_miners_vision",
+    "en": "Allows your tool to place unlimited light sources."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_mining_aoe",
+    "en": "Increases your tool's mining radius to 3x3."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_nightvision",
+    "en": "Allows you to see in the dark."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_quick_draw",
+    "en": "Increases your bow's draw speed."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_rainbow",
+    "en": "Gives wool a random color."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_reaping_aoe",
+    "en": "Increases your sickle's reaping radius to 7x7x7."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_resistance",
+    "en": "Lowers damage taken by 20 percent."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_scything_aoe",
+    "en": "Increases your scythe's scything and attack radius to 5x5."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_shearing_aoe",
+    "en": "Increases your shears' animal shearing radius to 5x5 and block shearing radius to 3x3x3."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_speed",
+    "en": "Increases your movement speed."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_strength",
+    "en": "Increases your attack damage."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_strength2",
+    "en": "Increases your attack damage."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_tilling_aoe",
+    "en": "Increases your hoe's tilling radius to 7x7."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_triple_shot",
+    "en": "Makes your bow shoot 3 arrows."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.ma.charm_wither",
+    "en": "Prevents you from getting the Wither effect."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.tile.ma.glowstone_lamp",
+    "en": "To make a Glowstone Lamp, simply right-click on a §8Mystical Machine Frame §0with a block of Glowstone. \\n\\nYou can take out the Glowstone at any time by shift right-clicking the block with an empty hand."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.tile.ma.miners_torch",
+    "en": "An un-collectable torch that can only be placed by a Supremium Pickaxe with a Miner's Vision charm."
+  },
+  {
+    "namespace": "mysticalagriculture",
+    "key": "desc.tile.ma.seed_reprocessor",
+    "en": "Converts seeds into their respective crop output. It runs on the power of theoretical energy, which means you don't need to give it any power."
+  },
+  {
+    "namespace": "projecte",
+    "key": "advancements.pe_dm_block.desc",
+    "en": "Stuffing matter together. Because that's a good idea."
+  },
+  {
+    "namespace": "draconicevolution",
+    "key": "ecore.de.assemble_error_expected_air.txt",
+    "en": "An error occurred while building structure! Expected air block at %s."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.add.tt3",
+    "en": "to add a new waypoint."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.add.tt4",
+    "en": "A dialog will pop up and ask"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.add.tt5",
+    "en": "for the name and color."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.add.tt6",
+    "en": "Hold shift and click the map"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.add.tt7",
+    "en": "to place a new pin with a"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.add.tt8",
+    "en": "random color and name."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocenter.tt5",
+    "en": "selected zoom level."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt2",
+    "en": "maps from blank maps in the"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt3",
+    "en": "inventory. When auto center "
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt4",
+    "en": "fails to find a matching map, "
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt5",
+    "en": "a new map is created based off"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt6",
+    "en": "from the last map loaded at"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt7",
+    "en": "the selected zoom level."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.autocreate.tt9",
+    "en": "enabled for this to work."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.edit.tt4",
+    "en": "or delete the selected pin."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.edit.tt6",
+    "en": "hold shift and click a waypoint."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.select.tt5",
+    "en": "Hold Ctrl and hover over map"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.select.tt6",
+    "en": "to see real world coordinates."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.select.tt8",
+    "en": "to select any point on the map."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.switchtoatlas",
+    "en": "Switch to Map view."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.atlas.switchtoinv",
+    "en": "Switch to Inventory view."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.recipe.areyousure",
+    "en": "Are you sure?"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.recipe.finalize",
+    "en": "Clicking yes will permanently lock this book from being edited."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.recipe.wrong",
+    "en": "Something went wrong. No Recipe Book with valid recipe data found or something."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip1",
+    "en": "Click a box or press tab to select an editing panel. Tab will cycle panels."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip2",
+    "en": "Click the box above to select slot 1 editing options panel. Edit scale, position, and rotation."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip3",
+    "en": "Click the box above to select the text editing options. Edit scale and add vanilla style formating."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip4",
+    "en": "Click the box above to select slot 2 for editing options. Edit scale, position, and rotation."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip5",
+    "en": "Adjust block scale."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip6",
+    "en": "Adjust block rotation. Blocks can face to the left, center, or right. Items can only face left or right."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip7",
+    "en": "Adjust block position. Position can also be adjusted with the arrow keys or the WASD keys."
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip8",
+    "en": "Enter one of the following numbers/ letters after the formatting symbol:"
+  },
+  {
+    "namespace": "bibliocraft",
+    "key": "gui.sign.tooltip9",
+    "en": "Click the button or press the 'alt' key to add a formatting symbol to the selected line."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.colorpalette.file_error",
+    "en": "The color palette file has errors and cannot be used: %1$s"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.common.automap_status",
+    "en": "Auto-mapping surface (%1$s)."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.common.automap_status_underground",
+    "en": "Auto-mapping vertical chunk %1$s (%2$s)."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.common.deletemap_status_error",
+    "en": "Unable to delete map. See journeymap.log for details."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.common.log_warning",
+    "en": "Log level %1$s will slow down the game. Do not use for normal gameplay!"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.common.memory_warning",
+    "en": "Minecraft is running out of memory: %1$s"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.error.compatability",
+    "en": "Incompatability error running %1$s for Forge %2$s. Ensure your version of Forge is compatible."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.error.java6",
+    "en": "JourneyMap requires Java 7 or Java 8. Update your launcher profile to use a newer version of Java."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.waypoint.import_rei_file_error",
+    "en": "Could not import Rei's MiniMap waypoint file: %1$s"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.waypoint.import_vox_file_error",
+    "en": "Could not import VoxelMap waypoint file: %1$s"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.webmap.day_button_title",
+    "en": "The world map as it appears in daylight."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.webmap.follow_button_title",
+    "en": "Auto-center the map on you. (Turns off if you manually pan.)"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.webmap.night_button_title",
+    "en": "The world map as it appears in moonlight."
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.webmap.save_button_title",
+    "en": "Save the explored map to file"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.webmap.topo_button_title",
+    "en": "A topographical map of the world"
+  },
+  {
+    "namespace": "journeymap",
+    "key": "jm.webmap.update_button_title",
+    "en": "Update Available: JourneyMap %1$s for Minecraft %2$s"
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.cable_node_colour32.info",
+    "en": "Sets the colour of dense cable nodes (32 channel cables)"
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.cable_node_colour8.info",
+    "en": "Sets the colour of basic cable nodes (8 channel cables)"
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.highlight_inactive_buses.info",
+    "en": "When enabled any inactive buses will be highlighted red. (Useful for finding buses that are missing channels or have no power)"
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.machine_node_colour32.info",
+    "en": "Sets the colour of machine nodes where the machine supports 32 channel connections."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.machine_node_colour8.info",
+    "en": "Sets the colour of machine nodes where the machine only supports 8 channel connections."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_0.info",
+    "en": "Set the colour used when displaying links between ME P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_1.info",
+    "en": "Set the colour used when displaying links between Item P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_2.info",
+    "en": "Set the colour used when displaying links between Redstone P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_3.info",
+    "en": "Set the colour used when displaying links between EU (IC2) P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_4.info",
+    "en": "Set the colour used when displaying links between FE (Forge Energy/Redstone Flux) P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_5.info",
+    "en": "Set the colour used when displaying links between Fluid P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.p2p_colour_6.info",
+    "en": "Set the colour used when displaying links between Light P2P Buses."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.rand_p2p_colour_offset.info",
+    "en": "When enabled a random small colour shift will be applied when rendering p2p links. This may make it easier to see what links go where in a complex mess of p2p links."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.rand_p2p_colours.info",
+    "en": "Is enabled every P2P bus will be given a random colour when its links are displayed."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.render_no_depth.info",
+    "en": "When enabled all network nodes and cables will be visible though blocks."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.render_p2p_no_depth.info",
+    "en": "When enabled all P2P links will be visible though blocks."
+  },
+  {
+    "namespace": "aenetvistool",
+    "key": "gui.netvistool.cfg.small_chanel_labels.info",
+    "en": "When enabled the size of used channel labels will be reduced."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.button.language_override_mod.info",
+    "en": "Language override is currently enabled for this mod. Click here to configure override."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.button.language_override_page.info",
+    "en": "Language override is currently enabled for this page. Click here to configure override."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.button.open_in_pi_main",
+    "en": "Open in main Project Intelligence GUI"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.error.page_lang_outdated",
+    "en": "This page translation was written for a previous %s revision. This page may be outdated."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.error.page_not_localized.info",
+    "en": "It appears this page has not yet been translated to your selected language!"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.error.page_not_localized_alt_version.info",
+    "en": "Or try a different mod version (Right click page -> Override mod version)"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.error.page_not_localized_click_here.info",
+    "en": "Click here to see available languages for this page or change your selected language in the PI option menu."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.gui_in_gui.display_doc.info",
+    "en": "Display Project Intelligence documentation linked to this GUI."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.info_screen.basic_overview.text",
+    "en": "Everything here should be pretty self explanatory. Hover your mouse over any of the arrows to view info about that item."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.info_screen.contributing.text",
+    "en": "If you would like to contribute by writing documentation for a mod then please check out then please check out the \"Contribute\" page in the PI documentation which you can find in... well.. PI!"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.info_screen.guide_intro.text",
+    "en": "This is the first launch introduction. It will walk you through some of the main features in project intelligence. If this is not your first time here then feel free to skip this intro.  Most features in PI are pretty self explanatory but there are a few less obvious features you may find useful."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.info_screen.pi_interaction.text",
+    "en": "This is just a general overview of some of the different ways you can use PI. As you have probably already figured out you can open PI by pressing %s.  PI Also has an \"Explain This\" function which allows you to press %s while hovering your mouse over an item in an inventory to view any documentation related to that item. You can also press %s to view available documentation for a block or entity you are looking at in world.  PI GUI Notes: Whenever you open the main PI UI you will return to the previous page you had open. When you open PI for the first time in a session you will get the \"Home Page\" by default this is the Project Intelligence mod page but you can change this by right clicking on a page in the page list and selecting the \"set as home page\" option."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.info_screen.ui_style.text",
+    "en": "This gui is extremely customizable! You can find the style settings by pressing the options button in the top right corner of PI. There you will find some builtin style presets and an option to edit the current preset which you can then save as your own custom preset!"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.info_screen.welcome.text",
+    "en": "This is an open source project created by brandon3055. The goal of this project is to create a truly universal documentation mod by leveraging the power of the minecraft community.  So how will this work? well for starters any mod developer can add documentation for their mods to PI. The problem is mod devs are busy people so most of them wont have time to deal with something like this and that in my opinion is a major issue with most of the current documentation mods.  PI aims to solve this problem by making it possible for anyone in the community to contribute by writing documentation for various mods using the relatively simple built in editor. They can then submit their documentation via PR and if it passes review it will be added to the online repository."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.internet_access_info.txt",
+    "en": "Please be aware as all project intelligence documentation is stored online the mod requires internet access to function correctly."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.internet_access_more_info.txt",
+    "en": "On first launch PI will download and cache all available documentation pages for the installed mods. Any images are downloaded and cached on an as-needed basis to reduce internet usage."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.back_forward.txt",
+    "en": "Forward/Back buttons. These work like that back/forward buttons in a web browser allowing you to go back to previously visited pages then forward from there."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.button_list.txt",
+    "en": "This is a simple tree based navigation system where the root branch contains a list of mod pages. When you select a page from this list that page's sub pages will be displayed here if it has any. Otherwise the page will simply be highlighted."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.content_tabs.txt",
+    "en": "TABS! Yes PI has tabs. When opening a page simply middle click or right click > Open in new tab."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.content_window.txt",
+    "en": "This is the content window. Its where the content is!"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.current_directory.txt",
+    "en": "This shows a truncated view of the path to the current page. e.g. Home/Draconic Evolution/Draconium Chest. It can be used to navigate to a previous page."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.minimize.txt",
+    "en": "Minimize/Maximize allow you to change the size of this UI."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.search_box.txt",
+    "en": "This is a search box. Pretty self explanatory. It allows you to search for pages."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.search_settings.txt",
+    "en": "The search settings allow you to change the scope of the search."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.settings.txt",
+    "en": "Here you can find all of the settings for PI. It should be noted that all settings for PI are in game and there is no user editable config file."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.intro.arrow_info.toggle_nav.txt",
+    "en": "Allows you to hide/show the navigation window."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.key.et_gui",
+    "en": "View Doc for stack in slot"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.pagebtn.verified.info",
+    "en": "This documentation was ether written or verified by a member of this mods development team."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.pagebtn.version_override.info",
+    "en": "Click here to configure version override."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.style.dir_path.info",
+    "en": "This is the vertical bar to the left of the page list that shows the path to the current page."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.style.gui_docs.info",
+    "en": "This can be used to customize the style of the documentation displayed in supported GUI's"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.style.invert_shade.info",
+    "en": "Inverts the shade colours to instead give a sunken look."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.style.save_preset.info",
+    "en": "Save the current style configuration as a new preset"
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.style.shade_borders.info",
+    "en": "Not compatible with vanilla texture, Applies shading to the borders to give a raised look."
+  },
+  {
+    "namespace": "projectintelligence",
+    "key": "pi.style.sub_elements.info",
+    "en": "Used by windows such as the style editor and configuration window which have separately configurable internal components."
+  },
+  {
+    "namespace": "bewitchment",
+    "key": "tooltip.bewitchment.waystone",
+    "en": "Bound to %d %d %d (%s)"
+  },
+  {
+    "namespace": "bq_standard",
+    "key": "bq_standard.importer.adv_json.desc",
+    "en": "Imports vanilla advancements written in JSON format.%n%nWARNING: Must be in original vanilla or triumph file locations to import correctly!"
+  },
+  {
+    "namespace": "bq_standard",
+    "key": "bq_standard.importer.ftbq_quest.desc",
+    "en": "Imports chapters and quests from the FTB Quests mod's native NBT files"
+  },
+  {
+    "namespace": "bq_standard",
+    "key": "bq_standard.importer.hqm_bag.desc",
+    "en": "Imports HQM rewards bags exported in json format."
+  },
+  {
+    "namespace": "bq_standard",
+    "key": "bq_standard.importer.hqm_quest.desc",
+    "en": "Imports HQM quest lines exported in json format. Due to the strange nature in which HQM quests are indexed post export, errors may occur between quests with duplicate names or conditional unlocks."
+  },
+  {
+    "namespace": "bq_standard",
+    "key": "bq_standard.importer.nat_file.desc",
+    "en": "Imports native quest database files and appends them onto the exisiting ones."
+  },
+  {
+    "namespace": "bq_standard",
+    "key": "bq_standard.importer.nat_url.desc",
+    "en": "Imports native quest databases from the internet and appends them onto the exisiting ones."
+  },
+  {
+    "namespace": "brandonscore",
+    "key": "gui.bc.downloading_image_failed.info",
+    "en": "Image Download failed! Shift + Left click to retry."
+  },
+  {
+    "namespace": "brandonscore",
+    "key": "gui.entityFilter.customTip.txt",
+    "en": "Player usernames must be formatted as [player]:username"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.area.arrow.data_flow",
+    "en": "Represents the flow of data from one item to another; either from a template to a gadget/template, or from a gadget/template to a template or piece of paper"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.area.field.template_name",
+    "en": "When data is saved/pasted, the resulting template will have this name"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.area.preview",
+    "en": "Preview of the data stored in the gadget/template"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.area.slot.gadget",
+    "en": "Accepts §ncopy-paste gadget§r or §ntemplate§r to be saved/copied from and loaded to \\n\\n§9Colored overlay§r indicates that the item will receive data"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.area.slot.template",
+    "en": "Accepts §npaper§r or §ntemplate§r to be loaded from and saved/pasted to\\n\\n§9Colored overlay§r indicates that the item will receive data"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.button.copy",
+    "en": "Copies data from a gadget/template to your computer's clipboard"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.button.load",
+    "en": "Loads data onto a gadget/template from a template"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.button.paste",
+    "en": "Pastes data on your computer's clipboard to a pre-existing template, or to a piece of paper, creating a template"
+  },
+  {
+    "namespace": "buildinggadgets",
+    "key": "help.gui.buildinggadgets.button.save",
+    "en": "Saves the data in the gadget/template to a pre-existing template, or to a piece of paper, creating a template"
+  },
+  {
+    "namespace": "cofh",
+    "key": "info.cofh.holdShiftForDetails",
+    "en": "Hold §e§oShift§r§7 for Details§r"
+  },
+  {
+    "namespace": "cofh",
+    "key": "info.cofh.tutorial.fluxRequired",
+    "en": "Requires Redstone Flux to operate."
+  },
+  {
+    "namespace": "cofh",
+    "key": "info.cofh.tutorial.tabAugment",
+    "en": "The Augmentation tab allows for modular additions."
+  },
+  {
+    "namespace": "cofh",
+    "key": "info.cofh.tutorial.tabRedstone",
+    "en": "The Redstone Control tab configures how this block reacts to redstone signals."
+  },
+  {
+    "namespace": "cofh",
+    "key": "info.cofh.tutorial.tabSecurity",
+    "en": "The Security tab allows the owner to control who can access this block."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.blockCount.exact",
+    "en": "Expected exactly %s of %s, while %s were found."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.blockCount.max",
+    "en": "Expected at most %s of %s, while %s were found."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.blockCount.min",
+    "en": "Expected at least %s of %s, while %s were found."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.hollow.air",
+    "en": "Position %s must be hollow."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.invalidBlock",
+    "en": "%s contains an invalid block %s."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.size.cube",
+    "en": "Dimensions %s forms no cube, dimensions are not equal."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.size.exact",
+    "en": "Found dimensions %s, while exactly %s was expected."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.size.max",
+    "en": "Found dimensions %s, while a maximum of %s was expected."
+  },
+  {
+    "namespace": "cyclopscore",
+    "key": "multiblock.cyclopscore.error.size.min",
+    "en": "Found dimensions %s, while a minimum of %s was expected."
+  },
+  {
+    "namespace": "danknull",
+    "key": "dn.alt_click_set.desc",
+    "en": "Alt+Click to set as selected item"
+  },
+  {
+    "namespace": "danknull",
+    "key": "dn.ctrl_click_change.desc",
+    "en": "Ctrl+Click to change extraction mode"
+  },
+  {
+    "namespace": "danknull",
+    "key": "dn.o_click_toggle.desc",
+    "en": "O+Click to toggle OreDict mode"
+  },
+  {
+    "namespace": "danknull",
+    "key": "dn.p_click_toggle.desc",
+    "en": "P+Click to toggle Placement mode"
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc",
+    "en": "The /dank/null is a spiritual successor and upgraded version of the OpenBlocks /dev/null/."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc0",
+    "en": "\\nThe §4§lRedstone§r /dank/null (MK I) is the lowest tier with 9 slots and up to 2 stacks in each slot."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc1",
+    "en": "\\nThe §9§lLapis§r /dank/null (MK II) is the 2nd tier with 18 slots and up to 4 stacks in each slot."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc2",
+    "en": "\\nThe §8§lIron§r /dank/null (MK III) is the 3rd tier with 27 slots and up to 8 stacks in each slot."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc3",
+    "en": "\\nThe §6§lGold§r /dank/null (MK IV) is the 4th tier with 36 slots and up to 16 stacks in each slot."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc4",
+    "en": "\\nThe §b§lDiamond§r /dank/null (MK IV) is the 5th tier with 45 slots and up to 32 stacks in each slot."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull.desc5",
+    "en": "The §2§lEmerald§r /dank/null (MK VI) is the top tier with 54 slots and up to 2.14 billion of an item per slot."
+  },
+  {
+    "namespace": "danknull",
+    "key": "jei.danknull_dock.desc",
+    "en": "-Right-click with /dank/null in-hand to place /dank/null in docking station\\n-Items can only be extracted from the /dank/null, not inserted-from bottom.\\n-Speed is determined by block that is pulling from the dock."
+  },
+  {
+    "namespace": "danknull",
+    "key": "key.next_item.desc",
+    "en": "Cycle to next item in /dank/null"
+  },
+  {
+    "namespace": "danknull",
+    "key": "key.previous_item.desc",
+    "en": "Cycle to previous item in /dank/null"
+  },
+  {
+    "namespace": "endermodpacktweaks",
+    "key": "msg.endermodpacktweaks.obsoletemods.warning1",
+    "en": "Ender's Modpack Tweaks has replaced and improved upon functionalities from other mods."
+  },
+  {
+    "namespace": "endermodpacktweaks",
+    "key": "msg.endermodpacktweaks.obsoletemods.warning2",
+    "en": "Therefore, the following mods are now incompatible with Ender's Modpack Tweaks:"
+  },
+  {
+    "namespace": "endermodpacktweaks",
+    "key": "msg.endermodpacktweaks.obsoletemods.warning3",
+    "en": "Consider removing them from your game or disabling the respective features."
+  },
+  {
+    "namespace": "extendedcrafting",
+    "key": "desc.item.ec.recipe_maker",
+    "en": "Used to copy the contents of an Extended Crafting Table or Ender Crafter as a script for CraftTweaker. This is done by right clicking the block. Sneak + right click to change mode."
+  },
+  {
+    "namespace": "extendedcrafting",
+    "key": "ec.interface.eject_desc",
+    "en": "The interface will automatically eject items from the input slot into the output slot if the item can't be inserted into the table."
+  },
+  {
+    "namespace": "extendedcrafting",
+    "key": "ec.interface.extract_desc",
+    "en": "The interface will automatically extract items into the inventory to the direction specified."
+  },
+  {
+    "namespace": "extendedcrafting",
+    "key": "ec.interface.insert_desc",
+    "en": "The interface will automatically insert items from the inventory to the direction specified."
+  },
+  {
+    "namespace": "extendedcrafting",
+    "key": "ec.interface.smart_desc",
+    "en": "The interface will not allow Auto Insert to insert items into the input slot that can't be inserted into the table."
+  },
+  {
+    "namespace": "extracells",
+    "key": "extracells.tooltip.storage.fluid.bytes",
+    "en": "%s of %s fluid bytes used."
+  },
+  {
+    "namespace": "extracells",
+    "key": "extracells.tooltip.storage.fluid.content",
+    "en": "contains %s mB of fluid."
+  },
+  {
+    "namespace": "extracells",
+    "key": "extracells.tooltip.storage.fluid.types",
+    "en": "%s of %s fluid types used."
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.already_invited",
+    "en": "%s already is invited!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.failed_to_join",
+    "en": "Can't join this team!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.must_leave",
+    "en": "You must leave your Team to do that!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.must_transfer_ownership",
+    "en": "You must transfer ownership!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.no_team",
+    "en": "You must be in a Team to do that!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.not_found",
+    "en": "Team '%s' not found!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.not_member",
+    "en": "%s is not a member of this Team!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.error.not_owner",
+    "en": "You are not the owner of this Team!"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.gui.members.invite",
+    "en": "Click to invite to your team"
+  },
+  {
+    "namespace": "ftblib",
+    "key": "ftblib.lang.team.gui.request_invite",
+    "en": "Click to request invite to '%s'"
+  },
+  {
+    "namespace": "hammercore",
+    "key": "gui.hammercore.notfuel",
+    "en": "Not Fuel!"
+  },
+  {
+    "namespace": "hammercore",
+    "key": "hc.manual_desc.hammercore",
+    "en": "HammerCore provides a very large set of APIs to use, some notable features are: ChunkLoad-API, Tooltip API (makes tiles show their progress / tooltip to both WAILA and The One Probe), Network API (for sending packets stored in NBTTagCompound), Multipart API, Cool Visual Effects and lots of others."
+  },
+  {
+    "namespace": "hammercore",
+    "key": "hc.manual_desc.wrench",
+    "en": "HammerCore adds WrenchAPI to make Zeitheron's mods independent of Buildcraft Wrench API. This item is a simple wrench that applies on tiles that respond to this API."
+  },
+  {
+    "namespace": "inventorytweaks",
+    "key": "invtweaks.extract.create.error",
+    "en": "[16] The mod won't work, because %s creation failed!"
+  },
+  {
+    "namespace": "inventorytweaks",
+    "key": "invtweaks.extract.find.error",
+    "en": "[15] The mod won't work, because %s could not be found!"
+  },
+  {
+    "namespace": "inventorytweaks",
+    "key": "invtweaks.keyboardfix.error",
+    "en": "[12] I'm having troubles with the keyboard"
+  },
+  {
+    "namespace": "inventorytweaks",
+    "key": "invtweaks.modcompat.ci.error",
+    "en": "[13] Failed to manage 'Convenient Inventory' compatibility"
+  },
+  {
+    "namespace": "inventorytweaks",
+    "key": "invtweaks.pickup.error",
+    "en": "[7] Failed to move picked up stack"
+  },
+  {
+    "namespace": "inventorytweaks",
+    "key": "invtweaks.propsfile.error",
+    "en": "[14] Failed to create the mod properties file"
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.craft.help",
+    "en": "Welcome to the main interface of the mod. The first thing suggested to do is to use the two buttons in the upper right to input the recipes, which allows you to create and edit recipes. All of the calculations require recipes to be recorded.\\fTo calculate the cost of an item, simply pick the item from JEIs item list then put it in the slot in the upper left of the interface with all of the recipes to use recorded. The result will then be displayed in the lower slots of the interface. The four buttons provide options to display input, output, catalyst and crafting steps.\\fThe button in the upper left allows you to edit and get a label. Labels are a very important part of the mod. They are basically things that can be put into a slot, including ItemStack, FluidStack, OreDict entry, or simply a placeholder. Lables are used in the calculation process. Most of time they are quite clever as long as you configure them properly."
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.import.help",
+    "en": "This interface allows you to import recipes. First place exported data files into \"config/JustEnoughCalculation/data/\", then you will see them in the list organized as \"filename/group\" if there is no error (otherwise check the log). Use the buttons to select recipe groups to import and hit the tick, then you are done.\\fFor pack makers or server owners, you can rename the data file and place it at \"config/JustEnoughCalculation/default.json\" to set it as default. When player creates world or joins server, the default recipes will be automatically setup for the user."
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.label.help",
+    "en": "This interface allows you to create labels. This mod provides 4 types of labels: fluid, oreDict, placeholder and item. To create fluid and oreDict label, you can just search and pick. Item labels represent an item stack, but with fuzzy options for meta, nbt and capalibity.\\fAs is indicated by the name, Placeholder labels do not hold any content. It is just a string to connect recipes. You can use it for anything, like structure or event energy. To create one, simply type in the name, then hit the tick. You can also search and pick from existing ones."
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.math.help",
+    "en": "You can use both buttons and keyboard (numpad or main keyboard) to use it. For main keyboard, the buttons are mapped to these keys:\\n- plus: = or +\\n- minus: - or _\\n- times: ' or \"\\n- divide by: / or ?\\n- equals: Enter\\n- clear: Delete\\n- backspace: Backspace"
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.recipe.help",
+    "en": "This interface allows you to create or edit recipes. To create one recipe, you can pick items from the JEI item list, then put it into the slots. When finished, simply click the save button. You can also fast transer recipes from JEI by clicking \"+\" when openning recipe view.\\fTo edit one label, you can simply click it, then a toolbar will pop up to help you, where you can switch between amount and percentage mode, type the amount, or remove the label. In addition, you can use mouse scroll to quickly change the amount. Clicking the \"Clear\" button will remove all of the labels.\\fUsing recipe fast transfer, some labels will automatically setup for you, like oreDict labels. If you do not want this behavoir, simply use \"Disambiguous\" button to select manually. You can also add labels by ckicking the \"Add label\" button. By the way, normally you shouldn't put fuzzy labels as output.\\fYou can easily manage recipes using groups. Click the \"New group\" button, type the group name and hit the tick, you are done. The new group name will show in the top bar. If you already have groups set up and you want to use an existing one, you can use the arrows to select between them.\\fWhen you are editing an existing recipe, you will have two extra buttons, \"Save as\" and \"Delete\". \"Save as\" allows you to save the current recipe as a new recipe, without changing the existing one. \"Delete\" simply allows you to delete the recipe."
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.search.delete_group",
+    "en": "\\u00A7cDelete\\u00A7r all recipes in group"
+  },
+  {
+    "namespace": "jecalculation",
+    "key": "jecalculation.gui.search.help",
+    "en": "This interface allows you to search, import and export recipes. Simply click the item to edit or delete the recipe. The two buttons in upper left will be helpful if you want to import or export recipes."
+  },
+  {
+    "namespace": "lightningcraft",
+    "key": "lightningcraft.electricium_info",
+    "en": "Electricium is the most important metal in LightningCraft. Create it for the first time by striking an iron ingot, gold ingot and diamond on the ground with lightning."
+  },
+  {
+    "namespace": "lightningcraft",
+    "key": "lightningcraft.guide_info",
+    "en": "Create it for the first time by striking an book on the ground with lightning."
+  },
+  {
+    "namespace": "lightningcraft",
+    "key": "lightningcraft.ichor_info",
+    "en": "Crafted Ingredient. Create it for the first time by striking an Demon Blood, Skyfather ingot and emerald on the ground with lightning."
+  },
+  {
+    "namespace": "lightningcraft",
+    "key": "lightningcraft.mystic_info",
+    "en": "Mystic ingots are made from godly essence and are the most powerful metal in LightningCraft."
+  },
+  {
+    "namespace": "lightningcraft",
+    "key": "lightningcraft.skyfather_info",
+    "en": "Skyfather ingots are a tier above electricium ingots. They're pretty cool."
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.deprecation.warning1",
+    "en": "LootTweaker: One or more scripts use deprecated methods. Check crafttweaker.log for more information."
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.deprecation.warning3",
+    "en": "Refer to https://github.com/Leviathan143/LootTweaker/wiki/Deprecations for more info. This warning can be disabled in the config."
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.functionhelper.damageOver100",
+    "en": "Items cannot receive more than 100% damage!"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.functionhelper.invalidEnchant",
+    "en": "%s is not a valid enchantment id"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.invalidEntryName",
+    "en": "No entry with name %s exists in pool %s"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.invalidPoolName",
+    "en": "No loot pool with name %s exists in table %s!"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.invalidTableName",
+    "en": "No loot table with name %s exists!"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.unparseableConditionType",
+    "en": "%s is not an instance of IData or LootCondition!"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.error.unparseableFunctionType",
+    "en": "%s is not an instance of IData or LootFunction!"
+  },
+  {
+    "namespace": "loottweaker",
+    "key": "loottweaker.messages.info.locatingLootTables",
+    "en": "All existing loot tables are being located. This may take a few seconds."
+  },
+  {
+    "namespace": "mekanism",
+    "key": "cmd.mek.chunk.clear.usage",
+    "en": "Remove all chunks from watch list for chunk loading/unloading events"
+  },
+  {
+    "namespace": "mekanism",
+    "key": "cmd.mek.chunk.unwatch.usage",
+    "en": "Remove caller's chunk from watch list for chunk loading/unloading events"
+  },
+  {
+    "namespace": "mekanism",
+    "key": "cmd.mek.chunk.watch.usage",
+    "en": "Add caller's chunk to watch list for loading/unloading events"
+  },
+  {
+    "namespace": "mekanism",
+    "key": "cmd.mek.testrules.usage",
+    "en": "Setup world rules for testing (no mob spawning, daylight cycle or weather)"
+  },
+  {
+    "namespace": "mekanism",
+    "key": "cmd.mek.tp.usage",
+    "en": "Teleport to new coordinates, saving last position on a stack"
+  },
+  {
+    "namespace": "mekanism",
+    "key": "cmd.mek.tpop.usage",
+    "en": "Return to last position on stack"
+  },
+  {
+    "namespace": "modularmachinery",
+    "key": "gui.blueprint.popout.info",
+    "en": "Sneak to freeze the current preview to be able to preview it in world."
+  },
+  {
+    "namespace": "modularmachinery",
+    "key": "gui.blueprint.popout.place",
+    "en": "Rightclick to place preview; move away from the placed one or open another structure preview (blueprint) to remove the one in-world."
+  },
+  {
+    "namespace": "modularmachinery",
+    "key": "gui.controller.status.redstone_stopped",
+    "en": "Machine stopped by incoming redstone signal"
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.bkey.content",
+    "en": "The 'B' key is a very special key in OpenBlocks.\\n\\nEnabling the 'weAreSeriousPeople' config option in the 'tomfoolery' category of both the client and server config files will give you your very own digestive system.\\n\\nTry eating some of that tasty clay and press 'B' to digest!"
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.credits.content",
+    "en": "§LBoq, Mikee and NeverCast§R - Former leading developers of the original OpenBlocks\\n\\n§LSinZ and Yoshi2§R - members of the OpenMods team from the start.\\n\\n§LVexatos and crafteverywhere§R - Regularly translating the mods.\\n\\nEveryone else who has contributed to the code over the past two years.\\n\\n§LDirewolf20 and the rest of ForgeCraft§R - for putting up with the bugs and crashes before we release.\\n\\nEveryone who's done spotlights, lets plays and generally supported the mod since we started!"
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.flimflam.content",
+    "en": "Scientists have yet to discover the properties of this enchantment."
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.laststand.content",
+    "en": "The last stand enchantment uses your XP bar as a final protection against dying.\\n\\nWhen you reach 0.5 hearts, the game will take XP from you whenever you're damaged instead of killing you. The higher number of enchantments you have the cheaper the XP cost will be."
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.restore_inv.content",
+    "en": "Everyone can make mistake. But with §L/ob_inventory§R command you can fix some of them. This command can be used to restore inventory. Backup is created when:\\n - player dies\\n - grave is spawned \\n - player issued command §L/ob_inventory store§R\\n\\nTo restore inventory you need backup name. Go to folder below or to saves folder on server and look for files named §Linventory-*.dat§R. Then restore inventory with §L/ob_inventory restore <player> <id>§R - where id is either full filename or just middle part, without §Linventory-§R and §L.dat§R. You can also use tab completion. Backups are normal NBT files and can be opened with any editor."
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.unstable.content",
+    "en": "We've had unconfirmed reports that this enchantment causes any gunpowder you're carrying to become unstable when you're attacked or when you jump off something.\\n\\nUse at your own risk!"
+  },
+  {
+    "namespace": "openblocks",
+    "key": "openblocks.gui.welcome.content",
+    "en": "OpenBlocks is an open source mod that introduces a variety of ideas into Minecraft, including hang gliders, elevators, tanks, graves, paints, cranes, liquid XP, cartographers, trophies and more! Besides the buttons, you can also navigate through the guidebook with Page Up, Page Down, Home and End."
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.button.back.info",
+    "en": "Shift-Click to return to Home"
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.button.resize.size6",
+    "en": "How large is your monitor even?"
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.editor.info",
+    "en": "This is an editor for Patchouli book entries. It's meant to be used for development or translation. There's no use for it if you're a player.$(br2)Please reference the $(l:https://github.com/Vazkii/Patchouli/wiki/Text-Formatting-101)Patchouli wiki$() for usable control codes."
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.history.info",
+    "en": "This section stores the previous few chapters you've visited.$(br2)Chapters are automatically added and removed as you browse through the book. Should you wish to keep them referenced for longer, you may bookmark them. $(br2)$(o)Tip: Try shift-clicking a chapter button!$()"
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.index.info",
+    "en": "An index of every chapter available in this book.$(br2)You may search through the index, or any other category, by simply typing in your query. A search bar will then appear to assist you."
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.landing_info",
+    "en": "(Placeholder landing text, define your own in your book json file!)"
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.loading_error",
+    "en": "Loading error!"
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.not_anchored",
+    "en": "Right-Click a Block to anchor the Structure"
+  },
+  {
+    "namespace": "patchouli",
+    "key": "patchouli.gui.lexicon.reloaded",
+    "en": "Books Reloaded. Took %d ms."
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "gui.satellite_pad_extras.2.desc",
+    "en": "Cargo Loader can be used for auto launching rockets"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "gui.satellite_pad_use.desc",
+    "en": "Use Satellite Rocket Launch Pad to launch"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "keycard.use.desc",
+    "en": "Right Click on Communication Dish from Galacticraft to Link"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "research.paper.use.desc",
+    "en": "Use in the Telescope to discover"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "research.paper.woldgen.desc",
+    "en": "Obtainable from a World Gen Structure"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "satellite.controller.use.keycard.desc",
+    "en": "Requires a Linked Communication Dish Keycard"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "satellite.use.desc",
+    "en": "Place in Cargo of Satellite Rocket"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "satellite.use.desc.rename",
+    "en": "Use within an Anvil to get a custom name"
+  },
+  {
+    "namespace": "planetprogression",
+    "key": "telescope.use.desc",
+    "en": "Used to discover space objects from Research Papers"
+  },
+  {
+    "namespace": "quark",
+    "key": "generator.quark_realistic.info",
+    "en": "[Quark] Realistic World Type by /u/Soniop"
+  },
+  {
+    "namespace": "reccomplex",
+    "key": "reccomplex.gui.inventorygen.minMaxItems",
+    "en": "Min Items: %s, Max Items: %s"
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.pickuptip",
+    "en": "Tip: if you need to retain energy and items, harvest while sneaking."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.reload",
+    "en": "[SERVER] Reloading solar panel configs..."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.upgrade.capacity",
+    "en": "Increases the internal capacity by %.2f%%."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.upgrade.efficiency",
+    "en": "Increases the amount of FE generated by %.2f%%."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.upgrade.furnace",
+    "en": "Accumulates energy to heat vanilla furnaces."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.upgrade.low.light",
+    "en": "Generates more FE in low light environments but less in full brightness."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.upgrade.transfer",
+    "en": "Increases the transfer rate by %.2f%%."
+  },
+  {
+    "namespace": "solarflux",
+    "key": "info.solarflux.upgrade.traversal",
+    "en": "Distributes energy to %d additional connected machine(s)."
+  },
+  {
+    "namespace": "thaumicaugmentation",
+    "key": "thaumicaugmentation.text.eldritch_lock_key_lore",
+    "en": "It seems to be a part of something larger..."
+  },
+  {
+    "namespace": "thaumicaugmentation",
+    "key": "thaumicaugmentation.text.key_bound_object",
+    "en": "Key bound to %s at %s"
+  },
+  {
+    "namespace": "thaumicenergistics",
+    "key": "gui.thaumicenergistics.out_of_aspect",
+    "en": "Out of aspect!"
+  },
+  {
+    "namespace": "thaumicenergistics",
+    "key": "gui.thaumicenergistics.out_of_vis",
+    "en": "Out of vis!"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.cover",
+    "en": "Combine with a Block to create Covers."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.dense",
+    "en": "Increases path length dramatically."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.energy",
+    "en": "Transfers Redstone Flux (RF)."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.fluidEnergy",
+    "en": "Transfers Fluids and Redstone Flux (RF)."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.itemEnergy",
+    "en": "Transfers Items and Redstone Flux (RF)."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.light",
+    "en": "Emits light when given a Redstone signal."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.transport",
+    "en": "Transfers Players. Whoosh."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.transportCrossover",
+    "en": "End points for Long Range Viaducts. Required."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.transportLongRange",
+    "en": "Fast transport between two specific locations."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.duct.vacuum",
+    "en": "Decreases path length dramatically."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.filter.decRetainSize",
+    "en": "Dec. Max Total Items in Inventory"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.filter.incRetainSize",
+    "en": "Inc. Max Total Items in Inventory"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.info.invalidCover",
+    "en": "Place in a crafting grid to convert to a Stone Cover."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.info.tracker.avg",
+    "en": "5 Sec. Avg. Level"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.info.tracker.avgInOut",
+    "en": "5 Sec. Avg. In/Out"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.servo.decStackSize",
+    "en": "Dec. Stack Size Extracted"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.servo.incStackSize",
+    "en": "Inc. Stack Size Extracted"
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.servo.slotMulti",
+    "en": "Extracts from multiple slots."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.servo.slotSingle",
+    "en": "Extracts from a single slot."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.toggle",
+    "en": "Right click to toggle mode."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.transferConnection",
+    "en": "Transfer amount is per connection."
+  },
+  {
+    "namespace": "thermaldynamics",
+    "key": "info.thermaldynamics.transferFluid",
+    "en": "Transfer rate varies by fluid."
+  },
+  {
+    "namespace": "twilightforest",
+    "key": "modifier.precipitate.desc",
+    "en": "§oThe last standing escape plan.§r\\nThe less health you have, the speedier it is!"
+  },
+  {
+    "namespace": "twilightforest",
+    "key": "modifier.stalwart.desc",
+    "en": "§oThe Brave and Bold.§r\\nHitting an entity can make you feel emboldened."
+  },
+  {
+    "namespace": "twilightforest",
+    "key": "modifier.synergy.desc",
+    "en": "§oLook ma, no moss!§r\\nWill repair itself if you have Steeleaves in your hotbar."
+  },
+  {
+    "namespace": "twilightforest",
+    "key": "modifier.twilit.desc",
+    "en": "§oThe Twilight Forest's illuminating blessing.§r\\nSpeedier in the Twilight Forest.\\nMore damage outside the Twilight Forest."
+  },
+  {
+    "namespace": "twilightforest",
+    "key": "modifier.veiled.desc",
+    "en": "§oLike a Specter!§r\\nProjectile will be invisible."
+  },
+  {
+    "namespace": "universaltweaks",
+    "key": "msg.universaltweaks.compactmessages.count",
+    "en": "This message has been repeated %s times"
+  },
+  {
+    "namespace": "universaltweaks",
+    "key": "msg.universaltweaks.obsoletemods.warning1",
+    "en": "Universal Tweaks has replaced and improved upon functionalities from other mods."
+  },
+  {
+    "namespace": "universaltweaks",
+    "key": "msg.universaltweaks.obsoletemods.warning2",
+    "en": "Therefore, the following mods are now incompatible with Universal Tweaks:"
+  },
+  {
+    "namespace": "universaltweaks",
+    "key": "msg.universaltweaks.obsoletemods.warning3",
+    "en": "Consider removing them from your game or disabling the respective features."
+  },
+  {
+    "namespace": "valkyrielib",
+    "key": "guide.valkyrielib.button.curseforge",
+    "en": "Find ValkyrieofNights other mods on CurseForge"
+  },
+  {
+    "namespace": "valkyrielib",
+    "key": "guide.valkyrielib.button.patreon",
+    "en": "Support ValkyrieofNight on Patreon!!!"
+  },
+  {
+    "namespace": "valkyrielib",
+    "key": "info.valkyrielib.useguide",
+    "en": "Search \"@ValkyrieLib Digital Guide\" in JEI for the in game guide"
+  },
+  {
+    "namespace": "waila",
+    "key": "screen.hwyla.warning",
+    "en": "§cWarning:§r You are using a fork of Waila called Hwyla. You can view the (mostly complete) list of changes by clicking the button at the top left of this screen."
+  },
+  {
+    "namespace": "wrcbe",
+    "key": "wrcbe.param.get.usage",
+    "en": "Usage: freq get [public | shared | private]"
+  },
+  {
+    "namespace": "wrcbe",
+    "key": "wrcbe.param.jam.usage",
+    "en": "Usage: freq jam [playername] [frequency range | all | default]"
+  },
+  {
+    "namespace": "wrcbe",
+    "key": "wrcbe.param.open.usage",
+    "en": "Usage: freq open [playername] [frequency range | all | default]"
+  },
+  {
+    "namespace": "wrcbe",
+    "key": "wrcbe.param.private.usage",
+    "en": "Usage: freq private [params...]"
+  },
+  {
+    "namespace": "wrcbe",
+    "key": "wrcbe.param.set.usage",
+    "en": "Usage: freq set [public | shared | private] [value]"
+  }
+]

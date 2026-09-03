@@ -1,0 +1,21 @@
+{
+  "name": "Druden",
+  "category": "lesser_demons",
+  "icon": "minecraft:sapling",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Không như phần lớn ác quỷ ẩn náu ngoài ranh giới thế giới chúng ta tại những vùng địa ngục, Druden thường ẩn mình trong những khu rừng tăm tối nhất, dùng vuốt gỗ sồi và các dạng ma thuật tự nhiên hắc ám để hành hạ lữ khách."
+    },
+    {
+      "type": "text",
+      "text": "Không như ác quỷ thông thường, Druden không chịu được lửa và sẽ nhanh chóng bốc cháy khi tiếp xúc với nó. Chúng cũng thường đi theo một Demonic Noble tên Herne, còn được gọi là Horned Huntsman, và cùng hắn tham gia Wild Hunt."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:druden",
+      "scale": 0.85,
+      "text": "$(o)Đừng nhầm với Dryad."
+    }
+  ]
+}

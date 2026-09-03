@@ -1,0 +1,22 @@
+// Sections
+intro=Introduction
+materials=Tool materials
+bowmaterials=Bow materials
+tools=Tools
+modifiers=Modifiers
+smeltery=Smeltery
+seared_furnace=Seared Furnace
+tinker_tank=Tinker Tank
+
+repairing=Repairing
+offhand=Offhand Harvesting
+bolt_core=Bolt Crafting
+
+modifier.effect=Effects:
+tool.properties=Properties:
+
+material.craft_partbuilder=Có thể chế tạo trong Part Builder
+material.craft_casting=Có thể đúc từ %s
+
+wood.flavour=Một con woodchuck quăng được bao nhiêu gỗ nếu woodchuck biết quăng gỗ?
+stone.flavour=Rock solid

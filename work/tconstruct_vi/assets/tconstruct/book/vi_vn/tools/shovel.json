@@ -1,0 +1,19 @@
+{
+  "tool": "shovel",
+  "text": [
+    {
+      "text": "Shovel là công cụ đào chính xác, hiệu quả với đất, cát, sỏi và tuyết."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nhấp chuột phải vào cỏ sẽ biến khối cỏ thành đường mòn."
+    }
+  ],
+  "properties": [
+    "Basic mining tool",
+    "Hiệu quả với Dirt, Sand và Gravel",
+    "Can create path"
+  ]
+}

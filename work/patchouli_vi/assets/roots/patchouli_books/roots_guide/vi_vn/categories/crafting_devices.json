@@ -1,0 +1,7 @@
+{
+  "name": "Thiết bị",
+  "parent": "crafting",
+  "sortnum": 2,
+  "description": "Phần này nói về các thiết bị có thể chế tạo, cũng như những thiết bị hỗ trợ việc tạo ra các vật phẩm khác.",
+  "icon": "roots:catalyst_plate"
+}

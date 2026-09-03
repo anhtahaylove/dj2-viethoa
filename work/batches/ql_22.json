@@ -1,0 +1,697 @@
+{
+  "chapter_index": 22,
+  "title_key": "dj2.quest.ql.22.title",
+  "chapter_title_en": "26. Getting Atomic",
+  "desc_key": "dj2.quest.ql.22.desc",
+  "chapter_desc_en": "Get back to your foundation with Alchemistry.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.22.title",
+      "en": "26. Getting Atomic"
+    },
+    {
+      "key": "dj2.quest.ql.22.desc",
+      "en": "Get back to your foundation with Alchemistry."
+    },
+    {
+      "key": "dj2.quest.db.476.title",
+      "en": "Beam Core? Huh, more like Be-gone Core!"
+    },
+    {
+      "key": "dj2.quest.db.476.desc",
+      "en": "Break down some Beam Cores into Nickel Chloride and Polyvinyl Chloride!"
+    },
+    {
+      "key": "dj2.quest.db.478.title",
+      "en": "I thought it was over... But alas, more Cores!"
+    },
+    {
+      "key": "dj2.quest.db.478.desc",
+      "en": "Obtain some Kaolinite from Draconic or Wyvern Cores, and combine it with Barium, Psyllium, and Chaotic Cores to get the actual final tier of Draconic Evolution Cores: The Corrupted Core!"
+    },
+    {
+      "key": "dj2.quest.db.479.title",
+      "en": "The Abyss is trippy"
+    },
+    {
+      "key": "dj2.quest.db.479.desc",
+      "en": "Break down Refined Coralium into Psyllium, or use some Hybrid Abyssalium to also get Potassium Permanganate."
+    },
+    {
+      "key": "dj2.quest.db.480.title",
+      "en": "Bury 'em!"
+    },
+    {
+      "key": "dj2.quest.db.480.desc",
+      "en": "Get some Han Purple from Wyvern Cores and some Barium Sulfate from Crystaltine Ingots, and break them down further into elemental Barium.%n%n...%n%n- Why are Helium, Curium, and Barium called the medical elements?%n%n- Because if you can't Helium or Curium, you Barium!"
+    },
+    {
+      "key": "dj2.quest.db.481.title",
+      "en": "Chemical Caster"
+    },
+    {
+      "key": "dj2.quest.db.481.desc",
+      "en": "It is highly recommended that you do the \"Growing Chaos\" quest at the top of this Chapter before doing this quest, so you won't have to kill another Chaos Guardian... unless... you'd LIKE to do that. Then go ahead.%n%nBuild the Chemical Caster multiblock!%n%nThe quest requires an additional Resistive Heater, which you'll use to provide heat for the machine. You can use any Mekanism Heat Acceptor on the top. Simply power the Resistive Heater, and set its power usage high first (to a couple thousand RF/tick), to have it heat up. Once it's sufficiently hot, you can bring its power usage down to only about 200 RF/tick. It takes a little while to have the heat transferred to the multiblock, so be patient.%n%nUsing this machine, you can cast any solid Alchemistry element into its Ingot form. It's fast, and it's available earlier than the Chemical Combiner, which is also capable of doing this. However the Combiner can create a bunch of Compounds as well.%n%nYou'll likely end up using both of the machines later on."
+    },
+    {
+      "key": "dj2.quest.db.482.title",
+      "en": "Rubbing it in"
+    },
+    {
+      "key": "dj2.quest.db.482.desc",
+      "en": "Break down Tungsten into Rubidium in the Fission multiblock!"
+    },
+    {
+      "key": "dj2.quest.db.483.title",
+      "en": "Why didn't you tell Alphonse Elric about this?!"
+    },
+    {
+      "key": "dj2.quest.db.483.desc",
+      "en": "Build the Fission multiblock!%n%nYou can check your Alchemistry Guidebook to see how to construct it, but it's a simple 5x5x5 hollow cube of Fission Casing blocks, with a 3-tall pillar of Fission Cores in the center. Then make sure to place the Fission Controller while looking AT the multiblock. (Sometimes the Guidebook shows its orientation incorrectly.)%n%nThen power the Controller, and you can input and output items from any side."
+    },
+    {
+      "key": "dj2.quest.db.484.title",
+      "en": "Holy Molybdenum!"
+    },
+    {
+      "key": "dj2.quest.db.484.desc",
+      "en": "Break down Bismuth into Molybdenum in the Fission multiblock!"
+    },
+    {
+      "key": "dj2.quest.db.485.title",
+      "en": "10^100 Chrome"
+    },
+    {
+      "key": "dj2.quest.db.485.desc",
+      "en": "Use Potassium Dichromate, Chromium Oxide, Wafers, or Rainbow Tablets to get some Chromium!"
+    },
+    {
+      "key": "dj2.quest.db.486.title",
+      "en": "The opposite of Pokemony"
+    },
+    {
+      "key": "dj2.quest.db.486.desc",
+      "en": "Get some Antimony Trioxide from End Steel, and break it down further into pure Antimony!"
+    },
+    {
+      "key": "dj2.quest.db.487.title",
+      "en": "Good luck pronouncing this!"
+    },
+    {
+      "key": "dj2.quest.db.487.desc",
+      "en": "Combine some Zirconium, Yttrium, and some Beryllium Alumide into Zircyttrid Beryllium Alumide!"
+    },
+    {
+      "key": "dj2.quest.db.488.title",
+      "en": "Breakout on Acid"
+    },
+    {
+      "key": "dj2.quest.db.488.desc",
+      "en": "Break down Beryl Zincite to get Beryllium Alumide and Silicon Trioxide!%n%n%n...Oh, the wonders of Alchemy!"
+    },
+    {
+      "key": "dj2.quest.db.489.title",
+      "en": "Yeet-rium"
+    },
+    {
+      "key": "dj2.quest.db.489.desc",
+      "en": "Break down some Platinum, Iridium, or Gold in the Fission Multiblock to obtain some Yttrium!"
+    },
+    {
+      "key": "dj2.quest.db.490.title",
+      "en": "Old nightmares"
+    },
+    {
+      "key": "dj2.quest.db.490.desc",
+      "en": "Break down some Gold or Mercury in the Fission multiblock to obtain some Zirconium!"
+    },
+    {
+      "key": "dj2.quest.db.491.title",
+      "en": "Atomizer"
+    },
+    {
+      "key": "dj2.quest.db.491.desc",
+      "en": "Make an Atomizer to turn any Fluid into atoms and molecules! It's the easiest way to get H20 or any other molecule that has a liquid form at room temperature."
+    },
+    {
+      "key": "dj2.quest.db.492.title",
+      "en": "Anti-Strong Compound... Weak Compound?"
+    },
+    {
+      "key": "dj2.quest.db.492.desc",
+      "en": "No, it's pretty strong. Make some!"
+    },
+    {
+      "key": "dj2.quest.db.493.title",
+      "en": "Heat resistant AND allows for circuits"
+    },
+    {
+      "key": "dj2.quest.db.493.desc",
+      "en": "Zirconium%nYttrium%nScandium%nCopper%n- %nBeryllium%nAlumide%nArgon%nCarbonate%nHelium%n%nSheet.%n%nOr, a Zysc-Baach Sheet, for short.%n%nCraft it in the Liquicrafter!%n%nRemember that Helium and Argon are considered liquids right now, so use liquid transporting Tanks or Fluid Conduits."
+    },
+    {
+      "key": "dj2.quest.db.494.title",
+      "en": "It's a Scandal!"
+    },
+    {
+      "key": "dj2.quest.db.494.desc",
+      "en": "Break down Niobium further into Scandium!"
+    },
+    {
+      "key": "dj2.quest.db.495.title",
+      "en": "Chipmunk Voice"
+    },
+    {
+      "key": "dj2.quest.db.495.desc",
+      "en": "Break down some Lithium or Beryllium in the Fission multiblock into Helium!"
+    },
+    {
+      "key": "dj2.quest.db.496.title",
+      "en": "Where have all the flowers gon"
+    },
+    {
+      "key": "dj2.quest.db.496.desc",
+      "en": "Break down Rubidium further into Argon!"
+    },
+    {
+      "key": "dj2.quest.db.497.title",
+      "en": "Am I D.?"
+    },
+    {
+      "key": "dj2.quest.db.497.desc",
+      "en": "Break down Luminessence to get Urea, then break it down further into Amide!"
+    },
+    {
+      "key": "dj2.quest.db.500.title",
+      "en": "Salty"
+    },
+    {
+      "key": "dj2.quest.db.500.desc",
+      "en": "Craft an Evaporator. When a fluid is placed in it, it will slowly evaporate into an item. You'll want to passively automate this, as you'll need a large amount of Mineral Salt.%n%nYou can push fluids from any side and pull items from any side as well."
+    },
+    {
+      "key": "dj2.quest.db.501.title",
+      "en": "Gone, Reduced to Elements"
+    },
+    {
+      "key": "dj2.quest.db.501.desc",
+      "en": "Craft a Chemical Dissolver! Give it some power and toss in a material and it will dissolve down into elements. You can push inputs and pull outputs from any side.%n%nIf you'd like to craft more Dissolvers but you don't have enough Chaos Shards, try to move towards the quest near the top of this Chapter called \"Growing Chaos\" that allows you to craft Tiny Chaos Fragments!%n%nThis quest also unlocks a lot of other quests on this page that aren't connected to it. This is because the connections would get really messy otherwise!%n%n§6(Note that if you have for some reason enabled edit mode, you must disable it to continue.)"
+    },
+    {
+      "key": "dj2.quest.db.502.title",
+      "en": "Machine Frame ^who knows"
+    },
+    {
+      "key": "dj2.quest.db.502.desc",
+      "en": "Okay I might have lied when I said the Draconic Machine Frame was the highest tier... but I swear this time there is no more... no more Machine Frame tiers... nah-ah, not at all. Nada. Yup. Definitely.%n%nTo craft the required Crystal Cores, you'll need Rock Crystals with size at least 300 and purity at least 75%%.%n%nTo grow Rock Crystals, place a Bucket of Starlight in a 1x1 hole. Throw a Rock Crystal inside and wait. This will slowly increase its size. Don't keep diving into the hole to see how much your Crystal has grown, the size changes will happen in larger jumps, and if you keep picking up the Rock Crystal, the size changes will never happen. Once the Rock Crystal size increases a bit, the Bucket of Starlight gets used up.%n%nIf the size of your Rock Crystal is nearing maximum (400), when throwing it into a pool will have a chance to split it into two. One will have the same purity, and the other will have its purity increased by 0-9%%.%n%nThis means for every split, on average you gain a Rock Crystal with a 4.5%% increased purity. Depending on what the original Crystal's purity was, it might take you 10 or even 20 full Crystal splittings before you can reach a high purity value. So it's important to start with at least a decent Crystal.%n%nOnce you obtain a couple high-purity Crystals, it's time to automate this! Your best friend will be Integrated Dynamics.%n%nThere is a great explanation by Direwolf20 in his video titled \"Enigmatica 2 Ep88 Dynamics Crystal Growth Pt2\", (search for it on YouTube and watch it carefully if you're unsure how to do this automation). Link is: https://youtu.be/8F3K8sSN3aM%n%nTo put together the ingredients, you'll once again need to use the Laser Focus multiblock. It is recommended that you swap out the Huge Energy Input Hatch into a Ludicrous one."
+    },
+    {
+      "key": "dj2.quest.db.503.title",
+      "en": "Calcium Carbs"
+    },
+    {
+      "key": "dj2.quest.db.503.desc",
+      "en": "Dissolve Meteoric Iron to gain some Calcium Carbonate. Your immediate use for them is to craft Mekanism Heat Input blocks from Modular Diversity.%n%nHowever you might need more Chaos Shards for the upcoming multiblock, so check out the quest near the top of this Chapter called \"Growing Chaos\" to get more!"
+    },
+    {
+      "key": "dj2.quest.db.504.title",
+      "en": "So THAT's what Mana tastes like"
+    },
+    {
+      "key": "dj2.quest.db.504.desc",
+      "en": "Break down AbyssalCraft Crystallized Mana or Runes of Mana into Ammonium. Your best bet is to use the highest tier AbyssalCraft Crystallized Mana Clusters."
+    },
+    {
+      "key": "dj2.quest.db.505.title",
+      "en": "Never before seen reactions"
+    },
+    {
+      "key": "dj2.quest.db.505.desc",
+      "en": "Obtain some Beryl from Mirion Ingots and Zinc Oxide from Alchemical Brass, and combine them into Beryl Zincite!"
+    },
+    {
+      "key": "dj2.quest.db.506.title",
+      "en": "Feelin' like a real Alchemist"
+    },
+    {
+      "key": "dj2.quest.db.506.desc",
+      "en": "Craft a Chemical Combiner! This machine allows you to create a bunch of Compounds as well as any Alchemistry Ingot. You can also create some basic materials with it.%n%nSimilarly to the Dissolver, you can input and output from any side.%n%nYou can combine up to 9 inputs, and each input slot can have any number of items. Sometimes putting elements into different slots will yield different results, for example both a Copper Ingot and a piece of Copper Dust takes 16 Copper elements, and placing the input into slot 1 or 2 will determine what the output is going to be.%n%nThis machine is 4x slower than the Chemical Caster multiblock, however it's still an essential block.%n%nIf you want to automate it without using AE2 patterns such as doing a process passively, you want to set a target recipe by looking at a Combiner recipe in JEI, and pressing the \"+\" button to import it into the machine. This way, all the input ingredients will land in the correct slot but can only support one recipe.%n%nTo create AE2 Patterns for the machine, just set the ae2 interface on blocking mode and use Alchemistry Slot Fillers if there are empty spaces between ingredients in the recipe. These Slot Fillers are incredibly cheap, but get consumed upon crafting, so you'll want a lot of them if you need them for any recipe."
+    },
+    {
+      "key": "dj2.quest.db.507.title",
+      "en": "From the Abyss, into Alchemy"
+    },
+    {
+      "key": "dj2.quest.db.507.desc",
+      "en": "Break down AbyssalCraft Methane into Alchemistry Methane!"
+    },
+    {
+      "key": "dj2.quest.db.508.title",
+      "en": "Strontium"
+    },
+    {
+      "key": "dj2.quest.db.508.desc",
+      "en": "Use one of the main Impetus items to get Strontium Carbonate and break it down further into regular Strontium!%n%nYou might want to semi-automate the creation of some of these Impetus items. You can use an External Crafter to keep your Primordial Pearl repaired.%n%nHowever, once you get to Fission, you'll be able to break down regular old Osmium into Strontium, so it's not hugely important to automate it now."
+    },
+    {
+      "key": "dj2.quest.db.509.title",
+      "en": "Nice and fertilized"
+    },
+    {
+      "key": "dj2.quest.db.509.desc",
+      "en": "Combine some materials in your Chemical Combiner into some Alchemistry Fertilizer, then into some Mystical Fertilizer!%n%nYou can use the latter to Bone Meal your Mystical Agriculture crops."
+    },
+    {
+      "key": "dj2.quest.db.510.title",
+      "en": "Diamonds!? Nah, just Di - ammonium..."
+    },
+    {
+      "key": "dj2.quest.db.510.desc",
+      "en": "Combine some Ammonium, Hydrogen, and Phosphate in your Chemical Combiner into Diammonium Phosphate!"
+    },
+    {
+      "key": "dj2.quest.db.511.title",
+      "en": "Electrolyzer"
+    },
+    {
+      "key": "dj2.quest.db.511.desc",
+      "en": "The Electrolyzer is an optional machine, but it is one of the ways to get Chlorine using only Water and Salt as the inputs. The other way is to just dissolve Mekanism Salt in a Chemical Dissolver."
+    },
+    {
+      "key": "dj2.quest.db.512.title",
+      "en": "Chromatic Barry"
+    },
+    {
+      "key": "dj2.quest.db.512.desc",
+      "en": "Make some Chromium Barium Compound!"
+    },
+    {
+      "key": "dj2.quest.db.513.title",
+      "en": "Tight -anium"
+    },
+    {
+      "key": "dj2.quest.db.513.desc",
+      "en": "While regular Titanium does yield Titanium elements, you can only get Titanium Oxide from Compressed Titanium or Titanium Boxes. The Boxes reliably yield more, not just with a 50%% chance."
+    },
+    {
+      "key": "dj2.quest.db.514.title",
+      "en": "I'm Elemental"
+    },
+    {
+      "key": "dj2.quest.db.514.desc",
+      "en": "Break down some Evil Infused Iron into Lead Iodide, and break it down further into regular Iodine!"
+    },
+    {
+      "key": "dj2.quest.db.515.title",
+      "en": "Melted Stars"
+    },
+    {
+      "key": "dj2.quest.db.515.desc",
+      "en": "Melt some Nether Stars to get Hydroxylapatite, and break it down further into Phosphate.%n%nThis might be the perfect time to upgrade your Wither farm as well!"
+    },
+    {
+      "key": "dj2.quest.db.516.title",
+      "en": "So that's why your Tung Stanks when you bite this"
+    },
+    {
+      "key": "dj2.quest.db.516.desc",
+      "en": "Dissolve some Stone Ichor into Tungsten!"
+    },
+    {
+      "key": "dj2.quest.db.517.title",
+      "en": "Growing Chaos"
+    },
+    {
+      "key": "dj2.quest.db.517.desc",
+      "en": "1. First use Iodine, Mercury, and Copper Chloride in your Liquicrafter multiblock to get a little bit of Impure Mercury-Iodine Mixture.%n%n2. Then purify this liquid with some Nickel Chloride to get pure Liquid Iodine.%n%n3. Finally, combine 10mB of Liquid Iodine with some Mesquite and Titanium Oxide to get 12 Tiny Chaos Fragments!%n%nIt might not be a bad idea to automate this entire process. I recommend using 3 separate Liquicrafters for it."
+    },
+    {
+      "key": "dj2.quest.db.518.title",
+      "en": "We can't GO to Mercury, but we can GET some Mercury"
+    },
+    {
+      "key": "dj2.quest.db.518.desc",
+      "en": "Break down Supremium Ingots into Mercury Sulfide, and break it down further into elemental Mercury."
+    },
+    {
+      "key": "dj2.quest.db.519.title",
+      "en": "Is it nature green or poison green...?"
+    },
+    {
+      "key": "dj2.quest.db.519.desc",
+      "en": "Alloy up some Cadmium and Arsenic! What could POSSIBLY go wrong?!"
+    },
+    {
+      "key": "dj2.quest.db.520.title",
+      "en": "Chad-mium"
+    },
+    {
+      "key": "dj2.quest.db.520.desc",
+      "en": "Break down some Flying Ointment into Cadmium Sulfide, and break it down further into Cadmium elements."
+    },
+    {
+      "key": "dj2.quest.db.521.title",
+      "en": "Taste the rainbow... Or don't, actually, DON'T!!!"
+    },
+    {
+      "key": "dj2.quest.db.521.desc",
+      "en": "Break down Rainbow Plates into Arsenic Sulfide and further into pure Arsenic.%n%nSo yeah, DON'T taste the Rainbow. For your own safety."
+    },
+    {
+      "key": "dj2.quest.db.522.title",
+      "en": "\"Sap Hire\" - is what a gemologist would call \"Free Honey\"."
+    },
+    {
+      "key": "dj2.quest.db.522.desc",
+      "en": "Combine some Cobalt Aluminate, Potassium Permanganate, and Aluminum Oxide to get your first Sapphire Gem!"
+    },
+    {
+      "key": "dj2.quest.db.523.title",
+      "en": "CoAl, not Coal...!"
+    },
+    {
+      "key": "dj2.quest.db.523.desc",
+      "en": "Break down some Mirion Ingots or Blocks into Cobalt Aluminate!"
+    },
+    {
+      "key": "dj2.quest.db.524.title",
+      "en": "Purpler and Calcer"
+    },
+    {
+      "key": "dj2.quest.db.524.desc",
+      "en": "Combine some Han Purple and Calcium Carbonate into Han Calcite!"
+    },
+    {
+      "key": "dj2.quest.db.525.title",
+      "en": "Vandalism"
+    },
+    {
+      "key": "dj2.quest.db.525.desc",
+      "en": "Break down Silver into some Vanadium!"
+    },
+    {
+      "key": "dj2.quest.db.526.title",
+      "en": "Barium Circuitry"
+    },
+    {
+      "key": "dj2.quest.db.526.desc",
+      "en": "1. Melt your elemental Tungsten in your Liquifier.%n%n2. Then also melt some Nitrogen. Even though Nitrogen is a gas, this time it can only be picked up in Fluid tanks! Low on Nitrogen? Well, there are several ways to get it. Check out all the possibilities in JEI!%n%n3. Then combine the above two liquids with a Copper Canister, some Barium Calcite, some Silicon Trioxide, some Dense Ice from the Asteroid Belt and some Sapphire to obtain an Oxygen-Rich Barium Calcite Perpetuator!"
+    },
+    {
+      "key": "dj2.quest.db.527.title",
+      "en": "Repeated Breakdown"
+    },
+    {
+      "key": "dj2.quest.db.527.desc",
+      "en": "Break down Han Calcite into Barium Calcite and Copper Carbonate!%n%nTake a minute to appreciate Alchemy... This is what Han Purple and Calcium Carbonate became...!"
+    },
+    {
+      "key": "dj2.quest.db.528.title",
+      "en": "Melting Atoms"
+    },
+    {
+      "key": "dj2.quest.db.528.desc",
+      "en": "Craft a Liquifier! Input 16 of certain elements to obtain their liquid form. You can use any side as item input and any side as fluid output."
+    },
+    {
+      "key": "dj2.quest.db.529.title",
+      "en": "Boring"
+    },
+    {
+      "key": "dj2.quest.db.529.desc",
+      "en": "Break down Fluorine, Neon, or Sodium into Boron!%n%nSodium comes from regular old Salt, so that's probably your best choice."
+    },
+    {
+      "key": "dj2.quest.db.530.title",
+      "en": "Queue-queue the Hellfire"
+    },
+    {
+      "key": "dj2.quest.db.530.desc",
+      "en": "Break down Bottled Hellfire into Cucurbitacin!"
+    },
+    {
+      "key": "dj2.quest.db.531.title",
+      "en": "Rubying it in"
+    },
+    {
+      "key": "dj2.quest.db.531.desc",
+      "en": "Alloy up some Ruby and Rubidium into Ruby Rubidium. Fun!"
+    },
+    {
+      "key": "dj2.quest.db.532.title",
+      "en": "Rube Goldberg would be proud"
+    },
+    {
+      "key": "dj2.quest.db.532.desc",
+      "en": "Combine some Strontium Carbonate, Cucurbitacin, and beta-Carotene into your first piece of Ruby!"
+    },
+    {
+      "key": "dj2.quest.db.533.title",
+      "en": "V-M-B"
+    },
+    {
+      "key": "dj2.quest.db.533.desc",
+      "en": "Obtain some Mendelevium from Nether Stars and alloy up some Vanadium, Mendelevium, and Boron into some V.M.B. Compound!"
+    },
+    {
+      "key": "dj2.quest.db.534.title",
+      "en": "Adding Carbon and Hydrogen... many many times."
+    },
+    {
+      "key": "dj2.quest.db.534.desc",
+      "en": "Upgrade Methane into Ethane, Propane, Butane, Pentane, and finally, Hexane!"
+    },
+    {
+      "key": "dj2.quest.db.535.title",
+      "en": "Slot Machine"
+    },
+    {
+      "key": "dj2.quest.db.535.desc",
+      "en": "It's only a piece of Peridot and $49.99 to upgrade your Token to the last tier! Call now - 01/66/420-DR4G0N!"
+    },
+    {
+      "key": "dj2.quest.db.536.title",
+      "en": "It's even on the Peridotic Table"
+    },
+    {
+      "key": "dj2.quest.db.536.desc",
+      "en": "Combine some Magnesium Sulfate, Magnesium Oxide, and Hexane to obtain your first Peridot!"
+    },
+    {
+      "key": "dj2.quest.db.537.title",
+      "en": "Blue on the outside, Cyan in the inside"
+    },
+    {
+      "key": "dj2.quest.db.537.desc",
+      "en": "Break down Crystalline Ingots or Crystaltine Ingots to get some Copper Chloride!"
+    },
+    {
+      "key": "dj2.quest.db.538.title",
+      "en": "Mmm...(th)at's quite nice"
+    },
+    {
+      "key": "dj2.quest.db.538.desc",
+      "en": "Break down Void Metal or any base Impetus item to obtain Mesquite! Remember that Void Metal Seeds are now available to craft."
+    },
+    {
+      "key": "dj2.quest.db.539.title",
+      "en": "Copper Bismid Sheet"
+    },
+    {
+      "key": "dj2.quest.db.539.desc",
+      "en": "Combine some Copper Carbonate and Bismuth into a Sheetmetal shape!"
+    },
+    {
+      "key": "dj2.quest.db.540.title",
+      "en": "Bismuth"
+    },
+    {
+      "key": "dj2.quest.db.540.desc",
+      "en": "Obtain some Bismuth from Demonic Elixirs!"
+    },
+    {
+      "key": "dj2.quest.db.541.title",
+      "en": "Magnesium Compounds"
+    },
+    {
+      "key": "dj2.quest.db.541.desc",
+      "en": "Break down Basic Wafers, some Flying Ointment, or some Bottled Frostfire to obtain Magnesium Sulfate.%n%nAlso break down any of the Will Crystals to get Magnesium Oxide. The best yield comes from Destructive, Vengeful, and Steadfast Will Crystals."
+    },
+    {
+      "key": "dj2.quest.db.542.title",
+      "en": "What Lead to this?!"
+    },
+    {
+      "key": "dj2.quest.db.542.desc",
+      "en": "Break down some Lead in the Fission multiblock into Niobium!"
+    },
+    {
+      "key": "dj2.quest.db.543.title",
+      "en": "Weak Fusion Plant"
+    },
+    {
+      "key": "dj2.quest.db.543.desc",
+      "en": "Gather up the materials listed on the right and build a Weak Fusion Plant! This machine is capable of combining certain elements by adding their atomic numbers. It's not as strong as Alchemistry's Fusion multiblock though, but we gotta work with what we got.%n%nThis machine requires a lot of power to use though, so definitely use the appropriate power transfer methods. Stellar Conduits won't cut it for some recipes, so consider making some Cryo-Stabilized Fluxducts!"
+    },
+    {
+      "key": "dj2.quest.db.544.title",
+      "en": "Fission makes these easier!"
+    },
+    {
+      "key": "dj2.quest.db.544.desc",
+      "en": "Using Fission, now you can simply get Strontium from Osmium, Chromium from Silver, and Manganese from Tin!"
+    },
+    {
+      "key": "dj2.quest.db.546.title",
+      "en": "Neon"
+    },
+    {
+      "key": "dj2.quest.db.546.desc",
+      "en": "Break down Calcium or Scandium into Neon!%n%nYou can use Condensed Milk or Eggs for Calcium, and you can get Scandium from Niobium, and Niobium from Lead."
+    },
+    {
+      "key": "dj2.quest.db.547.title",
+      "en": "Heating up and Cooling down"
+    },
+    {
+      "key": "dj2.quest.db.547.desc",
+      "en": "Fission requires some sturdy coolants! Cadmium Arsenic provides appropriate casing and Neon can cool the machine. Unfortunately these break after each infusion though."
+    },
+    {
+      "key": "dj2.quest.db.548.title",
+      "en": "Handle it with care...!"
+    },
+    {
+      "key": "dj2.quest.db.548.desc",
+      "en": "Fuse up some Uranium from Niobium and Antimony. As long as the tube is sealed, it shouldn't cause any harm..."
+    },
+    {
+      "key": "dj2.quest.db.549.title",
+      "en": "A Paladin living in a Palace made of..."
+    },
+    {
+      "key": "dj2.quest.db.549.desc",
+      "en": "Break down Uranium into Palladium!"
+    },
+    {
+      "key": "dj2.quest.db.550.title",
+      "en": "A tube separates us from certain death"
+    },
+    {
+      "key": "dj2.quest.db.550.desc",
+      "en": "Fuse up some Palladium and Cadmium into Plutonium!"
+    },
+    {
+      "key": "dj2.quest.db.551.title",
+      "en": "Guess its radioactive level from its name"
+    },
+    {
+      "key": "dj2.quest.db.551.desc",
+      "en": "Fuse up Molybdenium and Palladium into Radium!%n%nUse it quickly so it won't radiate away...!"
+    },
+    {
+      "key": "dj2.quest.db.552.title",
+      "en": "Routinely doing this now!"
+    },
+    {
+      "key": "dj2.quest.db.552.desc",
+      "en": "Break down some Radium into Ruthenium!%n%n...Phew, you used it quickly enough so it didn't radiate away!"
+    },
+    {
+      "key": "dj2.quest.db.553.title",
+      "en": "Thor's favorite element"
+    },
+    {
+      "key": "dj2.quest.db.553.desc",
+      "en": "Fuse up Ruthenium and Palladium into Thorium!"
+    },
+    {
+      "key": "dj2.quest.db.554.title",
+      "en": "The Road leads here..."
+    },
+    {
+      "key": "dj2.quest.db.554.desc",
+      "en": "Break down Thorium into Rhodium!"
+    },
+    {
+      "key": "dj2.quest.db.555.title",
+      "en": "The next Ytter-ation"
+    },
+    {
+      "key": "dj2.quest.db.555.desc",
+      "en": "Fuse up some Ytterbium from Arsenic and Rubidium!"
+    },
+    {
+      "key": "dj2.quest.db.556.title",
+      "en": "Bro, mine it up! ...Or I mean fuse it up!"
+    },
+    {
+      "key": "dj2.quest.db.556.desc",
+      "en": "Break down some Ytterbium into Bromine!"
+    },
+    {
+      "key": "dj2.quest.db.557.title",
+      "en": "MELTDOWN"
+    },
+    {
+      "key": "dj2.quest.db.557.desc",
+      "en": "1. Create some Liquid Bromine in the Liquifier.%n%n2. Also create some Molten Uranium from its elemental form in the Liquifier.%n%n3. Cast some Plutonium and Rhodium Ingots.%n%n4. Combine them in the Liquicrafter. I recommend replacing its Energy Input Hatch with a highest tier one, since this recipe requires 200,000 RF/tick. And watch out! This element is no longer in a safely contained flask.%n%nPick it up to complete the quest, but §cimmediately put it away into a container§f, otherwise really bad things will happen!"
+    },
+    {
+      "key": "dj2.quest.db.558.title",
+      "en": "Never before seen power"
+    },
+    {
+      "key": "dj2.quest.db.558.desc",
+      "en": "Craft the items listed to the right to set up a Draconic Reactor.%n%nMany people avoid using this awesome multiblock because of its known downside: It can go boom. Well, no longer. In this pack, I've decided to §6disable the Draconic Reactor explosion§r, so that more people would be interested in using this machine.%n%nI've also §6increased its power output by 500x§r, but §6increased its fuel usage by 10x§r as well.%n%nFor a detailed guide on how to construct the multiblock, check your Draconic Evolution Information Tablet -> Draconic Evolution -> Draconic Reactor section.%n%nMake sure the injector rate you set is 500x what tutorials might say, due to the buff of its power output."
+    },
+    {
+      "key": "dj2.quest.db.559.title",
+      "en": "A power of Chaos, compressed into a ball"
+    },
+    {
+      "key": "dj2.quest.db.559.desc",
+      "en": "Craft a Draconic Reactor Core! This is the central piece of the Draconic Reactor multiblock, but it's also used as a crafting ingredient."
+    },
+    {
+      "key": "dj2.quest.db.560.title",
+      "en": "Stabilizing Chaos"
+    },
+    {
+      "key": "dj2.quest.db.560.desc",
+      "en": "Craft the required items for the Chaos Stabilization ritual listed to the right. You'll need to recraft the Awakened Draconium Blocks every time you perform the Ritual.%n%nOpen your Draconic Evolution Information Tablet, go to Draconic Additions -> Chaos Stabilizer to learn more. This multiblock allows you to stabilize the highest tier Armor and Omnitool, the Chaotic ones."
+    },
+    {
+      "key": "dj2.quest.db.561.title",
+      "en": "Let Chaos ensue"
+    },
+    {
+      "key": "dj2.quest.db.561.desc",
+      "en": "Craft a full set of Chaotic Armor. They're an even better version of the Draconic Armor, with one catch, you'll need to stabilize them first.%n%n§c§lWARNING:§r Before you equip any of these armor pieces, you'll need to stabilize them. Read the Draconic Information Tablet -> Draconic Additions -> Chaos Stabilizer section on how to perform the Stabilization Ritual."
+    },
+    {
+      "key": "dj2.quest.db.562.title",
+      "en": "It's pure Chaos"
+    },
+    {
+      "key": "dj2.quest.db.562.desc",
+      "en": "Craft a Chaotic Staff of Power.%n%n§c§lWARNING:§r Before you use this tool, you'll need to stabilize it. Read the Draconic Information Tablet -> Draconic Additions -> Chaos Stabilizer section on how to perform the Stabilization Ritual."
+    },
+    {
+      "key": "dj2.quest.db.563.title",
+      "en": "Imagine if time passed faster..."
+    },
+    {
+      "key": "dj2.quest.db.563.desc",
+      "en": "Craft an Imaginary Time Block! This machine speeds up the tickrate of blocks in a 7x7x5 area centered on itself, making it quite nice for a large crop farm. It just requires power and nothing else!"
+    },
+    {
+      "key": "dj2.quest.db.1712.title",
+      "en": "Even more Primordierer"
+    },
+    {
+      "key": "dj2.quest.db.1712.desc",
+      "en": "Craft a Goddess' Pearl! This is an infinite durability Primordial Pearl. You can also get infinitely many Primordial Fragments from it, however, small warning: Shift+Left Clickinging Primordial Fragments from the crafting window's output will freeze your game for a couple seconds while filling your inventory with these Fragments."
+    }
+  ]
+}

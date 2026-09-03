@@ -1,0 +1,22 @@
+{
+  "gui.accept": "Chấp nhận",
+  "gui.add": "Thêm",
+  "gui.added": "Đã thêm",
+  "gui.remove": "Xóa",
+  "gui.removed": "Đã xóa",
+  "gui.close": "Đóng",
+  "gui.open": "Mở",
+  "gui.saved": "Đã lưu",
+  "gui.loaded": "Đã tải",
+  "gui.info": "Thông tin",
+  "gui.collapse_all": "Thu gọn tất cả",
+  "gui.expand_all": "Mở rộng tất cả",
+  "gui.download": "Tải xuống",
+  "gui.downloaded": "Đã tải xuống",
+  "gui.update": "Cập nhật",
+  "gui.updated": "Đã cập nhật",
+  "gui.active": "Đang hoạt động",
+  "gui.inactive": "Không hoạt động",
+  "gui.settings": "Cài đặt",
+  "gui.rename": "Đổi tên"
+}

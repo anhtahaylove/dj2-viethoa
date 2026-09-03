@@ -1,0 +1,12 @@
+{
+  "name": "Poppet of Clumsiness",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_clumsy",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_clumsy",
+      "text": "Có khả năng khiến kẻ tấn công đánh rơi vũ khí"
+    }
+  ]
+}

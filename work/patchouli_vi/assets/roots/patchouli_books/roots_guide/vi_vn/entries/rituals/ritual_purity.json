@@ -1,0 +1,85 @@
+{
+  "name": "Purity",
+  "icon": "roots:ritual_purity",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_purity",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mọi sinh vật gần nghi lễ sẽ dần được loại bỏ bệnh trạng, lửa và hiệu ứng bất lợi.$(br2)$(warning) Điều này cũng áp dụng cho sinh vật thù địch.$(br2)Ngoài ra, Villager đang được chữa khỏi lời nguyền Zombie sẽ hồi phục nhanh hơn khi nghi lễ hoạt động, và hiệu ứng weakness trên họ sẽ không bị loại bỏ."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_purity",
+      "text": "$(standing_stones) Là một nghi lễ $(l:rituals/tiers)$(bold)bậc II$(), cần $(l:rituals/ritual_purity#multiblock)hai cột rune bằng gỗ sồi để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "L": "minecraft:log[variant=oak]",
+          "W": "roots:runed_oak"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   W   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   W   "
+          ],
+          [
+            "   L   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   L   "
+          ],
+          [
+            "   L   ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "   L   "
+          ]
+        ]
+      },
+      "text": "Cần hai $(l:rituals/standing_stones)cột rune$() bằng gỗ sồi."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:purity/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ tìm kiếm trong khu vực rộng $(ritual:purity/radius_x) và $(ritual:purity/radius_z) khối theo chiều ngang, cùng $(ritual:purity/radius_y) khối theo chiều dọc.$(br2)$(bold)Thanh tẩy$(): Trong suốt nghi lễ, việc thanh tẩy diễn ra mỗi $(ritual:purity/SECONDS/interval) giây, loại bỏ 1 trạng thái bất lợi khỏi mỗi thực thể, bao gồm cả trạng thái cháy."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Giải lời nguyền Zombie$(): Quá trình chữa trị những dân làng bị Zombie nguyền rủa đang được chữa sẽ nhanh hơn $(ritual:purity/MULT/zombie_count)x."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

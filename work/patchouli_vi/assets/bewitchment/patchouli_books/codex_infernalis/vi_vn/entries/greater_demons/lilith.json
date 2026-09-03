@@ -1,0 +1,15 @@
+{
+  "name": "Queen Lilith",
+  "category": "greater_demons",
+  "icon": "bewitchment:bottle_of_vampire_blood",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Lilith, nữ chủ nhân của màn đêm. Nàng nổi tiếng với khả năng quyến rũ cả nam lẫn nữ vào vòng tay đầy dục vọng rồi biến họ thành những sinh vật đáng sợ của bóng đêm."
+    },
+    {
+      "type": "text",
+      "text": "Những trang còn lại đẫm máu và thoảng mùi gỗ đàn hương."
+    }
+  ]
+}

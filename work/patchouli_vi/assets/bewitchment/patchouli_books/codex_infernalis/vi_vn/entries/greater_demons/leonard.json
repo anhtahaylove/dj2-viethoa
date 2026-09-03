@@ -1,0 +1,30 @@
+{
+  "name": "Master Leonard",
+  "category": "greater_demons",
+  "icon": "bewitchment:leonards_wand",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một số nghi lễ nhắc đến con quỷ tên Leonard, kẻ mang nhiều danh xưng như The Black Goat of the Woods, Azazel, The Morning Star và The False King of the Templars. Tuy nhiên, nhiều danh xưng trong số đó lại mâu thuẫn nhau, và hắn dường như là con quỷ cai quản các phù thủy."
+    },
+    {
+      "type": "text",
+      "text": "Những kẻ triệu hồi hắn thường phải ăn hỗn hợp kinh tởm mang tên Stew of the Grotesque, đồng thời cầm Green Candle và mặc trọn bộ áo choàng phù thủy bất kỳ để nhận được phước lành của hắn."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:leonard",
+      "scale": 0.9
+    },
+    {
+      "type": "text",
+      "title": "Triệu hồi",
+      "text": "Triệu hồi Master Leonard khá khó khăn; nghi lễ đòi hỏi phải đổ máu một con cừu non. Ta đã ghi chép nghi lễ như sau:"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:conjure_leonard",
+      "name": "Leonard's Sabbath"
+    }
+  ]
+}

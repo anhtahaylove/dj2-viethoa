@@ -1,0 +1,14 @@
+setIcon(<draconicevolution:draconic_core>)
+setTitle("Chào mừng đến late game!")
+setDescription("Bước vào late game bằng cách chế tạo Draconic Core!")
+
+addParent("triumph:dj2/root")
+setPos(3,284)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasDraconicCore", "minecraft:inventory_changed")
+criteria.addItem(<draconicevolution:draconic_core>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:21_welcome_to_lategame")

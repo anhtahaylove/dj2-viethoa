@@ -1,0 +1,6 @@
+# Safe player-facing tooltip/prose candidates.
+chat.rfStored=%s RF in reserve
+chat.telepad.link.error.1=Telepads can only link if they are in the same dimension
+chat.telepad.link.success=Telepad successfully linked!
+chat.telepad.link.stored=Telepad location saved
+chat.telepad.link.clear=Telepad location cleared

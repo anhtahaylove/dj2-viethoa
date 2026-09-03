@@ -1,0 +1,33 @@
+{
+  "name": "Nhóm lửa",
+  "icon": "roots:fire_starter",
+  "category": "rituals_ritual",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "oredict_spotlight",
+      "oredict": "pyreFireStarters",
+      "name": "Fire Starters",
+      "text": "Có thể châm lửa cho Pyre bằng nhiều dụng cụ, bao gồm các dụng cụ minh họa phía trên. Nếu vật phẩm có độ bền, thao tác bắt đầu nghi lễ sẽ làm giảm độ bền của nó.$(br2)Có thể cấu hình fire starters qua mục $(bold)pyreFireStarters$() trong ore dictionary."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:firestarter",
+      "text": "Ngoài ra, bạn có thể chế tạo một $(l:crafting/firestarter)fire-starter$() thô sơ từ hai stick.$(br2)Bạn phải vận phép bằng dụng cụ này trên Pyre trong vài giây để khởi động; sau đó dụng cụ sẽ bị tiêu hao."
+    },
+    {
+      "type": "text",
+      "title": "Tự động hóa",
+      "text": "Pyre sẽ tự động bốc cháy nếu phát hiện lửa ngay khu vực xung quanh. $(l:rituals/automation)Vui lòng xem mục Tự động hóa$() để biết chi tiết chính xác hơn."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/firestarter",
+        "crafting/pyres",
+        "rituals/automation"
+      ]
+    }
+  ]
+}

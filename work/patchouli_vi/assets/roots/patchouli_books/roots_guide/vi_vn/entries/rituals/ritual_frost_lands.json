@@ -1,0 +1,23 @@
+{
+  "name": "Frost Lands",
+  "icon": "roots:ritual_frost_lands",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_frost_lands",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Vùng đất xung quanh bị cái lạnh mùa đông đóng băng, tuyết phủ thành từng lớp khắp nơi.$(br2)Ngoài việc biến nước thành băng, dung nham còn biến thành obsidian hoặc cobblestone, còn farmland tạm thời được cấp ẩm.$(br2)$(info) Cuối cùng, Snow Golem sẽ xuất hiện trong khu vực nghi thức và được hồi máu khi còn ở bên trong."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_frost_lands",
+      "text": "Là nghi thức $(l:rituals/tiers)$(bold)bậc 0$(), nghi thức này không có thêm yêu cầu nào để hoàn thành."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi thức",
+      "text": "$(bold)Thời lượng:$() Nghi thức kéo dài $(ritual:frost_lands/SECONDS/duration) giây.$(br2)$(bold)Kích thước:$() Khu vực nghi thức mở rộng $(ritual:frost_lands/radius_x) và $(ritual:frost_lands/radius_z) khối từ tâm theo chiều ngang, cùng $(ritual:frost_lands/radius_y) khối theo chiều dọc.$(br2)$(bold)Snow Golem:$() Golem được hồi máu sau mỗi $(ritual:frost_lands/SECONDS/interval_snowman_heal) giây và có $(ritual:frost_lands/PERCENT/interval_snowman_spawn) khả năng xuất hiện mỗi tick."
+    }
+  ]
+}

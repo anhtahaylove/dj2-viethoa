@@ -1,0 +1,22 @@
+{
+  "name": "Fey Leather",
+  "icon": "roots:fey_leather",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:fey_leather",
+      "link_recipe": true,
+      "text": "Loại da bền chắc này có thể được lấy từ các sinh vật trong Fey Realm mà không làm hại chúng, bằng cách dùng $(l:crafting/runic_shears)Runic Shears$() lên sinh vật tương ứng trong thế giới của chúng ta.$(br2)Xem $(sources:roots:fey_leather)JEI$() để biết danh sách đầy đủ."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears",
+        "crafting/sylvan_armor"
+      ]
+    }
+  ]
+}

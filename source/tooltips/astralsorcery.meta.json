@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "astralsorcery-1.12.2-1.10.27.jar",
+      "path": "assets/astralsorcery/lang/en_US.lang"
+    }
+  ]
+}

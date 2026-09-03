@@ -1,0 +1,13 @@
+{
+  "gui.advanced_memory_card.bind": "Liên Kết",
+  "gui.advanced_memory_card.desc.effect": "Hiệu ứng:",
+  "gui.advanced_memory_card.desc.mode": "Chuyển sang %s",
+  "gui.advanced_memory_card.desc.mode.input": "Đầu vào",
+  "gui.advanced_memory_card.desc.mode.output": "Đầu ra",
+  "gui.advanced_memory_card.desc.not_set": "Chưa đặt",
+  "gui.advanced_memory_card.mode.copy": "Chế độ: Sao Chép Đầu Ra",
+  "gui.advanced_memory_card.mode.input": "Chế độ: Liên Kết Đầu Vào",
+  "gui.advanced_memory_card.mode.output": "Chế độ: Liên Kết Đầu Ra",
+  "gui.advanced_memory_card.pos": "Vị trí: %d, %d, %d",
+  "gui.advanced_memory_card.select": "Chọn"
+}

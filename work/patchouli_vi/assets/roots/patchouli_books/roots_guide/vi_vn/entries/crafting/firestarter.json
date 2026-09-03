@@ -1,0 +1,26 @@
+{
+  "name": "Fire Starter",
+  "icon": "roots:fire_starter",
+  "category": "crafting_armor_tools",
+  "sortnum": 7,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:firestarter",
+      "text": "Fire Starter là một dụng cụ đơn giản làm từ các que gỗ.$(br2)Tuy chỉ dùng được một lần và cần vận sức trong vài giây trước khi lửa bùng lên, đây vẫn là lựa chọn thay thế tiện lợi cho flint & steel."
+    },
+    {
+      "type": "text",
+      "text": "Trong lúc vận sức bằng Fire Starter, bạn có thể biết lửa sẽ xuất hiện ở đâu nhờ các hạt khói bốc lên từ khối đó.$(br2)$(info) Có thể dùng Fire Starter để $(l:rituals/fire_starter)khởi động một pyre$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/introduction",
+        "rituals/fire_starter"
+      ]
+    }
+  ]
+}

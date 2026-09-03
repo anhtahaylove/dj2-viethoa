@@ -1,0 +1,22 @@
+{
+  "text.industrialforegoing.tooltip.hold_shift": "Giữ §e§oShift §7để xem chi tiết",
+  "text.industrialforegoing.tooltip.accepts_range_addons": "* Chấp nhận Range Addon",
+  "text.industrialforegoing.tooltip.range": "* Khu vực cơ bản: {0}x{1} (Rộng x Cao)",
+  "text.industrialforegoing.tooltip.adult_filter": "* Chấp nhận Adult Filters",
+  "text.industrialforegoing.tooltip.fortune_addon": "* Chấp nhận Fortune Addon",
+  "text.industrialforegoing.tooltip.energy_field_charge": "Điện tích:",
+  "text.industrialforegoing.tooltip.energy_field_linked": "Vị trí liên kết:",
+  "text.industrialforegoing.tooltip.energy_field_right_click": "Nhấp chuột phải vào Energy Field Provider để liên kết",
+  "text.industrialforegoing.tooltip.max_transfer_amount": "Lượng truyền tối đa:",
+  "text.industrialforegoing.tooltip.no_wither_skull": "Có vẻ bạn không thể đặt vật này, nhưng có lẽ máy móc làm được.",
+  "text.industrialforegoing.tooltip.max_tier": "Bậc tối đa:",
+  "text.industrialforegoing.tooltip.found_heat": "Có sẵn nguồn nhiệt",
+  "text.industrialforegoing.tooltip.missing_heat": "Thiếu nguồn nóng",
+  "text.industrialforegoing.tooltip.found_cold": "Có sẵn nguồn lạnh",
+  "text.industrialforegoing.tooltip.missing_cold": "Thiếu nguồn lạnh",
+  "text.industrialforegoing.chat.crusher_kill": " %s%d đã bị nghiền nát.",
+  "text.industrialforegoing.chat.slaughter_kill": " %s%d đã bị giết mổ.",
+  "conveyor.upgrade.industrialforegoing.tooltip.insert_near": "Đưa vật phẩm chạm vào nâng cấp",
+  "conveyor.upgrade.industrialforegoing.tooltip.insert_all": "Đưa vật phẩm trên toàn bộ băng chuyền",
+  "conveyor.upgrade.industrialforegoing.tooltip.redstone_normal": "Tín hiệu Redstone không bị đảo"
+}

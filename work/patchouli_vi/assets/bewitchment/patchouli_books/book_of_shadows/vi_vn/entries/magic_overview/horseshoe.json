@@ -1,0 +1,15 @@
+{
+  "name": "Horseshoe",
+  "category": "magic_overview",
+  "icon": "bewitchment:horseshoe",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thường được gắn vào móng ngựa để chống hao mòn, Horseshoe còn bảo vệ chủ nhân khỏi những linh hồn có thể gây hại."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/bauble/horseshoe"
+    }
+  ]
+}

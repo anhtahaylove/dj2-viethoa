@@ -1,0 +1,15 @@
+{
+  "name": "Purification",
+  "category": "rituals",
+  "icon": "bewitchment:purifying_earth",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ban phước cho Dirt, biến nó thành một phiên bản có thể trừng phạt sinh vật undead"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:purifying_earth"
+    }
+  ]
+}

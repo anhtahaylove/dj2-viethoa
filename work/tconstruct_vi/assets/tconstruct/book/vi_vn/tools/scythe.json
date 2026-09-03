@@ -1,0 +1,21 @@
+{
+  "tool": "scythe",
+  "text": [
+    {
+      "text": "Scythe là công cụ thu hoạch diện rộng, hiệu quả với thực vật và có thể tấn công kẻ địch trong phạm vi rộng."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nhấp chuột phải vào cây trồng hoặc mía để thu hoạch và trồng lại tất cả cây đã trưởng thành trong khu vực."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "AOE Attack",
+    "3x3 AOE Harvesting",
+    "Hiệu quả với cây trồng và thực vật",
+    "Rightclick: AOE Harvest and replant"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "operator.operators.integratedderivative.arithmetic.basename": "Đạo Hàm - %s",
+  "operator.operators.integratedderivative.arithmetic.name": "Số Học",
+  "operator.operators.integratedderivative.arithmetic.pow.name": "Luỹ Thừa",
+  "tooltip.omni_duplicate.name": "Sao chép nhóm của đầu nối đầu tiên đang có kênh"
+}

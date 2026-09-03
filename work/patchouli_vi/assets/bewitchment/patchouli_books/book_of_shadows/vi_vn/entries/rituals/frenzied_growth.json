@@ -1,0 +1,15 @@
+{
+  "name": "Frenzied Growth",
+  "category": "rituals",
+  "icon": "bewitchment:elder_sapling",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Truyền ma thuật vào các cây nguyên bản để biến đổi chúng thành phiên bản đậm chất phù thủy hơn"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:frenzied_growth"
+    }
+  ]
+}

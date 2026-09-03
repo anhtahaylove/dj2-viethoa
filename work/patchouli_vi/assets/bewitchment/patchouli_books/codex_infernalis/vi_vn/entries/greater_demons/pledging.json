@@ -1,0 +1,15 @@
+{
+  "name": "Lập giao ước với Higher Demons",
+  "category": "greater_demons",
+  "icon": "bewitchment:hellish_bauble",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Higher Demons sẵn lòng hỗ trợ các phù thủy trong những công việc huyền bí hơn, nhưng phải trả giá. Sau khi triệu hồi một Higher Demon, người triệu hồi phải lập giao ước với nó. Để làm vậy, nhà quỷ học phải mặc trọn bộ của bất kỳ biến thể Witch Robe nào, ăn một [Stew of the Grotesque], "
+    },
+    {
+      "type": "text",
+      "text": "và cầm một vật phẩm nhất định khác ở tay phụ. Tùy từng Demon, lợi ích của chúng có thể là thụ động, tức Demon phải ở quanh khu vực đó mới có tác dụng, hoặc chủ động, tức nhà quỷ học phải trực tiếp tương tác với Demon."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Petals",
+  "icon": "roots:petals",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "mortar_template",
+      "recipe": "roots:flowers_to_petals_5",
+      "text": "Hoa có thể được xử lý nếu thuộc các danh mục từ điển quặng $(bold)allFlowers$() hoặc $(bold)allTallFlowers$().$(br2)$(info) Bạn có thể xem danh sách đầy đủ các nguồn $(sources:roots:petals)trong JEI$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/mortar_and_pestle"
+      ]
+    }
+  ]
+}

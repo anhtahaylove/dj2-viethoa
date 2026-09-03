@@ -1,0 +1,13 @@
+{
+  "chat.rfExciter.maxTransfer": "%s truyền tải tối đa",
+  "chat.rfStored": "%s RF dự trữ",
+  "chat.rfStored.max": " (dung lượng %s)",
+  "chat.telepad.link.clear": "Đã xoá vị trí Telepad",
+  "chat.telepad.link.error.1": "Telepad chỉ liên kết được nếu ở cùng một chiều không gian",
+  "chat.telepad.link.stored": "Đã lưu vị trí Telepad",
+  "chat.telepad.link.success": "Liên kết Telepad thành công!",
+  "flair.block.gluetrap": "Zombie ghé qua, nhưng chúng chẳng chịu rời đi! ",
+  "flair.item.industrialDiamond": "Tạo ra bằng cách cho Graphite Dust vào một vụ nổ",
+  "flair.item.netherBane": "Sabre of the Moon",
+  "key.quantumflux.magnet": "Bật/tắt nam châm QuantumFlux"
+}

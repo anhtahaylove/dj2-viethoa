@@ -1,0 +1,23 @@
+{
+  "name": "Labyrinth",
+  "icon": "twilightforest:miniature_structure:7",
+  "category": "major_landmarks",
+  "advancement": "twilightforest:alt/major_landmarks/labyrinth",
+  "sortnum": 5010,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Những mê cung rộng lớn, chằng chịt nằm bên dưới quần xã Twilight Swamp. Muốn tìm thấy một nơi như vậy, bạn phải tinh mắt quan sát địa hình vì lối vào được giấu trong một ngọn đồi có kích thước tương đương Small Hollow Hill."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/entities/minoshroom",
+      "text": "Với chút kiên trì và khả năng định hướng, nhà thám hiểm có thể tìm thấy hang ổ của Minoshroom. Sau hàng rào gỗ, giữa đám nấm, dường như có vài chiếc rương chứa chiến lợi phẩm được con quái thú của Labyrinth canh giữ."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/mazebreaker_pickaxe",
+      "text": "Ẩn sâu trong các bức tường của Labyrinth dường như là một căn hầm nhỏ đầy cạm bẫy. Những nhà thám hiểm cẩn trọng có thể thu thập vật liệu quý hiếm cùng Mazebreaker đáng thèm muốn. Phần thưởng rất xứng đáng, nhưng phải hết sức thận trọng."
+    }
+  ]
+}

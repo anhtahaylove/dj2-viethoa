@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "Tinker Tank có thể rộng từ 3x3 đến 11x11 và cao tối thiểu 3 khối. Cấu trúc càng lớn thì sức chứa của bể càng cao. Để cấu trúc hợp lệ, nó phải có sàn, trần và khung bao quanh toàn bộ cấu trúc."
+    },
+    {
+      "text": "Tinker Tank có thể được xây bằng bất kỳ tổ hợp nào của seared blocks, glass và drains. Khung sàn và trần phải bằng seared blocks hoặc drains. Cần đúng một Tinker Tank controller; có thể đặt nó ở bất kỳ tầng nào trừ trần và không được đặt tại các cạnh ngoài của khung. Trần cũng hỗ trợ slabs và stairs, kể cả trong khung, miễn là chúng hướng xuống dưới.",
+      "paragraph": true
+    }
+  ]
+}

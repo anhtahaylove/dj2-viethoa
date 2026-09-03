@@ -1,0 +1,25 @@
+{
+  "name": "Fluid Port",
+  "icon": "bigreactors:turbinefluidport",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinefluidport",
+      "link_recipe": true,
+      "title": "Fluid Port",
+      "text": "Fluid Port cho phép bạn đưa chất lưu vào hoặc lấy chất lưu ra khỏi Turbine.$(br2)Port này nhận và xuất các chất lưu vanilla, nhưng chỉ khi chúng là $(l:misc/coolantsystem)chất làm mát hoặc hơi$(/l) hợp lệ.$(br2)Có thể dùng $(l:misc/wrench)wrench$(/l) để chuyển Port giữa chế độ đầu vào và đầu ra."
+    },
+    {
+      "type": "crafting",
+      "recipe2": "bigreactors:turbinefluidport",
+      "title": "Fluid Port"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không$(br)$(l)Wrench:$() có thể dùng $(l:misc/wrench)wrench$(/l) để chuyển đổi chế độ của Fluid Port"
+    }
+  ]
+}

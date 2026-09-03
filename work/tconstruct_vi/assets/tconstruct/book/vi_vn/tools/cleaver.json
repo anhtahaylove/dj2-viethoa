@@ -1,0 +1,21 @@
+{
+  "tool": "cleaver",
+  "text": [
+    {
+      "text": "Cleaver là một vũ khí tấn công hạng nặng. Nó tung ra những đòn uy lực nhưng khó sử dụng."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Mỗi đòn kết liễu đều có cơ hội chặt đầu kẻ địch. Bay đầu nào!"
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Offensive weapon",
+    "High damage, but slow",
+    "Beheading II",
+    "Two handed, no offhand"
+  ]
+}

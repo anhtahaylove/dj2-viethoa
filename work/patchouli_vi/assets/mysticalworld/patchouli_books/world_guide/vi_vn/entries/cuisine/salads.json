@@ -1,0 +1,21 @@
+{
+  "name": "Salad",
+  "icon": "mysticalworld:aubergine_salad",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:aubergine_salad",
+      "text": "Salad giúp lấp đầy cả bát lẫn bụng của bạn!"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:beetroot_salad",
+      "recipe2": "mysticalworld:cactus_dandelion_salad"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:stewed_eggplant"
+    }
+  ]
+}

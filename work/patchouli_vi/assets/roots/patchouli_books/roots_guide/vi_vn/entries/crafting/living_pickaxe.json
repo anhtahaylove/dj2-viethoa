@@ -1,0 +1,26 @@
+{
+  "name": "Living Pickaxe",
+  "icon": "roots:living_pickaxe",
+  "category": "crafting_armor_tools_living",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Living tools có ưu thế lớn so với các công cụ khác: chúng tự sửa chữa theo thời gian.$(br2)$(info) Tuy có cùng cấp khai thác với công cụ sắt, độ bền tổng thể của chúng thấp hơn đôi chút.$(br2)Có thể sửa Living tools thủ công trong anvil hoặc imbuer bằng bất kỳ loại bark nào."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_pickaxe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_pickaxe",
+        "crafting/runed_smasher",
+        "resources/bark"
+      ]
+    }
+  ]
+}

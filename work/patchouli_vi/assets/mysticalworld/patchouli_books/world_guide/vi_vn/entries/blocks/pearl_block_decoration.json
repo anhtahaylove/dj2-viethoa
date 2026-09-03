@@ -1,0 +1,34 @@
+{
+  "name": "Vật trang trí bằng Pearl Block",
+  "icon": "mysticalworld:pearl_stairs",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:pearl_block",
+      "recipe2": "mysticalworld:pearl_from_pearl_block",
+      "link_recipe": true,
+      "text": "Cần 9 viên Pearl để chế tạo Pearl Block, nhưng cũng có thể hoàn tác chế tạo."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:pearl_stairs",
+      "recipe2": "mysticalworld:pearl_slab",
+      "link_recipe": true,
+      "title": "Stairs & Slabs"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:pearl_wall",
+      "recipe2": "mysticalworld:pearl_fence",
+      "link_recipe": true,
+      "title": "Walls & Fences"
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:pearl_fence_gate",
+      "link_recipe": true,
+      "title": "Fence Gates"
+    }
+  ]
+}

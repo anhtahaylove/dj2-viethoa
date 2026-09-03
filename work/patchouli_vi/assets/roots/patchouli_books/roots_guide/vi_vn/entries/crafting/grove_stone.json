@@ -1,0 +1,33 @@
+{
+  "name": "Grove Stone",
+  "icon": "roots:grove_stone",
+  "category": "crafting",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:grove_stone",
+      "text": "$(l:concepts/groves)Ý tưởng đầu tiên$() xuất hiện sau khi các cánh cổng đến thế giới Fey bị đóng lại, và mục đích của Grove Stone dần gắn liền với $(l:crafting/fey_crafter)fey crafter$() mang cái tên không mấy phù hợp.$(br2)Bản thân viên đá không có tác dụng gì, nhưng khi được cường hóa"
+    },
+    {
+      "type": "text",
+      "text": "thông qua nghi lễ $(l:rituals/Grove Supplication)Grove Supplication$(), năng lượng sẽ được thu thập, lưu trữ, khuếch đại rồi phân phối khi cần.$(br2)$(warning) Nếu Grove Stone bị phá hoặc di chuyển, nghi lễ Grove Supplication phải được thực hiện lại.$(br2)$(info) Các thiết bị phải được đặt trong phạm vi 10 khối quanh viên đá để dẫn truyền năng lượng.$(br2)Ngoài hiệu ứng hình ảnh, viên đá còn tác động đến thế giới xung quanh."
+    },
+    {
+      "type": "text",
+      "title": "Hiệu ứng trong thế giới",
+      "text": "Nếu được đặt trong môi trường phù hợp (tức là có cỏ gần đó), Grove Stone đang hoạt động sẽ cố biến đổi khu vực xung quanh để giống vùng hoang dã của Fey hơn.$(br2)Quá trình này tạo ra các bụi cỏ, $(l:herbs/introduction)từ đó có thể thu thập thảo mộc$().$(br2)$(info) Ngoài ra, các loài hoa hiếm như bụi hoa hồng, tử đinh hương, hướng dương và nhiều loại khác cũng có cơ hội mọc lên!"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/introduction",
+        "crafting/fey_crafter",
+        "crafting/runic_crafter",
+        "rituals/ritual_grove_supplication",
+        "concepts/groves",
+        "concepts/the_fey"
+      ]
+    }
+  ]
+}

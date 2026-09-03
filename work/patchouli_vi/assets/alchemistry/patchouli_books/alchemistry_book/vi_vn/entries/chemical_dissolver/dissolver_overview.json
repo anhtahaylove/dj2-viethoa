@@ -1,0 +1,23 @@
+{
+  "name": "Chemical Dissolver",
+  "icon": "alchemistry:chemical_dissolver",
+  "category": "chemical_dissolver_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chemical Dissolver là một cỗ máy cần năng lượng và cùng với Chemical Combiner, đây là hai cỗ máy thiết yếu nhất trong Alchemistry. Chemical Dissolver nhận vật liệu đầu vào và phân tách chúng thành các nguyên tố và hợp chất hóa học khác nhau."
+    },
+    {
+      "type": "text",
+      "text": "Có hai loại công thức Chemical Dissolver chính, được ghi rõ trong từng công thức JEI. Loại đầu tiên dùng $(thing)xác suất tương đối$(): tổng xác suất của mọi nhóm đầu ra có thể có là 100%, và mỗi $(thing)lần quay$() luôn chọn một nhóm đầu ra. Tuy nhiên, một số công thức có thể có nhóm trống, nên có khả năng không tạo ra đầu ra."
+    },
+    {
+      "type": "text",
+      "text": "Ngoài ra còn có các công thức dùng $(thing)xác suất tuyệt đối$(). Với xác suất tuyệt đối, mỗi nhóm được xét độc lập theo xác suất tạo đầu ra riêng, không phụ thuộc vào kết quả của các lần xét khác."
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:chemical_dissolver"
+    }
+  ]
+}

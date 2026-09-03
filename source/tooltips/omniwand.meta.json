@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "omniwand-1.12.2-2.0.4.jar",
+      "path": "assets/omniwand/lang/en_us.lang"
+    }
+  ]
+}

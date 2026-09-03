@@ -1,0 +1,97 @@
+{
+  "name": "Aqua Bubble",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_aqua_bubble\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_aqua_bubble",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Aqua Bubble tạo một lá chắn quanh bạn, vừa hấp thụ sát thương, vừa giảm sát thương từ các đòn tấn công bằng lửa và giúp bạn miễn nhiễm với dung nham.$(br2)Các modifier có thể tăng cường những hiệu ứng này, áp dụng chúng cho familiar hoặc ban Resistance. Bạn cũng có thể đẩy lùi kẻ tấn công, phản lại sát thương lửa hoặc gây sát thương lên kẻ tấn công undead."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_aqua_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:bubble_amplified",
+      "anchor": "bubble_amplified"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:faithful_sharing",
+      "anchor": "faithful_sharing"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:barkskin",
+      "anchor": "barkskin"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:moon_bubble",
+      "anchor": "moon_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:spirit_bubble",
+      "anchor": "spirit_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:poison_protection",
+      "anchor": "poison_protection"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:bubble_knockback",
+      "anchor": "bubble_knockback"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:reflective_bubble",
+      "anchor": "reflective_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_aqua_bubble",
+      "modifier": "roots:stoneskin",
+      "anchor": "stoneskin"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:aqua_bubble/SECONDS/cooldown) giây.$(br2)$(bold)Thời lượng:$() Bong bóng tồn tại trong $(spell:aqua_bubble/SECONDS/duration) giây.$(br2)$(bold)Lửa:$() Sát thương lửa giảm còn $(spell:aqua_bubble/PERCENT/fire_reduction) mức ban đầu.$(br2)$(bold)Dung nham:$() Sát thương dung nham giảm còn $(spell:aqua_bubble/PERCENT/lava_reduction) mức ban đầu.$(br2)$(bold)Đẩy lùi:$() Với modifier $(modifier:bubble_knockback)$(), kẻ tấn công bị đẩy lùi $(spell:aqua_bubble/knockback)."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tăng cường:$() Với modifier $(modifier:bubble_amplified)$(), hiệu ứng phép được tăng thêm $(spell:aqua_bubble/PERCENT/amplifier).$(br2)$(bold)Familiar:$() Với modifier $(modifier:faithful_sharing)$(), một familiar trong phạm vi ngang $(spell:aqua_bubble/radius_x) và $(spell:aqua_bubble/radius_z), cùng phạm vi dọc $(spell:aqua_bubble/radius_y), sẽ được bảo vệ.$(br2)$(bold)Slowness:$() Với amplifier $(modifier:barkskin)$(), kẻ tấn công chịu Slowness $(spell:aqua_bubble/ROMAN/slowness_amplifier) trong $(spell:aqua_bubble/SECONDS/slowness_duration) giây.$(br2)$(bold)Undead:$() Với modifier $(modifier:spirit_bubble)$(), sát thương từ đòn tấn công của undead giảm còn $(spell:aqua_bubble/PERCENT/undead_reduction) mức ban đầu."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Resistance:$() Với modifier $(modifier:stoneskin)$(), phép còn ban Resistance $(spell:aqua_bubble/ROMAN/resistance_amplifier) trong $(spell:aqua_bubble/SECONDS/resistance_duration).$(br2)$(bold)Kháng phép:$() Với modifier $(modifier:moon_bubble)$(), sát thương phép giảm còn $(spell:aqua_bubble/PERCENT/magic_resistance) mức ban đầu.$(br2)$(bold)Phản sát thương:$() Với modifier $(modifier:reflective_bubble)$(), sát thương lửa bạn nhận sẽ phản lại kẻ tấn công dưới dạng sát thương vật lý."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Kháng độc:$() Với modifier $(modifier:poison_protection)$(), bạn miễn nhiễm với độc trong thời gian bong bóng tồn tại."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/terra_moss",
+        "herbs/dewgonia"
+      ]
+    }
+  ]
+}

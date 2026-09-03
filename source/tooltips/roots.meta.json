@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Roots-1.12.2-3.1.9.2.jar",
+      "path": "assets/roots/lang/en_us.lang"
+    }
+  ]
+}

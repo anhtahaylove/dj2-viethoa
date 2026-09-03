@@ -1,0 +1,14 @@
+# Safe player-facing tooltip/prose candidates.
+normalasm.notification.description=Press Ctrl + I for more info
+normalasm.fixes.tooltip=Control which fixes are enabled and disabled.
+normalasm.crashes.tooltip=Options on how crashes are handled
+normalasm.crashes.disableReturnToMainMenu.tooltip=Disables the "Return to Main Menu" button on the crash screen, forcing the user to close the game after a crash. The crash screen will still show the suspected mods and offer to upload the crash report.
+normalasm.crashes.scheduledTaskproblemAction.tooltip=What should happen when a scheduled task throws an exception
+normalasm.crashes.errorNotificationDuration.tooltip=The time in milliseconds to display error notifications for
+normalasm.crashes.replaceErrorNotifications.tooltip=When several errors occur in a row, replace the notification rather than queuing more notifications
+normalasm.crashes.hasteURL.tooltip=The URL to the root of the haste instance to upload crash reports to, without a trailing slash.
+normalasm.fixes.bugFixes.tooltip=Enable or disable small optimizations and vanilla bug fixes
+normalasm.fixes.crashFixes.tooltip=Enable or disable crash improvements (crash screen, mod identification, crash report formatting). Note that you can disable only the "Return to Main Menu" button from the "Crash Options config section".
+normalasm.fixes.modSupport.tooltip=Enable or disable support for other mods. Important: This will break some mods' animated textures. Don't disable this unless mod support is causing crashes.
+normalasm.fixes.profiler.tooltip=Enable or disable improvements to the profiler (Alt + F3 pie chart): Split entities and tile entities by mod, add F3 + S for server profiler pie chart
+normalasm.fixes.textureFixes.tooltip=Enable or disable texture optimizations. This is the feature that increases the game's FPS, so it's not recommended to disable this.

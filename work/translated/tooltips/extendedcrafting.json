@@ -1,0 +1,18 @@
+{
+  "message.ec.copied_recipe": "Đã sao chép công thức vào bộ nhớ tạm.",
+  "message.ec.changed_mode": "Đã chuyển chế độ sang %s.",
+  "message.ec.nbt_requires_crafttweaker": "CẢNH BÁO: Việc sao chép NBT yêu cầu cài đặt CraftTweaker.",
+  "tooltip.ec.ultimate_block": "Ta là độc nhất, chẳng nặng cả tấn...",
+  "tooltip.ec.ultimate_catalyst": "Ta là chất xúc tác tối thượng đích thực...",
+  "tooltip.ec.ultimate_component": "Không gì tốt hơn ta...",
+  "tooltip.ec.ultimate_ingot": "Quyền năng càng lớn, trách nhiệm càng...",
+  "tooltip.ec.ultimate_nugget": "Từng bước nhỏ...",
+  "tooltip.ec.singularity_ultimate": "Khi sức mạnh của chúng ta hợp nhất...",
+  "tooltip.ec.ejecting": "Đang đẩy ra...",
+  "tooltip.ec.tier": "Bậc: %s",
+  "tooltip.ec.output": "Đầu ra: %sx %s",
+  "tooltip.ec.crafting": "Chế tạo: %sx %s",
+  "tooltip.ec.mode": "Chế độ: %s",
+  "tooltip.ec.requires_table": "Yêu cầu Crafting Table Bậc %s",
+  "tooltip.ec.items_required": "Vật phẩm cần thiết:"
+}

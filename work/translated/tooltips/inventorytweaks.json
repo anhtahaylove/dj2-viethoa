@@ -1,0 +1,16 @@
+{
+  "invtweaks.button.chest2.tooltip": "Sắp xếp theo cột",
+  "invtweaks.button.chest3.tooltip": "Sắp xếp theo hàng",
+  "invtweaks.settings.disableci.tooltip": "Xung đột với Convenient Inventory",
+  "invtweaks.settings.middleclick.tooltip": "Cho phép sắp xếp bằng",
+  "invtweaks.settings.chestbuttons.tooltip": "Thêm ba nút",
+  "invtweaks.settings.shortcuts.tooltip": "Bật nhiều phím tắt",
+  "invtweaks.settings.autorefill.tooltip": "Thay công cụ bị hỏng và chồng đã dùng hết",
+  "invtweaks.settings.beforebreak.tooltip": "Thay công cụ ngay trước khi hỏng",
+  "invtweaks.settings.moreoptions.tooltip": "Thêm nhiều tính năng hay ho",
+  "invtweaks.settings.advanced.sortonpickup.tooltip": "Tránh lấp đầy thanh vật phẩm nhanh bằng",
+  "invtweaks.settings.advanced.sortonpickup.tooltip.soloonly": "Chỉ trong chế độ chơi đơn",
+  "invtweaks.settings.advanced.autoequip.tooltip": "Trang bị món tốt nhất hiện có",
+  "invtweaks.settings.advanced.sounds.tooltip": "Phát âm thanh khi sắp xếp",
+  "invtweaks.settings.advanced.serverassist.tooltip": "Sử dụng hỗ trợ từ máy chủ để di chuyển vật phẩm khi sắp xếp."
+}

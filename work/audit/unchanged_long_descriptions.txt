@@ -1,0 +1,236 @@
+[crafttweaker.json] dj2.electrotine_ore.desc6
+§rRitual Stone to catch the falling Meteor, so your Ritual Stones
+
+[crafttweaker.json] dj2.conducted_impetus.desc1
+§rImpetus Level: §2Maximum§r.
+
+[crafttweaker.json] dj2.arcanium_base.desc3
+§5Mortum§r biome, §cHell (Nether)§r biome, §aMagical Forest
+
+[crafttweaker.json] dj2.ancient_leg.desc1
+§fthe §r§9Mysterious Clock§r§f in the Overworld.
+
+[crafttweaker.json] dj2.ancient_leg.desc2
+§fIt has a chance to drop 2-4 Legs.
+
+[crafttweaker.json] dj2.eye_of_the_watcher.desc0
+§fDropped by §r§cThe Watcher§r§f, who's summoned by
+
+[crafttweaker.json] dj2.eye_of_the_watcher.desc1
+§fthe §r§9Call of the Watcher§r§f in the Nether.
+
+[crafttweaker.json] dj2.ayeraco_wing.desc0
+§fDropped by the §r§9Blue§r§f, §r§aGreen§r§f, §r§eYellow§r§f, §r§cRed§r§f & §r§dPurple
+
+[crafttweaker.json] dj2.ayeraco_wing.desc1
+§fAyeraco. They are summoned by the §r§eHorde Horn
+
+[crafttweaker.json] dj2.ayeraco_wing.desc2
+§fin the End. Each Ayeraco has a chance to drop 1 or 2.
+
+[crafttweaker.json] dj2.inactive_ender_core.desc0
+§fCan be automated via a Mechanical User in "Entity" mode on an End Crystal or in "Use Item On Block" mode on a Stabilized End Crystal.
+
+[crafttweaker.json] dj2.inactive_ender_core.desc1
+§fCan be done in §r§o§cany§r§f Dimension, not just the End Dimension.
+
+[crafttweaker.json] dj2.chairwand.desc0
+1. Right Click on the Ground to add location to sit.
+
+[crafttweaker.json] dj2.chairwand.desc1
+2. Place a Stair with Shift+Right Click
+
+[crafttweaker.json] dj2.chairwand.desc2
+3. Right Click to sit in the Chair!
+
+[crafttweaker.json] dj2.rare_earths.desc2
+§fCoal, Redstone, Quartz, Amber, Diamond;
+
+[crafttweaker.json] dj2.rare_earths.desc6
+§fCopper, Tin, Lead, Cinnabar.
+
+[crafttweaker.json] dj2.rune_displacement.desc0
+Increases the LP I/O rate by §620%§r per rune, multiplicatively.
+
+[crafttweaker.json] dj2.rune_acceleration.desc0
+Reduces the operation interval by §61 tick§r per rune. Stacks to §619§r. Affects LP I/O.
+
+[crafttweaker.json] dj2.rune_orb.desc0
+Increases the amount of LP that can be inserted into the Orb by §62%§r per rune, additively.
+
+[crafttweaker.json] dj2.rune_orb.desc1
+Does §4§onot§r increase the speed.
+
+[crafttweaker.json] dj2.blood_shard.desc0
+§fSlay mobs with your activated §r§cBound Blade
+
+[crafttweaker.json] dj2.blood_shard.desc1
+§fto obtain. Be wary though. While it's active,
+
+[crafttweaker.json] dj2.blood_shard.desc2
+§fit constantly drains LP from your Life Network!
+
+[crafttweaker.json] dj2.soul_gem.desc0
+§fThis Tartaric Gem can store a maximum of §r§c%s§r§f Will Quality.
+
+[crafttweaker.json] dj2.blood_orb.desc0
+§fThis Blood Orb can store a base of §r§c%s§r§f Life Essence.
+
+[crafttweaker.json] dj2.blood_orb.desc1
+§fThis Blood Orb can only be filled in a tier §r§c%d§r§f or above Blood Altar
+
+[crafttweaker.json] dj2.atum_artifact_melee.desc0
+§4§lConsidered as an Atum Melee Artifact.
+
+[crafttweaker.json] dj2.atum_artifact_ranged.desc1
+§4§lConsidered as an Atum Ranged Artifact.
+
+[crafttweaker.json] dj2.inferium_crystal.desc0
+§eInferium§r -> §aPrudentium§r
+
+[crafttweaker.json] dj2.prudentium_crystal.desc0
+§aPrudentium§r -> §6Intermedium§r
+
+[crafttweaker.json] dj2.intermedium_crystal.desc0
+§6Intermedium§r -> §bSuperium§r
+
+[crafttweaker.json] dj2.superium_crystal.desc0
+§bSuperium§r -> §cSupremium§r
+
+[crafttweaker.json] dj2.supremium_crystal.desc0
+§cSupremium§r -> §5Insanium§r
+
+[crafttweaker.json] dj2.master_crystal.desc0
+§e§kE§a§kS§6§kS§b§kE§c§kN§5§kC§f§kE§r -> §e§kE§a§kS§6§kS§b§kE§c§kN§5§kC§f§kE§r
+
+[crafttweaker.json] dj2.schematic_moon_buggy.desc0
+§fCan be found in underground §r§7Moon§r§f Dungeons.
+
+[crafttweaker.json] dj2.schematic_moon_buggy.desc1
+§fCan also be converted from the §r§9Tier 2 Rocket Schematic§r§f.
+
+[crafttweaker.json] dj2.schematic_tier_2_rocket.desc0
+§fCan be found in underground §r§7Moon§r§f Dungeons.
+
+[crafttweaker.json] dj2.schematic_tier_2_rocket.desc1
+§fCan also be converted from the §r§9Moon Buggy Schematic§r§f.
+
+[crafttweaker.json] dj2.evolved_skeleton_key.desc0
+§fDropped by the §r§7Evolved Skeleton Boss
+
+[crafttweaker.json] dj2.evolved_skeleton_key.desc1
+§fin the underground §r§7Moon Dungeon.
+
+[crafttweaker.json] dj2.schematic_cargo_rocket.desc0
+§fCan be found in underground §r§cMars§r§f Dungeons.
+
+[crafttweaker.json] dj2.schematic_cargo_rocket.desc1
+§fCan also be converted from the §r§9Tier 3 Rocket Schematic§r§f.
+
+[crafttweaker.json] dj2.schematic_tier_3_rocket.desc0
+§fCan be found in underground §r§cMars§r§f Dungeons.
+
+[crafttweaker.json] dj2.schematic_tier_3_rocket.desc1
+§fCan also be converted from the §r§9Automatic Cargo Rocket Schematic§r§f.
+
+[crafttweaker.json] dj2.schematic_astro_miner.desc0
+§fCan be found in underground §r§6Venus§r§f Dungeons.
+
+[crafttweaker.json] dj2.evolved_creeper_key.desc0
+§fDropped by the §r§aEvolved Creeper Boss
+
+[crafttweaker.json] dj2.eye_of_the_abyss.desc4
+§fRituals/Abyssal Wasteland/Ritual of
+
+[crafttweaker.json] dj2.dreadfragment.desc0
+§fDropped by Zombies in the Dreadlands.
+
+[crafttweaker.json] dj2.dreadlands_infused_powerstone.desc0
+§fTo obtain, craft a §r§3Refined Coralium Pickaxe§r§f and about 6
+
+[crafttweaker.json] dj2.dreadlands_infused_powerstone.desc1
+§3Powerstone Trackers§r§f, then enter the §r§3Abyssal Wasteland§r§f, find
+
+[crafttweaker.json] dj2.dreadlands_infused_powerstone.desc2
+§fthe §r§3Abyssal Stronghold§r§f with your §r§3Powerstone Trackers§r§f,
+
+[crafttweaker.json] dj2.dreadlands_infused_powerstone.desc3
+§fand in the center mine up your §r§cDreadlands Infused Powerstone§r§f!
+
+[crafttweaker.json] dj2.abyssalnite_chunk.desc0
+§fDropped by §r§cAbyssalnite Golems§r§f in the Dreadlands.
+
+[crafttweaker.json] dj2.dreadium_chunk.desc0
+§fDropped by §r§cDreaded Abyssalnite Golems§r§f in the Dreadlands.
+
+[crafttweaker.json] dj2.dread_plagued_key.desc0
+§fDropped by §r§cCha'garoth§r§f at the end of the §r§cDreadlands
+
+[crafttweaker.json] dj2.dread_plagued_key.desc1
+§fDungeon. You can enter it by placing down the
+
+[crafttweaker.json] dj2.dread_plagued_key.desc2
+§cAltar of Cha'garoth (bottom & top)§r§f at Y=40 in
+
+[crafttweaker.json] dj2.dread_plagued_key.desc3
+§fin a Dreadlands Mountains biome.
+
+[crafttweaker.json] dj2.eldritch_scale.desc0
+§fDropped by §r§7Remnants§r§f and §r§7Minions of The Gatekeeper§r§f in §r§7Omothol§r§f.
+
+[ql_00.json] dj2.quest.db.837.desc
+Smelt your Grout into Seared Bricks and enter Tinkers' Construct!
+
+[ql_00.json] dj2.quest.db.857.desc
+Harvest some Yellow Flowers (Dandelions, Sunflowers, etc.), and turn them into Yellow Dye!
+
+[ql_00.json] dj2.quest.db.859.desc
+Create a Totem Whittling Knife to unlock Chapter 2: Dancing on a Totem Pole!
+
+[ql_02.json] dj2.quest.db.965.desc
+Use some Shears to obtain some Thornvines! If you wanna get a lot, make sure to break them from the bottom, since blocks that pop off and are not broken by Shears will just disappear.
+
+[ql_02.json] dj2.quest.db.968.desc
+Obtain some Stalagnate commonly found near Thornvines! Simply chop them with an Axe, you can't obtain the leafy version, but you can obtain Stalagnate Seeds to regrow the plant.
+
+[ql_03.json] dj2.quest.db.1008.desc
+Craft a Crystal Growth Accelerator and place it next to a block of Water! Provide energy to it through Glass Cables and throw Certus Quartz Seeds inside. Watch as they turn into Pure Certus Quartz Crystals! Note that this machine requires a lot of power. It's recommended that you break up your line of Glass Cables with a Toggle Bus, place a Lever next to it, and only turn it on when you need the Crystal Growth Accelerators to be active.%nYou can technically place up to 6 of these around the water for even faster growth, although placing the 6th will prevent you from accessing the water.
+
+[ql_05.json] dj2.quest.db.1103.desc
+Slay some of the creatures in Iceika to obtain their precious Ice Shards!
+
+[ql_06.json] dj2.quest.db.1148.desc
+"Here is Goldey!"%n%nUpgrade your Iron Spikes into Golden Ones. These might not deal as much damage, however anything killed by them drops experience!
+
+[ql_07.json] dj2.quest.db.1731.desc
+Craft an §2Uber Conduit Probe§r! Sure, you could just settle for a §ebland§r, §enormal§r §bConduit Probe§r, but if you want to be a True EnderIO Conduit Power User (a good thing to be (give us money)) the §2Uber Conduit Probe§r is a must-have, possibly even a must-have-two! (moneymoneymoneymo-)%n%nWhile a §ebland§r, §eboring§r, §esad§r §bConduit Probe§r can copy and paste a single conduit connection (§cLAME!§r), the §6innovative§r, §6enthralling§r, §6bombastic§r §2Uber Conduit Probe§r can paste over a large area, targeting only the conduit connections with the same direction (§dAWE-INSPIRING!§r). The §2Uber Conduit Probe's§r §6majestic§r, §6powerful§r aura refuses to handle such menial things, such as copying an individual connection (§cPLEBIAN!§r) or diagnosing the network status (§cNERD!§r), leaving such §elowbrow§r, §ederivative§r tasks to the §ebasic§r §bConduit Probe§r.
+
+[ql_10.json] dj2.quest.db.1441.desc
+The Ender Inhibitor prevents Endermen or other similar entities from teleporting while within its radius - a must-have for a mob farm.
+
+[ql_12.json] dj2.quest.db.1643.desc
+Craft some Floral Fertilizers and use it to gather up all 16 colors of Botania Flowers!%n%nYou can craft them into Petals, plant them, grow them with Bone Meal, and finally shear them to get more.
+
+[ql_17.json] dj2.quest.db.265.desc
+Combine Dirty Pearls, Acid, and Emerald to conjure an Ender Pearl.%n%nThen upgrade it into an Eye of the Nightmare using some Blaze Powder, a slice of Glistering Melon and some Shiny Pearls!
+
+[ql_17.json] dj2.quest.db.284.desc
+Use a Lava Bucket and Clean Pearls to make some Blaze Rods!
+
+[ql_18.json] dj2.quest.db.218.desc
+Craft an Essentia Infusion Provider!%n%nUsing your Thaumic Energistics system, you can provide Essentia for regular Infusions with this. No need for Jars anymore!%n%nHowever, since "vanilla" Infusion itself cannot be fully automated, I recommend using this in the Auto Infusion Matrix, a custom Modular Machinery Multiblock.
+
+[ql_20.json] dj2.quest.ql.20.desc
+Blast off with GalactiCraft, and the Laser Focus Multiblock!
+
+[ql_23.json] dj2.quest.db.636.desc
+Dimensional Shard Ores spawn in any non-void RFTools Dimension from Y=2 to Y=64. Find some and mine up some!%n%nYou'll need a lot of these going forward, so set up a Quarry or Digital Miner in a (preferably pleasant) Dimension of your choice to mine some up.
+
+[ql_24.json] dj2.quest.db.805.desc
+ᛊᚢᛞᛪ ᚭᚼ ᛪᚢᛤᚨ ᚠᛞᚣ ᚬᛞᚨ, ᚭᛞᛗᚨᛤᚸ!%n
+
+[ql_24.json] dj2.quest.db.814.desc
+§lᛪᚼᚸᛋᛞᚭᚼ, ᚨᛞ ᚨᚢᚼ ᚮᛉᛣᛤᚸ ᚨᚼᛊᚨ. ᚨᚢᛉᛊ ᛞᛣᚼ ᛉᛊ ᛤ ᚥᚼᛋᚼᛈᚨᛉᛝᚼᚸᚠ ᛊᛉᚭᛈᚸᚼ ᛞᛣᚼ. ᛪᚢᛤᚨ ᛈᛤᛋᛇ ᛤᛗᚼ ᚠᛞᚣ ᛈᚸᛤᚠᛉᛣᚬ?%n%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███%n§a███§6███§9███
+
+[ql_26.json] dj2.quest.db.708.desc
+ᚥᚼᛊᚨᛗᛞᚠ! ᚠᚼᚼᚼᛊ, ᚢᛤᚢᛤᚢᛤᚢᛤ...!

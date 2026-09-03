@@ -1,0 +1,80 @@
+{
+  "name": "Healing Aura",
+  "icon": "roots:ritual_healing_aura",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_healing_aura",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sinh vật thụ động và người chơi được tăng khả năng hồi phục khi còn ở trong phạm vi nghi lễ.$(br2)Các sinh vật thụ động được nghi lễ chữa lành sẽ hồi nhiều máu hơn đáng kể và thường xuyên hơn người chơi.$(br2)$(info) Sinh vật thù địch không chịu ảnh hưởng của nghi lễ."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_healing_aura",
+      "text": "$(standing_stones) Là nghi lễ $(l:rituals/tiers)$(bold)bậc I$(), $(l:rituals/ritual_healing_aura#multiblock)cần một runed pillar để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "W": "roots:runed_birch",
+          "L": "minecraft:log[variant=birch]"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   W   ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "   L   ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "   L   ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Cần một $(l:rituals/standing_stone)runed pillar$() bằng birch."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời gian:$() Nghi lễ kéo dài $(ritual:healing_aura/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ tìm mục tiêu trong khu vực rộng $(ritual:healing_aura/radius_x) và $(ritual:healing_aura/radius_z) khối theo chiều ngang, cùng $(ritual:healing_aura/radius_y) khối theo chiều dọc.$(br2)$(bold)Hồi máu người chơi$(): Người chơi được hồi $(ritual:healing_aura/HEART/player_amount) tim mỗi $(ritual:healing_aura/SECONDS/interval) giây.$(br2)$(bold)Hồi máu sinh vật thụ động$(): Sinh vật thụ động được hồi $(ritual:healing_aura/HEART/amount) tim mỗi $(ritual:healing_aura/SECONDS/passive_interval) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

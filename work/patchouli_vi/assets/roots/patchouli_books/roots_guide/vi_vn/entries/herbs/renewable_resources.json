@@ -1,0 +1,43 @@
+{
+  "name": "Tài nguyên tái tạo",
+  "icon": "minecraft:farmland",
+  "category": "herbs",
+  "priority": true,
+  "turnin": "roots:renewable_renaissance",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cần lưu ý rằng dù hầu hết $(cat:herbs)herb$() có phương pháp hoặc công thức riêng để thu thập, tất cả đều có thể được duy trì theo cách tái tạo mà không cần liên tục chế tạo hoặc thu gom.$(br2)Như đã đề cập trong phần $(l:herbs/introduction)giới thiệu$(), hầu hết herb có thể được trồng như cây nông nghiệp trong điều kiện phù hợp, còn một số khác có thể được tạo ra bằng nghi lễ."
+    },
+    {
+      "type": "text",
+      "title": "Cây trồng",
+      "text": "Mọi herb ngoại trừ $(l:herbs/terra_moss)terra moss$() đều có thể được trồng như cây nông nghiệp, dù các cây nguyên tố cần loại đất đặc biệt.$(br2)$(l:herbs/baffle_cap)Baffle cap$() sẽ lan rộng giống như nấm vanilla và mọc thành nấm khổng lồ nếu dùng bone meal.$(br2)Trong số các cây còn lại, $(l:herbs/wildroot)wildroot$() có thể được trồng trực tiếp ở bất cứ nơi nào cây trồng thông thường phát triển, bao gồm trên bất kỳ loại $(l:resources/elemental_soil)elemental soil$() nào."
+    },
+    {
+      "type": "text",
+      "title": "Hạt giống và cây nguyên tố",
+      "text": "Các herb còn lại gồm $(l:herbs/moonglow)moonglow$(), $(l:herbs/pereskia)pereskia$(), $(l:herbs/spirit_herb)spirit herb$() và $(l:herbs/wildewheet)wildewheet$() có thể được chuyển thành hạt giống rồi trồng ở bất cứ nơi nào cây nông nghiệp phát triển.$(br2)Các herb nguyên tố gồm $(l:herbs/cloud_berry)cloud berry$(), $(l:herbs/dewgonia)dewgonia$(), $(l:herbs)infernal bulb$() và $(l:herbs/stalicripe)stalicripe$() cần $(l:resources/elemental_soil)elemental soil$() và được trồng trực tiếp như wildroot.$(br2)$(info) Không cần ghép đúng nguyên tố với loại đất."
+    },
+    {
+      "type": "text",
+      "title": "Hướng dẫn",
+      "text": "Mỗi trang thảo dược đều có một mục gần cuối, nêu rõ điều kiện trồng và các bước bổ sung cần thiết (như chuyển thảo dược thành hạt giống), nếu có.$(br2)Hầu hết các mục cũng mô tả hình dáng của thảo dược, cùng dấu hiệu khi cây trưởng thành và sẵn sàng thu hoạch."
+    },
+    {
+      "type": "quest",
+      "title": "Hoàn thành",
+      "trigger": "roots:renewable_renaissance",
+      "text": "Để hoàn thành mục này, hãy trồng tất cả tài nguyên tái tạo được mô tả ở trên và trong các mục riêng của chúng trên loại đất phù hợp.$(br2)Có tổng cộng 9 loại và bạn có thể theo dõi chúng bằng tiến trình $(adv:roots:renewable_renaissance)$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/elemental_soil",
+        "automation/aqueous_soil"
+      ]
+    }
+  ]
+}

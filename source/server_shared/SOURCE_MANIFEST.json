@@ -1,0 +1,25 @@
+{
+  "source": "reviewed copies from local DJ2 2.23.4 server pack",
+  "files": {
+    "config/tips.cfg": {
+      "sha256": "515a4f4635c6ff89deca8bb0789f819af079c084abcb673cd1dffe7bb97efaf7",
+      "bytes": 14843
+    },
+    "config/ftbutilities.cfg": {
+      "sha256": "191ddca9e8e123c771cf862e99b462386eb6039a24e7569fa4bea3da345e0012",
+      "bytes": 6125
+    },
+    "scripts/JEI/Excavator.zs": {
+      "sha256": "e05b5af5d3b4ee4165f7e1302b13a0431b9b4d5117f81e205251949ed53c9fa1",
+      "bytes": 19539
+    },
+    "scripts/ContentTweaker/ContentTweakerItems.zs": {
+      "sha256": "53cd267eb690f7d8d044881816e72f04dca1fbdd0c11acb3e18575235cd6f626",
+      "bytes": 73508
+    },
+    "scripts/ModSpecific/ContentTweakerRecipes.zs": {
+      "sha256": "25a317b3613b274218dbd761600a56b427c7abbdc1f6299a02265b4e5f192186",
+      "bytes": 171682
+    }
+  }
+}

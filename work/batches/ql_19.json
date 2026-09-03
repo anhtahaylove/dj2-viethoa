@@ -1,0 +1,449 @@
+{
+  "chapter_index": 19,
+  "title_key": "dj2.quest.ql.19.title",
+  "chapter_title_en": "23. Look to the Stars!",
+  "desc_key": "dj2.quest.ql.19.desc",
+  "chapter_desc_en": "Gaze into Astral Sorcery, unlocking its many powerful weapons, tools, and other perks.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.19.title",
+      "en": "23. Look to the Stars!"
+    },
+    {
+      "key": "dj2.quest.ql.19.desc",
+      "en": "Gaze into Astral Sorcery, unlocking its many powerful weapons, tools, and other perks."
+    },
+    {
+      "key": "dj2.quest.db.313.title",
+      "en": "Light the Flame"
+    },
+    {
+      "key": "dj2.quest.db.313.desc",
+      "en": "The Spectral Relay can be placed down to activate specific structures, and as a crafting ingredient.%n%nA common use is to collect Starlight for your Starlight Altars. For this you'll need to build a small structure: A 3x3 area with the corners being Chiseled Marble, the sides being Marble Arches, and the center being Sooty Marble. Place the Spectral Relay on top, and put a Glass Lens inside. The Crafting Altar closest to this structure (that isn't blocked by a wall) will receive significantly more Starlight.%n"
+    },
+    {
+      "key": "dj2.quest.db.314.title",
+      "en": "\"Foggy Glasses\""
+    },
+    {
+      "key": "dj2.quest.db.314.desc",
+      "en": "The Glass Lens is a crafting material and can be placed in specific blocks, such as a Relay, to cause special effects."
+    },
+    {
+      "key": "dj2.quest.db.315.title",
+      "en": "Wood you believe it?"
+    },
+    {
+      "key": "dj2.quest.db.315.desc",
+      "en": "Toss some Glimmering Dreamwood into Liquid Starlight to get Infused Wood, a crafting material."
+    },
+    {
+      "key": "dj2.quest.db.316.title",
+      "en": "Crafting with the Stars"
+    },
+    {
+      "key": "dj2.quest.db.316.desc",
+      "en": "Craft the Starlight Crafting Table!%n%nThis would normally require the light of a Collector Crystal, but not in this pack! You can just craft it in any Crafting Table.%n%n§6§lNote:§r Are you progressing in Astral Sorcery while your friend is doing other things? Make sure to craft the §lScroll of Written Expertise§r once you're done to transfer your discovered Astral Sorcery constellations to them!%n%n§6§lNote 2:§r DJ2 has the ability to right click an Astral Sorcery table and automatically unlock the knowledge for that tier. Normally, it requires either crafting that table manually, or using the aforementioned Scroll of Written Expertise."
+    },
+    {
+      "key": "dj2.quest.db.318.title",
+      "en": "Gniwolg"
+    },
+    {
+      "key": "dj2.quest.db.318.desc",
+      "en": "Nocturnal Powder will cause the block it is placed on to be covered by a dark cloud for a few seconds and spawn multiple mobs. Same as Illumination Powder, you can throw it."
+    },
+    {
+      "key": "dj2.quest.db.319.title",
+      "en": "Glowing"
+    },
+    {
+      "key": "dj2.quest.db.319.desc",
+      "en": "Illumination Powder is primarily a crafting material, but also works as a light source when placed down. As it isn't a block, the only way to remove it is to smother it by covering it with a solid block.%n%nAlso you can throw it, it's very fun."
+    },
+    {
+      "key": "dj2.quest.db.320.title",
+      "en": "Locked away forever"
+    },
+    {
+      "key": "dj2.quest.db.320.desc",
+      "en": "Just like the Lens, the PrismLens will redirect Starlight directed into it by a Linking Tool towards another location determined by the Linking Tool. Unlike the Lens, it can split Starlight among multiple points."
+    },
+    {
+      "key": "dj2.quest.db.321.title",
+      "en": "SIIIIIIIIP"
+    },
+    {
+      "key": "dj2.quest.db.321.desc",
+      "en": "Toss some Sparkling Aquamarine into the Starlight Infuser and Right Click it with a Resonating Wand to craft Resonating Gems. Make sure that your Liquid Starlight isn't flowing.%n%nIt's only Resonating Gem if it's from the Resonating region in France. Otherwise it's just Sparkling Aquamarine."
+    },
+    {
+      "key": "dj2.quest.db.322.title",
+      "en": "More than a Tank"
+    },
+    {
+      "key": "dj2.quest.db.322.desc",
+      "en": "Craft a Containment Chalice! On the surface, this is a tank that can hold up to 24 Buckets of fluid. But it can do sooo much more!%n%n1. You can simply pump Liquids in and out from the bottom with any kind of Liquid Pipe.%n%n2. When you place two of these Chalices close to each other, the Liquids inside start interacting with each other: Water + Lava will create Cobblestone, Stone, and sometimes Obsidian, Water, and Starlight will create Ice, Lava, and Starlight will create Sand and sometimes even Aquamarine Ore! You can collect these with an Absorption Hopper.%n%n3. Placing a Chalice next to a Lightwell will drain the Lightwell automatically. Perfect for automation!%n%n4. Placing a Chalice in the Starlight Infuser structure will allow you to directly pump Starlight into the Chalices for the ritual, without having to replace the small Starlight puddles. The Infuser will draw Starlight from nearby Chalices first, before it drains it from the pools."
+    },
+    {
+      "key": "dj2.quest.db.323.title",
+      "en": "Astral Apex"
+    },
+    {
+      "key": "dj2.quest.db.323.desc",
+      "en": "Using your Enchanter's PhD, craft the Iridescent Altar. Just like its prior Starlight Altars, it gains more max Starlight, generates more natively, and gains more slots to craft with.%nIn addition to that, it also unlocks the ability to place an attuned crystal to specify a Constellation, which is required for many items.%nIt also unlocks the ability for crafts to require items placed on Spectral Relays after the craft is initialized. These are indicated by spectral versions of themselves displaying above the specific Spectral Relays.%n"
+    },
+    {
+      "key": "dj2.quest.db.324.title",
+      "en": "Draw 4"
+    },
+    {
+      "key": "dj2.quest.db.324.desc",
+      "en": "The Starlight Crafting Altar is the next tier of Starlight Altar. It can craft all the items that the Luminous Crafting Table can, but requires a multiblock structure to function. You can use a Sextant on it to see a spectral preview of the multiblock.%nIt has a higher amount of maximum Starlight, and gets more Starlight, meaning prior tier recipes will become easier to accomplish.%n%nThe Starlight Crafting Altar will replace your Luminous Crafting Table, so make sure everything you need to complete the upgrade is made.%n%nTo finish the quest, pickup the Altar so the quest book detects it."
+    },
+    {
+      "key": "dj2.quest.db.325.title",
+      "en": "Demonic Portal"
+    },
+    {
+      "key": "dj2.quest.db.325.desc",
+      "en": "The Celestial Gateway is a multiblock structure that allows easy cross-dimensional teleportation! Simply place it down, assemble the structure (remember the Sextant shows a preview), do that in another place, and then look in the direction of the desired place. A star will appear, and by holding shift you can teleport over to the desired location. Once you have teleported once, a preview of the landscape on the other side will be displayed. Celestial Gateways can be renamed to further help navigation.%n%nAlso, 2 of them will be used for the final item in this Chapter."
+    },
+    {
+      "key": "dj2.quest.db.326.title",
+      "en": "Dust not for ingestion"
+    },
+    {
+      "key": "dj2.quest.db.326.desc",
+      "en": "Process some Starmetal Ore and get both Stardust and Starmetal Ingots."
+    },
+    {
+      "key": "dj2.quest.db.327.title",
+      "en": "Senior Astronomer"
+    },
+    {
+      "key": "dj2.quest.db.327.desc",
+      "en": "The final tier of Astral observation, the Observatory allows you to finally view Faint Constellations. Similar to the Looking Glass from long ago, to draw Constellations you must hold Shift to connect the stars."
+    },
+    {
+      "key": "dj2.quest.db.328.title",
+      "en": "Praise the Gods"
+    },
+    {
+      "key": "dj2.quest.db.328.desc",
+      "en": "The Celestial Altar is the next tier of Starlight Altar. It can craft all the items that the Starlight Crafting Altar and Luminous Crafting Table could, but requires a larger multiblock structure to function. You can use a Sextant on it to see a spectral preview of the multiblock. The listed items only include additional materials you need to get to upgrade your previous Altar.%nIt has a higher amount of maximum starlight, and gets more starlight, meaning prior tier recipes will become easier to accomplish.%nThe Celestial Altar will replace your Starlight Crafting Altar, so make sure everything you need to complete the upgrade is made.%n%nTo finish this quest, pickup the central Altar so the quest book can detect it."
+    },
+    {
+      "key": "dj2.quest.db.329.title",
+      "en": "Space Infused"
+    },
+    {
+      "key": "dj2.quest.db.329.desc",
+      "en": "First, craft a Ludicrite Block. Then, break it up into ingots and alloy it into Ludicrous Ore. Finally, using your Linking Tool, link a Starlight origin to a placed down Ludicrous Ore. This will eventually turn into Starmetal Ore.%n%nTo automate this, you simply need some Block Placers and Block Breakers on a timer. Since you'll use a lot of Starmetal, I recommend automating this immediately!"
+    },
+    {
+      "key": "dj2.quest.db.330.title",
+      "en": "A tunnel I meant"
+    },
+    {
+      "key": "dj2.quest.db.330.desc",
+      "en": "The Attunement Altar is a multiblock structure that will allow you to attune a large variety of things.%nTo specify what to attune to, place down Spectral Relays in the locations needed to form a Constellation. This is indicated by blue sparks when holding a Constellation Paper.%nThen, wait for that Constellation to be in the sky at night.%nThe nodes around the central Altar will lift up with the pure, channeled force of the Starlight.%nNow, toss an item that can be attuned, such as Rock Crystals or Celestial Crystals, onto the Altar.%n%nAlternatively, Attune yourself and unlock the powerful world of Perks! Experience will be gained based on what you attune yourself to. Experience required to level up has been modified by a custom formula via Astral Level Tweak, making early levels easy to obtain and keeping later levels feasible. The level cap is 100, so go wild and see what you can do."
+    },
+    {
+      "key": "dj2.quest.db.331.title",
+      "en": "Look, Ma! Hands!"
+    },
+    {
+      "key": "dj2.quest.db.331.desc",
+      "en": "The Looking Glass requires a clear view of the sky, but will allow you to spot the Bright Constellations you've been gathering. These are indicated by a group of large and distinctive stars. Hold shift to freeze the Looking Glass in place, and connect the stars in the manner shown on the Constellation Papers. The stars that are relevant to a Constellation are visibly larger than irrelevant ones."
+    },
+    {
+      "key": "dj2.quest.db.332.title",
+      "en": "Overgrad"
+    },
+    {
+      "key": "dj2.quest.db.332.desc",
+      "en": "The Stellar Refraction Table can give you Enchanted Books over the maximum vanilla level. Using Mending III, gained from Aevitas, Sharpness VII & Power VII, gained from Discidia, and Feather Falling, gained from Vicio, craft the Enchanter's PhD.%n%nYou've earned it.%n%n(These can be placed anywhere in the Crafting window, and the Books may have other enchantments on them.)"
+    },
+    {
+      "key": "dj2.quest.db.333.title",
+      "en": "Fractal Patterns"
+    },
+    {
+      "key": "dj2.quest.db.333.desc",
+      "en": "The Stellar Refraction Table will allow Constellations in the sky to empower what's on the board, using an Infused Glass. It does its magic on Potions and Enchantments, and it does its job extremely well. Its effect increases based on the number of overlapping stars on the Constellations placed down on the paper inside.%n%nFirst, you need it to be night.%nThen, Right Click Parchment and Infused Glass onto it.%nNext, move up to 3 Constellations onto the table. The Constellation matters for what effect it gives, which can be found in the Constellation tab of the Astral Tome.%nThis may fail, burning away the Parchment used, but if it succeeds you have gained an Engraved Glass.%n%nNow, Shift+Right Click to take the Engraved Glass out to inspect it - does it have the right effects?%nIf it does, put it back in, and Right Click a Potion, Book, Tool, Armor, or other enchantable items.%nIt will add the effects of the Engraved Glass onto the item at the cost of durability.%n%nHappy Infusing.%nHappy Engraving.%nHappy Enchanting.%nHappy Ending."
+    },
+    {
+      "key": "dj2.quest.db.334.title",
+      "en": "Exchanger++"
+    },
+    {
+      "key": "dj2.quest.db.334.desc",
+      "en": "The Conversion Wand is a unique builders wand. Shift+Right Clicking on a block will add it to a list displayed in the top left. When used on a block it will replace an area of the target block with a random mix of blocks from the list! Left Click mid-air to clear the list.%nLike many Astral tools, holding it will display a blue shimmering bar overlaid on top of your experience bar. This indicates the tool's ability to work, and slowly recharges."
+    },
+    {
+      "key": "dj2.quest.db.335.title",
+      "en": "What an Ore-deal!"
+    },
+    {
+      "key": "dj2.quest.db.335.desc",
+      "en": "After exploding some Mystical Iron Ingots into Shattered Mystical Iron Crystals, alloy it with Stone to create Rock Crystal Ore. This will give Rock Crystals when broken by a player.%n%nRock Crystals have a random Size, Cutting, and Purity when obtained. It's not going to be relevant until later, but higher stats are always better.%n%n(PS. Rock Crystal Ore does NOT generate normally, this is the only way to obtain it.)"
+    },
+    {
+      "key": "dj2.quest.db.336.title",
+      "en": "Modern Melter"
+    },
+    {
+      "key": "dj2.quest.db.336.desc",
+      "en": "The Lightwell produces various fluid outputs when an item has been placed in it. It must have access to the sky, and works faster at night. Fluids are produced at different amounts based on the item. They also have a shatter percentage, which is their chance to break.%n%nThe main function is to gather Liquid Starlight. In order of least Liquid Starlight to most Liquid Starlight per cycle: Sparkling Aquamarine, Resonating Gem, Rock Crystal, Attuned Rock Crystal, Celestial Crystal, and Attuned Celestial Crystal. Your only options right now are either Rock Crystals or Sparkling Aquamirines.%n%nIn order of highest break chance to lowest break chance: Sparkling Aquamarine, Resonating Gem, Rock Crystal, Celestial Crystal, Attuned Rock Crystal, and Attuned Celestial Crystal.%n%nAdditionally, placing the Lightwell in areas of high natural Starlight or focusing Starlight on the Lightwell via a Linking Tool will cause more fluid to be produced per cycle, leading to significant increases in efficiency."
+    },
+    {
+      "key": "dj2.quest.db.337.title",
+      "en": "The Divining Rod That Works TM"
+    },
+    {
+      "key": "dj2.quest.db.337.desc",
+      "en": "The Fosic Resonator is the first of a multi-tier item that allows you to detect important information. For the first tier, it only allows you to see Starlight Fields at night, indicated by a glowing blue layer on the ground when held. Starlight Fields increase the amount of Starlight in a Crafting Altar, so if you're struggling getting enough Starlight at night, make sure to build your Crafting Altar at a high Starlight-concentration area.%n%nAlso, building your setup higher in elevation will also grant more Starlight."
+    },
+    {
+      "key": "dj2.quest.db.338.title",
+      "en": "SLUUUUUP"
+    },
+    {
+      "key": "dj2.quest.db.338.desc",
+      "en": "Snag a bucket of Liquid Starlight. A Lightwell holds a maximum of two buckets.%nWill give you Night Vision if you stand in it."
+    },
+    {
+      "key": "dj2.quest.db.340.title",
+      "en": "Pick me, pick me not"
+    },
+    {
+      "key": "dj2.quest.db.340.desc",
+      "en": "The Shifting Star will completely reset your Perks - both their allocation, and all experience gained.%nLater, you can upgrade your Shifting Star to an Irradiant Star, which only resets their allocation, and keeps all experience and progress gained. Additionally, they reattune you to the specified Bright Constellation.%nTo use, simply hold Right Click for a few seconds as an animation plays."
+    },
+    {
+      "key": "dj2.quest.db.341.title",
+      "en": "True and Absolute Beauty"
+    },
+    {
+      "key": "dj2.quest.db.341.desc",
+      "en": "Infuse Magical Leather for the epic and long anticipated next tier of extravagant Leather, which will dazzle your eyes and nourish your very soul.%nmeh"
+    },
+    {
+      "key": "dj2.quest.db.342.title",
+      "en": "Infuser 2... 3? 4??? point oh"
+    },
+    {
+      "key": "dj2.quest.db.342.desc",
+      "en": "The Starlight Infuser is a multiblock structure. The item to infuse is placed in the center, and then Right Clicked by a Resonating Wand. When the infusion is completed, there is a chance that a Liquid Starlight bucket has been consumed, and must be replaced to continue using the Starlight Infuser.%n%nTo automate this, you could setup a Mechanical User to Right Click if and only if the target block does not have a fluid source inside it. However, later you'll be able to automate it in a much simpler way: Once you have access to a Containment Chalice, the Starlight Infuser can directly pull Starlight from it provided it is within 4 blocks of the Infuser. Then you'll only need a Fluid Pipe of some sort to provide Liquid Starlight to the Chalice!"
+    },
+    {
+      "key": "dj2.quest.db.343.title",
+      "en": "Eagle Eye"
+    },
+    {
+      "key": "dj2.quest.db.343.desc",
+      "en": "The Telescope requires a clear view of the sky, and is placed down as opposed to being held. You can rotate through 8 different views, some of which may have Constellations on them, depending on what Constellations you know from the Constellation Papers you have gathered, and depending on the current moon phase. If you can't find any more Constellations, you might need to wait for the following night!%n%nThe Telescope can see both Bright and Dim Constellations, so 7 more than the simple Looking Glass.%n%nJust like the Looking Glass, you will need to connect the stars in the manner shown on the Constellation Papers to learn more about them."
+    },
+    {
+      "key": "dj2.quest.db.344.title",
+      "en": "Need glasses?"
+    },
+    {
+      "key": "dj2.quest.db.344.desc",
+      "en": "The Lens will redirect all Starlight directed into it by a Linking Tool towards another location determined by the Linking Tool."
+    },
+    {
+      "key": "dj2.quest.db.345.title",
+      "en": "U&Me"
+    },
+    {
+      "key": "dj2.quest.db.345.desc",
+      "en": "The Linking Tool will allow you to link Starlight producers, transmitters, and collectors together. To link, Right Click on the origin, then Right Click on the target. To unlink, Shift+Right Click on the origin. To stop selecting the origin, switch it out of your hand. An origin targeting multiple locations will evenly split across all of them, if possible."
+    },
+    {
+      "key": "dj2.quest.db.346.title",
+      "en": "Wand of the Scrambled Builder"
+    },
+    {
+      "key": "dj2.quest.db.346.desc",
+      "en": "The Formation Wand is a unique builders wand. Shift+Right Clicking on a block will add it to a list displayed in the top left. When used on a distant block, it will build towards you, placing them in a random mix of blocks from the list! Left Click mid-air to clear the list.%nLike many Astral tools, holding it will display a blue shimmering bar overlaid on top of your experience bar. This indicates the tool's ability to work, and slowly recharges."
+    },
+    {
+      "key": "dj2.quest.db.347.title",
+      "en": "Astral Actuator"
+    },
+    {
+      "key": "dj2.quest.db.347.desc",
+      "en": "Craft a Resonating Wand! This Wand is used to finish all Astral Sorcery crafts. Once you have the required items laid out in a Luminous Crafting Table or Altar, Right Click with the Wand to activate the craft."
+    },
+    {
+      "key": "dj2.quest.db.348.title",
+      "en": "Of Deepest Blue"
+    },
+    {
+      "key": "dj2.quest.db.348.desc",
+      "en": "Toss a Stardust and a Rock Crystal into a pool of Liquid Starlight. After a few seconds, they will be consumed and replaced by a Celestial Crystal Cluster. This will slowly grow, until eventually it will emit white glimmering particles. When broken in this state, it will drop a Celestial Crystal of random stats and 2 Stardust.%n%nThis process can be sped up by placing Starmetal Ore beneath the Celestial Crystal Cluster - while its growing, the ore has a chance to convert back into Ludicrous Ore. If Starmetal Ore is below the the Celestial Crystal when it is broken, its final stat purity stat will be increased, and there is a chance to drop a second Celestial Crystal.%n%nCelestial Crystals have the same 3 stats as Rock Crystals, but instead of going up to Size 400, they go all the way up to size 900!"
+    },
+    {
+      "key": "dj2.quest.db.349.title",
+      "en": "Glowstick"
+    },
+    {
+      "key": "dj2.quest.db.349.desc",
+      "en": "A reusable source of placing Illumination Powder! It can be colored by placing it with a dye in the crafting grid. Using a colored Illumination Wand on a Cave Illuminator will cause all lights that will be placed by the Cave Illuminator to be the same color as the Illumination Wand's."
+    },
+    {
+      "key": "dj2.quest.db.350.title",
+      "en": "Revealing the Stars!"
+    },
+    {
+      "key": "dj2.quest.db.350.desc",
+      "en": "Use your Astral Core to craft a Star of Revelation! This Star reveals the truth about the universe for you... Is there something outside? All this time you've been looking up at the night sky, finding Constellations, using the power of Moonlight, and being truly mesmerized... Is it a place you could someday reach?%n%n...%n%nYou ponder.%n%nMaybe we can visit it....%n%n...Personally."
+    },
+    {
+      "key": "dj2.quest.db.351.title",
+      "en": "Heart of the Stars"
+    },
+    {
+      "key": "dj2.quest.db.351.desc",
+      "en": "Using your recently identified Faint Constellations, Attune 4 Celestial Crystals, one to each of the 4 Faint Constellations, and craft them with a Resplendent Prism.%nTo Attune Faint Constellations to Celestial Crystals, they need to already be attuned to a Bright or Dim Constellation."
+    },
+    {
+      "key": "dj2.quest.db.352.title",
+      "en": "Sunlight, Sunbright, Oh Sun You Are My Star \"Tonight\""
+    },
+    {
+      "key": "dj2.quest.db.352.desc",
+      "en": "The Celestial Collector Crystal is far more powerful at gathering Starlight than the normal Collector Crystal. However, to function, it needs a structure to channel this power. Liquid Starlight will never be consumed from this structure, unlike the Starlight Infuser.%nRemember to Link it to a Lens, Prism, or Starlight Altar with the Linking Tool, otherwise it won't help you!%n%nThis will finally allow you to generate enough Starlight for your Starlight Altar for you to be able to craft during the day!%n...provided you use a Crystal with higher Purity and Size than 1%% and 1. Those stats matter, you know! §5Sucks to be Cutting, though, totally useless here.§r"
+    },
+    {
+      "key": "dj2.quest.db.353.title",
+      "en": "Roulette"
+    },
+    {
+      "key": "dj2.quest.db.353.desc",
+      "en": "When crafted, it will gain traits that will increase specific enchantments. Its effects are only active when equipped in the Amulet slot. It can be re-rolled to try to get better effects.%n%nThis is called gambling. May the rolls be with you."
+    },
+    {
+      "key": "dj2.quest.db.354.title",
+      "en": "Going Galactic!"
+    },
+    {
+      "key": "dj2.quest.db.354.desc",
+      "en": "Craft some Galactic Ingots with your Star of Revelation to unlock Galacticraft!%n%nNote: This does NOT use up the Star of Revelation, however AE2 is not too well-informed, and it eats up the Star anyway. Use an external crafter (like an RFTools Crafter) if you want to automate the creation of Galactic Ingots!"
+    },
+    {
+      "key": "dj2.quest.db.355.title",
+      "en": "DOMINATING"
+    },
+    {
+      "key": "dj2.quest.db.355.desc",
+      "en": "The Domic Resonator is a direct upgrade to the Fosic Resonator. It adds another mode, which can be toggled between. This mode displays the area of Starlight a single absorber, such as a Collector Crystal, consumed. Competing Starlight absorbers will have reduced effectiveness. To hide the preview, simply move far enough away."
+    },
+    {
+      "key": "dj2.quest.db.356.title",
+      "en": "Structure Projector"
+    },
+    {
+      "key": "dj2.quest.db.356.desc",
+      "en": "When Right Clicked on the focal block of a structure, the Sextant will display a phantom of the structure to help you build it.%n%n(When Right Clicked elsewhere, it will open a star map. Now this would normally help you find Astral Sorcery structures, buuuuut these structures have been disabled in this pack. Sorry!)"
+    },
+    {
+      "key": "dj2.quest.db.357.title",
+      "en": "Light the way"
+    },
+    {
+      "key": "dj2.quest.db.357.desc",
+      "en": "When placed down, it will slowly place Illumination Powder in any place that doesn't have sky access and isn't lit up. It has quite the range, being able to light up a huge area of the caves below ground. Remember, Illumination Powder can be removed by smothering it with a block."
+    },
+    {
+      "key": "dj2.quest.db.358.title",
+      "en": "Starlight acquisition acceleration modification"
+    },
+    {
+      "key": "dj2.quest.db.358.desc",
+      "en": "Since Astral Sorcery structures are disabled, there needs to be a way to craft a Collector Crystal. This method is pretty expensive, and gives you a decent Crystal, but soon upcoming methods will make this much cheaper.%n%nNonetheless, craft this specific Collector Crystal in your 7x7 Elite Crafting Table, and place it in a location.%n%nIf directed towards a Starlight Altar, it will increase the Starlight within it, making crafting easier - and potentially letting small crafts occur during the day!"
+    },
+    {
+      "key": "dj2.quest.db.359.title",
+      "en": "Astronomy is my favorite subject"
+    },
+    {
+      "key": "dj2.quest.db.359.desc",
+      "en": "Craft some Constellation Papers! (These can no longer be found in the world.) They grant you knowledge about the exact look of each Astral Sorcery Constellation. You'll need more than 3, this is just to get you started. Overall there are 16 Constellations: 5 Bright, 7 Dim and 4 Faint. Each Constellation Paper should give you a unique one, so you won't have to craft more than 16 of these.%n%nLater you'll be able to craft each specific Constellation Paper, and they'll be slightly less expensive too.%n%nWhile this isn't §otechnically§o§r required for any quest, you need to discover every Constellation to complete this page. Better get cracking!"
+    },
+    {
+      "key": "dj2.quest.db.360.title",
+      "en": "Fly like an Angel"
+    },
+    {
+      "key": "dj2.quest.db.360.desc",
+      "en": "The Flügel Tiara is cool an' all, but you constantly need to refill it. Wouldn't it be better to use something that doesn't constantly lose its charge?! Well, your Astral studies have paid off: You can craft an Angel Ring now! There are 6 types, but they only differ in looks.%n%nMake sure to have enough GP to use it and feel free to place it in your Bauble Ring slot."
+    },
+    {
+      "key": "dj2.quest.db.362.title",
+      "en": "Chunks not chunky enough yet"
+    },
+    {
+      "key": "dj2.quest.db.362.desc",
+      "en": "We're closing in on the lategame... And so far, with the default settings, you only had 50 Chunks you were able to load. This changes to today! You need more Chunks to load, I know you do: Introducing the Chunk Loading Ward! Simply place it down inside a Chunk, and it'll be forever loaded!%n%nMany servers will disable this, but even if they don't, check with your server owner to make sure using them is okay."
+    },
+    {
+      "key": "dj2.quest.db.470.title",
+      "en": "Heavenly Radiance"
+    },
+    {
+      "key": "dj2.quest.db.470.desc",
+      "en": "Craft a Mantle of the Stars. This is the only armor from Astral Sorcery you can get - and it's one of the most powerful and varied in the game. You can attune (and reattune, overwriting the prior attunement) the Mantle to a specific constellation for buffs and effects - which will be listed here. Additionally, all Mantles have +80%% Chaos Resistance, which is direct damage reduction against the Chaos Dragon, a terrifying boss that you will have to fight soon (Chapter 25).%n%nWhen attuned to:%n%n§6Discidia§r, 1/3 of damage against you is added to your next attack.%n§6Armara§r, you gain 3 charges of complete damage protection, which slowly regen.%n§6Vicio§r, an elytra that does not lose durability from flying - and can be upgraded to creative flight via a perk.%n§6Aevitas§r, slowly restores missing health and hunger.%n§6Evorsio§r, breaks block faster, mines in an AOE, and does damage to nearby mobs.%n§6Lucerna§r, highlights nearby mobs and spawners.%n§6Mineralis§r, highlights nearby blocks that match what is in your hand or offhand.%n§6Horologium§r, freezes all nearby mobs when hit, but has a minute long cooldown.%n§6Octans§r, gives water breathing, and removes all movement and tool usage penalties for being submerged.%n§6Bootes§r, flares spawn when you are attacked, and will attack your most recent attacker.%n§6Fornax§r, applies healing equal to the damage taken from fire.%n§6Pelotrio§r, when breaking a block or attacking a mob, spawn a Spectral Tool, which will then attempt to mirror what you are doing."
+    },
+    {
+      "key": "dj2.quest.db.498.title",
+      "en": "Millions and millions of Seeds"
+    },
+    {
+      "key": "dj2.quest.db.498.desc",
+      "en": "Combine a Corrosive Will Crystal, Blutonium Dust, and some Concentrated Cloud Seed in the Vat to obtain some Growth Infusion Liquid! Then use your Growth Infusion Liquid to obtain some Crop Sticks!%n%nThese sticks are way more powerful than they look like - they allow you to duplicate any Mystical Agriculture Seed planted on them, either through spreading or using the Clipper.%n%nYou can also mutate the same type of crop with itself by planting 2 of them on a Crop Stick placed diagonally from each other, and placing a double-Crop Stick in the corner. The Seeds will eventually mutate (which you can speed up a lot with the Imaginary Time Block), creating a potentially better one.%n%n§c§lWARNING:§r You cannot use the EnderIO Farming Station with these Crop Sticks. Instead, try any of the following to harvest the crops:%n%n- Botania Drum of the Wild or Horn of the Wild inside a Player Simulator;%n- An Actually Additions Farmer;%n- Or an Industrial Foregoing Plant Interactor.%n%nIn all cases, you'll also need a way to gather the resources. I recommend a Ranged Collector or an Absorption Hopper.%n%nEach AgriCraft Seed has 3 stats, and maxing them out is commonly referred to as \"10/10/10'ing the Seed\". The first stat increases the rate at which the crop grows; the second stat increases the average yield of the crop; the third stat normally reduces the damage weeds can do, but since weeds are disabled in this pack, it only increases the chance of getting clippings from clippers.%n%nYou can check the 10/10/10'ing progress in a Seed Analyzer.%n%nYou'll need a bunch of Seeds in one of the later Chapters, so definitely take advantage of AgriCraft!"
+    },
+    {
+      "key": "dj2.quest.db.564.title",
+      "en": "The tools of AgriCraft"
+    },
+    {
+      "key": "dj2.quest.db.564.desc",
+      "en": "Craft a Seed Analyzer and place an Agricultural Journal inside to keep track of analyzed plants. You can use this machine to check your 10/10/10'ing progress for each Seed.%n%nThe Gardening Trowel is an easy way to move plants.%n%nThe Clipper is a very powerful tool that lets you duplicate Seeds. Though you could always just use more Crop Sticks to mutate more."
+    },
+    {
+      "key": "dj2.quest.db.622.title",
+      "en": "Fr33 L00T!"
+    },
+    {
+      "key": "dj2.quest.db.622.desc",
+      "en": "Assemble the Mob Loot Fabricator. This multiblock serves as a replacement for laggy spawners and mob farms. It also gives a \"pain-free\" way of obtaining various boss drops after having killed one. %n%nThis multiblock requires a §6Celestial Collector Crystal of any size and quality attuned to Lucerna§r.%n%nThe Life Essence Output Hatch allows for quick refilling of the Blood Network the Blood Orb inside it is part of.%nThe Demonic Will Output Hatch can produce Will for the chunk of all 5 types.%n%nTo work, it takes some Life Essence from the Blood Network and a catalyst item to determine the recipe.%nYes, this is extracting LP from your Blood Network from the §oOutput§r Hatch, no it does not make sense. §cNote that outputting Life Essence will only fill to the capacity of the orb.§r%n%nTo assemble the machine, I recommend Right Clicking with its Blueprint, and clicking the bottom right icon for a layer by layer view. The black is hard to see on the black, so I'll explain the Sooty Marble configuration here:%n%n- The 8 corners of the 5x5x5 machine are all Chiseled Sooty Marble Blocks.%n- The edges of the cube on the floor and on the ceiling are Sooty Marble Arches.%n- The edges of the cube on the sides are all Sooty Marble Pillars.%n%nThis quest requires 1 Normal Fluid Output Hatch, because, while not strictly needed to build the multiblock (its place, directly behind the Demonic Will Output Hatch, can be an item output or just a Sooty Marble Arch), it is needed for multiple recipes you will want to use.%n%nThis quest also requires 2 Normal Item Outputs, because, while not strictly needed to build the multiblock, it is the minimum size required for most recipes.%n%nIn order to process the largest recipes, you need 42 output slots, which means placing 7 Normal Item Outputs in their allocated places - the Fluid Hatch and the rest of the bottom floor of the multiblock. Alternatively, you could wait until you can craft larger Item Outputs, but wheres the fun in that?%n%nMake sure to pull from all the Output Hatches (including the Fluid Output Hatch) of the machine so it doesn't get clogged up!"
+    },
+    {
+      "key": "dj2.quest.db.816.title",
+      "en": "Unwrap this present to Unwarp yourself"
+    },
+    {
+      "key": "dj2.quest.db.816.desc",
+      "en": "No one likes Thaumcraft Warp! Fortunately, your astronomical investigations have yielded you an item that can send all your unwanted warp into the deep and endless void of space. Isn't it great?! Craft an Unwarpification Talisman and try it yourself!"
+    },
+    {
+      "key": "dj2.quest.db.889.title",
+      "en": "Goodnight!"
+    },
+    {
+      "key": "dj2.quest.db.889.desc",
+      "en": "It's never fun to wait for night time to come... Fortunately, we have a solution! Craft an Imperfect Ritual Stone and place a Block of Lapis on top! Right Click the Ritual Stone to make it night time!"
+    },
+    {
+      "key": "dj2.quest.db.1735.title",
+      "en": "Sacrificing Starlight"
+    },
+    {
+      "key": "dj2.quest.db.1735.desc",
+      "en": "Use the immense power of the heavens themselves to fuel your arcane purposes!%n%nBy placing an Attuned Crystal atop the Ritual Pedestal, you will cause the Ritual Pedestal to emit an effect based on the Constellation Attuned to. The Attuned Crystal will gradually decay and lose effectiveness as it §4fractures§r. Fractured Crystals can be repaired by being dropped in Liquid Starlight.%n%nPlacing a Ritual Anchor 5 blocks above the Pedestal will allow the effect to be relocated to a paired Ritual Anchor elsewhere, allowing for more precise utilization of the Ritual.%n%nDirecting additional Starlight towards the Ritual Pedestal will increase the strength of the ritual, although it requires placing Lenses above the ritual to reflect the refracted light for full efficiency. It will also increase the rate the Attuned Crystal fractures.%n%n%nEach Attunement to the Major and Minor Constellations has its own effect which may be worth exploring. Instead of providing a distinct effect, Faint Constellations apply a modifier to the effect of the Major or Minor Constellation. One of the Faint Constellations corrupts the ritual, causing it to have inverted effects.%n%n%n%nWhen attuned to the Major or Minor Constellation:%n%n§6Discidia§r, non-owner entities are constantly damaged. When Corrupted, entities are healed and given Resistance, and the owner is dealt damage.%n§6Armara§r, prevents mobs from spawning, pushes projectiles away, and gives all entities Resistance. When Corrupted, gives all non-player entities a number of beneficial effects and will drop significantly more items when killed.%n§6Vicio§r, players gain the ability to fly. When Corrupted, players lose flying and gain Mining Fatigue and Slowness.%n§6Aevitas§r, entities gain the Regeneration potion effect and crops have their growth accelerated. When Corrupted, entities gain a number of negative effects and crops are broken.%n§6Evorsio§r, breaks blocks. When Corrupted, places various blocks instead.%n§6Lucerna§r, prevents mobs from spawning. When Corrupted, prevents night from passing.%n§6Mineralis§r, generates random ores in the area. When Corrupted, tries to generate those same ores where an entity already is.%n§6Horologium§r, accelerates the tick rate of Tile Entities, which are indicated by particles. They cannot include any Applied Energistics 2 blocks or most Astral Sorcery blocks. When Corrupted, stops entities and Tile Entities from moving - which can affect bosses.%n§6Octans§r, generates drops from fishing. When Corrupted, places water in the area and generates drops from fishing.%n§6Bootes§r, generates the drops an animal would have if killed without killing. When Corrupted, causes animals to drop significantly more items when killed and kills them.%n§6Fornax§r, smelts blocks in world. When Corrupted, freezes fluids instead.%n§6Pelotrio§r, spawns mobs that are valid in the current location. When Corrupted, converts entities between forms and causes mobs to drop significantly more items when killed.%n%nWhen attuned to the Faint Constellation:%n%n§6Gelu§r, increases the size affect but decreases the potency.%n§6Ulteria§r, amplifies the effect significantly but decreases the size.%n§6Alcara§r, Corrupts the ritual, amplifies the effect, and increases the size, but significantly increases the rate the Attuned Crystal fractures.%n§6Vorux§r, amplifies the effect and increases the size, but slightly increases the rate the Attuned Crystal fractures."
+    }
+  ]
+}

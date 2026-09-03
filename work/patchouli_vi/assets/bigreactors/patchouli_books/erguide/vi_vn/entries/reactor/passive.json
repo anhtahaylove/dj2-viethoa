@@ -1,0 +1,13 @@
+{
+  "name": "Passive Cooling",
+  "icon": "bigreactors:blockgraphite",
+  "category": "bigreactors:reactor-operational_mode",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Reactor làm mát thụ động là Reactor $(l:reactor/innerworking)tạo năng lượng$(/l) trực tiếp và không dùng môi chất bên ngoài để tản nhiệt bên trong.$(br2)$(l:intro/first)Reactor đầu tiên$(/l) được mô tả ở những trang đầu của cuốn sách này là một Reactor hoạt động ở chế độ Làm mát thụ động."
+    }
+  ]
+}

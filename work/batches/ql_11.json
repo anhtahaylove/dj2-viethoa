@@ -1,0 +1,473 @@
+{
+  "chapter_index": 11,
+  "title_key": "dj2.quest.ql.11.title",
+  "chapter_title_en": "14. Into the Abyss",
+  "desc_key": "dj2.quest.ql.11.desc",
+  "chapter_desc_en": "Venture into Eden and the Wildwoods and go insane with AbyssalCraft.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.11.title",
+      "en": "14. Into the Abyss"
+    },
+    {
+      "key": "dj2.quest.ql.11.desc",
+      "en": "Venture into Eden and the Wildwoods and go insane with AbyssalCraft."
+    },
+    {
+      "key": "dj2.quest.db.655.title",
+      "en": "It's all digital!"
+    },
+    {
+      "key": "dj2.quest.db.655.desc",
+      "en": "Well now that you have a Dread Crystal... you're pretty powerful. You can choose to use it to get into Blood Magic, or to make a handy quarry: The Digital Miner!%n%nIf you chose the latter, here is how to use it:%n%nIn its GUI you'll find a config button which lets you specify:%n%n- A radius of up to 32 blocks,%n- Which y-levels you want to mine on.%n- What to mine (you'll need to add a filter for this)."
+    },
+    {
+      "key": "dj2.quest.db.1467.title",
+      "en": "= Necronomicon + 1"
+    },
+    {
+      "key": "dj2.quest.db.1467.desc",
+      "en": "Using the various materials you've gathered so far, upgrade your Necronomicon to its Abyssal Wastelands version. This will unlock new chapters and allow it to store more Potential Energy."
+    },
+    {
+      "key": "dj2.quest.db.1468.title",
+      "en": "Essense of Madness"
+    },
+    {
+      "key": "dj2.quest.db.1468.desc",
+      "en": "Rend them down, get an Abyssal Wasteland Essence."
+    },
+    {
+      "key": "dj2.quest.db.1469.title",
+      "en": "Don't like where this is going."
+    },
+    {
+      "key": "dj2.quest.db.1469.desc",
+      "en": "It's a 5x5 crafting table, oh so full of joy, why don't you try it - this is no sinister ploy!"
+    },
+    {
+      "key": "dj2.quest.db.1470.title",
+      "en": "Don't I already have this?"
+    },
+    {
+      "key": "dj2.quest.db.1470.desc",
+      "en": "It's a 3x3 crafting table that won't let you craft anything new, ask your doctor if \"Basic Crafting Table\" is right for you."
+    },
+    {
+      "key": "dj2.quest.db.1471.title",
+      "en": "Rip 'Em"
+    },
+    {
+      "key": "dj2.quest.db.1471.desc",
+      "en": "Now that you've killed The Watcher, rip out its eye."
+    },
+    {
+      "key": "dj2.quest.db.1472.title",
+      "en": "That ain't Batman!"
+    },
+    {
+      "key": "dj2.quest.db.1472.desc",
+      "en": "The second Boss of DivineRPG, The Watcher is a powerful flying boss that is spawned in the Nether by Right Clicking with the Call of the Watcher."
+    },
+    {
+      "key": "dj2.quest.db.1473.title",
+      "en": "Overworld Potential"
+    },
+    {
+      "key": "dj2.quest.db.1473.desc",
+      "en": "Simply better versions of the normal Potential Energy manipulators."
+    },
+    {
+      "key": "dj2.quest.db.1474.title",
+      "en": "Pure Potential"
+    },
+    {
+      "key": "dj2.quest.db.1474.desc",
+      "en": "Potential Energy manipulation. Both useless without a Necronomicon AND actually explained there.%nCheck Potential Energy/Special Materials."
+    },
+    {
+      "key": "dj2.quest.db.1475.title",
+      "en": "From me to you, with magic"
+    },
+    {
+      "key": "dj2.quest.db.1475.desc",
+      "en": "The Transmutor is a furnace style machine, requiring unique fuel and transmuting one item into another at a slow pace.%n%nI recommend Blaze Rods or Blaze Powder as fuel."
+    },
+    {
+      "key": "dj2.quest.db.1476.title",
+      "en": "Into the boring plain"
+    },
+    {
+      "key": "dj2.quest.db.1476.desc",
+      "en": "After crafting the gateway key, Right Clicking on the ground with it will generate a portal that will take you to the Abyssal Wasteland."
+    },
+    {
+      "key": "dj2.quest.db.1477.title",
+      "en": "Shattered into Something"
+    },
+    {
+      "key": "dj2.quest.db.1477.desc",
+      "en": "Combining 4 Shards of Oblivion and 4 Melodic Capacitors into an Active Ender Core (Advanced), at the cost of 5000 Potential Energy and the sacrifice of an animal will gain you the Oblivion Catalyst.%n%nAlso multiple headaches and visions of eldritch gods. Don't worry about those."
+    },
+    {
+      "key": "dj2.quest.db.1478.title",
+      "en": "Two Time"
+    },
+    {
+      "key": "dj2.quest.db.1478.desc",
+      "en": "Craft up 14 Eden Blocks. Make a Nether Portal shape out of them. Light with the Twilight Clock.%nWelcome to the Wildwood.%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nI'm out the portal again,%nSo hopped up to the wild ahead.%nTwo time!%nStay friends,%nProblem that I'm not prepared!%n%nHands up, feel okay,%nWhich mob should I slay today?%nTwo time!%nStay friends,%nProblem that I can't defend!"
+    },
+    {
+      "key": "dj2.quest.db.1479.title",
+      "en": "Why is everything infused?"
+    },
+    {
+      "key": "dj2.quest.db.1479.desc",
+      "en": "Mine up the Dreadlands Infused Powerstone found where you would find the End Portal in a normal Stronghold."
+    },
+    {
+      "key": "dj2.quest.db.1480.title",
+      "en": "Ain't no Ender \"Dragon\""
+    },
+    {
+      "key": "dj2.quest.db.1480.desc",
+      "en": "Using the full power of your recently upgraded Necronomicon, summon and beat Asorah, The Fallen.%n%nYou can find the Ritual in your Abyssal Wasteland Necronomicon, under the Rituals / Abyssal Wasteland section, named Ritual of the Sleeper."
+    },
+    {
+      "key": "dj2.quest.db.1481.title",
+      "en": "Beating heart of paradise"
+    },
+    {
+      "key": "dj2.quest.db.1481.desc",
+      "en": "After killing the Sunstorm, make sure to surgically remove its heart.%n%n%nAll you need is love!"
+    },
+    {
+      "key": "dj2.quest.db.1483.title",
+      "en": "Can Oh LAAAAAAAAAAAAAA"
+    },
+    {
+      "key": "dj2.quest.db.1483.desc",
+      "en": "Atomically Reconstruct Canola Seeds, and then toss it into Refined Canola in an In-World Fluid Crafting operation."
+    },
+    {
+      "key": "dj2.quest.db.1484.title",
+      "en": "Framing Black Iron"
+    },
+    {
+      "key": "dj2.quest.db.1484.desc",
+      "en": "Craft a Black Iron Frame!%n%n%nYou're totally going to use it for lighting."
+    },
+    {
+      "key": "dj2.quest.db.1485.title",
+      "en": "Eden-tually you'll get there"
+    },
+    {
+      "key": "dj2.quest.db.1485.desc",
+      "en": "Find a large Eden Temple structure and explore it!%n%nYou'll need to go through the top section first and find a way to gain access to the maze below.%n%nThen drop down from the very top to the maze level, complete it, and summon and defeat the special Sunstorm boss at the end who drops a Key to continue."
+    },
+    {
+      "key": "dj2.quest.db.1487.title",
+      "en": "Sliver of Nothing"
+    },
+    {
+      "key": "dj2.quest.db.1487.desc",
+      "en": "The Shard of Oblivion captures just a bit of madness within its glowing red surface. Sometimes you can see the madness writhe.%n%n%nMake 4 of them."
+    },
+    {
+      "key": "dj2.quest.db.1488.title",
+      "en": "EpiGEMetics"
+    },
+    {
+      "key": "dj2.quest.db.1488.desc",
+      "en": "Most notable for being able to make the Shard of Oblivion, the Transmutation Gem is a 10-use crafting item."
+    },
+    {
+      "key": "dj2.quest.db.1490.title",
+      "en": "Resident Ingot"
+    },
+    {
+      "key": "dj2.quest.db.1490.desc",
+      "en": "After alloying up a Chunk of Coralium, smelt it down into two Refined Coralium Ingots."
+    },
+    {
+      "key": "dj2.quest.db.1491.title",
+      "en": "From their flesh"
+    },
+    {
+      "key": "dj2.quest.db.1491.desc",
+      "en": "Hold Right Click while looking at an Abyssal mob to rend it and generate Energy based on the type of mob. When you reach the cap, your Staff will helpfully convert that into an essence item based on what you were rending.%nWhile weak and slow at first, it both be upgraded to later tiers and enchanted."
+    },
+    {
+      "key": "dj2.quest.db.1492.title",
+      "en": "Really? Again?"
+    },
+    {
+      "key": "dj2.quest.db.1492.desc",
+      "en": "The Abyssal Stronghold that these lead to functions similarly to the normal Stronghold in the overworld, and these special eyes will lead you there. Make 6 of them.%n%nNote that the reward can only be gained through a harvest level 5 pickaxe, so you will need to find a way to get that."
+    },
+    {
+      "key": "dj2.quest.db.1493.title",
+      "en": "I(s)-landed here!"
+    },
+    {
+      "key": "dj2.quest.db.1493.desc",
+      "en": "Find the Floating Island Dungeon in Wildwood!%n%nGo inside and solve the puzzles. You'll need to find two rooms that require you to match an Andesite structure and build it on the other side again. It doesn't have to be mirrored or rotated.%n%nYou'll also need to find a certain number of digits scattered throughout the Dungeon and enter them into the lever puzzle. Make sure not to get killed by the creatures in the corridors in the meantime!%n%nFinally, spawn, and defeat the Soul Fiend boss that drops 4 Feathers of the Wild Woods!"
+    },
+    {
+      "key": "dj2.quest.db.1494.title",
+      "en": "Plague > Silverfish"
+    },
+    {
+      "key": "dj2.quest.db.1494.desc",
+      "en": "Craft up 4 Coralium Infused Stone and smelt them down into 4 Coralium Pearls. These will be used to craft a large number of things."
+    },
+    {
+      "key": "dj2.quest.db.1495.title",
+      "en": "Potential Pillars"
+    },
+    {
+      "key": "dj2.quest.db.1495.desc",
+      "en": "Make 4 Monolith Stone Pillars. These increase the range your statues can transmit Potential Energy from."
+    },
+    {
+      "key": "dj2.quest.db.1496.title",
+      "en": "Gotta catch em all"
+    },
+    {
+      "key": "dj2.quest.db.1496.desc",
+      "en": "Gather up one of each of the Abyssal Statues - check to be sure you're making the real ones and not just the decorative ones.%nThese Statues need sky access to function, so be sure to not place them under a roof.%n%nOnce you have the Necronomicon, the Potential Energy chapter will be of use, as it describes it with pictures!%nNOTE: The destructive effects have been removed, and it is now entirely safe."
+    },
+    {
+      "key": "dj2.quest.db.1497.title",
+      "en": "From holy to unholy"
+    },
+    {
+      "key": "dj2.quest.db.1497.desc",
+      "en": "What have they been hiding in their temple?! By taking this, will I cast an unholy curse to this beautiful holy land?! ... Maybe there is a reason this was so highly protected..."
+    },
+    {
+      "key": "dj2.quest.db.1498.title",
+      "en": "On Questioning Sanity"
+    },
+    {
+      "key": "dj2.quest.db.1498.desc",
+      "en": "I'm not going insane... am I? Who was that man with the shadowed face? What was that sound from my neighbor's attic? What leaves those scars on my door? What are those eyes that aren't eyes that move and writhe I see when I dream? Shoggoths aren't real... right?"
+    },
+    {
+      "key": "dj2.quest.db.1499.title",
+      "en": "Guess what's built of this"
+    },
+    {
+      "key": "dj2.quest.db.1499.desc",
+      "en": "Craft some Monolith Stones! This material is used heavily in AbyssalCraft recipes, so you might want to craft multiple batches.%n%nNote: This is normally found in Shoggoth Lairs throughout the world, however they have been disabled in this pack due to Shoggoths being incredibly destructive."
+    },
+    {
+      "key": "dj2.quest.db.1500.title",
+      "en": "Necronomicon += 1"
+    },
+    {
+      "key": "dj2.quest.db.1500.desc",
+      "en": "Using the various materials you've gathered so far, upgrade your Necronomicon to its Dreadlands version. This will unlock new chapters and allow it to store more Potential Energy."
+    },
+    {
+      "key": "dj2.quest.db.1501.title",
+      "en": "EssENce oF madnESS"
+    },
+    {
+      "key": "dj2.quest.db.1501.desc",
+      "en": "Rend them down, get a Dreadlands Essence."
+    },
+    {
+      "key": "dj2.quest.db.1502.title",
+      "en": "And around, his guards"
+    },
+    {
+      "key": "dj2.quest.db.1502.desc",
+      "en": "Kill some Dreadguards and get their Dreaded Shards of Abyssalnite, then transmute them into Dreadium Ingots.%n%nYou'll want Fire Resistance."
+    },
+    {
+      "key": "dj2.quest.db.1503.title",
+      "en": "The Wild Side"
+    },
+    {
+      "key": "dj2.quest.db.1503.desc",
+      "en": "Craft up a Wildwood Chunk. When used on a Termasect Spawner, it will summon the Termasect, a 1050 health flying ranged boss. Note that this will not remove the spawner, so you can use the same location multiple times - just be sure not to break it!"
+    },
+    {
+      "key": "dj2.quest.db.1504.title",
+      "en": "And his name, Dread"
+    },
+    {
+      "key": "dj2.quest.db.1504.desc",
+      "en": "Asorah's Dreaded Gateway Key will give you access to the Dreadlands, but only if used in the Abyssal Wastelands."
+    },
+    {
+      "key": "dj2.quest.db.1505.title",
+      "en": "Heart of the Wilds"
+    },
+    {
+      "key": "dj2.quest.db.1505.desc",
+      "en": "I'm sure you've got the hang of it by now. Just get the heart."
+    },
+    {
+      "key": "dj2.quest.db.1506.title",
+      "en": "BHWOOOOOOOOOHNNNNNN"
+    },
+    {
+      "key": "dj2.quest.db.1506.desc",
+      "en": "The first multiboss of DivineRPG, The Ayeraco Horde is 5 boss-like creatures, all spawned in the End at the same time by the Horde Horn."
+    },
+    {
+      "key": "dj2.quest.db.1507.title",
+      "en": "Time of what now?"
+    },
+    {
+      "key": "dj2.quest.db.1507.desc",
+      "en": "The first Boss of DivineRPG, The Ancient Entity is a powerful melee boss. Spawned in the Overworld by Right Clicking with the Mysterious Clock."
+    },
+    {
+      "key": "dj2.quest.db.1508.title",
+      "en": "Tik Tok"
+    },
+    {
+      "key": "dj2.quest.db.1508.desc",
+      "en": "The Twilight Clock is used to light portals for the DivineRPG dimensions of: Eden, Wildwood, Apalachia, Skythern, and Mortum.%nUsed like Flint and Steel.%n%n%n%n%nDon't stop, make it pop,%nDJ2, I'll beat you now,%nTonight, I'mma fight,%n'Till we see the sunlight,%nTick tock!%nOn the clock,%nBut the modpack don't stop, no%n%nOuh, ouh-ouh, oh!%nOuh, ouh-ouh, oh!"
+    },
+    {
+      "key": "dj2.quest.db.1509.title",
+      "en": "Necronominominominomicon"
+    },
+    {
+      "key": "dj2.quest.db.1509.desc",
+      "en": "Using your Abyssal Statues, craft the Necronomicon, the guidebook to madness. This won't consume the input statues!%n%nYou definitely want to make more than one, as it can take quite a while to recharge Potential Energy after a ritual.%n%nWhen holding the Necronomicon near Abyssal Statues, potential energy will burst out of the statues and into the book.%nNOTE: The destructive effects have been removed, and it is now entirely safe.%n%nTo find Shadow Gems and Shadow Fragments, visit a Darklands Plains, Hills, or Forest biome at night. Capture a Shadow Beast or Shadow Creature and Powered Spawn them for more."
+    },
+    {
+      "key": "dj2.quest.db.1510.title",
+      "en": "Powerful Cans"
+    },
+    {
+      "key": "dj2.quest.db.1510.desc",
+      "en": "Empower Canola Seeds, and then toss them into Crystallized Oil in an In-World Fluid Crafting operation."
+    },
+    {
+      "key": "dj2.quest.db.1511.title",
+      "en": "Extendingot"
+    },
+    {
+      "key": "dj2.quest.db.1511.desc",
+      "en": "Black Iron Ingots are used for almost everything Extended Crafting. Craft 4 to get started!"
+    },
+    {
+      "key": "dj2.quest.db.1512.title",
+      "en": "Not your father's stone"
+    },
+    {
+      "key": "dj2.quest.db.1512.desc",
+      "en": "Coralium Cobblestone generates in giant chain links to the sky. Coralium Stone can also be generated by pouring Liquid Antimatter on top of Liquid Coralium.%n%nLiquid Antimatter is found underground in Coralium Infested Swamps, and gained from milking Anti-Cows, which can be summoned via the Roots \"Summon Creatures\" Ritual."
+    },
+    {
+      "key": "dj2.quest.db.1513.title",
+      "en": "Tear 'Em"
+    },
+    {
+      "key": "dj2.quest.db.1513.desc",
+      "en": "Now that you've beaten The Ayeraco Horde, tear off their wings."
+    },
+    {
+      "key": "dj2.quest.db.1514.title",
+      "en": "Welcome to paradise"
+    },
+    {
+      "key": "dj2.quest.db.1514.desc",
+      "en": "The world is a wonderful yellow shade. I wonder how much your eyes hurt?"
+    },
+    {
+      "key": "dj2.quest.db.1515.title",
+      "en": "Stick 'Em in a stone"
+    },
+    {
+      "key": "dj2.quest.db.1515.desc",
+      "en": "Build it like a nether portal and light it with The Twilight Clock."
+    },
+    {
+      "key": "dj2.quest.db.1516.title",
+      "en": "8R1CK5"
+    },
+    {
+      "key": "dj2.quest.db.1516.desc",
+      "en": "Carefully placing 4 Coralium Bricks around a Monolith Stone will give you Coralium Bricks. Make 10 of them."
+    },
+    {
+      "key": "dj2.quest.db.1517.title",
+      "en": "Pretty Powerful Pickaxe"
+    },
+    {
+      "key": "dj2.quest.db.1517.desc",
+      "en": "Many things in Abyssalcraft require a high mining level. The Refined Coralium Pickaxe provides a harvest level 5 pickaxe, which is required for the next quest, the Dreadlands Infused Powerstone."
+    },
+    {
+      "key": "dj2.quest.db.1518.title",
+      "en": "Wasteland Potential"
+    },
+    {
+      "key": "dj2.quest.db.1518.desc",
+      "en": "Even better than the overworld Potential Energy blocks."
+    },
+    {
+      "key": "dj2.quest.db.1519.title",
+      "en": "A little bite of paradise"
+    },
+    {
+      "key": "dj2.quest.db.1519.desc",
+      "en": "Craft up an Eden Chunk. When used on a Sunstorm Spawner, it will summon the Sunstorm, a 1000 health ranged boss. Note that this will not remove the spawner, so you can use the same location multiple times - just be sure not to break it!"
+    },
+    {
+      "key": "dj2.quest.db.1520.title",
+      "en": "Flay their bodies"
+    },
+    {
+      "key": "dj2.quest.db.1520.desc",
+      "en": "The Dreadlands Staff of Rending generates 3 Energy per rend.%n%nNote that neither your held Energy nor your enchantments will be lost when upgrading your Staff."
+    },
+    {
+      "key": "dj2.quest.db.1521.title",
+      "en": "All the crazy things I did in this Chapter..."
+    },
+    {
+      "key": "dj2.quest.db.1521.desc",
+      "en": "All the crazy things I did tonight...%nLead up to crafting a Dread Crystal.%nI just wanna let it go for the night...%nBefore it comes and my arm hairs bristle."
+    },
+    {
+      "key": "dj2.quest.db.1522.title",
+      "en": "To their bone"
+    },
+    {
+      "key": "dj2.quest.db.1522.desc",
+      "en": "The Abyssal Wastelands Staff of Rending generates 2 Energy per rend instead of just 1.%n%nNote that neither your held Energy nor your enchantments will be lost when upgrading your Staff."
+    },
+    {
+      "key": "dj2.quest.db.1523.title",
+      "en": "Break 'Em"
+    },
+    {
+      "key": "dj2.quest.db.1523.desc",
+      "en": "Now that you've killed The Ancient Entity, break off its legs."
+    },
+    {
+      "key": "dj2.quest.db.1524.title",
+      "en": "It's Dock O'Clock"
+    },
+    {
+      "key": "dj2.quest.db.1524.desc",
+      "en": "Craft a Docking Station! This machine lets you place your Dank Nulls on the ground, and lets you use them as a container. The Emerald (Mk. VI) Dank Null can be used as a 54-slot Black Hole Unit this way!"
+    },
+    {
+      "key": "dj2.quest.db.1708.title",
+      "en": "enableCommandBlocks=true"
+    },
+    {
+      "key": "dj2.quest.db.1708.desc",
+      "en": "If you're playing on a server, make sure that in the server.properties file, the line%n%n§lenableCommandBlocks=true§r%n%nappears (and not §l=false§r). If it is false, set it to true, save the file, and restart the server.%n%nAll upcoming custom dungeons use Command Blocks, and without enabling them, the pack isn't beatable."
+    }
+  ]
+}

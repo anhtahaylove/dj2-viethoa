@@ -1,0 +1,19 @@
+{
+  "name": "Cooked Beetroot",
+  "icon": "mysticalworld:cooked_beetroot",
+  "category": "cuisine",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:cooked_beetroot",
+      "text": "Beetroot rất ngon khi được nướng!"
+    },
+    {
+      "type": "smelting",
+      "recipe": "minecraft:beetroot",
+      "title": "Cooked Beetroot",
+      "text": "Beetroot có thể được nấu từ từ trong lò nung."
+    }
+  ]
+}

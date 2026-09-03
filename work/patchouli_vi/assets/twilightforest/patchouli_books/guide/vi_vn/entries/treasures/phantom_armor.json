@@ -1,0 +1,21 @@
+{
+  "name": "Phantom Armor",
+  "icon": "twilightforest:phantom_helmet",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/phantom_armor_set",
+  "sortnum": 6030,
+  "pages": [
+    {
+      "title": "Phantom Armor",
+      "type": "twilightforest:headed_spotlight2",
+      "item0": "twilightforest:phantom_helmet",
+      "item1": "twilightforest:phantom_chestplate",
+      "text": "Thật kỳ lạ, nhưng chỉ cần nhìn qua cũng thấy rõ như ánh chạng vạng rằng đây không phải chiếc mũ giáp bình thường. Chất liệu trông như kim loại, nhưng chỉ hơi ấm khi chạm vào và dường như còn cộng hưởng với môi trường xung quanh."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/phantom_armor_worn",
+      "text": "Dù mang vẻ ma quái, chiếc mũ giáp rõ ràng được chế tác cực kỳ tinh xảo và chắc chắn có thể bảo vệ rất tốt khỏi mọi tổn thương vật lý. Khi mặc trang bị này, ta cảm thấy một sự thân thuộc kỳ lạ, như thể có thứ gì đó thôi thúc và nhất quyết không chịu buông bỏ bằng bất cứ giá nào. Đôi khi, ngay ngoài tầm nghe, ta thề rằng mình nghe thấy những lời thì thầm hiểm độc từ một giọng nói gần như của chính mình."
+    }
+  ]
+}

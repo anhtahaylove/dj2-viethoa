@@ -1,0 +1,19 @@
+{
+  "name": "Carminite Reactor",
+  "icon": "twilightforest:tower_device:12",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6260,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Carminite Reactor",
+      "item": "twilightforest:tower_device:12",
+      "text": "Tôi không thể hiểu nổi thứ này dùng để làm gì. Nó có vẻ là một loại lò phản ứng nên tôi đoán nó sẽ phát năng lượng, nhưng nó chỉ nằm im. Hay chính nó mới là thứ cần được cấp năng lượng?"
+    },
+    {
+      "type": "text",
+      "text": "Tôi nên kinh ngạc hay sợ hãi đây? Nếu cấp đủ năng lượng Redstone cho thiết bị này, khu vực xung quanh sẽ biến thành Gold và Diamond. Thật khó diễn tả, nhưng những khối đó là giả, rồi lò phản ứng co sập ngay trước mặt tôi và giải phóng các Carminite Ghastlings. Tôi sẽ chẳng bao giờ biết đây có phải một thí nghiệm thất bại hay không."
+    }
+  ]
+}

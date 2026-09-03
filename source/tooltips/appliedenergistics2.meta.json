@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ae2-uel-v0.56.4.jar",
+      "path": "assets/appliedenergistics2/lang/en_us.lang"
+    }
+  ]
+}

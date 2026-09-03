@@ -1,0 +1,10 @@
+{
+  "namespace": "thaumicaugmentation",
+  "english_locale": "en_us",
+  "jar": "ThaumicAugmentation-1.12.2-2.1.14.jar",
+  "paths": [
+    "assets/thaumicaugmentation/lang/en_us.lang"
+  ],
+  "keys": 225,
+  "sha256": "fc4167e47e7706f03011c28ac5fc9ec70f51b4970534a4db82389ffbac214a88"
+}

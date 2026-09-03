@@ -1,0 +1,21 @@
+{
+  "modifier": "diamond",
+  "text": [
+    {
+      "text": "Gắn diamond vào lưỡi công cụ giúp nó bền hơn và tăng cấp khai thác. Trông cũng rất thời thượng."
+    }
+  ],
+  "effects": [
+    "Extra durability",
+    "Minor stat increase",
+    "Tăng mining level thêm một bậc, tối đa tới Obsidian",
+    "Single use",
+    "Fabulous!"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

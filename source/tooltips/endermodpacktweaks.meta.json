@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "endermodpacktweaks-0.5.11.jar",
+      "path": "assets/endermodpacktweaks/lang/en_us.lang"
+    }
+  ]
+}

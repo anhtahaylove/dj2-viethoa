@@ -1,0 +1,465 @@
+{
+  "chapter_index": 14,
+  "title_key": "dj2.quest.ql.14.title",
+  "chapter_title_en": "17. Life and Mana",
+  "desc_key": "dj2.quest.ql.14.desc",
+  "chapter_desc_en": "Let Botania grow on you, and progress further in Blood Magic and AbyssalCraft!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.14.title",
+      "en": "17. Life and Mana"
+    },
+    {
+      "key": "dj2.quest.ql.14.desc",
+      "en": "Let Botania grow on you, and progress further in Blood Magic and AbyssalCraft!"
+    },
+    {
+      "key": "dj2.quest.db.1645.title",
+      "en": "Manamana"
+    },
+    {
+      "key": "dj2.quest.db.1645.desc",
+      "en": "Craft a Mana Pool... or a couple! This is where you store all your Mana! (Not too surprising.)"
+    },
+    {
+      "key": "dj2.quest.db.1646.title",
+      "en": "Get Stone(d)!"
+    },
+    {
+      "key": "dj2.quest.db.1646.desc",
+      "en": "Place any 8 Dimensional Stone types near your Daisy and wait 30 seconds to obtain Livingrock!%n%nYou definitely want to automate this with something such as ME Annihilation and Formation Planes."
+    },
+    {
+      "key": "dj2.quest.db.1647.title",
+      "en": "Tier 4 Essences"
+    },
+    {
+      "key": "dj2.quest.db.1647.desc",
+      "en": "You know the drill at this point: Craft all four Tier 4 Essences.%n%nThen take your time to automate every single Blood Magic Essence as you'll be heavily using them from this point on.%n%nAs opposed to 1.7.10, you can simply use Item Conduits on your Alchemy Tables for inputs/outputs. To only push 1 set of items at a time, Impulse Hoppers are your best friend!"
+    },
+    {
+      "key": "dj2.quest.db.1648.title",
+      "en": "Bulky Blub Blub"
+    },
+    {
+      "key": "dj2.quest.db.1648.desc",
+      "en": "It's so bulky it might spill...! Watch out."
+    },
+    {
+      "key": "dj2.quest.db.1649.title",
+      "en": "Rune Saloon"
+    },
+    {
+      "key": "dj2.quest.db.1649.desc",
+      "en": "Craft one of each basic Rune!%n%nYou definitely want to automate these and the Runic Altar in general."
+    },
+    {
+      "key": "dj2.quest.db.1650.title",
+      "en": "If I had to Rune, it would be guess."
+    },
+    {
+      "key": "dj2.quest.db.1650.desc",
+      "en": "Craft a Runic Altar! Shoot it with some Mana 'cause it likes being shot by Mana (don't judge).%n%nTo craft with it, drop or Right Click the ingredients on the Altar, and once the progress bar fills up, throw a piece of Livingrock on it and hit it with your Wand.%n%nWARNING! WARNING! You want to automate this ASAP! Use an Item Dropper or Precision Dropper and an Auto Clicker with your Wand of the Forest. WARNING OVER. WARNING OVER."
+    },
+    {
+      "key": "dj2.quest.db.1651.title",
+      "en": "WRootnch"
+    },
+    {
+      "key": "dj2.quest.db.1651.desc",
+      "en": "Make a Wand of the Forest! This is your wrench for Botania. You can check the Mana contents of Mana Pools, link Mana Spreaders to Pools and Flowers to Mana Spreaders, and also use it as a toothpick...! Buuuut that last one might not be as important."
+    },
+    {
+      "key": "dj2.quest.db.1652.title",
+      "en": "Wood you make some of this?"
+    },
+    {
+      "key": "dj2.quest.db.1652.desc",
+      "en": "Place any 8 Dimensional Wood types upright near your Daisy and wait 30 seconds to obtain Livingwood! Warning: The logs can only be transformed in their original rotation.%n%nYou definitely want to automate this with something such as ME Annihilation and Formation Planes."
+    },
+    {
+      "key": "dj2.quest.db.1653.title",
+      "en": "Bluestone"
+    },
+    {
+      "key": "dj2.quest.db.1653.desc",
+      "en": "Use your Ritual Diviner [Dusk] to set up the Mark of the Falling Tower Ritual. It will take:%n%n- 1 Master Ritual Stone,%n- 100 additional Ritual Stones,%n- 1,000,000 LP in your Life Network,%n- an Awakened Activation Crystal, and%n- a Potency Core.%n%nOnce activated you also need to drop the Potency Core on top of the Master Ritual Stone to summon the Meteor.%n%nWARNING: The Meteor summoned can easily destroy your entire Ritual, but this can easily be stopped if you place a piece of Obsidian about 10-11 blocks above your Master Ritual Stone.%n%nOnce successfully done, you can mine up the resulting Electrotine. Pro tip: Fortune and Silk Touch totally work."
+    },
+    {
+      "key": "dj2.quest.db.1654.title",
+      "en": "The Rite way"
+    },
+    {
+      "key": "dj2.quest.db.1654.desc",
+      "en": "Craft some Ritual Stones! You'll definitely need more than the quest suggests, but this is just to guide you towards the right direction!%n%nTo set up a Blood Magic Ritual, place a Master Ritual Stone in the center, and use either a regular Ritual Diviner or a Ritual Diviner [Dusk] for more complex Rituals. Hold Right Click until you either run out of Ritual Stones or you've completed the Ritual. You can also color Ritual Stones yourself with Elemental Inscription Tools if you know the exact shape to set them up in.%n%nTo activate them, use either a Weak or (more likely) an Awakened Activation Crystal. This will cost some amount of LP from your Life Network."
+    },
+    {
+      "key": "dj2.quest.db.1655.title",
+      "en": "In the depths of the dungeon..."
+    },
+    {
+      "key": "dj2.quest.db.1655.desc",
+      "en": "While exploring the Dungeon of Cha'garoth, collect the Crystallizer found inside! You'll need to wait a little bit before you can craft the machine itself though..."
+    },
+    {
+      "key": "dj2.quest.db.1656.title",
+      "en": "It's not a cult. It's definitely not a cult."
+    },
+    {
+      "key": "dj2.quest.db.1656.desc",
+      "en": "Craft both the bottom and the top pieces of the Altar of Cha'garoth!%n%nTo use this, enter the Dreadlands and find a Dreadlands Mountains biome. Dig down to Y=40, make a small room for yourself and place down the bottom of the Altar, then the top. Then you simply need to Right Click the Altar to spawn the Dungeon of Cha'garoth."
+    },
+    {
+      "key": "dj2.quest.db.1657.title",
+      "en": "Baby you hot like a Thermalily"
+    },
+    {
+      "key": "dj2.quest.db.1657.desc",
+      "en": "Now that you have some Runes, why not use them? One of the better early game Mana Generating Flowers is the Thermalily. It sucks up nearby blocks of Lava to generate a large amount of Mana! Just pump some from the Nether or use a Lava Fabricator to get it going."
+    },
+    {
+      "key": "dj2.quest.db.1658.title",
+      "en": "Four Forcer"
+    },
+    {
+      "key": "dj2.quest.db.1658.desc",
+      "en": "Use your Tier 4 Blood Altar to obtain a Master Blood Orb!"
+    },
+    {
+      "key": "dj2.quest.db.1659.title",
+      "en": "The start of something... peaceful"
+    },
+    {
+      "key": "dj2.quest.db.1659.desc",
+      "en": "Use your Ender Crafter with some Ender Alternators to craft a Petal Apothecary! You might want to immediately automate this.%n%nThere are many ways to automate this, but a really nifty feature of the Roots Unending Bowl is that it fills up any adjacent Petal Apothecary with water! For the automating the petals and seeds, a Formation Plane with a small subnet could work quite well."
+    },
+    {
+      "key": "dj2.quest.db.1660.title",
+      "en": "Man...! A rune!"
+    },
+    {
+      "key": "dj2.quest.db.1660.desc",
+      "en": "Craft the last Tier 1 Rune: The Rune of Mana!%n%nYou also definitely want to automate this."
+    },
+    {
+      "key": "dj2.quest.db.1661.title",
+      "en": "Manathon"
+    },
+    {
+      "key": "dj2.quest.db.1661.desc",
+      "en": "Craft a couple of all the various Mana items!"
+    },
+    {
+      "key": "dj2.quest.db.1662.title",
+      "en": "Even Diviner than this modpack!"
+    },
+    {
+      "key": "dj2.quest.db.1662.desc",
+      "en": "Craft a Ritual Diviner! This handy tool lets you set up any low-tier Blood Magic Ritual by simply:%n%n- having enough Ritual Stones in your inventory,%n- and holding Right Click on the Master Ritual Stone.%n%nTo toggle between Rituals, simply Shift+Right Click or Shift+Left Click."
+    },
+    {
+      "key": "dj2.quest.db.1663.title",
+      "en": "From a Blood Mage to a Shaman..."
+    },
+    {
+      "key": "dj2.quest.db.1663.desc",
+      "en": "Your first step of becoming a Blood Shaman is to create Rituals that consume your Life Essence for a magical effect!%n%nFor this, you'll need all 4 of these Elemental Inscription Tools. Note that they cannot be use outside of the Ritual Diviner."
+    },
+    {
+      "key": "dj2.quest.db.1664.title",
+      "en": "Don't get lazy, make a daisy!"
+    },
+    {
+      "key": "dj2.quest.db.1664.desc",
+      "en": "If the daisy%nMakes you crazy,%nBe more hasty%nBiosafety!%n"
+    },
+    {
+      "key": "dj2.quest.db.1665.title",
+      "en": "Suffer Well"
+    },
+    {
+      "key": "dj2.quest.db.1665.desc",
+      "en": "In this quest, you are tasked to build the Well of Suffering Ritual directly above or below your Blood Altar.%n%nOnce activated this Ritual will constantly damage nearby mobs while filling up the Altar, giving you access to Blood and LP automation.%n%nThe best mob to use are Witches, because they naturally regenerate, but you can also try any of the following:%n   - Any mob + The Ritual of Regeneration,%n   - A Powered Spawner constantly spawning mobs,%n   - Cursed Earth constantly spawning mobs,%n   - Any Undead mob + Graveyard Soil.%nRemember that unnamed mobs despawn after some time, so name tag your mobs!%n%nTo automate LP gain, simply leave a bound Blood Orb in the Blood Altar you set this automation up at."
+    },
+    {
+      "key": "dj2.quest.db.1666.title",
+      "en": "Adding a little darkness never hurts!"
+    },
+    {
+      "key": "dj2.quest.db.1666.desc",
+      "en": "Craft a Ritual Diviner [Dusk]! This will let you set up higher-tier Rituals, which you'll need a lot of to progress."
+    },
+    {
+      "key": "dj2.quest.db.1667.title",
+      "en": "Optionally bind them too!"
+    },
+    {
+      "key": "dj2.quest.db.1667.desc",
+      "en": "Craft some Bound Tools! The only one you'll need for progression is the Bound Pickaxe which will let you break and collect Ethaxium in Omothol - right after finishing this Chapter... So no need to hurry with this one!%n%nTo activate one of these tools, simply press Shift+Right Click. Each tool drains LP from your Soul Network while it's active and consumes additional LP on use. Be careful!"
+    },
+    {
+      "key": "dj2.quest.db.1668.title",
+      "en": "Kling! Swoop! Chop!"
+    },
+    {
+      "key": "dj2.quest.db.1668.desc",
+      "en": "Craft some Manasteel Tools. These will later be upgraded into Bound Tools, which have a high Mining level and can break Ethaxium in Omothol. However, you won't necessarily need them before finishing this chapter."
+    },
+    {
+      "key": "dj2.quest.db.1669.title",
+      "en": "This is where being hemophobic truly sucks..."
+    },
+    {
+      "key": "dj2.quest.db.1669.desc",
+      "en": "Slay enough mobs and obtain enough Weak Blood Shards to be able to craft 5 Large Bloodstone Tiles! Use 4 of them to upgrade your Blood Altar to Tier 4 and the remaining one to obtain a Tier 4 Blood Orb!%n%nYou can also duplicate Weak Blood Shards with a Tier 4 Slate once you build up the Altar.%n%nIf you're unsure of the Altar's construction, check this site: https://ftb.fandom.com/wiki/Blood_Altar"
+    },
+    {
+      "key": "dj2.quest.db.1670.title",
+      "en": "The last piece"
+    },
+    {
+      "key": "dj2.quest.db.1670.desc",
+      "en": "Craft two Dusk Elemental Inscription Tools! This is the final piece to unlock higher tier Rituals (pretty much all of the useful ones)."
+    },
+    {
+      "key": "dj2.quest.db.1671.title",
+      "en": "Most important Crystals"
+    },
+    {
+      "key": "dj2.quest.db.1671.desc",
+      "en": "Craft the listed AbyssalCraft Clusters in your Crystallizer! These are the most important ones that you'll need for the upcoming quests, although you'll need more than just these in the long run."
+    },
+    {
+      "key": "dj2.quest.db.1672.title",
+      "en": "Even further beyond"
+    },
+    {
+      "key": "dj2.quest.db.1672.desc",
+      "en": "Defeat the Twilight Demon boss to obtain the second Key that lets you go even higher!"
+    },
+    {
+      "key": "dj2.quest.db.1673.title",
+      "en": "A \"Find the button\" map?!"
+    },
+    {
+      "key": "dj2.quest.db.1673.desc",
+      "en": "Locate the cube-like Apalachia Dungeon, go inside, and find 8 buttons scattered around 8 rooms that each give you an Apalachia Key Fragment.%n%nThen combine them into an Apalachia Key to get higher up into the boss room!"
+    },
+    {
+      "key": "dj2.quest.db.1674.title",
+      "en": "Ouchy! Don't put this on your head."
+    },
+    {
+      "key": "dj2.quest.db.1674.desc",
+      "en": "Loot four Effulgent Apalachian Spikes and combine them... Now what could this yield?"
+    },
+    {
+      "key": "dj2.quest.db.1675.title",
+      "en": "Tier 4 Reagents"
+    },
+    {
+      "key": "dj2.quest.db.1675.desc",
+      "en": "Craft all four Tier 4 Essences. Try to semi-automate them for now; very soon you'll have access to Will automation as well."
+    },
+    {
+      "key": "dj2.quest.db.1676.title",
+      "en": "Will-ing to pay a price"
+    },
+    {
+      "key": "dj2.quest.db.1676.desc",
+      "en": "Craft an Angelic Silicon/Crystal mixture.... This is very peculiar."
+    },
+    {
+      "key": "dj2.quest.db.1677.title",
+      "en": "Free Will"
+    },
+    {
+      "key": "dj2.quest.db.1677.desc",
+      "en": "Using the setup explained in the previous quest, acquire four of all types of Will Crystals!"
+    },
+    {
+      "key": "dj2.quest.db.1678.title",
+      "en": "Finally! Its light shines through!"
+    },
+    {
+      "key": "dj2.quest.db.1678.desc",
+      "en": "Craft a Beacon! You'll eventually need 4 of them to upgrade your Blood Magic Altar to Tier 5! No need to hurry though. Either explore more of Atum for its crafting ingredients or Apalachia dungeons for Radiant Beacons. Also remember to kill Withers for Nether Stars!"
+    },
+    {
+      "key": "dj2.quest.db.1679.title",
+      "en": "Swole Soul"
+    },
+    {
+      "key": "dj2.quest.db.1679.desc",
+      "en": "Now that you have access to Will Crystals, craft a Greater Tartaric Gem! Isn't it Great? (-er.)"
+    },
+    {
+      "key": "dj2.quest.db.1680.title",
+      "en": "One's June, the other's Rune!"
+    },
+    {
+      "key": "dj2.quest.db.1680.desc",
+      "en": "Create all 4 Tier 2 Runes!%n%nIt's getting complicated....%n%nGuess what I'm gonna recommend you...... Yes, automate these as well. All of their ingredients too. Now go!"
+    },
+    {
+      "key": "dj2.quest.db.1681.title",
+      "en": "Get Wild in Apalachia"
+    },
+    {
+      "key": "dj2.quest.db.1681.desc",
+      "en": "Craft a batch of Wildwood Blocks! You know the drill at this point: set them up in a Nether Portal shape, light it with a Twilight Clock and enter Apalachia!"
+    },
+    {
+      "key": "dj2.quest.db.1682.title",
+      "en": "What's the matter? (This.)"
+    },
+    {
+      "key": "dj2.quest.db.1682.desc",
+      "en": "Place any 8 Dimensional Dirt types near your Daisy and wait 30 seconds to obtain Livingmatter!%n%nYou definitely want to automate this with something such as ME Annihilation and Formation Planes."
+    },
+    {
+      "key": "dj2.quest.db.1683.title",
+      "en": "Call the Storm"
+    },
+    {
+      "key": "dj2.quest.db.1683.desc",
+      "en": "Summon the Thunder! Either craft a Spectre of Thunder, which is a single-use item that lets you create a Thunderstorm, or use EnderIO's Weather Obelisk with some Concentrated Cloud Seed. Once you've done that, capture the storm in an Environmental Accumulator (found all around the Overworld) for an ingredient in the Awakened Activation Crystal!%n%nIf you're having trouble finding an Environmental Accumulator, drop a Dark Stick on the ground and follow its lead!"
+    },
+    {
+      "key": "dj2.quest.db.1684.title",
+      "en": "Light your way!"
+    },
+    {
+      "key": "dj2.quest.db.1684.desc",
+      "en": "Craft a Sigil of the Blood Lamp! This is my personal favorite Sigil, letting you light up areas from a distance by shooting little invisible Blood Lamp thingamadoohickies. No more Torches!"
+    },
+    {
+      "key": "dj2.quest.db.1685.title",
+      "en": "Make the Slate and don't be Late"
+    },
+    {
+      "key": "dj2.quest.db.1685.desc",
+      "en": "Craft a couple Tier 4 (Demonic) Blood Magic Slates!%n%nThis is a good point to take your time and automate all available Slates up to this point. You can create an elaborate timing system for each one, or simply multiple Altars with specific filters on the outputs.%n%nThe easiest way is to create 2 Altars, with alternating Slate crafting: filter the outputs for Tier 1 and 3 Slates on one of them, and Tier 2 and 4 Slates on the other, and use ME Interfaces as inputs. This system will always reliably craft the wanted Slate, even if an insufficient amount of Blood is available. You can later expand it to Tier 5 and 6 Slates... and beyond!?"
+    },
+    {
+      "key": "dj2.quest.db.1686.title",
+      "en": "My blood for your blood!"
+    },
+    {
+      "key": "dj2.quest.db.1686.desc",
+      "en": "Bind a Blade to your Soul! (I'm suuuure your Soul will be fiiiine after so don't worry about it!)%n%nTo activate it, press Shift+Right Click. But be wary, while its active, it will drain LP from your Soul Network. Ouch!"
+    },
+    {
+      "key": "dj2.quest.db.1687.title",
+      "en": "It stays sharp forever!"
+    },
+    {
+      "key": "dj2.quest.db.1687.desc",
+      "en": "Craft a Manasteel Sword! It's the most important tool for progression at this point."
+    },
+    {
+      "key": "dj2.quest.db.1688.title",
+      "en": "With 20/20 vision"
+    },
+    {
+      "key": "dj2.quest.db.1688.desc",
+      "en": "Upgrade your Divination Sigil into a Seer's Sigil. This shows additional information when Right Clicked on a Blood Altar, namely the current progress and the LP consumption rate."
+    },
+    {
+      "key": "dj2.quest.db.1689.title",
+      "en": "ACTIVATION!!!"
+    },
+    {
+      "key": "dj2.quest.db.1689.desc",
+      "en": "Upgrade your Weak Activation Crystal into its Awakened variant and bind it to yourself. You now have the ability to activate ANY Blood Magic Ritual."
+    },
+    {
+      "key": "dj2.quest.db.1690.title",
+      "en": "Activation!"
+    },
+    {
+      "key": "dj2.quest.db.1690.desc",
+      "en": "Craft a Weak Activation Crystal! Bind it to yourself by Shift+Right Clicking in the air. By Right Clicking on a Master Ritual Stone, you can sacrifice some of the LP stored in your Life Network to activate the Ritual.%n%nIf it's not working, any of the following may be the culprit:%n- The Ritual isn't set up correctly. Maybe you need more Ritual Stones?%n- You need an Awakened Activation Crystal.%n- You don't have enough LP in your Life Network."
+    },
+    {
+      "key": "dj2.quest.db.1691.title",
+      "en": "Get in the Flow(er)!"
+    },
+    {
+      "key": "dj2.quest.db.1691.desc",
+      "en": "Make some Endoflames! Provide them with Coal for Mana Generation. Check if they're connected to a nearby Mana Spreader using your Wand of the Forest.%n%nYou definitely want to automate this with Droppers on a Timer dropping Coal Blocks."
+    },
+    {
+      "key": "dj2.quest.db.1692.title",
+      "en": "We're really going deep this time..."
+    },
+    {
+      "key": "dj2.quest.db.1692.desc",
+      "en": "Craft Cha'garoth's R'lyehian Gateway Key! This will let you create any AbyssalCraft portal by Right Clicking (for the next Portal) or Shift+Right Clicking (for the previous Portal). Use it in the Dreadlands to create a Portal to Omothol!"
+    },
+    {
+      "key": "dj2.quest.db.1693.title",
+      "en": "Cha'garoth's final words"
+    },
+    {
+      "key": "dj2.quest.db.1693.desc",
+      "en": "Defeat Cha'garoth to obtain his Dread-plagued Gateway Key! You can't directly use this to escape the Dreadlands, so hopefully you still know where your portal is...%n%nContinue with the quests to be able to upgrade it to an actual functional key!"
+    },
+    {
+      "key": "dj2.quest.db.1694.title",
+      "en": "Will you do this for me?"
+    },
+    {
+      "key": "dj2.quest.db.1694.desc",
+      "en": "=================================%n      AUTOMATING WILL GENERATION%n=================================%n%nIn this quest, I will provide you with information on how to setup automatic Will generation. You can choose to either read on, or watch this incredible tutorial video:%n%nhttps://youtu.be/K25QmSmfTRA%n%n(If §ryou can't copy the link, simply search for the title of the video: \"Blood Magic - Demon Will Automation Tutorial\" by Marzule Streams.) Another video for automating Will is https://youtu.be/bhiENn59JbM.%n%nIf you chose to read on, here is a step by step breakdown on how to create infinite Blood Magic Will and Will Crystals:%n%n§lSTEP 1.§r Obtain a couple Common Tartaric Gems with at least a couple thousand Will overall, and have at least 1,000,000 LP in your Life Network. Make sure to have every step of Ritual Stone crafting fully automated, except for automatic Will collection for Reagents. (This means you need to fully automate Tenebrae and Void Reagent creation. After this setup, you won't need to worry about your Tartaric Gems running out either.)%n%n§lSTEP 2.§r Press F9 to see the chunk borders. Make this build entirely in ONE chunk, because Will is stored in Minecraft's chunks separately.%n%n§lSTEP 3.§r You have 2 options here: Use a couple Powered Spawners to spawn passive animals in the chunk; or use Cursed Earth to spawn hostile mobs.%n%n§lSTEP 4.§r Go up about 4-5 blocks from your last setup or the floor of your Powered Spawner room and place another Master Ritual Stone. Setup the Gathering of Forsaken Souls Ritual with your Ritual Diviner [Dusk] here. Activate it with your Awakened Activation Crystal.%n%n§lSTEP 5.§r Place a solid block on top of your previous Master Ritual Stone, and place another Master Ritual Stone on top. Setup the Resonance of the Faceted Crystal Ritual with your Ritual Diviner [Dusk] on this one. Also activate it with your Awakened Activation Crystal. This will interlock wi§tth the Ritual below.%n%n§lSTEP 6.§r Place a Demon Crystallizer on top of the most recent Master Ritual Stone.%n%n§lSTEP 7.§r Build a platform out of solid blocks on the highest level of Ritual Stones, so that your Demon Crystallizer is the only thing poking out.%n%n§lSTEP 8.§r Place 5 Demon Crucibles somewhere on your platform. Place some Tartaric Gems that contain at least a couple hundred points of Will into some of the Demon Crucibles.%n%n§lSTEP 9.§r (Optional, but recommended.) Make a Demon Will Aura Gauge. It shows you the amount of Will stored in the Chunk (on the first bar, because we're creating regular Will for now). A Chunk can only hold up to 100 Will. The Demon Crucibles keep this filled up while the Resonance of the Faceted Crystal Ritual drains this and creates Will crystals.%n%n§lSTEP 10.§r It's a waiting game now! Wait until a regular Demon Crystal forms on top of your Demon Crystallizer, then splits, then creates 4 types of colored Demon Will Crystals nearby, then those split as well. If you see a total of 5 clusters of crystals with 6 spikes each, you're done. If you have to wait for a long time but still see no results, check your Demon Will Aura Gauge to see if you have run out of Will. If so, refill your Tartaric Gem(s) in the Demon Crucible(s).%n%n§lSTEP 11.§r Collect your crystal clusters and break your Demon Crystallizer. Use a Ritual Dismantler to also get rid of the topmost Ritual (Resonance of the Faceted Crystal). Simply Right Click twice, but don't accidentally hit the Rituals below. If parts of your platform are missing, replace those.%n%n§lSTEP 12.§r Place 5 Drawers or Barrels nearby. Place each type of Will Crystal you just collected in its own separate Drawer/Barrel, then lock them with a Drawer Key / Storage Key.%n%n§lSTEP 13.§r Now you can reclaim your Tartaric Gem(s) from the Demon Crucible(s). Then place a Hellfire Forge somewhere on your platform (in the same chunk). Place a Tartaric Gem inside (into the right slot) with a fair amount of Will. This can also suck up any excess Will you have in the chunk (up to 100). Then remove your Tartaric Gem from your Hellfire Forge, so it no longer sucks up the regular Demon Will from the chunk.%n%n§lSTEP 14.§r Take 4 pieces of each of the Will Crystals from your Drawers / Barrels and use your Hellfire Forge to create a placeable Crystal Cluster of each type.%n%n§lSTEP 15.§r Place down all 5 Crystal Clusters you just crafted somewhere on your platform (still in the same chunk).%n%n§lSTEP 16.§r Connect your Drawers / Barrels to your Demon Crucibles the following way: Each Drawer / Barrel should be connected to its own Crucible, and the Drawers / Barrels should be able to accept additional items. You can do this with a single line of EnderIO Item Conduits and 5 unique channel colors. Don't forget to set the Drawer / Barrel side to Extract (Always Active) on a specific channel and Insert on Green, and the Crucible side to Insert on the corresponding channel.%n%n§lSTEP 17.§r Hop down below your platform and place yet another Master Ritual Stone below the one that's doing the Gathering of Forsaken Souls Ritual (built in STEP 4 - right below your platform). Use a Ritual Diviner [Dusk] to build the Crack of the Fractured Crystal Ritual, which interlocks with the previous Rituals. Activate it with your Awakened Activation Crystal.%n%n§lSTEP 18.§r Place a Vacuum Chest with an Item Filter right above your Crystal Clusters somewhere. Set the Item Filter to collect the Demon Crystals that are popping off right now.%n%n§lSTEP 19.§r Extract your Vacuum Chest's inventory to your Drawers / Barrels.%n%n§lSTEP 20.§r Congratulations! Your setup is now self-sustaining. Each type of Will Crystal will slowly move to a Demon Crucible, which fills up the Chunk with a particular type of Will, which let your placed down Crystal Clusters grow. Of course this is a farm, so Crystal growth is faster than the Crystals being used up. However be careful not to use up ALL your Crystals of a certain type. If you do so, Crystal generation of that type will stop. If you also don't have a Tartaric Gem of the specific type of will, then you'll unfortunately have to start again from STEP 5, building the Resonance of the Faceted Crystal Ritual. Otherwise, simply stick your Tartaric Gem of the correct type in the Demon Crucible that's missing its Crystal and wait for the Will in the chunk to regenerate.%n%n§lSTEP 21.§r Once you have a fully self-sustaining setup (probably around 100 Crystals of each type), you can place your Tartaric Gem back into your Hellfire Forge to automatically keep it filled up with Will. You might want to automate Hellfire Forge recipes in this Chunk, so you'll never have to refill your Tartaric Gems again. The Hellfire Forge is kinda finicky with its inputs and outputs, it only lets you input in this order: The outer 4 items first, then the Tartaric Gem, then the central item (although you should never push items into there). Blocking mode won't work, because Tartaric Gem is seen as an item in the Hellfire Forge's inventory. To get around this you have 2 options: Periodically pull out the Tartaric Gem and immediately push it back. The period it stays in the Hellfire Forge should last slightly longer than 1 operation of it. Alternatively, use an Impulse Hopper with a Timer to push items into the Forge. Pull out items on a Filter, and don't forget to also pull out Empty Buckets.%n%n§lSTEP 22. (OPTIONAL)§r You can create the same exact setup in multiple chunks, or even the same chunk (and I recommend it). Just watch your Will levels with your Demon Will Aura Gauge. If they start decreasing, it's probably best to move to another chunk."
+    },
+    {
+      "key": "dj2.quest.db.1695.title",
+      "en": "Shoot!"
+    },
+    {
+      "key": "dj2.quest.db.1695.desc",
+      "en": "Craft a Mana Spreader! This is the block you use to transfer Mana from your generating Flowers to your Mana Pools. Use your Wand of the Forest to bind it to each.%n%nMana for you, and for you; mana for everybody!"
+    },
+    {
+      "key": "dj2.quest.db.1696.title",
+      "en": "More Crystals! MOOOOORE CRYSTALS!!!"
+    },
+    {
+      "key": "dj2.quest.db.1696.desc",
+      "en": "Now that you have access to Blood Magic Will Crystals, you can craft your own Crystallizers as well. Do so!"
+    },
+    {
+      "key": "dj2.quest.db.1697.title",
+      "en": "Blood contains Iron -> Iron is Magnetic!"
+    },
+    {
+      "key": "dj2.quest.db.1697.desc",
+      "en": "Craft a Sigil of Magnetism. This ISN'T a direct upgrade over your previous Magnet, however it IS used for even better (Botania) Magnets later on."
+    },
+    {
+      "key": "dj2.quest.db.1698.title",
+      "en": "Thicker veins"
+    },
+    {
+      "key": "dj2.quest.db.1698.desc",
+      "en": "Craft some Runes of Augmented Capacity. Each one increases the Blood Altar's capacity by 10%%, multiplicatively.%n%nThey aren't a straight upgrade over your previous Capacity Runes, however as they grant a multiplicative increase, they scale much better than their earlier counterparts.%n%nIt comes out to having 15 Augmented Capacity Runes is slightly better than 15 Runes of Capacity, and from that point, including 1 Augmented Capacity Rune is better (later much better) than 1 Rune of Capacity.%n%nMeaning that if you have at least 15 Augmented Capacity Runes, you should only use them from that point on.%n%nNot displayed here is the Efficiency Rune, which reduces the decay of progress of crafts if you run out of blood. Its not particularly useful."
+    },
+    {
+      "key": "dj2.quest.db.1699.title",
+      "en": "Tall Grass Demolisher"
+    },
+    {
+      "key": "dj2.quest.db.1699.desc",
+      "en": "Craft a Horn of the Wild! Simply holding Right Click with this tool will let you clear any tall-grassy area for you to more easily build upon."
+    },
+    {
+      "key": "dj2.quest.db.1729.title",
+      "en": "ManaVision 20!!"
+    },
+    {
+      "key": "dj2.quest.db.1729.desc",
+      "en": "Mana Spreaders shoot a burst of mana every time they contain mana and do not have a mana burst currently traveling. When placing a Lens on a Mana Spreader, traits such as the §cc§6o§el§ao§dr§r or size of the burst are modified. Stratigic use of Lenses can significantly improve mana transfer rates. Only a single Lens can be placed on a Mana Spreader, but two different Lenses can be combined with a Slimeball.%n%nThe four basic functional Lenses are:%n- The Lens of Velocity increases the speed the burst travels, but slightly reduces the maximum size of the burst and causes it to decay faster.%n- The Lens of Potency doubles the maximum size of the burst, but reduces the speed the burst travels and causes it to decay faster.%n- The Lens of Resistance increases the distance the burst travels before starting to decay, but causes it to decay faster.%n- The Lens of Efficiency decreases the rate of decay, but causes it to decay earlier."
+    }
+  ]
+}

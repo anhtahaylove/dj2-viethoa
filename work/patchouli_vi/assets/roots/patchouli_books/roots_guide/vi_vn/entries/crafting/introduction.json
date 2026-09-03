@@ -1,0 +1,53 @@
+{
+  "name": "Giới thiệu về chế tạo",
+  "icon": "minecraft:writable_book",
+  "category": "crafting",
+  "priority": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bạn sẽ gặp bốn kiểu chế tạo không thuộc Vanilla:$(br2)$(li)Chế tạo nghi lễ bằng $(l:crafting/pyres)Pyre$()$(li)Fey crafting$() bằng $(l:crafting/grove_stone)grove stone$() đã được kích hoạt.$(li)$(l:crafting/runic_crafter)Runic crafting$() dễ tự động hóa hơn nhưng cũng cần $(l:crafting/grove_stone)grove stone$().$(li)Chế tạo bằng $(l:crafting/mortar_and_pestle)Mortar & Pestle$().$(br2)Hầu hết công thức đều cần một dạng $(l:resources/introduction)tài nguyên đặc biệt$()."
+    },
+    {
+      "type": "text",
+      "title": "Danh mục",
+      "text": "Có nhiều loại vật phẩm chế tạo khác nhau trong phần $(bold)Danh mục con$() của danh mục Chế tạo chính.$(li)$(cat:crafting_armor_tools)Giáp và công cụ$()$(li)$(cat:crafting_devices)Thiết bị$()$(li)$(cat:crafting_decoration)Khối trang trí$()$(br2)Mỗi danh mục liệt kê các vật phẩm liên quan, công thức, công dụng và mọi danh mục con của chúng."
+    },
+    {
+      "type": "text",
+      "title": "Chế tạo bằng Pyre Ritual",
+      "text": "$(cat:herbs)Hầu hết thảo mộc$() cần một dạng $(l:crafting/pyres)nghi thức chế tạo bằng Pyre$() để tạo ra, ngoại trừ những loại dùng $(l:crafting/runic_shears)Runic Shears$() để tiếp cận thế giới Fey.$(br2)Ngoài thảo mộc, một số thực phẩm có thể được nấu \"hàng loạt\" trên Pyre.$(br2)$(info) Không giống một số $(cat:rituals)nghi thức$(), nghi thức chế tạo không cần thành phần bổ sung và đều được xem là $(l:rituals/tiers)'bậc 0'$()."
+    },
+    {
+      "type": "text",
+      "title": "Chế tạo Fey",
+      "anchor": "grove",
+      "text": "Một $(l:crafting/grove_stone)Grove Stone$() đang hoạt động trong phạm vi 10 khối sẽ cấp năng lượng cho $(l:crafting/fey_crafter)Fey Crafter$(). Kích hoạt nó bằng $(l:rituals/ritual_grove_supplication)Grove Supplication ritual$().$(br2)Mỗi công thức có năm nguyên liệu, nhưng có thể đặt cả chồng của từng loại vào máy chế tạo.$(br2)$(info) Nhấp chuột phải bằng $(l:crafting/knives)Knife$() hoặc dùng Dispenser chứa Knife để bắt đầu chế tạo. Tất cả nguyên liệu đã cung cấp sẽ được dùng để chế tạo nhiều lượt cùng lúc."
+    },
+    {
+      "type": "text",
+      "title": "Runic Crafter",
+      "text": "Được đặt tương tự Fey Crafter, $(l:crafting/runic_crafter)Runic Crafter$() có thể tự động lấy nguyên liệu từ kho đồ bên dưới dựa trên vật phẩm được đưa vào.$(br2)$(info) Vật phẩm được đưa vào Runic Crafter sẽ lơ lửng phía trên nó. Nhấp chuột phải bằng tay không để lấy vật phẩm ra.$(br2)$(info )Dispenser chứa Knife có thể kích hoạt Runic Crafter."
+    },
+    {
+      "type": "text",
+      "title": "Mortar & Pestle",
+      "text": "$(l:crafting/mortar_and_pestle)Mortar & Pestle$() có hai công dụng: $(l:spells/introduction)chế tạo phép thuật$() và chuyển đổi vật phẩm.$(br2)Theo mặc định, dù modpack có thể thay đổi công thức, lúa mì có thể được biến thành bột mì, xương thành bột xương, v.v.$(br2)$(info) Thay vì cần 5 đơn vị cho mỗi nguyên liệu, lúa mì và xương có thể được xử lý từng 1, 2 hoặc nhiều đơn vị mỗi lần."
+    },
+    {
+      "type": "text",
+      "title": "Công thức",
+      "text": "Nếu đã cài đặt JEI, bạn có thể tìm thấy hầu hết công thức trong đó. Các danh mục được liên kết bên dưới, nhưng bạn cần chuyển thẻ khi cần:$(br2)$(li)$(uses:roots:pyre)Nghi thức và công thức Pyre$() được liệt kê tại đây.$(li)$(uses:roots:fey_crafter)Công thức chế tạo Fey$() được liệt kê tại đây.$(li)$(uses:roots:mortar)Công thức phép thuật và Mortar & Pestle thông thường$() được liệt kê tại đây.$(li)Các công thức chế tạo Vanilla được liệt kê trong những mục liên quan."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/grove_stone",
+        "crafting/runic_crafter"
+      ]
+    }
+  ]
+}

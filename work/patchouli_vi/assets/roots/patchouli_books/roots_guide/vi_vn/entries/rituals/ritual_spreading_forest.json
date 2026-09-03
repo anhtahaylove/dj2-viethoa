@@ -1,0 +1,84 @@
+{
+  "name": "Spreading Forest",
+  "icon": "roots:ritual_spreading_forest",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_spreading_forest",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Việc thu thập nguyên liệu thô có thể tốn nhiều thời gian và thường dẫn đến nạn phá rừng trên diện rộng. Nghi lễ này giúp tái sinh rừng bằng cách phát tán và nuôi lớn cây non.$(br2)$(info) Cần có một cây non đã trồng hoặc cây trưởng thành để bắt đầu quá trình.$(br2)$(info) Một số cây, chẳng hạn như wildwood trees, không thể sinh trưởng bằng quá trình này."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_spreading_forest",
+      "text": "$(standing_stones) Là một nghi lễ $(l:rituals/tiers)$(bold)bậc III$(), cần các $(l:rituals/ritual_spreading_forest#multiblock)cột rune$() (acacia, jungle và spruce). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "minecraft:log[variant=jungle]",
+          "L": "minecraft:log[variant=spruce]",
+          "A": "minecraft:log[variant=acacia]",
+          "W": "roots:runed_spruce",
+          "U": "roots:runed_acacia",
+          "J": "roots:runed_jungle"
+        },
+        "pattern": [
+          [
+            "   W   ",
+            "       ",
+            "       ",
+            "      U",
+            "       ",
+            "       ",
+            "   J   "
+          ],
+          [
+            "   L   ",
+            "       ",
+            "       ",
+            "      A",
+            "       ",
+            "       ",
+            "   R   "
+          ],
+          [
+            "   L   ",
+            "       ",
+            "       ",
+            "      A",
+            "       ",
+            "       ",
+            "   R   "
+          ],
+          [
+            "   L   ",
+            "       ",
+            "       ",
+            "   0  A",
+            "       ",
+            "       ",
+            "   R   "
+          ]
+        ]
+      },
+      "text": "Cần ba $(l:rituals/standing_stones)cột rune$(): acacia, jungle và spruce."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:spreading_forest/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ tìm lá hoặc cây non trong khu vực rộng $(ritual:spreading_forest/radius_x) và $(ritual:spreading_forest/radius_z) khối theo chiều ngang, cùng $(ritual:spreading_forest/radius_y) khối theo chiều dọc.$(br2)$(bold)Trồng cây$(): Cây non được đặt mỗi $(ritual:spreading_forest/SECONDS/place_interval) giây.$(br2)$(bold)Sinh trưởng$(): Cây non lớn lên mỗi $(ritual:spreading_forest/SECONDS/growth_interval) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

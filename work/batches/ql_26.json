@@ -1,0 +1,689 @@
+{
+  "chapter_index": 26,
+  "title_key": "dj2.quest.ql.27.title",
+  "chapter_title_en": "29. Getting Creative!",
+  "desc_key": "dj2.quest.ql.27.desc",
+  "chapter_desc_en": "Get Creative! ... Literally.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.27.title",
+      "en": "29. Getting Creative!"
+    },
+    {
+      "key": "dj2.quest.ql.27.desc",
+      "en": "Get Creative! ... Literally."
+    },
+    {
+      "key": "dj2.quest.db.706.title",
+      "en": "Take my Breath Away"
+    },
+    {
+      "key": "dj2.quest.db.706.desc",
+      "en": "The Dark Realm is the perfect location to create Anti Air... That's right! Air, completely made out of antimatter particles like Anti Nitrogen, Anti Oxygen, Anti Carbon, and Anti Dioxide...! ...wait. That's how it works right?%n%n%nAnyways! Make some!"
+    },
+    {
+      "key": "dj2.quest.db.707.title",
+      "en": "Lobbying Hub"
+    },
+    {
+      "key": "dj2.quest.db.707.desc",
+      "en": "Welcome to the Creative stage! To begin, you should semi-automate or fully automate Death Protection Poppets, if you haven't done so yet. Then craft a couple Corruption Cores! Eventually you'll need more, but 2 will suffice for now."
+    },
+    {
+      "key": "dj2.quest.db.708.title",
+      "en": "Ruin Haunters"
+    },
+    {
+      "key": "dj2.quest.db.708.desc",
+      "en": "ᚥᚼᛊᚨᛗᛞᚠ! ᚠᚼᚼᚼᛊ, ᚢᛤᚢᛤᚢᛤᚢᛤ...!"
+    },
+    {
+      "key": "dj2.quest.db.709.title",
+      "en": "Bookworm's Paradise"
+    },
+    {
+      "key": "dj2.quest.db.709.desc",
+      "en": "Ever wondered what Rainbows taste like?%n%n%nVery sweet! It grants you ultimate creativity! You could write a couple of Books about it..."
+    },
+    {
+      "key": "dj2.quest.db.710.title",
+      "en": "Dankest of Nulls"
+    },
+    {
+      "key": "dj2.quest.db.710.desc",
+      "en": "Craft a /dank/null/Creative! It has infinite storage! Yay!%n%nEventually, you will need at least 2 of these."
+    },
+    {
+      "key": "dj2.quest.db.711.title",
+      "en": "Tinkering Extreme"
+    },
+    {
+      "key": "dj2.quest.db.711.desc",
+      "en": "Craft some Creative Modifiers! With these, you can add any number of additional modifiers to your Tinkers' Tools!%n%nThey're also used quite heavily in this Chapter. Make 4 for now, but you'll need to make more later.%n%nNote that you can make the main component of Golden Furies, Fury Fire, out of EMC."
+    },
+    {
+      "key": "dj2.quest.db.712.title",
+      "en": "Proactive"
+    },
+    {
+      "key": "dj2.quest.db.712.desc",
+      "en": "Dissolve some White Matter into Protactinium...%n%n%n%n%nI swear this is one of the last times you'll have to do this!"
+    },
+    {
+      "key": "dj2.quest.db.713.title",
+      "en": "Infinite Items*"
+    },
+    {
+      "key": "dj2.quest.db.713.desc",
+      "en": "*as long as you can fill your Drawer.%n%n%nThis upgrade creates a wormhole inside of your Drawer so you can fill it to the brim with any item you wish!"
+    },
+    {
+      "key": "dj2.quest.db.714.title",
+      "en": "We can go BIGGER!"
+    },
+    {
+      "key": "dj2.quest.db.714.desc",
+      "en": "The pure ESSENCE of Enlarging things... As you reach for it, and grab it, you feel its effect on your own hands... The atoms inside are getting farther and farther away from each other... Better not hold it for too long.%n%nEventually, you will need at least 4 of these."
+    },
+    {
+      "key": "dj2.quest.db.715.title",
+      "en": "Screen Scramble"
+    },
+    {
+      "key": "dj2.quest.db.715.desc",
+      "en": "Craft some Creative Screens! They don't need to be powered by Screen Controllers!"
+    },
+    {
+      "key": "dj2.quest.db.716.title",
+      "en": "Milling for Millions"
+    },
+    {
+      "key": "dj2.quest.db.716.desc",
+      "en": "GP? Huh, more like gee, I've got infinite, P!%n%n%n...%n%n%nWell, it's not truly infinite, but it's a lot. Have at it!"
+    },
+    {
+      "key": "dj2.quest.db.717.title",
+      "en": "Scarecrow's Dream"
+    },
+    {
+      "key": "dj2.quest.db.717.desc",
+      "en": "Question! What do you get if you compress some Condensed Victus Vis Crystals even further!%n%na) A black hole.%nb) New life!%nc) A big red heart.%n%nYeah, you know the answer, don'cha."
+    },
+    {
+      "key": "dj2.quest.db.718.title",
+      "en": "Gone Vegan"
+    },
+    {
+      "key": "dj2.quest.db.718.desc",
+      "en": "Do you wanna cast some spells? Well I know just the tool for you! The Creative Component Pouch contains infinite amounts of all Roots herbs! (Incredible!)"
+    },
+    {
+      "key": "dj2.quest.db.719.title",
+      "en": "Making a Murder"
+    },
+    {
+      "key": "dj2.quest.db.719.desc",
+      "en": "But I thought a cross was made out of wood, not Vis Crystals...!"
+    },
+    {
+      "key": "dj2.quest.db.720.title",
+      "en": "Inoculation"
+    },
+    {
+      "key": "dj2.quest.db.720.desc",
+      "en": "Craft a Creative Medicine Bag to set any Totem effect you wish! (Or, you know, just use an Environmental Controller and use this in the next creative item!)"
+    },
+    {
+      "key": "dj2.quest.db.721.title",
+      "en": "Insta-start"
+    },
+    {
+      "key": "dj2.quest.db.721.desc",
+      "en": "Do you wanna relive your dreams and perform more Totemic ceremonies? Do you wanna do it for free?!?%n%nNo?%n%nWeelllll, then just use this in the next creative item."
+    },
+    {
+      "key": "dj2.quest.db.722.title",
+      "en": "The Cycle"
+    },
+    {
+      "key": "dj2.quest.db.722.desc",
+      "en": "Truly terrifying to think about."
+    },
+    {
+      "key": "dj2.quest.db.723.title",
+      "en": "Moving Day"
+    },
+    {
+      "key": "dj2.quest.db.723.desc",
+      "en": "Stuff 100 Cardboard Boxes into each other! I'm sure they'll fit."
+    },
+    {
+      "key": "dj2.quest.db.724.title",
+      "en": "Absolute Zero"
+    },
+    {
+      "key": "dj2.quest.db.724.desc",
+      "en": "Combining some Air and Anti Air makes a Perfect Vacuum... you just need some additional catalysts...%n%nAccording to the Third Law of Thermodynamics, a Perfect Vacuum would also be Absolute Zero."
+    },
+    {
+      "key": "dj2.quest.db.725.title",
+      "en": "Catching the Hawking Radiation of Supramolecular Black Holes"
+    },
+    {
+      "key": "dj2.quest.db.725.desc",
+      "en": "Craft an Ultimate Singularity by combining all Singularities you could make so far! Break it down into Ultimate Ingots, and use them to craft your first Neutron Collector!%n%nWhen this machine is placed down, it will collect Piles of Neutrons at a rate of 7111 ticks per Pile (which is about 355 seconds, or almost 6 minutes).%n%nHowever it can be sped up by a lot. If you hold 9 Watches of Flowing time (all of them activated with Shift+V), stand next to the machine, it'll generate 1 Pile of Neutrons about every 6 seconds. You can also use Watches of Flowing Time on Dark Matter Pedestals near the collector. Don't forget to activate the Pedestals by Right Clicking on them! You'll hear a sound when they're activated."
+    },
+    {
+      "key": "dj2.quest.db.726.title",
+      "en": "Life's an Open Door"
+    },
+    {
+      "key": "dj2.quest.db.726.desc",
+      "en": "Build 1000 Oak Doors on top of each other!"
+    },
+    {
+      "key": "dj2.quest.db.727.title",
+      "en": "Space out"
+    },
+    {
+      "key": "dj2.quest.db.727.desc",
+      "en": "The Elfs like to trade spacious things for their own space. Makes sense? Makes sense!%n%n§cNote:§f You'll need to use this item to create Liquid Space. You are meant to turn it into an §cinfinite source§f with a Mekanism Creative Fluid Tank or a Creative Reservoir!"
+    },
+    {
+      "key": "dj2.quest.db.728.title",
+      "en": "The energy of a Neutron Star"
+    },
+    {
+      "key": "dj2.quest.db.728.desc",
+      "en": "Use Watches of Flowing Time (either in your hotbar, activated by Shift+V, or in Dark Matter Pedestals + Right Click to activate them) to speed up the creation of Neutronium. Craft Neutronium Ingots and use them to create more Neutron Collectors!"
+    },
+    {
+      "key": "dj2.quest.db.729.title",
+      "en": "Seedularity"
+    },
+    {
+      "key": "dj2.quest.db.729.desc",
+      "en": "Once you obtain at least 8 Neutronium Blocks, you can craft a Neutronium Seed and the Neutronium Crux! Now you can now get infinite amounts of Neutronium from Dirt! (Or from sunlight and water... you know what I mean!)"
+    },
+    {
+      "key": "dj2.quest.db.730.title",
+      "en": "Something Cheesy"
+    },
+    {
+      "key": "dj2.quest.db.730.desc",
+      "en": "Craft some yummy Cosmic Neutronium food!"
+    },
+    {
+      "key": "dj2.quest.db.731.title",
+      "en": "Imagine all the people"
+    },
+    {
+      "key": "dj2.quest.db.731.desc",
+      "en": "Peace, bro.%n%nLook at the Rainbows...%n%n%n%nDaaaamn!%nEventually you will need a total of 12 Peace Essences. Might want to use a spawner to help you collect syringe samples."
+    },
+    {
+      "key": "dj2.quest.db.732.title",
+      "en": "OCD"
+    },
+    {
+      "key": "dj2.quest.db.732.desc",
+      "en": "Put everything in order!"
+    },
+    {
+      "key": "dj2.quest.db.733.title",
+      "en": "Founded by DivineRPG"
+    },
+    {
+      "key": "dj2.quest.db.733.desc",
+      "en": "Craft 4 Essences of Foundation! You can use any DivineRPG Statues in the center row (you can even mix and match them)."
+    },
+    {
+      "key": "dj2.quest.db.734.title",
+      "en": "Forget it"
+    },
+    {
+      "key": "dj2.quest.db.734.desc",
+      "en": "Craft an Essence of Thought in the Liquicrafter! Remember that you can simply use EMC to get Knowledge of the Sky's!%n%nTo input 2,048,000 mB of Essence of Knowledge into the Liquicrafter, you'll need to upgrade both of the Fluid Input Hatches to the highest tier!"
+    },
+    {
+      "key": "dj2.quest.db.735.title",
+      "en": "Logical"
+    },
+    {
+      "key": "dj2.quest.db.735.desc",
+      "en": "Craft all the ingredients shown on the right and solve the logic puzzle described in the Book of Logic in order to craft the Essence of Logic!%n%nEach character shown (Steve, Alex & Herobrine) has 3 attributes: Age, Number of friends, Height (in cm). Your job is to find out all of these values! To do so, read all the statements in the Book of Logic. There are 9 statements and 9 attributes to figure out. They can be determined uniquely.%n%nOnce you're confident you know some or all the values, it's time to craft! Use a character (Steve, Alex, or Herobrine), a Modifier (Age, Friends, or Height), and an additional Modifier (+1, -1, +10, -10, +100, -100, +1000, or -1000). They can all be crafted, check them in JEI by searching for '@content modifier'.%n%nExample: Crafting Steve, a Height modifier, and +10 together increases Steve's Height by 10.%n%nAll the values you need to figure out are positive whole numbers. Good luck!"
+    },
+    {
+      "key": "dj2.quest.db.736.title",
+      "en": "Too Many Wrinkles"
+    },
+    {
+      "key": "dj2.quest.db.736.desc",
+      "en": "Once you think you have correctly figured out all the attributes of Steve, Alex & Herobine, craft them together (shapelessly) with an Essence of Thought to create the Essence of Logic!%n%nYou deserve it. Good job!"
+    },
+    {
+      "key": "dj2.quest.db.737.title",
+      "en": "Batteries"
+    },
+    {
+      "key": "dj2.quest.db.737.desc",
+      "en": "B4TT3R1.%n%nL1F3T1M3: 1NF1N1T3."
+    },
+    {
+      "key": "dj2.quest.db.738.title",
+      "en": "The end of a crafting chain"
+    },
+    {
+      "key": "dj2.quest.db.738.desc",
+      "en": "Craft the Ultimate Machine Frame!"
+    },
+    {
+      "key": "dj2.quest.db.739.title",
+      "en": "I'll cell-dom need power now!"
+    },
+    {
+      "key": "dj2.quest.db.739.desc",
+      "en": "Craft your first Creative Powercell! Now, it DOES say \"Creative\" on the tin, buuuuut it actually only generates 20,000 RF/tick. It's a bit of a ripoff if I do say so myself."
+    },
+    {
+      "key": "dj2.quest.db.740.title",
+      "en": "Integrating energy over time"
+    },
+    {
+      "key": "dj2.quest.db.740.desc",
+      "en": "Upgrading further, we get to the Integrated Dynamics Creative Energy Battery. While not very useful, it lets you get closer to the REAL good stuff.%n%n§6Note:§r Energy Batteries used in the recipe have to be EMPTY."
+    },
+    {
+      "key": "dj2.quest.db.741.title",
+      "en": "Extremely automatable"
+    },
+    {
+      "key": "dj2.quest.db.741.desc",
+      "en": "Craft an Auto Extreme Crafting Table! This lets you automate Extreme Crafting. You won't even need an Automation Interface! Simply set up the recipe and push all the items into the left inventory, and pull out the results!"
+    },
+    {
+      "key": "dj2.quest.db.742.title",
+      "en": "Breathe in. Hold. Breathe out."
+    },
+    {
+      "key": "dj2.quest.db.742.desc",
+      "en": "We don't know where the Oxygen's coming from. We believe it's a wormhole inside the tank. But we don't care. As long as it keeps us alive! ... Hopefully.%nYou need a total of 4 of these to progress."
+    },
+    {
+      "key": "dj2.quest.db.743.title",
+      "en": "Quasi Quantum Supercomputer Singularity"
+    },
+    {
+      "key": "dj2.quest.db.743.desc",
+      "en": "Upgrading your Creative Powercell with some microchips lets you generate 100,000 RF/tick. Better, but still not very \"Creative\"."
+    },
+    {
+      "key": "dj2.quest.db.744.title",
+      "en": "Incapacitate"
+    },
+    {
+      "key": "dj2.quest.db.744.desc",
+      "en": "Cluster your Capacitor, capacitate your Cluster, and have a Creative Cell that outputs 500,000 RF/tick!"
+    },
+    {
+      "key": "dj2.quest.db.746.title",
+      "en": "Feel the POWER"
+    },
+    {
+      "key": "dj2.quest.db.746.desc",
+      "en": "Craft a Draconic Evolution Creative Flux Capacitor!%n%nIt can charge the items in your inventory with a rate of 1,073,000 RF/tick!"
+    },
+    {
+      "key": "dj2.quest.db.747.title",
+      "en": "Electric Spine"
+    },
+    {
+      "key": "dj2.quest.db.747.desc",
+      "en": "Craft a Creative Fluxpack! It contains infinite power but has an output rate of only 50,000 RF/tick. Not too shabby either way."
+    },
+    {
+      "key": "dj2.quest.db.748.title",
+      "en": "Blastoff!"
+    },
+    {
+      "key": "dj2.quest.db.748.desc",
+      "en": "This is a Jetpack with infinite power storage. I know, what a wonderful addition to your arsenal after you already have an Angel Ring. But it seems it's required as an ingredient for something bigger..."
+    },
+    {
+      "key": "dj2.quest.db.749.title",
+      "en": "Flexing your Fluxing"
+    },
+    {
+      "key": "dj2.quest.db.749.desc",
+      "en": "The Creative Flux Capacitor lets you infinitely charge your items and has an output rate of 250,000 RF/tick! Now that's what I'm talking about!%n%n§6Note 1:§r Flux Capacitors used in the recipe have to be EMPTY.%n%n§6Note 2:§r Thermal Flux Capacitors act a bit strange, so this quest actually has 2 Tasks, with differing Capacitor NBT values, only one of which is needed for completion. (You'll have to deactivate your Capacitor though for it to work.) Even if you see the text on the right saying it's \"Incomplete\" but you can claim the rewards, then you have successfully completed the quest."
+    },
+    {
+      "key": "dj2.quest.db.750.title",
+      "en": "Digital Power"
+    },
+    {
+      "key": "dj2.quest.db.750.desc",
+      "en": "From this point on, all the Creative Energy Cells have \"infinite\" or \"near-infinite\" output rates. However the first few that are available can only be used to power specific things. This one for example can power your ME System, no matter how large it is!"
+    },
+    {
+      "key": "dj2.quest.db.751.title",
+      "en": "Zeus in a box"
+    },
+    {
+      "key": "dj2.quest.db.751.desc",
+      "en": "Power your LightningCraft machines creatively! Or, you know, craft it into the next thing which lets you power anything creatively...!"
+    },
+    {
+      "key": "dj2.quest.db.752.title",
+      "en": "{power §r=§r ∞}"
+    },
+    {
+      "key": "dj2.quest.db.752.desc",
+      "en": "Now we finally get to true infinite power!%n%n§cWARNING:§r Before you craft one of your infinite-output Energy Cells further, you'll need to use one for its infinite energy capabilities! Plug this or the following couple of machines into your Draconic Fusion Crafting setup, use Cryo-Stabilized Fluxducts to transfer energy limitlessly, and use this energy to craft the upcoming Essence of Inversion!"
+    },
+    {
+      "key": "dj2.quest.db.753.title",
+      "en": "Backwards"
+    },
+    {
+      "key": "dj2.quest.db.753.desc",
+      "en": "It takes a lot of power to be able to invert anything. But infinity is still larger than 24 trillion! Plug in one of your Creative Energy Cells (at least the Immersive tier one), and power the Infusion almost instantly!%n%nYou should only ever need one Essence of Inversion, so feel free to craft the Creative Energy Cells further!"
+    },
+    {
+      "key": "dj2.quest.db.754.title",
+      "en": "Devil's Advocate"
+    },
+    {
+      "key": "dj2.quest.db.754.desc",
+      "en": "Used to \"reshape reality\" by remaking the pillars of creation in our image."
+    },
+    {
+      "key": "dj2.quest.db.755.title",
+      "en": "Tear down the Pillars of Creation"
+    },
+    {
+      "key": "dj2.quest.db.755.desc",
+      "en": "Your quest is to destroy the pillars of creation with a Red Morningstar. This is what Greek Gods have built up over the millennia, and it really is the greatest goal of all. §4U§rp on the pantheon you can still see them stand. Its other ability and the way§r it's capable of such destruction is to stop the sun's rays during the day (called an \"enid\" in ancient Greece). You can have up to three of these at the same time (hence \"daylight\") or you can shoot an object and throw it towards the sun. The red sun rises from the earth when it comes across the Moon before it blows up into the stars (a sign of a great Sun), so to speak. If you're a scientist, it's probably a no-brainer to use a red moon to see its effect immediately. You can get some good information about this in a few different papers of mine. But what if all the red suns of creation are created from a yellow sky? That's what I will talk about next, so let's get started first: A red moon creates a lot of energy, but most of it is simply light energy. For example, you will see the sun rise from the earth before it breaks up into stars to get our attention here. It seems to me that if you are in the early evening sun, that is what you will see. However, when it was just the usual nighttime sunrise, it would appear with only the red or white moon shining on it. Now, all we have to do is to imagine everything is going to be bright no matter what we were doing. Let's see how simple it is. Let's create an object with 0 light-years and 0 red/white lights. Then, imagine we were doing something involving no material. At a certain point of time, that object will start spinning up and around. Since ever§4y§rthing is done in a specific time frame, where is the source of energy in the object? The answer here will certainly come from a certain type of physical description of physics, but a \"physical description\" will make it easy to see. In general, the red sun and the blue moon are more active than the white moon and are closer to the sun. Both seem to be more active. Let's assume an object where some hot air and a cold atmosphere are present. When you look for a planet in the region of Enceladus, you look for a body with a very small surface. If you find a small planet in orbit of the sun, this will cause your planet to orbit around the large surface so it will probably be a very big body with very hot, dense dust. However, if the planet lies in any lower mass than the surface, a faint reddish glow will appear. This reddish glow is a reflection of the planet and an echo of the red sun. Notice that if you look at the surface of a red sun, it is really an echo of the red sun. You can find in Enceladus a body with a very small surface, and this planet will be as big and bright in the bright sunlight as it is in the red sun. Assuming this p§4l§ranet can be interpreted as the \"red moon\", we already have a hint on what it means to \"call for the help of the red moon\" to cause ultimate destruction. Secondly, let's focus on the exact execution of the destruction of the pillars of creation. In his book, \"The Creation of Heaven\", Albert Einstein says that the entire earth appears to be a fire that burns slowly to death. However, his book explicitly shows that this fire is not, in fact, the \"burning of entire heavens\". Although the concept of fire has been proposed at least once before, the existence of the flame is the only explanation for the mysterious fire. §4A§rs Einstein says, the idea of having a flame burning on top of a pillar does not seem to apply to the entire world (just how close it should be to an actual burning pillar would be difficult to explain). After all, all the sun, moon, planets, and even sunspots in the solar system have their \"burning cores\" on either side of the pillars or the pillars are the only visible forms of the burning flame as they are just visible. While Einstein clearly acknowledges this, the explanation he gives is a complete lie. In fact, he says that light shines at an angle of one-half of a degree to one-to-two thirds of a degree, and that such light is simply an idea invented to justify the existence of the golden flames at the very top of the pillars. The light of a single-colored flame could not have created the idea. And then Einstein began to say that the whole idea of the Great Fire Theory and the golden flame at the level of the pillars as an idea, no matter his technical difficulty, may well be an idea invented by two different philosophers, namely the German §4S§rchiller and von Humboldt. While all these ideas are merely speculation and conjecture, each of them is true in its own way. And what has come into those two ideas is simply their own reflections on one another. What these two ideas say about the structure of the universe gives more significance than any other possibility that may be explained in the next section. But what if there is more to be said? There is. For, the very first impression that you give to your child as an object of interest is that it is a \"great fire fire\", a great flame that has a very bright and strong flame, and \"not in a good way\". The Essence of Breaking. We could have all discovered by accident, even as a little child, and that's exactly what Einstein did. Through sheer luck or knowledge, we may never know, but this is the way he managed to gather the energy required to destroy reality itself and break the pillars of creation. \"But we still live in this reality, right?\", you may ask. Wrong! Einstein recreated this dimension by splitting and copying one that's only about 4-5 quadrillion strings, or approximately 10^-18 cm away in one of the unreachable directions of the four-spatial dimensional scope we're living in. Turns out the pillars contained enough energy to create infinitely many realities, only one of which was necessary to hold up. This whole occurrence is described fully in the Book of Chaos, a not-so-well-received scientific paper about the truth of this world. Unfortunately scientists in our age are too preoccupied to see the real truth. But now you know too."
+    },
+    {
+      "key": "dj2.quest.db.756.title",
+      "en": "Remade in our Image"
+    },
+    {
+      "key": "dj2.quest.db.756.desc",
+      "en": "The Book of Chaos is correct, but doesn't explain what happened in its entirety. The truth is, one book was lost during the transfer of realities. It is now dubbed 'The Ancient Book of Chaos', and it only lives in our memories. It contained information on how to rebuild our reality, or even... shape it in a way that's... advantageous for some. It is interesting to observe the ways that the apparent 'real world', as it has been called over the §4z§rillenias gets in the way of what could be called a 'real world'. The concept could be very simple. It's what happened in the past and what happened in the future: all that is left is a constant pressure and need for change. I believe these are now well known principles of reality to some extent. Now I may have missed some of the interesting details that you may have missed. For instance, while I believe that The Ancient Book of Chaos wasn't lost, and that it remains buried somewhere in Germany... Einstein wouldn't be called Einstein if he didn't think about the consequences of messing with the fabric of reality itself. He must have saved the real truth somewhere! I believe the reason the world has changed so drastically during and after Einstein's death is because of this reality reshaping. Einstein boosted the capabilities of our reality by at least §42§r00%%, and made scientific and technological progress multiple factors faster. Just look around! Don't you see how much the world has accelerated since? It's not hard to see. Though it could be explained by considering other factors, some truths and some assumptions of our reality. But the whole picture is much larger! What if these factors are the same? What if it is the same for all dimensions and time, and that dimension is Earth? It is very possible, and possible, that the physical dimension of our reality is different from that of Earth, and that Earth does not change to a greater or lesser degree. That's a point that every person agrees with. Earth does not change to an extent to a greater or lesser degree because it is an extremely small world! Just look how much space there is with Earth. We are so small we make other things tiny! Why, what happens if they are just smaller §4c§rompared to Earth? Earth and Earth change simultaneously, and as their size increases, so does their size and its strength. That is, Earth is denser, thinner, and stronger with every passing day. Imagine a more stable Earth, and we could live very long, simply because the Earth has never changed in its size. But a less stable Earth, which is a smaller, weaker, and more brittle planet, would experience a smaller amount of change from its bigger size. As a result, we would become less stable, more dense, less strong, and with each passing day more unstable. A more stable Earth would therefore have a greater chance of changing because of more changes in density and strength, and less chance to be stable if we moved one inch or less from its smaller size. In other words, a more stable Earth would have a much bigger edge on its larger world than it's larger as a whole, thus giving it an edge it's very, very hard to break. To this end, a more stable Earth would also have greater latitude, more space, more energy, and much more surface area. A more stable (but smaller, more temperate) Earth, in which there could be a greater chance of life outside the Solar System than there is on Earth, would create more problems than its more stable Earth. If we think about the effects of changing temperatures for the last 300 million years, how many of those that have existed on, say, Earth during that time were large landforms, what's the difference between 1.3 times the landmass that we have today instead of a few years later and 50 times the amount? §4I§rt depends upon whether they're all large, even if you assume the rate is very similar.\" The scientists, with the support of the U.S. Geological Survey, also found that global temperatures during that time were \"significantly warmer\" than at any other time during the past 100 million years, including the past 60 years. \"The changes we saw in the past few thousand years are consistent with climate variability, if something comes up, a global warming of 100 degrees C or more is occurring,\" said study coauthor Stephen Knapton. \"It's not a coincidence, this is consistent with a number of other studies in other parts of the world that have found that climate change impacts are happening almost everywhere in North America.\" This is just an example of not looking at the whole picture. If all scientists worked together, maybe they'd be able to figure it all out! But humanity still has a language barrier, a quarter of us still don't have sufficient food or drinking water, racial issues still stand, so we can't easily move forward. I'm afraid I won't get to see the light of day before the true truth gets discovered... I'm leaving this message here so you §4c§ran share it with others. That is, if you trust me. I have provided a lot of evidence, and you can go out to Germany and hunt for 'The Ancient Book of Chaos' yourself. I believe it should be hidden in north-western Ulm, but that's just a hunch, I have no evidence of that. Anyway, this metaphoxyl is making me dizzy, I think I need some sleep... I hope I have convinced you though. When has old Blitterscrow ever lied to you?! There is no way I could be wrong. There is no way. I'm not wrong. I couldn't be wrong. I- I- ..."
+    },
+    {
+      "key": "dj2.quest.db.757.title",
+      "en": "Hope there is no traffic jam"
+    },
+    {
+      "key": "dj2.quest.db.757.desc",
+      "en": "Make some Colored Light Adhesive Yieldings (C.L.A.Y's), and use them to find a way! (Or uh, make a way.)"
+    },
+    {
+      "key": "dj2.quest.db.758.title",
+      "en": "As After, So Before"
+    },
+    {
+      "key": "dj2.quest.db.758.desc",
+      "en": "Continue the Essence crafting chain..."
+    },
+    {
+      "key": "dj2.quest.db.759.title",
+      "en": "GO GO POWER RANGERS"
+    },
+    {
+      "key": "dj2.quest.db.759.desc",
+      "en": "Make the Essence of Motion! Move it!"
+    },
+    {
+      "key": "dj2.quest.db.760.title",
+      "en": "Shuffling Along"
+    },
+    {
+      "key": "dj2.quest.db.760.desc",
+      "en": "Move towards making the Essence of Movement! You'll need 1500 Vis and a stack of each Crystal!"
+    },
+    {
+      "key": "dj2.quest.db.761.title",
+      "en": "Plasma"
+    },
+    {
+      "key": "dj2.quest.db.761.desc",
+      "en": "Craft all the items listed on the right and build a High Voltage Plasmafier multiblock! You'll need to supply it with a lot of power for it to function."
+    },
+    {
+      "key": "dj2.quest.db.762.title",
+      "en": "Reduce, Reuse, Recycle"
+    },
+    {
+      "key": "dj2.quest.db.762.desc",
+      "en": "If we keep moving forward logically, if we keep moving forward logically, if we keep moving forward logically, if we keep moving forward logically, if we keep moving forward logically, if we keep moving forward logically, if we keep moving forward logically, if we keep moving forward logically..."
+    },
+    {
+      "key": "dj2.quest.db.763.title",
+      "en": "Solid, Liquid, Gas, and Plasma"
+    },
+    {
+      "key": "dj2.quest.db.763.desc",
+      "en": "Order, Destruction, and the various materials of the Ultimate Singularity can be made into the Essence of Matter...!"
+    },
+    {
+      "key": "dj2.quest.db.764.title",
+      "en": "Cube"
+    },
+    {
+      "key": "dj2.quest.db.764.desc",
+      "en": "Craft the Mekanism Creative Energy Cube! This is also an infinite power generation block!"
+    },
+    {
+      "key": "dj2.quest.db.765.title",
+      "en": "Power Power Power all you ever talk about is Power"
+    },
+    {
+      "key": "dj2.quest.db.765.desc",
+      "en": "Craft the Extra Utilities Creative Energy Source! Guess what, this one also produces infinite power!"
+    },
+    {
+      "key": "dj2.quest.db.766.title",
+      "en": "All Power"
+    },
+    {
+      "key": "dj2.quest.db.766.desc",
+      "en": "The last tier of infinite RF generating machines is the Creative RF Source from Draconic Evolution. Craft it!"
+    },
+    {
+      "key": "dj2.quest.db.767.title",
+      "en": "Reacting"
+    },
+    {
+      "key": "dj2.quest.db.767.desc",
+      "en": "Wanna generate power? Out of nothing? Well, you gotta work for that... Come back after you've made the (strong) Fusion Plant!"
+    },
+    {
+      "key": "dj2.quest.db.768.title",
+      "en": "A million millibuckets"
+    },
+    {
+      "key": "dj2.quest.db.768.desc",
+      "en": "Craft an Extra Utilities Creative Drum! §6Note: Not actually usable in survival."
+    },
+    {
+      "key": "dj2.quest.db.769.title",
+      "en": "1 millibuckets, 2 millibuckets, 3 millibuckets..."
+    },
+    {
+      "key": "dj2.quest.db.769.desc",
+      "en": "Craft a Mekanism Creative Fluid Tank! When a Bucket or Tank of any fluid is placed inside, it immediately becomes an infinite source! To remove the fluid inside, Shift+Left Click in the GUI of the Creative Fluid Tank with a Gauge Dropper.%n%n§cBEFORE YOU MOVE FURTHER:§f USE THIS IN A FLUID TRANSPOSER, OR USE THE FOLLOWING CREATIVE RESERVOIR §oON§r A FLUID TRANSPOSER TO TURN LIQUID SPACE INTO AN INFINITE SOURCE."
+    },
+    {
+      "key": "dj2.quest.db.770.title",
+      "en": "Drink up!"
+    },
+    {
+      "key": "dj2.quest.db.770.desc",
+      "en": "Craft a Creative Reservoir!%n%nThis tool can pick up any fluid (even ones that are below 1 Bucket), and turn them into an infinite source!%n%n§cWARNING:§r IF YOU HAVEN'T YET MADE AN INFINITE SOURCE OF LIQUID SPACE, DO NOT CRAFT THIS ITEM IMMEDIATELY INTO THE CREATIVE BLOOD DROPLET! YOU'LL NEED IT TO TURN LIQUID SPACE INTO AN INFINITE SOURCE!%n%n§6Note:§r Crafting this requires a CREATIVE Mekanism Fluid Tank.%n%n(§6Note§r: This quest actually has 2 Tasks, one with an empty Creative Reservoir, and one that's full Liquid Space. Only one of them need to be completed though.)"
+    },
+    {
+      "key": "dj2.quest.db.771.title",
+      "en": "Strong Fusion"
+    },
+    {
+      "key": "dj2.quest.db.771.desc",
+      "en": "Craft the Strong Fusion multiblock! It can be set up the same way as the Fission multiblock. With a hollow 5x5x5 cube made of Casings, and pillar of Fusion Cores in the middle, and a Fusion Controller whose back is facing the 5x5x5 cube.%n%nThis machine is pretty OP. It lets you create any Alchemistry element out of other elements by adding up their atomic numbers. You can basically create anything out of Hydrogen! Aaaand most things out of Coal, Iron, Copper, etc."
+    },
+    {
+      "key": "dj2.quest.db.772.title",
+      "en": "Count von Count"
+    },
+    {
+      "key": "dj2.quest.db.772.desc",
+      "en": "Rulers are our best way to precisely measure length. They form the Essence of Length."
+    },
+    {
+      "key": "dj2.quest.db.773.title",
+      "en": "Extending the push limit"
+    },
+    {
+      "key": "dj2.quest.db.773.desc",
+      "en": "Grow and enlarge the Essence of Length into something... Extensive."
+    },
+    {
+      "key": "dj2.quest.db.774.title",
+      "en": "§4Error: Text Out of Bounds"
+    },
+    {
+      "key": "dj2.quest.db.774.desc",
+      "en": "Use a Creative Reservoir to turn Liquid Space into an infinite source! (You aren't supposed to craft 204800 Essences of Space!) Then extend the Dimensions into an Essence of Dimensionality!"
+    },
+    {
+      "key": "dj2.quest.db.775.title",
+      "en": "Essence++;"
+    },
+    {
+      "key": "dj2.quest.db.775.desc",
+      "en": "Add up all your resources into an Essence of Additivity!"
+    },
+    {
+      "key": "dj2.quest.db.776.title",
+      "en": "Time and time again, you gotta craft something"
+    },
+    {
+      "key": "dj2.quest.db.776.desc",
+      "en": "This time, the Essence of Time!"
+    },
+    {
+      "key": "dj2.quest.db.777.title",
+      "en": "INFINITY"
+    },
+    {
+      "key": "dj2.quest.db.777.desc",
+      "en": "INFINITY.%n%nTIME AND MATTER.%n%nREPEAT IT.%n%nFOREVER."
+    },
+    {
+      "key": "dj2.quest.db.778.title",
+      "en": "Blood and Bloody Ashes"
+    },
+    {
+      "key": "dj2.quest.db.778.desc",
+      "en": "§cWARNING:§r DO NOT CRAFT THE CREATIVE RESERVOIR IMMEDIATELY INTO THE CREATIVE BLOOD DROPLET! YOU'LL NEED IT TO TURN LIQUID SPACE INTO AN INFINITE SOURCE!%n%nOh, did you do that already? Well then, continue the crafting chain! You can use the Creative Blood Droplet to create infinite EvilCraft Blood."
+    },
+    {
+      "key": "dj2.quest.db.779.title",
+      "en": "Let's do some Activities!"
+    },
+    {
+      "key": "dj2.quest.db.779.desc",
+      "en": "Craft the Creative Activation Crystal! This lets you activate all Blood Magic Rituals without any cost."
+    },
+    {
+      "key": "dj2.quest.db.780.title",
+      "en": "Cutting Deep"
+    },
+    {
+      "key": "dj2.quest.db.780.desc",
+      "en": "Craft a Creative Sacrificial Dagger! This lets you gain infinite Life Essence with a single Right Click!"
+    },
+    {
+      "key": "dj2.quest.db.781.title",
+      "en": "Behold: my Magic Power!"
+    },
+    {
+      "key": "dj2.quest.db.781.desc",
+      "en": "Craft a Blessed Stone! When placed on top of a Bewitchment Altar, it provides (practically) infinite Magic Power!"
+    },
+    {
+      "key": "dj2.quest.db.782.title",
+      "en": "This is the most Essential item"
+    },
+    {
+      "key": "dj2.quest.db.782.desc",
+      "en": "It contains infinite Essentia! Craft it!"
+    },
+    {
+      "key": "dj2.quest.db.783.title",
+      "en": "Pocket Pool"
+    },
+    {
+      "key": "dj2.quest.db.783.desc",
+      "en": "Craft a Creative Mana Tablet! It lets you fill a Mana Pool endlessly."
+    },
+    {
+      "key": "dj2.quest.db.784.title",
+      "en": "Mananananana"
+    },
+    {
+      "key": "dj2.quest.db.784.desc",
+      "en": "Craft 4 Nature's Blessings and an Everlasting Guilty Mana Pool. It never runs out of Mana."
+    },
+    {
+      "key": "dj2.quest.db.785.title",
+      "en": "THIS IS WHAT IT TOOK"
+    },
+    {
+      "key": "dj2.quest.db.785.desc",
+      "en": "Craft a Creative Chest.%n%n%nIt creates infinite items.%n%n%nGG!"
+    },
+    {
+      "key": "dj2.quest.db.786.title",
+      "en": "ONE MORE STEP"
+    },
+    {
+      "key": "dj2.quest.db.786.desc",
+      "en": "YOU CAN ALMOST FEEL THE POWER OF INFINITY."
+    },
+    {
+      "key": "dj2.quest.db.787.title",
+      "en": "ALL THE COSMIC WONDERS"
+    },
+    {
+      "key": "dj2.quest.db.787.desc",
+      "en": "TO <this item> AND BEYOND!"
+    },
+    {
+      "key": "dj2.quest.db.788.title",
+      "en": "Food for Thought"
+    },
+    {
+      "key": "dj2.quest.db.788.desc",
+      "en": "Cosmic Meatballs are made of a bunch of Cosmic Neutronium items! Once you got some Meatballs, use them in the Ultimate Stew...!"
+    },
+    {
+      "key": "dj2.quest.db.789.title",
+      "en": "Black Hole In a Pocket"
+    },
+    {
+      "key": "dj2.quest.db.789.desc",
+      "en": "Craft some Ender Stars and upgrade them into Endest Pearls!"
+    },
+    {
+      "key": "dj2.quest.db.790.title",
+      "en": "§lThe Truth"
+    },
+    {
+      "key": "dj2.quest.db.790.desc",
+      "en": "§lCRAFT AS MANY INFINITY BLOCKS AS YOU NEED, AND OPEN THE BAG OF TRUTH WITH THE KEY TO INFINITY."
+    }
+  ]
+}

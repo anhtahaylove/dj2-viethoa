@@ -1,0 +1,23 @@
+{
+ "totemic.page.baykokSummon2": "§oKhi Thần Chết đến gần bạn...§r",
+ "totemic.entry.sunDance": "Sun Dance",
+ "totemic.page.sunDance0": "§4Sun Dance§0 là một trong những Nghi lễ thiêng liêng nhất, và cũng đau đớn nhất khi tiến hành: bạn sẽ phải đối mặt với §1trải nghiệm cận tử§0. Nếu vượt qua được, bạn và mọi người ở gần sẽ được chữa lành và che chở khỏi sát thương trong một lúc.<br>Sun Dance sẽ không rút máu bạn xuống dưới nửa trái tim.",
+ "totemic.page.sunDance1": "§oQuỳ xuống, thần của tôi là mặt trời§r",
+ "totemic.entry.danseMacabre": "Danse Macabre",
+ "totemic.page.danseMacabre0": "§4Danse Macabre§0 có lẽ là §4Ceremony§0 lừa lọc nhất trong tất cả. Mọi §1Rotten Flesh§0 nằm dưới đất ở gần sẽ biến thành những con §4Zombie§0 rất, rất nguy hiểm. Tuy nghe như điều bất lợi, vẫn có khả năng khá cao là thứ được tạo ra lại là §4Zombie Villager§0. Thú vị thay, nếu tiến hành trong §1Nether§0, có vẻ một loại quái vật khác sẽ xuất hiện thay thế.",
+ "totemic.page.danseMacabre1": "Những hiệu ứng này thực chất có nghĩa là §1Rotten Flesh§0 có thể chuyển hóa thành §4Experience Point§0, hoặc nếu kết hợp với §4Steve's Lullaby§0, nó sẽ tạo ra được §4Villager§0.",
+ "totemic.page.danseMacabre2": "§oNovember Spawned a Monster§r",
+ "totemic.entry.totemicStaff": "Totemic Staff",
+ "totemic.page.totemicStaff0": "§1Totemic Staff§0 dùng để thu thập thông tin về một số khối bằng cách nhấn chuột phải lên chúng.<br>Ngoài ra, cầm nó và nhấn chuột trái lên Totem Base sẽ hủy nghi lễ, cùng mọi lựa chọn nhạc trên đó.",
+ "totemic.page.totemicStaff1": "§oKhông hề giống cờ lê§r",
+ "totemic.entry.barkStripper": "Bark Stripper",
+ "totemic.page.barkStripper1": "§1Red Cedar Stripped Log§0 có thể chế thành plank với hiệu suất cao hơn, và cho vào lò để tạo charcoal.<br>Red Cedar Stripped Log để trên cỏ sẽ từ từ mọc lại vỏ sau một thời gian.",
+ "totemic.entry.baykokBow": "Baykok's Bow",
+ "totemic.page.baykokBow0": "§1Baykok's Bow§0 là cây cung mạnh mẽ chỉ thu được bằng cách hạ linh hồn §1Baykok§0. §1Baykok§0 được triệu hồi bằng Nghi lễ §4Totentanz§0.<br>Mũi tên bắn từ cây cung này gây nhiều sát thương hơn, và tên không tẩm thuốc sẽ vô hình với tất cả mọi người trừ bạn. Cây cung cũng có §4Enchantability§0 cao hơn và bền hơn cung thường.",
+ "totemic.entry.tipi": "Tipi",
+ "totemic.page.tipi0": "§1Tipi§0 là chiếc lều hình nón dùng để ngủ qua đêm. Nó gồm một khung gỗ, phủ tấm bạt làm từ da Buffalo hoặc vải. Nó đặt được trên mặt phẳng cỏ hoặc đất, và cần trời quang mới dùng được.",
+ "totemic.entry.totemTorch": "Totem Torch",
+ "totemic.page.totemTorch0": "§1Totem Torch§0 đơn giản là phiên bản lớn hơn và trang trí hơn của đuốc thường.",
+ "totemic.entry.woodenPillars": "Wooden Pillars",
+ "totemic.page.woodenPillars0": "§1Wooden Pillar§0 là những khối trang trí đơn giản; khác với Totem Pole, chúng không có hoa văn đẽo và có thể xoay theo mọi hướng. Chúng, cũng như §1Pillar Base§0, làm được từ bất kỳ loại gỗ nào."
+}

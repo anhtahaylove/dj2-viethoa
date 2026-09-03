@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ThaumicAugmentation-1.12.2-2.1.14.jar",
+      "path": "assets/thaumicaugmentation/lang/en_us.lang"
+    }
+  ]
+}

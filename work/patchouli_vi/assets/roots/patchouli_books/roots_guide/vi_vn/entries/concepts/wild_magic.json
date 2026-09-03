@@ -1,0 +1,32 @@
+{
+  "name": "Lịch sử Wild Magic",
+  "icon": "roots:fey_fire",
+  "category": "concepts",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Wild Magic hiện diện trong thiên nhiên hoang dã. Nó tồn tại trong cây cối, đá và nước, dồi dào ngay cả trong những thứ tưởng chừng bình thường. Chỉ với chất xúc tác đơn giản nhất cũng có thể khai mở sức mạnh to lớn. Đây là nền tảng của Wild Magic.$(br2)Theo thời gian, một nhóm người cùng chí hướng và thông thạo cách vận dụng wild magic đã tụ họp, rồi lập nên một hiệp hội."
+    },
+    {
+      "type": "text",
+      "text": "Hiệp hội này được biết đến với tên Order of Druids, và suốt vô số thế kỷ, họ là những chuyên gia hàng đầu về thiên nhiên và wild magic.$(br2)Đáng chú ý nhất, họ đã lập hiệp ước với các thế giới khác, bao gồm The Fey, điều về sau trở nên quan trọng trong giai đoạn cuối của các Druid.$(br2)Bất chấp nhiều năm kinh nghiệm, hoặc có lẽ chính vì thế, các Druid dần trở nên suy đồi và không ngừng khao khát thêm quyền năng."
+    },
+    {
+      "type": "text",
+      "text": "Khi các Druid ngày càng ám ảnh với sức mạnh của The Fey, họ bắt đầu quên đi cội nguồn của mình; một số gần như từ bỏ hoàn toàn wild magic.$(br2)Dù chi tiết chính xác vẫn chưa rõ, nhiều khả năng chính sự ám ảnh này đã báo hiệu hiệp ước với The Fey đi đến hồi kết.$(br2)Mọi cổng dịch chuyển đều bị đóng, mọi hoạt động giao thương đều chấm dứt, còn Order of Druids chỉ còn là cái vỏ rỗng, cuống cuồng học lại những gì họ từng tinh thông."
+    },
+    {
+      "type": "text",
+      "text": "Những người sống sót sau cuộc chia cắt và hậu quả của nó (rất nhiều người đã không thể sống sót vì hoàn toàn mất khả năng tồn tại nếu thiếu sức mạnh của The Fey) đã cố vực dậy Order of Druids, nhưng tất cả đã quá muộn.$(br2)Nhiều người rời bỏ hàng ngũ để đào sâu hơn vào huyền thuật, trong khi số khác thực hiện những nghi lễ kinh hoàng liên quan đến chính sinh lực của mình.$(br2)Đã có một thời kỳ phục hưng ngắn, khi $(l:concepts/groves)Grove Stones$() được phát minh."
+    },
+    {
+      "type": "text",
+      "text": "Đây là khám phá vĩ đại cuối cùng của Order. Những người tạo ra nó đã hy vọng dùng nó để khuếch đại sức mạnh thiên nhiên và tái hiện một phần Fey trong thế giới của họ.$(br2)Đáng tiếc, họ quá ít và phân tán, khiến Order of Druids dần chìm vào lịch sử rồi bị lãng quên.$(br2)Ngày nay, cuốn sách này cung cấp mọi thứ cần thiết để làm chủ những gì họ đã từ bỏ.$(br2)$(br2)Nhưng quan trọng nhất: hãy học"
+    },
+    {
+      "type": "text",
+      "text": "từ sai lầm của họ! Đừng để sự kiêu ngạo lấn át và đừng để sức mạnh tha hóa bạn.$(br2)Về bản chất, wild magic chỉ tồn tại trong thế giới của chúng ta. Tinh túy của nó len lỏi trong vạn vật: ngay cả thứ tầm thường nhất cũng có thể ẩn chứa sức mạnh hoặc tiềm năng to lớn."
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "chapter_index": 8,
+  "title_key": "dj2.quest.ql.8.title",
+  "chapter_title_en": "11. Industry is boomin'",
+  "desc_key": "dj2.quest.ql.8.desc",
+  "chapter_desc_en": "Get into Industrial Foregoing, QuantumFlux, Solar Flux Reborn, and Integrated Dynamics.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.8.title",
+      "en": "11. Industry is boomin'"
+    },
+    {
+      "key": "dj2.quest.ql.8.desc",
+      "en": "Get into Industrial Foregoing, QuantumFlux, Solar Flux Reborn, and Integrated Dynamics."
+    },
+    {
+      "key": "dj2.quest.db.59.title",
+      "en": "Dynamics have been Integrated"
+    },
+    {
+      "key": "dj2.quest.db.59.desc",
+      "en": "Craft a Menril Sapling and start duplicating it to get into Integrated Dynamics!%n%nThis mod isn't strictly required at this point, but it'll greatly help you with upcoming automation.%n%nMake sure to complete the tutorial in the rewarded Book, it'll help you a lot in understanding the mod."
+    },
+    {
+      "key": "dj2.quest.db.60.title",
+      "en": "Chop Chop"
+    },
+    {
+      "key": "dj2.quest.db.60.desc",
+      "en": "Get more Menril! It's never enough!"
+    },
+    {
+      "key": "dj2.quest.db.61.title",
+      "en": "It varies"
+    },
+    {
+      "key": "dj2.quest.db.61.desc",
+      "en": "Craft a batch of Variable Cards! These hold information about the world and can be set in any Integrated Dynamics Reader or the Logic Programmer.%n%nWanna get rid of a Variable? You can convert it back into an empty Card in the Crafting Table."
+    },
+    {
+      "key": "dj2.quest.db.62.title",
+      "en": "More Menril! MORE!"
+    },
+    {
+      "key": "dj2.quest.db.62.desc",
+      "en": "Craft a Squeezer and a Drying Basin! By setting them up side by side, you can place a Menril Log into the Squeezer, and jump on it a couple times to release its sweet nectar! The blue stuff - Menril Goo."
+    },
+    {
+      "key": "dj2.quest.db.63.title",
+      "en": "Networking"
+    },
+    {
+      "key": "dj2.quest.db.63.desc",
+      "en": "Craft a bunch of Logic Cables! These are used to connect your entire Integrated Dynamics network from Readers, Writers, Display Panels to the Variable Store, Materializer, Delayer, or the Proxy."
+    },
+    {
+      "key": "dj2.quest.db.64.title",
+      "en": "Okay this was fun for a while..."
+    },
+    {
+      "key": "dj2.quest.db.64.desc",
+      "en": "Wanna automate Menril production? These are the tools for you! A Mechanical Squeezer and a Mechanical Drying Basin.%nThese blocks have weird side restrictions, with both of them only allowing access to the item input slot from the Up, North, or West sides, and only allowing access to the item output slot from the Down, South, or East sides. Additionally, the Mechanical Squeezer allows access to the fluid input slot from all sides except Down, and only allows access to the fluid output output on the Down face."
+    },
+    {
+      "key": "dj2.quest.db.65.title",
+      "en": "Cooler Dropper and Cooler Hopper"
+    },
+    {
+      "key": "dj2.quest.db.65.desc",
+      "en": "Craft an Item Interface! By placing this on a Chest, you can declare it as the inner storage for the network. Any item picked up by the network will be placed there, and any item required will be pulled from there.%n%nThen you can use the Dropper's and the Hopper's cooler brothers: the World Item Exporter and the World Item Importer."
+    },
+    {
+      "key": "dj2.quest.db.67.title",
+      "en": "The world is my book!"
+    },
+    {
+      "key": "dj2.quest.db.67.desc",
+      "en": "Craft some Readers from Integrated Dynamics. These can obtain specific values from your world. These will be handy when automating max stat Astral Sorcery Crystals, since you can even read a block's NBT values!"
+    },
+    {
+      "key": "dj2.quest.db.68.title",
+      "en": "In need of more Variables?"
+    },
+    {
+      "key": "dj2.quest.db.68.desc",
+      "en": "If you don't want to read a Variable from the world, the Logic Programmer is the tool for you! It can create simple objects like booleans and integers, or more complicated ones like additions, subtractions, items dragged from JEI, and more!%n%nYou can also simply convert this into a portable version."
+    },
+    {
+      "key": "dj2.quest.db.69.title",
+      "en": "Can't find my Variable!"
+    },
+    {
+      "key": "dj2.quest.db.69.desc",
+      "en": "The Network needs to see any Variable you referred to, and this is the place to store them. It's that simple!"
+    },
+    {
+      "key": "dj2.quest.db.70.title",
+      "en": "Really can't find my Variable!"
+    },
+    {
+      "key": "dj2.quest.db.70.desc",
+      "en": "if you want to convert a Variable into a Static, you can use a Materializer. Simply obtain a Variable Card from the world or from the Logic Programmer, place it inside with some fresh Variable Cards, and bam! Staticification!"
+    },
+    {
+      "key": "dj2.quest.db.71.title",
+      "en": "Jumping some hoops"
+    },
+    {
+      "key": "dj2.quest.db.71.desc",
+      "en": "Craft a Logic Director! This item simply acts as a crafting ingredient for \"long-range\" or \"wireless\" Integrated Dynamics items."
+    },
+    {
+      "key": "dj2.quest.db.72.title",
+      "en": "Cooler Block Breaker and Cooler Block Placer"
+    },
+    {
+      "key": "dj2.quest.db.72.desc",
+      "en": "Same story as before, if you have an Item Interface somewhere on your Network, you can pick up and place blocks. This will be pretty handy for Livingrock automation, don't you think? (Although you can do that with Formation & Annihilation Planes as well.)"
+    },
+    {
+      "key": "dj2.quest.db.1016.title",
+      "en": "Bringing power to the people"
+    },
+    {
+      "key": "dj2.quest.db.1016.desc",
+      "en": "Craft all 3 tiers of Powercell! By using two or more Powercell Cards - one for the input, the rest to link to that in the link slot, and then be moved to other Powercell inputs - you can form a cross-dimensional multiblock of power storage and transfer!%n"
+    },
+    {
+      "key": "dj2.quest.db.1120.title",
+      "en": "Don't think of its ingredients"
+    },
+    {
+      "key": "dj2.quest.db.1120.desc",
+      "en": "Create some Crystalline Pink Slime Ingots then alloy it further into some Crystalline Brown Slime Ingots!"
+    },
+    {
+      "key": "dj2.quest.db.1269.title",
+      "en": "Not quite straight"
+    },
+    {
+      "key": "dj2.quest.db.1269.desc",
+      "en": "Crush some organic materials into Biofuel, then infuse it with Water and Hydrogen to create some Substrate and Ethylene! You can use more Ethylene to multiply your Substrate."
+    },
+    {
+      "key": "dj2.quest.db.1270.title",
+      "en": "Oxygen & Hydrogen!"
+    },
+    {
+      "key": "dj2.quest.db.1270.desc",
+      "en": "Craft an Electrolytic Separator! Use some kind of a pipe to import Water into the machine, and provide power to it as well. It will separate Water into Hydrogen and Oxygen. To transfer these gases, use Mekanism Pressurized Tubes. To store them, use Mekanism Gas Tanks. You can find quests for them to the right of this one."
+    },
+    {
+      "key": "dj2.quest.db.1271.title",
+      "en": "No Pressure though"
+    },
+    {
+      "key": "dj2.quest.db.1271.desc",
+      "en": "Craft a Mekanism Pressurized Reaction Chamber! It takes 1 Fluid input, 1 Gas input and 1 Item input to create other Gases and Items. You'll also need to provide it with power so use all sides wisely!%n%nNote: If you need to clear the input tank, use a Gauge Dropper!"
+    },
+    {
+      "key": "dj2.quest.db.1272.title",
+      "en": "Next Level Ray Absorption"
+    },
+    {
+      "key": "dj2.quest.db.1272.desc",
+      "en": "Craft a Solar Panel III! It can generate 32 RF/tick. Finally a respectable amount."
+    },
+    {
+      "key": "dj2.quest.db.1273.title",
+      "en": "Absorbing the Rays"
+    },
+    {
+      "key": "dj2.quest.db.1273.desc",
+      "en": "Craft 8 Tier 1 Solar Panels together for a Tier 2 Solar Panel! It generates an even more incredible 8 RF/tick."
+    },
+    {
+      "key": "dj2.quest.db.1274.title",
+      "en": "...when you place it down!"
+    },
+    {
+      "key": "dj2.quest.db.1274.desc",
+      "en": "Craft a Solar Panel VIII! It's capable of generating a massive 32,768 RF/tick! It's almost like an Extreme Reactor in a singular block!"
+    },
+    {
+      "key": "dj2.quest.db.1275.title",
+      "en": "They say it gets darker..."
+    },
+    {
+      "key": "dj2.quest.db.1275.desc",
+      "en": "Craft a Solar Panel VII! It generates 8,192 RF/tick. Better than a lot of other generators! :O"
+    },
+    {
+      "key": "dj2.quest.db.1276.title",
+      "en": "A subtle massacre"
+    },
+    {
+      "key": "dj2.quest.db.1276.desc",
+      "en": "Craft a Mob Slaughter Factory! Provide it with power, and use it to kill mobs from your Mob Farm or Animal Farm! This machine will produce Liquid Meat and Liquid Pink Slime in the process. Make sure to export both liquids. This can be done from a single side, through a Fluiduct or Fluid Conduit of sorts."
+    },
+    {
+      "key": "dj2.quest.db.1277.title",
+      "en": "Exactly like Plastic!"
+    },
+    {
+      "key": "dj2.quest.db.1277.desc",
+      "en": "Create some Plastic Sheets either by crafting, or in the Enrichment Chamber (the latter is preferable, as it's much cheaper). Then use 4 Plastic Sheets and half a bucket of Nutrient Distillation (created in the EnderIO Vat) to create 1 Industrial Foregoing Plastic!"
+    },
+    {
+      "key": "dj2.quest.db.1278.title",
+      "en": "All in one"
+    },
+    {
+      "key": "dj2.quest.db.1278.desc",
+      "en": "Craft a Material StoneWork Factory! This machine can easily create some various basic materials, and it's the perfect way to automate them. Simply look up its capabilities in JEI, and set up multiple of them for easy automation!"
+    },
+    {
+      "key": "dj2.quest.db.1279.title",
+      "en": "Bouncy bouncy"
+    },
+    {
+      "key": "dj2.quest.db.1279.desc",
+      "en": "Obtain at least 1 Bucket worth of Liquid Pink Slime! Make a small pen and dig out a 1x1 area to place your fluid into. After about a minute, the liquid will transform into a baby Pink Slime. Use looting on the cutie, or name it Jerry and keep it as your pet, or something. Your choice.%n%nIf you chose the first option, continue creating a Pink Slime Ingot."
+    },
+    {
+      "key": "dj2.quest.db.1280.title",
+      "en": "Liquidically"
+    },
+    {
+      "key": "dj2.quest.db.1280.desc",
+      "en": "Craft a Shape Card: Pump! With this, you can use your Builder to drain liquids just like any other Pump would do."
+    },
+    {
+      "key": "dj2.quest.db.1281.title",
+      "en": "Your first Quarry!"
+    },
+    {
+      "key": "dj2.quest.db.1281.desc",
+      "en": "Welcome to the age of \"not being low on any material\" anymore! Craft an RFTools Builder and a Shape Card. You can use this machine to build structures for you, but you can also use it as a Quarry, once you upgrade your Shape Card into a Shape Card: Quarry.%n%n(Note that the Builder's recipe takes 2 Block Breakers and 2 Block Placers.)%n%nFeed it power and place a Chest on top for outputs. Place a lever on the side to activate it (or any other Redstone activation component).%n%nRoute the items from the output chest into your storage system and process the ores automatically with your Pulverizers and Redstone Furnaces."
+    },
+    {
+      "key": "dj2.quest.db.1282.title",
+      "en": "With a Spider's vision"
+    },
+    {
+      "key": "dj2.quest.db.1282.desc",
+      "en": "Craft an Amplification Crystal! It is used to... amplify stuff...! What did you think it was used for?!"
+    },
+    {
+      "key": "dj2.quest.db.1283.title",
+      "en": "Brighten up"
+    },
+    {
+      "key": "dj2.quest.db.1283.desc",
+      "en": "Craft 4 QuantumFlux Gold Casings! This is the base for all QuantumFlux machines."
+    },
+    {
+      "key": "dj2.quest.db.1284.title",
+      "en": "Wireless Industry"
+    },
+    {
+      "key": "dj2.quest.db.1284.desc",
+      "en": "Craft an Energy Field Provider! Craft more Energy Field Addons for Industrial Foregoing machines you want to charge wirelessly. Simply Shift+Right Click an Energy Field Addon onto the Provider, then input it into one of the 4 addon slots of any Industrial Foregoing machine that requires charging. The Provider will charge the machines with the rate of 512 RF/tick, and its range is 7x4x7 around the machine, which can be expanded with Range Addons inside the Provider."
+    },
+    {
+      "key": "dj2.quest.db.1285.title",
+      "en": "Zwoom! - goes the matter"
+    },
+    {
+      "key": "dj2.quest.db.1285.desc",
+      "en": "Craft some Matter Beamers for your RFTools Spawner to work. Link them to the spawner itself with any of the available wrenches. Provide items into your Matter Beamers that send them to your Spawner. The more Beamers, the faster the Spawner functions."
+    },
+    {
+      "key": "dj2.quest.db.1286.title",
+      "en": "Your first Spawner!"
+    },
+    {
+      "key": "dj2.quest.db.1286.desc",
+      "en": "Craft an RFTools Spawner! With this, you can automatically spawn some creatures into the world, though you'll need to pay a price. Note: Not all creatures can be spawned with this primitive block. You'll need Spawners from the following Chapters if you want to spawn other mobs. To use this one though, insert a Syringe of the specified mob, then the GUI will show you items that you need for the mob to spawn. If it shows \"nullRF\", the mob cannot be spawned unfortunately. You'll need to use Matter Beamers to provide the items. To connect the Matter Beamers, use a Crescent Hammer, a Yeta Wrench, or a Smart Wrench."
+    },
+    {
+      "key": "dj2.quest.db.1287.title",
+      "en": "Dreading for some light"
+    },
+    {
+      "key": "dj2.quest.db.1287.desc",
+      "en": "Craft a Dread Lamp! You'll need a full OpenBlocks Tank of Tectonic Petrotheum.%n%nThis block prevents passive mobs from spawning in a 64 block cube centered on itself. It WON'T prevent artificial spawning like Mob Spawners."
+    },
+    {
+      "key": "dj2.quest.db.1288.title",
+      "en": "No leakage"
+    },
+    {
+      "key": "dj2.quest.db.1288.desc",
+      "en": "Craft a Basic Gas Tank! It can store 64 Buckets of a single type of Gas."
+    },
+    {
+      "key": "dj2.quest.db.1289.title",
+      "en": "Even shinier! Even brighter!"
+    },
+    {
+      "key": "dj2.quest.db.1289.desc",
+      "en": "Pulverize some Industrial Grade Graphite Ores into Graphite Dust. Then blow up a stack of Graphite Dust to obtain some Hyper Diamonds!"
+    },
+    {
+      "key": "dj2.quest.db.1290.title",
+      "en": "(L)Oremaster"
+    },
+    {
+      "key": "dj2.quest.db.1290.desc",
+      "en": "Once upon a time, there was a village in the far west... They were in dire need of outside help, because they've been invaded by forces... Forces that cannot easily be defeated, because they outnumbered them. An expanding country tried to annex their lands and forcefully levy taxes on them. And they had no say in it!%n%nThe village elders came together one night to discuss matters... How could we repel the invasion!? No one knew the answer. Until a wise young man budged in and whispered: \"We have something... they don't have. Let's use it.\"%n%nAnd indeed they did. They were masters of a technique no one far and wide has ever even thought of...! The masters of Ore Creation.%n%nThey used Darkstone and refined Graphite to give back mother nature what hath been taketh away.%n%nThey indeed had mother nature herself on their side. With this knowledge, they waited for troops from the invading country. They waited patiently until one day, knights had arrived from the distance. The sun barely came up, but they were ready nonetheless.%n%nThey asked for Mother Nature because they knew she would listen... And mother nature provided. She created a massive earthquake that shook the knights off their horses! They got so scared they never returned.%n%nThat day would later be called \"The Origin of the Oregen\" and be celebrated each year thereafter.%n%nCome, embrace the knowledge of the villagers, and create some Graphite Ore to please mother nature!%n%nThe End"
+    },
+    {
+      "key": "dj2.quest.db.1291.title",
+      "en": "Don't get shocked!"
+    },
+    {
+      "key": "dj2.quest.db.1291.desc",
+      "en": "Craft a Mekanism Electrolytic Core! This is used as a crafting component in some machines."
+    },
+    {
+      "key": "dj2.quest.db.1292.title",
+      "en": "Frying the Dragons"
+    },
+    {
+      "key": "dj2.quest.db.1292.desc",
+      "en": "Craft a Wyvern Solar Panel! It can generate 65,536 RF/tick. Holy macaroni!"
+    },
+    {
+      "key": "dj2.quest.db.1293.title",
+      "en": "Stiffen up"
+    },
+    {
+      "key": "dj2.quest.db.1293.desc",
+      "en": "Craft an RFTools Machine Frame! This is the base for all RFTools Machines."
+    },
+    {
+      "key": "dj2.quest.db.1294.title",
+      "en": "Better Plastic creation"
+    },
+    {
+      "key": "dj2.quest.db.1294.desc",
+      "en": "Make a Tree Fluid Extractor and a Latex Processing Unit! Simply tap any type of Tree with the Extractor and send the fluid Latex into the Latex Processing Unit! It'll create Tiny Dry Rubber which you can easily process into Plastic. You'll need to automatically place logs in front of the Tree Fluid Extractor (using something like a Block Placer), since it'll eat up the log eventually. Setup multiple of these machines for faster gain!"
+    },
+    {
+      "key": "dj2.quest.db.1295.title",
+      "en": "Almost like Plastic!"
+    },
+    {
+      "key": "dj2.quest.db.1295.desc",
+      "en": "Use your Rotary Condensentrator to turn Ethylene into Liquid Ethylene. Then feed it into your Pressurized Reaction Chamber along with Oxygen to create some HDPE Pellets!"
+    },
+    {
+      "key": "dj2.quest.db.1296.title",
+      "en": "Trees! Fall!"
+    },
+    {
+      "key": "dj2.quest.db.1296.desc",
+      "en": "Setup a Plant Gatherer to gather Saplings and a Plant Sower to plant them! These make up the perfect combination for an automated Tree Farm!"
+    },
+    {
+      "key": "dj2.quest.db.1297.title",
+      "en": "Better than Emeralds"
+    },
+    {
+      "key": "dj2.quest.db.1297.desc",
+      "en": "Make a Quibit Crystal! Quibit - quibit!"
+    },
+    {
+      "key": "dj2.quest.db.1298.title",
+      "en": "Crops will LOVE this"
+    },
+    {
+      "key": "dj2.quest.db.1298.desc",
+      "en": "Create some Fertilizer with your Sewage Composter! You can use it as Bone Meal, Brown Dye, an input for the Plant Fertilizer Machine, or to create some Crystalline Brown Slime Ingots."
+    },
+    {
+      "key": "dj2.quest.db.1299.title",
+      "en": "Grab every last photon!"
+    },
+    {
+      "key": "dj2.quest.db.1299.desc",
+      "en": "Craft a Solar Panel V! It can generate a pretty good 512 RF/tick.%n%nWithout progressing further into other Chapters, this is as far as you can get."
+    },
+    {
+      "key": "dj2.quest.db.1300.title",
+      "en": "Draining the Sun"
+    },
+    {
+      "key": "dj2.quest.db.1300.desc",
+      "en": "Craft a Solar Panel IV! It can generate a much more respectable 128 RF/tick."
+    },
+    {
+      "key": "dj2.quest.db.1301.title",
+      "en": "Engraved with 1's and 0's"
+    },
+    {
+      "key": "dj2.quest.db.1301.desc",
+      "en": "Craft an Advanced Circuit!"
+    },
+    {
+      "key": "dj2.quest.db.1302.title",
+      "en": "Power cables are so 2010"
+    },
+    {
+      "key": "dj2.quest.db.1302.desc",
+      "en": "Craft an RF Entangler, an RF Exciter, and 2 Exciter Upgrades! Place down the Entangler and provide power to it! Place some machines in the vicinity and place some RF Exciters on them! The Entangler is capable of powering all machines equipped with an Exciter as long as both of them are loaded! That's right, they can be any distance away! Applying Exciter Upgrades will increase the transfer rate by 100 RF/tick. Default transfer rate is also 100 RF/tick. Simply Shift+Right Click on the Exciter to apply the Upgrades."
+    },
+    {
+      "key": "dj2.quest.db.1303.title",
+      "en": "Quantum-quantification"
+    },
+    {
+      "key": "dj2.quest.db.1303.desc",
+      "en": "Craft a quantity of 1 Quantum Disk. This is used as a crafting material later on."
+    },
+    {
+      "key": "dj2.quest.db.1304.title",
+      "en": "Block here, block there!"
+    },
+    {
+      "key": "dj2.quest.db.1304.desc",
+      "en": "Progress further into Ender Utilities, then craft a Matter Transporter from QuantumFlux! This tool is capable of transporting any non-unbreakable block from one location to the other. It's perfect for relocating Mob Spawners!"
+    },
+    {
+      "key": "dj2.quest.db.1305.title",
+      "en": "Craft, construct, assemble"
+    },
+    {
+      "key": "dj2.quest.db.1305.desc",
+      "en": "Make all 3 tiers of RFTools Crafters! Check back on this quest after each upgrade to see if the machine was detected or not. The RFTools Crafter is the best external crafting machine, and you can easily set some up right now for items you need a lot of. Simply use an Export Bus with the crating ingredients and an Import Bus for the crafted materials. Don't worry, AE2 autocrafting will be here soon!"
+    },
+    {
+      "key": "dj2.quest.db.1306.title",
+      "en": "Gas who it is!"
+    },
+    {
+      "key": "dj2.quest.db.1306.desc",
+      "en": "It's the Ultimate Gas Tank! Upgrade your Basic variant all the way to this! It can store 512 Buckets worth of Gas."
+    },
+    {
+      "key": "dj2.quest.db.1307.title",
+      "en": "Yeesh! Don't prick me...!"
+    },
+    {
+      "key": "dj2.quest.db.1307.desc",
+      "en": "Craft an RFTools Syringe! Left click on a specific type of mob multiple times to fill it up! Then you can insert it into the Spawner to automatically spawn a certain type of mob."
+    },
+    {
+      "key": "dj2.quest.db.1308.title",
+      "en": "'Round and 'round"
+    },
+    {
+      "key": "dj2.quest.db.1308.desc",
+      "en": "Craft a Rotary Condensentrator! This machine is capable of turning Gases into their Liquid variants or vice versa. Connect it to your power line and use Liquid/Gas cables and storage blocks for input/output."
+    },
+    {
+      "key": "dj2.quest.db.1309.title",
+      "en": "Sunrise surprise"
+    },
+    {
+      "key": "dj2.quest.db.1309.desc",
+      "en": "Craft a Solar Panel VI! It can generate 2,048 RF/tick! Wow!"
+    },
+    {
+      "key": "dj2.quest.db.1310.title",
+      "en": "All I do is breed"
+    },
+    {
+      "key": "dj2.quest.db.1310.desc",
+      "en": "Set up an automatic Cow or Pig farm with the machines listed on the right!%n%n- Have a pen of some fully grown animals with an Animal Baby Separator on one of the walls. Use an Animal Feeder on this pen.%n%n- The babies will enter another chamber. Use an Animal Grower on this pen. Create an exit from this chamber through another Animal Baby Separator, but this time with an Adult Filter.%n%n- Lastly, set up a third pen where newly grown adult animals will go. This is your killing chamber. Go ham. Literally.%n%nIf using a Mob Slaughter Factory, Baby Cows give exactly as much Pink Slime as adult ones, so the second pen isn't technically needed. However if using a Mob Crusher, it is necessary for adult Cows to grow up before granting them their demise.%n%n%n%n%n%nAll I do is breed, breed, breed no matter what!%nGot porkchops on my mind, I can never get enough!%nAnd every time I step up in my base then,%nRF Machines let's go up!%n%n...%n%nAnd they work there (there), and they work there (there),%nAnd they work there, buzz-zwoom, buzz-zwoom, buzz-zwoom!%n'Cause all I do is breed, breed, breed,%nAnd if you checking in, check my gear, is it cool, say so please, yeah!"
+    },
+    {
+      "key": "dj2.quest.db.1311.title",
+      "en": "Deepfry the Dragons!"
+    },
+    {
+      "key": "dj2.quest.db.1311.desc",
+      "en": "Craft a Draconic Solar Panel! It can generate... wait for it... 262,144 RF/tick! Why would you need that much power anyway?!"
+    },
+    {
+      "key": "dj2.quest.db.1312.title",
+      "en": "Even sediment can be useful"
+    },
+    {
+      "key": "dj2.quest.db.1312.desc",
+      "en": "Craft an Animal Sewer and a Sewage Composter! Place an Animal on top of the Sewer and route the resulting Sewage into your Composter to create some Fertilizer."
+    },
+    {
+      "key": "dj2.quest.db.1313.title",
+      "en": "No slowing down"
+    },
+    {
+      "key": "dj2.quest.db.1313.desc",
+      "en": "Craft a Speed Upgrade I & II from Tesla Core Lib! One of each of these can be applied to Industrial Foregoing machines. To apply II, a I must be inserted.%n%nThe name of these upgrades are a bit misleading - Speed increases the number of operations done per work cycle and Energy decreases the amount of power required per work cycle."
+    },
+    {
+      "key": "dj2.quest.db.1314.title",
+      "en": "Dark Steel to Dark Stone"
+    },
+    {
+      "key": "dj2.quest.db.1314.desc",
+      "en": "Craft some Darkstone from QuantumFlux!"
+    },
+    {
+      "key": "dj2.quest.db.1316.title",
+      "en": "To actually make it work..."
+    },
+    {
+      "key": "dj2.quest.db.1316.desc",
+      "en": "Craft a Shape Card: Quarry! Select two corners of an area to mine and insert it into the Builder! You can also open the GUI for the shape card to configure the card as well, either in world or in the Builder's GUI. Power up the Builder and you can use it as a Quarry now!%n%nIf you don't want to destroy the environment, enter the Deep Dark and mine out that dimension instead! The Deep Dark Portal should be craftable now."
+    },
+    {
+      "key": "dj2.quest.db.1317.title",
+      "en": "Vwoop!"
+    },
+    {
+      "key": "dj2.quest.db.1317.desc",
+      "en": "Progress into Actually Additions, then craft a QuantumFlux Item Magnet! This is one of the best early- to midgame Baubles! It requires no power and it has quite a strong magnetic field."
+    },
+    {
+      "key": "dj2.quest.db.1318.title",
+      "en": "No spawns? No problem!"
+    },
+    {
+      "key": "dj2.quest.db.1318.desc",
+      "en": "Craft a Mega Torch from Torchmaster! You will need a full OpenBlocks Tanks of Energized Glowstone.%n%nThis prevents all natural hostile mob spawns in a 64 block cube centered on itself.%n%nThis torch WON'T prevent mobs spawning from Cursed Earth or other artificial methods like Spawners."
+    },
+    {
+      "key": "dj2.quest.db.1319.title",
+      "en": "They take up too mushroom!"
+    },
+    {
+      "key": "dj2.quest.db.1319.desc",
+      "en": "Craft a Spores Recreator! Provide it with any of the two vanilla Mushrooms and Water to create more!"
+    },
+    {
+      "key": "dj2.quest.db.1320.title",
+      "en": "No more slow-motion potion"
+    },
+    {
+      "key": "dj2.quest.db.1320.desc",
+      "en": "Craft a Potion Brewer! It can automatically create all the vanilla types of Potions! You'll need some of them in large quantities later on, so I recommend automating this machine sooner than later."
+    },
+    {
+      "key": "dj2.quest.db.1321.title",
+      "en": "Pressure transfer"
+    },
+    {
+      "key": "dj2.quest.db.1321.desc",
+      "en": "Craft some Basic Pressurized Tubes to transfer Gases with!"
+    },
+    {
+      "key": "dj2.quest.db.1322.title",
+      "en": "More Solar than before!"
+    },
+    {
+      "key": "dj2.quest.db.1322.desc",
+      "en": "Craft 5 Efficiency and 5 Transfer Rate upgrades from Solar Flux Reborn! You can insert at most 20 Efficiency and 10 Transfer Rate Upgrades into 1 Solar Panel. 20 Efficiency Upgrades will double the power generation, and 10 Transfer Rate Upgrades will multiply the RF transfer rate by 2.5."
+    },
+    {
+      "key": "dj2.quest.db.1323.title",
+      "en": "Powered by the Sun"
+    },
+    {
+      "key": "dj2.quest.db.1323.desc",
+      "en": "Craft a Tier 1 Solar Panel from Solar Flux Reborn! It can generate an incredible 1 RF/tick in the daytime."
+    },
+    {
+      "key": "dj2.quest.db.1324.title",
+      "en": "You'll LAVA this machine!"
+    },
+    {
+      "key": "dj2.quest.db.1324.desc",
+      "en": "Craft a Lava Fabricator! When provided with power, it'll simply create Lava! Though it uses a lot of RF, so pumping some hot stuff from the Nether might still be a better option for you."
+    },
+    {
+      "key": "dj2.quest.db.1325.title",
+      "en": "Faster than the London Tube"
+    },
+    {
+      "key": "dj2.quest.db.1325.desc",
+      "en": "Upgrade your Pressized Tubes all the way to the Ultimate variant! They can transfer slightly over 4 Buckets of Gas per tick, or over 80 Buckets per second!"
+    },
+    {
+      "key": "dj2.quest.db.1703.title",
+      "en": "In range to rearrange?"
+    },
+    {
+      "key": "dj2.quest.db.1703.desc",
+      "en": "Craft an Exchanging Gadget! This tool allows you to mine up blocks with a mining level of at most 3 (so up to Obsidian level), and exchange them with other blocks from your inventory! To select which block to exchange with, press Shift+Right Click on the block. To open the GUI of this tool, simply hold §6G§r."
+    },
+    {
+      "key": "dj2.quest.db.1710.title",
+      "en": "Very Fortunate"
+    },
+    {
+      "key": "dj2.quest.db.1710.desc",
+      "en": "Craft a Fortune Quarry Shape Card! You'll get Fortuned outputs from your Builder when using this Shape Card."
+    },
+    {
+      "key": "dj2.quest.db.1711.title",
+      "en": "Very Touching"
+    },
+    {
+      "key": "dj2.quest.db.1711.desc",
+      "en": "Craft a Silk Touch Quarry Shape Card! You'll get Silk Touched outputs from your Builder when using this Shape Card.%n%nBe aware that using this in the Overworld will result in many-many different Underground Biomes Ore variants for each of the Ores, so I recommend using this specifically in the Nether or the Deep Dark."
+    },
+    {
+      "key": "dj2.quest.db.1713.title",
+      "en": "Teleportation, plain and simple"
+    },
+    {
+      "key": "dj2.quest.db.1713.desc",
+      "en": "Upgrade your Ultimate Pressized Tubes into Ender Gas Conduits! You know 'em, you love 'em, upgradable, configurable, compact, conduits!"
+    },
+    {
+      "key": "dj2.quest.db.1728.title",
+      "en": "Vwanh"
+    },
+    {
+      "key": "dj2.quest.db.1728.desc",
+      "en": "Prevents all* player-held magnets from picking up configurable items within their range! It can be controlled with redstone, filtered to only target a specific item, and its effective range configured between 1 and 4 blocks radius!%nThere is also an Advanced version, which increases the range to a maximum of 16 and the number of filterable items to 9.%n%n*With the exception of the Blood Magic Magnetism Sigil. Because... uh... the oxygenation of the Life Essence allows it to bypass the anti-magnetism suppressive field?"
+    },
+    {
+      "key": "dj2.quest.db.1734.title",
+      "en": "Nesting? No Problem!"
+    },
+    {
+      "key": "dj2.quest.db.1734.desc",
+      "en": "Craft the NBT Extractor! This block will allow you to easily pick through any NBT tags to select just the one you want. Once selected, the Variable Card holding the NBT can be placed in any old Variable Store.%n%nYou can also craft an NBT Extractor Remote so you don't have to carry this block around.%n%n§6Note:§r Extremely helpful for Astral Sorcery Rock Crystals - presuming you remember this exists by that point."
+    }
+  ]
+}

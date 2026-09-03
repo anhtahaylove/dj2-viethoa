@@ -1,0 +1,102 @@
+{
+  "name": "Nature's Scythe",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_natures_scythe\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_natures_scythe",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(warning) Phép này chỉ hoạt động khi bật các modifier nhắm đến loại khối cụ thể.$(br2)Những cây cối và vật thể tự nhiên ở gần sẽ từ từ bị phá khi phép được duy trì.$(br2)Các modifier cho phép bạn chọn loại cây bị phá, bao gồm cỏ, nấm, lá và nhiều loại khác."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_natures_scythe"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:dewebbing",
+      "anchor": "dewebbing"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:leaf_harvester",
+      "anchor": "leaf_harvester"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:magnetic_harvester",
+      "anchor": "magnetic_harvester"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:fortunate_scythe",
+      "anchor": "fortunate_scythe"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:voiding_scythe",
+      "anchor": "voiding_scythe"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:grass_harvester",
+      "anchor": "grass_harvester"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:mushroom_harvester",
+      "anchor": "mushroom_harvester"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:flower_harvester",
+      "anchor": "flower_harvester"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:blazing_speed",
+      "anchor": "blazing_speed"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_natures_scythe",
+      "modifier": "roots:silk_scythe",
+      "anchor": "silk_scythe"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:natures_scythe/SECONDS/cooldown) giây.$(br2)$(bold)Bán kính:$() Tác động đến các khối trong bán kính $(spell:natures_scythe/radius) theo chiều ngang và $(spell:natures_scythe/radius_y) theo chiều dọc.$(br2)$(bold)Khối bị ảnh hưởng:$() Tối đa $(spell:natures_scythe/max_affected) khối bị phá sau mỗi $(spell:natures_scythe/SECONDS/interval) giây.$(br2)$(bold)Lá:$() Khi bật modifier $(modifier:leaf_harvester)$(), các khối khớp với mục $(bold)$(spell:natures_scythe/tree_dictionary)$() sẽ bị phá."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Tơ nhện:$() Khi bật modifier $(modifier:dewebbing)$(), các khối khớp với mục ore dictionary $(bold)$(spell:natures_scythe/web_dictionary)$() sẽ bị phá.$(br2)$(bold)Cỏ:$() Khi bật modifier $(modifier:grass_harvester)$(), các khối khớp với mục ore dictionary $(bold)$(spell:natures_scythe/grass_dictionary)$() và $(bold)$(spell:natures_scythe/vine_dictionary)$() sẽ bị phá.$(br2)$(bold)Nấm:$() Khi bật modifier $(modifier:mushroom_harvester)$(), các khối khớp với mục ore dictionary $(bold)$(spell:natures_scythe/mushroom_dictionary)$() sẽ bị phá."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Hoa:$() Khi bật modifier $(modifier:flower_harvester)$(), các khối khớp với mục ore dictionary $(bold)$(spell:natures_scythe/flower_dictionary)$() sẽ bị phá.$(br2)$(bold)Xóa bỏ:$() Với nâng cấp $(modifier:voiding_scythe)$(), các khối bị hủy hoàn toàn thay vì bị phá.$(br2)$(bold)Silk Touch:$() Khi bật modifier $(modifier:silk_scythe)$(), các khối được phá như khi dùng Shears hoặc Silk Touch.$(br2)$(bold)Fortune:$() Khi bật modifier $(modifier:fortunate_scythe)$(), các khối được"
+    },
+    {
+      "type": "text",
+      "text": "phá như khi có Fortune II.$(br2)$(bold)Tốc độ:$() Khi bật modifier $(modifier:blazing_speed)$(), số khối bị phá sau mỗi $(spell:natures_scythe/SECONDS/interval) được tăng gấp đôi."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/stalicripe"
+      ]
+    }
+  ]
+}

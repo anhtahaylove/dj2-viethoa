@@ -1,0 +1,25 @@
+{
+  "name": "Rotor Blade",
+  "icon": "bigreactors:turbinerotorblade",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinerotorblade",
+      "link_recipe": true,
+      "title": "Rotor Blade",
+      "text": "Rotor Blade là bộ phận cuối cùng của $(l:turbine/rotor)Rotor$(/l), đồng thời là bộ phận giúp nó quay.$(br2)Rotor Blade chỉ có thể được đặt vuông góc với một khối $(l:turbine/part-rotorshaft)Rotor Shaft$(/l), hoặc cạnh một Rotor Blade đã đặt sẵn và kéo dài ra xa khối trục."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:turbinerotorblade",
+      "title": "Rotor Blade"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() có$(br)$(l)Vị trí hợp lệ:$() bên trong Turbine, nối với một Rotor Blade khác hoặc một khối Rotor Shaft$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "dj2.quest.db.75.title": "Đã bị loại bỏ",
+  "dj2.quest.db.75.desc": "Chế tạo các thành phần cần thiết được liệt kê bên phải, dựng Tender Ender Blender Machine Blueprint rồi nhấp chuột phải vào đó để hiển thị mô hình đa khối. Bây giờ, hãy dựa theo bản xem trước để lắp ráp cấu trúc đa khối! Cỗ máy này có thể sạc bất kỳ Ender Utilities Ender Core nào mà không cần phải ở The End hay mạo hiểm làm nổ End Crystal. Nó chỉ cần điện và không cần gì khác!%n%nCỗ máy sử dụng 3 Hatch: 1 Item Input, 1 Item Output và 1 Energy Input. Bạn có thể tùy ý chọn vị trí đặt chúng. Item Input/Output Hatch ở bất kỳ kích thước nào cũng được, nhưng bạn cần sử dụng ít nhất một Reinforced Energy Input Hatch.%n%nKhối trung tâm là Stabilized End Crystal (bản xem trước đôi khi không hiển thị khối này chính xác). Tầng dưới gồm 3 Hatch, Machine Controller và 1 Casing ở chính giữa. Đặt 4 khối Fortified Glass phía trên các Hatch và Controller. Cuối cùng, cần thêm một tầng gồm 5 Casing để hoàn thiện phần đỉnh. Blueprint cũng phải được đặt bên trong thì cỗ máy mới hoạt động.",
+  "dj2.quest.db.239.title": "§5Yêu cầu Induction Smelter§r",
+  "dj2.quest.db.239.desc": "",
+  "dj2.quest.db.477.title": "Tan biến, trở về với các nguyên tố",
+  "dj2.quest.db.477.desc": ""
+}

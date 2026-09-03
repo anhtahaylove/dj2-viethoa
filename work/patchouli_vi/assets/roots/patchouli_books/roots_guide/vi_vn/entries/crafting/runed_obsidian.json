@@ -1,0 +1,92 @@
+{
+  "name": "Decorative Runed Obsidian",
+  "icon": "roots:chiseled_runed_obsidian",
+  "category": "crafting_decoration",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_chiseled",
+      "text": "Có một số biến thể trang trí của $(l:resources/runed_obsidian)Runed Obsidian$(). $(br2)Dù $(l:rituals/standing_stones)Standing Stones$() yêu cầu phần chóp bằng Chiseled Runestone, bất kỳ biến thể gạch nào cũng có thể dùng làm đế."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_button",
+      "recipe2": "roots:runed_obsidian_pressure_plate",
+      "title": "Redstone Blocks"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_slab",
+      "recipe2": "roots:runed_obsidian_unslab",
+      "title": "Slab & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_wall",
+      "recipe2": "roots:runed_obsidian_stair",
+      "title": "Walls & Stair"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick",
+      "title": "Runed Obsidian Brick",
+      "text": "Biến thể Runed Obsidian này có vẻ ngoài ngay ngắn hơn và cũng có thể được chuyển đổi thành các khối trang trí.$(br2)$(info) Giống như mọi khối Runed Obsidian, chúng có khả năng chống chịu vụ nổ và các boss nguyên bản."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_button",
+      "recipe2": "roots:runed_obsidian_brick_pressure_plate",
+      "title": "Redstone Blocks"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_slab",
+      "recipe2": "roots:runed_obsidian_brick_unslab",
+      "title": "Slab & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_wall",
+      "recipe2": "roots:runed_obsidian_brick_stair",
+      "title": "Walls & Stair"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_alt",
+      "title": "Biến thể Brick",
+      "text": "Phiên bản gạch runed obsidian thay thế này có kết cấu ngăn nắp hơn và cũng có thể được chuyển thành các khối trang trí.$(br2)$(info) Giống như mọi khối runed obsidian, chúng có khả năng chống chịu vụ nổ và các boss vanilla."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_alt_button",
+      "recipe2": "roots:runed_obsidian_brick_alt_pressure_plate",
+      "title": "Khối Redstone"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_alt_slab",
+      "recipe2": "roots:runed_obsidian_brick_alt_unslab",
+      "title": "Phiến & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runed_obsidian_brick_alt_wall",
+      "recipe2": "roots:runed_obsidian_brick_alt_stair",
+      "title": "Tường & Cầu thang"
+    },
+    {
+      "type": "crafting",
+      "title": "Hoàn nguyên",
+      "recipe": "roots:runed_obsidian_brick_from_chisel",
+      "text": "Công thức này cho phép bạn chuyển loại gạch thay thế trở lại runed obsidian nguyên bản."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/runed_obsidian"
+      ]
+    }
+  ]
+}

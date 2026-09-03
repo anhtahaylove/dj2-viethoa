@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "text": [
+    {
+      "text": "Smeltery có thể rộng từ 3x3 đến 11x11 và cao tối thiểu 2 khối. Cấu trúc càng lớn thì càng có thể nung nhiều vật phẩm và chứa nhiều chất lỏng. Cấu trúc bắt buộc phải có sàn, nhưng không cần trần hay khung."
+    },
+    {
+      "text": "Smeltery có thể được xây bằng bất kỳ tổ hợp nào của seared blocks, glass, tanks và drains, nhưng sàn phải hoàn toàn bằng seared blocks. Cấu trúc cũng cần ít nhất một tank chứa nhiên liệu; thêm tank sẽ tăng lượng nhiên liệu. Có thể gắn Faucets vào drains để rót chất lỏng vào casting tables và basins, hoặc dùng fluid pipes từ mod khác để bơm chất lỏng vào và ra qua drains.",
+      "paragraph": true
+    }
+  ]
+}

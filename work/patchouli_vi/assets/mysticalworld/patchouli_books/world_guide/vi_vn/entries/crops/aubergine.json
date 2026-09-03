@@ -1,0 +1,20 @@
+{
+  "name": "Aubergines",
+  "icon": "mysticalworld:aubergine",
+  "category": "crops",
+  "pages": [
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:aubergine_seed",
+      "text": "Có thể tìm thấy hạt giống Aubergine khắp thế giới, ở bất cứ nơi nào có cỏ để phá."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "mysticalworld:aubergine",
+      "text": "Khi thu hoạch cây đã trưởng thành, Aubergine là một món ăn nhẹ thơm ngon và còn có thể dùng để chế biến nhiều món khác!",
+      "title": "Cây Aubergine"
+    }
+  ]
+}

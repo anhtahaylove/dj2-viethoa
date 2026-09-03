@@ -1,0 +1,21 @@
+{
+  "modifier": "soulbound",
+  "text": [
+    {
+      "text": "Một cặp hoàn hảo. Bạn yêu công cụ của mình. Ngay cả cái chết cũng không thể chia lìa hai bạn."
+    }
+  ],
+  "effects": [
+    "Tool vẫn còn trong túi đồ sau khi chết",
+    "Single use",
+    "KHÔNG tốn ô modifier"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

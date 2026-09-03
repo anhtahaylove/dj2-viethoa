@@ -1,0 +1,36 @@
+{
+  "name": "Spinning Wheel",
+  "category": "devices",
+  "icon": "bewitchment:spinning_wheel",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dùng để tạo chỉ và dây phép thuật, đồng thời có thể chế tạo các dạng Witch’s Robes chuyên dụng hơn."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:spinning_wheel"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:cobweb",
+      "text": "Lũ nhện đó chẳng là gì so với bạn"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:witches_stitching",
+      "text": "Bạn phải khâu từng mũi, hẳn đã đến mùa của Phù thủy"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:diabolical_vein",
+      "text": "Một sợi chỉ được nung trong lửa rồi ngâm trong Heartblood. Gớm."
+    },
+    {
+      "anchor": "pure_fillament",
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:pure_filament",
+      "text": "Một sợi chỉ bạc sáng ngời, đã được ban phước và thanh tẩy"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "cofhworld.list": "--- Các tính năng CoFHWorld đã tải, trang %d trên %d ---",
+  "cofhworld.list.usage": "Liệt kê mọi tính năng CoFHWorld",
+  "cofhworld.reload.failed": "Tải lại cấu hình thất bại; kiểm tra log của bạn.",
+  "cofhworld.reload.successful": "Đã tải lại cấu hình.",
+  "cofhworld.reload.usage": "Tải lại cấu hình CoFHWorld"
+}

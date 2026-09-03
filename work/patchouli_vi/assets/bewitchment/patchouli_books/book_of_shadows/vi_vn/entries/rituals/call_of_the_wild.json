@@ -1,0 +1,15 @@
+{
+  "name": "Call of the Wild",
+  "category": "rituals",
+  "icon": "bewitchment:owlets_wing",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Triệu hồi một số loài vật từ hoang dã"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:call_of_the_wild"
+    }
+  ]
+}

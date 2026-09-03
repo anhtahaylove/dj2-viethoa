@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "BQTweaker-1.3.5.jar",
+      "path": "assets/bqtweaker/lang/en_us.lang"
+    }
+  ]
+}

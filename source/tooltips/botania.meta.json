@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "botania-r1.10-372.jar",
+      "path": "assets/botania/lang/en_us.lang"
+    }
+  ]
+}

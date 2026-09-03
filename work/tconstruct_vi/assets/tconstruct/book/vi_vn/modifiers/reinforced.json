@@ -1,0 +1,19 @@
+{
+  "modifier": "reinforced",
+  "text": [
+    {
+      "text": "Gắn một tấm gia cố vào công cụ có vẻ giúp tăng độ bền, khiến nó chắc chắn hơn."
+    }
+  ],
+  "effects": [
+    "Thêm cơ hội không tốn độ bền",
+    "Cộng dồn với các cấp Reinforced trước đó",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

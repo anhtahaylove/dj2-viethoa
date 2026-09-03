@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "aether-1.12.2-v1.5.4.1.jar",
+      "path": "assets/aether_legacy/lang/en_US.lang"
+    }
+  ]
+}

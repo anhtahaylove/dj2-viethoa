@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "CraftingTweaks_1.12.2-8.1.9.jar",
+      "path": "assets/craftingtweaks/lang/en_US.lang"
+    }
+  ]
+}

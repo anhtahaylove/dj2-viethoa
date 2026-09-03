@@ -1,0 +1,25 @@
+{
+  "name": "Wildwood Quiver",
+  "icon": "roots:wildwood_quiver",
+  "category": "crafting_armor_tools_wildwood",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có thể chứa tối đa 6 chồng mũi tên, chiếc bao này sẽ tự lấy ra một mũi tên mỗi khi bạn định giương cung mà không có mũi tên phù hợp.$(br2)$(info) Nếu bao rỗng, nó sẽ tạo một mũi tên cho bạn và tự mất độ bền.$(br2)$(info) Có thể sửa bằng $(l:resources/bark#dark_oak)wildwood bark$()."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "wildwood_quiver",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "resources/wildwood"
+      ]
+    }
+  ]
+}

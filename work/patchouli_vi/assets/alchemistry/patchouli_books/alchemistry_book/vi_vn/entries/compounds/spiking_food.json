@@ -1,0 +1,17 @@
+{
+  "name": "Tẩm chất vào thức ăn",
+  "icon": "minecraft:bread",
+  "category": "compounds_category",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Tẩm chất vào thức ăn",
+      "text": "Có thể tẩm một hợp chất hoạt tính vào bất kỳ thức ăn thông thường nào bằng cách ghép mỗi thứ một món với nhau. Khi ăn, người chơi sẽ chịu các hiệu ứng của hợp chất đã tẩm vào thức ăn."
+    },
+    {
+      "type": "text",
+      "title": "Che giấu mùi vị",
+      "text": "Trong một tình huống /giả định/: giả sử bạn muốn lừa bạn mình dùng potassium cyanide. Bạn có thể che giấu mùi vị (ẩn chú thích `Spiked with [x]`) bằng cách ghép thức ăn với 8 vật phẩm hợp chất sodium chloride"
+    }
+  ]
+}

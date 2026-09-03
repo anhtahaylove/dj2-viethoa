@@ -1,0 +1,19 @@
+{
+  "name": "Juniper",
+  "category": "trees",
+  "icon": "bewitchment:juniper_sapling",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Juniper",
+      "text": "Loài cây chủ yếu mọc ở những vùng khô hạn, phổ biến nhất là Savanna. Cây nổi tiếng với sức mạnh ma thuật lớn, và chiết xuất từ cây non được dùng để chế tạo Liquid Witchcraft. Chổi làm từ loại gỗ này có sẵn ma lực và không cần ME để bay. Cây tạo ra những nón nhỏ màu xanh trông như quả mọng, thường được dùng làm gia vị."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/juniper.png"
+      ],
+      "border": true
+    }
+  ]
+}

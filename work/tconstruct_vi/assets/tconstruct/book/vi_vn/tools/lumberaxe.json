@@ -1,0 +1,21 @@
+{
+  "tool": "lumberaxe",
+  "text": [
+    {
+      "text": "Lumber Axe là công cụ chặt diện rộng. Nó có thể đốn cả cây hoặc thu gom gỗ trên phạm vi rộng."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Cây chỉ được nhận diện nếu có lá ở trên ngọn."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Advanced mining tool",
+    "Fells whole trees in one swoop",
+    "3x3x3 AOE Mining",
+    "Effective on Wood"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Giáp",
+  "icon": "twilightforest:ironwood_chestplate",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/armors",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thông tin về giáp"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/ironwood_armor_set",
+      "text": "Giáp Ironwood"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/naga_armor_set",
+      "text": "Giáp Naga Scale"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/steeleaf_armor_set",
+      "text": "Giáp Steeleaf"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/fiery_armor_set",
+      "text": "Giáp Fiery"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/knightmetal_armor_set",
+      "text": "Giáp Knightly"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/arctic_armor_set",
+      "text": "Giáp Arctic"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/yeti_armor_set",
+      "text": "Giáp Yeti"
+    }
+  ]
+}

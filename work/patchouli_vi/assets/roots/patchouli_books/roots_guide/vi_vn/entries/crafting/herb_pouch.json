@@ -1,0 +1,24 @@
+{
+  "name": "Herb Pouch",
+  "icon": "roots:herb_pouch",
+  "category": "crafting_armor_tools",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:herb_pouch",
+      "text": "Đây là loại túi đơn giản nhất có thể chế tạo mà không cần $(l:crafting/fey_crafter)fey crafter$(), cung cấp chín ô để chứa $(cat:herbs)thảo mộc$() dùng làm chất xúc tác khi thi triển phép.$(br2)$(info) Mọi loại túi đều có thể được nhuộm màu để $(l:spells/component_pouches)phân biệt với nhau$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/apothecary_pouch",
+        "crafting/fey_leather_pouch",
+        "crafting/fey_crafter",
+        "spells/component_pouches"
+      ]
+    }
+  ]
+}

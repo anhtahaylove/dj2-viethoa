@@ -1,0 +1,8 @@
+{
+  "tooltip.wawla.generic.temperature": "Nhiệt độ: %dK",
+  "tooltip.wawla.vanilla.jump": "Sức nhảy: %f (%dX)",
+  "tooltip.wawla.vanilla.speed": "Tốc độ: %f (%dX)",
+  "tooltip.wawla.enchdesc.missing": "Không tìm thấy mô tả. Vui lòng đề nghị tác giả của %s bổ sung. Khóa bản địa hóa là %s",
+  "tooltip.wawla.enchdesc.activate": "Nhấn %s%s%s để xem mô tả enchantment.",
+  "tooltip.wawla.dragonmounts.start": "Nhấp để bắt đầu ấp!"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Living Arrow",
+  "icon": "roots:living_arrow",
+  "category": "crafting_armor_tools_living",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thật khó duy trì lối sống $(l:concepts/pacifism)Pacifist$() mà vẫn có nguồn lông vũ ổn định để làm mũi tên.$(br2)Trước khi có thể sử dụng nghi thức $(l:rituals/ritual_aniaml_harvest)Animal Harvest$(), Living Arrows sẽ giúp ích rất nhiều.$(br2)$(info) Ngoài chức năng như mũi tên thường, Living Arrows còn gây sát thương nhỉnh hơn."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_arrow"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/wildwood_bow",
+        "crafting/wildwood_quiver",
+        "resources/bark"
+      ]
+    }
+  ]
+}

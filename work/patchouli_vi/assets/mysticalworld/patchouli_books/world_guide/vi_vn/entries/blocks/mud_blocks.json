@@ -1,0 +1,29 @@
+{
+  "name": "Mud Blocks",
+  "icon": "mysticalworld:wet_mud_block",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:wet_mud_block",
+      "link_recipe": true,
+      "text": "Sau khi chế tạo, chúng có thể được sấy khô trong lò nung."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:wet_mud_block",
+      "recipe2": "mysticalworld:wet_mud_brick",
+      "link_recipe": true,
+      "title": "Wet Mud Blocks",
+      "text": "Wet Bricks cũng có thể được chế tạo."
+    },
+    {
+      "type": "smelting",
+      "recipe": "mysticalworld:wet_mud_block",
+      "recipe2": "mysticalworld:wet_mud_brick",
+      "link_recipe": true,
+      "title": "Chế tạo nhanh hơn",
+      "text": "Bạn có thể nung Mud Blocks và Mud Bricks trong lò để chuyển chúng thành ."
+    }
+  ]
+}

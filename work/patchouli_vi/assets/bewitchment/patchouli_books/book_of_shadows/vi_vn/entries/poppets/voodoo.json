@@ -1,0 +1,12 @@
+{
+  "name": "Voodoo Poppet",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_voodoo",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_voodoo",
+      "text": "Liên kết nó với mục tiêu rồi nhấp chuột phải khi có Bone Needles trong túi đồ để gây sát thương cho mục tiêu đó; ném nó từ trên cao xuống dung nham cũng sẽ thiêu đốt mục tiêu."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Reactor đầu tiên của bạn",
+  "icon": "bigreactors:reactorcasing",
+  "category": "bigreactors:intro",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Reactor là một máy multiblock có nhiệm vụ chính là sản xuất thật nhiều năng lượng.$(br2)Máy multiblock được cấu thành từ nhiều block khác nhau mà bạn đặt liền kề nhau trong thế giới.$(br2)Để chế tạo và vận hành Reactor, bạn cần các thỏi Yellorium, vì vậy hãy khai thác Yellorite Ore rồi nung ngay!"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "bigreactors:reactorcasing",
+          "C": "bigreactors:reactorcasing",
+          "F": "bigreactors:reactorfuelrod",
+          "R": "bigreactors:reactorcontrolrod",
+          "A": "bigreactors:reactoraccessport",
+          "E": "bigreactors:reactorpowertaprf",
+          "X": "bigreactors:reactorcontroller"
+        },
+        "pattern": [
+          [
+            "CCC",
+            "CRC",
+            "CCC"
+          ],
+          [
+            "CCC",
+            "EFA",
+            "CXC"
+          ],
+          [
+            "CCC",
+            "C0C",
+            "CCC"
+          ]
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "Để xây Reactor đầu tiên, bạn cần chế tạo các block Basic Reactor sau:$(br2)$(li)22x Casing$(li)1x Controller$(li)1x Control Rod$(li)1x Fuel Rod$(li)1x Access Port$(li)1x Redstone Flux Power Tap$(br2)Block Glass thực ra không bắt buộc và có thể được thay bằng một block Casing khác."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorcasingcores",
+      "recipe2": "bigreactors:reactorcasing"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorglass_vanillaglass",
+      "recipe2": "bigreactors:reactorcontroller"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorcontrolrod",
+      "recipe2": "bigreactors:reactorfuelrod_vanillaglass"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactoraccessport",
+      "recipe2": "bigreactors:reactorpowertaprf"
+    },
+    {
+      "type": "text",
+      "text": "Sau khi chế tạo đủ các block cần thiết, bạn đã sẵn sàng xây Reactor đầu tiên.$(br2)Hãy đặt các block trong thế giới theo sơ đồ sau, với Fuel Rod ở giữa và một Casing bên dưới."
+    },
+    {
+      "type": "text",
+      "text": "Nếu mọi việc suôn sẻ, khi bạn đặt block cuối cùng, Reactor sẽ hình thành và bạn có thể nhấp chuột phải vào block Controller để mở giao diện Controller.$(br2)Nếu không có gì xảy ra, hãy nhấp chuột phải vào bất kỳ block nào bạn đã đặt: bạn sẽ nhận được thông báo lỗi giải thích vấn đề. Sau khi khắc phục, Reactor sẽ hình thành hoặc một thông báo lỗi khác sẽ xuất hiện để bạn tiếp tục xử lý."
+    },
+    {
+      "type": "text",
+      "text": "Giờ Reactor đã sẵn sàng, đã đến lúc nạp nhiên liệu.$(br2)Lấy thêm các thỏi Yellorium rồi nhấp chuột phải vào Access Port. Đặt Port sang chế độ Inlet và cho các thỏi vào ô đầu vào.$(br2)Các thỏi sẽ nhanh chóng được Reactor tiêu thụ và chuyển thành nhiên liệu.$(br2)Mở giao diện Controller và bật Reactor!"
+    },
+    {
+      "type": "text",
+      "text": "Khi Reactor nóng lên, năng lượng sẽ dần được sản xuất và nạp vào bộ đệm năng lượng bên trong.$(br2)Để sử dụng năng lượng lưu trong Reactor, bạn cần kết nối một loại ống dẫn năng lượng hoặc máy với Power Tap."
+    },
+    {
+      "type": "text",
+      "text": "Chúc mừng, bạn đã xây dựng Reactor đầu tiên!$(br2)Hãy dùng nó để tạo đủ năng lượng cho giai đoạn đầu game, rồi xây thêm các Reactor và Turbine khác sau khi đọc hết phần còn lại của cuốn sổ tay này."
+    }
+  ]
+}

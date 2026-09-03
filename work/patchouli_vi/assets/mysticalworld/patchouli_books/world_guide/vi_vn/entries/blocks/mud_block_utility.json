@@ -1,0 +1,33 @@
+{
+  "name": "Công dụng của Mud Block",
+  "icon": "mysticalworld:mud_block_pressure_plate",
+  "category": "blocks",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_pressure_plate",
+      "link_recipe": true,
+      "text": "Có thể chế tạo Pressure Plates từ cả mud blocks và mud bricks. Do làm từ đá, chúng chủ yếu phản ứng với sinh vật."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_pressure_plate",
+      "recipe2": "mysticalworld:mud_brick_pressure_plate",
+      "link_recipe": true,
+      "title": "Pressure Plates"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:mud_block_button",
+      "link_recipe": true,
+      "text": "Có thể chế tạo Buttons từ cả mud bricks và mud blocks."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:mud_block_button",
+      "recipe2": "mysticalworld:mud_brick_button",
+      "link_recipe": true,
+      "title": "Buttons"
+    }
+  ]
+}

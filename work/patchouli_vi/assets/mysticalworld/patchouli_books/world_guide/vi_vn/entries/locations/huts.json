@@ -1,0 +1,20 @@
+{
+  "name": "Huts",
+  "icon": "mysticalworld:thatch",
+  "category": "locations",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Huts",
+      "text": "Bạn có thể bắt gặp Huts trên khắp thế giới, đặc biệt trong các quần xã bằng phẳng hoặc kiểu đồng bằng. Chúng là căn cứ khởi đầu khá ổn, và biết đâu bạn còn tìm thấy thứ gì đó thú vị dưới hầm!"
+    },
+    {
+      "type": "image",
+      "title": "Huts nơi hoang dã!",
+      "text": "Một nơi lý tưởng để gọi là nhà.",
+      "images": [
+        "mysticalworld:textures/hut.png"
+      ]
+    }
+  ]
+}

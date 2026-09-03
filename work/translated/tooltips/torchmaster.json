@@ -1,0 +1,8 @@
+{
+  "item.torchmaster.frozen_pearl.tooltip": "Xóa ánh sáng còn sót lại từ Feral Flare Lantern.",
+  "tile.torchmaster.dread_lamp.tooltip": "Ngăn động vật thụ động như mực, dơi hoặc mèo rừng sinh ra tự nhiên trong phạm vi lớn quanh đèn.",
+  "tile.torchmaster.feral_flare_lantern.tooltip": "Từ từ chiếu sáng một khu vực rộng lớn. Khi gỡ đèn, ánh sáng sẽ dần biến mất.",
+  "tile.torchmaster.mega_torch.lit.tooltip": "Ngăn quái vật thù địch sinh ra tự nhiên trong phạm vi khá rộng quanh đuốc.",
+  "tile.torchmaster.mega_torch.unlit.tooltip": "Ngăn quái vật thù địch sinh ra tự nhiên trong phạm vi khá rộng quanh đuốc.",
+  "tile.torchmaster.terrain_lighter.tooltip": "Tự động đặt đuốc. Cần đuốc, nhiên liệu và tín hiệu redstone."
+}

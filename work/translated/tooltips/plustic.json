@@ -1,0 +1,10 @@
+{
+ "tooltip.plustic.globalmodifier.info": "Kho đồ được liên kết tại [x=%d, y=%d, z=%d] và chiều không gian %d",
+ "tooltip.plustic.portlymodifier.info": "Thực thể: %s",
+ "tooltip.plustic.ignoblemodifier.info": "Độ thấp kém: §1%f",
+ "tooltip.plustic.portal.info": "Điểm dịch chuyển: [x=%d, y=%d, z=%d]; chiều không gian %d",
+ "tooltip.plustic.toggle.info": "Nhấp để bật/tắt",
+ "tooltip.plustic.sapphire.warn": "§cSapphire của AoA 3 là một vật liệu khác",
+ "item.katana.desc": "Katana là vũ khí đặc biệt tung combo lên mục tiêu.\\nBổ trợ cho Shuriken",
+ "item.laser_gun.desc": "Laser Gun là vũ khí \"cận chiến\" đặc biệt (xét theo vài khía cạnh) bắn ra những phát chuẩn xác từ xa, nhưng ngốn cả độ bền lẫn năng lượng. Nó còn đổi chế độ được để nung chảy khối.\\nSát thương phụ thuộc vào laser medium, không phải đoạn ống."
+}

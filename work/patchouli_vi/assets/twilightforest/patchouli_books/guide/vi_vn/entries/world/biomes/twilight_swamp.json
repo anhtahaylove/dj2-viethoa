@@ -1,0 +1,18 @@
+{
+  "name": "Swamp",
+  "icon": "twilightforest:twilight_sapling:2",
+  "category": "biomes",
+  "advancement": "twilightforest:alt/biomes/twilight_swamp",
+  "sortnum": 5000,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một vùng đất ẩm ướt rộng lớn trong Twilight Forest, trông giống Swamp. Nơi này đầy rẫy Mosquito, và bất kỳ nhà thám hiểm nào xâm nhập cũng sẽ mắc bệnh. Để thanh tẩy nơi đây, cần dùng một trong các Scepter phép thuật của Twilight Lich để xua đuổi Mosquito. Trong quần xã này có nhiều gò đất, có lẽ báo hiệu sự hiện diện của các công trình?"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/fire_swamp",
+      "text": "Ở trung tâm Twilight Swamp là Fire Swamp. Quần xã khá nóng này có rất nhiều Lava cùng những miệng phun khói và lửa, rải khắp vùng đất đỏ màu gỉ sét. Do sức nóng, các nhà thám hiểm cần được ăn uống đầy đủ để tiến vào quần xã. Tương truyền rằng một quái vật khủng khiếp cư ngụ trong tàn tích của Large Hollow Hill."
+    }
+  ]
+}

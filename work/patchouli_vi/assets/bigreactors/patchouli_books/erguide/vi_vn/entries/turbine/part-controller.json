@@ -1,0 +1,29 @@
+{
+  "name": "Controller",
+  "icon": "bigreactors:turbinecontroller",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinecontroller",
+      "link_recipe": true,
+      "title": "Controller",
+      "text": "Controller là giao diện chính để điều khiển Turbine.$(br2)Nhấp chuột phải vào Controller để mở giao diện đồ họa. Tại đây, bạn có thể bật hoặc tắt Turbine, kiểm tra lượng hơi và chất làm mát trong các bể chứa bên trong, tốc độ quay của $(l:turbine/rotor)Rotor$(/l) và lượng năng lượng đang được tạo ra."
+    },
+    {
+      "type": "text",
+      "text": "Bạn cũng có thể điều chỉnh lượng hơi chảy quanh $(l:turbine/rotor)Rotor$(/l), chọn cách xử lý hơi sau khi ngưng tụ trở lại thành chất làm mát ban đầu, cũng như kích hoạt hoặc vô hiệu hóa $(l:turbine/coils)Induction Coils$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe2": "bigreactors:turbinecontroller",
+      "title": "Controller"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() cần ít nhất một$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() có"
+    }
+  ]
+}

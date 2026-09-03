@@ -1,0 +1,110 @@
+{
+  "name": "Xây dựng Portal",
+  "icon": "twilightforest:miniature_structure:0",
+  "category": "world",
+  "sortnum": -1010,
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Twilight Portal",
+      "text": "Sau khi đào và trồng xong theo bố cục, hãy đổ đầy nước vào đó!",
+      "multiblock": {
+        "pattern": [
+          [
+            " FF ",
+            "FAAF",
+            "FAAF",
+            " FF "
+          ],
+          [
+            " GG ",
+            "G0WG",
+            "GWWG",
+            " GG "
+          ],
+          [
+            "    ",
+            " DD ",
+            " DD ",
+            "    "
+          ]
+        ],
+        "mapping": {
+          " ": "ANY",
+          "A": "AIR",
+          "0": "minecraft:water",
+          "W": "minecraft:water",
+          "F": "minecraft:red_flower",
+          "G": "minecraft:grass",
+          "D": "minecraft:dirt"
+        },
+        "symmetrical": true,
+        "offset": [
+          0,
+          1,
+          0
+        ],
+        "view_offset": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "spotlight",
+      "title": "Vật phẩm kích hoạt",
+      "item": "minecraft:diamond",
+      "text": "Thả một diamond xuống nước!"
+    },
+    {
+      "type": "multiblock",
+      "name": "Twilight Portal đã hoàn thành",
+      "text": "Nếu thấy những vòng xoáy màu tím, hãy nhảy thẳng vào!",
+      "enable_visualize": false,
+      "advancement": "twilightforest:root",
+      "multiblock": {
+        "pattern": [
+          [
+            " FF ",
+            "F0AF",
+            "FAAF",
+            " FF "
+          ],
+          [
+            " GG ",
+            "GWWG",
+            "GWWG",
+            " GG "
+          ],
+          [
+            "    ",
+            " DD ",
+            " DD ",
+            "    "
+          ]
+        ],
+        "mapping": {
+          " ": "ANY",
+          "A": "AIR",
+          "0": "AIR",
+          "W": "twilightforest:twilight_portal",
+          "F": "minecraft:red_flower",
+          "G": "minecraft:grass",
+          "D": "minecraft:dirt"
+        },
+        "symmetrical": true,
+        "offset": [
+          0,
+          1,
+          0
+        ],
+        "view_offset": [
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}

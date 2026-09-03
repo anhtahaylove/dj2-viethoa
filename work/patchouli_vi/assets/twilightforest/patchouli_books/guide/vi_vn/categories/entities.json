@@ -1,0 +1,6 @@
+{
+  "name": "Thực thể",
+  "description": "Tất cả kẻ tốt lẫn kẻ xấu!",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:wild_boar\"}}",
+  "sortnum": 2000
+}

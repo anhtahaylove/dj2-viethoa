@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+      "path": "assets/simplyjetpacks/lang/en_us.lang"
+    }
+  ]
+}

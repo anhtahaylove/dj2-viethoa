@@ -1,0 +1,15 @@
+{
+  "name": "Magical Energy",
+  "category": "magical_overview",
+  "icon": "bewitchment:pentacle",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Mọi dạng sống đều mang năng lượng nội tại, từ hạt giống nhỏ bé nhất đến Dragon hùng mạnh tại End of Time. Phù thủy thường tập trung điều khiển năng lượng này để thỏa mãn mong muốn của mình, dù thiện hay ác… Tuy nhiên, năng lượng này chỉ có thể được tự do khai thác từ thực vật và nấm, chứ không phải từ sinh vật sống."
+    },
+    {
+      "type": "text",
+      "text": "Năng lượng này, gọi tắt là ME, phát huy tốt nhất với một khu vườn đa dạng, rực rỡ muôn màu, thay vì chỉ toàn một loại. Nói đơn giản, phù thủy nên dùng nhiều loại thực vật khác nhau cho Altars, thay vì dùng quá nhiều cây cùng loại."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Rising Twigs",
+  "category": "rituals",
+  "icon": "bewitchment:broom",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Biến một cây chổi thường thành phiên bản ma thuật tương ứng. Các loại chổi, kể cả chổi thường, cũng có thể dùng để quét dọn nhiều loại bụi."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:broom"
+    },
+    {
+      "type": "text",
+      "title": "Cypress Broom",
+      "text": "Cypress Broom tiêu hao sức mạnh ma thuật từ Grimoire Magia để duy trì chuyến bay. Khi cưỡi, nó cũng cho Resistance II."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:cypress_broom"
+    },
+    {
+      "type": "text",
+      "title": "Elder Broom",
+      "text": "Elder Broom tiêu hao sức mạnh ma thuật từ Grimoire Magia để duy trì chuyến bay. Đây là loại chổi nhanh nhất nhưng không có đặc tính đặc biệt."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:elder_broom"
+    },
+    {
+      "type": "text",
+      "title": "Juniper Broom",
+      "text": "Juniper Broom không tiêu hao sức mạnh ma thuật để duy trì chuyến bay nhờ bản chất ma thuật của nó. Tuy nhiên, nó cũng khá chậm."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:juniper_broom"
+    },
+    {
+      "type": "text",
+      "title": "Dragon's Blood Broom",
+      "text": "Một cây chổi làm từ cây dragon’s blood, có thể gắn sigil lên chổi để nhận hiệu ứng của nó khi đang bay. Chổi cũng bay nhanh hơn chổi thường một chút, nhưng không nhanh bằng chổi Elder"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:dragons_blood_broom"
+    }
+  ]
+}

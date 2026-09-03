@@ -1,0 +1,65 @@
+{
+  "name": "Những vị khách siêu nhiên",
+  "category": "world",
+  "icon": "bewitchment:spectral_dust",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thế giới vật chất thường được những thực thể siêu hình ghé thăm. Chúng có thể đóng vai trò hộ vệ và bảo vệ, gây rắc rối hoặc đôi khi mang mục đích hiểm độc. Bất kể bản chất của chúng là gì, Cold Iron vẫn là công cụ tiêu chuẩn để đối phó."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Black Dog",
+      "text": "Black Dog trông giống loài chó khổng lồ mang hình bóng tối và thường ám những vùng nông thôn, hành hạ người dân sống tại đó. Khi bị tấn công, Black Dog có thể trở nên vô hình, chỉ để lộ ánh sáng phát ra từ đôi mắt."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:black_dog",
+      "scale": 0.5
+    },
+    {
+      "type": "text",
+      "title": "Druden",
+      "text": "Thường bị nhầm với dryad, Druden có thể được xem là phiên bản đen tối hơn của chúng. Những mụ phù thủy này rình rập trong rừng tối và tấn công người bước vào lãnh địa của chúng. Chúng cũng thường tham gia Wild Hunt."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:druden",
+      "scale": 0.8
+    },
+    {
+      "type": "text",
+      "title": "Ghosts",
+      "text": "Ghosts là linh hồn của người chết, tự trỗi dậy để hoàn thành những việc còn dang dở khi sống, cảnh báo người khác về nguy hiểm, hoặc đôi khi được một phù thủy cố ý triệu hồi. Chúng cũng có thể ám những công trình cổ xưa hoặc chính nơi mình từng bị sát hại, nhằm hành hạ những kẻ đã gây ra cái chết oan khuất ấy."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:ghost",
+      "scale": 0.7
+    },
+    {
+      "type": "text",
+      "title": "Shadow Person",
+      "text": "Một loài quỷ hình người trông mơ hồ như cái bóng. Chúng dường như ám các hành lang của những Stronghold từng bị bỏ hoang và đôi khi được gọi đến thế giới này bằng một số nghi thức. Mọi cuộc chạm trán với chúng đều kết thúc trong ác ý."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:shadow_person",
+      "scale": 0.8
+    },
+    {
+      "type": "text",
+      "title": "Cambions",
+      "text": "Cambions là con lai giữa quỷ và người phàm, bị bỏ rơi trong thế giới vật chất. Chúng cố hòa nhập với Villagers nhưng dường như bị họ xa lánh."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:cambion",
+      "scale": 0.8
+    }
+  ]
+}

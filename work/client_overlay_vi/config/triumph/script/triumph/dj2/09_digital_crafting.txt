@@ -1,0 +1,14 @@
+setIcon(<appliedenergistics2:part:360>)
+setTitle("Chế tạo số")
+setDescription("Tạo Crafting Terminal để chế tạo trực tiếp bằng các item trong ME System!")
+
+addParent("triumph:dj2/root")
+setPos(3,216)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasCraftingTerminal", "minecraft:inventory_changed")
+criteria.addItem(<appliedenergistics2:part:360>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:09_digital_crafting")

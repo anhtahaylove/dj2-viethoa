@@ -1,0 +1,7 @@
+{
+  "name": "Trang trí",
+  "parent": "crafting",
+  "sortnum": 4,
+  "description": "Phần này nói về cách dùng các khối xây dựng để trang trí, cũng như các phiên bản trang trí tương ứng của một số thiết bị.",
+  "icon": "roots:wildroot_rune"
+}

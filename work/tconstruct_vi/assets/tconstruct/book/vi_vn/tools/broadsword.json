@@ -1,0 +1,19 @@
+{
+  "tool": "broadsword",
+  "text": [
+    {
+      "text": "Broadsword là một vũ khí đa dụng. Nó gây sát thương trung bình, cho phép đánh bật kẻ địch bằng đòn quét mà vẫn để tay kia rảnh."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Tương thích với các vũ khí hoặc công cụ cầm ở tay phụ khác."
+    }
+  ],
+  "properties": [
+    "Medium Damage",
+    "Sweep attack",
+    "Có thể dùng tay phụ"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "namespace": "bloodmagic",
+  "english_locale": "en_US",
+  "jar": "BloodMagic-1.12.2-2.4.3-105.jar",
+  "paths": [
+    "assets/bloodmagic/lang/en_US.lang",
+    "assets/bloodmagicguide/lang/en_US.lang"
+  ],
+  "keys": 274,
+  "sha256": "c854faed3ad0c9d83834cf6bcb661c7636878b25f9f8e3d3bd0c945c27d5b3a4"
+}

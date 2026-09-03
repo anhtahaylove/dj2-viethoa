@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "TConstruct-1.12.2-2.13.0.183.jar",
+      "path": "assets/tconstruct/lang/en_us.lang"
+    }
+  ]
+}

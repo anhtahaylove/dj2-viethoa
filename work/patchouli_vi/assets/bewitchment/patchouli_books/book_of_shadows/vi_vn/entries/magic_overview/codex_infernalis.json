@@ -1,0 +1,15 @@
+{
+  "name": "Codex Infernalis",
+  "category": "magic_overview",
+  "icon": "bewitchment:textures/items/codex_infernalis.png",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Từ thuở xa xưa, truyền thuyết đã kể về những điều ô uế và báng bổ trật tự tự nhiên trong các pháo đài được tạo nên từ những linh hồn nén chặt.$(br2)Những điều báng bổ ấy tồn tại dưới dạng một vật thể mang tên Codex Infernalis."
+    },
+    {
+      "type": "text",
+      "text": "Không nghi thức hay tri thức nào từ nó là an toàn. Những kẻ ô uế bị nó thu hút, mong dẫn con người lạc lối và ném họ xuống hố lửa rực cháy để đổi lấy sự báng bổ và quyền năng.$(br2)Tốt nhất hãy để mặc nó mục nát trong căn phòng của mình. Chưa từng có điều tốt đẹp nào bắt nguồn từ nó."
+    }
+  ]
+}

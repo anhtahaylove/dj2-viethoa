@@ -1,0 +1,24 @@
+{
+  "name": "Fortunes and Scrying",
+  "category": "magic_overview",
+  "icon": "bewitchment:crystal_ball",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Scrying là một phương thức khá mạnh để thu thập thông tin về mục tiêu. Các trang sau trình bày chi tiết một phương thức đã biết, cũng như cách tìm vận mệnh của mục tiêu rồi chờ vũ trụ biến chúng thành hiện thực."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Crystal Ball",
+      "text": "Crystal Ball vốn rất kỳ diệu. Chúng thường được dùng để tiên đoán tương lai và bói vận, nhưng một số người cho rằng chúng còn có thể dùng vào việc khác, như quan sát từ xa. Nhấp chuột phải bằng Taglock của mục tiêu để biết một số thông tin chung về người đó, nhưng việc diễn giải chúng là tùy vào bạn."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:crystal_ball"
+    }
+  ]
+}

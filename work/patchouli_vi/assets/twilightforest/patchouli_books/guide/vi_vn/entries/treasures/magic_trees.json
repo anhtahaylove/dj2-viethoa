@@ -1,0 +1,33 @@
+{
+  "name": "Cây ma thuật",
+  "icon": "twilightforest:twilight_sapling:4",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/magic_trees",
+  "sortnum": 2100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bạn có thể tìm thấy Magic Trees trong rương chiến lợi phẩm ở các hầm ngục trên ngọn cây lớn"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/tree_of_time",
+      "text": "Tree of Time"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/tree_of_transformation",
+      "text": "Tree of Transformation"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/tree_of_mining",
+      "text": "Miner's Tree"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/tree_of_sorting",
+      "text": "Sorting Tree"
+    }
+  ]
+}

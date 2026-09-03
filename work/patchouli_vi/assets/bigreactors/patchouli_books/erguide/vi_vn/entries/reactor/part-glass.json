@@ -1,0 +1,25 @@
+{
+  "name": "Glass",
+  "icon": "bigreactors:reactorglass",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorglass",
+      "link_recipe": true,
+      "title": "Glass",
+      "text": "Glass là khối trang trí có thể dùng thay cho khối Casing để quan sát bên trong Reactor."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorglass_vanillaglass",
+      "title": "Glass"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() trên mọi mặt (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

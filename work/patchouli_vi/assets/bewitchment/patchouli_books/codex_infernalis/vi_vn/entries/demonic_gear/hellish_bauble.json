@@ -1,0 +1,15 @@
+{
+  "name": "Hellish Bauble",
+  "category": "demonic_gear",
+  "icon": "bewitchment:hellish_bauble",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc bùa kỳ lạ làm từ vật liệu đen tối, khắc họa một thực thể ma quỷ có sừng và dường như gần như đang sống. Khi đeo, vật phẩm này bảo vệ người đeo khỏi lửa và vụ nổ, đồng thời khiến quỷ ít có khả năng tấn công hơn."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/bauble/hellish_bauble"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Dandelion Winds",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_dandelion_winds\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_dandelion_winds",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Các thực thể trở nên nhẹ hơn không khí như những chùm bồ công anh bạc và bị thổi văng khỏi bạn.$(br2)Với modifier, bạn có thể kéo thực thể về phía mình, thổi văng mọi thực thể xung quanh hoặc tăng kích thước luồng gió.$(br2)Modifier thậm chí có thể biến phép này thành công cụ dập lửa tiện lợi!"
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_dandelion_winds"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:strong_gusts",
+      "anchor": "strong_gusts"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:peaceful_winds",
+      "anchor": "peaceful_winds"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:grounded_wind",
+      "anchor": "grounded_wind"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:slow_falling",
+      "anchor": "slow_falling"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:circle_of_winds",
+      "anchor": "circle_of_winds"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:item_updraft",
+      "anchor": "item_updraft"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:poisonous_breeze",
+      "anchor": "poisonous_breeze"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:flaming_wind",
+      "anchor": "flaming_wind"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:suction",
+      "anchor": "suction"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_dandelion_winds",
+      "modifier": "roots:extinguisher",
+      "anchor": "extinguisher"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:dandelion_winds/SECONDS/cooldown) giây.$(br2)$(bold)Tầm xa:$() Các thực thể trong tầm nhìn, cách tối đa $(spell:dandelion_winds/range_1) khối, sẽ bị thổi lùi. Với modifier $(modifier:strong_gusts)$(), khoảng cách này tăng lên tối đa $(spell:dandelion_winds/range_2) khối.$(br2)$(bold)Sức mạnh:$() Các thực thể bị hất lên với lực $(spell:dandelion_winds/distance). Với modifier $(modifier:strong_gusts)$(), khoảng cách này tăng thêm"
+    },
+    {
+      "type": "text",
+      "text": " $(spell:dandelion_winds/additional_distance).$(br2)$(bold)Sát thương khi rơi:$() Với modifier $(modifier:grounded_wind)$(), khoảng cách rơi được tăng giả tạo thêm $(spell:dandelion_winds/PERCENT/additional_fall).$(br2)$(bold)Rơi chậm:$() Với modifier $(modifier:slow_falling)$(), các thực thể nhận Slow Fall I trong $(spell:dandelion_winds/SECONDS/slow_duration) giây.$(br2)$(bold)Độc:$() Khi bật modifier $(modifier:poisonous_breeze)$(), các thực thể nhận Poison $(spell:dandelion_winds/ROMAN/poison_amplifier) trong $(spell:dandelion_winds/SECONDS/poison_duration) giây."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Lửa:$() Với modifier $(modifier:flaming_wind)$(), các thực thể bị thiêu cháy trong $(spell:dandelion_winds/fire_duration) giây.$(br2)$(bold)Vật phẩm:$() Với modifier $(modifier:item_updraft)$(), các thực thể vật phẩm cũng bị ảnh hưởng.$(br2)$(bold)Lực hút:$() Với modifier $(modifier:suction)$(), các thực thể sẽ bị kéo về phía bạn.$(br2)$(bold)Dập lửa:$() Với modifier $(modifier:extinguisher)$(), lửa trong vùng ảnh hưởng sẽ bị dập tắt."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Vòng tròn:$() Với modifier $(modifier:circle_of_winds)$(), mọi thực thể xung quanh bạn đều bị ảnh hưởng thay vì chỉ trong bán kính luồng gió thông thường.$(br2)$(bold)Ôn hòa:$() Với modifier $(modifier:peaceful_winds)$(), các thực thể không thù địch không bị phép này ảnh hưởng."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/cloud_berry"
+      ]
+    }
+  ]
+}

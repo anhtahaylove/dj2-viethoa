@@ -1,0 +1,17 @@
+{
+  "modifier": "enderpickup",
+  "text": [
+    {
+      "text": "Của tôi, tất cả đều là của tôi!"
+    }
+  ],
+  "effects": [
+    "Dịch chuyển vật phẩm khai thác được trực tiếp vào kho đồ của bạn",
+    "Xung đột với trait cùng tên",
+    "Xung đột với 'Vanishing'"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Living Axe",
+  "icon": "roots:living_axe",
+  "category": "crafting_armor_tools_living",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Living Tools có lợi thế lớn so với các công cụ khác: chúng tự sửa chữa theo thời gian.$(br2)$(info) Dù có cấp khai thác ngang công cụ sắt, độ bền tổng thể của chúng thấp hơn đôi chút.$(br2)Có thể sửa Living Tools thủ công trong Anvil hoặc Imbuer bằng bất kỳ loại Bark nào."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_axe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_axe",
+        "crafting/runed_great-axe",
+        "resources/bark"
+      ]
+    }
+  ]
+}

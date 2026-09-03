@@ -1,0 +1,18 @@
+{
+  "modifier": "smite",
+  "text": [
+    {
+      "text": "Sức mạnh thuần túy của đất thánh cường hóa vũ khí, giáng đòn trừng phạt từ trên cao xuống kẻ địch."
+    }
+  ],
+  "effects": [
+    "Deals massive damage to undead enemies",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:hammer",
+    "tconstruct:arrow"
+  ]
+}

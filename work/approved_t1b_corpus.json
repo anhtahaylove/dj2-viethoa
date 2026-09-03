@@ -1,0 +1,6880 @@
+{
+ "candidates": 859,
+ "dropped": [],
+ "drift": [],
+ "approved": 859,
+ "rows": [
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.configurator.mode.0",
+   "en": "Set Path",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.configurator.mode.1",
+   "en": "Apply Configuration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.configurator.mode.2",
+   "en": "Clear Configurations",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.crystal",
+   "en": "Molecular formula",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.drainstaff.energy.dread",
+   "en": "Dreadlands Energy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.drainstaff.energy.omothol",
+   "en": "Omothol Energy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.drainstaff.energy.shadow",
+   "en": "Shadow Energy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.soulreaper",
+   "en": "Souls harvested",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.staff.mode.1",
+   "en": "Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.stonetablet.contents",
+   "en": "%d stacks",
+   "route": "runtime"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.stonetablet.cursed",
+   "en": "Cursed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.completeTrials",
+   "en": "A Botanist's Dream",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftCoalGen",
+   "en": "Cool Generator",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftCoffeeMachine",
+   "en": "Addiction in cups",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftCrusher",
+   "en": "Doublin' up!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftDoubleCrusher",
+   "en": "Double doublin' up!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftEmpowerer",
+   "en": "Infusion Altar",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftEnergyface",
+   "en": "Zoom, Zoom, CF!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftFireworkBox",
+   "en": "Bang Boom Bang",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftItemInterface",
+   "en": "Show your face",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftLaserRelay",
+   "en": "Relayed, not delayed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftLaserRelayAdvanced",
+   "en": "Energetic expansion",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftLaserRelayExtreme",
+   "en": "Mad with power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftLaserRelayItem",
+   "en": "Conducting information",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftLeafGen",
+   "en": "Munchdew?",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftLiquiface",
+   "en": "Zoom, Zoom, Fluids!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftPhantomface",
+   "en": "Zoom, Zoom, Items!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.craftReconstructor",
+   "en": "Bzzzzrrrrt",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.getCrystalsMilestone",
+   "en": "Reconstruction Master",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.getUnProbed",
+   "en": "Sneaky!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.makeCrystal",
+   "en": "Crystal clear",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.nameSmileyCloud",
+   "en": "Your best friend",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.openBooklet",
+   "en": "Knowledge Bringer!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.openBookletMilestone",
+   "en": "Bookworm!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.openTreasureChest",
+   "en": "Underwater Dungeon",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.actuallyadditions.pickUpCoffee",
+   "en": "Makes you addicted",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.page.actuallyadditions",
+   "en": "Actually Additions",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.edition",
+   "en": "Edition",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.hudDisplay.page",
+   "en": "Page",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.1",
+   "en": "Actually Additions",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.2",
+   "en": "Actual Additions",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.3",
+   "en": "Actually Addiction",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.4",
+   "en": "Actual Edition",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.5",
+   "en": "Actual Addition",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.6",
+   "en": "Actually Addons",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.1.7",
+   "en": "Additional Addons",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.booklet.manualName.2",
+   "en": "Manual",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.autoSplitItems.off",
+   "en": "Auto-Split Items Off",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.autoSplitItems.on",
+   "en": "Auto-Split Items On",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.coffee",
+   "en": "Coffee",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.ignoreMeta",
+   "en": "Ignoring Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.ignoreMod",
+   "en": "Mod Mode Off",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.ignoreNBT",
+   "en": "Ignoring NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.ignoreOredict",
+   "en": "Ignoring OreDictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.inbound",
+   "en": "INBOUND",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.ok",
+   "en": "Ok",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.outbound",
+   "en": "OUTBOUND",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.respectMeta",
+   "en": "Respecting Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.respectMod",
+   "en": "Mod Mode On",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.respectNBT",
+   "en": "Respecting NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.respectOredictHard",
+   "en": "Hard Respecting OreDictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.respectOredictSoft",
+   "en": "Soft Respecting OreDictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.smart",
+   "en": "Smart Whitelist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.gui.the",
+   "en": "the",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.laserRelay.energy.extra",
+   "en": "Energy Flow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.laserRelay.fluid.extra",
+   "en": "Fluid Flow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.laserRelay.item.extra",
+   "en": "Priority",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.laserRelay.mode.both",
+   "en": "Both Directions",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.noLens",
+   "en": "No Lens",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.placer.sides.1",
+   "en": "Placement Sides",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.redstoneMode.deactivation",
+   "en": "Deactivation",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.redstoneMode.name",
+   "en": "Redstone Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.actuallyadditions.redstoneMode.pulse",
+   "en": "Pulse",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.actuallyadditions.disabled",
+   "en": "Disabled Object",
+   "route": "runtime"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "jar": "ActuallyAdditions-1.12.2-r152.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.actuallyadditions.previouslyBag",
+   "en": "Previously \"Bag\"",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.analyzer",
+   "en": "Specimen",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.closed",
+   "en": "Closed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.discoveredSeeds",
+   "en": "Discovered Seeds",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.gain",
+   "en": "Gain",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.growth",
+   "en": "Growth",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.growthStage",
+   "en": "Growthstage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.material",
+   "en": "Material",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.mature",
+   "en": "Mature",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.none",
+   "en": "none",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.open",
+   "en": "Open",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.seed",
+   "en": "Seed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.soil",
+   "en": "Soil",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.state",
+   "en": "State",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.storage",
+   "en": "Locked Seed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.strength",
+   "en": "Strength",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.unidentified",
+   "en": "Unidentified",
+   "route": "runtime"
+  },
+  {
+   "namespace": "agricraft",
+   "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+   "english_locale": "en_us.lang",
+   "key": "agricraft_tooltip.waterLevel",
+   "en": "Water level",
+   "route": "runtime"
+  },
+  {
+   "namespace": "astralsorcery",
+   "jar": "astralsorcery-1.12.2-1.10.27.jar",
+   "english_locale": "en_US.lang",
+   "key": "config.astralsorcery.category.astralsorcery.tooltip",
+   "en": "General Configuration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "astralsorcery",
+   "jar": "astralsorcery-1.12.2-1.10.27.jar",
+   "english_locale": "en_US.lang",
+   "key": "jei.additional_info.starlight",
+   "en": "+ starlight",
+   "route": "runtime"
+  },
+  {
+   "namespace": "atum",
+   "jar": "Atum-1.12.2-2.0.20.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.atum.minutesRemaining",
+   "en": "%d Minutes Remaining",
+   "route": "runtime"
+  },
+  {
+   "namespace": "atum",
+   "jar": "Atum-1.12.2-2.0.20.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.atum.usesRemaining",
+   "en": "%d Uses Remaining",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.box_of_sealed_evil",
+   "en": "Surprise Mechanics~",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.contract_bound",
+   "en": "Bound to %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.contract_items",
+   "en": "%d/%d %s Obtained",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.devouring_rage_entities",
+   "en": "%d/%d Livestocks Killed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.poppet.bound",
+   "en": "Bound to %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.silver_armor_description.name",
+   "en": "Protects against undead",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.bewitchment.waystone.unbound",
+   "en": "Not bound",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.lantern_lit",
+   "en": "Lit",
+   "route": "runtime"
+  },
+  {
+   "namespace": "bewitchment",
+   "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.leonards_wand.uses",
+   "en": "%d uses remaining",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.anchorremove",
+   "en": "Anchor Removed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.anchorrender",
+   "en": "Render Anchored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.building.placement.atop",
+   "en": "On Top",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.building.placement.inside",
+   "en": "Inside",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.connectedarea",
+   "en": "Connected Area",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.connectedsurface",
+   "en": "Connected Surface",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.copied",
+   "en": "Area Copied",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.fuzzymode",
+   "en": "Fuzzy Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.invalidblock",
+   "en": "Invalid Block",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.mirrored",
+   "en": "Blocks Mirrored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.raytrace_fluid",
+   "en": "Raytracing Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.rotated",
+   "en": "Blocks Rotated",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.gadget.toolrange",
+   "en": " Tool Range",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.anchor",
+   "en": "Anchor",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.block",
+   "en": "Block",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.connected",
+   "en": "Connected",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.connected_area",
+   "en": "Connected Area",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.connected_surface",
+   "en": "Connected Surface",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.copypaste.opengui",
+   "en": "Edit Placement",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.destroy.overlay",
+   "en": "Overlay",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.destroyshowoverlay",
+   "en": "Showing Overlay",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.energy",
+   "en": "Energy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.fuzzy",
+   "en": "Fuzzy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.mirror",
+   "en": "Mirror",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.mode",
+   "en": "Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.range",
+   "en": "Range",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.raytrace_fluid",
+   "en": "Raytrace Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.rotate",
+   "en": "Rotate",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.gadget.undo",
+   "en": "Undo",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.pasteContainer.amount",
+   "en": "Amount",
+   "route": "runtime"
+  },
+  {
+   "namespace": "buildinggadgets",
+   "jar": "BuildingGadgets-2.8.4.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.template.name",
+   "en": "Name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "chat.cofh.command.reloadworldgen.syntax",
+   "en": "/cofh reloadworldgen",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "chat.cofh.command.unloadchunk.syntax",
+   "en": "/cofh unloadchunk",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "chat.cofh.command.version.syntax",
+   "en": "/cofh version",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.access",
+   "en": "Access",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.accessPrivate",
+   "en": "Owner Only",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.accessPublic",
+   "en": "Public Access",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.accessRestricted",
+   "en": "Restricted",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.accessTeam",
+   "en": "Team Only",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.amount",
+   "en": "Amount",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.anotherplayer",
+   "en": "Another Player",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.area",
+   "en": "Area",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.arrows",
+   "en": "Arrows",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.augmentation",
+   "en": "Augmentation",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.blank",
+   "en": "Blank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.capacity",
+   "en": "Capacity",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.chance",
+   "en": "Chance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.charge",
+   "en": "Charge",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.configuration",
+   "en": "Configuration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.contents",
+   "en": "Contents",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.controlStatus",
+   "en": "Control Status",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.damageAttack",
+   "en": "Attack Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.damageFlux",
+   "en": "Flux Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.disabled",
+   "en": "Disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.duration",
+   "en": "Duration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.empty",
+   "en": "Empty",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.enabled",
+   "en": "Enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.energy",
+   "en": "Energy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.energyConsume",
+   "en": "Power Usage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.energyMax",
+   "en": "Maximum Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.energyProduce",
+   "en": "Power Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.energyStored",
+   "en": "Energy Stored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.experience",
+   "en": "Experience",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter",
+   "en": "Filter",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.list.off",
+   "en": "Blacklist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.list.on",
+   "en": "Whitelist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.metadata.off",
+   "en": "Ignore Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.metadata.on",
+   "en": "Use Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.nbt.off",
+   "en": "Ignore NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.nbt.on",
+   "en": "Use NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.oreDict.off",
+   "en": "Ignore Ore Dictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.filter.oreDict.on",
+   "en": "Use Ore Dictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.fluid",
+   "en": "Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.fluids",
+   "en": "Fluids",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.high",
+   "en": "High",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.ignored",
+   "en": "Ignored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.infinite",
+   "en": "Infinite",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.infiniteEnergy",
+   "en": "Infinite RF",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.infiniteFluid",
+   "en": "Infinite Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.infiniteSource",
+   "en": "Infinite Source",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.input",
+   "en": "Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.item",
+   "en": "Item",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.items",
+   "en": "Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.level",
+   "en": "Level",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.locked",
+   "en": "Locked",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.low",
+   "en": "Low",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.modeChange",
+   "en": "to Change Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.none",
+   "en": "None",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.output",
+   "en": "Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.owner",
+   "en": "Owner",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.perUse",
+   "en": "Per Use",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.potency",
+   "en": "Potency",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.radius",
+   "en": "Radius",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.receive",
+   "en": "Receive",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.redstoneControl",
+   "en": "Redstone Control",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.security",
+   "en": "Security",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.send",
+   "en": "Send",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.signalDisabled",
+   "en": "Signal: §4Disabled§r",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.signalEnabledHigh",
+   "en": "Signal: §aEnabled§7, High§r",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.signalEnabledLow",
+   "en": "Signal: §aEnabled§7, Low§r",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.signalRequired",
+   "en": "Signal Required",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.steam",
+   "en": "Steam",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.steamConsume",
+   "en": "Steam Usage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.steamMax",
+   "en": "Maximum Steam",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.steamProduce",
+   "en": "Steam Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.steamStored",
+   "en": "Steam Stored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.stored",
+   "en": "Stored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.tutorial",
+   "en": "Tutorial",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.unlocked",
+   "en": "Unlocked",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cofh",
+   "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.cofh.upgradeRequired",
+   "en": "Upgrade Required",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.cyclopscore.command.invalidArguments",
+   "en": "Invalid Arguments",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.cyclopscore.command.invalidSubcommand",
+   "en": "Invalid Subcommand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.biome.tooltip",
+   "en": "Biome generation settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.block.tooltip",
+   "en": "Block settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.core.tooltip",
+   "en": "Core settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.enchantment.tooltip",
+   "en": "Enchantment settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.entity.tooltip",
+   "en": "Entity settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.fluid.tooltip",
+   "en": "Fluid settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.general.tooltip",
+   "en": "General settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.item.tooltip",
+   "en": "Item settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.machine.tooltip",
+   "en": "Machine settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.mob.tooltip",
+   "en": "Mob settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.cyclopscore.potion.tooltip",
+   "en": "Potion settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "cyclopscore",
+   "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "general.cyclopscore.info.enabled",
+   "en": "§aEnabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.karos.laugh",
+   "en": "Hahahaha",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ammo.infinite",
+   "en": "Infinite Ammo",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.arcana",
+   "en": "Consumes %s Arcana",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.arcana.regen",
+   "en": "Replenishes %s Arcana",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.arcana_regen",
+   "en": "Arcana Regeneration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.block_protection",
+   "en": "Block Damage Protection",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.damage_reduction",
+   "en": "%s%% Damage Reduction",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.explosion_protection",
+   "en": "Explosion Protection",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.fire_protection",
+   "en": "Fire Protection",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.fly",
+   "en": "Flight",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.health_regen",
+   "en": "Health Regeneration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.hunger",
+   "en": "Refills Hunger",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.iceika",
+   "en": "Iceika",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.massive_buff",
+   "en": "Massive Buff",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.melee_damage",
+   "en": "+%s Melee Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.night_vision",
+   "en": "Night Vision",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.poison_protection",
+   "en": "Poison Resistance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.ranged_damage",
+   "en": "+%s%% Ranged Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.step_assist",
+   "en": "Step Assist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.swim",
+   "en": "Swim Faster",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.underwater",
+   "en": "Breathe Underwater",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.armor_info.wither_protection",
+   "en": "Wither Protection",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.damage.arcana",
+   "en": "%s Arcana Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.damage.melee",
+   "en": "%s Melee Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.damage.ranged",
+   "en": "%s Ranged Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.dimension",
+   "en": "Dimension: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.food.heal",
+   "en": "Replenishes %s Health",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.food.pet",
+   "en": "Pet Food",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.food.saturation",
+   "en": "%s Saturation",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ghostbane.damage",
+   "en": "13 Attack Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ghostbane.health",
+   "en": "20 Health",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.instant_consumption",
+   "en": "Instant Consumption",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.noblock",
+   "en": "Cannot Block",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.noprotection",
+   "en": "No Protection",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.serenade_striker",
+   "en": "Shoots Lightning",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.shots.explosive",
+   "en": "Explosive Projectiles",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.shots.homing",
+   "en": "Homing Projectiles",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.staff.bounce",
+   "en": "Bouncing Projectile",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.uses",
+   "en": "%s Uses Remaining",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.uses.infinite",
+   "en": "Infinite Uses",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.uses.single",
+   "en": "Single Use",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.vethean",
+   "en": "Vethean",
+   "route": "runtime"
+  },
+  {
+   "namespace": "divinerpg",
+   "jar": "DivineRPG-1.7.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.vilestorm",
+   "en": "Poisons Enemies",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.awakenedblock",
+   "en": "It’s all in the ritual!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.chest",
+   "en": "Never enough Storage!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.core",
+   "en": "This is where it begins",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.core2",
+   "en": "Not Good Enough!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.core3",
+   "en": "Expense vs. Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dChest",
+   "en": "Fly like an eagle!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.daxe",
+   "en": "One giant Chop for tree Kind!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dboots",
+   "en": "Higher and Higher!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dbow",
+   "en": "Now you’re playing with Power!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dhelm",
+   "en": "Gliding through water!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dhoe",
+   "en": "Kick it up a Notch! -BAM-",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dislocator",
+   "en": "Endermen got nothin’",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dislocator2",
+   "en": "Ender-ruler!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dissenchanter",
+   "en": "Only What I Want!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dleggs",
+   "en": "Dance like a Butterfly!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dpick",
+   "en": "Mine With Authority!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dshovel",
+   "en": "Moving Mountains",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dstaff",
+   "en": "With your powers combined!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dsword",
+   "en": "Sting Like a Bee!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.dust",
+   "en": "The Start of something BIG!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.ecore",
+   "en": "It keeps going, and going, and going",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.flux",
+   "en": "1.21 jiggawatts!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.flux2",
+   "en": "Phenomenal Cosmic Power! itty bitty living space.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.heart",
+   "en": "Heart of the Dragon!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.ingot",
+   "en": "Better than Diamond!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.manual",
+   "en": "Knowledge to the Max!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.particles",
+   "en": "OOOOH Sparkles!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.resurrection",
+   "en": "Brimming with Antici-pation!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.soul",
+   "en": "Reaper!!!!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.sundial",
+   "en": "Timekeeper",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wboots",
+   "en": "Feather Fall",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wbow",
+   "en": "Snipers at the Ready!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wchest",
+   "en": "High Resistance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.weather",
+   "en": "Who Needs Mother Nature",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.whelm",
+   "en": "Free Breathing!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wleggs",
+   "en": "Run like the wind",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wpick",
+   "en": "Nothing like Diamond",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wshovel",
+   "en": "Pro Digger!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.draconicevolution.wsword",
+   "en": "Better Weaponry",
+   "route": "runtime"
+  },
+  {
+   "namespace": "draconicevolution",
+   "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "draconicevolution.achievementPage.name",
+   "en": "Draconic Evolution",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.timer",
+   "en": "Startup took %sm %ss.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.update.desc",
+   "en": "Make sure you visit the modpack page soon to grab the latest. Update so you don't miss out on the new goodies the developers have added!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.update.mainmenu",
+   "en": "Continue to Main Menu",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.update.newversion",
+   "en": "-> Available Version: [ %s ]",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.update.oldversion",
+   "en": "-> Current Version: [ %s ]",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.update.openurl",
+   "en": "More Info (Opens Browser!)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "jar": "endermodpacktweaks-0.5.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.endermodpacktweaks.update.title",
+   "en": "An update is available for %s!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.tooltip.item.selectedlinkcrystal.short",
+   "en": "LC:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "enderutilities",
+   "jar": "enderutilities-1.12.2-0.7.15.jar",
+   "english_locale": "en_us.lang",
+   "key": "enderutilities.tooltip.item.selectedmemorycard.short",
+   "en": "MC:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "erebus",
+   "jar": "Erebus-1.0.32.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.erebus.dimension",
+   "en": "Dimension: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "erebus",
+   "jar": "Erebus-1.0.32.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.erebus.gliderglidekey",
+   "en": "Gliding Key",
+   "route": "runtime"
+  },
+  {
+   "namespace": "erebus",
+   "jar": "Erebus-1.0.32.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.erebus.gliderpoweredkey",
+   "en": "Flying Key",
+   "route": "runtime"
+  },
+  {
+   "namespace": "erebus",
+   "jar": "Erebus-1.0.32.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.erebus.sprintleggingstier",
+   "en": "Tier %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "erebus",
+   "jar": "Erebus-1.0.32.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.erebus.whetstone_2",
+   "en": "Un-enchanted",
+   "route": "runtime"
+  },
+  {
+   "namespace": "erebus",
+   "jar": "Erebus-1.0.32.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.erebus.whetstonesharpness",
+   "en": "Sharpness Level %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "evilcraft",
+   "jar": "EvilCraft-1.12.2-0.10.78.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.evilcraft.boss_display.charge",
+   "en": "%s Charge",
+   "route": "runtime"
+  },
+  {
+   "namespace": "evilcraft",
+   "jar": "EvilCraft-1.12.2-0.10.78.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.evilcraft.command.farting_disabled",
+   "en": "Farting disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "evilcraft",
+   "jar": "EvilCraft-1.12.2-0.10.78.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.evilcraft.command.farting_enabled",
+   "en": "Farting enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.crafting_table",
+   "en": "Decoration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.eject",
+   "en": "Eject",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.empty",
+   "en": "Empty",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.lamp_glowstone",
+   "en": "Glowstone",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.lamp_luminessence",
+   "en": "Luminessence",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.limited_input",
+   "en": "Limited Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.num_items",
+   "en": "%s Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.trimmed_crystaltine",
+   "en": "Crystaltine Trimmed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.trimmed_diamond",
+   "en": "Diamond Trimmed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.trimmed_emerald",
+   "en": "Emerald Trimmed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.trimmed_gold",
+   "en": "Gold Trimmed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.trimmed_iron",
+   "en": "Iron Trimmed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.trimmed_ultimate",
+   "en": "Ultimate Trimmed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.ec.unlimited_input",
+   "en": "Unlimited Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.boomerang",
+   "en": "Boomerang",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.builders.wand",
+   "en": "Builders Wand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.chunk.loader",
+   "en": "Chunk Loader",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.crusher",
+   "en": "Crusher",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.cursed.lasso",
+   "en": "Cursed Lasso",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.destruction.wand",
+   "en": "Destruction Wand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.dye.of.the.moon",
+   "en": "Dye of the Moon",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.fire.mill",
+   "en": "Fire Mill",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.furnace",
+   "en": "Furnace",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.generator",
+   "en": "Generator",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.golden.lasso",
+   "en": "Golden Lasso",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.indexer",
+   "en": "Indexer",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.lava.generator",
+   "en": "Lava Generator",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.lava.xumachinegenerators",
+   "en": "Lava XUMachineGenerators",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.luminescent.potential",
+   "en": "Luminescent Potential",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.lunar.panel",
+   "en": "Lunar Panel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.machina.magnifica",
+   "en": "Machina Magnifica",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.magical.wood",
+   "en": "Magical Wood",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.manual.mill",
+   "en": "Manual Mill",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.mining.upgrade",
+   "en": "Mining Upgrade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.pipes",
+   "en": "Pipes!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.power.resonator",
+   "en": "Power Resonator",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.powered.coal",
+   "en": "Powered Coal",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.powered.glass",
+   "en": "Powered Glass",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.powered.stone",
+   "en": "Powered Stone",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.remote.indexing",
+   "en": "Remote Indexing",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.screen",
+   "en": "Screen",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.solar.panel",
+   "en": "Solar Panel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.speed.upgrade",
+   "en": "Speed Upgrade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.spotlight",
+   "en": "Spotlight",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.stack.upgrade",
+   "en": "Stack Upgrade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.sun.crystal",
+   "en": "Sun Crystal",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.techtree.start",
+   "en": "Tech-Tree Start",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.transfer.node.upgrades",
+   "en": "Transfer Node Upgrades",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.transfer.nodes",
+   "en": "Transfer Nodes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.villager.contract",
+   "en": "Villager Contract",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.water.mill",
+   "en": "Water Mill",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.wind.mill",
+   "en": "Wind Mill",
+   "route": "runtime"
+  },
+  {
+   "namespace": "extrautils2",
+   "jar": "extrautils2-1.12-1.9.9.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.xu2.wrench",
+   "en": "Wrench",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftblib",
+   "jar": "FTBLib-5.4.7.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.team.info.id",
+   "en": "ID: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftblib",
+   "jar": "FTBLib-5.4.7.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.team.info.members",
+   "en": "Members: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftblib",
+   "jar": "FTBLib-5.4.7.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.team.info.owner",
+   "en": "Owner: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftblib",
+   "jar": "FTBLib-5.4.7.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.team.info.uid",
+   "en": "UID: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftblib",
+   "jar": "FTBLib-5.4.7.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.team.info.usage",
+   "en": "/team info <team>",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftblib",
+   "jar": "FTBLib-5.4.7.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.team.msg.usage",
+   "en": "/team msg <message...>",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "jar": "FTBUtilities-5.4.1.131.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.chunks.info.not_claimed",
+   "en": "Not claimed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "jar": "FTBUtilities-5.4.1.131.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.chunks.info.text",
+   "en": "Chunk %d:%d in %s: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "jar": "FTBUtilities-5.4.1.131.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.chunks.info.usage",
+   "en": "/chunks info",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "jar": "FTBUtilities-5.4.1.131.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.ranks.info.usage",
+   "en": "/ranks info <rank|player>",
+   "route": "runtime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "jar": "FTBUtilities-5.4.1.131.jar",
+   "english_locale": "en_us.lang",
+   "key": "commands.server_info.usage",
+   "en": "/server_info",
+   "route": "runtime"
+  },
+  {
+   "namespace": "galacticraftplanets",
+   "jar": "Galacticraft-1.12.2-4.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "achievement.asteroids",
+   "en": "To The Asteroid Belt",
+   "route": "runtime"
+  },
+  {
+   "namespace": "galacticraftplanets",
+   "jar": "Galacticraft-1.12.2-4.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "achievement.mars",
+   "en": "To Mars!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "galacticraftplanets",
+   "jar": "Galacticraft-1.12.2-4.0.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "achievement.venus",
+   "en": "To Venus!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "hammercore",
+   "jar": "HammerLib-1.12.2-12.2.58.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.hammercore:newversion.clickdwn",
+   "en": "Download",
+   "route": "runtime"
+  },
+  {
+   "namespace": "hammercore",
+   "jar": "HammerLib-1.12.2-12.2.58.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.hammercore:changed_mode",
+   "en": "Charging",
+   "route": "runtime"
+  },
+  {
+   "namespace": "hammercore",
+   "jar": "HammerLib-1.12.2-12.2.58.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.hammercore:energy_stored",
+   "en": "RF Stored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "hammercore",
+   "jar": "HammerLib-1.12.2-12.2.58.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.hammercore:witherproof",
+   "en": "Wither-proof",
+   "route": "runtime"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "jar": "ImmersiveEngineering-0.12-98.jar",
+   "english_locale": "en_us.lang",
+   "key": "desc.immersiveengineering.info.chance",
+   "en": "Chance:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "jar": "ImmersiveEngineering-0.12-98.jar",
+   "english_locale": "en_us.lang",
+   "key": "desc.immersiveengineering.info.mininglvl.2",
+   "en": "§cRedstone",
+   "route": "runtime"
+  },
+  {
+   "namespace": "immersiveengineering",
+   "jar": "ImmersiveEngineering-0.12-98.jar",
+   "english_locale": "en_us.lang",
+   "key": "desc.immersiveengineering.info.mininglvl.3",
+   "en": "§dObsidian",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "conveyor.upgrade.error.name",
+   "en": "Invalid Conveyor Upgrade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "jar": "IntegratedTunnels-1.12.2-1.6.14.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.integratedtunnels.capability.tooltip",
+   "en": "Capability settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "jar": "IntegratedTunnels-1.12.2-1.6.14.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.integratedtunnels.core.tooltip",
+   "en": "Core settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "jar": "IntegratedTunnels-1.12.2-1.6.14.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.integratedtunnels.general.tooltip",
+   "en": "General settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.tooltipSearchMode",
+   "en": "#Tooltip",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.tooltipSearchMode.comment",
+   "en": "Search mode for Tooltips (prefix: #)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jeresources",
+   "jar": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+   "english_locale": "en_us.lang",
+   "key": "jer.config.hiddenTabs.description",
+   "en": "Tabs added by JER are 'dungeon', 'enchantment', 'mob', 'villager', worldgen' and 'plant'",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.config.tooltip_format",
+   "en": "%1$s%2$s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftBattery",
+   "en": "Lightning on the Go",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftCell",
+   "en": "A Powerful Battery Indeed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftCrusher",
+   "en": "The Daily Grind",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftFurnace",
+   "en": "Call Me Chef Thor",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftGenerator",
+   "en": "Give Me More Power!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftGuide",
+   "en": "Knowledge is Key",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftInfuser",
+   "en": "Voltaic Artifice",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftKinetic",
+   "en": "Going Mobile",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftMiner",
+   "en": "Automation is Key",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftReallocator",
+   "en": "Enchanting Wizard",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftRod",
+   "en": "An Electrifying Start!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftTerminal",
+   "en": "Channeling the Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:craftWireless",
+   "en": "Spreading Out",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:getElectricium",
+   "en": "High Voltage Hardware",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:infuseMystic",
+   "en": "Underworld Champion",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:infuseSkyfather",
+   "en": "Angering the Gods",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:infuseSpecialSword",
+   "en": "Stonebound Infusion",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:killDemon",
+   "en": "To Resist the Gods",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:mineUnderworldOre",
+   "en": "A Dark Land of Riches!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:mysticArmor",
+   "en": "One With the Gods",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:mysticHammer",
+   "en": "Divine Overkill",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:perfectCell",
+   "en": "Perfect Cell",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:reachUnderworld",
+   "en": "To Step Into the Abyss",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:specialSwordKill",
+   "en": "Stone Unleashed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:swingGolfClub",
+   "en": "Par for the Course",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "achievement.lightningcraft:upgradeCell",
+   "en": "Supermachinery",
+   "route": "runtime"
+  },
+  {
+   "namespace": "lightningcraft",
+   "jar": "lightningcraft-2.9.7_1.jar",
+   "english_locale": "en_US.lang",
+   "key": "subtitle.mob.underworld_ghast.warn",
+   "en": "Underghast fires",
+   "route": "runtime"
+  },
+  {
+   "namespace": "loottweaker",
+   "jar": "LootTweaker-0.4.1+MC1.12.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "loottweaker.config.warnings.category",
+   "en": "Warnings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "loottweaker",
+   "jar": "LootTweaker-0.4.1+MC1.12.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "loottweaker.config.warnings.deprecation",
+   "en": "Deprecation",
+   "route": "runtime"
+  },
+  {
+   "namespace": "loottweaker",
+   "jar": "LootTweaker-0.4.1+MC1.12.2.jar",
+   "english_locale": "en_us.lang",
+   "key": "loottweaker.config.warnings.newTableMinecraftNamespace",
+   "en": "newTable() Minecraft Namespace",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mekanism",
+   "jar": "Mekanism-1.12.2-9.8.3.390.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.hp",
+   "en": "HP",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modulardiversity",
+   "jar": "Modular Diversity-1.8.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.anchor.spawn",
+   "en": "From spawnpoint",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modulardiversity",
+   "jar": "Modular Diversity-1.8.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.x.exact",
+   "en": "x%1$s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modulardiversity",
+   "jar": "Modular Diversity-1.8.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.y.exact",
+   "en": "y%1$s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modulardiversity",
+   "jar": "Modular Diversity-1.8.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.z.exact",
+   "en": "z%1$s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.energy.type.fe",
+   "en": "FE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.energy.type.gt_eu",
+   "en": "EU",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.energy.type.ic2_eu",
+   "en": "EU",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.energyhatch.ic2.any",
+   "en": "Any",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.energyhatch.ic2.powerrate",
+   "en": "EU/t",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.energyhatch.storage",
+   "en": "Stores %s FE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.fluidhatch.empty",
+   "en": "Empty",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.fluidhatch.fluid",
+   "en": "[Fluid]",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.fluidhatch.gas",
+   "en": "[Gas]",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.fluidhatch.tank",
+   "en": "%smb / %smb",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.fluidhatch.tank.gas",
+   "en": "%s / %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.0.name",
+   "en": "ULV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.1.name",
+   "en": "LV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.10.name",
+   "en": "UEV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.11.name",
+   "en": "UIV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.12.name",
+   "en": "UXV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.2.name",
+   "en": "MV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.3.name",
+   "en": "HV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.4.name",
+   "en": "EV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.5.name",
+   "en": "IV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.6.name",
+   "en": "LuV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.7.name",
+   "en": "ZPM",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.8.name",
+   "en": "UV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ic2.powertier.9.name",
+   "en": "UHV",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.itembus.slot",
+   "en": "1 Slot",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.itembus.slots",
+   "en": "%s Slots",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.machinery.blueprint.required",
+   "en": "Requires Blueprint",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.machinery.blueprint.upgrades",
+   "en": "Upgrades",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.machinery.empty",
+   "en": "Empty",
+   "route": "runtime"
+  },
+  {
+   "namespace": "modularmachinery",
+   "jar": "modularmachinery-1.12.2-1.10.0.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.machinery.fuel.item",
+   "en": "BurnTime: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.absorption",
+   "en": "Absorption",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.antivenom",
+   "en": "Antivenom",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.applicable_to",
+   "en": "Applicable To",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.attack_aoe",
+   "en": "Attack AOE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.axe",
+   "en": "Axe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.blast_resistant",
+   "en": "Blast Resistant",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.boots",
+   "en": "Boots",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.bow",
+   "en": "Bow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.burn_time",
+   "en": "Burn Time",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.charm_slot",
+   "en": "Charm Slot",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.chestplate",
+   "en": "Chestplate",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.craftable",
+   "en": "Craftable",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.damage",
+   "en": "Damage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.draw_speed",
+   "en": "Draw Speed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.drop_chance",
+   "en": "Drop Chance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.durability",
+   "en": "Durability",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.efficiency",
+   "en": "Efficiency",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.empty",
+   "en": "Empty",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.fire_resistance",
+   "en": "Fire Resistance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.flight",
+   "en": "Flight",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.for",
+   "en": "for",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.gives_buffs",
+   "en": "Gives Buffs",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.gives_debuffs",
+   "en": "Gives Debuffs",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.helmet",
+   "en": "Helmet",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.hoe",
+   "en": "Hoe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.hold",
+   "en": "Hold",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.inferium",
+   "en": "Inferium",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.intermedium",
+   "en": "Intermedium",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.jump_boost",
+   "en": "Jump Boost",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.leggings",
+   "en": "Leggings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.material",
+   "en": "Material",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.miners_vision",
+   "en": "Miner's Vision",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.mining_aoe",
+   "en": "Mining AOE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.night_vision",
+   "en": "Night Vision",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.pickaxe",
+   "en": "Pickaxe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.prudentium",
+   "en": "Prudentium",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.quick_draw",
+   "en": "Quick Draw",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.rainbow",
+   "en": "Rainbow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.range",
+   "en": "Range",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.reaping_aoe",
+   "en": "Reaping AOE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.resistance",
+   "en": "Resistance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.scythe",
+   "en": "Scythe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.scything_aoe",
+   "en": "Scything AOE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.set_bonus",
+   "en": "Set Bonus",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.shearing_aoe",
+   "en": "Shearing AOE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.shears",
+   "en": "Shears",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.shovel",
+   "en": "Shovel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.sickle",
+   "en": "Sickle",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.speed",
+   "en": "Speed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.step_assist",
+   "en": "Step Assist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.strength",
+   "en": "Strength",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.strength2",
+   "en": "Strength 2",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.superium",
+   "en": "Superium",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.supremium",
+   "en": "Supremium",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.sword",
+   "en": "Sword",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.tier",
+   "en": "Tier",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.tilling_aoe",
+   "en": "Tilling AOE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.triple_shot",
+   "en": "Triple Shot",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.unlimited",
+   "en": "Unlimited",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.uses_left",
+   "en": "Uses Left",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.water_breathing",
+   "en": "Water Breathing",
+   "route": "runtime"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.ma.wither_resistance",
+   "en": "Wither Resistance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.crashes.errorNotificationDuration",
+   "en": "Error Notification Duration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.crashes.problemAction.warningScreen",
+   "en": "Warning Screen",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph1.line1",
+   "en": "Minecraft did not crash, but there may still be issues such",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph1.line2",
+   "en": "as world corruption, broken features, or further crashes.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph1.line3",
+   "en": "Possible causes have been identified:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph3.line1",
+   "en": "If this is a modpack, report the link to the pack's author;",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph3.line2",
+   "en": "otherwise, you're encouraged to report the link to the",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph3.line3",
+   "en": "identified mod's author(s) to help them fix the issue.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph3.line4",
+   "en": "You can keep playing but may encounter errors. This warning",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.new.paragraph3.line5",
+   "en": "can be disabled in Mods > FermiumASM > Config > Crashes.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph1.line1",
+   "en": "This did not cause a crash, but there will likely still be",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph1.line2",
+   "en": "consequences such as world corruption or broken features.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph1.line3",
+   "en": "The following mod(s) have been identified as potential causes:",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph3.line1",
+   "en": "Click the \"Get link\" button to open it in your browser. You're",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph3.line2",
+   "en": "encouraged to send this report to the mod's author to help",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph3.line3",
+   "en": "them fix the issue. You can keep playing, but be aware that",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph3.line4",
+   "en": "you will likely encounter some problems later on. This warning",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.paragraph3.line5",
+   "en": "can be disabled in Mods > FermiumASM > Config > Crashes.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.summary",
+   "en": "Minecraft ran into a problem.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "normalasm",
+   "jar": "fermiumasm-5.31.jar",
+   "english_locale": "en_us.lang",
+   "key": "normalasm.warnscreen.title",
+   "en": "Potential problem found!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "patchouli",
+   "jar": "Patchouli-1.0-23.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "patchouli.gui.lexicon.progress_tooltip.secret",
+   "en": "Plus %d Secrets",
+   "route": "runtime"
+  },
+  {
+   "namespace": "patchouli",
+   "jar": "Patchouli-1.0-23.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "patchouli.gui.lexicon.progress_tooltip.secret1",
+   "en": "Plus 1 Secret",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.edit_repo_loc.info",
+   "en": "In order to use edit mode you must clone the documentation repository and specify the location of the cloned ModDocs folder",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.et_fluid.info",
+   "en": "If false the \"Explain This\" function will ignore fluids unless there are no other blocks within reaching distance.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.max_tabs.info",
+   "en": "This setting allows you to set the maximum number of tabs that can be opened simultaneously.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.reload_documentation.info",
+   "en": "Checks for and downloads any documentation updates then reloads the GUI.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.reload_from_disk.info",
+   "en": "Reloads all documentation from disk.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.set_pi_language.info",
+   "en": "By default PI uses whatever language minecraft is using but this option allows you to override that and set a custom language.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "projectintelligence",
+   "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "pi.config.set_pi_language_note.info",
+   "en": "Please note. Many languages will most likely not be supported by some mods. If you would like to help with translations learn how you can help by checking out the PI main page.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "commands.rc.large.error",
+   "en": "The selection is too big! (And if it weren't, this command would probably take a few days to run!)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "commands.rc.large.warn",
+   "en": "The selection is very big! This might take a while.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "commands.rcsightinfo.get",
+   "en": "%s %s, ID: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "commands.rcsightinfo.lookup",
+   "en": "Sight Info",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "commands.rcsightinfo.structure",
+   "en": "%s %s, Seed: %s, ID: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "commands.rcsightinfo.unknown",
+   "en": "Unknown sight UUID!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.configgui.ctgy.general.tooltip",
+   "en": "General Settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.configgui.ctgy.visual.tooltip",
+   "en": "Visual Settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration",
+   "en": "Vanilla Decoration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.title",
+   "en": "Vanilla Decoration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.big_mushroom",
+   "en": "Big Mushroom",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.big_mushroom.tooltip",
+   "en": "Big Mushrooms",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.cactus",
+   "en": "Cactus",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.cactus.tooltip",
+   "en": "Cacti",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.desert_well",
+   "en": "Desert Well",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.fossil",
+   "en": "Fossil",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.fossil.tooltip",
+   "en": "Fossils",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.mineshaft",
+   "en": "Mineshaft",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.nether_bridge",
+   "en": "Nether Bridge Fortress",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.ocean_monument",
+   "en": "Ocean Monument",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.scattered_feature",
+   "en": "Scattered Feature",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.stronghold",
+   "en": "Stronghold",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.tree",
+   "en": "Tree",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.tree.tooltip",
+   "en": "Trees",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.decoration.types.village",
+   "en": "Village",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent",
+   "en": "Maze Component",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.exits",
+   "en": "Exits",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.mazeid",
+   "en": "Maze ID",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.path.invert",
+   "en": "Invert",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.path.side",
+   "en": "Side",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.position.x",
+   "en": "Position (x)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.position.y",
+   "en": "Position (y)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.position.z",
+   "en": "Position (z)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.reachability",
+   "en": "Reachability",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.rooms",
+   "en": "Rooms",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.mazeComponent.title",
+   "en": "In Maze: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.natural",
+   "en": "Natural",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.natural.category",
+   "en": "Category",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.natural.limitation.context.dimension",
+   "en": "Per Dimension",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.natural.limitation.context.world",
+   "en": "Per World",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.natural.limitation.context.x_chunks",
+   "en": "Every X Chunks",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.natural.limitations",
+   "en": "Limitations",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.sapling",
+   "en": "Sapling",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.sapling.title",
+   "en": "Sapling",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static",
+   "en": "Static",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.pattern",
+   "en": "Pattern",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.pattern.repeat.x",
+   "en": "Repeat (x)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.pattern.repeat.z",
+   "en": "Repeat (y)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.pattern.rshift.x",
+   "en": "Random shift (x)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.pattern.rshift.z",
+   "en": "Random shift (z)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.spawn",
+   "en": "From Spawn",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.summary.nospawn",
+   "en": "At %s, %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.summary.pattern",
+   "en": "Every %s, %s blocks",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.static.summary.spawn",
+   "en": "From Spawn %s, %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.structureList",
+   "en": "Structure List",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.structureList.front",
+   "en": "Front",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.structureList.id",
+   "en": "List ID",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.structureList.title",
+   "en": "In List %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla",
+   "en": "In Structure",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla.amount.pervillage",
+   "en": "Amount (per v.)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla.amount.scaled",
+   "en": "Amount (scaled)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla.front",
+   "en": "Front",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla.title",
+   "en": "In Complex Structure",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla.type",
+   "en": "Type",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.generationInfo.vanilla.type.village",
+   "en": "Village",
+   "route": "runtime"
+  },
+  {
+   "namespace": "reccomplex",
+   "jar": "RecurrentComplex-1.4.8.6.jar",
+   "english_locale": "en_US.lang",
+   "key": "reccomplex.preset.description",
+   "en": "Description",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.analog",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.booster",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.builder",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.coalgenerator",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.composer",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.counter",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.digit",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.elevator",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.endergenic",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.environmental_controller",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.infuser",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.invchecker",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.itemfilter",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.liquid_monitor",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.locator",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.pearl_injector",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.projector",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.relay",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.remote_scanner",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.rf_monitor",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.scanner",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.security_manager",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.sensor",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.sequencer",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.shiftmessage",
+   "en": "<Press Shift>",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.spawner",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.threelogic",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.timer",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "rftools",
+   "jar": "rftools-1.12-7.73.jar",
+   "english_locale": "en_us.lang",
+   "key": "message.rftools.wire",
+   "en": "\\",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.disabled",
+   "en": "disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.enabled",
+   "en": "enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.fluxpack.engine_mode",
+   "en": "Fluxpack Engine %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.jetpack.charger_mode",
+   "en": "Charger Mode %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.jetpack.engine_mode",
+   "en": "Jetpack Engine %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.jetpack.hover_mode",
+   "en": "Hover Mode %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "chat.simplyjetpacks.not_available",
+   "en": "not available",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.chargerRate",
+   "en": "Charger Rate",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.charger_mode",
+   "en": "Charger Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.disabled",
+   "en": "Disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.enabled",
+   "en": "Enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energy.infinite",
+   "en": "Infinite Energy",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energy.none",
+   "en": "None",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energyPerTick",
+   "en": "%s RF/t",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energyReceive",
+   "en": "Receive",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energySend",
+   "en": "Send",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energyUsage",
+   "en": "Energy Usage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.energyWithMax",
+   "en": "%s/%s RF",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.holdShift.shift",
+   "en": "Shift",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.hover_mode",
+   "en": "Hover Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.no",
+   "en": "No",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.off",
+   "en": "Off",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.on",
+   "en": "On",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.particles",
+   "en": "Particles",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.particles.0",
+   "en": "Default",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.particles.1",
+   "en": "None",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.particles.2",
+   "en": "Smoke",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.particles.3",
+   "en": "Rainbow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.state",
+   "en": "State",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.tier",
+   "en": "Tier %d",
+   "route": "runtime"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.simplyjetpacks.yes",
+   "en": "Yes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.contentretained",
+   "en": "Contents Retained",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.craftitem",
+   "en": "Crafting item.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.energy.capacity",
+   "en": "Capacity: %,d FE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.energy.efficiency",
+   "en": "Efficiency: %,d%%",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.energy.generation",
+   "en": "Generation: %,d FE/tick",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.energy.stored1",
+   "en": "Stored: %,d FE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.energy.stored2",
+   "en": "Stored: %,d/%,d FE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.energy.transfer",
+   "en": "Transfer: %,d FE/tick",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.maximum",
+   "en": "Maximum",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.shift",
+   "en": "Shift",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.solar.panel.upgrade",
+   "en": "Solar panel upgrade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.sun.intensity",
+   "en": "Light Level: %d%%",
+   "route": "runtime"
+  },
+  {
+   "namespace": "solarflux",
+   "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.solarflux.upgrades.installed",
+   "en": "Upgrades",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.buttonShieldBash",
+   "en": "Sneak + Left-Click",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.dev.unimplemented",
+   "en": "Not Yet Implemented!",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.feCapacity",
+   "en": "%,d/%,d FE",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.onBlock",
+   "en": "On Block: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.protection",
+   "en": "Max Protection: %d",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.rfCapacity",
+   "en": "%,d/%,d RF",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields.uiCapacity",
+   "en": "%,d/%,d µI",
+   "route": "runtime"
+  },
+  {
+   "namespace": "spartanshields",
+   "jar": "SpartanShields-1.12.2-1.5.5.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.spartanshields:buttonShieldBash",
+   "en": "Left-Click",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "jar": "thaumicenergistics-extended_life-2.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.thaumicenergistics.device_offline",
+   "en": "Device Offline",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "jar": "thaumicenergistics-extended_life-2.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.thaumicenergistics.device_online",
+   "en": "Device Online",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.capacitance",
+   "en": "Capacitance",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.duct.crafting",
+   "en": "Crafting Item.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.duct.fluid",
+   "en": "Transfers Fluids.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.duct.item",
+   "en": "Transfers Items.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.duct.structure",
+   "en": "Provides Structure.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.antiSpam.0",
+   "en": "Allow Over-sending",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.antiSpam.1",
+   "en": "Prevent Over-sending",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.metadata",
+   "en": "Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.metadata.off",
+   "en": "Use Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.metadata.on",
+   "en": "Ignore Metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.modSorting",
+   "en": "Mod Owner",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.modSorting.off",
+   "en": "Use Mod Owner",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.modSorting.on",
+   "en": "Ignore Mod Owner",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.nbt",
+   "en": "NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.nbt.off",
+   "en": "Use NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.nbt.on",
+   "en": "Ignore NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.options",
+   "en": "Filter Options",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.oreDict",
+   "en": "Ore Dictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.oreDict.off",
+   "en": "Use Ore Dictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.oreDict.on",
+   "en": "Ignore Ore Dictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.routeType.0",
+   "en": "Nearest-First",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.routeType.1",
+   "en": "Furthest-First",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.routeType.2",
+   "en": "Random",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.routeType.3",
+   "en": "Round Robin",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.whiteList",
+   "en": "Blacklist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.whiteList.off",
+   "en": "Whitelist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.whiteList.on",
+   "en": "Blacklist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.filter.zeroRetainSize",
+   "en": "Infinite",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.0",
+   "en": "Red",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.1",
+   "en": "Green",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.10",
+   "en": "Yellow",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.11",
+   "en": "Light Blue",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.12",
+   "en": "Magenta",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.13",
+   "en": "Orange",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.14",
+   "en": "White",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.15",
+   "en": "Black",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.2",
+   "en": "Brown",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.3",
+   "en": "Blue",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.4",
+   "en": "Purple",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.5",
+   "en": "Cyan",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.6",
+   "en": "Light Gray",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.7",
+   "en": "Gray",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.8",
+   "en": "Pink",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.color.9",
+   "en": "Lime",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.gridRS",
+   "en": "Duct Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.invert.0",
+   "en": "Scaled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.invert.1",
+   "en": "Inverted Scaled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.invert.2",
+   "en": "Threshold",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.invert.3",
+   "en": "Inverted Threshold",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.relayRS",
+   "en": "Relay Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.threshold",
+   "en": "Threshold >=",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.type.0",
+   "en": "Redstone Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.type.1",
+   "en": "Redstone Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.relay.type.2",
+   "en": "Comparator Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.servo.extractRate",
+   "en": "Extraction Rate",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.servo.maxStackSize",
+   "en": "Max Stack Size",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.servo.redstoneExt",
+   "en": "Requires Redstone Signal",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.servo.redstoneInt",
+   "en": "Internal Redstone Control",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.servo.speedBoost",
+   "en": "Speed Boost",
+   "route": "runtime"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+   "english_locale": "en_US.lang",
+   "key": "info.thermaldynamics.transfer",
+   "en": "Transfer",
+   "route": "runtime"
+  },
+  {
+   "namespace": "universaltweaks",
+   "jar": "UniversalTweaks-1.12.2-1.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.universaltweaks.cheats.disabled",
+   "en": "Cheats are now §cdisabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "universaltweaks",
+   "jar": "UniversalTweaks-1.12.2-1.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.universaltweaks.cheats.enabled",
+   "en": "Cheats are now §aenabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "universaltweaks",
+   "jar": "UniversalTweaks-1.12.2-1.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.universaltweaks.sleep.disabled",
+   "en": "Sleeping is disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "universaltweaks",
+   "jar": "UniversalTweaks-1.12.2-1.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.universaltweaks.sleep.spawnpoint",
+   "en": "Spawn point set",
+   "route": "runtime"
+  },
+  {
+   "namespace": "universaltweaks",
+   "jar": "UniversalTweaks-1.12.2-1.20.0.jar",
+   "english_locale": "en_us.lang",
+   "key": "msg.universaltweaks.tweaks.pickupnotification.xp",
+   "en": "Experience",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.valkyrielib.assembled",
+   "en": "Assembled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.valkyrielib.duration",
+   "en": "Duration",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.valkyrielib.forinfo",
+   "en": "For Info",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.valkyrielib.owner",
+   "en": "Owner",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "info.valkyrielib.shift",
+   "en": "SHIFT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.valkyrielib.shiftmoreinfo",
+   "en": "Hold Shift",
+   "route": "runtime"
+  },
+  {
+   "namespace": "valkyrielib",
+   "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+   "english_locale": "en_us.lang",
+   "key": "tooltip.valkyrielib.witherproof",
+   "en": "Wither Proof",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "client.msg.norecipe",
+   "en": "No recipe found.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "client.msg.nousage",
+   "en": "No usage found.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.career",
+   "en": "Career: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.comparator",
+   "en": "Comparator",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.delay",
+   "en": "Delay",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.demands",
+   "en": "Demands",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.empty",
+   "en": "<Empty>",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.growth",
+   "en": "Growth",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.growth.value",
+   "en": "%.0f %%",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.health",
+   "en": "Health",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.mature",
+   "en": "Mature",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.off",
+   "en": "Off",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.offers",
+   "en": "Offers",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.on",
+   "en": "On",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.power",
+   "en": "Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.record",
+   "en": "Record",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.state",
+   "en": "State",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.substractor",
+   "en": "Substractor",
+   "route": "runtime"
+  },
+  {
+   "namespace": "waila",
+   "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "english_locale": "en_US.lang",
+   "key": "hud.msg.toomuch",
+   "en": "Too many...",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.axe",
+   "en": "Axe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.block",
+   "en": "Block",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.chest",
+   "en": "Chest",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.chisel",
+   "en": "Chisel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.crowbar",
+   "en": "Crowbar",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.adulttime",
+   "en": "Adulthood",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.nexttime",
+   "en": "Next stage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.stage",
+   "en": "Stage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.stage.adult",
+   "en": "Adult",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.stage.egg",
+   "en": "Egg",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.stage.hatchling",
+   "en": "Hatchling",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.dragonmounts.stage.juvenile",
+   "en": "Juvenile",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.enchPower",
+   "en": "Enchanting Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.enchdesc.addedby",
+   "en": "Added by",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.enchdesc.name",
+   "en": "Enchantment",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.false",
+   "en": "§4False",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.feet",
+   "en": "Feet",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.armor",
+   "en": "Armor",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.blastresist",
+   "en": "Blast Resist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.breedingitem",
+   "en": "Breedable",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.breedingtime",
+   "en": "Breeding Cooldown",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.enchpower",
+   "en": "Enchant Power",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.growingage",
+   "en": "Growing Cooldown",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.hardness",
+   "en": "Hardness",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.harvestable",
+   "en": "Harvestable",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.progression",
+   "en": "Progression",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.showtier",
+   "en": "Tier",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.sitting",
+   "en": "Sitting",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.tamed",
+   "en": "Tamed",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.generic.tooltype",
+   "en": "Tool",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.head",
+   "en": "Head",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.item",
+   "en": "Item",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.legs",
+   "en": "Legs",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.mainhand",
+   "en": "Main Hand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.name",
+   "en": "Name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.no",
+   "en": "§4✖",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.offhand",
+   "en": "Off Hand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.pickaxe",
+   "en": "Pickaxe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.scoop",
+   "en": "Scoop",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.shovel",
+   "en": "Shovel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.star",
+   "en": "★",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.sword",
+   "en": "Sword",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.true",
+   "en": "§aTrue",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.burntime",
+   "en": "Burn Time",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.career",
+   "en": "Career",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.experience",
+   "en": "Experience",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.fuel",
+   "en": "Fuel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.fuse",
+   "en": "Fuse",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.input",
+   "en": "Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.vanilla.output",
+   "en": "Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "wawla",
+   "jar": "Wawla-1.12.2-2.6.275.jar",
+   "english_locale": "en_US.lang",
+   "key": "tooltip.wawla.yes",
+   "en": "§a✔",
+   "route": "runtime"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "totemic.page.creatingTotems1": "Totem Whittling Knife cũng cần để đẽo §1Totem Base§0. Mỗi Totem Pole cần một Totem Base ở chân cột, và có thể vươn cao tới 6 mét.<br>Theo mặc định, Totem Pole ban §4hiệu ứng§0 có lợi cho mọi người chơi ở gần. Hiệu ứng tùy thuộc hoa văn đẽo. Một Totem Pole có thể mang những hoa văn khác nhau ở từng độ cao.",
+ "totemic.entry.totemEffects": "Hiệu ứng Totem",
+ "totemic.page.totemEffects0": "Đây là các hiệu ứng bạn có thể đẽo lên Totem Pole:<br>§1Bat§0: Triệt tiêu sát thương rơi và cho bạn nhảy xa hơn khi cúi mình giữa không trung<br>§1Blaze§0: Cho bạn Fire Resistance<br>§1Buffalo§0: Giúp bạn đào nhanh hơn",
+ "totemic.page.totemEffects1": "§1Cow§0: Cho bạn kháng sát thương, nhưng cũng làm bạn chậm lại<br>§1Enderman§0: Cho bạn nhìn đêm<br>§1Horse§0: Tăng tốc độ di chuyển<br>§1Ocelot§0: Ngăn Creeper phát nổ<br>§1Pig§0: Mang lại may mắn cho bạn",
+ "totemic.page.totemEffects2": "§1Rabbit§0: Tăng sức bật nhảy<br>§1Spider§0: Cho bạn leo tường như nhện<br>§1Squid§0: Cho bạn Water Breathing<br>§1Wolf§0: Tăng sức mạnh cho bạn",
+ "totemic.entry.medicineBag": "Medicine Bag",
+ "totemic.page.medicineBag0": "§1Medicine Bag§0 cho phép bạn mang theo một §4Totem Effect§0, nhờ đó hưởng lợi ích của nó trong thời gian giới hạn mà không cần đứng gần Totem Pole.<br>Sau khi chế tạo Medicine Bag, hãy Cúi mình + Nhấn chuột phải lên khối Totem Pole đã đẽo hiệu ứng bạn muốn. Sau đó nhấn chuột phải vào túi để mở và giải phóng hiệu ứng, hoặc để đóng lại.",
+ "totemic.page.medicineBag1": "Medicine Bag kéo dài vài phút trước khi cạn. Để nạp lại, chỉ cần đứng gần §1Totem Pole§0 có đẽo đúng hiệu ứng của túi.",
+ "totemic.entry.instruments": "§oNhạc cụ",
+ "totemic.page.instruments0": "Nhạc cụ là cách tạo ra §4Melody§0, nguồn sống của §1Totem Pole§0. Khi một nhạc cụ được chơi, giai điệu của nó sẽ thấm vào §1Totem Pole§0 ở gần. Mỗi nhạc cụ tạo §4Melody§0 theo một cách khác nhau. Bên cạnh đó, mỗi nhạc cụ có một lượng §4Melody§0 mà §4Ceremony§0 có thể tiếp nhận khác nhau, nghĩa là bạn cần nhiều loại §4Instrument§0 khác nhau để dùng cho hiệu quả."
+}

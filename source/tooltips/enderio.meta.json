@@ -1,0 +1,13 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "EnderIO-1.12.2-5.3.72.jar",
+      "path": "assets/enderio/lang/en_us.lang"
+    },
+    {
+      "jar": "EnderIO-endergy-1.12.2-5.3.72.jar",
+      "path": "assets/enderio/lang/en_us.lang"
+    }
+  ]
+}

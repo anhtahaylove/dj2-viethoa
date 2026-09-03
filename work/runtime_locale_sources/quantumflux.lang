@@ -1,0 +1,11 @@
+chat.rfExciter.maxTransfer=%s maximum transfer
+chat.rfStored=%s RF in reserve
+chat.rfStored.max= (%s capacity)
+chat.telepad.link.clear=Telepad location cleared
+chat.telepad.link.error.1=Telepads can only link if they are in the same dimension
+chat.telepad.link.stored=Telepad location saved
+chat.telepad.link.success=Telepad successfully linked!
+flair.block.gluetrap=Zombies check in, but they don't check out! 
+flair.item.industrialDiamond=Created by putting Graphite Dust into an explosion
+flair.item.netherBane=Sabre of the Moon
+key.quantumflux.magnet=Toggle QuantumFlux magnet

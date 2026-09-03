@@ -1,0 +1,41 @@
+{
+  "name": "Redstone Port",
+  "icon": "bigreactors:reactorredstoneport",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorredstoneport",
+      "link_recipe": true,
+      "title": "Redstone Port",
+      "text": "Redstone Port cho phép bạn tự động hóa Reactor bằng Redstone.$(br2)Mở giao diện của Port để cấu hình. Bạn có thể chọn một trong ba thiết lập đầu vào (nhận tín hiệu Redstone) hoặc sáu thiết lập đầu ra (phát tín hiệu Redstone)."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Thiết lập đầu vào$()$(br2)Thực hiện một trong các hành động sau khi nhận được tín hiệu Redstone$(br2)$(li)$(o)Bật / Tắt:$() bật hoặc tắt Reactor tùy theo tín hiệu nhận được$(li)$(o)Đẩy chất thải:$() đẩy chất thải tới Access Port ở chế độ đầu ra$(li)$(o)Độ cắm Control Rod:$() đặt tỷ lệ cắm của tất cả Control Rod trong Reactor."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Cài đặt đầu ra$()$(br2)Phát tín hiệu Redstone khi đáp ứng một trong các điều kiện sau$(br2)$(li)$(o)Nhiệt độ Casing:$() nhiệt độ của Reactor Casing cao hơn hoặc thấp hơn mức đã đặt$(li)$(o)Nhiệt độ nhiên liệu:$() nhiệt độ của Reactor Core cao hơn hoặc thấp hơn mức đã đặt$(li)$(o)Tỷ lệ Fuel Mix:$() phần trăm Fuel Richness cao hơn hoặc thấp hơn giá trị đã đặt"
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(o)Lượng nhiên liệu:$() lượng nhiên liệu hiện có cao hơn hoặc thấp hơn giá trị đã đặt$(li)$(o)Lượng chất thải:$() lượng chất thải hiện có cao hơn hoặc thấp hơn giá trị đã đặt.$(li)$(o)Lượng năng lượng:$() lượng năng lượng trong bộ đệm nội bộ cao hơn hoặc thấp hơn giá trị đã đặt."
+    },
+    {
+      "type": "text",
+      "text": "Bạn thường cần ít nhất hai Redstone Port để tự động hóa hoàn toàn Reactor.$(br2)Để tự động hóa phức tạp hơn, hãy xem $(l:reactor/part-computerport)Computer Port$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorredstoneport",
+      "title": "Redstone Port"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mọi mặt (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() có"
+    }
+  ]
+}

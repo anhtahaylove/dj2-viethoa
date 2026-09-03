@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "simplybackpacks-1.4.9.jar",
+      "path": "assets/simplybackpacks/lang/en_us.lang"
+    }
+  ]
+}

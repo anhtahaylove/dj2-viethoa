@@ -1,0 +1,36 @@
+{
+  "name": "Wildwood Armor",
+  "icon": "roots:wildwood_chestplate",
+  "category": "crafting_armor_tools",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bộ giáp bền chắc làm từ wildwood sống, được truyền sức mạnh của kim cương, sẽ tự động hồi máu cho người mặc theo thời gian.$(br2)$(info) Càng mặc nhiều mảnh giáp, tần suất hồi máu càng tăng.$(br2)$(info) Có thể sửa bằng $(l:resources/bark#dark_oak)wildwood bark$()."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "wildwood_helmet"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "wildwood_chestplate"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "wildwood_leggings"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "wildwood_boots"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "resources/wildwood"
+      ]
+    }
+  ]
+}

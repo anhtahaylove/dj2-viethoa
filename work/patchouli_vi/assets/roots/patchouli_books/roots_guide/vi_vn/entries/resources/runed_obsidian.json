@@ -1,0 +1,24 @@
+{
+  "name": "Runed Obsidian",
+  "icon": "roots:runed_obsidian",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Runed obsidian là dạng bền chắc hơn của $(l:resources/runestone)runestone$(), được tạo bằng $(l:crafting/fey_crafter)fey crafter$() và có độ cứng cùng khả năng kháng nổ của obsidian.$(br2)Nó có thể được dùng để xây dựng $(l:rituals/standing_stones)standing stones$() cũng như để $(l:crafting/runed_obsidian)trang trí$().$(br2)$(info) Ngoài ra, runed obsidian miễn nhiễm với Withers và hầu hết các boss."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_obsidian"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "resources/runestone"
+      ]
+    }
+  ]
+}

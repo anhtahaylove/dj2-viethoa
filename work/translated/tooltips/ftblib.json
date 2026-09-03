@@ -1,0 +1,8 @@
+{
+  "click_here": "[Bấm vào đây]",
+  "team_config.ftblib.display.title.tooltip": "Hiển thị khi bạn vào một chunk đã được bảo hộ",
+  "team_config.ftblib.display.desc.tooltip": "Hiển thị bên dưới tiêu đề",
+  "team_config.ftblib.free_to_join.tooltip": "Bất kỳ ai cũng có thể tham gia mà không cần lời mời",
+  "sidebar_button.ftblib.my_team.tooltip": "Mở giao diện để bạn quản lý đội của mình",
+  "sidebar_button.ftblib.settings.tooltip": "Chỉnh sửa các cài đặt chỉ áp dụng phía máy khách"
+}

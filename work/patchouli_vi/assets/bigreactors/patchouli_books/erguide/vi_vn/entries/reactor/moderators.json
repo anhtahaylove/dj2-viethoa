@@ -1,0 +1,21 @@
+{
+  "name": "Chất điều tiết",
+  "icon": "minecraft:iron_block",
+  "category": "bigreactors:reactor",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chất điều tiết bức xạ là block hoặc chất lỏng có thể đặt bên trong Reactor để hấp thụ một phần bức xạ do nhiên liệu phát ra và $(l:reactor/innerworking)truyền nhiệt$(/l) khỏi $(l:reactor/part-fuelrod)Fuel Rods$(/l).$(br2)Mỗi chất điều tiết có thể chuyển bức xạ thành nhiệt hiệu quả hơn hoặc kém hơn chất khác, hấp thụ nhiều bức xạ hơn, hoặc dẫn nhiệt tốt hơn hẳn các chất còn lại."
+    },
+    {
+      "type": "text",
+      "text": "Hoặc nó có thể cực rẻ nhưng mọi mặt đều vô cùng kém hiệu quả. Chẳng hạn như không khí: vẫn dùng được, nhưng gần như không đáng kể.$(br2)Thông thường, block/chất lỏng hiếm hoặc đặc biệt tốn kém để chế tạo sẽ có chỉ số tốt hơn loại phổ biến hoặc rẻ tiền.$(br2)Theo mặc định, Extreme Reactors đăng ký nhiều block/chất lỏng từ vanilla và các mod làm chất điều tiết.$(br)Các mod hoặc modpack khác có thể thêm chất điều tiết riêng hoặc sửa đổi/xóa các loại mặc định."
+    },
+    {
+      "type": "text",
+      "text": "Chỉ có thể đặt moderator hợp lệ bên trong Reactor. Moderator không hợp lệ sẽ khiến multiblock Reactor không thể hình thành."
+    }
+  ]
+}

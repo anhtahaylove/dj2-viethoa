@@ -1,0 +1,21 @@
+{
+  "name": "Inductor Coils",
+  "icon": "minecraft:gold_block",
+  "category": "bigreactors:turbine",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Inductor Coil là một khối, thường bằng kim loại, có thể đặt quanh trục Rotor. Khi được kích hoạt, nó sẽ lấy năng lượng từ Rotor đồng thời làm Rotor chậm lại.$(br2)Một loại cuộn dây có thể lấy năng lượng từ Rotor đang quay hiệu quả hơn loại khác, hoặc lấy năng lượng nhanh hơn các loại khác."
+    },
+    {
+      "type": "text",
+      "text": "Thông thường, khối hiếm hoặc đặc biệt tốn kém để chế tạo sẽ có chỉ số tốt hơn khối phổ biến hoặc rẻ.$(br2)Theo mặc định, Extreme Reactors đăng ký nhiều khối vanilla và khối từ mod làm Inductor Coils.$(br2)Các mod hoặc modpack khác có thể thêm moderator riêng, hoặc sửa đổi/xóa các loại mặc định."
+    },
+    {
+      "type": "text",
+      "text": "Chỉ các cuộn dây hợp lệ mới có thể được đặt bên trong Turbine, quanh trục Rotor. Khối không hợp lệ sẽ khiến multiblock Turbine không thể hình thành."
+    }
+  ]
+}

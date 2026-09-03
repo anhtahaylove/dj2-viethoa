@@ -1,0 +1,26 @@
+{
+  "name": "Runed Plough",
+  "icon": "roots:runed_hoe",
+  "category": "crafting_armor_tools_runed",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chắc chắn và bền bỉ, vẫn có khả năng tự phục hồi, dù chậm hơn nhiều so với các công cụ khác.$(br2)$(info) Runed Plough không chỉ cuốc đất trong khu vực 3x3 mà còn làm ẩm đất canh tác vừa tạo ra, tương tự $(l:crafting/terrastone_hoe)Terrastone Hoe$()."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_hoe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_hoe",
+        "crafting/living_hoe",
+        "resources/runed_obsidian"
+      ]
+    }
+  ]
+}

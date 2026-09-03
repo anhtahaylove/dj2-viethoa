@@ -1,0 +1,609 @@
+{
+ "rows": [
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.breaker.name",
+   "en": "Breaker"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.dropper.name",
+   "en": "Precision Dropper"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.energyface.name",
+   "en": "Energyface"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.feeder.name",
+   "en": "Feeder"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.laserRelay.name",
+   "en": "Laser Relay"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.laserRelayAdvanced.name",
+   "en": "Advanced Laser Relay"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.laserRelayExtreme.name",
+   "en": "Extreme Laser Relay"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.laserRelayItemWhitelist.name",
+   "en": "Laser Relay"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.leafGenerator.name",
+   "en": "Not a Munchdew"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.liquiface.name",
+   "en": "Liquiface"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.placer.name",
+   "en": "Placer"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.repairer.name",
+   "en": "Repairer"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.actuallyadditions.shockSuppressor.name",
+   "en": "Shock Suppressor"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.nei.actuallyadditions.coffee.extra.milk",
+   "en": "+01:00, -1 Level"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.nei.actuallyadditions.coffee.maxAmount",
+   "en": "Max Amount"
+  },
+  {
+   "namespace": "actuallyadditions",
+   "key": "container.nei.actuallyadditions.coffee.special",
+   "en": "Special Feature"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.amount",
+   "en": "Amount"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.biome",
+   "en": "Biome: %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.condition",
+   "en": "Condition: %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.dimension",
+   "en": "Dimension: %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.distance",
+   "en": "Distance: %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.experience",
+   "en": "Experience"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.found",
+   "en": "Found!"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.kill",
+   "en": "Kill %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.location",
+   "en": "Location: %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.meet",
+   "en": "Meet %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.structure",
+   "en": "Structure: %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.tame",
+   "en": "Tame %s"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.undiscovered",
+   "en": "Undiscovered"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.gui.weight",
+   "en": "Weight"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.button.save",
+   "en": "Save"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.de.button.close",
+   "en": "Close"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.de.button.extract",
+   "en": "Extract"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.de.button.start",
+   "en": "Start"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.de.button.toggle",
+   "en": "Toggle"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.de.button.toggleOff",
+   "en": "Toggle Off"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.de.button.toggleOn",
+   "en": "Toggle On"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.blackList",
+   "en": "Black List"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.editList",
+   "en": "Edit List"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.hostile",
+   "en": "Hostile"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.other",
+   "en": "Other"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.passive",
+   "en": "Passive"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.players",
+   "en": "Players"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.button.whiteList",
+   "en": "White List"
+  },
+  {
+   "namespace": "brandonscore",
+   "key": "gui.entityFilter.filter.txt",
+   "en": "Filter"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "gui.de.energyStorageCore.name",
+   "en": "Tier %s Energy Core"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "gui.de.fusionCraftingCore.name",
+   "en": "Fusion Crafting"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "gui.jeiFusion.tier.0",
+   "en": "Tier: Basic"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "gui.jeiFusion.tier.1",
+   "en": "Tier: Wyvern"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "gui.jeiFusion.tier.2",
+   "en": "Tier: Draconic"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "gui.jeiFusion.tier.3",
+   "en": "Tier: Chaotic"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.armorProfileChange",
+   "en": "Change Armor Config Profiles"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.cycleAttackAOE",
+   "en": "Cycle Attack AOE"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.cycleDigAOE",
+   "en": "Cycle Dig AOE / Depth"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.placeItem",
+   "en": "Place Item in world"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.toggleDislocator",
+   "en": "Toggle Item Dislocator"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.toggleFlight",
+   "en": "Toggle Creative Flight"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.toggleShields",
+   "en": "Toggle Draconic Shielding"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.toolConfig",
+   "en": "Tool & Armor Config GUI"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "key.draconicevolution.toolProfileChange",
+   "en": "Change Tool Config Profile"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.gui.join_team",
+   "en": "Click to join '%s'"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.gui.members.cancel_invite",
+   "en": "Right-click to cancel invite"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.gui.members.deny_request",
+   "en": "Right-click to deny request"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.gui.members.kick",
+   "en": "Right-click to kick member"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.gui.members.requesting_invite",
+   "en": "This player is requesting invite"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.blacklist",
+   "en": "Blacklist"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.color",
+   "en": "Color"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.copy",
+   "en": "Copy"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.cut",
+   "en": "Cut"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.downloading",
+   "en": "Downloading..."
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.infinite",
+   "en": "Infinite"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.move",
+   "en": "Move"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.offline",
+   "en": "Offline"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.online",
+   "en": "Online"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.other",
+   "en": "Other"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.paste",
+   "en": "Paste"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.search_box",
+   "en": "Search..."
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.server_forced",
+   "en": "Server Forced: %s"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "gui.whitelist",
+   "en": "Whitelist"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "key.categories.ftbmods",
+   "en": "FTB Mods"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.missing.dish.name",
+   "en": "Missing Communication Dish at Keycard Location"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.missing.keycard.name",
+   "en": "Missing Linked Communication Dish Keycard"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.player.name",
+   "en": "Player"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.player.online.name",
+   "en": "Player is not online!"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.research.name",
+   "en": "Researching"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.research.progress.name",
+   "en": "Research Process"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite.satellite.id.name",
+   "en": "Satellite ID"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite_launcher.auto_disable.name",
+   "en": "Disable Auto Launch System"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite_launcher.auto_enable.name",
+   "en": "Enable Auto Launch System"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.satellite_launcher.delay_type.name",
+   "en": "Delay Type"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.status.building.name",
+   "en": "Building Satellite"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.status.missing.inputs.name",
+   "en": "Missing Items/Fluids"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.status.missing.power.name",
+   "en": "Missing Power"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.telescope.no_player.name",
+   "en": "Player is not online!"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.telescope.status.already_researched.name",
+   "en": "Already Researched Paper Detected!"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.telescope.status.missing.paper.name",
+   "en": "Missing Research Paper!"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.telescope.status.missing.power.name",
+   "en": "Missing Power!"
+  },
+  {
+   "namespace": "planetprogression",
+   "key": "gui.telescope.status.normal.name",
+   "en": "Researching!"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.bark_carving.name",
+   "en": "Bark Carving"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.block_break.name",
+   "en": "Block Breaking"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.chrysopoeia.name",
+   "en": "Item Transmutation"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.fey_crafting.name",
+   "en": "Fey Crafting"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.loot.name",
+   "en": "Spirit Drops"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.mortar_and_pestle.name",
+   "en": "Mortar and Pestle"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.pyre_light.name",
+   "en": "Pyre Lighting"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.right_click_block.name",
+   "en": "Block Interaction"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.runed_wood.name",
+   "en": "Runed Wood Carving"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.runic_carving.name",
+   "en": "Runic Carving"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.runic_shears.name",
+   "en": "Runic Shearing"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.runic_shears_entity.name",
+   "en": "Runic Entity Shearing"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.runic_shears_summon_entity.name",
+   "en": "Runic Entity Summoning"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.summon_creatures.name",
+   "en": "Creature Summoning"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.terra_moss.name",
+   "en": "Moss Scraping"
+  },
+  {
+   "namespace": "roots",
+   "key": "container.roots.transmutation.name",
+   "en": "Transmutation Ritual"
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.pyre_light",
+   "en": "%s secs."
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.right_click",
+   "en": "Right-Click block"
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.sneak",
+   "en": "Sneak"
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.sneak_right_click",
+   "en": "Sneak-Right-Click block"
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.soil.above",
+   "en": "Above:"
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.soil.below",
+   "en": "Below:"
+  },
+  {
+   "namespace": "roots",
+   "key": "jei.roots.soil.delay",
+   "en": "Delay:"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "BetterQuesting-3.5.329.jar",
+      "path": "assets/betterquesting/lang/en_US.lang"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Wildroot",
+  "icon": "roots:wildroot",
+  "category": "herbs",
+  "turnin": "roots:wildroot",
+  "priority": true,
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thường là loại thảo mộc ma thuật đầu tiên được phát hiện, wildroot là tàn tích của $(l:resources/wildwood)wildwood tree$() từng phổ biến và tuyệt đẹp, nay đã tuyệt chủng.$(br2)Có thể tìm thấy khi phá cỏ cao và các loại tương tự, đây là nguyên liệu thiết yếu trong giai đoạn đầu của mod.$(br2)$(info) $(l:herbs/wildroot#renew)Dù có thể tái tạo$(), phép $(l:spells/natures_scythe)Nature's Scythe$() cũng rất hữu ích để thu thập nó."
+    },
+    {
+      "type": "spotlight",
+      "link_recipe": true,
+      "item": "roots:wildroot",
+      "anchor": "renew",
+      "text": "Là một tài nguyên tái tạo, wildroot có thể được trồng trực tiếp trên bất kỳ farmland nào, bao gồm mọi biến thể của $(l:resources/elemental_soil)elemental soil$() cũng như các loại farmland khác mà bạn bắt gặp.$(br2)Sau khi trồng, nó sẽ tách thành một cụm rễ với chồi xanh non; phần chồi này sẽ bị cắt đi khi thu hoạch."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/wildroot_stew"
+      ]
+    }
+  ]
+}

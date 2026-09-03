@@ -1,0 +1,16 @@
+{
+  "name": "Chủ nghĩa hòa bình",
+  "icon": "minecraft:cooked_beef",
+  "category": "concepts",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một nguyên tắc chỉ lối có từ trước thời đại Order of Druids là Chủ nghĩa hòa bình: sống hòa mình với thiên nhiên và bảo vệ các sinh vật nơi đây, chỉ giết chúng để tự vệ chứ không vì thức ăn, lòng tham hay lợi ích.$(br2)Dù người thực hành Wild Magic không bắt buộc phải theo chủ nghĩa hòa bình, $(l:rituals/ritual_animal_harvest)Animal Harvest$() cùng các nghi lễ và phép thuật khác hỗ trợ lối sống này."
+    },
+    {
+      "type": "text",
+      "text": "$(o)Tính năng tùy chọn này không có mục đích nào khác trong Roots 3 ngoài việc theo dõi xem bạn có \"phá vỡ\" cam kết hòa bình hay không. Hiện tại, việc nhận tiến trình \"Untrue Pacifist\" không mang lại lợi ích hay hình phạt nào.$()$(br2)$(o)Nếu muốn, bạn có thể tắt tính năng theo dõi tiến trình trong phần cấu hình. Ngoài ra, có thể dùng CraftTweaker để bổ sung các sinh vật ôn hòa khác ngoài những loài mặc định.$()"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "DivineRPG-1.7.1.jar",
+      "path": "assets/divinerpg/lang/en_us.lang"
+    }
+  ]
+}

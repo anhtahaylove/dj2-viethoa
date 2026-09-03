@@ -1,0 +1,93 @@
+{
+  "name": "Sanctuary",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_sanctuary\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_sanctuary",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này ngăn các thực thể thù địch, kể cả vật thể bay, tiếp cận bạn bằng cách tạo một lá chắn hình cầu đẩy chúng ra xa trong suốt thời gian vận phép.$(br2)Với các biến thể, bạn có thể gây nhiều hiệu ứng trạng thái lên chúng, gây sát thương cho một số loại thực thể, đẩy chúng xa hơn hoặc tác động cả thực thể không thù địch."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_sanctuary"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:reject_nature",
+      "anchor": "reject_nature"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:withering",
+      "anchor": "withering"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:undead_rejection",
+      "anchor": "undead_rejection"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:repulsive_bubble",
+      "anchor": "repulsive_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:spider_unsuffrage",
+      "anchor": "spider_unsuffrage"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:levitating_bubble",
+      "anchor": "levitating_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:inflammatory_bubble",
+      "anchor": "inflammatory_bubble"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:earthen_radius",
+      "anchor": "earthen_radius"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sanctuary",
+      "modifier": "roots:liquid_repulsion",
+      "anchor": "liquid_repulsion"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:sanctuary/SECONDS/cooldown) giây.$(br2)$(bold)Bán kính:$() Bán kính ngang của lá chắn hình cầu là $(spell:sanctuary/radius_x) và $(spell:sanctuary/radius_z) khối, còn bán kính dọc là $(spell:sanctuary/radius_y) khối. Khi bật biến thể $(modifier:earthen_radius)$(), mỗi giá trị này tăng thêm $(spell:sanctuary/radius_boost) khối.$(br2)$(bold)Vận tốc:$() Thực thể bị đẩy ra xa bạn với vận tốc $(spell:sanctuary/push_velocity). Khi bật $(modifier:liquid_repulsion)$() hoặc $(modifier:repulsive_bubble)$(),"
+    },
+    {
+      "type": "text",
+      "text": "vận tốc tăng gấp đôi. Khi bật cả hai, vận tốc tăng gấp bốn.$(br2)$(bold)Lửa:$() Khi bật biến thể $(modifier:inflammatory_bubble)$(), thực thể bị đẩy lùi cũng bốc cháy trong $(spell:sanctuary/fire_duration) giây.$(br2)$(bold)Levitation:$() Khi bật biến thể $(modifier:levitating_bubble)$(), thực thể bị đẩy lùi nhận Levitation I trong $(spell:sanctuary/SECONDS/levitate_duration) giây.$(br2)$(bold)Wither:$() Khi bật biến thể $(modifier:withering)$(), thực thể"
+    },
+    {
+      "type": "text",
+      "text": "bị đẩy lùi nhận Withering $(spell:sanctuary/ROMAN/wither_amplifier) trong $(spell:sanctuary/SECONDS/wither_duration) giây.$(br2)$(bold)Spider:$() Khi bật biến thể $(modifier:spider_unsuffrage)$(), mọi loài nhện bị đẩy lùi cũng chịu $(spell:sanctuary/HEART/spider_damage) tim sát thương.$(br2)$(bold)Undead:$() Khi bật biến thể $(modifier:undead_rejection)$(), mọi Undead bị đẩy lùi cũng chịu $(spell:sanctuary/HEART/undead_damage) tim sát thương.$(br2)$(bold)Ôn hòa:$() Khi bật biến thể $(modifier:reject_nature)$(), mọi thực thể đều bị đẩy lùi."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/pereskia",
+        "herbs/wildroot"
+      ]
+    }
+  ]
+}

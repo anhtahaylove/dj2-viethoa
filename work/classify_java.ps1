@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process | Where-Object { $_.Name -in @('java.exe','javaw.exe') } | ForEach-Object { [PSCustomObject]@{PID=$_.ProcessId; Name=$_.Name; Server=($_.CommandLine -match 'nogui'); Client=($_.CommandLine -match 'launchwrapper|EntryPoint'); HasServerArg=($_.CommandLine -match '--server')} } | Format-Table -AutoSize

@@ -1,0 +1,20 @@
+{
+  "tool": "hatchet",
+  "text": [
+    {
+      "text": "Hatchet là công cụ chặt cơ bản, hiệu quả với gỗ và lá. Phá lá bằng nó không làm hao độ bền."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Dùng Hatchet khi chiến đấu cho phép bạn vô hiệu hóa khiên của đối thủ."
+    }
+  ],
+  "properties": [
+    "Basic mining tool",
+    "Effective on wood",
+    "Breaks leaves really fast",
+    "Không tốn độ bền khi phá Leaves"
+  ]
+}

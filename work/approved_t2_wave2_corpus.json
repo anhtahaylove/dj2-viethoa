@@ -1,0 +1,2054 @@
+{
+ "approved": 256,
+ "drift": [],
+ "rows": [
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.biofuel_tank",
+   "en": "Biofuel Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.black_hole_units",
+   "en": "Black Hole Units",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.change",
+   "en": "Transformed Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.crafting",
+   "en": "Crafting Grid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.crops_output",
+   "en": "Crops Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.dye_items",
+   "en": "Dye Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.enchanted_books",
+   "en": "Enchanted Books Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.enchanted_items",
+   "en": "Enchanted Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.enchantless_items",
+   "en": "Non Enchanted Items Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.essence_tank",
+   "en": "Essence Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.experience_tank",
+   "en": "Essence Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.fertilizer_input",
+   "en": "Fertilizer Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.filter",
+   "en": "Item Type Filter",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.fish_output",
+   "en": "Fish Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.food_items",
+   "en": "Food Items Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.fuel_input",
+   "en": "Fuel Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.glass_bottles_input",
+   "en": "Glass Bottles Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.ingredients_items",
+   "en": "Ingredients Items Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.input",
+   "en": "Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.input_books",
+   "en": "Input Books",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.input_enchanted_books",
+   "en": "Enchanted Books Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.input_enchanted_items",
+   "en": "Enchanted Items Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.input_items",
+   "en": "Input Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.latex_tank",
+   "en": "Latex Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.lava_tank",
+   "en": "Lava Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.lens_items",
+   "en": "Lens Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.material_process",
+   "en": "Material Process",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.meat_tank",
+   "en": "Meat Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.mob_drops",
+   "en": "Mob Drop Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.no_enchanted_items",
+   "en": "No Enchanted Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.ores_input",
+   "en": "Ores Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.output",
+   "en": "Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.output_items",
+   "en": "Output Items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.output_tank",
+   "en": "Output Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.pink_slime_tank",
+   "en": "Pink Slime Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.potions_items",
+   "en": "Potions Items Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.processed_ores_output",
+   "en": "Processed Ores Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.seeds_input",
+   "en": "Seeds Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.sewage_tank",
+   "en": "Sewage Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.sludge_tank",
+   "en": "Sludge Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.soulsand",
+   "en": "Soulsand",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.tank",
+   "en": "Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.trade_input",
+   "en": "Trade Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.trade_output",
+   "en": "Trade Output",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.villager_mob_imprisonment_tool",
+   "en": "Villager Mob Imprisonment Tool",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.water",
+   "en": "Water Input",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.water_tank",
+   "en": "Water Tank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "gui.industrialforegoing.side_config.wither_skulls",
+   "en": "Wither Skulls",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.blackhole.empty",
+   "en": "Empty player inventory",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.decrease",
+   "en": "Select Previous",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.decrease_depth",
+   "en": "Decrease Drill Depth",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.decrease_fluid",
+   "en": "Select Previous Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.decrease_stack",
+   "en": "Decrease Stack Size",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.decrease_trade",
+   "en": "Select Previous Trade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.gather.any",
+   "en": "Gathering anything",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.gather.plant",
+   "en": "Gathering plants",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.gather.tree",
+   "en": "Gathering trees",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.hide_area",
+   "en": "Hide working area",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.increase",
+   "en": "Select Next",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.increase_depth",
+   "en": "Increase Drill Depth",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.increase_fluid",
+   "en": "Select Next Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.increase_stack",
+   "en": "Increase Stack Size",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.increase_trade",
+   "en": "Select Next Trade",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.jei.next_rarity",
+   "en": "Next Rarity Information",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.jei.prev_rarity",
+   "en": "Previous Rarity Information",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.none",
+   "en": "None Selected",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.show_area",
+   "en": "Show working area",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.sower.hoe.false",
+   "en": "Crop hoeing disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.sower.hoe.true",
+   "en": "Crop hoeing enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.stone.furnace",
+   "en": "Furnace Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.stone.grind",
+   "en": "Grind Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.stone.stopped",
+   "en": "Stopped",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.stone.three_craft",
+   "en": "3x3 Craft",
+   "route": "runtime"
+  },
+  {
+   "namespace": "industrialforegoing",
+   "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+   "english_locale": "en_US.lang",
+   "key": "text.industrialforegoing.button.stone.two_craft",
+   "en": "2x2 Craft",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.cancel",
+   "en": "Cancel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.catalyst",
+   "en": "Catalysts",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.close",
+   "en": "Close",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.confirm",
+   "en": "Confirm",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.default",
+   "en": "Default",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.help",
+   "en": "Help",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.input",
+   "en": "Inputs",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.label.fluid",
+   "en": "Fluid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.label.item",
+   "en": "Item",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.label.ore",
+   "en": "OreDict",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.label.placeholder",
+   "en": "Placeholder",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.output",
+   "en": "Outputs",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.common.search",
+   "en": "Search",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.history",
+   "en": "History",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.inventory_disabled",
+   "en": "Inventory detection disabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.inventory_enabled",
+   "en": "Inventory detection enabled",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.label",
+   "en": "Add label",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.recipe",
+   "en": "New recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.search",
+   "en": "Search recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.step",
+   "en": "Steps",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.craft.suggest",
+   "en": "Suggestions",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.disamb.label",
+   "en": "Inferred types",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.disamb.list",
+   "en": "Raw types",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.import.confirm.disabled",
+   "en": "Cannot import because no record is selected.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.import.confirm.enabled",
+   "en": "Confirm",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.import.tick.selected",
+   "en": "Click to deselect group",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.import.tick.unselected",
+   "en": "Click to select group",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.import.title",
+   "en": "Recipe Import",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.capability_fuzzy.enabled",
+   "en": "Capability ignored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.capability_normal.disabled",
+   "en": "Please choose item first",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.capability_normal.enabled",
+   "en": "Capability sensitive",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.confirm.disabled",
+   "en": "Cannot create because no item is chosen",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.confirm.enabled",
+   "en": "Confirm",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.meta_fuzzy.enabled",
+   "en": "Metadata ignored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.meta_normal.disabled",
+   "en": "Please choose item first",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.meta_normal.enabled",
+   "en": "Metadata sensitive",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.nbt_fuzzy.enabled",
+   "en": "NBT ignored",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.nbt_normal.disabled",
+   "en": "Please choose item first",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.item_stack.nbt_normal.enabled",
+   "en": "NBT sensitive",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.label.confirm",
+   "en": "Apply changes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.label.delete",
+   "en": "Delete label",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.label.pick",
+   "en": "Pick label",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.label.title",
+   "en": "Label Editing",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.placeholder.create",
+   "en": "Create new placeholder",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.clear",
+   "en": "Clear grid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.confirm.disabled",
+   "en": "Cannot use empty string as group name",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.confirm.enabled",
+   "en": "Confirm",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.copy.disabled",
+   "en": "Cannot save as new recipe\\nbecause you are not editing\\na recipe or already have\\nsame recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.copy.enabled",
+   "en": "Save as new recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.disamb.disabled",
+   "en": "Disambiguation settings are only\\navailable when transferring recipes\\nwith multiple options from JEI",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.disamb.enabled",
+   "en": "Open disambiguate settings",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.label",
+   "en": "Add label",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.new",
+   "en": "New group",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.save.disabled",
+   "en": "Cannot save recipe because\\nrecipe is invalid or you\\nalready have same recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.save.enabled",
+   "en": "Save",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.recipe.title",
+   "en": "Recipe Editing",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.all",
+   "en": "All",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.confirm.disabled",
+   "en": "New name cannot be empty\\nor the same as existing ones",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.confirm.enabled",
+   "en": "Confirm",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.delete",
+   "en": "Delete recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.delete_all.disabled",
+   "en": "No record to delete",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.delete_all.enabled",
+   "en": "\\u00A7cDelete all\\u00A7r recipes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.edit",
+   "en": "Edit recipe",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.export_all.disabled",
+   "en": "Cannot export because no recipe recorded",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.export_all.enabled",
+   "en": "Export all recipes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.export_group",
+   "en": "Export recipes in current group",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.import",
+   "en": "Import recipes",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.rename.disabled",
+   "en": "Rename options only available\\nwhen one group selected",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.rename.enabled",
+   "en": "Rename group",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.gui.search.title",
+   "en": "Recipe Management",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.label.common.amount",
+   "en": "Amount: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.label.item_stack.fuzzy_cap",
+   "en": "Fuzzy capabilities",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.label.item_stack.fuzzy_meta",
+   "en": "Fuzzy metadata",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.label.item_stack.fuzzy_nbt",
+   "en": "Fuzzy NBT",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.label.ore_dict.name",
+   "en": "Ore: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jecalculation",
+   "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+   "english_locale": "en_us.lang",
+   "key": "jecalculation.label.placeholder.name",
+   "en": "Placeholder: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced",
+   "en": "Advanced",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.centerSearchBarEnabled",
+   "en": "Center Search Bar",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.centerSearchBarEnabled.comment",
+   "en": "Move the JEI search bar to the bottom center of the screen.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.colorSearchEnabled",
+   "en": "Enable Color Search",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.colorSearchEnabled.comment",
+   "en": "Search ingredients by color and show the colors on tooltips in the list.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.comment",
+   "en": "Advanced config options to change the way JEI functions.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.debugModeEnabled",
+   "en": "Debug Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.debugModeEnabled.comment",
+   "en": "Only useful for JEI developers, adds test ingredients and some debug recipes.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.giveMode",
+   "en": "Give Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.giveMode.comment",
+   "en": "Choose if JEI should give ingredients direct to the inventory (inventory) or pick them up with the mouse (mouse_pickup).",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.itemBlacklist",
+   "en": "Ingredient Blacklist",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.itemBlacklist.comment",
+   "en": "List of ingredients that should not be displayed in the list. Format: modId[:name[:meta]]. Hide Ingredients Mode will automatically add or remove entries here.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.maxColumns",
+   "en": "Max Overlay Width",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.maxColumns.comment",
+   "en": "The maximum width of the ingredient list.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.maxRecipeGuiHeight",
+   "en": "Max Recipe GUI Height",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.maxRecipeGuiHeight.comment",
+   "en": "The maximum height of the recipe GUI.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.modNameFormat",
+   "en": "Mod Name Format",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.modNameFormat.comment",
+   "en": "How the mod name should be formatted in the tooltip for JEI GUIs. Leave blank to disable.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.optimizeMemoryUsage",
+   "en": "Optimize Memory Usage",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.advanced.optimizeMemoryUsage.comment",
+   "en": "Enable JEI memory usage optimizations.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.default",
+   "en": "Default",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.interface",
+   "en": "Interface",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.interface.bookmarkOverlayEnabled",
+   "en": "Show Bookmarks",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.interface.bookmarkOverlayEnabled.comment",
+   "en": "Show the list of bookmarks next to open GUIs.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.interface.comment",
+   "en": "Options related to the User Interface.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.interface.overlayEnabled",
+   "en": "Show Ingredient List",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.interface.overlayEnabled.comment",
+   "en": "Show the list of ingredients next to open GUIs.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.mode",
+   "en": "Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.mode.cheatItemsEnabled",
+   "en": "Cheat Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.mode.cheatItemsEnabled.comment",
+   "en": "Give items instead of showing the recipe.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.mode.comment",
+   "en": "Change the mode that JEI is operating in.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.mode.editEnabled",
+   "en": "Hide Ingredients Mode",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.mode.editEnabled.comment",
+   "en": "Hide and unhide ingredients by clicking them in the list.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search",
+   "en": "Search Options",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.colorSearchMode",
+   "en": "^Color",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.colorSearchMode.comment",
+   "en": "Search mode for Colors (prefix: ^)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.comment",
+   "en": "Options relating to the search bar.",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.creativeTabSearchMode",
+   "en": "%%CreativeTab",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.creativeTabSearchMode.comment",
+   "en": "Search mode for Creative Tab Names (prefix: %)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.modNameSearchMode",
+   "en": "@ModName",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.modNameSearchMode.comment",
+   "en": "Search mode for Mod Names (prefix: @)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.oreDictSearchMode",
+   "en": "$OreDictionary",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.oreDictSearchMode.comment",
+   "en": "Search mode for Ore Dictionary Names (prefix: $)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.resourceIdSearchMode",
+   "en": "&ResourceId",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.search.resourceIdSearchMode.comment",
+   "en": "Search mode for resources ids (prefix: &)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.title",
+   "en": "%MODNAME Config",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "config.jei.valid",
+   "en": "Valid",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.brewing",
+   "en": "Brewing",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.brewing.steps",
+   "en": "Steps: %s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.craftingTable",
+   "en": "Crafting",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.fuel",
+   "en": "Fuel",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.fuel.smeltCount",
+   "en": "Smelts %s items",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.fuel.smeltCount.single",
+   "en": "Smelts 1 item",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.itemInformation",
+   "en": "Information",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.smelting",
+   "en": "Smelting",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "gui.jei.category.smelting.experience",
+   "en": "%s XP",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "key.jei.ctrl",
+   "en": "CTRL",
+   "route": "runtime"
+  },
+  {
+   "namespace": "jei",
+   "jar": "jei_1.12.2-4.16.1.302.jar",
+   "english_locale": "en_us.lang",
+   "key": "key.jei.ctrl.mac",
+   "en": "CMD",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.fullscreen.map_cave_layers.button",
+   "en": "Vertical Chunk :",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.minimap.orientation.button",
+   "en": "Map Heading",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.button.close",
+   "en": "Close",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.label.admin.edit",
+   "en": "Server Admin",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.label.selection.default",
+   "en": "Default Dimension Properties",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.label.selection.dimension",
+   "en": "%1$s id: %2$s",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.label.selection.global",
+   "en": "Global Properties",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.label.worldId.singleplayer",
+   "en": "Single Player",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.mapping.label",
+   "en": "Mapping Options",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.mapping.toggle.cave.label",
+   "en": "Cave",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.mapping.toggle.surface.label",
+   "en": "Surface",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.mapping.toggle.topo.label",
+   "en": "Topography",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.radar.label",
+   "en": "Radar Options",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.radar.toggle.label",
+   "en": "Radar",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.tracking.label",
+   "en": "Expanded Radar",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.server.edit.tracking.update.label",
+   "en": "Update Time",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.biome",
+   "en": "Biome",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.blank",
+   "en": "Blank",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.dimension",
+   "en": "Dimension",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.fps",
+   "en": "FPS",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.gametime",
+   "en": "Game Time",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.gametime.day",
+   "en": "Daytime",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.gametime.night",
+   "en": "Night",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.gametime.real",
+   "en": "Game Time Real",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.gametime.sunrise",
+   "en": "Sunrise",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.gametime.sunset",
+   "en": "Sunset",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.lightlevel",
+   "en": "Light Level",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.location",
+   "en": "Location",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.realtime",
+   "en": "System Time",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "jm.theme.labelsource.region",
+   "en": "Region",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.create_waypoint",
+   "en": "Create Waypoint",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.day",
+   "en": "Show Day Map",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen.east",
+   "en": "Pan East (16 Blocks)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen.north",
+   "en": "Pan North (16 Blocks)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen.south",
+   "en": "Pan South (16 Blocks)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen.west",
+   "en": "Pan West (16 Blocks)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen_actions",
+   "en": "Actions Manager",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen_create_waypoint",
+   "en": "Create Waypoint (at cursor)",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen_options",
+   "en": "Options Manager",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.fullscreen_waypoints",
+   "en": "Waypoint Manager",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.map_toggle",
+   "en": "Fullscreen Map",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.map_toggle_alt",
+   "en": "Show / Hide Fullscreen Map",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.minimap_preset",
+   "en": "Switch MiniMap Preset",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.minimap_toggle_alt",
+   "en": "Show / Hide MiniMap",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.minimap_type",
+   "en": "Change Map Type",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.toggle_waypoints",
+   "en": "Toggle all Waypoints",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.zoom_in",
+   "en": "Zoom In",
+   "route": "runtime"
+  },
+  {
+   "namespace": "journeymap",
+   "jar": "journeymap-1.12.2-5.7.1p3.jar",
+   "english_locale": "en_US.lang",
+   "key": "key.journeymap.zoom_out",
+   "en": "Zoom Out",
+   "route": "runtime"
+  }
+ ]
+}

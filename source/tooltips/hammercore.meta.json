@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "HammerLib-1.12.2-12.2.58.jar",
+      "path": "assets/hammercore/lang/en_us.lang"
+    }
+  ]
+}

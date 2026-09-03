@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "SpartanShields-1.12.2-1.5.5.jar",
+      "path": "assets/spartanshields/lang/en_us.lang"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subtitles.aemob.flyingcow.say": "Flying Cow rống",
+  "subtitles.aemob.flyingcow.hurt": "Flying Cow bị thương",
+  "subtitles.aemob.flyingcow.death": "Flying Cow chết",
+  "subtitles.aemob.aechor_plant.attack": "Aechor Plant bắn",
+  "subtitles.aemisc.projectile.shoot": "Poison Dart được bắn",
+  "subtitles.aemisc.dart_shooter.shoot": "Dart Shooter khai hỏa",
+  "subtitles.aeboss.sun_spirit.shoot": "Sun Spirit bắn",
+  "subtitles.aemisc.portal.idle": "Aether Portal phát tiếng vù",
+  "subtitles.aemisc.dungeon_trap.trigger": "Dungeon Trap được kích hoạt",
+  "gui.sun_altar.message": "Sun Spirit không có quyền năng tại thế giới này.",
+  "aether_legacy.general.gameplay_changes.tooltip": "Các tùy chọn này ảnh hưởng đến lối chơi và cách một số nội dung hoạt động.",
+  "aether_legacy.general.visual_options.tooltip": "Các tùy chọn này không ảnh hưởng đến lối chơi và chỉ thay đổi hình ảnh.",
+  "aether_legacy.general.world_gen.tooltip": "Các tùy chọn này ảnh hưởng đến việc tạo thế giới.",
+  "aether_legacy.general.dimension.aether_dimension_id.tooltip": "Đặt ID chiều không gian cho Aether.",
+  "item.lore_book.name": "Book of Lore",
+  "item.tooltip.aether_tune": "Aether Tune",
+  "item.tooltip.ascending_dawn": "Ascending Dawn",
+  "item.tooltip.legacy": "Legacy",
+  "item.tooltip.welcoming_skies": "Welcoming Skies"
+}

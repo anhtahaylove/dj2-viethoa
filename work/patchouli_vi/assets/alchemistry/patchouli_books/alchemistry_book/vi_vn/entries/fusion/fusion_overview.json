@@ -1,0 +1,20 @@
+{
+  "name": "Tổng quan về Fusion",
+  "icon": "alchemistry:fusion_controller",
+  "category": "fusion_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Fusion Multiblock cho phép bạn hợp nhất hai nguyên tố để tạo ra nguyên tố mới. Đầu ra được quyết định bởi tổng số hiệu nguyên tử của hai đầu vào. Ví dụ: Iron (26) + Dysprosium (66) -> Uranium (92)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:fusion_controller",
+      "recipe2": "alchemistry:fusion_core"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:fusion_casing"
+    }
+  ]
+}

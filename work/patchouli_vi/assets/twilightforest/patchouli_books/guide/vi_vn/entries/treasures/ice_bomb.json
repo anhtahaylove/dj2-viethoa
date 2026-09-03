@@ -1,0 +1,15 @@
+{
+  "name": "Ice Bomb",
+  "icon": "twilightforest:ice_bomb",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/ice_bomb",
+  "sortnum": 7120,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Ice Bomb",
+      "item": "twilightforest:ice_bomb",
+      "text": "Ice Bomb là thứ tuyệt nhất trên đời. Vừa lạnh giá, vừa cực ngầu! Đúng là một quả bom theo đúng nghĩa đen"
+    }
+  ]
+}

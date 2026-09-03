@@ -1,0 +1,26 @@
+{
+  "name": "Runed Smasher",
+  "icon": "roots:runed_pickaxe",
+  "category": "crafting_armor_tools_runed",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chắc chắn và bền bỉ, vẫn có khả năng tự phục hồi, dù chậm hơn nhiều so với các công cụ khác.$(br2)$(info) Runed Smasher có cấp khai thác tương đương công cụ kim cương.$(br2)$(info) Đặc biệt nhất, Runed Smasher không chỉ phá một khối mà phá cả khu vực 3x3."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_pickaxe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_pickaxe",
+        "crafting/living_pickaxe",
+        "resources/runed_obsidian"
+      ]
+    }
+  ]
+}

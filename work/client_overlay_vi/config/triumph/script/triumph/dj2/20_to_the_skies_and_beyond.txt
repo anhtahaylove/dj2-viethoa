@@ -1,0 +1,14 @@
+setIcon(<galacticraftcore:rocket_t1>)
+setTitle("Lên trời và xa hơn nữa")
+setDescription("Chế tạo Tier 1 Rocket để thăm Moon!")
+
+addParent("triumph:dj2/root")
+setPos(-31,284)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasTier1Rocket", "minecraft:inventory_changed")
+criteria.addItem(<galacticraftcore:rocket_t1, meta:0~3, count:1~64>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:20_to_the_skies_and_beyond")

@@ -1,0 +1,23 @@
+{
+  "name": "Lava Cat",
+  "icon": "minecraft:lava_bucket",
+  "category": "creatures",
+  "flag": "roots:lava_cat",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "lava_cat",
+      "breed": "Nhân giống: bằng Blaze Powder.",
+      "tame": "Thuần hóa: bằng Blaze Rod.",
+      "blurb": "Dội nước lên sẽ biến những con mèo này thành Obsidian!"
+    },
+    {
+      "type": "entity",
+      "name": "Lava Cat",
+      "entity": "mysticalworld:entity_lava_cat",
+      "scale": 0.5,
+      "offset": -0.3,
+      "text": "Tương tự, việc đi vào lava sẽ biến chúng trở lại trạng thái ban đầu."
+    }
+  ]
+}

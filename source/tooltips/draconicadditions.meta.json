@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "Draconic-Additions-1.12.2-1.15.1.39-universal.jar",
+      "path": "assets/draconicadditions/lang/en_US.lang"
+    }
+  ]
+}

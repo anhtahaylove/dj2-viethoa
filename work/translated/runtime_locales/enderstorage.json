@@ -1,0 +1,7 @@
+{
+  "enderstorage.command.no_arguments": "Số lượng đối số không hợp lệ",
+  "enderstorage.command.no_colour": "Màu không hợp lệ: %s",
+  "enderstorage.command.no_freq": "Tần số không hợp lệ",
+  "enderstorage.command.usage": "enderstorage <tần số>|(<màu> <màu> <màu>) [chủ sở hữu]",
+  "enderstorage.serverop": "Quản Trị Viên"
+}

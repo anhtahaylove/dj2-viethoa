@@ -1,0 +1,12 @@
+{
+  "name": "Death Protection Poppet",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_deathprotection",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_deathprotection",
+      "text": "Giúp bạn thoát chết một lần"
+    }
+  ]
+}

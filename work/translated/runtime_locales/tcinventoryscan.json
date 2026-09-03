@@ -1,0 +1,6 @@
+{
+  "tcinventoryscan:scanning": "Đang Quét",
+  "tcinventoryscan:serverNotInstalled": "Máy chủ này chưa cài Thaumcraft Inventory Scanning. Tính năng sẽ bị tắt.",
+  "tcinventoryscan:thaumometerTooltip": "Quét kho đồ khả dụng",
+  "tcinventoryscan:thaumometerTooltipMore": "Rê chuột qua vật phẩm với Thaumometer\\ntrên con trỏ để quét."
+}

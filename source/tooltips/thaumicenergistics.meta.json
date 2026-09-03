@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "thaumicenergistics-extended_life-2.2.7.jar",
+      "path": "assets/thaumicenergistics/lang/en_us.lang"
+    }
+  ]
+}

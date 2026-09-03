@@ -1,0 +1,18 @@
+{
+  "modifier": "beheading",
+  "text": [
+    {
+      "text": "Gắn ender pearl và obsidian vào vũ khí tạo ra hiệu ứng kỳ lạ: tách đầu mục tiêu khỏi cơ thể. Chỉ tỉa bớt phần ngọn thôi mà?"
+    }
+  ],
+  "effects": [
+    "Enemies drop their heads",
+    "Thêm Obsidian và Ender Pearl sẽ tăng tỉ lệ chặt đầu",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:broadsword",
+    "tconstruct:cleaver",
+    "tconstruct:arrow"
+  ]
+}

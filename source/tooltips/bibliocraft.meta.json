@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+      "path": "assets/bibliocraft/lang/en_us.lang"
+    }
+  ]
+}

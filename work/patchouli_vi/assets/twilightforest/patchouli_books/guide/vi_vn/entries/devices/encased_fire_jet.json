@@ -1,0 +1,15 @@
+{
+  "name": "Encased Fire Jet",
+  "icon": "twilightforest:fire_jet:6",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/encased_fire_jet",
+  "sortnum": 5060,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Encased Fire Jet",
+      "item": "twilightforest:fire_jet:6",
+      "text": "Với một Fire Jet và chút tài kỹ thuật, tôi có thể tạo ra một Fire Jet tự duy trì, có thể phun lửa khi nhấn nút hoặc nhận một chút tín hiệu Redstone. Tuy nhiên, thiết bị này có một nhược điểm nhỏ: nó cần làm nóng trước khi phun, nên tôi phải căn thời điểm phát tín hiệu thật chuẩn."
+    }
+  ]
+}

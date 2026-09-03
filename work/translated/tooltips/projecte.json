@@ -1,0 +1,12 @@
+{
+  "pe.emc.emc_tooltip_prefix": "EMC:",
+  "pe.emc.maxgenrate_tooltip": "Tốc độ tạo tối đa:",
+  "pe.emc.maxoutrate_tooltip": "Tốc độ xuất tối đa:",
+  "pe.emc.maxstorage_tooltip": "Sức chứa tối đa:",
+  "pe.emc.stackemc_tooltip_prefix": "EMC của chồng:",
+  "pe.emc.storedemc_tooltip": "EMC đã lưu:",
+  "pe.gem.nightvision_tooltip": "Nhìn trong bóng tối:",
+  "pe.gem.stepassist_tooltip": "Hỗ trợ bước:",
+  "pe.misc.storedxp_tooltip": "XP đã lưu:",
+  "pe.nei.worldtransmute.description": "Nhấp trong thế giới, giữ Shift và nhấp để chọn đầu ra thứ hai"
+}

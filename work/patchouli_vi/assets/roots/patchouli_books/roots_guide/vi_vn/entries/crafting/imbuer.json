@@ -1,0 +1,37 @@
+{
+  "name": "Imbuer",
+  "icon": "roots:imbuer",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:imbuer",
+      "text": "$(info) Vui lòng xem $(l:spells/introduction#imbuing)phần giới thiệu phép thuật về imbuing$() để biết thông tin về phép thuật.$(br2)Hướng dẫn sử dụng cụ thể cùng mọi công dụng khác của Imbuer sẽ được trình bày và giải thích trong các trang tiếp theo.$(br2)"
+    },
+    {
+      "type": "text",
+      "title": "Tính năng bổ sung",
+      "text": "$(warning) Nhiều tính năng trong số này có thể bị tắt trong cấu hình. Nếu có gì đó không hoạt động, có thể tính năng ấy đã bị tắt trong modpack của bạn.$(br2)Ngoài việc imbuing vào spell library, Imbuer còn cho phép bạn thực hiện các thao tác sau:$(li)sửa vật phẩm mà không tốn XP bằng nguyên liệu sửa chữa tương ứng$(li)dùng $(l:resources/runic_dust)runic dust$() để gỡ toàn bộ enchantment khỏi vật phẩm đã được enchant."
+    },
+    {
+      "type": "text",
+      "title": "Sửa vật phẩm",
+      "text": "Có thể đặt vật phẩm bị hư hại vào Imbuer, sau đó thêm nguyên liệu sửa chữa tương ứng. Lượng độ bền được phục hồi thấp hơn một chút so với khi dùng anvil.$(br2)$(warning) Phải đặt vật phẩm bị hư hại vào trước và chỉ có thể đặt vật phẩm bị hư hại.$(br2)Mỗi lần chỉ có thể thêm một nguyên liệu sửa chữa, nhưng không tốn kinh nghiệm và không có mức phạt cộng dồn."
+    },
+    {
+      "type": "text",
+      "title": "Gỡ enchantment khỏi vật phẩm",
+      "text": "Bạn có thể gỡ các enchantment khỏi vật phẩm, đồng thời có khả năng giảm tối đa một phần ba chi phí sửa chữa của vật phẩm. Chỉ cần đặt vật phẩm đã được enchant vào Imbuer, sau đó thêm $(l:resources/runic_dust)runic dust$().$(br2)$(warning) Phải đặt vật phẩm đã được enchant vào trước.$(br2)Chỉ có thể giảm chi phí sửa chữa bằng cách gỡ enchantment."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/imposer",
+        "spells/introduction1",
+        "crafting/staff"
+      ]
+    }
+  ]
+}

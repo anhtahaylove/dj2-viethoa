@@ -1,0 +1,97 @@
+{
+  "name": "Life Drain",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_life_drain\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_life_drain",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Phép này hút sinh lực từ các sinh vật gần đó vào bạn, hồi máu cho bạn và gây sát thương lên chúng.$(br2)Với các modifier, bạn có thể tránh gây sát thương cho thực thể hiền hòa, nhắm vào sinh vật cụ thể hoặc chia sẻ hiệu ứng hồi máu cho đồng minh gần đó.$(br2)$(info) Phép hút sinh lực dựa trên khoảng cách và bỏ qua vật cản."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_life_drain"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:amplified_healing",
+      "anchor": "amplified_healing"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:peaceful_drain",
+      "anchor": "peaceful_drain"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:distributed_healing",
+      "anchor": "distributed_healing"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:spectral_drain",
+      "anchor": "spectral_drain"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:targeted_drain",
+      "anchor": "targeted_drain"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:lightened_load",
+      "anchor": "lightened_load"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:brimstone",
+      "anchor": "brimstone"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:slowing_drain",
+      "anchor": "slowing_drain"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_life_drain",
+      "modifier": "roots:chthonic",
+      "anchor": "chthonic"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:life_drain/SECONDS/cooldown) giây.$(br2)$(bold)Sát thương:$() Sát thương do phép này gây ra được tính là sát thương Wither. Có $(spell:life_drain/IN_X/wither_chance) cơ hội khiến sinh vật trúng đòn nhận Withering $(spell:life_drain/ROMAN/wither_amplifier) trong $(spell:life_drain/SECONDS/wither_duration).$(br2)$(bold)Hồi máu:$() Mỗi khi một thực thể chịu sát thương, người niệm được hồi $(spell:life_drain/HEART/heal) tim. Với modifier $(modifier:amplified_healing)$(), được hồi thêm lượng máu tương đương $(spell:life_drain/HEART/additional_heal) tim"
+    },
+    {
+      "type": "text",
+      "text": "việc hồi máu được thực hiện. Với modifier $(modifier:distributed_healing)$(), lượng hồi máu này được chuyển sang các thực thể ôn hòa ở gần thay vì người thi triển.$(br2)$(bold)Hút linh hồn:$() Với modifier $(modifier:spectral_drain)$(), bạn có $(spell:life_drain/PERCENT/spectral_chance) cơ hội hút sinh lực từ các linh hồn và hồn ma trong Twilight grove vào bản thân.$(br2)$(bold)Nhắm mục tiêu:$() Với $(modifier:targeted_drain)$(), bạn có thể hút sinh lực của mục tiêu cách xa tối đa $(spell:life_drain/distance) khối."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Giảm sát thương:$() Khi bật modifier $(modifier:lightened_load)$(), sát thương bạn gây ra và lượng máu bạn nhận được đều giảm một nửa.$(br2)$(bold)Lửa:$() Khi bật modifier $(modifier:brimstone)$(), các thực thể chịu sát thương cũng bị thiêu đốt trong $(spell:life_drain/fire_duration) và nhận thêm $(spell:life_drain/HEART/fire_damage) tim sát thương lửa. Sát thương bổ sung này không hồi máu cho bạn.$(br2)$(bold)Làm chậm:$() Khi bật modifier $(modifier:slowing_drain)$(), các thực thể chịu sát thương cũng"
+    },
+    {
+      "type": "text",
+      "text": "nhận hiệu ứng Slowness $(spell:life_drain/ROMAN/slow_amplifier) trong $(spell:life_drain/SECONDS/slow_duration) giây.$(br2)$(bold)Dưới nước:$() Khi bật modifier $(modifier:chthonic)$(), các sinh vật ngập trong nước chịu sát thương gấp đôi."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/baffle_cap",
+        "herbs/moonglow"
+      ]
+    }
+  ]
+}

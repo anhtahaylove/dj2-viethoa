@@ -1,0 +1,316 @@
+%s RF in reserve	%s RF dự trữ
+%s Required for activation	Cần %s để kích hoạt
+%s configuration	Cấu hình %s
+&cError in the recipe	&cLỗi trong công thức
+<Shift for broom info>	<Shift để xem thông tin chổi>
+A little bit evil\nKiller healing	Hơi tà ác\nHồi phục chết người
+A little bit evil\nSlow dive	Hơi tà ác\nRơi chậm
+A little bit evil\nVisible night	Hơi tà ác\nNhìn rõ ban đêm
+Active	Đang hoạt động
+Active with signal	Hoạt động khi có tín hiệu
+Active without signal	Hoạt động khi không có tín hiệu
+Added Mining Speed	Thêm Tốc Độ Đào
+Always active	Luôn hoạt động
+An aesthetic accessory made of gold.	Món phụ kiện trang trí làm bằng vàng.
+An aesthetic accessory made of iron.	Một món phụ kiện trang trí làm bằng sắt.
+And	Và
+Aqua Bubble begins	Aqua Bubble bắt đầu
+Arithmetic	Số Học
+Armored	Được Bọc Giáp
+Author: %s	Tác giả: %s
+Auto Extract	Tự động rút
+Available	Khả dụng
+Back	Quay lại
+Balance Grid	Cân Bằng Lưới
+Bane of Arthropods: +1. Max of 10.	Bane of Arthropods: +1. Tối đa 10.
+Bass Drum Note	Nốt Trống Bass
+Bass Guitar Note	Nốt Guitar Bass
+Beheading: +1. Max of 10.	Beheading: +1. Tối đa 10.
+Biome generation settings	Cài đặt tạo biome
+Black	Đen
+Blacklist	Danh sách chặn
+Block settings	Cài đặt block
+Blocks	Khối
+Blue	Xanh dương
+Brown	Nâu
+Can also be used as a powered furnace	Cũng có thể dùng làm lò nung chạy bằng năng lượng
+Can be applied to:	Có thể áp dụng cho:
+Can be tuned in Soul Binder.	Có thể tinh chỉnh trong Soul Binder.
+Can be used as beacon base	Có thể dùng làm đế beacon
+Can be used to apply and remove upgrades	Có thể dùng để gắn và gỡ nâng cấp
+Cancel	Hủy
+Capability settings	Cài đặt capability
+Cast	Chuyển Kiểu
+Channel	Kênh
+Chat Prefix Color	Màu tiền tố chat
+Chat Prefix Text	Nội dung tiền tố chat
+Check NBT Recursively	Kiểm Tra NBT Đệ Quy
+Clear	Xóa
+Clear Grid	Xoá Lưới
+Click the button to change modes.	Nhấp nút để đổi chế độ.
+Clicks Note	Nốt Click
+Client	Máy khách
+Compactor: Specialization	Compactor: Chuyên môn hóa
+Compression Dynamo: Specialization	Compression Dynamo: Chuyên môn hóa
+Concat	Nối
+Configure IO	Cấu hình IO
+Contains	Chứa
+Contains:	Bao gồm:
+Coolant	Chất làm mát
+Core settings	Cài đặt lõi
+Craftable	Có thể chế tạo
+Crafting	Chế tạo
+Crash on Compatibility issue	Dừng game khi có vấn đề tương thích
+Crash on invalid Recipe	Dừng game khi gặp công thức không hợp lệ
+Current Bonus: +%d%%	Mức thưởng hiện tại: +%d%%
+Current Capacity: %d LP	Dung lượng hiện tại: %d LP
+Current Tier: %d	Bậc hiện tại: %d
+Cyan	Lục lam
+Damaged	Đã hư hại
+Default	Mặc định
+Device Missing Channel	Thiết bị thiếu kênh
+Durability:	Độ bền:
+ERROR	LỖI
+Earth	Đất
+Effective speed:	Tốc độ hiệu dụng:
+Eldritch Crab dies	Eldritch Crab chết
+Eldritch Guardian attacks	Eldritch Guardian tấn công
+Eldritch Guardian dies	Eldritch Guardian chết
+Eldritch Guardian moans	Eldritch Guardian rên rỉ
+Eldritch Guardian screeches	Eldritch Guardian rít lên
+Empty	Trống
+Enable	Bật
+Enabled	Bật
+Enchantment settings	Cài đặt enchantment
+Energetic Infuser: Specialization	Energetic Infuser: Chuyên môn hóa
+Energy	Năng lượng
+Energy Conduit	Conduit Năng lượng
+Energy: %s / %s RF	Năng lượng: %s / %s RF
+Entities	Các Entity
+Entity settings	Cài đặt entity
+Errors:	Lỗi:
+Exit	Thoát
+Export Fluid To Entities	Xuất Chất Lỏng Sang Thực Thể
+Extra damage to armored targets	Tăng sát thương lên mục tiêu có giáp
+Extract	Lấy ra
+FE Capacity	Sức Chứa FE
+Failed to start ritual: requires %s.	Không khởi được nghi lễ: cần %s.
+Fall damage negated when powered	Vô hiệu hóa sát thương khi rơi nếu được cấp năng lượng
+Feed to Chickens.	Cho gà ăn.
+Filter	Bộ lọc
+Fire	Lửa
+Fire Aspect: +1. Max of 10.	Fire Aspect: +1. Tối đa 10.
+Fluid Capacity	Dung lượng Fluid
+Fluid settings	Cài đặt fluid
+For problems that look like nails.	Dành cho những vấn đề trông như đinh.
+Force Clear Grid	Buộc Xoá Lưới
+Found	Đã Tìm Thấy
+Fractionating Still: Specialization	Fractionating Still: Chuyên môn hóa
+Frequency	Tần số
+Fuel	Nhiên liệu
+GUI overlay X offset	Độ lệch X của lớp phủ GUI
+GUI overlay Y offset	Độ lệch Y của lớp phủ GUI
+GUI overlay position	Vị trí lớp phủ GUI
+General settings	Cài đặt chung
+Generates power from the sun.	Tạo năng lượng từ ánh sáng mặt trời.
+Generating	Đang tạo
+Generating: %s	Đang tạo: %s
+Go back to previous inventory	Quay lại kho đồ trước đó
+Gray	Xám
+Green	Xanh lá
+Grinds ore and other items	Nghiền quặng và các vật phẩm khác
+Group: %s	Nhóm: %s
+Has an effect when consumed	Có hiệu ứng khi sử dụng
+Health	Máu
+Heart beats frantically	Tim đập dồn dập
+Heat	Nhiệt
+Height	Chiều cao
+Hold SHIFT for contents.	Giữ SHIFT để xem nội dung.
+Hold §bSHIFT§7 for details	Giữ §bSHIFT§7 để xem chi tiết
+Igneous Extruder: Specialization	Igneous Extruder: Chuyên môn hóa
+Import All Items	Nhập Toàn Bộ Vật Phẩm
+Import Fluid From Entities	Nhập Chất Lỏng Từ Thực Thể
+Inactive	Không hoạt động
+Increased Attack Speed	Tăng Tốc Độ Tấn Công
+Increased Bleed Duration	Tăng Thời Gian Chảy Máu
+Increased Dodge Chance	Tăng Tỉ Lệ Né Đòn
+Increased Elemental Resistance	Tăng Kháng Nguyên Tố
+Increased Life Recovery	Tăng Hồi Phục Sinh Mệnh
+Increased Maximum Life	Tăng Sinh Lực Tối Đa
+Increased Melee Damage	Tăng Sát Thương Cận Chiến
+Increased Mining Speed	Tăng Tốc Độ Đào
+Increased Movement Speed	Tăng Tốc Độ Di Chuyển
+Increased Perk Effect	Tăng Hiệu Lực Perk
+Increased Perk Experience	Tăng Kinh Nghiệm Perk
+Increased PotionEffect Duration	Tăng Thời Lượng PotionEffect
+Increased Projectile Damage	Tăng Sát Thương Đạn Bắn
+Increases movement speed	Tăng tốc độ di chuyển
+Increases step and jump height	Tăng độ cao bước và nhảy
+Increases yield from ores.	Tăng sản lượng thu được từ quặng.
+Increases your attack damage.	Tăng sát thương tấn công.
+Input	Đầu vào
+Insert	Đưa vào
+Introduction	Giới thiệu
+Inventory / Fuel	Kho Đồ / Nhiên Liệu
+Is never lost on death	Không bao giờ mất khi chết
+Item Frame Rotation	Góc Xoay Item Frame
+Item settings	Cài đặt item
+Items	Vật phẩm
+Launch	Phóng
+Launched	Đã phóng
+Length	Độ Dài
+Light Blue	Xanh dương nhạt
+Light Gray	Xám nhạt
+Light Level	Mức Ánh Sáng
+Lime	Xanh nõn chuối
+Logic Programming	Lập trình logic
+Looting: +1. Max of 10.	Looting: +1. Tối đa 10.
+Machine will not manufacture Plates.	Máy sẽ không chế tạo Plate.
+Magenta	Đỏ tươi
+Magma Crucible: Specialization	Magma Crucible: Chuyên môn hóa
+Max Energy	Năng Lượng Tối Đa
+Max Extract:	Tốc độ rút tối đa:
+Max IO:	I/O tối đa:
+Max Output	Đầu ra tối đa
+Max: %s	Tối đa: %s
+Mine dimensional shards	Khai thác Dimensional Shards
+Mob settings	Cài đặt mob
+Mobs Can Spawn on this Block.	Mob có thể sinh ra trên khối này.
+Mod compatibility settings	Cài đặt tương thích mod
+Modifier	Hệ số
+More Perk Effect	Tăng Hiệu Lực Perk
+Must be powered, active and in the	Phải được cấp năng lượng, đang hoạt động và nằm trong
+Must be worn as a chestplate.	Phải được mặc ở ô áo giáp ngực.
+Name	Tên
+Needs %1$s ember in the chunk.	Cần %1$s ember trong chunk.
+Needs %1$s-%2$s ember in the chunk.	Cần %1$s-%2$s ember trong chunk.
+Needs more than %1$s ember in the chunk.	Cần hơn %1$s ember trong chunk.
+Nether Tree\nPale as a ghost	Cây Nether\nNhợt nhạt như ma
+Next	Tiếp
+No	Không
+No Fall Damage	Không nhận sát thương khi rơi
+No change.	Không thay đổi.
+None	Không có
+Nourishment	Dinh dưỡng
+Nutrient Tank	Bình Dưỡng chất
+OFF	TẮT
+ON	BẬT
+Only activated by hostile mobs.	Chỉ kích hoạt bởi mob thù địch.
+Only activated by mobs and players.	Chỉ kích hoạt bởi mob và người chơi.
+Only activated by specific mobs.	Chỉ được kích hoạt bởi các mob cụ thể.
+Options	Tuỳ Chọn
+Options that have no effects on servers	Các tùy chọn không ảnh hưởng đến máy chủ
+Or	Hoặc
+Ore Dictionary Names:	Tên Ore Dictionary:
+Output	Đầu ra
+Owner	Chủ sở hữu
+Owner:	Chủ sở hữu:
+Panel	Mảng
+Parse	Phân Tích
+Per Tick: %s %s/t	Mỗi tick: %s %s/t
+Piano Note	Nốt Piano
+Pick Up Item Entities	Nhặt Thực Thể Vật Phẩm
+Pink	Hồng
+Place Item Entities	Đặt Thực Thể Vật Phẩm
+Place a filter in this slot to	Đặt bộ lọc vào ô này để
+Plants in a 3x3 area	Trồng cây trong khu vực 3x3
+Player Count	Số Người Chơi
+Players	Người Chơi
+Potion settings	Cài đặt potion
+Power: $P	Năng lượng: $P
+Priority	Ưu tiên
+Processing	Xử Lý
+Projectile	Đạn
+Protection against bees	Bảo vệ khỏi ong
+Pulls nearby item towards you	Hút vật phẩm ở gần về phía bạn
+Pulverizer: Specialization	Pulverizer: Chuyên môn hóa
+Purple	Tím
+Range	Phạm vi
+Rarity	Độ Hiếm
+Receive	Nhận
+Recipe Inputs By Output	Đầu Vào Recipe Theo Đầu Ra
+Recipe Output By Input	Đầu Ra Recipe Theo Đầu Vào
+Recipes By Input	Các Recipe Theo Đầu Vào
+Recipes By Output	Các Recipe Theo Đầu Ra
+Red	Đỏ
+Redstone Furnace: Specialization	Redstone Furnace: Chuyên môn hóa
+Redstone Mode	Chế Độ Redstone
+Rename	Đổi tên
+Requires %d FE/t	Yêu cầu %d FE/t
+Right Click to hide Boss Bar.	Bấm chuột phải để ẩn thanh máu Boss.
+Rotate Grid	Xoay Lưới
+Save	Lưu
+Search	Tìm Kiếm
+Send	Gửi
+Send anonymous analytics	Gửi dữ liệu phân tích ẩn danh
+Sequential Fabricator: Functionality	Sequential Fabricator: Chức năng
+Sharpness: +1. Max of 10.	Sharpness: +1. Tối đa 10.
+Shift-R-Click to enable / disable	Shift-Nhấp chuột phải để bật / tắt
+Show the biome of your location	Hiển thị biome tại vị trí của bạn
+Similar to wheat, it grows in the wild	Tương tự lúa mì, mọc hoang trong tự nhiên
+Single	Đơn
+Smelting	Nung chảy
+Smite: +1. Max of 10.	Smite: +1. Tối đa 10.
+Snare Note	Nốt Snare
+Sneak and hit to use Selector Mode	Giữ Shift và đánh để dùng Selector Mode
+Sneak while playing to use Selector Mode	Giữ Shift khi chơi để dùng Selector Mode
+Sort items by mod ID	Sắp xếp vật phẩm theo ID mod
+Sort items by name	Sắp xếp vật phẩm theo tên
+Sort items by their quantity	Sắp xếp vật phẩm theo số lượng
+Soul	Linh hồn
+Speed	Tốc độ
+Spread Grid	Trải Đều Lưới
+Starting at the end of the alphabet	Bắt đầu từ cuối bảng chữ cái
+Storage	Kho chứa
+Stored Items	Vật Phẩm Đã Lưu
+Target Animals	Nhắm Vào Động Vật
+Target Mobs	Nhắm Vào Mob
+Target Players	Nhắm Vào Người Chơi
+Telepad location saved	Đã lưu vị trí Telepad
+Temperature	Nhiệt độ
+The light level at the target	Mức ánh sáng tại mục tiêu
+The players that are in this world	Những người chơi trong thế giới này
+The radius in blocks.	Bán kính tính bằng khối.
+The source of all string and wool	Nguồn cung cấp chỉ và len
+This recipe cannot be made in	Công thức này không thể chế tạo trong
+Tick time	Thời Gian Tick
+Tier %d	Bậc %d
+Tier: %d	Bậc: %d
+Time	Thời gian
+Total: %s %s	Tổng: %s %s
+True	Đúng
+Turn left-right	Rẽ trái-phải
+Type one and two must be equal.	Kiểu thứ nhất và thứ hai phải giống nhau.
+Unlinked	Chưa liên kết
+Unnamed	Chưa đặt tên
+Use on mobs to collect 'DNA'.	Dùng lên mob để thu thập 'DNA'.
+Use while sneaking to activate.	Dùng khi đang cúi để kích hoạt.
+Use while sneaking to deactivate.	Dùng khi đang cúi để vô hiệu hóa.
+Used to brew EnderIO fluids	Dùng để pha chế chất lỏng EnderIO
+Used to create EnderIO alloys	Dùng để tạo các hợp kim EnderIO
+Used to move blocks in the world	Dùng để di chuyển các khối trong thế giới
+Value between 0 and 1.	Giá trị từ 0 đến 1.
+Value: %s (%s)	Giá trị: %s (%s)
+Variable Redstone Output: One per item.	Tín hiệu Redstone biến thiên: Mỗi vật phẩm tăng một mức.
+Version check	Kiểm tra phiên bản
+Vis Discount: 3%	Giảm tiêu hao Vis: 3%
+White	Trắng
+Whitelist	Danh sách cho phép
+Will not store some objects.	Không chứa được một số vật.
+World generation settings	Cài đặt tạo thế giới
+Yellow	Vàng
+Yes	Có
+You can only unlock 1 Focus Perk.	Bạn chỉ mở khóa được 1 Focus Perk.
+\u0020- Average input over 5 seconds: %s	\u0020- Đầu vào trung bình trong 5 giây: %s
+as requested by mod(s): %s	theo yêu cầu của mod: %s
+discount	giảm giá
+for more info	để biết thêm thông tin
+of	trên
+player XP levels	cấp XP của người chơi
+stat.head.durability.name	Độ bền
+§2§lYour spawn point was set here	§2§lĐiểm hồi sinh của bạn đã được đặt tại đây
+§3Grants an Extra Modifier§r	§3Cho Thêm Một Thuộc Tính§r
+§7Hold §e§oSHIFT §r§7for info.	§7Giữ §e§oSHIFT §r§7để xem thông tin.
+§eDefault Value: §r%s	§eGiá Trị Mặc Định: §r%s
+§eNBT Type: §r%s	§eKiểu NBT: §r%s
+§eType: §r%s	§eKiểu: §r%s

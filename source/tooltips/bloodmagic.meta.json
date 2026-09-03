@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "BloodMagic-1.12.2-2.4.3-105.jar",
+      "path": "assets/bloodmagic/lang/en_US.lang"
+    }
+  ]
+}

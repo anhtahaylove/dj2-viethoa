@@ -1,0 +1,11 @@
+# Safe player-facing tooltip/prose candidates.
+pe.emc.emc_tooltip_prefix=EMC:
+pe.emc.maxgenrate_tooltip=Maximum Generation Rate:
+pe.emc.maxoutrate_tooltip=Maximum Output Rate:
+pe.emc.maxstorage_tooltip=Maximum Storage:
+pe.emc.stackemc_tooltip_prefix=Stack EMC:
+pe.emc.storedemc_tooltip=Stored EMC:
+pe.gem.nightvision_tooltip=Night Vision:
+pe.gem.stepassist_tooltip=Step Assist:
+pe.misc.storedxp_tooltip=Stored XP:
+pe.nei.worldtransmute.description=Click in world, shift click for second output

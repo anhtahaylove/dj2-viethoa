@@ -1,0 +1,20 @@
+{
+  "tool": "shortbow",
+  "text": [
+    {
+      "text": "Shortbow là lựa chọn nhanh nhẹn cho chiến đấu tầm xa. Nó bắn nhanh hơn phiên bản vanilla và cho phép di chuyển nhanh hơn, nhưng đổi lại gây ít sát thương hơn."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Nếu muốn biến kẻ địch thành bia cắm kim, Shortbow là lựa chọn dành cho bạn."
+    }
+  ],
+  "properties": [
+    "Fast & mobile",
+    "Uses Tinkers' Arrows",
+    "Có thể dùng với Arrow vanilla",
+    "Có thể dùng Arrow thường, nhưng kém hiệu quả hơn"
+  ]
+}

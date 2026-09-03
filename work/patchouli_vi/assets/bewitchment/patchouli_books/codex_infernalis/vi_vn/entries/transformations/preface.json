@@ -1,0 +1,15 @@
+{
+  "name": "Lời mở đầu",
+  "category": "transformations",
+  "icon": "bewitchment:bottle_of_vampire_blood",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nhiều truyền thuyết kể về những xác chết hung ác uống máu người sống để duy trì sự sống trái tự nhiên, đồng thời có thể hóa thành dơi chập chờn khi rình rập trong đêm. Cũng có những truyền thuyết kể về những người biến thành quái vật mang hình sói ghê tởm, chuyên nuốt chửng và hủy hoại sinh mạng của người vô tội,"
+    },
+    {
+      "type": "text",
+      "text": "và bị ham muốn săn mồi thú tính chiếm hữu ngay khi ánh trăng tròn chạm vào da thịt khốn khổ của họ. Vì vậy, nhiều nhà huyền thuật mong muốn trở thành một trong những quái vật này. Tuy nhiên, chưa ai khám phá ra nghi thức để làm điều đó. Có lẽ sau này, con đường biến đổi sẽ được tìm thấy."
+    }
+  ]
+}

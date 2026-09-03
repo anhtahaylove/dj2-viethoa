@@ -1,0 +1,20 @@
+# Safe player-facing tooltip/prose candidates.
+subtitles.aemob.flyingcow.say=Flying Cow moos
+subtitles.aemob.flyingcow.hurt=Flying Cow hurts
+subtitles.aemob.flyingcow.death=Flying Cow dies
+subtitles.aemob.aechor_plant.attack=Aechor Plant shoots
+subtitles.aemisc.projectile.shoot=Poison Dart shot
+subtitles.aemisc.dart_shooter.shoot=Dart Shooter fired
+subtitles.aeboss.sun_spirit.shoot=Sun Spirit shoots
+subtitles.aemisc.portal.idle=Aether Portal wooshes
+subtitles.aemisc.dungeon_trap.trigger=Dungeon Trap activated
+gui.sun_altar.message=The sun spirit has no power over this realm.
+aether_legacy.general.gameplay_changes.tooltip=These options affect gameplay, and how some of the content works.
+aether_legacy.general.visual_options.tooltip=These options do not affect gameplay, and are purely visual.
+aether_legacy.general.world_gen.tooltip=These options affect world generation.
+aether_legacy.general.dimension.aether_dimension_id.tooltip=Set the Dimension ID for the Aether.
+item.lore_book.name=Book of Lore
+item.tooltip.aether_tune=Aether Tune
+item.tooltip.ascending_dawn=Ascending Dawn
+item.tooltip.legacy=Legacy
+item.tooltip.welcoming_skies=Welcoming Skies

@@ -1,0 +1,401 @@
+{
+  "chapter_index": 18,
+  "title_key": "dj2.quest.ql.18.title",
+  "chapter_title_en": "21. Thaumatis Continuum",
+  "desc_key": "dj2.quest.ql.18.desc",
+  "chapter_desc_en": "Augment your Thaumaturgy, and unlock Digital Essentia storage!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.18.title",
+      "en": "21. Thaumatis Continuum"
+    },
+    {
+      "key": "dj2.quest.ql.18.desc",
+      "en": "Augment your Thaumaturgy, and unlock Digital Essentia storage!"
+    },
+    {
+      "key": "dj2.quest.db.191.title",
+      "en": "Wow, such Essentia Storage"
+    },
+    {
+      "key": "dj2.quest.db.191.desc",
+      "en": "Craft a 16k ME Essentia Storage Component.%n%nWhen upgraded to a Cell, it stores 128,000 units Essentia. Wow!%n%nHonestly that's more than you'll ever need, buuuuut, you can't stop before the finish line, can you?"
+    },
+    {
+      "key": "dj2.quest.db.192.title",
+      "en": "Storing your Essentia even more"
+    },
+    {
+      "key": "dj2.quest.db.192.desc",
+      "en": "Craft a 4k ME Essentia Storage Component! Just like regular Storage Components, when upgraded to a Storage Cell, these are capable of storing Essentia (instead of items).%n%nThis one stores 32,000 units of Essentia (8 times the size of the Cell)."
+    },
+    {
+      "key": "dj2.quest.db.193.title",
+      "en": "Conduct it all the way!"
+    },
+    {
+      "key": "dj2.quest.db.193.desc",
+      "en": "Use a FULLY CHARGED Impetus Conductor with an Impetus Crystal to craft Conducted Impetus. WARNING: Do NOT autocraft this. AE2 could eat up your inputs, if the given Impetus Conductor isn't fully charged*.%n%nTo charge your Impetus Conductor, insert it into your Void Recharge Pedestal. Make sure it has an incoming beam of Impetus.%n%n%n%n-------------------------------%n%n* This is because the charge value is (nontraditionally) stored in the Forge Cap NBT of the item, not the regular NBT."
+    },
+    {
+      "key": "dj2.quest.db.194.title",
+      "en": "Using Impetus"
+    },
+    {
+      "key": "dj2.quest.db.194.desc",
+      "en": "Craft a Void Recharge Pedestal and connect a beam of Impetus to it. This machine charges any items that accept Impetus, such as an Impetus Conductor."
+    },
+    {
+      "key": "dj2.quest.db.195.title",
+      "en": "Store your Essentia"
+    },
+    {
+      "key": "dj2.quest.db.195.desc",
+      "en": "Craft a 1k ME Essentia Storage Component. When upgraded to a Storage Cell, this is capable of storing 8000 units of Essentia. (8 times the size of the cell). That's 32 times the amount a single Jar can store, so these Components are VERY powerful.%n%nSimply place it in regular Drives, and use Essentia Import and Export Buses to distribute the Essentia between the outside world and your system. Just like you would with items!"
+    },
+    {
+      "key": "dj2.quest.db.196.title",
+      "en": "Homemade, Eldritch flavour"
+    },
+    {
+      "key": "dj2.quest.db.196.desc",
+      "en": "Upgrade a quarter stack of Void Stones to Eldritch Stones!"
+    },
+    {
+      "key": "dj2.quest.db.197.title",
+      "en": "Workbench Charger - for your Terminal"
+    },
+    {
+      "key": "dj2.quest.db.197.desc",
+      "en": "Craft an Arcane Charging Upgrade. Placing this in the slot on the right inside the Arcane Crafting Terminal's GUI or in the Arcane Assembler will act as a Workbench Charger - the Terminal or Assembler will be able to draw Vis from all 8 adjacent Chunks too!"
+    },
+    {
+      "key": "dj2.quest.db.198.title",
+      "en": "Digital Arcane Crafting"
+    },
+    {
+      "key": "dj2.quest.db.198.desc",
+      "en": "Craft an Arcane Crafting Terminal! Attaching this to your ME Network will let you pull items from your system for Arcane Crafts.%n%nUnfortunately we haven't been able to figure out a way to keep the 6 Vis Crystals refilled, so you'll still have to do that manually. Simply place them in the slots on the right."
+    },
+    {
+      "key": "dj2.quest.db.199.title",
+      "en": "Roar! More Core for sure!"
+    },
+    {
+      "key": "dj2.quest.db.199.desc",
+      "en": "Craft a Diffusion Core and a Coalescence Core to get into Thaumic Energistics!%n%nTo unlock the Thaumic Energistics tab in your Thaumonomicon, simply scan any Applied Energistics item or block."
+    },
+    {
+      "key": "dj2.quest.db.200.title",
+      "en": "Void Rift? Pwah, it's mine!"
+    },
+    {
+      "key": "dj2.quest.db.200.desc",
+      "en": "Craft an Impetus Drainer! Placing this close to a Void Rift will start draining it. You can disable/enable this functionality with a Redstone signal."
+    },
+    {
+      "key": "dj2.quest.db.201.title",
+      "en": "Break it apart!"
+    },
+    {
+      "key": "dj2.quest.db.201.desc",
+      "en": "Once you've defeated the Eldritch, break apart their tower, and loot the items listed on the right!"
+    },
+    {
+      "key": "dj2.quest.db.202.title",
+      "en": "The Core of Impetus"
+    },
+    {
+      "key": "dj2.quest.db.202.desc",
+      "en": "Craft an Impetus Jewel! This is the base crafting ingredient for all machines that interact with the energy gained from Void Rifts - also known as \"Impetus\"."
+    },
+    {
+      "key": "dj2.quest.db.203.title",
+      "en": "Defeating the Eldritch"
+    },
+    {
+      "key": "dj2.quest.db.203.desc",
+      "en": "Find an Eldritch Spire structure in the Emptiness and raid it!%n%nTo enter the Eldritch Spire, you need to use a Gauntlet to inject Impetus into the lock of the door, same way as entering the dimension.%n%nYou'll need to find 4 key pieces hidden throughout the dungeon and ascend the main tower to progress!%n%nDefeat the final boss and gain access to the Eldritch Revelation!"
+    },
+    {
+      "key": "dj2.quest.db.204.title",
+      "en": "The Ultimate Essentia Storage"
+    },
+    {
+      "key": "dj2.quest.db.204.desc",
+      "en": "Craft a 64k ME Essentia Storage Component!%n%nWhen upgraded to a Cell, it can store 512,000 units of Essentia. (That's 2048 times the amount a single Jar can store. Wow!)"
+    },
+    {
+      "key": "dj2.quest.db.205.title",
+      "en": "Preparing for Halloween?"
+    },
+    {
+      "key": "dj2.quest.db.205.desc",
+      "en": "Craft some SPOOOOKY Lanterns! You can also obtain these from the Emptiness dimension structures."
+    },
+    {
+      "key": "dj2.quest.db.206.title",
+      "en": "Ritual of the Arcane"
+    },
+    {
+      "key": "dj2.quest.db.206.desc",
+      "en": "Craft 16 Arcanium Bases. You can only craft this while in the overworld and standing inside a concentric square of biomes of this shape (these are simply representing blocks, not chunks):%n%n%n§5███████%n█§c█████§5█%n█§c█§a███§c§█§c█§5█%n█§c█§a█§b█§a█§c█§5█%n█§c█§a███§c█§5█%n█§c█████§5█%n███████§r%n%nWith%n%n§5█§r §r=§r Mortum biome%n§c█§r §r=§r Hell (Nether) biome%n§a█§r §r=§r Magical Forest biome%n§b█§r §r=§r Ocean biome%n%n%nTo set this up, you need to use an Arcane Terraformer on top of where the Ocean biome is, with the following steps:%n%n1. Transform a Square area with Range §r=§r 4 into a Mortum biome.%n2. Transform a Square area with Range §r=§r 3 into a Hell biome.%n3. Transform a Square area with Range §r=§r 2 into a Magical Forest biome.%n4. Transform a Square area with Range §r=§r 1 into an Ocean biome.%n%nIf you're unsure if you've transformed the area correctly, you can craft a Ritualistic Biome Checker. by standing in the middle (right on top on the Arcane Terraformer) and Right Clicking the item, it'll tell you how many blocks you have correctly transformed into the required biome.%n%nYOU DON'T HAVE TO BE PERFECT THOUGH! There is some leeway. The recipe will still work if you only transformed:%n%n- 22 of the 24 Mortum biome blocks,%n- 15 of the 16 Hell biome blocks,%n- 7 of the 8 Magical Forest biome blocks.%n%nYou can only do this MANUALLY, and only your Player needs to stand in the central Ocean biome block, the Crafting Table can be further away (as long as you can still reach it).%n%nNote: There is sometimes a bug where the biome layout is entirely correct, and item can still be crafted, even though the crafting output is empty. Then you'll need to click the empty output slot to get the item. This is due to the recipe detecting Player location, not the Crafting Table's location."
+    },
+    {
+      "key": "dj2.quest.db.207.title",
+      "en": "Shaping the world"
+    },
+    {
+      "key": "dj2.quest.db.207.desc",
+      "en": "Craft an Arcane Terraformer and 4 regular Biome Foci in an Arcane Workbench, then use each one in the 4 biomes listed to the right: Ocean, Magical Forest, Hell (Nether) & Mortum.%n%nWARNING: If you Shift+Right Click a Biome Focus, it will get cleared and turn it back into a regular version.%n%nThe Arcane Terraformer can take any of these Foci and turn a circular or square area around it into the wanted biome.%n%nFor this, it'll require 3 key ingredients:%n- Vis, drawn from the air.%n- Essentia, drawn from the 5 input hatches located on the sides and on the bottom. These are specifically for Terra, Aer, Ignis, Aqua, and Permutatio, with Permutatio being drawn from the bottom. The rest should be routed into their respective colored input plug and §cmust§r use Essentia Tubes, not ME Essentia Export Buses, to do so.%n- Impetus, drawn from an Impetus Relay, Impetus Matrix, or Impetus Drainer - routed by an Impetus Resonator.%n%nThese materials will only be used while the machine is active. To activate it, select the desired area in the GUI, then Right Click it with your Gauntlet.%n%n§6Note:§r Thaumic Augmentation (unconventionally) stores a lot of its NBT data in the Forge Cap NBT. Because of this, this quest has been changed to NBT-independent detection, which means that any Biome Focus is accepted. You'll still need the ones listed for the next quest, however."
+    },
+    {
+      "key": "dj2.quest.db.208.title",
+      "en": "Don't (A)-Void these"
+    },
+    {
+      "key": "dj2.quest.db.208.desc",
+      "en": "Using your Void Seeds and materials from Bewitchment, craft some Cold Void Seeds, Cold Void Metal Ingots, and finally, Void Metal Ingots.%n%nWhat a process!"
+    },
+    {
+      "key": "dj2.quest.db.209.title",
+      "en": "If you haven't messed up yet, now is the time!"
+    },
+    {
+      "key": "dj2.quest.db.209.desc",
+      "en": "Pump a lot of Flux into a chunk! This can be best done by setting up a Crucible, filling it to the brim with items that have a high Essentia amount, then breaking or Shift+Right Clicking on the Cauldron.%n%nWARNING: Do NOT do this inside your base. Nearby is fine - although you'll need to keep an eye on the Void Rift spawned this way, not to cause Taint to spawn.%n%nUse a Causality Collapser on the Void Rift! This closes the Rift and drops a fair number of Void Seeds. You'll need a good amount of them, so repeat this process a couple of times."
+    },
+    {
+      "key": "dj2.quest.db.210.title",
+      "en": "Causing Collapses"
+    },
+    {
+      "key": "dj2.quest.db.210.desc",
+      "en": "Craft a couple Causality Collapsers! Depending on your luck, you may need more than the 5 needed to complete the quest.%n%nThe chance that a Rift drops a Primordial Pearl is based on its size, capping at 10%%."
+    },
+    {
+      "key": "dj2.quest.db.212.title",
+      "en": "It isn't so Empty after all..."
+    },
+    {
+      "key": "dj2.quest.db.212.desc",
+      "en": "Mine up a stack of the base Stone of the Emptiness: Void Stones!"
+    },
+    {
+      "key": "dj2.quest.db.213.title",
+      "en": "Enter the Emptiness"
+    },
+    {
+      "key": "dj2.quest.db.213.desc",
+      "en": "Discover a tear in the fabric of spacetime, and activate it with your newly acquired Gauntlet that has an Impetus Conductor attached!%n%nThen enter the Emptiness..."
+    },
+    {
+      "key": "dj2.quest.db.214.title",
+      "en": "Outer Essentia Storage"
+    },
+    {
+      "key": "dj2.quest.db.214.desc",
+      "en": "Sometimes you want to store the Essentia outside of your Storage Cells (for a subnet, for a simple setup that doesn't need as much Essentia, etc.), and these components can come useful."
+    },
+    {
+      "key": "dj2.quest.db.215.title",
+      "en": "Getting the Essentia in & out"
+    },
+    {
+      "key": "dj2.quest.db.215.desc",
+      "en": "Craft an ME Essentia Import Bus & Export Bus.%n%nThey can import / export Essentia from Jars into your Essentia storage system. They can also accept all types of Cards that regular Import and Export Buses can.%n%nTo filter them, use Phials of Essentia."
+    },
+    {
+      "key": "dj2.quest.db.216.title",
+      "en": "A Stepping Stone"
+    },
+    {
+      "key": "dj2.quest.db.216.desc",
+      "en": "Loot or craft some Ancient Pedestals! Using Ancient Stones instead of Arcane Stones, and Ancient Pedestals instead of Arcane Pedestals, you can upgrade your Infusion Altar.%n%nThis new Infusion Altar comes with decreased Essentia costs and increased stability.%n%nOnce it's formed, the center pedestal does not need to remain an Ancient Pedestal.%n%nYou can also place down Ancient Pedestals instead of Arcane Pedestals around the Infusion Altar, reducing Essentia Costs and increasing speed slightly at the cost of increased Instability. You do not need Ancient Pedestals for an Ancient Infusion Altar to function, any Pedestal will work."
+    },
+    {
+      "key": "dj2.quest.db.217.title",
+      "en": "Auto Infusion Matrix"
+    },
+    {
+      "key": "dj2.quest.db.217.desc",
+      "en": "Craft all the required items on the right for an Auto Infusion Matrix multiblock!%n%nCheck the figure in JEI and set up the machine. Make sure to place the Blueprint inside the Machine Controller.%n%nWATCH OUT: You should set it up in a single chunk, and make sure it's more than 16 blocks away from any Thaumcraft Filling Essentia Transfusers you're not planning to use for this machine!%n%nTHE SETUP: There are 41 individual Essentia Input Hatches on the machine, since there are 41 types of Essentia. Each one should be whitelisted to only accept 1 unique type of Essentia. To do this, place a total of 41 Essentia Export Buses (or Storage Buses with a higher priority than your Drives) on each individual Essentia Input Hatch.%n%nEssentia Input Hatches basically act like Jars, having a max capacity of 250 units of Essentia, but unlike Jars, do not store their contents when broken, instead voiding it - this will NOT create any Flux, so feel free to do so.%n%nFIRSTLY: Of course, you'll need a sufficient supply of ALL 41 types of Essentia before you can use this machine effectively. Setup a large automation facility to convert basic materials into Essentia (like Stone into Terra, Redstone into Potentia, etc.).%n%nBUT WHAT ABOUT THE FLUX? Spread out your facility over multiple chunks and use many Flux Condensers to get rid of the Flux. More optimally, let a Flux Rift build, and stabilize it using Stability Field Generators. These are rewarded, although you may need to craft more. Once the Rift is stabilized, you can generate as much Flux in the Chunk as you want, about 32,000 is the limit. Have at it! %n%nBE AWARE that if the Thaumonomicon requires you to craft something in the Infusion Altar, using this machine WON'T COUNT. So do all your crafts in the regular Infusion Altar first.%n%nNote: This whole automation setup will take a while, so don't be discouraged by getting stuck on this quest for a couple days even.%n%nAlso Note: The Essentia Import Hatches don't get colored due to a bug with Modular Magic."
+    },
+    {
+      "key": "dj2.quest.db.218.title",
+      "en": "Need Essentia? Got Essentia!"
+    },
+    {
+      "key": "dj2.quest.db.218.desc",
+      "en": "Craft an Essentia Infusion Provider!%n%nUsing your Thaumic Energistics system, you can provide Essentia for regular Infusions with this. No need for Jars anymore!%n%nHowever, since \"vanilla\" Infusion itself cannot be fully automated, I recommend using this in the Auto Infusion Matrix, a custom Modular Machinery Multiblock."
+    },
+    {
+      "key": "dj2.quest.db.219.title",
+      "en": "Smelting^3"
+    },
+    {
+      "key": "dj2.quest.db.219.desc",
+      "en": "Craft the most efficient Essentia Smeltery, the Void Metal Essentia Smeltery. This machine has a much lower chance of producing Flux than the previous variants but is slower than the Thaumium Essentia smeltery. Though you'll still need to use Flux Condensers if you fully want to get rid of flux."
+    },
+    {
+      "key": "dj2.quest.db.220.title",
+      "en": "The Peak of Alchemy"
+    },
+    {
+      "key": "dj2.quest.db.220.desc",
+      "en": "Craft an Advanced Alchemical Construct! This is purely a crafting ingredient for (you guessed it) advanced alchemy."
+    },
+    {
+      "key": "dj2.quest.db.221.title",
+      "en": "Power of the Void - Stuck together"
+    },
+    {
+      "key": "dj2.quest.db.221.desc",
+      "en": "It's vibrating... what is it up to?"
+    },
+    {
+      "key": "dj2.quest.db.222.title",
+      "en": "Power of the Void"
+    },
+    {
+      "key": "dj2.quest.db.222.desc",
+      "en": "Using your Primordial Pearl and Void Metal craft some Impetus Crystals!%n%nWARNING: Do NOT break the Primordial Pearl. Keep repairing it instead. If you accidentally do, you'll have to obtain another one, which could be quite painful."
+    },
+    {
+      "key": "dj2.quest.db.223.title",
+      "en": "Molding the Void"
+    },
+    {
+      "key": "dj2.quest.db.223.desc",
+      "en": "Craft a Thaumium Caster's Gauntlet, and apply an Impetus Conductor to it by crafting. Now, charge the Impetus Cell by right clicking on a rift - its power will be drawn into the glove!%nIf you need to remove the Impetus Conductor from the gauntlet, simply place the gauntlet in the crafting grid.%n%nWARNING: If you had previous Foci attached, remove them before crafting!"
+    },
+    {
+      "key": "dj2.quest.db.224.title",
+      "en": "A tear in spacetime"
+    },
+    {
+      "key": "dj2.quest.db.224.desc",
+      "en": "Craft a Fracture Locator!%n%nBefore you do the following, make sure you have a Gauntlet with an Impetus Conductor attached (the quest below this).%n%nOh you do? Well then, let me explain.%n%nThere are tears in spacetime that are pretty difficult to notice without an external tool... And they seem to be more common in the Nether than any other place.%n%nBut this invention will let you locate them! It'll brighten up if you get close to and you FACE TOWARD a tear.%n%nTime to spin around in the Nether like it's breakdance!"
+    },
+    {
+      "key": "dj2.quest.db.225.title",
+      "en": "A rare drop"
+    },
+    {
+      "key": "dj2.quest.db.225.desc",
+      "en": "While destroying Flux Rifts with your Causality Collapsers, you might come across a very rare item - the Primordial Pearl. It'll most likely be damaged the first time you obtain it, so it'll have a different name, likely \"Primordial Mote\" or \"Primordial Nodule\".%n%nThis item is used in a multitude of crafts, always only using 1 durability per craft.%n%nIn this pack however, you can also repair the Primordial Pearl with a Tool Poppet! Each Poppet will add back 1 durability point. This can ONLY be done manually, however, the Primordial Pearl isn't used in a lot of crafts."
+    },
+    {
+      "key": "dj2.quest.db.226.title",
+      "en": "The final Stepping Stone"
+    },
+    {
+      "key": "dj2.quest.db.226.desc",
+      "en": "Craft 8 Eldritch Pedestals! These are used for the Impetus Matrix multiblock, and they also give an even more increased Essentia cost reduction, and an even more increased stability when used for the regular Infusion Matrix multiblock.%n%nYou can also place down Eldritch Pedestals instead of Arcane Pedestals around the Infusion Altar, reducing Instability and increasing the speed, but slightly increasing Essentia costs. You do not need Eldritch Pedestals for an Eldritch Infusion Altar to function, any Pedestal will work. Take care not to leave an Eldritch Pedestal unbalanced, as it will massively increase Instability."
+    },
+    {
+      "key": "dj2.quest.db.227.title",
+      "en": "Routing Impetus"
+    },
+    {
+      "key": "dj2.quest.db.227.desc",
+      "en": "Craft an Impetus Resonator and a couple Impetus Relays!%n%nThe Resonator is capable of routing the Impetus you collect. Set the input by Shift+Right Clicking on a machine or node, and set the output by Right Clicking on another one.%n%nRelays are 1-input 1-output connectors to transfer Impetus with."
+    },
+    {
+      "key": "dj2.quest.db.228.title",
+      "en": "In its full glory"
+    },
+    {
+      "key": "dj2.quest.db.228.desc",
+      "en": "Fully repair the Primordial Pearl with multiple Tool Poppets!"
+    },
+    {
+      "key": "dj2.quest.db.229.title",
+      "en": "777 53V3N 777"
+    },
+    {
+      "key": "dj2.quest.db.229.desc",
+      "en": "Craft an Elite Crafting Table (7x7)!"
+    },
+    {
+      "key": "dj2.quest.db.230.title",
+      "en": "Portal to Arcana"
+    },
+    {
+      "key": "dj2.quest.db.230.desc",
+      "en": "Craft 12 Arcana Portal Frames!%n%nTo set them up, stand in the middle of where the Portal will go, and rotate around, placing the Portal Frame blocks without moving. The shape is exactly the same as an End Portal, 5x5 without corners.%n%nYou'll know if you set it up the right way if the little circles on the side of each Portal Frame block point inside - or, if the portal activates and you end up in the Dungeon of Arcana. That's also a good indication."
+    },
+    {
+      "key": "dj2.quest.db.232.title",
+      "en": "Storing Impetus"
+    },
+    {
+      "key": "dj2.quest.db.232.desc",
+      "en": "Set up the Impetus Matrix multiblock, requiring a Runic Matrix block and 2 Eldritch Pedestals placed on the top and the bottom; sprinkled with some Salis Mundus.%n%nThis multiblock structure is capable of storing Impetus. However, to use it, you'll also need to insert at least 1 (but up to 8) Impetus Cells in the side of the bottom and top Eldritch Pedestals.%n%nSimilarly to the Infusion Matrix multiblock, this one also requires stabilization. The more Impetus stored inside, the less stable it will become - knocking down Impetus Cells and losing stored Impetus. However the range at which it detects stabilizer items is only 5 blocks (counted from the bottom Pedestal).%n%nThe methods are the same though - a variety of Candles, Skulls, or even better, a symmetrical layout of Stabilizers will do.%n%nIt takes a little while for the multiblock to detect the Stabilizers, but around 8 will likely be more than enough (of course, laid out in a symmetrical manner)."
+    },
+    {
+      "key": "dj2.quest.db.233.title",
+      "en": "View your Essentia"
+    },
+    {
+      "key": "dj2.quest.db.233.desc",
+      "en": "Craft an ME Essentia Terminal. Attaching this to your ME Network will let you see the amount of Essentia stored on it.%n%nYou can also use Phials to quickly fill or empty some Essentia directly through the Terminal."
+    },
+    {
+      "key": "dj2.quest.db.234.title",
+      "en": "The final missing resource..."
+    },
+    {
+      "key": "dj2.quest.db.234.desc",
+      "en": "You've been able to automate almost everything in Thaumcraft... but there is one more missing piece.%n%nVis!%n%nWith this block however, you can slowly regenerate Vis in a Chunk. And they stack! In the lategame, you can place down hundreds of these in the chunk(s) you're doing Thaumcraft in to regenerate all the Vis very quickly!"
+    },
+    {
+      "key": "dj2.quest.db.235.title",
+      "en": "Fifth time. Final time."
+    },
+    {
+      "key": "dj2.quest.db.235.desc",
+      "en": "Craft some Mortum Blocks!%n%nBut hold on... the recipe only gives 3 now... What will THIS be useful for?"
+    },
+    {
+      "key": "dj2.quest.db.621.title",
+      "en": "Maximum Portage"
+    },
+    {
+      "key": "dj2.quest.db.621.desc",
+      "en": "Craft some EnderUtilities Portal Frames and 2 Portal Control Panels! These are the best Teleportation Devices you could get your hand on so far, as they do not require any power, and can send you to either another EnderUtilities Portal (with the Link Crystal (Portal)), or using any of the other 2 Link Crystals, you get also go to a some other Location or Block you specify (but you won't be able to return in that case).%n%nThey're very handy, and can be built vertically or horizontally, in any shape and size (within limits), as long as the Portal Frame blocks from a closed loop!"
+    },
+    {
+      "key": "dj2.quest.db.818.title",
+      "en": "Expanding our forces"
+    },
+    {
+      "key": "dj2.quest.db.818.desc",
+      "en": "Craft an Quantum Link Card! With this in a ME Quantum Link Chamber, you'll be able to access your ME System from any range with any Terminal!"
+    },
+    {
+      "key": "dj2.quest.db.1707.title",
+      "en": "THIS IS ESSENTIAL."
+    },
+    {
+      "key": "dj2.quest.db.1707.desc",
+      "en": "---------------------------%n§lHOW TO AUTOMATE ESSENTIA§r%n---------------------------%n(Prior version by @jehlpxyz, @legendcrazyman, and @ming3012)%n%nAutomating essentia is a difficult project, but with the Thaumic Energistics fork it gets a lot easier.%n%nYou have three ways to do this, and we'll cover all of them.%n%nFirst, you can do the lazy way. Craft a large amount of 64k Essentia Storage Cells and design something to smelt resources for thousands upon thousands of each essentia, and call it complete. You would have to add more Storage Cells and Drives as the pack goes on, and this would require semi-regular manual attention, but it's easy. You can import Essentia into your network by attaching an Essentia Import Bus directly to an Arcane Alembic.%n%nSecond, you can automate Essentia digitally. Just place down enough smelteries for the amount of items you want to smelt for all the essentia types and import the essentia with an essentia import bus on the alembic into a filtered essentia cell anywhere on your network. Then you want to set the drives with the partitioned essentia storage cells at a lower priority and setup 41 void jars with filtered essentia storage buses on them for each type of essentia. Finally, you can then setup a comparator reading each void jar and setup logic to turn off the insert of items if a particular essentia type has filled up the void jar.%n%nThird, you can setup 41 essentia smelteries on their own subnetwork with 1 item per essentia type feeding into a drive and voiding any essentia that you do not want in that subnetwork with void jars. Then you can export from each subnetwork into a jar with a essentia storage bus on the main network reading the contents of the jars.%n%nThere are plenty of things that you can do to improve upon the efficiency of any of these systems, but these are the core ideas necessary to get any of them to work."
+    },
+    {
+      "key": "dj2.quest.db.1716.title",
+      "en": "Warp Protection"
+    },
+    {
+      "key": "dj2.quest.db.1716.desc",
+      "en": "Craft a Tainted Blood Pendant infused with Warp Ward! This will prevent warp effects so long as you have mana in your inventory."
+    },
+    {
+      "key": "dj2.quest.db.1719.title",
+      "en": "Blanking Out"
+    },
+    {
+      "key": "dj2.quest.db.1719.desc",
+      "en": "Craft an Arcane Inscriber, a Blank Knowledge Core, and an Arcane Assembler. Place the Blank Knowledge Core on the rightmost side of the Arcane Inscriber, place the desired recipe in the terminal (use JEI's +), and then save it to an empty slot in the Knowledge Core. Each Knowledge Core can have 9 recipes saved to it. Once you have loaded all desired recipes into the Knowledge Core, place it in the Arcane Assembler.%n%nNote: The Arcane Assembler will consume enormous amounts of vis, and if it cannot consume vis it will silently stall. The same thing applies to Vis Crystals, as it draws them directly from the network as-needed, rather than being part of the recipe pattern."
+    }
+  ]
+}

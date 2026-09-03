@@ -1,0 +1,19 @@
+{
+  "artifacts": [
+    "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\Divine_Journey_2.23.4_Server_Pack\\resourcepack\\DJ2_Viet_Hoa_2.23.4.zip",
+    "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\Divine_Journey_2.23.4_Server_Pack\\resourcepacks\\DJ2_Viet_Hoa_2.23.4.zip",
+    "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\Divine_Journey_2.23.4_Server_Pack\\DJ2_Viet_Hoa_2.23.4.zip"
+  ],
+  "bytes": 1917028,
+  "sha1": "a8b5a4b9ccfe202d813a71beaa2f5eb765eed4ad",
+  "sha256": "6d2bfaaa7a7d42ec7822df936e5be7b4136514a88b22b55956890847613752a3",
+  "property_updated": true,
+  "http_verified": true,
+  "http_error": "",
+  "http_status": 200,
+  "http_bytes": 1917028,
+  "http_sha1": "a8b5a4b9ccfe202d813a71beaa2f5eb765eed4ad",
+  "cache_control": "public, max-age=300",
+  "content_length": "1917028",
+  "backup": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\work\\backups\\publish-20260903-044326"
+}

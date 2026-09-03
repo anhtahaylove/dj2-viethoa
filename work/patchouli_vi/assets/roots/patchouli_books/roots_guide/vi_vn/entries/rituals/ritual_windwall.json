@@ -1,0 +1,82 @@
+{
+  "name": "Windwall",
+  "icon": "roots:ritual_windwall",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_windwall",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Khai thác sức mạnh của gió, nghi lễ sẽ thổi bay mọi sinh vật có khả năng thù địch khỏi khu vực.$(br2)$(warning) Sinh vật thù địch có thể bị mắc kẹt trong địa hình. Hãy điều chỉnh khu vực cho phù hợp.$(br2)$(info) Nghi lễ không ảnh hưởng đến sinh vật hoàn toàn thụ động hoặc chỉ trở nên thù địch trong một số trường hợp nhất định."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_windwall",
+      "text": "$(standing_stones) Là một nghi lễ $(l:rituals/tiers)$(bold)Tier II$(), $(l:rituals/ritual_windwall#multiblock)cần có một standing stone và một runed pillar$(). Vui lòng xem các trang sau."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone",
+          "W": "roots:runed_spruce",
+          "L": "minecraft:log[variant=spruce]"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "W     C",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "L     R",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "L     R",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "L  0  R",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Cần một $(l:rituals/standing_stones)runed pillar bằng spruce cao bốn khối và một standing stone cao bốn khối$()."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời gian:$() Nghi lễ kéo dài $(ritual:windwall/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ dò tìm trong khu vực rộng $(ritual:windwall/radius_x) và $(ritual:windwall/radius_z) khối theo chiều ngang, cùng $(ritual:windwall/radius_y) khối theo chiều dọc.$(br2)$(bold)Đẩy lùi$(): Sinh vật thù địch đi vào phạm vi $(ritual:windwall/distance) khối quanh nghi lễ sẽ bị thổi bật ra với lực đẩy lùi $(ritual:windwall/knockback)."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

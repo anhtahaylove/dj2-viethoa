@@ -1,0 +1,28 @@
+{
+  "name": "Apothecary Pouch",
+  "icon": "roots:apothecary_pouch",
+  "category": "crafting_armor_tools",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cao cấp hơn nhiều so với $(l:crafting/component_pouch)Component Pouch$() (một nguyên liệu bắt buộc), túi này có thêm ô đựng thảo mộc và rất nhiều ô dành cho vật phẩm không phải thảo mộc.$(br2)$(info) Mọi túi đều có thể được nhuộm màu để $(l:spells/component_pouches)phân biệt với các túi khác$().$(br2)$(warning) Cơ chế của túi được giải thích trực tiếp hơn trong $(l:spells/component_pouches)phần Component Pouches về phép thuật$()."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "apothecary_pouch"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/component_pouch",
+        "crafting/fey_leather_pouch",
+        "crafting/herb_pouch",
+        "crafting/fey_crafter",
+        "spells/component_pouches"
+      ]
+    }
+  ]
+}

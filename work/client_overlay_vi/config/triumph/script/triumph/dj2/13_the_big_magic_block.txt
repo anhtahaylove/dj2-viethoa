@@ -1,0 +1,14 @@
+setIcon(<bloodmagic:altar>)
+setTitle("Khối ma thuật lớn")
+setDescription("Chế tạo Blood Altar để bước vào khối ma thuật lớn!")
+
+addParent("triumph:dj2/root")
+setPos(-65,250)
+hideLines()
+alwaysVisible()
+
+criteria = addCriteria("hasBloodAltar", "minecraft:inventory_changed")
+criteria.addItem(<bloodmagic:altar>)
+
+addRewardFunction("triumph:fireworks")
+addRewardFunction("triumph:13_the_big_magic_block")

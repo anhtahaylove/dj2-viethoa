@@ -1,0 +1,15 @@
+{
+  "name": "Grimorie Magia",
+  "category": "magic_overview",
+  "icon": "bewitchment:grimoire_magia",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù cơ thể bạn chứa ME, linh hồn ngăn nó thoát ra nên bạn cũng không thể sử dụng nó. Thay vào đó, Grimoire Magia cho phép dùng phép thuật khi đang di chuyển. Nó phải được đặt trên Altar để nạp ME."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:grimoire_magia"
+    }
+  ]
+}

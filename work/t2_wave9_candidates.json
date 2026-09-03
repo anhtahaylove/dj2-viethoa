@@ -1,0 +1,1520 @@
+[
+ {
+  "namespace": "abyssalcraft",
+  "key": "ac_shoggoth",
+  "en": "Shoggoth Ooze",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.crate",
+  "en": "Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.crystallizer",
+  "en": "Crystallizer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.energycontainer",
+  "en": "Energy Container",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.energydepositioner",
+  "en": "Energy Depositioner",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.engraver",
+  "en": "Engraver",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.materializer",
+  "en": "Materializer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.rending.nei",
+  "en": "Staff of Rending",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.rendingpedestal",
+  "en": "Rending Pedestal",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.statetransformer",
+  "en": "State Transformer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "container.abyssalcraft.transmutator",
+  "en": "Transmutator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.bag.name",
+  "en": "Traveler's Sack",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.bioReactor.name",
+  "en": "Bio Reactor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.canolaPress.name",
+  "en": "Canola Press",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.cloud.name",
+  "en": "Smiley Cloud",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.coalGenerator.name",
+  "en": "Coal Generator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.coffeeMachine.name",
+  "en": "Coffee Maker",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.compost.name",
+  "en": "Compost",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.directionalBreaker.name",
+  "en": "Long-Range Breaker",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.displayStand.name",
+  "en": "Display Stand",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.distributorItem.name",
+  "en": "Item Distributor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.drill.name",
+  "en": "Drill",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.empowerer.name",
+  "en": "Empowerer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.energizer.name",
+  "en": "Energizer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.enervator.name",
+  "en": "Enervator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.farmer.name",
+  "en": "Farmer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.fermentingBarrel.name",
+  "en": "Fermenting Barrel",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.filter.name",
+  "en": "Item Filter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.fireworkBox.name",
+  "en": "Firework Box",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.fishingNet.name",
+  "en": "Fishing Net",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.fluidCollector.name",
+  "en": "Fluid Collector",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.fluidPlacer.name",
+  "en": "Fluid Placer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.furnaceDouble.name",
+  "en": "Powered Furnace",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.giantChest.name",
+  "en": "Small Storage Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.giantChestLarge.name",
+  "en": "Large Storage Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.giantChestMedium.name",
+  "en": "Medium Storage Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.greenhouseGlass.name",
+  "en": "Greenhouse Glass",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.grinder.name",
+  "en": "Crusher",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.grinderDouble.name",
+  "en": "Double Crusher",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.heatCollector.name",
+  "en": "Heat Collector",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.inputter.name",
+  "en": "ESD",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.inputterAdvanced.name",
+  "en": "Advanced ESD",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.itemViewer.name",
+  "en": "Item Interface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.laserRelayFluids.name",
+  "en": "Fluid Laser Relay",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.laserRelayItem.name",
+  "en": "Item Laser Relay",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.lavaFactory.name",
+  "en": "Lava Factory Controller",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.miner.name",
+  "en": "Vertical Digger",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.oilGenerator.name",
+  "en": "Oil Generator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.phantomBooster.name",
+  "en": "Phantom Booster",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.phantomBreaker.name",
+  "en": "Phantom Breaker",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.phantomPlacer.name",
+  "en": "Phantom Placer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.phantomface.name",
+  "en": "Phantomface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.playerInterface.name",
+  "en": "Player Interface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.rangedCollector.name",
+  "en": "Ranged Collector",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.reconstructor.name",
+  "en": "Atomic Reconstructor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.redstoneface.name",
+  "en": "Phantom Redstoneface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.smileyCloud.name",
+  "en": "Smiley Cloud",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.solarPanel.name",
+  "en": "Solar Panel",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.voidBag.name",
+  "en": "Void Sack",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.actuallyadditions.xpSolidifier.name",
+  "en": "Experience Solidifier",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.booklet.name",
+  "en": "Actually Additions Manual",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.coffee.name",
+  "en": "Coffee Maker",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.compost.name",
+  "en": "Compost",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.crushing.name",
+  "en": "Crusher",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.crushingDouble.name",
+  "en": "Double Crusher",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.empowerer.name",
+  "en": "Empowerer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.furnaceDouble.name",
+  "en": "Powered Furnace",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.reconstructor.name",
+  "en": "Atomic Reconstructor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "container.nei.actuallyadditions.treasureChest.name",
+  "en": "Treasure Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "aether_legacy",
+  "key": "container.aether_legacy.altar",
+  "en": "Altar",
+  "tier": "T2"
+ },
+ {
+  "namespace": "aether_legacy",
+  "key": "container.aether_legacy.enchanter",
+  "en": "Enchanter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "aether_legacy",
+  "key": "container.aether_legacy.freezer",
+  "en": "Freezer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "aether_legacy",
+  "key": "container.aether_legacy.incubator",
+  "en": "Incubator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "aether_legacy",
+  "key": "key.aether.category",
+  "en": "Aether",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.CellWorkbench",
+  "en": "Cell Workbench",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.Chest",
+  "en": "ME Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.Condenser",
+  "en": "Matter Condenser",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.Drive",
+  "en": "ME Drive",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.ExportBus",
+  "en": "ME Export Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.ExportBusFluids",
+  "en": "ME Fluid Export Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.FluidInterface",
+  "en": "ME Fluid Interface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.FluidLevelEmitter",
+  "en": "ME Fluid Level Emitter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.GrindStone",
+  "en": "Grindstone",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.IOPort",
+  "en": "ME IO Port",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.ImportBus",
+  "en": "ME Import Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.ImportBusFluids",
+  "en": "ME Fluid Import Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.Inscriber",
+  "en": "Inscriber",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.Interface",
+  "en": "ME Interface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.LargeFontCraft",
+  "en": "+",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.LevelEmitter",
+  "en": "ME Level Emitter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.MolecularAssembler",
+  "en": "Molecular Assembler",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.NetworkTool",
+  "en": "Network Tool",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.PortableCell",
+  "en": "Portable Cell",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.SkyChest",
+  "en": "Sky Stone Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.SpatialIOPort",
+  "en": "Spatial IO Port",
+  "tier": "T2"
+ },
+ {
+  "namespace": "appliedenergistics2",
+  "key": "gui.appliedenergistics2.VibrationChamber",
+  "en": "Vibration Chamber",
+  "tier": "T2"
+ },
+ {
+  "namespace": "astralsorcery",
+  "key": "jei.category.altar.constellation",
+  "en": "Celestial Altar",
+  "tier": "T2"
+ },
+ {
+  "namespace": "astralsorcery",
+  "key": "jei.category.altar.trait",
+  "en": "Iridescent Altar",
+  "tier": "T2"
+ },
+ {
+  "namespace": "astralsorcery",
+  "key": "jei.category.grindstone",
+  "en": "Grindstone",
+  "tier": "T2"
+ },
+ {
+  "namespace": "astralsorcery",
+  "key": "jei.category.well",
+  "en": "Lightwell",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.crate.deadwood",
+  "en": "Deadwood Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.crate.palm",
+  "en": "Palm Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.limestoneFurnace",
+  "en": "Limestone Furnace",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.trap.arrow",
+  "en": "Arrow Trap",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.trap.burning",
+  "en": "Burning Trap",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.trap.poison",
+  "en": "Poison Trap",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.trap.smoke",
+  "en": "Smoke Trap",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "container.trap.tar",
+  "en": "Tar Trap",
+  "tier": "T2"
+ },
+ {
+  "namespace": "atum",
+  "key": "gui.atum.rotations",
+  "en": "x%s",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bibliocraft",
+  "key": "gui.cookiejar",
+  "en": "Cookie Jar",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bibliocraft",
+  "key": "gui.dinnerPlate",
+  "en": "Dinner Plate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bibliocraft",
+  "key": "gui.discRack",
+  "en": "Disc Rack",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bibliocraft",
+  "key": "gui.testeritem.name",
+  "en": "ItemStack Name Tester",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bloodmagic",
+  "key": "jei.bloodmagic.recipe.alchemyArrayCrafting",
+  "en": "Alchemy Array",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bloodmagic",
+  "key": "jei.bloodmagic.recipe.alchemyTable",
+  "en": "Alchemy Table",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bloodmagic",
+  "key": "jei.bloodmagic.recipe.altar",
+  "en": "Blood Altar",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bloodmagic",
+  "key": "jei.bloodmagic.recipe.soulForge",
+  "en": "Hellfire Forge",
+  "tier": "T2"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "gui.de.dissEnchanter.name",
+  "en": "Disenchanter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "enderio",
+  "key": "enderio.loot.capacitor.title.count",
+  "en": "24",
+  "tier": "T2"
+ },
+ {
+  "namespace": "enderio",
+  "key": "enderio.top.action.header.pre",
+  "en": "§e",
+  "tier": "T2"
+ },
+ {
+  "namespace": "enderio",
+  "key": "enderio.top.rf.header.avg",
+  "en": "§eI/O:",
+  "tier": "T2"
+ },
+ {
+  "namespace": "enderio",
+  "key": "enderio.top.tank.header.storage.pre",
+  "en": "§f",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.animatedBambooCrate",
+  "en": "Bamber",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.animatedChest",
+  "en": "Chester",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.bambooCrate",
+  "en": "Bamboo Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.colossalCrate",
+  "en": "Bamboo Crate",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.composter",
+  "en": "Organic Composter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.extenderThingy",
+  "en": "Bamboo Extender",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.petrifiedWoodChest",
+  "en": "Petrified Wood Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "erebus",
+  "key": "container.umberFurnace",
+  "en": "Umber Furnace",
+  "tier": "T2"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "container.ec.compressor",
+  "en": "Quantum Compressor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "container.ec.crafting_core",
+  "en": "Crafting Core",
+  "tier": "T2"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "container.ec.interface",
+  "en": "Automation Interface",
+  "tier": "T2"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "key.ftbutilities.trash",
+  "en": "Trash Can",
+  "tier": "T2"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "sidebar_button.ftbutilities.trash_can",
+  "en": "Trash Can",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.cargoloader.name",
+  "en": "Cargo Loader",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.cargounloader.name",
+  "en": "Cargo Unloader",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.fuelloader.name",
+  "en": "Fuel Loader",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.lander.name",
+  "en": "Space Lander",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.oxygencollector.name",
+  "en": "Oxygen Collector",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.oxygencompressor.name",
+  "en": "Oxygen Compressor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.oxygendecompressor.name",
+  "en": "Oxygen Decompressor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.oxygensealer.name",
+  "en": "Oxygen Sealer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.refinery.name",
+  "en": "Refinery",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.solaradvanced.name",
+  "en": "Advanced Solar Panel",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.solarbasic.name",
+  "en": "Basic Solar Panel",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.spaceship.name",
+  "en": "Tier 1 Rocket",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftcore",
+  "key": "container.treasurechest.name",
+  "en": "Treasure Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.crashed_probe.name",
+  "en": "Crashed Probe",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.entry_pod.name",
+  "en": "Entry Pod",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.geothermal_generator.name",
+  "en": "Geothermal Generator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.launchcontroller.name",
+  "en": "Launch Controller",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.mars_lander.name",
+  "en": "Landing Balloons",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.short_range_telepad.name",
+  "en": "Short Range Telepad",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.solar_array_controller.name",
+  "en": "Solar Array Controller",
+  "tier": "T2"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "container.tile_terraformer.name",
+  "en": "Terraformer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "industrialforegoing",
+  "key": "gui.industrialforegoing.side_config.mob_imprisonment_tool",
+  "en": "Mob Imprisonment Tool",
+  "tier": "T2"
+ },
+ {
+  "namespace": "industrialforegoing",
+  "key": "text.industrialforegoing.book.title",
+  "en": "Industrial Foregoing's Manual",
+  "tier": "T2"
+ },
+ {
+  "namespace": "jecalculation",
+  "key": "jecalculation.gui.craft.title",
+  "en": "Crafting Calculator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "jecalculation",
+  "key": "jecalculation.gui.math.title",
+  "en": "Math Calculator",
+  "tier": "T2"
+ },
+ {
+  "namespace": "journeymap",
+  "key": "jm.server.edit.label.button.next",
+  "en": ">>",
+  "tier": "T2"
+ },
+ {
+  "namespace": "journeymap",
+  "key": "jm.server.edit.label.button.previous",
+  "en": "<<",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mekanism",
+  "key": "gui.portableTeleporter",
+  "en": "Portable Teleporter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mekanism",
+  "key": "gui.robit",
+  "en": "Robit",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mekanism",
+  "key": "upgrade.filter",
+  "en": "Filter",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "container.ma.seed_reprocessor.name",
+  "en": "Seed Reprocessor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "container.ma.tinkering_table.name",
+  "en": "Tinkering Table",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "jei.ma.seed_reprocessor",
+  "en": "Seed Reprocessor",
+  "tier": "T2"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "jei.ma.tinkering_table",
+  "en": "Tinkering Table",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.autoanvil",
+  "en": "Auto Anvil",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.autoenchantmenttable",
+  "en": "Auto Enchantment Table",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.blockplacer",
+  "en": "Block Placer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.digitalfuse",
+  "en": "Digital Fuse",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.donationstation",
+  "en": "Donation Station",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.drawingtable",
+  "en": "Drawing Table",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.itemdropper",
+  "en": "Item Dropper",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.luggage",
+  "en": "Luggage",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.paintmixer",
+  "en": "Paint Mixer",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.sprinkler",
+  "en": "Sprinkler",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.vacuumhopper",
+  "en": "Vacuum Hopper",
+  "tier": "T2"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.gui.xpbottler",
+  "en": "XP Bottler",
+  "tier": "T2"
+ },
+ {
+  "namespace": "patchouli",
+  "key": "patchouli.gui.lexicon.seconds",
+  "en": "%ss",
+  "tier": "T2"
+ },
+ {
+  "namespace": "planetprogression",
+  "key": "container.satellite.builder.name",
+  "en": "Satellite Builder",
+  "tier": "T2"
+ },
+ {
+  "namespace": "planetprogression",
+  "key": "container.satellite.controller.name",
+  "en": "Satellite Controller",
+  "tier": "T2"
+ },
+ {
+  "namespace": "planetprogression",
+  "key": "container.telescope.name",
+  "en": "Telescope",
+  "tier": "T2"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.blockpattern.pattern",
+  "en": "Pattern",
+  "tier": "T2"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.gui.random.weight.default.short",
+  "en": "D",
+  "tier": "T2"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.gui.randomize.short",
+  "en": "??",
+  "tier": "T2"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.mazerule.connect.end",
+  "en": "End",
+  "tier": "T2"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.transformer.pillar",
+  "en": "Pillar",
+  "tier": "T2"
+ },
+ {
+  "namespace": "roots",
+  "key": "container.roots.soil.name",
+  "en": "Elemental Soil",
+  "tier": "T2"
+ },
+ {
+  "namespace": "roots",
+  "key": "roots.keybinds.group",
+  "en": "Roots",
+  "tier": "T2"
+ },
+ {
+  "namespace": "roots",
+  "key": "roots.modifiers.modifiers.brimstone",
+  "en": "Brimstone",
+  "tier": "T2"
+ },
+ {
+  "namespace": "roots",
+  "key": "roots.modifiers.modifiers.extinguisher",
+  "en": "Fire Extinguisher",
+  "tier": "T2"
+ },
+ {
+  "namespace": "roots",
+  "key": "roots.modifiers.modifiers.singularity",
+  "en": "Singularity",
+  "tier": "T2"
+ },
+ {
+  "namespace": "roots",
+  "key": "roots.modifiers.modifiers.voiding_scythe",
+  "en": "Void",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.craftingstation.name",
+  "en": "Crafting Station",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.dryingrack.name",
+  "en": "Drying Rack",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.itemrack.name",
+  "en": "Item Rack",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.partbuilder.name",
+  "en": "Part Builder",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.partchest.name",
+  "en": "Part Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.patternchest.name",
+  "en": "Pattern Chest",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.stenciltable.name",
+  "en": "Stencil Table",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.toolforge.name",
+  "en": "Tool Forge",
+  "tier": "T2"
+ },
+ {
+  "namespace": "tconstruct",
+  "key": "gui.toolstation.name",
+  "en": "Tool Station",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "gui.thaumicenergistics.arcane_inscriber",
+  "en": "Arcane Inscriber",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "gui.thaumicenergistics.essentia_export_bus",
+  "en": "ME Essentia Export Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "gui.thaumicenergistics.essentia_import_bus",
+  "en": "ME Essentia Import Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "gui.thaumicenergistics.essentia_storage_bus",
+  "en": "ME Essentia Storage Bus",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "research.arcaneassembler.title",
+  "en": "Arcane Assembler",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "research.arcaneinscriber.title",
+  "en": "Arcane Inscriber",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "research.arcaneterminal.title",
+  "en": "Arcane Crafting Terminal",
+  "tier": "T2"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "research.knowledgecore.title",
+  "en": "Knowledge Core",
+  "tier": "T2"
+ },
+ {
+  "namespace": "bibliocraft",
+  "key": "screwgun.selected.clock1",
+  "en": "First clock selected",
+  "tier": "other"
+ },
+ {
+  "namespace": "bibliocraft",
+  "key": "screwgun.selected.clock2",
+  "en": "Second clock selected",
+  "tier": "other"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "general.cyclopscore.version.clickToDownload",
+  "en": "Click to download",
+  "tier": "other"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "infobook.cyclopscore.last_page",
+  "en": "Last visited page",
+  "tier": "other"
+ },
+ {
+  "namespace": "enderio",
+  "key": "enderio.item.item_existing_item_filter.filter_not_updated",
+  "en": "Filter not updated",
+  "tier": "other"
+ },
+ {
+  "namespace": "enderio",
+  "key": "enderio.item_liquid_conduit.unlocked_type",
+  "en": "Fluid type unlocked",
+  "tier": "other"
+ },
+ {
+  "namespace": "groovyscript",
+  "key": "groovyscript.infoparser.enchantment",
+  "en": "Enchantments on the held ItemStack",
+  "tier": "other"
+ },
+ {
+  "namespace": "groovyscript",
+  "key": "groovyscript.infoparser.entity",
+  "en": "Entity being looked at",
+  "tier": "other"
+ },
+ {
+  "namespace": "groovyscript",
+  "key": "groovyscript.infoparser.translation",
+  "en": "Translation key for the target",
+  "tier": "other"
+ },
+ {
+  "namespace": "immersiveengineering",
+  "key": "desc.immersiveengineering.flavour.coil.redstone",
+  "en": "Transmits redstone signals",
+  "tier": "other"
+ },
+ {
+  "namespace": "industrialforegoing",
+  "key": "text.industrialforegoing.display.next_tier",
+  "en": "for next tier",
+  "tier": "other"
+ },
+ {
+  "namespace": "inventorytweaks",
+  "key": "invtweaks.loadconfig.invalidkeywords",
+  "en": "Invalid keywords found",
+  "tier": "other"
+ },
+ {
+  "namespace": "inventorytweaks",
+  "key": "invtweaks.propsfile.loaded",
+  "en": "Mod properties loaded",
+  "tier": "other"
+ },
+ {
+  "namespace": "jeresources",
+  "key": "jer.beheading.text",
+  "en": "Beheading increases chance",
+  "tier": "other"
+ },
+ {
+  "namespace": "jeresources",
+  "key": "jer.dry.text",
+  "en": "When not raining",
+  "tier": "other"
+ },
+ {
+  "namespace": "jeresources",
+  "key": "jer.notThundering.text",
+  "en": "When not storming",
+  "tier": "other"
+ },
+ {
+  "namespace": "jeresources",
+  "key": "jer.notWet.text",
+  "en": "When not wet",
+  "tier": "other"
+ },
+ {
+  "namespace": "mekanism",
+  "key": "update.devBuild",
+  "en": "Using developer build",
+  "tier": "other"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.crashscreen.identificationErrored",
+  "en": "[Error identifying, report to FermiumASM]",
+  "tier": "other"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.crashscreen.reportSaveFailed",
+  "en": "[Error saving report, see log]",
+  "tier": "other"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.debug.switch_profiler.client",
+  "en": "Using client profiler",
+  "tier": "other"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.debug.switch_profiler.server",
+  "en": "Using server profiler",
+  "tier": "other"
+ },
+ {
+  "namespace": "planetprogression",
+  "key": "research.discovered.name",
+  "en": "You have discovered ",
+  "tier": "other"
+ },
+ {
+  "namespace": "projecte",
+  "key": "pe.debug.metainvalid.name",
+  "en": "Invalid metadata set",
+  "tier": "other"
+ },
+ {
+  "namespace": "projecte",
+  "key": "pe.ignition.pedestal1",
+  "en": "Nearby mobs combust",
+  "tier": "other"
+ },
+ {
+  "namespace": "projecte",
+  "key": "pe.soul.pedestal1",
+  "en": "Heals nearby players",
+  "tier": "other"
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.key.open_pi",
+  "en": "Open Project Intelligence",
+  "tier": "other"
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.style.set_boolean.txt",
+  "en": "Toggle Boolean Value",
+  "tier": "other"
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.style.show_subs.txt",
+  "en": "Show Sub Itemsa",
+  "tier": "other"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.maze.rooms.size.x",
+  "en": "Room size (x)",
+  "tier": "other"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.maze.rooms.size.y",
+  "en": "Room size (y)",
+  "tier": "other"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.maze.rooms.size.z",
+  "en": "Room size (z)",
+  "tier": "other"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.worldscript.strucGen.mirror.random",
+  "en": "Random (if mirrorable)",
+  "tier": "other"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.worldscript.strucGen.rotation.random",
+  "en": "Random (if rotatable)",
+  "tier": "other"
+ },
+ {
+  "namespace": "storagedrawers",
+  "key": "storagedrawers.drawers.sealed",
+  "en": "Contents sealed within",
+  "tier": "other"
+ },
+ {
+  "namespace": "waila",
+  "key": "choice.shifttoggledblock",
+  "en": "Sneak toggle blocks",
+  "tier": "other"
+ },
+ {
+  "namespace": "waila",
+  "key": "choice.shifttoggledents",
+  "en": "Sneak toggle entities",
+  "tier": "other"
+ },
+ {
+  "namespace": "waila",
+  "key": "nei.options.keys.showenchant",
+  "en": "Show enchanting values",
+  "tier": "other"
+ },
+ {
+  "namespace": "wrcbe",
+  "key": "wrcbe.param.invalidfreqrange",
+  "en": "Invalid frequency range",
+  "tier": "other"
+ },
+ {
+  "namespace": "wrcbe",
+  "key": "wrcbe.param.missing",
+  "en": "No such parameter",
+  "tier": "other"
+ }
+]

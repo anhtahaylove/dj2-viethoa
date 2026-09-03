@@ -1,0 +1,16 @@
+{
+  "name": "Vampiric Amulet",
+  "category": "demonic_gear",
+  "icon": "bewitchment:vampiric_amulet",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một chiếc Vampiric Amulet màu đỏ sẫm tuyệt đẹp, không rõ nguồn gốc. Vì lý do bí ẩn nào đó, người đeo đôi khi cho biết họ cảm thấy hồi phục sau khi chịu sát thương."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:vampiric_amulet",
+      "text": "Chỉ có thể nhận được từ chiến lợi phẩm hoặc giao dịch với quỷ"
+    }
+  ]
+}

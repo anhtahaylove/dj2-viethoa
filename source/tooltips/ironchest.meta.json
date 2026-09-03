@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "ironchest-1.12.2-7.0.72.847.jar",
+      "path": "assets/ironchest/lang/en_US.lang"
+    }
+  ]
+}

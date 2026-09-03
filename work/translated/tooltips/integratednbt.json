@@ -1,0 +1,7 @@
+{
+  "integratednbt:nbt_extractor.loading.description": "Đang tải nội dung của thẻ biến này...",
+  "integratednbt:nbt_extractor.tooltip": "Cho phép trích xuất các giá trị lồng sâu từ một biến kiểu NBT.",
+  "integratednbt:nbt_extractor.tooltip.nbt_type": "§eKiểu NBT: §r%s",
+  "integratednbt:nbt_extractor.tooltip.selected": "§aĐã chọn đường dẫn! Đặt một biến vào ô bên phải để nhận giá trị của nó.",
+  "integratednbt:nbt_extractor.tooltip.selecting": "§cĐang chờ máy chủ xác nhận lựa chọn..."
+}

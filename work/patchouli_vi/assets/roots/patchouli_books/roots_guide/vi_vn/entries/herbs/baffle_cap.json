@@ -1,0 +1,33 @@
+{
+  "name": "Baffle Cap",
+  "icon": "roots:baffle_cap_mushroom",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:baffle_cap",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù hơi độc, loại nấm này vẫn an toàn khi cầm nắm.$(br2)Nay không còn phổ biến trong thế giới này, nó có thể được tái tạo bằng cách khơi dậy ma thuật hoang dã bên trong một số nguyên liệu bằng sức nóng của $(l:crafting/pyres)Pyre$().$(br2)Đây là một $(l:herbs/baffle_cap#renew)tài nguyên tái tạo được$(), có nhiều công dụng trong các phép thuật và nghi lễ tấn công."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "baffle_cap"
+    },
+    {
+      "type": "text",
+      "title": "Khả năng tái tạo",
+      "text": "Không như các loại thảo mộc tái tạo khác, Baffle Cap không thể được trồng đơn giản như cây trồng. Vì vậy, có hai cách để thu được thêm.$(br2)Cách đầu tiên là trồng nó ở nơi thiếu sáng hoặc trên bề mặt thích hợp như mọi loại nấm khác, rồi để nó lan rộng.$(br2)$(info) Có thể đẩy nhanh quá trình này bằng phép $(l:spells/spell_growth_infusion)Growth Infusion$()."
+    },
+    {
+      "type": "text",
+      "text": "Cách thứ hai sử dụng bột xương hoặc loại phân bón tương đương (hoặc áp dụng bổ trợ 'Embiggening' cho phép $(l:spells/spell_growth_infusion)Growth Infusion$()).$(br2)Khi bón bột xương, Baffle Cap có cơ hội phát triển thành biến thể khổng lồ; phá các khối này có thể thu được thêm nấm."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/growth_infusion"
+      ]
+    }
+  ]
+}

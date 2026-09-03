@@ -1,0 +1,16 @@
+{
+  "name": "Baphomet's Caduceus",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:caduceus",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một cây trượng đặc biệt được trang trí bằng những con rắn quấn lấy nhau, đồng thời là cây trượng của Baphomet. Sau khi lấy được nó khỏi Goat, cây trượng có thể triệu hồi các Feuerwurm bóng ma làm thuộc hạ cho chủ nhân. Nếu Demonologist cầm Caduceus khi sắp bị giết, nó sẽ kỳ diệu hồi sinh họ, nhưng phải trả giá đắt."
+    },
+    {
+      "type": "spotlight",
+      "item": "bewitchment:caduceus",
+      "text": "Caduceus không thể được sửa chữa hoặc phù phép"
+    }
+  ]
+}

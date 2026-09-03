@@ -1,0 +1,12 @@
+{
+  "name": "Palor Pestilence",
+  "category": "curses",
+  "icon": "minecraft:skull",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:palor_pestilence",
+      "text": "Gây cho mục tiêu một căn bệnh ma thuật đau đớn, liên tục bào mòn sức khỏe cho đến khi họ gục ngã hoặc được thanh tẩy."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "Decorative Runestone",
+  "icon": "roots:runestone_stairs",
+  "category": "crafting_decoration",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_chiseled",
+      "text": "Có nhiều biến thể trang trí của $(l:resources/runestone)Runestone$(). $(br2)Trong khi $(l:rituals/standing_stones)Standing Stones$() yêu cầu phần đỉnh bằng Chiseled Runestone, phần đế có thể dùng bất kỳ biến thể gạch nào."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_button",
+      "recipe2": "roots:runestone_pressure_plate",
+      "title": "Các khối Redstone"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_slab",
+      "recipe2": "roots:runestone_unslab",
+      "title": "Phiến & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_wall",
+      "recipe2": "roots:runestone_stair",
+      "title": "Tường & Cầu thang"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick",
+      "title": "Runestone Brick",
+      "text": "Biến thể Runestone này có vẻ ngoài ngăn nắp hơn và cũng có thể chuyển đổi thành các khối trang trí."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_button",
+      "recipe2": "roots:runestone_brick_pressure_plate",
+      "title": "Các khối Redstone"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_slab",
+      "recipe2": "roots:runestone_brick_unslab",
+      "title": "Phiến & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_wall",
+      "recipe2": "roots:runestone_brick_stair",
+      "title": "Tường & Cầu thang"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_alt",
+      "title": "Biến thể Brick",
+      "text": "Phiên bản thay thế này của Runestone Brick có vẻ ngoài ngăn nắp hơn và cũng có thể chuyển đổi thành các khối trang trí."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_alt_button",
+      "recipe2": "roots:runestone_brick_alt_pressure_plate",
+      "title": "Các khối Redstone"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_alt_slab",
+      "recipe2": "roots:runestone_brick_alt_unslab",
+      "title": "Phiến & Chuyển đổi"
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:runestone_brick_alt_wall",
+      "recipe2": "roots:runestone_brick_alt_stair",
+      "title": "Tường & Cầu thang"
+    },
+    {
+      "type": "crafting",
+      "title": "Chuyển đổi ngược",
+      "recipe": "roots:runestone_brick_from_chisel",
+      "text": "Công thức này cho phép bạn chuyển loại gạch thay thế trở lại runestone ban đầu."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/runestone",
+        "resources/runed_obsidian",
+        "rituals/introduction",
+        "rituals/standing_stones",
+        "rituals/tiers"
+      ]
+    }
+  ]
+}

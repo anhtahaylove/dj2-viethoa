@@ -1,0 +1,12 @@
+{
+  "name": "Misfortune",
+  "category": "curses",
+  "icon": "minecraft:arrow",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:misfortune",
+      "text": "Ngẫu nhiên gây cho mục tiêu một hiệu ứng bất lợi bất kỳ, ngoại trừ Wither hoặc Poison. Hiệu ứng không liên tục mà xuất hiện ngẫu nhiên trong thời gian lời nguyền còn hiệu lực."
+    }
+  ]
+}

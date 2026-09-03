@@ -1,0 +1,23 @@
+{
+  "commands.parameters.biome": "biome",
+  "commands.parameters.biome.invalid": "Không có biome như vậy",
+  "commands.parameters.biometype": "loại biome",
+  "commands.parameters.biometype.invalid": "Không có loại biome như vậy",
+  "commands.parameters.block": "khối",
+  "commands.parameters.command": "lệnh",
+  "commands.parameters.dimension": "chiều không gian",
+  "commands.parameters.dimension.invalid": "Không có chiều không gian như vậy",
+  "commands.parameters.entity": "thực thể",
+  "commands.parameters.invalid.generic": "Đối số không hợp lệ cho tham số: %s",
+  "commands.parameters.item": "vật phẩm",
+  "commands.parameters.missing": "Thiếu tham số bắt buộc: %s",
+  "commands.parameters.missing.argument": "Tham số thiếu một đối số: %s",
+  "commands.parameters.player": "người chơi",
+  "commands.parameters.rotation": "hướng xoay",
+  "commands.parameters.toomany.named": "Quá nhiều tham số: %s",
+  "commands.parameters.toomany.ordered": "Quá nhiều tham số",
+  "commands.parameters.unknown": "Tham số không xác định: %s",
+  "commands.parameters.x": "x",
+  "commands.parameters.y": "y",
+  "commands.parameters.z": "z"
+}

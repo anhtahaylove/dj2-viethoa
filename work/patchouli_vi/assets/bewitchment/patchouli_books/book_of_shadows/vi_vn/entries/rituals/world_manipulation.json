@@ -1,0 +1,60 @@
+{
+  "name": "World Manipulation",
+  "category": "rituals",
+  "icon": "minecraft:gold_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Nhiều nghi lễ cho phép phù thủy thay đổi trạng thái của thế giới"
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Solar Glory",
+      "text": "Chuyển thời gian sang ban ngày. Chỉ hoạt động vào ban đêm"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:solar_glory"
+    },
+    {
+      "type": "text",
+      "title": "High Moon",
+      "text": "Chuyển thành ban đêm. Chỉ hoạt động vào ban ngày"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:high_moon"
+    },
+    {
+      "type": "text",
+      "title": "Sands of Time",
+      "text": "Thao túng thời gian để tăng tốc chu kỳ ngày đêm"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:sands_of_time"
+    },
+    {
+      "type": "text",
+      "title": "Deluge",
+      "text": "Gây ra mưa lớn"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:deluge"
+    },
+    {
+      "type": "text",
+      "title": "Drought",
+      "text": "Dừng mọi cơn mưa"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:drought"
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+[
+  {
+    "mod": "Chisel-MC1.12.2-1.0.2.45.jar",
+    "asset": "assets/chisel/lang/en_us.lang",
+    "en_keys": 3002,
+    "overlay_keys": 0,
+    "remaining_high_value": 2816,
+    "prose": 2800,
+    "gui": 16
+  },
+  {
+    "mod": "IntegratedDynamics-1.12.2-1.1.11.jar",
+    "asset": "assets/integrateddynamics/lang/en_us.lang",
+    "en_keys": 1459,
+    "overlay_keys": 95,
+    "remaining_high_value": 727,
+    "prose": 641,
+    "message": 36,
+    "gui": 50
+  },
+  {
+    "mod": "groovyscript-1.4.3.jar",
+    "asset": "assets/groovyscript/lang/en_us.lang",
+    "en_keys": 2786,
+    "overlay_keys": 2,
+    "remaining_high_value": 637,
+    "prose": 605,
+    "message": 15,
+    "gui": 17
+  },
+  {
+    "mod": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+    "asset": "assets/draconicevolution/lang/en_US.lang",
+    "en_keys": 879,
+    "overlay_keys": 37,
+    "remaining_high_value": 517,
+    "gui": 314,
+    "prose": 187,
+    "message": 16
+  },
+  {
+    "mod": "EnderIO-1.12.2-5.3.72.jar",
+    "asset": "assets/enderio/lang/en_us.lang",
+    "en_keys": 2011,
+    "overlay_keys": 485,
+    "remaining_high_value": 446,
+    "gui": 320,
+    "prose": 93,
+    "message": 33
+  },
+  {
+    "mod": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "asset": "assets/thermalexpansion/lang/en_US.lang",
+    "en_keys": 531,
+    "overlay_keys": 0,
+    "remaining_high_value": 401,
+    "prose": 238,
+    "gui": 163
+  },
+  {
+    "mod": "Galacticraft-1.12.2-4.0.7.jar",
+    "asset": "assets/galacticraftcore/lang/en_us.lang",
+    "en_keys": 825,
+    "overlay_keys": 131,
+    "remaining_high_value": 398,
+    "gui": 360,
+    "prose": 15,
+    "message": 23
+  },
+  {
+    "mod": "Mekanism-1.12.2-9.8.3.390.jar",
+    "asset": "assets/mekanism/lang/en_us.lang",
+    "en_keys": 980,
+    "overlay_keys": 121,
+    "remaining_high_value": 359,
+    "prose": 81,
+    "gui": 277,
+    "message": 1
+  },
+  {
+    "mod": "EvilCraft-1.12.2-0.10.78.jar",
+    "asset": "assets/evilcraft/lang/en_us.lang",
+    "en_keys": 762,
+    "overlay_keys": 32,
+    "remaining_high_value": 343,
+    "prose": 285,
+    "gui": 45,
+    "message": 13
+  },
+  {
+    "mod": "ImmersiveEngineering-0.12-98.jar",
+    "asset": "assets/immersiveengineering/lang/en_us.lang",
+    "en_keys": 1482,
+    "overlay_keys": 598,
+    "remaining_high_value": 328,
+    "prose": 261,
+    "message": 32,
+    "gui": 35
+  },
+  {
+    "mod": "aether-1.12.2-v1.5.4.1.jar",
+    "asset": "assets/aether_legacy/lang/en_US.lang",
+    "en_keys": 655,
+    "overlay_keys": 34,
+    "remaining_high_value": 313,
+    "prose": 213,
+    "gui": 87,
+    "message": 13
+  },
+  {
+    "mod": "Roots-1.12.2-3.1.9.2.jar",
+    "asset": "assets/roots/lang/en_us.lang",
+    "en_keys": 1003,
+    "overlay_keys": 147,
+    "remaining_high_value": 312,
+    "prose": 250,
+    "gui": 50,
+    "message": 12
+  },
+  {
+    "mod": "BloodMagic-1.12.2-2.4.3-105.jar",
+    "asset": "assets/bloodmagicguide/lang/en_US.lang",
+    "en_keys": 274,
+    "overlay_keys": 0,
+    "remaining_high_value": 274,
+    "gui": 274
+  },
+  {
+    "mod": "enderutilities-1.12.2-0.7.15.jar",
+    "asset": "assets/enderutilities/lang/en_us.lang",
+    "en_keys": 504,
+    "overlay_keys": 107,
+    "remaining_high_value": 268,
+    "prose": 127,
+    "gui": 140,
+    "message": 1
+  },
+  {
+    "mod": "BloodMagic-1.12.2-2.4.3-105.jar",
+    "asset": "assets/bloodmagic/lang/en_US.lang",
+    "en_keys": 808,
+    "overlay_keys": 417,
+    "remaining_high_value": 253,
+    "prose": 173,
+    "gui": 8,
+    "message": 72
+  },
+  {
+    "mod": "ActuallyAdditions-1.12.2-r152.jar",
+    "asset": "assets/actuallyadditions/lang/en_US.lang",
+    "en_keys": 1085,
+    "overlay_keys": 354,
+    "remaining_high_value": 251,
+    "gui": 126,
+    "prose": 120,
+    "message": 5
+  },
+  {
+    "mod": "ae2-uel-v0.56.4.jar",
+    "asset": "assets/appliedenergistics2/lang/en_us.lang",
+    "en_keys": 641,
+    "overlay_keys": 150,
+    "remaining_high_value": 232,
+    "gui": 221,
+    "message": 6,
+    "prose": 5
+  },
+  {
+    "mod": "TConstruct-1.12.2-2.13.0.183.jar",
+    "asset": "assets/tconstruct/lang/en_us.lang",
+    "en_keys": 817,
+    "overlay_keys": 47,
+    "remaining_high_value": 221,
+    "prose": 141,
+    "gui": 76,
+    "message": 4
+  },
+  {
+    "mod": "IntegratedTunnels-1.12.2-1.6.14.jar",
+    "asset": "assets/integratedtunnels/lang/en_us.lang",
+    "en_keys": 453,
+    "overlay_keys": 41,
+    "remaining_high_value": 208,
+    "prose": 207,
+    "gui": 1
+  },
+  {
+    "mod": "RecurrentComplex-1.4.8.6.jar",
+    "asset": "assets/reccomplex/lang/en_US.lang",
+    "en_keys": 572,
+    "overlay_keys": 126,
+    "remaining_high_value": 199,
+    "prose": 63,
+    "message": 77,
+    "gui": 59
+  },
+  {
+    "mod": "AbyssalCraft-1.12.2-1.10.4.jar",
+    "asset": "assets/abyssalcraft/lang/en_us.lang",
+    "en_keys": 1409,
+    "overlay_keys": 520,
+    "remaining_high_value": 183,
+    "message": 14,
+    "prose": 137,
+    "gui": 32
+  },
+  {
+    "mod": "Galacticraft-1.12.2-4.0.7.jar",
+    "asset": "assets/galacticraftplanets/lang/en_us.lang",
+    "en_keys": 404,
+    "overlay_keys": 39,
+    "remaining_high_value": 165,
+    "gui": 156,
+    "prose": 9
+  },
+  {
+    "mod": "astralsorcery-1.12.2-1.10.27.jar",
+    "asset": "assets/astralsorcery/lang/en_US.lang",
+    "en_keys": 1282,
+    "overlay_keys": 315,
+    "remaining_high_value": 161,
+    "prose": 145,
+    "message": 4,
+    "gui": 12
+  },
+  {
+    "mod": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+    "asset": "assets/bibliocraft/lang/en_us.lang",
+    "en_keys": 561,
+    "overlay_keys": 5,
+    "remaining_high_value": 157,
+    "gui": 154,
+    "message": 2,
+    "prose": 1
+  },
+  {
+    "mod": "natura-legacy-1.12.2-4.4.1.jar",
+    "asset": "assets/natura/lang/en_us.lang",
+    "en_keys": 487,
+    "overlay_keys": 46,
+    "remaining_high_value": 116,
+    "prose": 101,
+    "gui": 15
+  },
+  {
+    "mod": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+    "asset": "assets/thermaldynamics/lang/en_US.lang",
+    "en_keys": 163,
+    "overlay_keys": 0,
+    "remaining_high_value": 116,
+    "gui": 11,
+    "prose": 105
+  },
+  {
+    "mod": "FTBUtilities-5.4.1.131.jar",
+    "asset": "assets/ftbutilities/lang/en_us.lang",
+    "en_keys": 279,
+    "overlay_keys": 24,
+    "remaining_high_value": 110,
+    "message": 83,
+    "gui": 19,
+    "prose": 8
+  },
+  {
+    "mod": "FTBLib-5.4.7.2.jar",
+    "asset": "assets/ftblib/lang/en_us.lang",
+    "en_keys": 222,
+    "overlay_keys": 5,
+    "remaining_high_value": 107,
+    "message": 47,
+    "gui": 52,
+    "prose": 8
+  },
+  {
+    "mod": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "asset": "assets/cofh/lang/en_US.lang",
+    "en_keys": 235,
+    "overlay_keys": 66,
+    "remaining_high_value": 104,
+    "gui": 10,
+    "prose": 91,
+    "message": 3
+  },
+  {
+    "mod": "industrialforegoing-1.12.2-1.12.13-237.jar",
+    "asset": "assets/industrialforegoing/lang/en_US.lang",
+    "en_keys": 362,
+    "overlay_keys": 20,
+    "remaining_high_value": 101,
+    "prose": 24,
+    "gui": 76,
+    "message": 1
+  },
+  {
+    "mod": "IntegratedDynamics-1.12.2-1.1.11.jar",
+    "asset": "assets/integrateddynamicscompat/lang/en_us.lang",
+    "en_keys": 193,
+    "overlay_keys": 0,
+    "remaining_high_value": 101,
+    "prose": 88,
+    "gui": 12,
+    "message": 1
+  },
+  {
+    "mod": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+    "asset": "assets/projectintelligence/lang/en_US.lang",
+    "en_keys": 191,
+    "overlay_keys": 0,
+    "remaining_high_value": 97,
+    "gui": 62,
+    "prose": 28,
+    "message": 7
+  },
+  {
+    "mod": "QuarkRotN-r1.6-191.jar",
+    "asset": "assets/quark/lang/en_US.lang",
+    "en_keys": 972,
+    "overlay_keys": 10,
+    "remaining_high_value": 96,
+    "gui": 28,
+    "prose": 64,
+    "message": 4
+  },
+  {
+    "mod": "MysticalAgriculture-1.12.2-1.7.5.jar",
+    "asset": "assets/mysticalagriculture/lang/en_US.lang",
+    "en_keys": 850,
+    "overlay_keys": 11,
+    "remaining_high_value": 94,
+    "prose": 86,
+    "gui": 8
+  },
+  {
+    "mod": "journeymap-1.12.2-5.7.1p3.jar",
+    "asset": "assets/journeymap/lang/en_US.lang",
+    "en_keys": 653,
+    "overlay_keys": 153,
+    "remaining_high_value": 92,
+    "gui": 57,
+    "prose": 12,
+    "message": 23
+  },
+  {
+    "mod": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+    "asset": "assets/jecalculation/lang/en_us.lang",
+    "en_keys": 97,
+    "overlay_keys": 3,
+    "remaining_high_value": 84,
+    "gui": 81,
+    "message": 3
+  },
+  {
+    "mod": "extrautils2-1.12-1.9.9.jar",
+    "asset": "assets/extrautils2/lang/en_US.lang",
+    "en_keys": 840,
+    "overlay_keys": 5,
+    "remaining_high_value": 81,
+    "prose": 55,
+    "message": 18,
+    "gui": 8
+  },
+  {
+    "mod": "Wawla-1.12.2-2.6.275.jar",
+    "asset": "assets/wawla/lang/en_US.lang",
+    "en_keys": 90,
+    "overlay_keys": 6,
+    "remaining_high_value": 81,
+    "prose": 81
+  },
+  {
+    "mod": "plustic-8.0.3.jar",
+    "asset": "assets/plustic/lang/en_US.lang",
+    "en_keys": 322,
+    "overlay_keys": 6,
+    "remaining_high_value": 79,
+    "prose": 75,
+    "gui": 4
+  },
+  {
+    "mod": "ProjectE-1.12.2-PE1.4.1.jar",
+    "asset": "assets/projecte/lang/en_us.lang",
+    "en_keys": 350,
+    "overlay_keys": 47,
+    "remaining_high_value": 75,
+    "prose": 46,
+    "message": 28,
+    "gui": 1
+  },
+  {
+    "mod": "Patchouli-1.0-23.6.jar",
+    "asset": "assets/patchouli/lang/en_US.lang",
+    "en_keys": 79,
+    "overlay_keys": 1,
+    "remaining_high_value": 67,
+    "gui": 67
+  },
+  {
+    "mod": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+    "asset": "assets/simplyjetpacks/lang/en_us.lang",
+    "en_keys": 332,
+    "overlay_keys": 129,
+    "remaining_high_value": 64,
+    "gui": 25,
+    "message": 11,
+    "prose": 28
+  },
+  {
+    "mod": "botania-r1.10-372.jar",
+    "asset": "assets/botania/lang/en_us.lang",
+    "en_keys": 3345,
+    "overlay_keys": 1511,
+    "remaining_high_value": 63,
+    "message": 4,
+    "prose": 55,
+    "gui": 4
+  },
+  {
+    "mod": "lightningcraft-2.9.7_1.jar",
+    "asset": "assets/lightningcraft/lang/en_US.lang",
+    "en_keys": 306,
+    "overlay_keys": 4,
+    "remaining_high_value": 63,
+    "prose": 55,
+    "gui": 5,
+    "message": 3
+  },
+  {
+    "mod": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+    "asset": "assets/openblocks/lang/en_us.lang",
+    "en_keys": 309,
+    "overlay_keys": 56,
+    "remaining_high_value": 61,
+    "gui": 51,
+    "message": 8,
+    "prose": 2
+  },
+  {
+    "mod": "BuildingGadgets-2.8.4.jar",
+    "asset": "assets/buildinggadgets/lang/en_us.lang",
+    "en_keys": 174,
+    "overlay_keys": 50,
+    "remaining_high_value": 60,
+    "prose": 14,
+    "gui": 33,
+    "message": 13
+  },
+  {
+    "mod": "fermiumasm-5.31.jar",
+    "asset": "assets/normalasm/lang/en_us.lang",
+    "en_keys": 87,
+    "overlay_keys": 13,
+    "remaining_high_value": 56,
+    "gui": 54,
+    "message": 2
+  },
+  {
+    "mod": "UndergroundBiomesConstructs-1.12-1.3.14.jar",
+    "asset": "assets/undergroundbiomes/lang/en_us.lang",
+    "en_keys": 546,
+    "overlay_keys": 0,
+    "remaining_high_value": 56,
+    "gui": 56
+  },
+  {
+    "mod": "valkyrielib-1.12.2-2.0.20.1.jar",
+    "asset": "assets/valkyrielib/lang/en_us.lang",
+    "en_keys": 73,
+    "overlay_keys": 1,
+    "remaining_high_value": 56,
+    "prose": 10,
+    "gui": 46
+  },
+  {
+    "mod": "DivineRPG-1.7.1.jar",
+    "asset": "assets/divinerpg/lang/en_us.lang",
+    "en_keys": 1695,
+    "overlay_keys": 321,
+    "remaining_high_value": 53,
+    "prose": 43,
+    "message": 9,
+    "gui": 1
+  },
+  {
+    "mod": "modularmachinery-1.12.2-1.10.0.jar",
+    "asset": "assets/modularmachinery/lang/en_US.lang",
+    "en_keys": 152,
+    "overlay_keys": 33,
+    "remaining_high_value": 53,
+    "prose": 38,
+    "gui": 12,
+    "message": 3
+  },
+  {
+    "mod": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+    "asset": "assets/thermalfoundation/lang/en_US.lang",
+    "en_keys": 615,
+    "overlay_keys": 4,
+    "remaining_high_value": 51,
+    "prose": 26,
+    "gui": 12,
+    "message": 13
+  },
+  {
+    "mod": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+    "asset": "assets/extendedcrafting/lang/en_us.lang",
+    "en_keys": 188,
+    "overlay_keys": 16,
+    "remaining_high_value": 49,
+    "gui": 30,
+    "prose": 19
+  },
+  {
+    "mod": "AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar",
+    "asset": "assets/aenetvistool/lang/en_US.lang",
+    "en_keys": 48,
+    "overlay_keys": 0,
+    "remaining_high_value": 47,
+    "gui": 47
+  },
+  {
+    "mod": "DankNull-1.12.2-1.7.101.jar",
+    "asset": "assets/danknull/lang/en_us.lang",
+    "en_keys": 64,
+    "overlay_keys": 0,
+    "remaining_high_value": 47,
+    "prose": 46,
+    "gui": 1
+  },
+  {
+    "mod": "twilightforest-1.12.2-3.15.1.jar",
+    "asset": "assets/twilightforest/lang/en_us.lang",
+    "en_keys": 769,
+    "overlay_keys": 129,
+    "remaining_high_value": 45,
+    "prose": 20,
+    "message": 14,
+    "gui": 11
+  },
+  {
+    "mod": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+    "asset": "assets/openmods/lang/en_us.lang",
+    "en_keys": 79,
+    "overlay_keys": 0,
+    "remaining_high_value": 44,
+    "gui": 1,
+    "message": 43
+  },
+  {
+    "mod": "Hwyla-1.8.26-B41_1.12.2.jar",
+    "asset": "assets/waila/lang/en_US.lang",
+    "en_keys": 81,
+    "overlay_keys": 0,
+    "remaining_high_value": 39,
+    "gui": 37,
+    "prose": 2
+  },
+  {
+    "mod": "PlanetProgression-1.12.2-0.4.8.jar",
+    "asset": "assets/planetprogression/lang/en_US.lang",
+    "en_keys": 56,
+    "overlay_keys": 0,
+    "remaining_high_value": 38,
+    "gui": 25,
+    "prose": 13
+  },
+  {
+    "mod": "rftools-1.12-7.73.jar",
+    "asset": "assets/rftools/lang/en_us.lang",
+    "en_keys": 203,
+    "overlay_keys": 19,
+    "remaining_high_value": 38,
+    "message": 29,
+    "prose": 3,
+    "gui": 6
+  },
+  {
+    "mod": "tesla-core-lib-1.12.2-1.0.18.jar",
+    "asset": "assets/teslacorelib/lang/en_US.lang",
+    "en_keys": 109,
+    "overlay_keys": 0,
+    "remaining_high_value": 38,
+    "gui": 38
+  },
+  {
+    "mod": "bewitchment-1.12.2-0.0.22.65.jar",
+    "asset": "assets/bewitchment/lang/en_us.lang",
+    "en_keys": 1441,
+    "overlay_keys": 99,
+    "remaining_high_value": 37,
+    "prose": 15,
+    "message": 17,
+    "gui": 5
+  },
+  {
+    "mod": "CyclopsCore-1.12.2-1.6.7.jar",
+    "asset": "assets/cyclopscore/lang/en_us.lang",
+    "en_keys": 72,
+    "overlay_keys": 9,
+    "remaining_high_value": 34,
+    "message": 11,
+    "prose": 20,
+    "gui": 3
+  },
+  {
+    "mod": "LootTweaker-0.4.1+MC1.12.2.jar",
+    "asset": "assets/loottweaker/lang/en_us.lang",
+    "en_keys": 37,
+    "overlay_keys": 0,
+    "remaining_high_value": 34,
+    "message": 32,
+    "prose": 2
+  },
+  {
+    "mod": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+    "asset": "assets/thaumcraft/lang/en_us.lang",
+    "en_keys": 1464,
+    "overlay_keys": 488,
+    "remaining_high_value": 33,
+    "gui": 21,
+    "message": 12
+  },
+  {
+    "mod": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
+    "asset": "assets/projectred/lang/en_US.lang",
+    "en_keys": 489,
+    "overlay_keys": 0,
+    "remaining_high_value": 32,
+    "gui": 32
+  },
+  {
+    "mod": "ThaumicAugmentation-1.12.2-2.1.14.jar",
+    "asset": "assets/thaumicaugmentation/lang/en_us.lang",
+    "en_keys": 537,
+    "overlay_keys": 235,
+    "remaining_high_value": 29,
+    "message": 17,
+    "gui": 11,
+    "prose": 1
+  },
+  {
+    "mod": "jei_1.12.2-4.16.1.302.jar",
+    "asset": "assets/jei/lang/en_us.lang",
+    "en_keys": 108,
+    "overlay_keys": 28,
+    "remaining_high_value": 28,
+    "gui": 17,
+    "prose": 11
+  },
+  {
+    "mod": "moartinkers-0.6.0.jar",
+    "asset": "assets/moartinkers/lang/en_us.lang",
+    "en_keys": 146,
+    "overlay_keys": 0,
+    "remaining_high_value": 28,
+    "message": 5,
+    "prose": 23
+  },
+  {
+    "mod": "EvilCraft-1.12.2-0.10.78.jar",
+    "asset": "assets/evilcraftcompat/lang/en_us.lang",
+    "en_keys": 26,
+    "overlay_keys": 0,
+    "remaining_high_value": 25,
+    "prose": 25
+  },
+  {
+    "mod": "SolarFluxReborn-1.12.2-12.4.11.jar",
+    "asset": "assets/solarflux/lang/en_us.lang",
+    "en_keys": 80,
+    "overlay_keys": 0,
+    "remaining_high_value": 25,
+    "prose": 25
+  },
+  {
+    "mod": "Bubbles-2.4.10.jar",
+    "asset": "assets/baubles/lang/en_us.lang",
+    "en_keys": 33,
+    "overlay_keys": 0,
+    "remaining_high_value": 24,
+    "message": 14,
+    "prose": 8,
+    "gui": 2
+  },
+  {
+    "mod": "Atum-1.12.2-2.0.20.jar",
+    "asset": "assets/atum/lang/en_us.lang",
+    "en_keys": 903,
+    "overlay_keys": 67,
+    "remaining_high_value": 23,
+    "gui": 17,
+    "message": 3,
+    "prose": 3
+  },
+  {
+    "mod": "BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+    "asset": "assets/brandonscore/lang/en_US.lang",
+    "en_keys": 33,
+    "overlay_keys": 0,
+    "remaining_high_value": 23,
+    "message": 5,
+    "gui": 18
+  },
+  {
+    "mod": "RebornCore-1.12.2-3.19.5-universal.jar",
+    "asset": "assets/reborncore/lang/en_us.lang",
+    "en_keys": 32,
+    "overlay_keys": 10,
+    "remaining_high_value": 22,
+    "gui": 14,
+    "prose": 6,
+    "message": 2
+  },
+  {
+    "mod": "StandardExpansion-3.4.173.jar",
+    "asset": "assets/bq_standard/lang/en_US.lang",
+    "en_keys": 65,
+    "overlay_keys": 3,
+    "remaining_high_value": 22,
+    "prose": 7,
+    "gui": 14,
+    "message": 1
+  },
+  {
+    "mod": "agricraft-2.12.0-1.12.2-b2.jar",
+    "asset": "assets/agricraft/lang/en_us.lang",
+    "en_keys": 117,
+    "overlay_keys": 38,
+    "remaining_high_value": 21,
+    "prose": 19,
+    "gui": 2
+  },
+  {
+    "mod": "Erebus-1.0.32.jar",
+    "asset": "assets/erebus/lang/en_us.lang",
+    "en_keys": 892,
+    "overlay_keys": 166,
+    "remaining_high_value": 21,
+    "gui": 13,
+    "prose": 7,
+    "message": 1
+  },
+  {
+    "mod": "HammerLib-1.12.2-12.2.58.jar",
+    "asset": "assets/hammercore/lang/en_us.lang",
+    "en_keys": 99,
+    "overlay_keys": 3,
+    "remaining_high_value": 21,
+    "prose": 11,
+    "gui": 9,
+    "message": 1
+  },
+  {
+    "mod": "InventoryTweaks-1.63.jar",
+    "asset": "assets/inventorytweaks/lang/en_US.lang",
+    "en_keys": 84,
+    "overlay_keys": 14,
+    "remaining_high_value": 21,
+    "message": 18,
+    "gui": 3
+  },
+  {
+    "mod": "RecurrentComplex-1.4.8.6.jar",
+    "asset": "assets/mcopts/lang/en_US.lang",
+    "en_keys": 21,
+    "overlay_keys": 0,
+    "remaining_high_value": 21,
+    "message": 21
+  },
+  {
+    "mod": "Totemic-1.12.2-0.11.7.jar",
+    "asset": "assets/totemic/lang/en_us.lang",
+    "en_keys": 307,
+    "overlay_keys": 9,
+    "remaining_high_value": 21,
+    "gui": 5,
+    "prose": 15,
+    "message": 1
+  },
+  {
+    "mod": "ExtraCells-1.12.2-2.6.7.jar",
+    "asset": "assets/extracells/lang/en_us.lang",
+    "en_keys": 111,
+    "overlay_keys": 16,
+    "remaining_high_value": 20,
+    "prose": 18,
+    "gui": 2
+  },
+  {
+    "mod": "StorageDrawers-1.12.2-5.5.0.jar",
+    "asset": "assets/storagedrawers/lang/en_us.lang",
+    "en_keys": 195,
+    "overlay_keys": 41,
+    "remaining_high_value": 20,
+    "prose": 7,
+    "message": 3,
+    "gui": 10
+  },
+  {
+    "mod": "modularmagic-1.4.0.jar",
+    "asset": "assets/modularmagic/lang/en_us.lang",
+    "en_keys": 31,
+    "overlay_keys": 0,
+    "remaining_high_value": 19,
+    "message": 15,
+    "prose": 4
+  },
+  {
+    "mod": "thaumicenergistics-extended_life-2.2.7.jar",
+    "asset": "assets/thaumicenergistics/lang/en_us.lang",
+    "en_keys": 94,
+    "overlay_keys": 8,
+    "remaining_high_value": 19,
+    "gui": 17,
+    "prose": 2
+  },
+  {
+    "mod": "supersoundmuffler-revived_1.12.2_1.0.2.10.jar",
+    "asset": "assets/supersoundmuffler/lang/en_US.lang",
+    "en_keys": 21,
+    "overlay_keys": 0,
+    "remaining_high_value": 17,
+    "gui": 11,
+    "prose": 6
+  },
+  {
+    "mod": "BiggerCraftingTables-1.12.2-2.3b.jar",
+    "asset": "assets/biggercraftingtables/lang/en_US.lang",
+    "en_keys": 35,
+    "overlay_keys": 1,
+    "remaining_high_value": 16,
+    "prose": 7,
+    "gui": 9
+  },
+  {
+    "mod": "endermodpacktweaks-0.5.11.jar",
+    "asset": "assets/endermodpacktweaks/lang/en_us.lang",
+    "en_keys": 209,
+    "overlay_keys": 78,
+    "remaining_high_value": 16,
+    "gui": 9,
+    "message": 4,
+    "prose": 3
+  },
+  {
+    "mod": "tinkersaether-1.4.1.jar",
+    "asset": "assets/tinkersaether/lang/en_us.lang",
+    "en_keys": 54,
+    "overlay_keys": 0,
+    "remaining_high_value": 13,
+    "prose": 13
+  },
+  {
+    "mod": "chiselsandbits-14.33.jar",
+    "asset": "assets/chiselsandbits/lang/en_us.lang",
+    "en_keys": 243,
+    "overlay_keys": 19,
+    "remaining_high_value": 12,
+    "message": 12
+  },
+  {
+    "mod": "rftoolsdim-1.12-5.71.jar",
+    "asset": "assets/rftoolsdim/lang/en_us.lang",
+    "en_keys": 117,
+    "overlay_keys": 0,
+    "remaining_high_value": 12,
+    "prose": 9,
+    "gui": 2,
+    "message": 1
+  },
+  {
+    "mod": "betterp2p-1.12.2-1.2.3-extended_life.jar",
+    "asset": "assets/betterp2p/lang/en_us.lang",
+    "en_keys": 14,
+    "overlay_keys": 0,
+    "remaining_high_value": 11,
+    "gui": 11
+  },
+  {
+    "mod": "Draconic-Additions-1.12.2-1.15.1.39-universal.jar",
+    "asset": "assets/draconicadditions/lang/en_US.lang",
+    "en_keys": 74,
+    "overlay_keys": 3,
+    "remaining_high_value": 11,
+    "prose": 8,
+    "gui": 3
+  },
+  {
+    "mod": "Avaritia-1.12.2-3.3.0.37-universal.jar",
+    "asset": "assets/avaritia/lang/en_US.lang",
+    "en_keys": 73,
+    "overlay_keys": 9,
+    "remaining_high_value": 10,
+    "prose": 2,
+    "message": 6,
+    "gui": 2
+  },
+  {
+    "mod": "Guide-API-1.12-2.1.8-63.jar",
+    "asset": "assets/guideapi/lang/en_US.lang",
+    "en_keys": 23,
+    "overlay_keys": 0,
+    "remaining_high_value": 10,
+    "gui": 7,
+    "message": 3
+  },
+  {
+    "mod": "simplybackpacks-1.4.9.jar",
+    "asset": "assets/simplybackpacks/lang/en_us.lang",
+    "en_keys": 21,
+    "overlay_keys": 0,
+    "remaining_high_value": 10,
+    "prose": 10
+  },
+  {
+    "mod": "UniversalTweaks-1.12.2-1.20.0.jar",
+    "asset": "assets/universaltweaks/lang/en_us.lang",
+    "en_keys": 205,
+    "overlay_keys": 0,
+    "remaining_high_value": 10,
+    "message": 6,
+    "gui": 3,
+    "prose": 1
+  },
+  {
+    "mod": "WR-CBE-1.12.2-2.3.2.33-universal.jar",
+    "asset": "assets/wrcbe/lang/en_US.lang",
+    "en_keys": 103,
+    "overlay_keys": 0,
+    "remaining_high_value": 10,
+    "message": 4,
+    "gui": 6
+  }
+]

@@ -1,0 +1,7 @@
+commands.findnethercity.usage=Wrong usage, must be /findNetherCity or /findNetherCity x y z
+commands.findnethercity.usage.console=No coordinates in input
+commands.findnethercity.usage.coordinates=Wrong coordinates
+container.chest_of_drawers=Chest of Drawers
+container.forge=Forge
+message.spawn_help=§c§lYou must hold Glowstone Dust to set your spawn point here
+message.spawn_set=§2§lYour spawn point was set here

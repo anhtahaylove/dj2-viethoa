@@ -1,0 +1,35 @@
+{
+  "name": "Demon and Demoness",
+  "category": "lesser_demons",
+  "icon": "bewitchment:demon_heart",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Demon và demoness thường tập hợp quân đội imp rồi giao chiến với nhau để xem kẻ nào chiếm được nhiều linh hồn nhất. Dù có thể mang dáng vẻ “nam” hoặc “nữ”, demon thực chất là những sinh vật phi lý với hình dạng thật trừu tượng và tuân theo hình học phi Euclid."
+    },
+    {
+      "type": "text",
+      "text": "Chúng chỉ khoác lên hình dạng này khi hiện thân trong thế giới của chúng ta. Nội tạng của chúng cũng kỳ lạ và hoàn toàn không tuân theo cấu trúc giải phẫu nào; tuy nhiên, khi một demon tình cờ hiện thân với một hoặc nhiều trái tim, chúng sẽ bơm thứ hắc dịch ghê tởm chứa bản chất của demon và là thành phần chính tạo nên khói Demonic Dew."
+    },
+    {
+      "type": "text",
+      "title": "Triệu hồi",
+      "text": "Triệu hồi demon khá khó khăn, và chúng chỉ hiện thân trước người phàm khi có một linh hồn bị đem trao đổi. Một cách tàn bạo nhưng chắc chắn là làm đổ máu một con người khác (kể cả villager) trong vòng tròn, đồng thời hiến dâng nhiều nguyên liệu địa ngục. Ta đã ghi chép nghi thức như sau:"
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:conjure_demon",
+      "name": "Conjure Demon"
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:demon",
+      "scale": 0.75
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:demoness",
+      "scale": 0.75
+    }
+  ]
+}

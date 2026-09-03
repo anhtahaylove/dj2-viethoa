@@ -1,0 +1,21 @@
+{
+  "tool": "excavator",
+  "text": [
+    {
+      "text": "Excavator là một công cụ đào diện rộng. Nó thu hoạch đất và tuyết trên một vùng rộng."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Dành cho lúc bạn cần đào thật nhiều mộ."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Advanced mining tool",
+    "3x3 AOE Mining",
+    "Hiệu quả với Dirt, Sand và Gravel",
+    "Can create path"
+  ]
+}

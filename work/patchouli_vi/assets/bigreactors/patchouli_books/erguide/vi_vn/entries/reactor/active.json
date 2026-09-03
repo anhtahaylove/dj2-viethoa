@@ -1,0 +1,17 @@
+{
+  "name": "Làm mát chủ động",
+  "icon": "minecraft:water_bucket",
+  "category": "bigreactors:reactor-operational_mode",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Reactor làm mát chủ động sử dụng chất làm mát bên ngoài để tản nhiệt bên trong.$(br2)Trong quá trình này, chất làm mát sẽ hóa hơi. Hơi tạo ra có thể được rút khỏi Reactor để vận hành rotor của một hoặc nhiều Turbines."
+    },
+    {
+      "type": "text",
+      "text": "Để xây Reactor làm mát chủ động, multiblock phải có ít nhất hai Coolant Ports: một cổng được cấu hình để đưa chất làm mát vào Reactor và một cổng để rút hơi được tạo ra khỏi Reactor.$(br2)Sau đó, hơi đã rút có thể được dẫn vào Turbines để tạo năng lượng."
+    }
+  ]
+}

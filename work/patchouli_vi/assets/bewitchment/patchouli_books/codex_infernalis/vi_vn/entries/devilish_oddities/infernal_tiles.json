@@ -1,0 +1,182 @@
+{
+  "name": "Infernal Tiles",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:nethersteel",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ngoài trang phục có thể mặc, còn có nhiều khối và vật phẩm khác liên quan đến quỷ."
+    },
+    {
+      "type": "empty",
+      "draw_filler": false
+    },
+    {
+      "type": "text",
+      "title": "Nethersteel",
+      "text": "Một vật liệu bán kim loại kỳ lạ. Nó có cảm giác ấm, gần như đang sống… Vật liệu này quá... thất thường để chế tác thành công cụ, nhưng thường có thể tạo thành các khối trang trí và tượng thờ. Nó cũng rất quan trọng để chế tạo nhiều món trang sức ma quỷ. Chất liệu đáng ngờ này được tạo ra như sau:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:nethersteel"
+    },
+    {
+      "type": "text",
+      "title": "Scorned Bricks",
+      "text": "Bất kể khí hậu ra sao, loại đá phiến ánh đỏ này luôn lạnh như màn đêm. Nếu áp tai vào, bạn có thể thề rằng mình nghe thấy tiếng than khóc và gào thét… Người ta tin rằng ma quỷ dùng vật liệu này để xây những cung điện nguy nga ẩn ngoài các góc khuất của thời gian. Nó có thể được tạo ra bằng brew Hellworld trên Embittered Bricks, hoặc theo cách sau:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:scorned_bricks"
+    },
+    {
+      "type": "text",
+      "title": "Despair Bricks",
+      "text": "Đôi khi xuất hiện trong những vùng hoang địa của vô số địa ngục, các viên gạch màu hoàng thổ này thường gắn liền với những miền đất tiêu điều, nơi không linh hồn nào nhận được hơi ấm từ bất kỳ nguồn sáng nào và vì thế mục rữa mãi mãi. Người ta tin rằng những công trình rải rác trên các vùng đất ấy do các ma quỷ đã biến mất từ lâu xây nên, nhưng công thức của chúng vẫn như sau:"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:despair_bricks"
+    },
+    {
+      "type": "text",
+      "title": "Statue",
+      "text": "Statue là những hình tượng lớn của các đại ác ma. Chúng có thể được đặt quanh các bức tượng, ban cho một lợi ích và đôi khi cả sự ưu ái của chính ác ma đó."
+    },
+    {
+      "type": "crafting",
+      "title": "Leonard",
+      "recipe": "bewitchment:stone_leonard_statue",
+      "recipe2": "bewitchment:gold_leonard_statue"
+    },
+    {
+      "type": "crafting",
+      "title": "Leonard",
+      "recipe": "bewitchment:nether_brick_leonard_statue",
+      "recipe2": "bewitchment:scorned_brick_leonard_statue",
+      "text": "Leonard được biết đến là Vua của các Phù thủy."
+    },
+    {
+      "type": "crafting",
+      "title": "Baphomet",
+      "recipe": "bewitchment:stone_baphomet_statue",
+      "recipe2": "bewitchment:gold_baphomet_statue"
+    },
+    {
+      "type": "crafting",
+      "title": "Baphomet",
+      "recipe": "bewitchment:nether_brick_baphomet_statue",
+      "recipe2": "bewitchment:scorned_brick_baphomet_statue",
+      "text": "Hãy dè chừng các Templar và sự sùng bái tượng thần Dê của chúng."
+    },
+    {
+      "type": "crafting",
+      "title": "Lilith",
+      "recipe": "bewitchment:stone_lilith_statue",
+      "recipe2": "bewitchment:gold_lilith_statue"
+    },
+    {
+      "type": "crafting",
+      "title": "Lilith",
+      "recipe": "bewitchment:nether_brick_lilith_statue",
+      "recipe2": "bewitchment:scorned_brick_lilith_statue",
+      "text": "Nữ Chúa Bóng Đêm hút máu đàn ông để sống."
+    },
+    {
+      "type": "crafting",
+      "title": "Herne",
+      "recipe": "bewitchment:stone_herne_statue",
+      "recipe2": "bewitchment:gold_herne_statue"
+    },
+    {
+      "type": "crafting",
+      "title": "Herne",
+      "recipe": "bewitchment:nether_brick_herne_statue",
+      "recipe2": "bewitchment:scorned_brick_herne_statue",
+      "text": "Thợ săn Orion tin rằng mình có thể săn mọi thứ."
+    },
+    {
+      "type": "crafting",
+      "title": "Moloch",
+      "recipe": "bewitchment:stone_moloch_statue",
+      "recipe2": "bewitchment:gold_moloch_statue"
+    },
+    {
+      "type": "crafting",
+      "title": "Moloch",
+      "recipe": "bewitchment:nether_brick_moloch_statue",
+      "recipe2": "bewitchment:scorned_brick_moloch_statue",
+      "text": "Moloch nuốt chửng mọi thứ trong tầm mắt."
+    },
+    {
+      "type": "text",
+      "title": "idol",
+      "text": "Idol là những hình nhân nhỏ mô phỏng một demon, thường được các demonolator tự nguyện thờ phụng những sinh vật địa ngục này đặt trên bàn thờ."
+    },
+    {
+      "type": "crafting",
+      "title": "Leonard",
+      "recipe": "bewitchment:stone_leonard_idol",
+      "recipe2": "bewitchment:gold_leonard_idol"
+    },
+    {
+      "type": "crafting",
+      "title": "Leonard",
+      "recipe": "bewitchment:nether_brick_leonard_idol",
+      "recipe2": "bewitchment:scorned_brick_leonard_idol",
+      "text": "Leonard được biết đến là Vua của các Phù thủy."
+    },
+    {
+      "type": "crafting",
+      "title": "Baphomet",
+      "recipe": "bewitchment:stone_baphomet_idol",
+      "recipe2": "bewitchment:gold_baphomet_idol"
+    },
+    {
+      "type": "crafting",
+      "title": "Baphomet",
+      "recipe": "bewitchment:nether_brick_baphomet_idol",
+      "recipe2": "bewitchment:scorned_brick_baphomet_idol",
+      "text": "Hãy đề phòng các Hiệp sĩ Dòng Đền và tục thờ tượng Dê của chúng."
+    },
+    {
+      "type": "crafting",
+      "title": "Lilith",
+      "recipe": "bewitchment:stone_lilith_idol",
+      "recipe2": "bewitchment:gold_lilith_idol"
+    },
+    {
+      "type": "crafting",
+      "title": "Lilith",
+      "recipe": "bewitchment:nether_brick_lilith_idol",
+      "recipe2": "bewitchment:scorned_brick_lilith_idol",
+      "text": "Nữ Chúa Bóng Đêm hút máu đàn ông để sinh tồn."
+    },
+    {
+      "type": "crafting",
+      "title": "Herne",
+      "recipe": "bewitchment:stone_herne_idol",
+      "recipe2": "bewitchment:gold_herne_idol"
+    },
+    {
+      "type": "crafting",
+      "title": "Herne",
+      "recipe": "bewitchment:nether_brick_herne_idol",
+      "recipe2": "bewitchment:scorned_brick_herne_idol",
+      "text": "Hunter Orion tin rằng mình có thể săn mọi thứ."
+    },
+    {
+      "type": "crafting",
+      "title": "Moloch",
+      "recipe": "bewitchment:stone_moloch_idol",
+      "recipe2": "bewitchment:gold_moloch_idol"
+    },
+    {
+      "type": "crafting",
+      "title": "Moloch",
+      "recipe": "bewitchment:nether_brick_moloch_idol",
+      "recipe2": "bewitchment:scorned_brick_moloch_idol",
+      "text": "Moloch nuốt chửng mọi thứ trong tầm mắt."
+    }
+  ]
+}

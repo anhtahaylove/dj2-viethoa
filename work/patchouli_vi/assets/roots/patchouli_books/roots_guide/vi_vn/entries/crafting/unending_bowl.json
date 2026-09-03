@@ -1,0 +1,25 @@
+{
+  "name": "Unending Bowl",
+  "icon": "roots:unending_bowl",
+  "category": "crafting_devices",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một công cụ đa năng, đồng thời có thể dùng làm bể chứa trong máy móc. Bạn cũng có thể thiết lập loại nước mà chiếc bát tạo ra trong phần cấu hình của mod.$(br2)Có thể dùng nguồn này để đổ đầy xô, chai thủy tinh và mọi bể chứa chất lỏng phù hợp khác.$(br2)$(info) Nên cung cấp lưu lượng tối đa bất cứ khi nào có thể."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "unending_bowl"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "resources/runestone",
+        "herbs/dewgonia"
+      ]
+    }
+  ]
+}

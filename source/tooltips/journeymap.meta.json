@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "journeymap-1.12.2-5.7.1p3.jar",
+      "path": "assets/journeymap/lang/en_US.lang"
+    }
+  ]
+}

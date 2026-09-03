@@ -1,0 +1,20 @@
+{
+  "name": "Bafometyr",
+  "category": "lesser_demons",
+  "icon": "bewitchment:hoof",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bafometyr là những tay sai ái nam ái nữ rực lửa của Great Goat Baphomet. Là một Lesser Demon, Bafometyr có thể được tìm thấy khi đang lang thang trong khoảng không cháy bỏng của Nether hoặc ẩn náu trong những pháo đài bằng lưu huỳnh."
+    },
+    {
+      "type": "text",
+      "text": "Bafometyr thù địch với những kẻ chưa thề trung thành với chủ nhân của chúng và có thể thiêu kẻ địch thành tro than bằng hỏa thuật dùng linh hồn làm nhiên liệu. Tuy nhiên, chúng trung lập với người mặc Besmirched Robes, và những tín đồ mới của chủ nhân chúng thậm chí có thể giao dịch với Bafometyr. Bafometyr thường xuyên giao tranh với Cleavers để giành quyền kiểm soát các pháo đài cổ xưa của chúng."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:bafometyr",
+      "scale": 0.75
+    }
+  ]
+}

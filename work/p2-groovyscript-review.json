@@ -1,0 +1,4978 @@
+[
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.command.copy.hover",
+    "value": "Click to copy:",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.command.copy.copied_start",
+    "value": "Copied [",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.command.copy.copied_end",
+    "value": "] to the clipboard",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.jei.category.groovyscript:fluid_recipe.name",
+    "value": "In world fluid recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.jei.category.groovyscript:explosion.name",
+    "value": "Explosion recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.jei.category.groovyscript:burning.name",
+    "value": "Burning recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.jei.category.groovyscript:piston_push.name",
+    "value": "Piston push recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.description",
+    "value": "Description",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.required_mods.desc",
+    "value": "This compat requires the following mods to be loaded",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.recipe_builder.description",
+    "value": "Create the Recipe Builder",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.craftingrecipe.replace.replace.description",
+    "value": "Makes the recipe remove by the ItemStack output",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.craftingrecipe.replace.replaceByName.description",
+    "value": "Makes the recipe remove by the Resource Location name",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.probability_default.description",
+    "value": "100%% chance",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.time_ticks.description",
+    "value": "Sets the time in ticks",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.time_seconds.description",
+    "value": "Sets the time in seconds",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.index.description",
+    "value": "This is where GroovyScript handles compatibility with Vanilla Minecraft.%n%nSome documentation is not complete - particularly loot compat. To learn more, view the [example page](https://github.com/CleanroomMC/GroovyScript/blob/master/examples/postInit/custom/loottables.groovy).",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.crafting.description",
+    "value": "A normal crafting recipe that takes place in the Vanilla Crafting Table, converting up to 9 items in a shapeless or specific shaped arrangement into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.furnace.description",
+    "value": "Converts an input item into an output itemstack after a configurable amount of time, with the ability to give experience and using fuel to run. Can also convert the item in the fuel slot.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.ore_dict.description",
+    "value": "Manipulate the Ore Dictionary and what itemstacks are part of what oredicts.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.player.description",
+    "value": "Sets the starting inventory of the player, including armor slots and offhand.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.rarity.description",
+    "value": "Control the rarity of the item, which typically is the name color, to any standard Rarity or any TextFormatting code.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.title",
+    "value": "Custom Commands",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.description",
+    "value": "Create custom commands, either generally or specifically for the client.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerClientCommand0",
+    "value": "Registers the given command to the client",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerClientCommand1",
+    "value": "Registers the given command to the client in the format `name`, `usage`, `command`, with `command` being a Closure taking 3 parameters, `MinecraftServer server`, `ICommandSender sender`, and `String... args`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerClientCommand2",
+    "value": "Registers the given command to the client in the format `name`, `command`, with `command` being a Closure taking 3 parameters, `MinecraftServer server`, `ICommandSender sender`, and `String... args`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerCommand0",
+    "value": "Registers the given command",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerCommand1",
+    "value": "Registers the given command in the format `name`, `usage`, `command`, with `command` being a Closure taking 3 parameters, `MinecraftServer server`, `ICommandSender sender`, and `String... args`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerCommand2",
+    "value": "Registers the given command in the format `name`, `command`, with `command` being a Closure taking 3 parameters, `MinecraftServer server`, `ICommandSender sender`, and `String... args`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.command.registerCommand",
+    "value": "Registers the given command to the given command handler, in the format `handler`, `command`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.game_rule.description",
+    "value": "Create or assign a default value to GameRules.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.description",
+    "value": "Creates custom items, blocks, and fluids for later use. Textures and other assets such as translations will be loaded from the `groovy/assets/` folder.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.createFluid.description",
+    "value": "Create a GroovyFluid with the given name",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.createItem.description",
+    "value": "Create a GroovyItem with the given name. The name is the registry name used and must consist of exclusively lower case letters, numbers, and underscores `_`.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.item.register.description",
+    "value": "Registers the Item and returns itself (returns `GroovyItem`)",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.block.setHardness.description",
+    "value": "Also increases block resistance to itself * 5",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.block.setBlockUnbreakable.description",
+    "value": "Makes the block unbreakable by setting hardness to -1.0f",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.block.register.description",
+    "value": "Registers the Block and a corresponding ItemBlock and returns itself (returns `GroovyBlock`)",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.fluid.setTexture0.description",
+    "value": "still, flowing",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.fluid.setTexture1.description",
+    "value": "still, flowing, overlay",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.minecraft.content.fluid.register.description",
+    "value": "Registers the Fluid and returns the registered Fluid (returns `Fluid`)",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.index.description",
+    "value": "GroovyScript adds the ability to craft things in-world via specific processes. By default, no recipes are created and everything must be added by you through GroovyScript.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.burning.description",
+    "value": "Converts an input item into an output itemstack after some number of ticks while burning. This also makes the input item effectively fireproof.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.explosion.description",
+    "value": "Converts an input itemstack into an output itemstack, with an optional fail rate.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.fluid_to_block.description",
+    "value": "Converts any number of input itemstacks and a fluid source block into a block in-world, with each input having a chance to be consumed. Allows an additional closure check to start the recipe and a closure run after the recipe is finished.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.fluid_to_fluid.description",
+    "value": "Converts any number of input itemstacks and a fluid source block into a fluid block in-world, with each input having a chance to be consumed. Allows an additional closure check to start the recipe and a closure run after the recipe is finished.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.fluid_to_item.description",
+    "value": "Converts any number of input itemstacks and a fluid source block into an itemstack in-world, with each input having a chance to be consumed and a chance to consume the fluid block. Allows an additional closure check to start the recipe and a closure run after the recipe is finished.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.in_world_crafting.piston_push.description",
+    "value": "Converts an input item into an output item when a piston pushes the item into a block, with an optional minimum harvest level requirement for the block. Amount converted in each entity item per push is configurable.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.atomic_reconstructor.description",
+    "value": "The Atomic Reconstructor is a block which uses energy to convert a block or item in front of it into other items.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.ball_of_fur.description",
+    "value": "A weighted itemstack output for using a Ball of Fur, dropped by a cat.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.compost.description",
+    "value": "Converts an input item into an output item after 150 seconds. Requires an input and output display blockstate.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.crusher.description",
+    "value": "Converts an input itemstack into an output itemstack with a chance of a second itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.empowerer.description",
+    "value": "Turns 5 input items into an output item at the cost of power and time. Has a configurable color.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.empowerer.color_hex.description",
+    "value": "Sets the color via standardized hex code",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.empowerer.color_var.description",
+    "value": "red, green, blue",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.nether_mining_lens.description",
+    "value": "A weighted oredict for the block obtained via firing a Mining Lens at a block of Netherrack. The oredict must have a block, or the world will hang.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.oil_gen.description",
+    "value": "Turns a fluid into power at a rate.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.stone_mining_lens.description",
+    "value": "A weighted oredict for the block obtained via firing a Mining Lens at a block of Stone. The oredict must have a block, or the world will hang.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.actuallyadditions.treasure_chest.description",
+    "value": "A weighted item, with a weight to obtain and a minimum and maximum amount. Obtained via right-clicking a Treasure Chest spawning randomly on the sea floor.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.quarryplus.workbench_plus.description",
+    "value": "Converts up to 27 itemstacks into an output itemstack at the cost of power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedmortars.mortar.description",
+    "value": "Uses any number of specific types of Mortars to convert multiple items into a single output with a possible chance output after a number of player interactions.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.centrifuge.description",
+    "value": "Converts an input fluid into up to 12 output items and up to 4 output fluids, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.chemical_reactor.description",
+    "value": "Converts up to 2 fluids and 8 input items into up to 1 fluid and up to 4 output items, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.crystallizer.description",
+    "value": "Converts up to 4 input items into up to 4 output items, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.cutting_machine.description",
+    "value": "Converts up to 4 input items into up to 4 output items, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.electric_arc_furnace.description",
+    "value": "Converts input items and fluids into output items and fluids, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.electrolyser.description",
+    "value": "Converts an input fluid into up to 2 output fluids, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.lathe.description",
+    "value": "Converts up to 4 input items into up to 4 output items, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.precision_assembler.description",
+    "value": "Converts input items and fluids into output items and fluids, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.precision_laser_etcher.description",
+    "value": "Converts up to 4 input items into up to 4 output items, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.rolling_machine.description",
+    "value": "Consumes up to 1 input fluid and up to 4 input items into up to 4 output items, consuming RF",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.advancedrocketry.small_plate_presser.description",
+    "value": "Converts a block right below it into output items when powered by redstone",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.aether_legacy.accessory.description",
+    "value": "The Aether Accessory system.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.aether_legacy.enchanter.description",
+    "value": "Enchanting is a mechanic used to create new items, as well as repair tools, armor, and weapons, using the Altar block.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.aether_legacy.enchanter_fuel.description",
+    "value": "By default, the Enchanter (Altar) takes Ambrosium Shards as fuel. Using GroovyScript, custom fuels can be added.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.aether_legacy.freezer.description",
+    "value": "The Freezer is used to turn certain items into frozen versions.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.aether_legacy.freezer_fuel.description",
+    "value": " By default, the Freezer takes Icestone as fuel. Using GroovyScript, custom fuels can be added.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.alchemistry.atomizer.description",
+    "value": "Converts a non-element into its component elements.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.alchemistry.combiner.description",
+    "value": "Converts up to 9 input itemstacks into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.alchemistry.dissolver.description",
+    "value": "Converts an input itemstack into any number of output itemstacks, divided in any manner between different chances, with the ability to run multiple rolls to produce additional outputs.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.alchemistry.electrolyzer.description",
+    "value": "Converts an input fluidstack into up to 4 output itemstacks, with the 3rd and 4th output itemstacks being able to have chances applied to them. May require a catalyst input itemstack, which may also have a chance to be consumed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.alchemistry.evaporator.description",
+    "value": "Converts an input fluidstack into an output fluidstack, taking a set amount of time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.alchemistry.liquifier.description",
+    "value": "Converts an input itemstack into an output fluidstack, consuming a set amount of power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.appliedenergistics2.attunement.description",
+    "value": "Controls using specific items, any items from a mod, or any items with a Capability to convert a P2P into a specific tunnel type.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.appliedenergistics2.cannon_ammo.description",
+    "value": "Item and weight, where weight is a factor in how much damage is dealt.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.appliedenergistics2.grinder.description",
+    "value": "Converts an item into one item, with up to two additional items as chance byproducts after a number of turns.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.appliedenergistics2.inscriber.description",
+    "value": "Converts an item into another item, requiring either one or two additional items as either catalysts or ingredients.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.appliedenergistics2.spatial.description",
+    "value": "Either the class itself or its String name to add or remove from the Tile Entities allowed in Spatial Storage.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcanearchives.gem_cutting_table.description",
+    "value": "Converts any number of itemstacks into a single output itemstack via selecting the desired output itemstack in the GUI.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.armorplus.champion_bench.description",
+    "value": "A normal crafting recipe, but with a 9x9 grid and in the Champion Bench.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.armorplus.high_tech_bench.description",
+    "value": "A normal crafting recipe, but with a 5x5 grid and in the High-Tech Bench",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.armorplus.lava_infuser.description",
+    "value": "Convert input itemstack to output itemstack over a second, with the ability to reward a configurable amount of experience based on the output itemstack. Consumes lava at a rate of 1 bucket per 10 seconds.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.armorplus.ultimate_bench.description",
+    "value": "A normal crafting recipe, but with a 7x7 grid and in the Ultimate Bench",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.armorplus.work_bench.description",
+    "value": "A normal crafting recipe, but with a 3x3 grid and in the WorkBench",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.description",
+    "value": "Converts up to 5 input itemstacks into a wide number of possible effects, including spawning entities, opening a portal to a dungeon dimension to fight a mob, awarding an output itemstack, running commands, and even entirely customized effects.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilder.description",
+    "value": "Create a Recipe Builder for any type of recipe, always requiring up to 5 input itemstacks and a translation key.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderArena.description",
+    "value": "Create a Recipe Builder for an arena recipe, with the basic values and an entity. Teleports the player to a custom dimension to fight the entity when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderCommand.description",
+    "value": "Create a Recipe Builder for a command recipe, with the basic values and an number of commands. Runs those commands when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderCreateItem.description",
+    "value": "Create a Recipe Builder for a create item recipe, with the basic values and an output itemstack. Spawns the itemstack in-world when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderDragonBreath.description",
+    "value": "Create a Recipe Builder for a dragon breath recipe, with only the basic values. Summons Dragons Breath when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderDungeon.description",
+    "value": "Create a Recipe Builder for a dungeon recipe, with only the basic values. Teleports the player to a custom dimension with a dungeon when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderSummon.description",
+    "value": "Create a Recipe Builder for a summon recipe, with the basic values and an entity. Spawns that entity when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderTime.description",
+    "value": "Create a Recipe Builder for a time recipe, with the basic values and a time integer. Rapidly changes the time of day to the set time when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderWeather.description",
+    "value": "Create a Recipe Builder for a weather recipe, with the basic values and a weather value. Changes the weather type to the given value when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.recipeBuilderCustom.description",
+    "value": "Create a Recipe Builder for a custom recipe, with the basic values and a closure. Runs the closure when completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.arcaneworld.ritual.command.value",
+    "value": "Sets the commands that will be run when the Command Ritual is activated",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.aevitas_perk_registry.description",
+    "value": "Having the Stone Enrichment perk will convert nearby stone blocks into random ores.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.chalice_interaction.description",
+    "value": "When two chalices containing different fluids are placed nearby, fluid may be consumed to produce an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.constellation.description",
+    "value": "Create a custom Constellation.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.constellation.constellationBuilder.description",
+    "value": "Create a builder to create new custom Constellations",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.constellation.constellationMapEffectBuilder.description",
+    "value": "Create a builder to control the Potion Effects and Enchantments the Constellation can create",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.constellation.signatureItems.description",
+    "value": "Create a builder to control the Signature Items used for the Constellation Paper and Mantle of Stars recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.fountain.description",
+    "value": "Adds virtual aquifers that can be accessed via the Evershifting Fountain's Necromantic Prime.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.fountain.chanceHelper.description",
+    "value": "Create a Builder for fluids obtainable from the Necromantic Prime",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.grindstone.description",
+    "value": "Converts an item into an itemstack with a chance of getting twice the amount after right clicking the grindstone based on weight.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.infusion_altar.description",
+    "value": "Consumes buckets of Liquid Starlight when interacted with by a Resonating Wand to convert input items into output itemstacks after a time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.light_transmutation.description",
+    "value": "Converts an input Block or IBlockState into an output IBlockState after being sent a given amount of starlight, with the ability to require a specific constellation of starlight.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.lightwell.description",
+    "value": "Converts an input item into fluid, with a chance at breaking every time fluid is produced. The amount of fluid produced per interval can be increased via starlight.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.mineralis_ritual_registry.description",
+    "value": "Using a mineralis ritual will convert nearby stone blocks into random ores.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.perk_tree.description",
+    "value": "Create a custom perk with a custom effect, at a given location.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.perk_tree_config.title",
+    "value": "Perk Tree Config",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.perk_tree_config.description",
+    "value": "Control the Perk level cap and XP formula.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.perk_tree_config.setLevelCap",
+    "value": "Sets the maximum level of Astral Sorcery's Perks, between 1 and 100",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.perk_tree_config.setXpFunction",
+    "value": "Sets the Experience cost to advance to the next level, with the Closure taking 2 parameters, `int levelNumber` and `long previousLevelCost` and returning a `long`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.research.description",
+    "value": "Add custom Research Pages to the Astral Sorcery Book.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.research.researchBuilder.description",
+    "value": "Create a builder to create research pages",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.research.category.value",
+    "value": "Sets the page the node is located on",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.starlight_altar.description",
+    "value": "Allows creation of shaped recipes in the Astral Sorcery Crafting Altar chain.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.starlight_altar.discoveryRecipeBuilder.description",
+    "value": "Create a Recipe Builder for Astral Sorcery Crafting recipes for the Discovery (1st) tier of the Starlight Altar",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.starlight_altar.attunementRecipeBuilder.description",
+    "value": "Create a Recipe Builder for Astral Sorcery Crafting recipes for the Attunement (2nd) tier of the Starlight Altar",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.starlight_altar.constellationRecipeBuilder.description",
+    "value": "Create a Recipe Builder for Astral Sorcery Crafting recipes for the Constellation (3rd) tier of the Starlight Altar",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.starlight_altar.traitRecipeBuilder.description",
+    "value": "Create a Recipe Builder for Astral Sorcery Crafting recipes for the Trait tier (4th) of the Starlight Altar",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.trash_perk_registry.description",
+    "value": "Having the Trash to Treasure perk turns items the player drops in the list defined in the config at 'perks/key_void_trash/DropList' into a chance at random ores.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.astralsorcery.treasure_shrine_registry.description",
+    "value": "When the block in the middle of a Treasure Shrine structure is broken, a random ore from this list will replace it until the Treasure Shrine is exhausted.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.avaritia.compressor.description",
+    "value": "Converts any number of a single item into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.avaritia.extreme_crafting.description",
+    "value": "A normal crafting table, by 9x9 instead.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.avaritia.extreme_crafting.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Extreme Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.avaritia.extreme_crafting.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Extreme Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.atum.kiln.description",
+    "value": "Smelts an input item into an output itemstack and giving experience similar to a Furnace, but can process up to 4 stacks simultaneously. Makes a copy of the vanilla furnace recipes, excluding entries on a blacklist.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.atum.quern.description",
+    "value": "Converts an input item into an output itemstack after a given number of rotations, which are done via a player right clicking the Quern.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.atum.spinning_wheel.description",
+    "value": "Converts three input items into an output itemstack after a given number of rotations for each input item, items are inserted by interacting with the top, rotations are increased by interacting with the top, and output items are extracted by interacting with the spool side.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.drying_box.description",
+    "value": "Converts an input item into an output itemstack if placed within the appropriate multiblock. The multiblock is Sandstone directly below the Drying Box, 8 Sand around the Drying Box, and a Dead Bush placed on the Sand. Only functions in a non-snowy biome with sky access during the day, and functions twice as fast when in a hot biome.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.fire_net.description",
+    "value": "Converts an input item into any number of output itemstacks if placed within the appropriate multiblock. The multiblock is Lava or Fire directly below the Netted Screen, 8 Stone Brick around the Lava or Fire, and 8 Slat Blocks placed around the Netted Screen.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.infuser.description",
+    "value": "Converts a custom crafting recipe an output itemstack, consuming Spirits from the Infused Soul Sand placed below the Ancestral Infuser if placed within the appropriate multiblock. The multiblock is either Soul Sand or Infused Soul Sand placed below the Ancestral Infuser and exclusively air blocks adjacent to the Infuser and Soul Sand blocks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.infuser.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Infusion Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.infuser.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Infusion Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.lure_tree.description",
+    "value": "Converts an input item into an amount of food for the tree to gradually consume, eventually summoning a random creature nearby.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.packing.description",
+    "value": "Converts an input itemstack in the form of a EntityItems into an IBlockState after a piston extends if the piston and location the EntityItems are in are fully surrounded by solid blocks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.rotting.description",
+    "value": "Converts an input item into an output itemstack after the given time has passed. Has the ability to customize the terminology used to indicate the age.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.sand_net.description",
+    "value": "Converts an input item into any number of output itemstacks if placed within the appropriate multiblock. The multiblock is a Slat Block directly below the Netted Screen, 8 Water Blocks around the Water, and 8 Slat Blocks placed around the Netted Screen.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.soaking_box.description",
+    "value": "Converts an input item into an output itemstack if placed within the appropriate multiblock. The multiblock is Ice directly above the Soaking Box, 8 Water around the Soaking Box, and Water directly below the Soaking Box.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.spindle.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to consume the Spindle, when placed against a Spinning Wheel powered by Mechanical Power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.tatara.description",
+    "value": "Converts an input item into an output itemstack if placed within the appropriate multiblock while fueled by Rice Ashes. The multiblock is Lava or Fire directly below the Tatara, 8 Clay around the Lava or Fire, 9 Nether Brick above the Tatara, 4 Stone Brick diagonal to the Tatara and two Iron Blocks across from each other adjacent to the Tatara.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.transmutation.description",
+    "value": "Converts an input item into an output itemstack, consuming Spirits from the Infused Soul Sand placed below the Ancestral Infuser if placed within the appropriate multiblock. The multiblock is either Soul Sand or Infused Soul Sand placed below the Ancestral Infuser and exclusively air blocks adjacent to the Infuser and Soul Sand blocks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithaddons.water_net.description",
+    "value": "Converts an input item into any number of output itemstacks if placed within the appropriate multiblock. The multiblock is a Water Block directly below the Netted Screen, 8 Sakura Planks around the Water Block, and 8 Slat Blocks placed around the Netted Screen.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.anvil_crafting.description",
+    "value": "Similar to a normal crafting table, but 4x4 instead.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.anvil_crafting.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Anvil Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.anvil_crafting.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Anvil Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.cauldron.description",
+    "value": "Converts a large number of items into other items, with the ability to require specific amounts of heat.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.crucible.description",
+    "value": "Converts a large number of items into other items, with the ability to require specific amounts of heat.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.heat.description",
+    "value": "Creates new levels or adds new blocks to old heat levels.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.hopper.description",
+    "value": "Recipes for the Filtered Hopper to process. The filter targeted must allow the input item in to function.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.hopper_filters.description",
+    "value": "Items placed in the middle slot of the Filtered Hopper to restrict what is capable of passing through.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.kiln.description",
+    "value": "Converts a block into up to three output itemstacks, with the ability to require specific amounts of heat.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.mill_stone.description",
+    "value": "Converts input itemstacks into output itemstacks after being ground via rotation power for a given time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.saw.description",
+    "value": "Converts a block into output itemstacks after being powered via rotation power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.betterwithmods.turntable.description",
+    "value": "Converts a block into an output block and up to two itemstacks after being powered via rotation power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.animator.description",
+    "value": "Converts an input item, Life amount from Life Crystals, and Fuel from Sulfur into an output itemstack, summoning an entity, or a random item from a loottable.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.compost.description",
+    "value": "Converts an input itemstack into an amount of compost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.crab_pot_filter_bubbler.description",
+    "value": "Converts an input item into an output itemstack when a Bubbler Crab is placed inside a Crab Pot Filter.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.crab_pot_filter_silt.description",
+    "value": "Converts an input item into an output itemstack when a Silt Crab is placed inside a Crab Pot Filter.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.druid_altar.description",
+    "value": "Converts 4 input items into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.pestle_and_mortar.description",
+    "value": "Converts an input item into an output itemstack in a Pestle and Mortar by using a Pestle tool in the Mortar.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.purifier.description",
+    "value": "Converts an input item into an output itemstack, consuming Sulfur and Swamp Water as fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.smoking_rack.description",
+    "value": "Converts an input item into an output itemstack over a configurable period of time, consuming Fallen Leaves to do so.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thebetweenlands.steeping_pot.description",
+    "value": "Converts a 1,000mb of fluid into either 1,000mb of a fluid, an output itemstack, or both, consuming up to 4 items from a Silk Bundle placed inside the Steeping Pot to do so. The Silk Bundle is converted into a Dirty Silk Bundle in the process. The Silk Bundle can only hold specific items, which are also configurable.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.altar_upgrade.description",
+    "value": "Controls the valid upgrades placed atop the Witches' Altar, a multiblock that gain Magic Power from nearby plants and logs based on their uniqueness. The upgrades modify the amount gained per second and the maximum Magic Power the Altar can hold.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.athame_loot.description",
+    "value": "When killing a mob with the Athame in the main hand, drops a random amount between `0` and `stackSize + lootingLevel` of each item that the entity passes the predicate of.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.brew.description",
+    "value": "After throwing a `bewitchment:mandrake_root` in the Witches' Cauldron while Magic Power is provided, all items thrown in will add their potion effects when extracted via a `minecraft:glass_bottle`. Each fill of the Cauldron can create 3 bottles. An ingredient can also refund an itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.cauldron.description",
+    "value": "Converts up to 10 input ingredients into up to 3 output itemstacks in the Witches' Cauldron while Magic Power is provided.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.curse.description",
+    "value": "Allows applying curses to a player to cause unique effects in the Brazier with a `bewitchment:taglock` targeting the desired player.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.distillery.description",
+    "value": "Converts up to 6 input ingredients into up to 6 output itemstacks in the Distillery at the cost of 1 Magic Power per tick. Takes 10 seconds.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.fortune.description",
+    "value": "Modifies potential Fortunes, with a random one being selected from the list when interacting with a Crystal Ball. Some amount of time will pass before the Fortune occurs, whereupon a customizable effect will happen.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.frostfire.description",
+    "value": "Converts an input ingredient into an output itemstack once a second while inside a Frostfire block",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.incense.description",
+    "value": "Converts up to 8 input ingredients in the Brazier when activated by a Flint and Steel for any number of potion effects that apply whenever a player wakes up nearby.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.oven.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to have a chance to produce an optional itemstack, and if producing the optional itemstack will consume a `bewitchment:empty_jar`. Requires furnace fuel to run and takes 10 seconds per recipe.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.pet.description",
+    "value": "Sets what animals are valid for summoning via the `FortuneMeetPet` effect",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.ritual.description",
+    "value": "Converts up to 10 input ingredients into a ritual. The ritual can output up to 5 items, can require specific small, medium, and large circle sizes, can require a specific type for each circle, can require a specific entity nearby as a sacrifice, can set the time the ritual takes, and can set the Magic Power consumed to start and run the ritual.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.sigil.description",
+    "value": "Converts up to 25 itemstacks into a single output itemstack",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bewitchment.spinning_wheel.description",
+    "value": "Converts up to 4 itemstacks into up to 2 output itemstacks in the Spinning Wheel at the cost of 1 Magic Power per tick. Takes 10 seconds.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodarsenal.sanguine_infusion.description",
+    "value": "Converts an input infusion itemstack and up to 8 input surrounding itemstacks into an output itemstack, consuming Life Essence from the network to do so when the Infusion de Sanguine Ritual is activated. Alternatively, instead of consuming an infusion item, adds or upgrades a modifier to the given stasis tool, with the ability to increase the quantity of inputs consumed based on level.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.alchemy_array.description",
+    "value": "Converts two items into an output itemstack by using Arcane Ashes in-world. Has a configurable texture for the animation.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.alchemy_table.description",
+    "value": "Converts up to 6 input items into an output itemstack, with configurable time, minimum tier of Blood Orb required, and Life Essence drained from the Orb network.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.blood_altar.description",
+    "value": "Converts an input item into an output itemstack, draining life essence from the altar at a base rate and requiring at least a specific tier.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.meteor.description",
+    "value": "Throwing an input catalyst atop an activated Mark of the Falling Tower Ritual will spawn a meteor made of the given components, size, explosion strength, and Life Essence cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.sacrificial.description",
+    "value": "How much Life Essence is gained when using the Sacrificial Dagger on a mob.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.tartaric_forge.description",
+    "value": "Converts up to 4 input items into an output itemstack, requiring a Tartaric gem with a minimum amount of souls, and consuming some.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.bloodmagic.tranquility.description",
+    "value": "Blocks in the area around the Tranquility Altar provide tranquility up to the Altar's cap, with reduced effect the more of a particular type of Tranquility is provided.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.apothecary.description",
+    "value": "Converts item inputs into an item output consuming water and a seed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.brew.description",
+    "value": "Creates a custom brew, but not a recipe for the brew.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.brew.brewBuilder.description",
+    "value": "Create a builder to create custom brews",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.brew_recipe.description",
+    "value": "Converts a non-infused Managlass Vial, Alfglass Flask, Incense Stick, or Tainted Blood Pendant into one infused to hold the given brew at the cost of item inputs and mana.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.category.title",
+    "value": "Lexicon Category",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.category.description",
+    "value": "Category creates a new entry on the front page of the Lexica Botania.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.category.add0",
+    "value": "Adds a Category to the Lexica Botania in the format `name`, `icon`, `priority`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.category.add1",
+    "value": "Adds a Category to the Lexica Botania in the format `name`, `icon` and a priority of 5",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.category.removeCategory",
+    "value": "Removes a Category matching the given name",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.elven_trade.description",
+    "value": "Convert in any number of item inputs into an item output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.entry.description",
+    "value": "Entry creates a new entry in a given category.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.entry.entryBuilder.description",
+    "value": "Create a builder for custom entries in Lexica Botania Pages",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.entry.category.value",
+    "value": "Sets the Category the Entry is attached to",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.knowledge.description",
+    "value": "Creates a new type of knowledge that Lexica Botania entries may be gated with. Can only be created.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.magnet.description",
+    "value": "Add or remove items from the magnet blacklist",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.mana_infusion.description",
+    "value": "Toss an item into a mana pool with an optional catalyst blockstate below the pool.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.orechid.description",
+    "value": "Converts stone blocks into one of a few ore blocks at the cost of mana.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.orechid_ignem.description",
+    "value": "Converts netherrack blocks into one of a few ore blocks at the cost of mana.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.page.description",
+    "value": "Page creates a new page to be used in entries.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.pure_daisy.description",
+    "value": "Convert a given block to another blockstate after a period of time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania.rune_altar.description",
+    "value": "Converts a items inputs into an item output at the cost of mana when a Livingrock item is thrown atop the altar and right clicked with a Wand of the Forest.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania_tweaks.agglomeration_plate.description",
+    "value": "Converts any number of input itemstacks into an item output, consuming mana to do so. Occurs in-world above a Terrestrial Agglomeration Plate place on top of a small 3x3 multiblock, of which the center, sides, and corners may be set to require specific blockstates. While the recipe is running, particles will gradually change color until the recipe is finished. Upon finishing the recipe, the center, sides, and corners can each be converted into a replacement blockstate, if a replacement blockstate was set.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botania_tweaks.agglomeration_plate.recipeBuilder.baseStructure.description",
+    "value": "Makes the structure the default, with livingrock and lapis blocks",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.botanicadds.gaia_plate.description",
+    "value": "Converts an number of input items into an output itemstack, consuming a given amount of mana when dropped in-world atop a Gaia Agglomeration Plate as part of a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.algorithm_separator.description",
+    "value": "Converts an input itemstack into two output itemstacks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.atomic_calculator.description",
+    "value": "Converts three input itemstacks into one output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.analysing_chamber.description",
+    "value": "Takes a non-analysed Circuit and analyses it, converting it into usable Stable or Analysed Circuit. Will produce power and item outputs based on randomly generated NBT data.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.basic_calculator.description",
+    "value": "Converts two input itemstacks into one output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.conductor_mast.description",
+    "value": "Converts an input itemstack into an output itemstack, costing a configurable amount of power. This power can only be gained via the Conductor Mast's semi-regular generation of lightning strikes.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.extraction_chamber.description",
+    "value": "Converts an input itemstack into an output itemstack, and gives either a Dirty or Damaged Circuit.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.fabrication_chamber.description",
+    "value": "Converts Stable and Analysed Circuits into output itemstacks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.flawless_calculator.description",
+    "value": "Converts four input itemstacks into one output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.glowstone_extractor.description",
+    "value": "Converts an input itemstack into power, at the cost of a burnable fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.health_processor.description",
+    "value": "Converts an input itemstack into \"Health Points\", which charge a Health or Nutrition module and are converted into rapidly regenerating health.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.precision_chamber.description",
+    "value": "Converts an input itemstack into two output itemstacks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.processing_chamber.description",
+    "value": "Converts an input itemstack into an output itemstack, typically a Dirty or Damaged Circuit. By default, functions as a combined Restoration and Reassembly Chamber.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.reassembly_chamber.description",
+    "value": "Converts an input itemstack into an output itemstack, typically a Damaged Circuit.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.redstone_extractor.description",
+    "value": "Converts an input itemstack into power, at the cost of a burnable fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.restoration_chamber.description",
+    "value": "Converts an input itemstack into an output itemstack, typically a Dirty Circuit.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.scientific_calculator.description",
+    "value": "Converts two input itemstacks into one output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.starch_extractor.description",
+    "value": "Converts an input itemstack into power, at the cost of a burnable fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.calculator.stone_separator.description",
+    "value": "Converts an input itemstack into two output itemstacks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.chisel.carving.description",
+    "value": "Sets a group of items any item can be converted between freely, in world and in a GUI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.compactmachines3.miniaturization.description",
+    "value": "Consumes a 3d structure in-world based on keys when an item is thrown into the field.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.cyclicmagic.dehydrator.description",
+    "value": "Converts an input itemstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.cyclicmagic.hydrator.description",
+    "value": "Converts up to 4 input itemstacks and some amount of water into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.cyclicmagic.melter.description",
+    "value": "Converts up to 4 input itemstacks into an output itemstack, while being placed above lava.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.cyclicmagic.packager.description",
+    "value": "Converts up to 6 input itemstacks into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.cyclicmagic.solidifier.description",
+    "value": "Converts up to 4 input itemstacks and an input fluidstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.draconicevolution.energy_core.description",
+    "value": "A multiblock with 8 tiers for storing large amounts of energy.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.draconicevolution.fusion.description",
+    "value": "Consumes items and power from up to 54 pedestals of at least a given tier pointing towards a Fusion Crafting Core containing a catalyst to produce an output item.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.alloy_smelter.description",
+    "value": "Convert up to 3 itemstack inputs into an itemstack output, using energy and giving XP. Can be restricted to require a given tier of machine. Can be set to require at least SIMPLE, NORMAL, or ENHANCED tiers, or to IGNORE the tier. SIMPLE and IGNORE are effectively the same.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.enchanter.description",
+    "value": "Convert an input itemstack, player xp, and either a written book and lapis or a custom alternative into an enchanted book.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.fluid_coolant.description",
+    "value": "Create a Coolant with a given coolant rate that produces power with a Fuel while in a Combustion Generator.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.fluid_fuel.description",
+    "value": "Create a Fuel with a given power per tick and total burn time that produces power with a Coolant while in a Combustion Generator.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.sag_mill.description",
+    "value": "Convert an input itemstack into up to 4 output itemstacks with chances, using energy. Output can be boosted by Grinding Balls based on set bonusType. Can be set to require at least SIMPLE, NORMAL, or ENHANCED tiers, or to IGNORE the tier. SIMPLE and IGNORE are effectively the same.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.sag_mill_grinding.description",
+    "value": "Add a new Griding Ball for use in a Sag Mill with the given output multiplier, power multiplier, chance multiplier, and duration (in base power used).",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.slice_n_splice.description",
+    "value": "Convert up to 6 input itemstacks into an output itemstack, using energy and giving XP.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.soul_binder.description",
+    "value": "Converts an input itemstack into an output itemstack, requiring one of several entities in soul vials, using energy and giving XP. Must have a unique name. To function properly, the input entities must be allowed in Soul Vials.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.tank.description",
+    "value": "Converts an input itemstack into an output fluidstack with an optional output itemstack in drain mode, or converts an input itemstack and fluidstack into an output itemstack in fill mode.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.enderio.vat.description",
+    "value": "Converts an input fluidstack into an output itemstack at a rate based on up 2 itemstack inputs, and using power. Can be set to require at least NORMAL or ENHANCED tiers, or to IGNORE the tier. NORMAL and IGNORE are effectively the same.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.erebus.composter.description",
+    "value": "Converts valid items into compost. The Blacklist blocks all ItemStacks on it from being used, the Material list allows any Blocks using the valid Materials to be converted, and the Registry contains any valid ItemStacks. The conversion takes 10 seconds, and is fueled by erebus wall plants.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.erebus.offering_altar.description",
+    "value": "Converts up to 3 input itemstacks into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.erebus.smoothie.description",
+    "value": "Converts a container item, up to 4 input items, and up to 4 input fluidstacks into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.essentialcraft.demon_trade.description",
+    "value": "Adds an item that can be sold to Demons to obtain Ackronite. Note that each demon that spawns has a random item that it can accept, and will not accept any other item.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.essentialcraft.magician_table.description",
+    "value": "A 5-slot processing machine using MRU. Can be upgraded with various plates to increase its speed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.essentialcraft.magmatic_smeltery.description",
+    "value": "A machine used to quadruple ores using MRU and lava. Also adds the same recipes for Magmatic Furnace, which is used to double ores using MRU.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.essentialcraft.mithriline_furnace.description",
+    "value": "Converts various items into other items using ESPE.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.essentialcraft.radiating_chamber.description",
+    "value": "Combines two items together using MRU to obtain a third item. Can optionally require a specific range of MRU balance to execute the recipe.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.essentialcraft.wind_rune.description",
+    "value": "Transforms various items using ESPE.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.evilcraft.blood_infuser.description",
+    "value": "Consumes an item, some fluid, and requires a given tier of Promise of Tenacity to produce the output and some experience after a duration.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.evilcraft.environmental_accumulator.description",
+    "value": "Consumes an item to give an output, possibly changing the weather. Has a cooldown time or a blood cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.combination_crafting.description",
+    "value": "Converts one main item and any number of additional items into an output itemstack, with a configurable rf cost and consumption per tick amount.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.compression_crafting.description",
+    "value": "Converts any number of a single item into an output itemstack, with a configurable rf cost, consumption per tick amount, catalyst, and if the catalyst is consumed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.ender_crafting.description",
+    "value": "A normal crafting recipe, with the recipe being slowly crafted based on nearby Ender Alternators.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.ender_crafting.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Ender Crafting Table recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.ender_crafting.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Ender Crafting Table recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.table_crafting.description",
+    "value": "A normal crafting recipe, but requiring either a specific tier, or at least a given tier, from 3x3 to 9x9.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.table_crafting.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Extreme Crafting Table recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extendedcrafting.table_crafting.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Extreme Crafting Table recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrabotany.pedestal.description",
+    "value": "Converts an input item into an output itemstack when placed inside a Livingrock Pedestal and interacted with by an Extra Botany Hammer.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrautils2.crusher.description",
+    "value": "Converts an input itemstack into an output itemstack with a chance of an additional itemstack output, consuming energy.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrautils2.enchanter.description",
+    "value": "Converts two input itemstacks into an output itemstack, consuming energy and require nearby enchantment power providers.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrautils2.furnace.description",
+    "value": "Converts an input itemstack into an output itemstack, consuming energy.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrautils2.generator.description",
+    "value": "Converts up to two input itemstacks and an input fluidstack into energy over time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrautils2.grid_power_passive_generator.description",
+    "value": "Passively produces Grid Power into the Owner's GP network",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.extrautils2.resonator.description",
+    "value": "Converts and input itemstack into an output itemstack, consuming Grid Power from the Owner's GP network. Can also require an active Rainbow Generator.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.agitator.description",
+    "value": "Converts either one or two input fluidstacks and up to one input itemstack into an output itemstack, output fluidstack, or both.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.centrifuge.description",
+    "value": "Converts an input itemstack into up to 3 output itemstacks, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.compressor.description",
+    "value": "Converts an input itemstack and input fluidstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.crucible.description",
+    "value": "Converts an input itemstack into an output fluidstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.deep_drill.description",
+    "value": "Passively generates resources when placed at or below y 8 and",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.disassembler.description",
+    "value": "Kills an entity in-world, dropping the mob's normal loot in addition to custom loot.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.electroplater.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.grindstone.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.high_tech_furnace.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.magnet_centrifuge.description",
+    "value": "Converts an input itemstack into up to 3 output itemstacks, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.magnetizer.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.metal_cutter.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.ore_drill.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.reclaimer.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.refrigerator.description",
+    "value": "Converts an input fluidstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.river_grate.description",
+    "value": "Slowly produces the output entries while in a river biome surrounded by water, and between y 60 and 70.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.saw.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.factorytech.temperer.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to control if stone parts are allowed and how long the recipe takes.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.futuremc.blast_furnace.description",
+    "value": "Converts an input itemstack into an output itemstack at the cost of burnable fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.futuremc.campfire.description",
+    "value": "Converts an input itemstack into an output itemstack when placed on the Campfire.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.futuremc.composter.description",
+    "value": "Converts input items into a chance to get a layer of compost, with 8 layers providing a single bonemeal",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.futuremc.smithing.description",
+    "value": "Converts two input itemstacks into an output output itemstack in the Smithing Table.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.futuremc.smoker.description",
+    "value": "Converts an input itemstack into an output itemstack at the cost of burnable fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.futuremc.stonecutter.description",
+    "value": "Converts an input itemstack into an output itemstack via selecting the desired output from the Stonecutter GUI.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.horsepower.chopping_block.description",
+    "value": "Converts an itemstack input into an itemstack output, with the chance of an additional output after a configurable amount of processing has been done. Depending on if the config option `Separate Chopping Recipes` is true, this may affect both Horse and Hand Chopping Blocks. Only the Horse Chopping Block can produce secondary outputs.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.horsepower.grindstone.description",
+    "value": "Converts an itemstack input into an itemstack output, with the chance of an additional output after a configurable amount of processing has been done. Depending on if the config option `Separate Grindstone Recipes` is true, this may affect both Horse and Hand Grindstones.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.horsepower.manual_chopping_block.description",
+    "value": "Converts an itemstack input into an itemstack output after a configurable amount of processing has been done. Depending on if the config option `Separate Chopping Recipes` is true, this may affect both Horse and Hand Chopping Blocks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.horsepower.manual_grindstone.description",
+    "value": "Converts an itemstack input into an itemstack output, with the chance of an additional output after a configurable amount of processing has been done. Depending on if the config option `Separate Grindstone Recipes` is true, this may affect both Horse and Hand Grindstones.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.horsepower.press.description",
+    "value": "Converts an itemstack into another itemstack or a fluidstack by a horse running laps",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.iceandfire.fire_forge.description",
+    "value": "Converts two input itemstacks into an output itemstack in a multiblock Dragonforge Fire Multiblock while there is a stage 3+ Fire Dragon nearby.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.iceandfire.ice_forge.description",
+    "value": "Converts two input itemstacks into an output itemstack in a multiblock Dragonforge Ice Multiblock while there is a stage 3+ Ice Dragon nearby.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.iceandfire.lightning_forge.description",
+    "value": "Converts two input itemstacks into an output itemstack in a multiblock Dragonforge Lightning Multiblock while there is a stage 3+ Lightning Dragon nearby.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.alloy_kiln.description",
+    "value": "Converts two input itemstacks into an output itemstack, consuming fuel (based on burn time).",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.arc_furnace.description",
+    "value": "Converts 1 input itemstack with up to 4 additional inputs into an output itemstack and an optional 'slag' itemstack, taking time and using rf power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.blast_furnace.description",
+    "value": "Converts an input itemstack into an output itemstack and an optional 'slag' itemstack, taking time and consuming fuel (based on Blast Furnace Fuels).",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.blast_furnace_fuel.description",
+    "value": "Allows an item to be used in the Blast Furnace as a fuel for the given number of ticks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.blueprint_crafting.description",
+    "value": "Converts any number of input itemstacks into an output itemstack, using a blueprint with the category nbt tag as a catalyst.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.blueprint_crafting.category.value",
+    "value": "Sets the required blueprint. Default blueprint options are `components`, `molds`, `bullet`, `specialBullet`, and `electrode`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.bottling_machine.description",
+    "value": "Converts an input itemstack and fluidstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.coke_oven.description",
+    "value": "Converts an input itemstack into an output itemstack over time, producing a given amount of creosote oil.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.crusher.description",
+    "value": "Converts an input itemstack into an output itemstack with optional additional chanced item outputs, consuming energy.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.excavator.description",
+    "value": "Adds a Mineral Mix with the given name, weight, fail chance, ores, and allowed dimensions. A Mineral Mix can be mined by an Excavator Multiblock and scanned via a Core Sample Drill.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.fermenter.description",
+    "value": "Converts an input itemstack into an output fluidstack with an optional output itemstack, consuming power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.metal_press.description",
+    "value": "Converts an input itemstack into an output itemstack, with a mold catalyst, consuming power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.mixer.description",
+    "value": "Converts any number of input itemstacks and a fluidstack into an output fluidstack, consuming power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.refinery.description",
+    "value": "Converts 2 input fluidstacks into an output fluidstack, consuming power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersiveengineering.squeezer.description",
+    "value": "Converts an input itemstack into either an output itemstack, fluidstack, or both, using energy.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivepetroleum.distillation.description",
+    "value": "Converts an input fluidstack into any number of output fluidstacks and any number of output itemstacks, with each itemstack having the ability to have a custom chance, using energy and taking time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivepetroleum.reservoir.description",
+    "value": "Adds a Reservoir Type with the given name, weight, minimum size, maximum size, replenishment rate, allowed dimensions, and allowed biomes. A Reservoir Type can be extracted by an Pumpjack Multiblock and scanned via a Core Sample Drill.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.boiler.description",
+    "value": "Converts an input fluidstack into an output fluidstack after a given amount of time in a multiblock structure when the multiblock has had its heat value increased enough by fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.boiler_fuel.description",
+    "value": "Converts an input fluidstack into heat for the Boiler multiblock structure over a given amount of time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.cooling_tower.description",
+    "value": "Converts up to two input fluidstacks into up to three output fluidstacks after a given amount of time in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.distiller.description",
+    "value": "Converts an input fluidstack into an output fluidstack and has a chance to output an itemstack after a given amount of time in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.electrolytic_crucible_battery.description",
+    "value": "Converts an input fluidstack into up to three output fluidstacks after a given amount of time and energy in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.gas_turbine.description",
+    "value": "Converts an input fluidstack into an output fluidstack after a given amount of time in a multiblock structure, producing power for an adjacent Alternator multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.heat_exchanger.description",
+    "value": "Converts up to two input fluidstacks into up to two output fluidstacks after a given amount of time in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.high_pressure_steam_turbine.description",
+    "value": "Converts an input fluidstack into an output fluidstack after a given amount of time in a multiblock structure, producing power for an adjacent Alternator multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.melting_crucible.description",
+    "value": "Converts an input itemstack into an output fluidstack after a given amount of time and energy in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.radiator.description",
+    "value": "Converts an input fluidstack into an output fluidstack after a given amount of time in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.solar_tower.description",
+    "value": "Converts an input fluidstack into an output fluidstack after a given amount of time in a multiblock structure, with the time being able to be sped up via Solar Reflector multiblocks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.immersivetech.steam_turbine.description",
+    "value": "Converts an input fluidstack into an output fluidstack after a given amount of time in a multiblock structure, producing power for an adjacent Alternator multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.bio_reactor.description",
+    "value": "Converts an input item into Biofuel, with the amount of Biofuel generated being based on the number of concurrent conversion processes inside the Bioreactor.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.extractor.description",
+    "value": "Converts an input block in-world into a fluidstack over time, eventually breaking the block.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.fluid_dictionary.description",
+    "value": "Converts one fluid into another fluid at a given ratio.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.laser_drill.description",
+    "value": "Converts power into ores, with a given weight, between a minimum and maximum Y value, in any whitelisted biome or not in any blacklisted biome, and with a specific color of laser lens impacting the probability.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.ore_fermenter.description",
+    "value": "Converts an input fluidstack into an output fluidstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.ore_raw.description",
+    "value": "Converts an input itemstack and input fluidstack into an output fluidstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.ore_sieve.description",
+    "value": "Converts an input itemstack and input fluidstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.protein_reactor.description",
+    "value": "Converts an input item into Protein, with the amount of Protein generated being based on the number of concurrent conversion processes inside the Protein Reactor.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.sludge_refiner.description",
+    "value": "Converts 1000mb of Sludge into a random itemstack based on the weight of the given itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.industrialforegoing.straw.description",
+    "value": "Converts an fluid block in-world into various effects for the player when consumed via a straw.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.anvil_smashing.description",
+    "value": "Converts a Block or IBlockState into an IBlockState when an anvil falls on top of it (from any height).",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.description",
+    "value": "Converts up to 1 itemstack and up to 1 fluid into up to 1 itemstack or up to 1 fluid, with a boiling boolean and variable amount of fluid consumed or produced.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilder.description",
+    "value": "Create a Recipe Builder for any type of recipe",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderStandard.description",
+    "value": "Create a Recipe Builder for a standard recipe, with an input itemstack, input fluidstack, output itemstack, level of fluid consumed, and sound",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderTransform.description",
+    "value": "Create a Recipe Builder for a transform recipe, with an input itemstack, input fluidstack, output fluidstack, and level of fluid consumed",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderMix.description",
+    "value": "Create a Recipe Builder for a mix recipe, with an two input fluidstacks and an output itemstack",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderFill.description",
+    "value": "Create a Recipe Builder for a fill recipe, with an input itemstack, input fluidstack, output itemstack and sound",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderBrewing.description",
+    "value": "Create a Recipe Builder for a brewing recipe, with an input itemstack, input potion, and output potion",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderPotion.description",
+    "value": "Create a Recipe Builder for a potion recipe, with an input itemstack, input potion, output itemstack, and level of fluid consumed",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.inspirations.cauldron.recipeBuilderDye.description",
+    "value": "Create a Recipe Builder for a dye recipe, with an input itemstack, output itemstack, level of fluid, and dye color",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.integrateddynamics.drying_basin.description",
+    "value": "Takes either an item or fluid input and gives either an item or fluid output after a duration.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.integrateddynamics.mechanical_drying_basin.description",
+    "value": "Takes either an item or fluid input and gives either an item or fluid output after a duration.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.integrateddynamics.mechanical_squeezer.description",
+    "value": "Takes an item and can give up to 3 chanced item outputs and a fluid.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.integrateddynamics.squeezer.description",
+    "value": "Takes an item and can give up to 3 chanced item outputs and a fluid.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.catalyst.title",
+    "value": "Category Catalysts",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.catalyst.description",
+    "value": "Modify the items shown on the left of JEI Categories which indicate where the recipe takes place",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.catalyst.add",
+    "value": "Adds the given catalyst items to the given category",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.catalyst.remove",
+    "value": "Removes the given catalyst items from the given category",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.catalyst.removeByType",
+    "value": "Removes all catalyst items from the given category",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.title",
+    "value": "Categories",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.description",
+    "value": "Modify the Categories visible in JEI, each of which contain recipes and are associated with specific blocks, typically machines. Can also set the order of Categories.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.note0",
+    "value": "Hidden Categories will still take up load time, and recipes contained within can still be processed. This only prevents seeing Categories.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.note1",
+    "value": "Use the command `/gs jeiCategories` to log the UIDs of all JEI Categories to the `groovy.log` file!",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.annotation",
+    "value": "Note that `classes.GenericRecipeCategory` must be defined elsewhere, and this example presumes certain fields and methods exist.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.categoryBuilder.title",
+    "value": "Category Builder",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.categoryBuilder.description",
+    "value": "Create a builder for custom JEI categories",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.id.value",
+    "value": "Sets the ID of the Category, which must be unique among all other Categories",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.wrapper.value",
+    "value": "Sets the `IRecipeWrapper`s used by the Category to generate entries",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.catalyst.value",
+    "value": "Sets the catalyst ingredients of the Category, which must belong to a class that has ingredient handling in JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.category.value",
+    "value": "Sets the function used to generate the category. Must be a Function accepting a single input parameter `IGuiHelper` and creating the class, which itself must extend `IRecipeCategory`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.add",
+    "value": "Adds a new Category to JEI in the format `id`, `category`, `catalsyts`, `wrappers`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.hideCategory",
+    "value": "Hides the given category from JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.hideAll",
+    "value": "Hides all categories from JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.category.setOrder",
+    "value": "Sets the order of categories in JEI. Categories not included in the list will be placed at the end according to their normal order.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.description.title",
+    "value": "Description Category",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.description.description",
+    "value": "Modify the description of the input items, where the description is a unique JEI tab containing text.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.description.add",
+    "value": "Adds the given description to the given ingredients, translating the description lines as needed",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.description.remove",
+    "value": "Removes any description from the given ingredients",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.title",
+    "value": "Ingredient Sidebar",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.description",
+    "value": "Modify what ingredients show up in the search menu sidebar.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.note0",
+    "value": "Hidden ingredients will still take up load time, and recipes to create them can still be done. This only prevents seeing the ingredients in JEI.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.add",
+    "value": "Adds the given ingredient with its given NBT data to JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.hide",
+    "value": "Hides the ingredient from JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.hideByType",
+    "value": "Hides all ingredients of the given type",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.removeAndHide",
+    "value": "Removes the vanilla crafting recipe for the given ItemStack and hides the item from JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.yeet",
+    "value": "Alias for `removeAndHide`",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.jei.ingredient.hideAll",
+    "value": "Hides all ingredients of all types from the sidebar. Functionally disables JEI",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.threng.aggregator.description",
+    "value": "Converts up to 3 input itemstacks into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.threng.centrifuge.description",
+    "value": "Converts 1 input itemstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.threng.energizer.description",
+    "value": "Converts 1 input itemstack into an output itemstack, consuming a set amount of energy.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.threng.etcher.description",
+    "value": "Converts up to 3 input itemstacks from specific slots into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.lightningcraft.crusher.description",
+    "value": "Consumes LE to convert 1 input itemstack into an output itemstack",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.lightningcraft.infusion.description",
+    "value": "Consumes LE to convert up to 5 input itemstacks into an output itemstack",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.lightningcraft.transformation.description",
+    "value": "Converts any number of itemstacks on the ground into the output itemstack when the area is struck by lightning.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.crushing_table.description",
+    "value": "Converts an input itemstack into an output itemstack when placed on top of the Crushing Table and interacted with by a Hammer which has",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.gasification_unit.description",
+    "value": "Converts an input itemstack into either an output itemstack, an output fluidstack, or both in a Gasification Unit block.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.grinder.description",
+    "value": "Converts an input itemstack into an output itemstack with a chance at a second itemstack in a Grinder Multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.hydraulic_press.description",
+    "value": "Converts an input itemstack into an output itemstack when set to a given mode in a Hydraulic Press Multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.oil_heater.description",
+    "value": "Converts an input fluidstack into an output fluidstack in a Oil Heater Multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.refinery.description",
+    "value": "Converts an input fluidstack into up to three output fluidstacks in a Refinery Multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.sieve.description",
+    "value": "Converts an input itemstack into up to three output itemstacks, each with a separate chance in a Sieve Multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.sluice_box.description",
+    "value": "Converts an input itemstack into any number of output itemstacks each with a given chance. Consumes a bucket of water per batch, and can be crafted 10 at a time in a Sluice Box.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.magneticraft.thermopile.description",
+    "value": "The Thermopile generates energy from temperature differences modified by the thermal resistances of the block. This lets you generate energy when placed on either side of a Thermopile.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.chemical_infuser.description",
+    "value": "Combines two input gas stacks into a output gas stack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.chemical_oxidizer.description",
+    "value": "Converts an input itemstack into an output gasstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.combiner.description",
+    "value": "Combines an input itemstack with an extra itemstack to create an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.crusher.description",
+    "value": "Converts an input itemstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.crystallizer.description",
+    "value": "Converts an input gasstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.dissolution_chamber.description",
+    "value": "Converts an input itemstack into an output gasstack at the cost of 100mb of Sulfuric Acid.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.electrolytic_separator.description",
+    "value": "Converts an input fluid into two output gasstacks at the cost of power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.enrichment_chamber.description",
+    "value": "Converts an input itemstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.infusion.description",
+    "value": "Add new infusion types and itemstacks to those types.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.injection_chamber.description",
+    "value": "Converts an input itemstack and 200 of a gasstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.metallurgic_infuser.description",
+    "value": "Converts and input itemstack and a variable amount of an infusion type into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.osmium_compressor.description",
+    "value": "Converts an input itemstack and 200 of a gasstack into an output itemstack. By default, will use Liquid Osmium as the gasstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.pressurized_reaction_chamber.description",
+    "value": "Converts an input fluidstack, gasstack, and optional itemstack into an output gasstack and optional itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.purification_chamber.description",
+    "value": "Converts an input itemstack and gasstack into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.sawmill.description",
+    "value": "Converts an input itemstack into an output itemstack, with an optional additional output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.smelting.description",
+    "value": "Converts an input itemstack into an output itemstack in a recipe exclusive to the Smelter. Overrides the default furnace recipe, if applicable.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.solar_neutron_activator.description",
+    "value": "Converts an input gasstack into an output gasstack while exposed to the sun.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.thermal_evaporation_plant.description",
+    "value": "Converts an input fluidstack into an output fluidstack over time based on multiblock temperature.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mekanism.washer.description",
+    "value": "Converts an input gasstack into an output gasstack at the cost of 5mb of water.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.mysticalagriculture.reprocessor.description",
+    "value": "Converts an input itemstack into an output itemstack, taking a set amount of time based on the machine and consuming fuel.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.naturesaura.altar.description",
+    "value": "Converts an input itemstack into an itemstack in a multiblock structure, with an optional catalyst block, costing aura and taking a configurable duration.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.naturesaura.offering.description",
+    "value": "Converts up to 16 times the input itemstack into output itemstacks by consuming a catalyst item from the ground in a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.naturesaura.ritual.description",
+    "value": "Converts multiple input items into an output itemstack after a duration when a sapling grows in the middle of a multiblock structure.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.naturesaura.spawning.description",
+    "value": "Converts multiple input itemstacks into a summoned entity, costing aura and taking time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.primal_tech.clay_kiln.description",
+    "value": "Converts an input item into an output itemstack after a given amount of time. Requires the block below to be Minecraft Fire or a Primal Tech Flame Grilled Wopper. Takes some time to heat up before beginning to smelt items.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.primal_tech.stone_anvil.description",
+    "value": "Converts an input item into an output itemstack after being interacted with by a player using a Stone Mallet.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.primal_tech.water_saw.description",
+    "value": "Converts an input item into an output itemstack after a given amount of time. Requires the block below it to be a water source block, and the block below and behind it flowing water.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.primal_tech.wooden_basin.description",
+    "value": "Converts up to 4 items and 1000mb of fluid into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.atomic_reshaper.description",
+    "value": "Uses Hot Air and Primordium to convert items. Can have a weighted random based output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.explosion_furnace.description",
+    "value": "Uses an explosive, a dampener, and an optional reagent to convert items. The power value of all recipes, all explosives, and all dampeners should be close to avoid an efficiency loss.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.explosion_furnace_additives.description",
+    "value": "Turn an item into an explosive or into a dampener when inserted into the Explosion Furnace.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.heat_sawmill.description",
+    "value": "Wood processing machine with 1 input, 2 outputs and an optional chance for the 2nd output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.magnetic_reassembler.description",
+    "value": "A simple 1 to 1 processing machine for dusts.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.ore_refinery.description",
+    "value": "Ore processing machine with 1 input, 2 outputs and an optional chance for the 2nd output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.primordialis_reactor.description",
+    "value": "Turns organic matter into Primordium.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.rotary_grinder.description",
+    "value": "A simple 1 to 1 processing machine making dusts.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.solderer.description",
+    "value": "Performs recipes using Gold Dust, has a recipe catalyst, and uses up Circuit Boards and an optional extra input for each recipe.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.prodigytech.zorra_altar.description",
+    "value": "Allows over-enchanting Zorrasteel equipment.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.anvil.description",
+    "value": "Converts an item to a new item by hitting it with a hammer or pickaxe",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.barrel.description",
+    "value": "Over time converts a fluid with four items into a new fluid",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.bloomery.description",
+    "value": "Converts item to a new item or a 'bloom' which are items that needs to be hit with hammer on anvil to get the output with varying amounts",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.brick_crucible.description",
+    "value": "Converts item into a liquid",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.brick_kiln.description",
+    "value": "Converts an item into a new item or one of the failure outputs if the recipe fails",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.brick_oven.description",
+    "value": "Converts item into a new item",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.brick_sawmill.description",
+    "value": "Converts an item into a new item with an item with durability and drops wood chips on given amount of time",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.campfire.description",
+    "value": "Converts item into a new item on given amount of time",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.chopping_block.description",
+    "value": "When using a axe it can convert items",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.compacting_bin.description",
+    "value": "When using a shovel it can convert items",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.compost_bin.description",
+    "value": "Can convert multiple items into a new one when its full",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.crude_drying_rack.description",
+    "value": "Converts an item over time into a new one",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.drying_rack.description",
+    "value": "Converts an item over time into a new one",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.mechanical_compacting_bin.description",
+    "value": "Converts given amount of item into new item.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.pit_burn.description",
+    "value": "Converts a block in world to an item and fluid by burning",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.pit_kiln.description",
+    "value": "Converts an item into a new one by burning it. Has a chance to fail",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.stone_crucible.description",
+    "value": "Converts an item into a liquid",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.stone_kiln.description",
+    "value": "Converts an item into a new one by burning it. Has a chance to fail",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.stone_oven.description",
+    "value": "When powered by burning fuel can convert items",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.stone_sawmill.description",
+    "value": "Converts an item into a new item with an item with durability and drops wood chips on given amount of time",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.soaking_pot.description",
+    "value": "Converts an item and liquid into a new item. Can require a campfire below",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.tanning_rack.description",
+    "value": "Converts an item over time into a new one",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.wither_forge.description",
+    "value": "Converts item to a new item or a 'bloom' which are items that needs to be hit with hammer on anvil to get the output with varying amounts",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pyrotech.worktable.description",
+    "value": "Crafting table which asks you to hit it with a tool to craft stuff",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.amadron.description",
+    "value": "Uses an Amadron Tablet and linked inventories in world to trade via drones.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.assembly_controller.description",
+    "value": "Uses a given Program to convert an input itemstack into an output itemstack. Drill recipes that output an itemstack used for the input itemstack of a Laser recipe can be chained via the Drill & Laser Program.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.explosion.description",
+    "value": "Converts an input item into an output item, with a chance to fail and destroy the item.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.heat_frame_cooling.description",
+    "value": "Converts an input itemstack into an output itemstack when inside an inventory placed within a Heat Frame which is cooled.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.liquid_fuel.description",
+    "value": "Converts fluid into Pressure in a Liquid Compressor.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.plastic_mixer.description",
+    "value": "Converts a fluidstack and an item with a variable damage value into each other, requiring temperature to operate the process, optionally consuming dye, and allowing either only melting or only solidifying.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.pressure_chamber.description",
+    "value": "Converts any number of input itemstacks into any number of output itemstacks, either generating Pressure or consuming Pressure from the Pressure Chamber.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.refinery.description",
+    "value": "Converts an input fluidstack into between 2 and 4 fluidstacks, consuming Temperature, with the number of fluidstacks output depending on the recipe and the number of Refineries vertically stacked.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.thermopneumatic_processing_plant.description",
+    "value": "Converts an input fluidstack into an output fluidstack, consuming Pressure and Temperature, with an optional itemstack being consumed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.pneumaticcraft.xp_fluid.description",
+    "value": "Controls what fluids are considered XP Fluids and how much experience they provide.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.projecte.entity_randomizer.description",
+    "value": "Converts an entity on the list into a random other entity on the list when a projectile fired from the Philosopher's Stone hits it. There are two lists, one for 'mobs' and the other for 'peacefuls', but any entity can go on either list.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.projecte.transmutation.description",
+    "value": "Converts an input blockstate into an output blockstate when right-clicked with by a Philosopher's Stone, with the ability to be converted into a different output blockstate when holding shift.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.projecte.transmutation.altOutput.description",
+    "value": "output, altOutput",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.randomthings.anvil.description",
+    "value": "Converts two itemstacks into an itemstack in the Vanilla Anvil.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.randomthings.imbuing.description",
+    "value": "Converts four itemstacks into an itemstack in the Random Things Imbuing Station.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.animal_harvest.description",
+    "value": "Animal Harvest is a ritual that drops items from nearby mob's based on that mobs loottable without harming the mob. Only applies to allowed mobs.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.animal_harvest_fish.description",
+    "value": "Animal Harvest Fish is another effect of the Animal Harvest ritual that applies if there are water source blocks within the ritual range.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.bark_carving.description",
+    "value": "Bark Carving is a special set of alternate drops for blocks when broken with an item containing the tool type 'knife'. Amount dropped is up to 2 + fortune/looting level higher than the set amount.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.chrysopoeia.description",
+    "value": "Chrysopoeia is a spell that transmutes items held in the main hand.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.fey_crafter.description",
+    "value": "The Fey Crafter is a crafting mechanism that requires an activated Grove Stone nearby to take 5 item inputs and return an item output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.flower_generation.description",
+    "value": "When running the Flower Growth Ritual, allowed flowers will generate in the area if they can be placed on the given soil block. Additionally, using the spell Growth Infusion's Floral Reproduction modifier will duplicate the flower, regardless of the soil block.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.life_essence.description",
+    "value": "When shift right clicking a mob in the Life Essence Pool with Runic Shears, it will drop a Life-Essence, which allows that mob to be spawned via the Creature Summoning ritual.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.modifiers.description",
+    "value": "Controls what spell modifiers are enabled and can be used.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.mortar.description",
+    "value": "When right clicking a mortar containing the input items with a pestle, it will display a few colored sparkles, consume the inputs, and drop the item output.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.mortar.recipeBuilder.color_long.description",
+    "value": "red1, green1, blue1, red2, green2, blue2",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.mortar.recipeBuilder.color.description",
+    "value": "red, green, blue",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.moss.description",
+    "value": "Moss indicates a pair of items that can right click the input with a knife to turn it into the output and give a Terra Moss and right click the output with moss spores to turn it into the input.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.pacifist.description",
+    "value": "Pacifist is a list of entities which killing will give the player the advancement 'Untrue Pacifist'.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.predicates.description",
+    "value": "Predicates are used in Transmutation and RunicShearBlock. They either match all blockstates of a block, or all blockstates that have the given properties that match the input blockstate.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.predicates.stateBuilder.description",
+    "value": "Create a builder for custom State Predicates for other Roots methods",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.pyre.description",
+    "value": "Converts 5 input items into the output after a period of time when the Pyre is lit on fire.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.rituals.description",
+    "value": "Set the Pyre Ritual recipe and control all stats. Dump the modifiable stats into `roots.log` by running `/roots rituals`.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.runic_shear_block.description",
+    "value": "Right clicking a Runic Shear on a block to convert it into a replacement block and drop items.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.runic_shear_entity.description",
+    "value": "Right clicking a Runic Shear on an entity. The entity will have a cooldown, preventing spamming.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.spells.description",
+    "value": "Controls the recipe for the given spell, the sound, all properties, the base cost, and each modifier's cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.spells.costBuilder.description",
+    "value": "Create a builder to create the cost of spell modifiers",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.summon_creature.description",
+    "value": "When running a Summon Creature Ritual, the input items placed on Catalyst Plate will summon the target entity.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.roots.transmutation.description",
+    "value": "When running the Transmutation, convert nearby blocks that match a set of conditions into either a block or items.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.rustic.alchemy.description",
+    "value": "Converts some number of input itemstacks and a fluidstack into a single output stack after a time in a small multiblock structure, with a basic and advanced tier.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.rustic.brewing_barrel.description",
+    "value": "Converts a fluid into another fluid after a long period of time. If the fluid is an instanceof FluidBooze, has a variable Quality that can be refined through further cycles of conversion.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.rustic.crushing_tub.description",
+    "value": "Convert items into a fluidstacks and optionally itemstacks when any entity, typically a player, lands atop it.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.rustic.evaporating_basin.description",
+    "value": "Converts fluids into itemstacks over time.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.silentgems.chaos_altar.description",
+    "value": "Converts an input itemstack into an output itemstack with an optional catalyst, consuming a specified amount of Chaos from a Chaos Altar. Chaos is consumed at a maximum of 400 per tick, meaning the time taken corresponds to the Chaos cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.alloy_smelter.description",
+    "value": "Converts two itemstack inputs into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.assembling_machine.description",
+    "value": "Converts two itemstack inputs into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.blast_furnace.description",
+    "value": "Converts one or two itemstack inputs into one or two itemstack outputs after a given process time, requiring at least a given amount of heat and consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.centrifuge.description",
+    "value": "Converts one or two itemstack inputs into up to four an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.chemical_reactor.description",
+    "value": "Converts two itemstack inputs into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.compressor.description",
+    "value": "Converts an itemstack input into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.diesel_generator.description",
+    "value": "Converts a fluidstack input into power, at a given rate per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.distillation_tower.description",
+    "value": "Converts one or two itemstack inputs into up to four an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.extractor.description",
+    "value": "Converts an itemstack input into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.fluid_replicator.description",
+    "value": "Converts a configurable amount of UU-Matter into a output fluidstack of 1000mb after a given process time, replicating a fluid source block placed in-world and consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.fusion_reactor.description",
+    "value": "Converts two itemstack inputs into an itemstack output after a given process time, requiring a cost to start the recipe and either generating or consuming power while the recipe runs.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.gas_turbine.description",
+    "value": "Converts a fluidstack input into power, at a given rate per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.grinder.description",
+    "value": "Converts an itemstack input into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.implosion_compressor.description",
+    "value": "Converts two itemstack inputs into up to two itemstack outputs after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.industrial_electrolyzer.description",
+    "value": "Converts up to two itemstack inputs into up to four itemstack outputs after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.industrial_grinder.description",
+    "value": "Converts an itemstack input and fluidstack input into up to four itemstack outputs after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.industrial_sawmill.description",
+    "value": "Converts an itemstack input and fluidstack output into three itemstack outputs after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.plasma_generator.description",
+    "value": "Converts a fluidstack input into power, at a given rate per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.plate_bending_machine.description",
+    "value": "Converts an itemstack input into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.rolling_machine.description",
+    "value": "Converts a custom crafting recipe into an output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.rolling_machine.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Rolling Machine Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.rolling_machine.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Rolling Machine Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.scrapbox.description",
+    "value": "Converts a scrapbox into a random itemstack output, either via manual player interaction or via a machine with a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.semi_fluid_generator.description",
+    "value": "Converts a fluidstack input into power, at a given rate per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.solid_canning_machine.description",
+    "value": "Converts two itemstack inputs into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.thermal_generator.description",
+    "value": "Converts a fluidstack input into power, at a given rate per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.vacuum_freezer.description",
+    "value": "Converts an itemstack input into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.techreborn.wire_mill.description",
+    "value": "Converts an itemstack input into an itemstack output after a given process time, consuming energy per tick.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.smeltery_fuel.description",
+    "value": "Modifies what fluids are accepted as fuels for the Smeltery and how long each fuels the Smeltery.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.drying.description",
+    "value": "Convert an item into a different item by hanging it out to dry.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.casting_table.description",
+    "value": "Pours out fluid onto a table to solidify it into a solid, optionally with a cast itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.casting_basin.description",
+    "value": "Pours out fluid into a basin to solidify it into a solid, optionally with a cast itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.melting.description",
+    "value": "Modifies what items can be melted down in the Smeltery.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.entity_melting.description",
+    "value": "Allows mobs to create a bit of fluid when hurt by the Smeltery.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.tconstruct.alloying.description",
+    "value": "Modifies what fluids can be mixed together in the Smeltery.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.arcane_workbench.description",
+    "value": "A special crafting table, allowing additional requirements in the form of Vis Crystals, Vis, and having a specific research.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.arcane_workbench.shapedBuilder.description",
+    "value": "Create a Recipe Builder for Shaped Arcane Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.arcane_workbench.shapelessBuilder.description",
+    "value": "Create a Recipe Builder for Shapeless Arcane Crafting recipes",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.aspect.description",
+    "value": "Creates a custom Aspect.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.aspect.aspectBuilder.description",
+    "value": "Create a builder to create a custom aspect",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.aspect_helper.description",
+    "value": "Controls what Aspects are attached to entities or items.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.aspect_helper.aspectBuilder.description",
+    "value": "Create a helper to modify the provided entity or object with the given aspects. This is not a traditional builder.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.crucible.description",
+    "value": "Combines an item with any number of Aspects to drop an output itemstack, potentially requiring a specific research to be completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.dust_trigger.description",
+    "value": "Converts a block in-world into an item, when interacting with it with Salis Mundus, potentially requiring a specific research to be completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.dust_trigger.triggerBuilder.description",
+    "value": "Create a builder to make a Salis Mundus conversion recipe",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.infusion_crafting.description",
+    "value": "Combines any number of items and aspects together in the Infusion Altar, potentially requiring a specific research to be completed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.loot_bag.description",
+    "value": "Control what the different rarities of lootbag drop when opened.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.research.description",
+    "value": "Create or modify existing research entries, which contain helpful information and unlock recipes, and can be gated behind specific items or events.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.research.researchCategoryBuilder.description",
+    "value": "Create a builder to make a custom research category",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.smelting_bonus.description",
+    "value": "Additional item output when smelting a given item in the Infernal Furnace Multiblock.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thaumcraft.warp.description",
+    "value": "Determines if holding an item or equipping a piece of armor or a bauble gives warp, and how much warp it gives",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.theaurorian.moonlight_forge.description",
+    "value": "Combines two items to get a third item. Only works at night, and works faster the higher it is placed in the world.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.theaurorian.scrapper.description",
+    "value": "Turns an input item into an output item. Can be sped up by placing a Crystal on top of it. The crystal has a chance to break every time a recipe is executed.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.brewer.description",
+    "value": "Converts an input fluidstack and input itemstack into an output fluidstack, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.centrifuge.description",
+    "value": "Converts an input itemstack into an optional output fluidstack and up to four output itemstacks with chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.centrifuge_mobs.description",
+    "value": "Converts an input itemstack into an optional output fluidstack and up to four output itemstacks with chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.charger.description",
+    "value": "Converts an input itemstack into an output itemstack, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.compactor.description",
+    "value": "Converts an input itemstack into an output itemstack, with different modes each requiring a different augment to be installed, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.compression.description",
+    "value": "Converts an input fluidstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.coolant.description",
+    "value": "Consumes fluid to speed up the tick rate of adjacent machines and devices and generate power in the Compression Dynamo.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.crucible.description",
+    "value": "Converts an input itemstack into an output itemstack, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.diffuser.description",
+    "value": "Controls what items can be used in to boost the potion time and level in the Decorative Diffuser.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.enchanter.description",
+    "value": "Converts two input itemstacks and liquid experience into an output itemstack, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.enervation.description",
+    "value": "Converts an input itemstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.extruder.description",
+    "value": "Converts a variable amount of lava and water into a specific output itemstack.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.factorizer.description",
+    "value": "Converts an input itemstack into an output itemstack, with the ability to undo the the recipe. Mainly used for compressing ingots into blocks and splitting blocks into ingots.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.fisher.description",
+    "value": "Controls what itemstacks can be gained and how likely each is to be obtained.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.fisher_bait.description",
+    "value": "Controls what items can be used in the bait slot of the Aquatic Entangler and how effective they are.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.furnace.description",
+    "value": "Converts an input itemstack into an output itemstack, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.furnace_pyrolysis.description",
+    "value": "Converts an input itemstack into an output itemstack and creosote amount, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.insolator.description",
+    "value": "Converts two input itemstacks into an output itemstack and optional output itemstack with a chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.lapidary.description",
+    "value": "Converts an input itemstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.magmatic.description",
+    "value": "Converts an input fluidstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.numismatic.description",
+    "value": "Converts an input itemstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.precipitator.description",
+    "value": "Converts an amount of water into a specific output itemstack, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.pulverizer.description",
+    "value": "Converts an input itemstack into an output itemstack and optional output itemstack with a chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.reactant.description",
+    "value": "Converts an input itemstack and input fluidstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.refinery.description",
+    "value": "Converts an input fluidstack into an output fluidstack and optional output itemstack with chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.refinery_potion.description",
+    "value": "Converts an input fluidstack into an output fluidstack and optional output itemstack with chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.sawmill.description",
+    "value": "Converts an input itemstack into an output itemstack and optional output itemstack with a chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.smelter.description",
+    "value": "Converts two input itemstacks into an output itemstack and optional output itemstack with a chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.steam.description",
+    "value": "Converts an input itemstack into power, taking time based on the power.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.tapper.description",
+    "value": "Controls what items and blocks can be turned into what fluids. Output can be boosted via Fertilizer items.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.tapper_fertilizer.description",
+    "value": "Controls what items can be used in the fertilizer slot of the Arboreal Extractor Fertilizer and how effective they are.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.tapper_tree.description",
+    "value": "Controls what valid log blocks and leaf blocks are to define a tree structure which the Arboreal Extractor can function on. The \"tree\" must contain some number of leaves adjacent to the log blocks to be valid.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.transposer_extract.description",
+    "value": "Converts an input itemstack into an output fluidstack and optional output itemstack with chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.transposer_fill.description",
+    "value": "Converts an input itemstack and input fluidstack into an output itemstack with chance, costing power and taking time based on the power cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.thermalexpansion.xp_collector.description",
+    "value": "Collects experience orbs nearby, with the ability to increase the XP gained via catalyst itemstacks.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.drops.description",
+    "value": "Controls extra drops given by mobs. Chance and Size are both arrays 4 long, containing the values for levels 0/1/2/3 levels of Looting.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.mob_config.title",
+    "value": "Mob Config",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.mob_config.description",
+    "value": "Control the default values or mob-specific values for a large number of effects, a full list can be found at `ipsis.woot.configuration.EnumConfigKey`. A full list can be viewed on [Github](https://github.com/Ipsis/Woot/blob/55e88f5a15d66cc987e676d665d20f4afbe008b8/src/main/java/ipsis/woot/configuration/EnumConfigKey.java#L14)",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.mob_config.add_normal",
+    "value": "Adds configuration to the given entity",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.mob_config.add_global",
+    "value": "Adds configuration to the default map",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.mob_config.remove",
+    "value": "Removes configuration from the given entity for the given config",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.mob_config.removeByEntity",
+    "value": "Removes all configuration for the given entity",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.policy.description",
+    "value": "Controls what entities can be farmed for what items via an entity blacklist, mod blacklist, item output blacklist, item output mod blacklist, and a mob whitelist.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.spawning.description",
+    "value": "Controls item/fluid costs of a given mob or the default cost.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  },
+  {
+    "namespace": "groovyscript",
+    "key": "groovyscript.wiki.woot.stygian_iron_anvil.description",
+    "value": "Has a catalyst (which may or may not be consumed) placed on the anvil, with the input items thrown atop the base.",
+    "origins": [
+      "groovyscript-1.4.3.jar"
+    ]
+  }
+]

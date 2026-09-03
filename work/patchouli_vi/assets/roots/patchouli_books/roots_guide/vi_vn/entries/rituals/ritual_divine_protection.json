@@ -1,0 +1,75 @@
+{
+  "name": "Divine Protection",
+  "icon": "roots:ritual_divine_protection",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_divine_protection",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cầu xin sự che chở của một vị thần mặt trời cổ đại, đã bị lãng quên ngay từ thời các Druid, nghi lễ này thay đổi mạnh mẽ chu kỳ thời tiết và thời gian.$(br2)Nghi lễ xua tan mưa, kéo dài ban ngày và rút ngắn ban đêm.$(br2)Ngoài ra, các undead gần đó, vốn đối nghịch với mặt trời, sẽ bị thiêu đốt."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_divine_protection",
+      "text": "$(standing_stones) Là nghi lễ $(l:rituals/tiers)$(bold)bậc I$(), $(l:rituals/ritual_divine_protection#multiblock)cần một standing stone để bắt đầu$(). Vui lòng xem các trang sau của mục này."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          [
+            "   C   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "   R   ",
+            "       ",
+            "       ",
+            "   0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Cần một $(l:rituals/standing_stone)standing stone$() bằng runestone hoặc runed obsidian."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:divine_protection/SECONDS/duration) giây.$(br2)$(bold)Phạm vi:$() Vùng gây sát thương lên undead mở rộng $(ritual:divine_protection/radius_x) và $(ritual:divine_protection/radius_z) khối tính từ tâm, đồng thời mở rộng $(ritual:divine_protection/radius_y) khối theo chiều dọc.$(br2)$(bold)Mưa$(): Xua tan mưa: $(ritual:divine_protection/BOOL/rain).$(br2)$(bold)Thời gian$(): Điều chỉnh thời gian: $(ritual:divine_protection/BOOL/time). Ban đêm được rút ngắn $(ritual:divine_protection/NIGHT/night_reduction). Mỗi tick, ban ngày có $(ritual:divine_protection/PERCENT/day_extension) cơ hội được kéo dài.$(br2)"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Sát thương$(): Nghi lễ gây $(ritual:divine_protection/HEART/fire_damage) tim sát thương lửa lên các thực thể undead, hoặc $(ritual:divine_protection/HEART/consecration_damage) tim sát thương lửa nếu đã cài Consecration.$(br2)Ngoài ra, các sinh vật undead chịu sát thương cũng bị thiêu đốt trong $(ritual:divine_protection/fire_duration) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

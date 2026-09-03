@@ -1,0 +1,51 @@
+{
+  "name": "Thịt, món ăn và thực phẩm",
+  "icon": "twilightforest:experiment_115:2",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/foods/any",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thức ăn tuyệt diệu"
+    },
+    {
+      "type": "spotlight",
+      "title": "Hydra Chop",
+      "item": "twilightforest:hydra_chop",
+      "advancement": "twilightforest:alt/treasures/foods/hydra_chop",
+      "text": "Một phần Hydra Chop cũng đủ thành bữa ăn no nê. Loại thịt bổ dưỡng này giúp giảm đáng kể cơn đói và tạm thời tăng tốc hồi phục. Rất xứng đáng với người đã chinh phục một mãnh thú hùng mạnh như vậy."
+    },
+    {
+      "type": "spotlight",
+      "title": "Maze Wafer",
+      "item": "twilightforest:maze_wafer",
+      "advancement": "twilightforest:alt/treasures/foods/maze_wafer",
+      "text": "Món ăn nhẹ nhỏ gọn được tìm thấy trong các mê cung. Tuy chỉ tăng độ bão hòa đôi chút, nó rất thích hợp để khám phá những địa danh hiểm hóc khi thức ăn trở nên khan hiếm."
+    },
+    {
+      "type": "text",
+      "title": "Meef",
+      "item": "twilightforest:cooked_meef",
+      "advancement": "twilightforest:alt/treasures/foods/meef",
+      "text": "Thịt bò từ Minotaur. Ăn sống thì không được bao nhiêu, nhưng khi nấu chín, nó trở thành thực phẩm giá trị, sánh ngang với Cooked Chicken."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/vension",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "spotlight",
+      "title": "Meef Stroganoff",
+      "item": "twilightforest:meef_stroganoff",
+      "advancement": "twilightforest:progress_labyrinth",
+      "text": "Bổ dưỡng và no lâu. Ăn Meef Stroganoff không chỉ tiếp thêm sức mạnh cho nhà thám hiểm mà còn giúp họ tiến vào Fire Swamp an toàn mà không bị ảnh hưởng bởi sức nóng. Sau bao công sức, Minoshroom cũng thật tử tế nhỉ?"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/experiment_115",
+      "text": "đủ thứ linh tinh"
+    }
+  ]
+}

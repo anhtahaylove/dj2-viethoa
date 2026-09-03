@@ -1,0 +1,18 @@
+{
+  "modifier": "fins",
+  "text": [
+    {
+      "text": "Hãy lấy một con cá... rồi buộc nó vào mũi tên. Tất nhiên rồi! Nó giúp mũi tên lướt dưới nước! Giờ tôi có thể bắn mọi thứ dưới nước!"
+    }
+  ],
+  "effects": [
+    "Projectiles ignore water",
+    "Logical",
+    "Makes sense"
+  ],
+  "demoTool": [
+    "tconstruct:arrow",
+    "tconstruct:bolt",
+    "tconstruct:shuriken"
+  ]
+}

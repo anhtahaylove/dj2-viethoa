@@ -1,0 +1,13 @@
+{
+  "name": "Glass Eye",
+  "icon": "roots:glass_eye",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "roots:glass_eye",
+      "text": "Glass Eye có thể thay thế mắt hữu cơ trong các công thức và cũng là vật phẩm tiêu hao.$(br2)$(info) Nhấp chuột phải để dùng, giúp nhận hiệu ứng Night Vision; nếu đã có hiệu ứng này, Glass Eye sẽ không bị tiêu hao."
+    }
+  ]
+}

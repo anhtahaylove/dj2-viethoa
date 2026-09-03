@@ -1,0 +1,27 @@
+{
+  "name": "Hedgewitch Robes",
+  "category": "spinning_wheel",
+  "icon": "bewitchment:green_witch_hat",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Được tạo ra bằng cách cẩn thận khâu len xanh và cây sống lên áo choàng truyền thống bằng Pure Filament, bộ áo được truyền sức sống, cường hóa người mặc khi ở giữa thiên nhiên, giúp họ thấu hiểu các linh hồn tự nhiên hơn và ban kiến thức về thực vật, chẳng hạn như thu hoạch được nhiều nông sản hơn."
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:green_witch_hat"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:green_witch_hood"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:green_witch_robes"
+    },
+    {
+      "type": "bewitchment:spinning_wheel_recipe",
+      "recipe": "bewitchment:green_witch_pants"
+    }
+  ]
+}

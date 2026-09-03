@@ -1,0 +1,19 @@
+{
+  "name": "Silk Thread",
+  "icon": "mysticalworld:silk_thread",
+  "category": "items",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:silk_thread",
+      "link_recipe": true,
+      "text": "Có thể thu được Silk Thread bằng cách xử lý $(l:items/silk_cocoons)Silkworm Cocoons$(), nhưng số lượng sẽ thay đổi tùy theo phương pháp."
+    },
+    {
+      "type": "crafting",
+      "recipe": "mysticalworld:spindle",
+      "recipe2": "mysticalworld:silk_thread_spindle",
+      "text": "Kết hợp Silkworm Cocoon với Spindle sẽ cho kết quả tốt nhất, nhưng sẽ tiêu hao một phần độ bền của Spindle."
+    }
+  ]
+}

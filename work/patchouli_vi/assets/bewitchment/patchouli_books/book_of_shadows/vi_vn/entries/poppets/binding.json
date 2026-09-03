@@ -1,0 +1,12 @@
+{
+  "name": "Poppet of Binding",
+  "category": "poppets",
+  "icon": "bewitchment:poppet_binding",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:poppet_binding",
+      "text": "Làm chậm những kẻ tấn công bạn"
+    }
+  ]
+}

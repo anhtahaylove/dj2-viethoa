@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "plustic-8.0.3.jar",
+      "path": "assets/plustic/lang/en_US.lang"
+    }
+  ]
+}

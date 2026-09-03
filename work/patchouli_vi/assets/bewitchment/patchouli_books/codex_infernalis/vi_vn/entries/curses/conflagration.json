@@ -1,0 +1,12 @@
+{
+  "name": "Conflagration",
+  "category": "curses",
+  "icon": "bewitchment:bottled_hellfire",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:conflagration",
+      "text": "Lửa địa ngục liếm lấy mục tiêu, làm suy yếu khả năng kháng nhiệt và lửa của họ. Mỗi ngọn lửa đều là một giàn thiêu ngấu nghiến."
+    }
+  ]
+}

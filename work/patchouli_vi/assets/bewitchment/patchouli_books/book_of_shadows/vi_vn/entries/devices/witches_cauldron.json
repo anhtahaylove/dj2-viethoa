@@ -1,0 +1,368 @@
+{
+  "name": "Witches' Cauldron",
+  "category": "devices",
+  "icon": "bewitchment:witches_cauldron",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Chủ yếu dùng để tạo các loại brew cao cấp mà Brewing Stand thông thường không thể sánh được. Một số vật phẩm khác có thể được đun và kết hợp trong Witches' Cauldron để tạo ra vật phẩm mới. Witches' Cauldron cần năng lượng ma thuật và phải có lửa bên dưới mới hoạt động. Có thể ném Wood Ash vào bất cứ lúc nào để làm sạch Witches' Cauldron. Ngoài ra, một số món ăn cũng có thể được chế biến trong đó."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:witches_cauldron"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:filled_goblet",
+      "text": "Khi chứa đầy hỗn hợp ma thuật này, Goblet sẽ cung cấp thêm sức mạnh cho Altar, đồng thời phát ra tín hiệu redstone."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:embergrass",
+      "text": "Một loài cây được tạo ra bằng thuật giả kim. Nó phát ra những tàn lửa thiêu cháy bất cứ ai chạm vào. Loài cây này còn lan rộng, rất hữu ích để bảo vệ căn cứ."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:torchwood",
+      "text": "Một loài cây được tạo ra bằng thuật giả kim. Bầu ở đầu thân gỗ của nó phát sáng. Giống cây tự nhiên, Torchwood cũng lan rộng."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:tallow",
+      "text": "Mỡ đun từ xác chết. Dùng để làm nến và nhiều thứ khác."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:slimeball",
+      "text": "Dính nhớp."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:iron_gall_ink",
+      "text": "Một lựa chọn thay thế Ink Sacs mà không gây hại sinh vật. Có người cho rằng nó rất cần thiết để tạo ra các giao ước với quỷ…"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:catechu_brown",
+      "text": "Một lựa chọn thay thế cocoa beans có nguồn gốc từ gỗ để tạo brown dye."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:banner_pattern_removal",
+      "text": "Một công dụng bình thường hơn của vạc là tẩy thuốc nhuộm khỏi biểu ngữ."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:flower_siphoning_poppy",
+      "text": "Dù trông như một bông hoa vô hại, Siphoning Flower được tạo ra bằng thuật giả kim lại phủ đầy ngạnh và gai nhỏ, đồng thời sẽ lấy một mẫu máu từ bất cứ ai chạm vào nó."
+    },
+    {
+      "type": "text",
+      "text": "Có thể thu mẫu này bằng cách dùng boline lên bông hoa khi cầm Empty Taglock ở tay phụ. Công thức này áp dụng cho mọi loại hoa vanilla."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:blue_ink_cap",
+      "text": "Một loài nấm được tạo ra bằng thuật giả kim. Phần gleba dạng thạch của nó tạo ra sắc tố xanh lam đậm, nên có thể dùng thay cho blue dye."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:frostflower",
+      "text": "Dù có vẻ là một nghịch lý sống, chất lỏng của bông hoa được tạo ra bằng thuật giả kim này sẽ đóng băng khi tiếp xúc với không khí và có thể chế tạo thành snowball."
+    },
+    {
+      "type": "text",
+      "title": "Dịch chuyển tức thời",
+      "text": "Một vạc có Dimensional Sand bên trong cho phép người đứng trong đó dịch chuyển đến các vạc khác đã được đặt tên bằng Name Tag, bằng cách nói tên vạc trong khung chat."
+    },
+    {
+      "type": "text",
+      "title": "Tiêu hủy",
+      "text": "Vạc chứa Lava sẽ phá hủy mọi vật phẩm bị ném vào, đồng thời thiêu đốt mọi sinh vật sống đứng trong đó."
+    },
+    {
+      "type": "text",
+      "title": "Brews",
+      "text": "Để biến hỗn hợp trong vạc thành một brew, phải ném Mandrake Root vào trước mọi nguyên liệu khác. Sau đó, hãy ném vào những nguyên liệu bạn muốn; tuy nhiên, càng thêm nhiều thì brew càng tốn nhiều ME."
+    },
+    {
+      "type": "text",
+      "text": "Thêm redstone sẽ kéo dài thời gian tác dụng của brew đến một giới hạn nhất định. Glowstone cũng tăng hiệu lực theo cách tương tự, còn Raven's Feather sẽ ngăn các hạt hiệu ứng xuất hiện. Có thể ném thêm Gunpowder để tạo splash brew; nếu ném cả Owlet's Wing vào, nó sẽ trở thành lingering brew."
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:instant_health",
+      "text": "Hồi máu cho mục tiêu nếu còn sống, hoặc gây sát thương nếu là undead"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:instant_damage",
+      "text": "Gây sát thương cho mục tiêu nếu còn sống, hoặc hồi máu nếu là undead"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:regeneration",
+      "text": "Ban hiệu ứng hồi phục nếu mục tiêu còn sống, nếu không thì không có tác dụng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:poison",
+      "text": "Đầu độc mục tiêu nếu còn sống, nếu không thì không có tác dụng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:wither",
+      "text": "Tương tự chất độc nhưng có thể giết chết mục tiêu, đồng thời cũng gây sát thương cho undead"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:night_vision",
+      "text": "Cho phép mục tiêu nhìn rõ trong khu vực thiếu sáng. Eye of Old còn ban hiệu ứng này cùng với Water Breathing"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:blindness",
+      "text": "Che khuất tầm nhìn và khiến mục tiêu không thể chạy nước rút"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:strength",
+      "text": "Tăng cường sức mạnh đôi tay, giúp mục tiêu gây nhiều sát thương cận chiến hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:weakness",
+      "text": "Làm suy yếu đôi tay, khiến mục tiêu gây ít sát thương cận chiến hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:resistance",
+      "text": "Làm da mục tiêu cứng cáp hơn, giúp giảm sát thương từ các nguồn không phải phép thuật"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:fire_resistance",
+      "text": "Giúp mục tiêu miễn nhiễm với lửa và dung nham"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:absorption",
+      "text": "Tạm thời tăng lượng máu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:jump_boost",
+      "text": "Tăng cường sức mạnh đôi chân, giúp mục tiêu nhảy cao hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:speed",
+      "text": "Tăng cường sức mạnh đôi chân, giúp mục tiêu di chuyển nhanh hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:slowness",
+      "text": "Làm suy yếu đôi chân, khiến mục tiêu di chuyển chậm hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:haste",
+      "text": "Tăng cường sức mạnh đôi tay, giúp mục tiêu đào và tấn công nhanh hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:mining_fatigue",
+      "text": "Làm suy yếu đôi tay, khiến mục tiêu đào và tấn công chậm hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:luck",
+      "text": "Tăng cơ hội nhận được chiến lợi phẩm giá trị cho mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:unluck",
+      "text": "Giảm khả năng mục tiêu nhận được chiến lợi phẩm tốt"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:water_breathing",
+      "text": "Khiến mục tiêu tạm thời mọc mang, cho phép họ thở khi chìm trong chất lỏng. Eye of Old cũng ban hiệu ứng này cùng với Night Vision"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:invisibility",
+      "text": "Khiến mọi ánh sáng xuyên qua mục tiêu, làm họ trở nên vô hình. Tuy nhiên, hiệu ứng không áp dụng cho giáp và vật phẩm họ đang cầm"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:hunger",
+      "text": "Khiến mục tiêu quá bận tâm về bữa ăn tiếp theo"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:nausea",
+      "text": "Làm mục tiêu mất phương hướng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:glowing",
+      "text": "Khiến mục tiêu phát sáng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:levitation",
+      "text": "Từ từ nâng mục tiêu lên không trung"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:absence",
+      "text": "Thanh tẩy mọi hiệu ứng thuốc khỏi mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:purification",
+      "text": "Thanh tẩy các hiệu ứng thuốc bất lợi khỏi mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:corruption",
+      "text": "Thanh tẩy các hiệu ứng thuốc có lợi khỏi mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:magic_resistance",
+      "text": "Giúp mục tiêu chịu ít sát thương hơn từ các nguồn ma thuật"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:magic_weakness",
+      "text": "Khiến mục tiêu chịu nhiều sát thương hơn từ các nguồn ma thuật"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:hellworld",
+      "text": "Biến khu vực xung quanh thành cảnh quan giống Nether, đồng thời thiêu cháy một phần địa hình và mọi thực thể không may bị chất lỏng bắn trúng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:iceworld",
+      "text": "Biến khu vực xung quanh thành xứ sở mùa đông và dập tắt lửa trên mặt đất lẫn thực thể. Perpetual Ice, một loại băng không tan, có thể xuất hiện và có thể dùng để chế tạo Embittered Bricks tương tự Stone Bricks"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:rubedo",
+      "text": "Biến cát và các khối có màu thành biến thể màu đỏ tương ứng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:citrinitas",
+      "text": "Biến cát đỏ và các khối có màu thành biến thể màu vàng tương ứng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:desertification",
+      "text": "Biến nhiều loại thực vật thành biến thể sa mạc tương ứng"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:fertility",
+      "text": "Khiến cây cối phát triển và động vật sinh sản"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:harvest",
+      "text": "Lập tức thu hoạch rồi gieo lại hạt giống, đồng thời có thể khiến lá rụng táo và bí ngô phát triển"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:spore_cloud",
+      "text": "Khiến nấm, mycelium, dương xỉ và rêu phát triển. Hy vọng bạn không bị dị ứng…"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:blight",
+      "text": "Giết chết cây cối và cây trồng, đồng thời làm suy yếu sinh vật sống"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:ruin",
+      "text": "Khiến nhiều loại khối mục nát hoặc phân rã"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:pesticide",
+      "text": "Gây sát thương cho động vật chân đốt"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:arachnophobia",
+      "text": "Trói mục tiêu trong mạng nhện và triệu hồi những con nhện đói tấn công mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:mending",
+      "text": "Biến dirt và mycelium thành grass, đồng thời chữa trị zombie villagers"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:holy_water",
+      "text": "Chỉ đứng sau Holy Hand Grenade! Gây sát thương cho các sinh vật tà ác như undead hoặc demons"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:wolfsbane",
+      "text": "Gây sát thương cho wolves và các loài thuộc họ chó khác"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:deviants_decomposure",
+      "text": "Gây sát thương cho những kẻ bị xã hội ruồng bỏ như illagers hoặc witches. Không có tác dụng lên witch hunters"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:sleeping",
+      "text": "Làm mục tiêu mù và chậm lại, đồng thời có thể giết chúng nếu lượng máu đủ thấp"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:volatility",
+      "text": "BÙM! Phát nổ khi nhận sát thương. Không ảnh hưởng đến các block"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:grace",
+      "text": "Giúp mục tiêu chịu ít sát thương khi rơi hơn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:shell_armor",
+      "text": "Gây sát thương cho những kẻ tấn công mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:deflection",
+      "text": "Keng! Làm chệch hướng arrows và các projectile khác khỏi mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:revealing",
+      "text": "Xóa hiệu ứng tàng hình khỏi các thực thể trúng đòn"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:disrobing",
+      "text": "Tháo armour và baubles của mục tiêu"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:sinking",
+      "text": "Khiến việc nhảy trở nên khó khăn hơn, thậm chí không thể nhảy nếu hiệu lực đủ mạnh"
+    },
+    {
+      "type": "bewitchment:brew",
+      "recipe": "bewitchment:cursed_leaps",
+      "text": "Hất mục tiêu lên không trung, khiến chúng không thể hành động rồi chịu sát thương khi rơi"
+    }
+  ]
+}

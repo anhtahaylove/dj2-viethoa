@@ -1,0 +1,22 @@
+{
+  "error.modularmagic.requirement.aspect.less": "Không đủ aspect",
+  "error.modularmagic.requirement.aspect.out": "Không thể xuất aspect",
+  "error.modularmagic.requirement.constellation.less": "Không có Constellation",
+  "error.modularmagic.requirement.constellation.missingprovider": "Không tìm thấy Constellation Detector Hatch",
+  "error.modularmagic.requirement.constellation.unknown": "Constellation không xác định",
+  "error.modularmagic.requirement.grid.less": "Không đủ năng lượng lưới",
+  "error.modularmagic.requirement.grid.missingprovider": "Không tìm thấy Grid Power Hatch",
+  "error.modularmagic.requirement.invalid": "Loại IO không hợp lệ",
+  "error.modularmagic.requirement.lifeessence": "Lỗi khi kiểm tra yêu cầu Life Essence",
+  "error.modularmagic.requirement.lifeessence.lp": "Không đủ LP",
+  "error.modularmagic.requirement.lifeessence.orb": "Thiếu hoặc chưa liên kết Blood Orb",
+  "error.modularmagic.requirement.starlight.less": "Không đủ Starlight",
+  "error.modularmagic.requirement.starlight.missingprovider": "Không tìm thấy Starlight Hatch",
+  "error.modularmagic.requirement.will": "Lỗi khi kiểm tra yêu cầu Demonic Will",
+  "error.modularmagic.requirement.will.less": "Không đủ will",
+  "info.modularmagic.grid.produced": "Sản xuất %f GP",
+  "info.modularmagic.grid.required": "Cần %f GP",
+  "info.modularmagic.lifeessence": "Life Essence",
+  "info.modularmagic.lp": "LP",
+  "ïnfo.modularmagic.lppertick": "LP mỗi Tick"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Công cụ Terrastone",
+  "parent": "crafting_armor_tools",
+  "sortnum": 2,
+  "description": "Phần này nói về các công cụ làm từ đá cứng chắc kết hợp với Terra Moss.$(br2)$(info) Mọi công cụ Terrastone đều có thể được sửa bằng Mossy Cobblestone trong Anvil hoặc $(l:crafting/imbuer)Imbuer$().",
+  "icon": "roots:terrastone_shovel"
+}

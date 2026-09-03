@@ -1,0 +1,22 @@
+{
+  "thaumcraftfix.alreadyinuse": "Đã có người đang sử dụng cái này.",
+  "thaumcraftfix.text.config.aura": "Aura",
+  "thaumcraftfix.text.config.biomeList": "Biome",
+  "thaumcraftfix.text.config.biomeListIsAllowList": "Danh Sách Biome Là Danh Sách Cho Phép",
+  "thaumcraftfix.text.config.client": "Máy khách",
+  "thaumcraftfix.text.config.controlAura": "Bật",
+  "thaumcraftfix.text.config.controlCrystals": "Bật",
+  "thaumcraftfix.text.config.controlVegetation": "Bật",
+  "thaumcraftfix.text.config.crystals": "Tinh Thể",
+  "thaumcraftfix.text.config.dimList": "Chiều không gian",
+  "thaumcraftfix.text.config.dimListIsAllowList": "Danh Sách Chiều Không Gian Là Danh Sách Cho Phép",
+  "thaumcraftfix.text.config.item": "Item",
+  "thaumcraftfix.text.config.optimizedFluxRiftRenderer": "Tối Ưu Bộ Vẽ Flux Rift",
+  "thaumcraftfix.text.config.primordialPearlDamageFix": "Sửa Giá Trị Sát Thương Primordial Pearl",
+  "thaumcraftfix.text.config.vegetation": "Thực Vật",
+  "thaumcraftfix.text.config.world": "World",
+  "thaumcraftfix.text.loader.compatibleModVersions": "Phiên bản %s tương thích là: %s",
+  "thaumcraftfix.text.loader.loaderError": "Lỗi Nghiêm Trọng Khi Tải Mod Thaumcraft Fix",
+  "thaumcraftfix.text.loader.missingMixin": "Cần cài đặt một phiên bản tương thích của MixinBooter hoặc FermiumBooter (hoặc cả hai).",
+  "thaumcraftfix.text.renderer.failedRiftRendererRequirements": "[TC Fix] Bộ Vẽ Flux Rift Tối Ưu không tương thích với hệ thống này vì card đồ hoạ thiếu hỗ trợ OpenGL 3.3."
+}

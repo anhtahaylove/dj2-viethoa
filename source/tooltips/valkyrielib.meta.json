@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+      "path": "assets/valkyrielib/lang/en_us.lang"
+    }
+  ]
+}

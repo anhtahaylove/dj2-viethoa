@@ -1,0 +1,23 @@
+{
+  "name": "Frog",
+  "icon": "minecraft:slime_ball",
+  "category": "creatures",
+  "flag": "roots:frog",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "frog",
+      "breed": "Nhân giống: bằng Brown Mushroom.",
+      "tame": "Thuần hóa: Không thuần hóa được.",
+      "blurb": ""
+    },
+    {
+      "type": "entity",
+      "name": "Frog",
+      "entity": "mysticalworld:entity_frog",
+      "scale": 1.5,
+      "offset": -0.3,
+      "text": "Khi nhảy nhót, những chú Frog này thỉnh thoảng để lại một vũng slime!"
+    }
+  ]
+}

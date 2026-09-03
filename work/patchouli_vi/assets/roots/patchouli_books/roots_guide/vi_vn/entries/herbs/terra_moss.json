@@ -1,0 +1,83 @@
+{
+  "name": "Terra Moss",
+  "icon": "roots:terra_moss",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:terra_moss",
+  "priority": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:terra_spores",
+      "text": "Thường bị bỏ qua, terra moss mọc ở nhiều nơi trên thế giới và có thể được cạo từ nhiều bề mặt phủ rêu bằng cách nhấp chuột phải với $(l:crafting/knives)knife$().$(br2)Tương tự, bạn sẽ tìm thấy terra spores khi phá tall grass. Trong điều kiện thích hợp, chúng sẽ tạo ra bề mặt phủ rêu để bạn cạo."
+    },
+    {
+      "type": "moss_template",
+      "name": "Bề mặt phủ rêu",
+      "text": "Có thể cạo rêu từ nhiều loại block, khiến chúng trở lại trạng thái nguyên bản và cho bạn terra moss.$(br2)$(warning) Muốn tự tạo bề mặt như vậy cần đáp ứng các điều kiện cụ thể."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "conditions",
+      "multiblock": {
+        "mapping": {
+          "0": "minecraft:cobblestone",
+          "M": "minecraft:water"
+        },
+        "pattern": [
+          [
+            " M ",
+            "M0M",
+            " M "
+          ]
+        ]
+      },
+      "text": "Cobblestone hoặc bất kỳ bề mặt phù hợp nào đặt cạnh nước đều có điều kiện hoàn hảo để rêu phát triển."
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "minecraft:mossy_cobblestone",
+          "M": "minecraft:water"
+        },
+        "pattern": [
+          [
+            " M ",
+            "M0M",
+            " M "
+          ]
+        ]
+      },
+      "text": "$(info) Chỉ cần nhấp chuột phải vào một block cạnh nước bằng terra spores để biến nó thành phiên bản phủ rêu tương ứng."
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:terra_moss",
+      "link_recipe": true,
+      "text": "Sau khi các bào tử đã thấm vào và rêu lan phủ toàn bộ block (quá trình diễn ra rất nhanh), bạn có thể thu hoạch.$(br2)$(info) Chỉ cần nhấp chuột phải vào bề mặt phủ rêu bằng knife để lấy rêu và đưa block về trạng thái ban đầu."
+    },
+    {
+      "type": "text",
+      "anchor": "renew",
+      "title": "Khả năng tái tạo",
+      "text": "Việc liên tục thu thập, sử dụng bào tử rồi cạo rêu có vẻ tẻ nhạt, nhưng hệ thống này vừa có thể tái tạo vừa $(l:herbs/terra_moss#auto)tự động hóa được$().$(br2)Nghi lễ $(l:rituals/ritual_overgrowth)Overgrowth$() loại bỏ hoàn toàn nhu cầu dùng terra spores, dùng phép thuật khiến rêu mọc trên $(l:herbs/terra_moss#conditions)các block đáp ứng điều kiện$() nằm cạnh nước."
+    },
+    {
+      "type": "text",
+      "anchor": "auto",
+      "title": "Tự động hóa",
+      "text": "$(l:automation/ritual_overgrowth)Nghi lễ này có thể dễ dàng được tự động hóa$() bằng các phương pháp vanilla."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/knives",
+        "rituals/ritual_overgrowth",
+        "automation/ritual_overgrowth"
+      ]
+    }
+  ]
+}

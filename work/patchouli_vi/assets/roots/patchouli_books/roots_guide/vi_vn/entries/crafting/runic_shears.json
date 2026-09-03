@@ -1,0 +1,29 @@
+{
+  "name": "Runic Shears",
+  "icon": "roots:runic_shears",
+  "category": "crafting_armor_tools",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một công cụ đa năng với nhiều công dụng. Nó có thể xén lông nhiều Sheep cùng lúc và thu hoạch Moss trong phạm vi rộng.$(br2)Chủ yếu dùng để lấy vật phẩm hiếm từ một số block cụ thể và vật phẩm rơi ra từ các phiên bản Fey của những sinh vật trong thế giới chúng ta.$(br2)$(info) Có thể sửa nó bằng $(l:resources/runestone)Runestone$(). Bạn có thể xem danh sách công dụng đầy đủ trong $(uses:roots:runic_shears)JEI$()."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runic_shears",
+      "link_recipe": true
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/fey_leather",
+        "resources/life_essence",
+        "resources/mystic_feather",
+        "resources/strange_ooze",
+        "resources/runestone",
+        "herbs/pereskia"
+      ]
+    }
+  ]
+}

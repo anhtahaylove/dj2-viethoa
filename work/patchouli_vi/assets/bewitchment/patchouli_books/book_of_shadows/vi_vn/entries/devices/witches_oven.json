@@ -1,0 +1,90 @@
+{
+  "name": "Witches' Oven",
+  "category": "devices",
+  "icon": "bewitchment:witches_oven",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có lẽ là cỗ máy đầu tiên mà một phù thủy tập sự sở hữu, Witches' Oven có thể đốt một số nguyên liệu để tạo ra các loại hơi đặc biệt cùng nhiều sản phẩm phụ. Nếu đặt Clay Jars vào Witches' Oven, chúng sẽ thu lấy hơi được tạo ra. Chỉ cần hũ khi sản phẩm đầu ra là hơi. Ngoài ra, máy còn có thể dùng để chế biến nhiều loại thức ăn chín."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:witches_oven"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:oak_spirit",
+      "text": "Một trong những chiết xuất thiết yếu nhất, được làm từ bất kỳ loại Oak Sapling nào"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:oak_spirit_alt"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:spruce_heart",
+      "text": "Tinh chất từ cây Spruce, rất cần thiết cho Spinning Wheel"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:birch_soul",
+      "text": "Một loại hơi nhẹ và thoáng, chiết xuất từ cây Birch non"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:cloudy_oil",
+      "text": "Một loại dầu thông dụng thu được khi nấu thịt và thảo mộc, thường dùng làm dầu nền cho các loại hơi cao cấp hơn"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:cloudy_oil_alt0"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:acacia_resin",
+      "text": "Một loại hơi khá khó tìm, sở hữu khả năng chữa lành mạnh mẽ"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ebb_of_death",
+      "text": "Một loại dầu hôi thối nồng nặc mùi chết chóc và mục rữa, chiết xuất từ cây Cypress"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:droplet_of_wisdom",
+      "text": "Chiết xuất từ cây Elder, được cho là có thể truyền kiến thức cho người sử dụng"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:liquid_witchcraft",
+      "text": "Chiết xuất từ Mandrake, luôn ngân rung với năng lượng ma thuật"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:essence_of_vitality",
+      "text": "Một loại cặn mang sức sống, thu được khi đốt Yew Sapling"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ectoplasm",
+      "text": "Bạn sẽ gọi ai đây?"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:ectoplasm_alt"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand",
+      "text": "Một vật liệu xanh lục lam, cộng hưởng năng lượng aether và có mối liên kết mạnh mẽ với Ender."
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand_alt0"
+    },
+    {
+      "type": "bewitchment:oven_recipe",
+      "recipe": "bewitchment:dimensional_sand_alt1"
+    }
+  ]
+}

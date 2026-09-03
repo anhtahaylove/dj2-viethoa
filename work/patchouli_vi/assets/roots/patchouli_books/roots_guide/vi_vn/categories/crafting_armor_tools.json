@@ -1,0 +1,7 @@
+{
+  "name": "Giáp & Công cụ",
+  "parent": "crafting",
+  "sortnum": 1,
+  "description": "Danh mục này trình bày các công cụ, giáp và vũ khí có thể chế tạo.$(br2)$(br2)$(bold)Danh mục con:$()",
+  "icon": "roots:wooden_shears"
+}

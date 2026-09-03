@@ -1,0 +1,15 @@
+# Safe player-facing tooltip/prose candidates.
+invtweaks.button.chest2.tooltip=Sort in columns
+invtweaks.button.chest3.tooltip=Sort in rows
+invtweaks.settings.disableci.tooltip=In conflict with Convenient Inventory
+invtweaks.settings.middleclick.tooltip=Allows to sort using
+invtweaks.settings.chestbuttons.tooltip=Adds three buttons
+invtweaks.settings.shortcuts.tooltip=Enables various shortcuts
+invtweaks.settings.autorefill.tooltip=Replaces broken tools & emptied stacks
+invtweaks.settings.beforebreak.tooltip=Replaces tools just before they break
+invtweaks.settings.moreoptions.tooltip=Even more cool stuff
+invtweaks.settings.advanced.sortonpickup.tooltip=Avoids to fill the hotbar with
+invtweaks.settings.advanced.sortonpickup.tooltip.soloonly=Only in single player mode
+invtweaks.settings.advanced.autoequip.tooltip=Equips the best available
+invtweaks.settings.advanced.sounds.tooltip=Play sounds when sorting
+invtweaks.settings.advanced.serverassist.tooltip=Enable using server assistance for item movement while sorting.

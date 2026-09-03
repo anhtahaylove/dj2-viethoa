@@ -1,0 +1,30 @@
+{
+  "name": "Infernal Bulb",
+  "icon": "roots:infernal_bulb",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:infernal_bulb",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Được bao quanh bởi những tua cây âm ỉ mang màu lửa, củ này được cho là có thể phát triển thành một loài cây còn mạnh mẽ hơn.$(br2)Tuy nhiên, chưa ai từng quan sát hoặc ghi nhận được mẫu vật như vậy.$(br2)Từng xuất hiện giữa các núi lửa và vùng đất địa ngục, giờ đây nó có thể được chế tạo bằng sức nóng của một $(l:crafting/pyres)pyre$() và $(l:herbs/infernal_bulb#renew)có thể tái tạo$()."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "infernal_bulb"
+    },
+    {
+      "type": "text",
+      "title": "Khả năng tái tạo",
+      "anchor": "renew",
+      "text": "Chỉ có thể trồng trên một trong năm biến thể $(l:resources/elemental_soil)elemental soil$(), bản thân củ sẽ phát triển thành một bông hoa lộng lẫy khi trưởng thành và tạo ra thêm nhiều củ.$(br2)$(info) Không cần khớp nguyên tố của thảo mộc với nguyên tố của đất; nó có thể mọc trên bất kỳ biến thể nào."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

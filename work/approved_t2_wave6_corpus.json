@@ -1,0 +1,1754 @@
+{
+ "rows": [
+  {
+   "namespace": "baubles",
+   "key": "baubles.command.slots.grow.usage",
+   "en": "  /baubles slots grow <player> <type> <amount>"
+  },
+  {
+   "namespace": "baubles",
+   "key": "baubles.command.slots.reset.usage",
+   "en": "  /baubles slots reset"
+  },
+  {
+   "namespace": "baubles",
+   "key": "baubles.command.slots.set.usage",
+   "en": "  /baubles slots set <player> <type> <amount>"
+  },
+  {
+   "namespace": "baubles",
+   "key": "baubles.command.slots.shrink.usage",
+   "en": "  /baubles slots shrink <player> <type> <amount>"
+  },
+  {
+   "namespace": "baubles",
+   "key": "keybind.baublesinventory",
+   "en": "Baubles Inventory"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.friendList",
+   "en": "Friend List"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.transferInDisabled",
+   "en": "Auto-Input Disabled"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.transferInEnabled",
+   "en": "Auto-Input Enabled"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.transferInUnavailable",
+   "en": "Auto-Input Unavailable"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.transferOutDisabled",
+   "en": "Auto-Output Disabled"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.transferOutEnabled",
+   "en": "Auto-Output Enabled"
+  },
+  {
+   "namespace": "cofh",
+   "key": "gui.cofh.transferOutUnavailable",
+   "en": "Auto-Output Unavailable"
+  },
+  {
+   "namespace": "cofh",
+   "key": "key.cofh.augments",
+   "en": "Open Player Augment GUI"
+  },
+  {
+   "namespace": "cofh",
+   "key": "key.cofh.category",
+   "en": "CoFH Keys"
+  },
+  {
+   "namespace": "cofh",
+   "key": "key.cofh.multimode",
+   "en": "Cycle Item Mode"
+  },
+  {
+   "namespace": "danknull",
+   "key": "key.categories.danknull",
+   "en": "/dank/null"
+  },
+  {
+   "namespace": "enderio",
+   "key": "key.category.camera",
+   "en": "Camera Controls"
+  },
+  {
+   "namespace": "enderio",
+   "key": "key.category.darksteelarmor",
+   "en": "Dark Steel Armor "
+  },
+  {
+   "namespace": "enderio",
+   "key": "key.category.tools",
+   "en": "Tools"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.boss_bar",
+   "en": "Enhanced Boss Bars"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.boss_proof_blocks",
+   "en": "Boss Proof Blocks"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.custom_credits",
+   "en": "Custom Credits"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.forced_resourcepack",
+   "en": "Forced Resourcepacks"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.improved_keybinds",
+   "en": "Improved Keybinds"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.instant_bone_meal",
+   "en": "Instant Bone Meal"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.material_tweaker",
+   "en": "Material Tweaker"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.mob_health_bar",
+   "en": "Mob Health Bar"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.player_effects",
+   "en": "Player Effects"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.features.sync_time",
+   "en": "Sync Time"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.client",
+   "en": "Client"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.default_gamerule",
+   "en": "Default Game Rules"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.dragon",
+   "en": "Dragon"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.end_gateway",
+   "en": "End Gateway"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.end_island",
+   "en": "End Island"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.end_portal",
+   "en": "End Portal"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.golem",
+   "en": "Golems"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.inventory_crafting",
+   "en": "Inventory Crafting"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.nether_portal",
+   "en": "Nether Portal"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.obsidian_spike",
+   "en": "Obsidian Spike"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.minecraft.world",
+   "en": "World"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.crash_info",
+   "en": "Crash Info"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.custom_assets",
+   "en": "Custom Assets"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.customization",
+   "en": "Window Customization"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.default_server",
+   "en": "Default Server"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.modpack",
+   "en": "Modpack"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons",
+   "en": "Menu Buttons"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons.changelog",
+   "en": "Changelog Button"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons.discord",
+   "en": "Discord Button"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons.donation",
+   "en": "Donation Button"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons.github",
+   "en": "GitHub Button"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons.twitch",
+   "en": "Twitch Button"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.options_menu_buttons.youtube",
+   "en": "YouTube Button"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.pack_updater",
+   "en": "Pack Updater"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.server_message",
+   "en": "Server Message"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.modpack.startup_timer",
+   "en": "Startup Timer"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.arcane_world",
+   "en": "Arcane World"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.astral_sorcery",
+   "en": "Astral Sorcery"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.beneath",
+   "en": "The Beneath"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.better_end",
+   "en": "Better End"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.better_with_everything",
+   "en": "Better With Everything"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.bp_opener",
+   "en": "Backpack Opener"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.cases",
+   "en": "Cases"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.crissaegrim",
+   "en": "Crissaegrim"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.dark_utils",
+   "en": "Dark Utilities"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.default_world_generator",
+   "en": "Default World Generator"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.delivery",
+   "en": "Delivery"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.ds_huds",
+   "en": "Dynamic Surroundings HUDs"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.elenai_dodge",
+   "en": "Elenai Dodge 2"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.ender_storage",
+   "en": "Ender Storage"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.fancy_menu",
+   "en": "Fancy Menu"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.first_aid",
+   "en": "First Aid"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.flux_networks",
+   "en": "Flux Networks"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.game_stages",
+   "en": "Game Stages"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.item_physics",
+   "en": "Item Physics"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.lightweight_blood_mechanics",
+   "en": "Lightweight Blood Mechanics"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.matter_overdrive",
+   "en": "Matter Overdrive"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.morph",
+   "en": "Morph"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.multi_builder_tool",
+   "en": "Multi Builder Tool"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.perfect_spawn",
+   "en": "Perfect Spawn"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.pickle_tweaks",
+   "en": "Pickle Tweaks"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.potion_core",
+   "en": "Potion Core"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.pyrotech",
+   "en": "Pyrotech"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.quark",
+   "en": "Quark"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.reskillable",
+   "en": "Reskillable"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.rustic",
+   "en": "Rustic"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.scalinghealth",
+   "en": "Scaling Health"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.simple_difficulty",
+   "en": "Simple Difficulty"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.simple_storage_network",
+   "en": "Simple Storage Network"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.taoism",
+   "en": "Taoism"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.tool_progression",
+   "en": "Tool Progression"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.waila",
+   "en": "Waila / Hwyla"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "cfg.endermodpacktweaks.tweaks.weeping_angels",
+   "en": "Weeping Angels"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "endermodpacktweaks/features",
+   "en": "Features"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "endermodpacktweaks/minecraft",
+   "en": "Minecraft"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "endermodpacktweaks/modpack",
+   "en": "Modpack"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "endermodpacktweaks/tweaks",
+   "en": "Tweaks"
+  },
+  {
+   "namespace": "endermodpacktweaks",
+   "key": "keybind.endermodpacktweaks.toggle",
+   "en": "Toggle Mob Health Display"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.announcemod",
+   "en": "Announce Mod"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.automappoll",
+   "en": "AutoMap Poll Frequency"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.browserpoll",
+   "en": "Browser Poll"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.cache_animals",
+   "en": "Cache Animals"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.cache_mobs",
+   "en": "Cache Mobs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.cache_player",
+   "en": "Cache Player"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.cache_players",
+   "en": "Cache Players"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.cache_villagers",
+   "en": "Cache Villagers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.loglevel",
+   "en": "Logging Level"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.port",
+   "en": "Web Server Port"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.advanced.recordcachestats",
+   "en": "Record Cache Statistics"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.alwaysmapcaves",
+   "en": "Always Map Caves"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.alwaysmapsurface",
+   "en": "Always Map Surface"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.discord",
+   "en": "JourneyMap Discord"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.download",
+   "en": "Downloads and Changelogs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.font_scale",
+   "en": "Font Scale"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.grid_edit",
+   "en": "Edit Grid..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.hotkeys",
+   "en": "Hot Keys..."
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_format",
+   "en": "Location"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.location_format_verbose",
+   "en": "Verbose Location"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_antialiasing",
+   "en": "Use Antialiasing"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_bathymetry",
+   "en": "Show Bathymetry"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_blendfoliage",
+   "en": "Blend Foliage"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_blendgrass",
+   "en": "Blend Grass"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_blendwater",
+   "en": "Blend Water"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_caveignoreglass",
+   "en": "Ignore Glass Ceilings"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_cavelighting",
+   "en": "Use Cave Lighting"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_crops",
+   "en": "Show Crops"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_plants",
+   "en": "Show Plants"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_plantshadows",
+   "en": "Show Plant Shadows"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_topography",
+   "en": "Map Topography"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.map_style_transparency",
+   "en": "Use Transparency"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.mob_icon_set",
+   "en": "Mob Icons"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.patreon",
+   "en": "Support JourneyMap"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_hide_sneaking",
+   "en": "Hide Sneaking Entities"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_lateral_distance",
+   "en": "Radar Range Lateral"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_max_animals",
+   "en": "Maximum Animals"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_max_mobs",
+   "en": "Maximum Mobs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_max_players",
+   "en": "Maximum Players"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_max_villagers",
+   "en": "Maximum Villagers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.radar_vertical_distance",
+   "en": "Radar Range Vertical"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.renderdelay",
+   "en": "Render Delay"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.renderdistance_cave_max",
+   "en": "Cave Max Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.renderdistance_cave_min",
+   "en": "Cave Min Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.renderdistance_surface_max",
+   "en": "Surface Max Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.renderdistance_surface_min",
+   "en": "Surface Min Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.revealshape",
+   "en": "Reveal Shape"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_animals",
+   "en": "Show Animals"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_caves",
+   "en": "Show Caves"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_day_night",
+   "en": "Show Day/Night"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_entity_names",
+   "en": "Show Entity Names"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_grid",
+   "en": "Show Grid"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_keys",
+   "en": "Show Keys"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_mobs",
+   "en": "Show Mobs"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_pets",
+   "en": "Show Pets"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_players",
+   "en": "Show Players"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_self",
+   "en": "Show Self"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_villagers",
+   "en": "Show Villagers"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.show_waypoints",
+   "en": "Show Waypoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.system_time_format",
+   "en": "System Time Format"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.tile_display_quality",
+   "en": "High Display Quality"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.ui_theme",
+   "en": "UI Theme"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.compass_font_scale",
+   "en": "Compass Font Scale"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.enable_minimap",
+   "en": "Enable MiniMap"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.frame_alpha",
+   "en": "Frame Opacity"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.mob_display",
+   "en": "Mob Display"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.mob_heading",
+   "en": "Show Mob Headings"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.player_display",
+   "en": "Player Display"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.player_heading",
+   "en": "Show Player Headings"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.position",
+   "en": "Position"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.preview",
+   "en": "Preview"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.reticle_orientation",
+   "en": "Reticle Heading"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.shape",
+   "en": "Shape"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.show_biome",
+   "en": "Show Biome"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.show_compass",
+   "en": "Show Compass"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.show_fps",
+   "en": "Show FPS"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.show_location",
+   "en": "Show Location"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.show_reticle",
+   "en": "Show Reticle"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.show_waypointlabels",
+   "en": "Show Waypoint Labels"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.size",
+   "en": "Size"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.terrain_alpha",
+   "en": "Map Opacity"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.texture_size",
+   "en": "Small Icons"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.chkbox.enable",
+   "en": "Enable"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.chkbox.teleport",
+   "en": "Waypoint Teleporting"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.chkbox.world.id",
+   "en": "World ID"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.radar.chkbox.animal",
+   "en": "Animal Radar"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.radar.chkbox.mob",
+   "en": "Monster/Hostile Radar"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.radar.chkbox.player",
+   "en": "Player Radar"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.server.edit.radar.chkbox.villager",
+   "en": "Villager Radar"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.auto_hide_label",
+   "en": "Auto-Hide Label"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.bold_label",
+   "en": "Bold Label"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.chat",
+   "en": "Chat"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.create_deathpoints",
+   "en": "Create Deathpoints"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.death_date_format",
+   "en": "Death Date Format"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.death_time_format",
+   "en": "Death Time Format"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.enable_beacons",
+   "en": "Enable Waypoint Beacons"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.enable_manager",
+   "en": "Enable Waypoint Manager"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.font_scale",
+   "en": "Font Scale"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.max_distance",
+   "en": "Maximum Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.min_distance",
+   "en": "Minimum Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.show_distance",
+   "en": "Show Distance"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.show_name",
+   "en": "Show Name"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.show_rotating_beam",
+   "en": "Rotating Beam"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.show_static_beam",
+   "en": "Stationary Beam"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.show_texture",
+   "en": "Show Icon"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.waypoint.texture_size",
+   "en": "Small Icon"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.enable",
+   "en": "Enable Web Map"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "control.disabled",
+   "en": "Disabled"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "control.high",
+   "en": "High"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "control.low",
+   "en": "Low"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "control.pulse",
+   "en": "Pulse"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.chemicalDissolutionChamber.short",
+   "en": "C. Dissolution Chamber"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.chemicalInfuser.short",
+   "en": "C. Infuser"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.id",
+   "en": "ID"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.inductionMatrix",
+   "en": "Induction Matrix"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.itemstack",
+   "en": "ItemStack"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.modID",
+   "en": "Mod ID"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.modIDFilter",
+   "en": "Mod ID Filter"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.oredict",
+   "en": "OreDict"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.oredictFilter",
+   "en": "OreDict Filter"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.oredictionificatorFilter",
+   "en": "Oredictionificator Filter"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.seismicReader.short",
+   "en": "S. Reader"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "gui.thermalEvaporationController.short",
+   "en": "Thermal E. Controller"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "reactor.capacity",
+   "en": "Heat Capacity Met"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "reactor.depleted",
+   "en": "Insufficient Fuel"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "reactor.disabled",
+   "en": "Disabled"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "reactor.ready",
+   "en": "Ready for Ignition"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "upgrade.anchor",
+   "en": "Anchor"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "upgrade.energy",
+   "en": "Energy"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "upgrade.gas",
+   "en": "Gas"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "upgrade.muffling",
+   "en": "Muffling"
+  },
+  {
+   "namespace": "mekanism",
+   "key": "upgrade.speed",
+   "en": "Speed"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.keybind.category",
+   "en": "OpenBlocks"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.keybind.drop_brick",
+   "en": "Be silly"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.keybind.vario_switch",
+   "en": "Vario on/off"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.keybind.vario_vol_down",
+   "en": "Vario volume down"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.keybind.vario_vol_up",
+   "en": "Vario volume up"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.nei.worldtransmute",
+   "en": "World Transmutation"
+  },
+  {
+   "namespace": "quark",
+   "key": "generator.quark_realistic",
+   "en": "Realistic"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.gui.emotes",
+   "en": "Emotes"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.gui.favorited",
+   "en": "Favorited"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.gui.keygroupEmote",
+   "en": "Quark Emotes"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.gui.keygroupInv",
+   "en": "Quark Inventory"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.gui.keygroupMisc",
+   "en": "Quark Misc"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.changeHotbar",
+   "en": "Change Hotbar"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.chestDropoff",
+   "en": "Deposit"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.chestExtract",
+   "en": "Extract"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.chestMerge",
+   "en": "Merge"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.chestRestock",
+   "en": "Restock"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.chestSort",
+   "en": "Sort Container"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.dropoff",
+   "en": "Dropoff"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.lockBuilding",
+   "en": "Lock Orientation"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.playerSort",
+   "en": "Sort Player"
+  },
+  {
+   "namespace": "quark",
+   "key": "quark.keybind.toggleAutojump",
+   "en": "Toggle Autojump"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.blockpattern.ingredients",
+   "en": "Ingredients"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.expression.biome",
+   "en": "Biome Expression"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.expression.block",
+   "en": "Block Expression"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.expression.dependency",
+   "en": "Dependency Expression"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.expression.dimension",
+   "en": "Dimension Expression"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.expression.environment",
+   "en": "Environment Expression"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.expression.positioned_block",
+   "en": "Positioned Block Expression"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.inventorygen.dependencies",
+   "en": "Dependencies"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.maze.conditional_connectors",
+   "en": "Variants"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.maze.connector",
+   "en": "Connector"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.mazerule.connect",
+   "en": "Connect"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.mazerule.connect.start",
+   "en": "Start"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.mazerule.connectall",
+   "en": "Connect All"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer",
+   "en": "Placer"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.baseline",
+   "en": "Baseline"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factor.priority",
+   "en": "Priority"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit",
+   "en": "Limit"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.ray.weight",
+   "en": "Acceptance"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.average",
+   "en": "Surface Finder"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.dynmove",
+   "en": "Dynamic Move"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.dynmove.type.structure_height",
+   "en": "Structure Height"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.dynpos",
+   "en": "Dynamic Position"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.dynpos.type.bedrock",
+   "en": "Bedrock"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.dynpos.type.sealevel",
+   "en": "Sea level"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.dynpos.type.world_height",
+   "en": "Top (World Height)"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.matcher",
+   "en": "Finder"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.matcher.ratio",
+   "en": "Required Ratio"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.move",
+   "en": "Move"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.match",
+   "en": "Match"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.match.conformity",
+   "en": "Required Conformity"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.preset",
+   "en": "Preset"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.preset.id",
+   "en": "ID"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.preset.title",
+   "en": "Title"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.reachability.crossconnections",
+   "en": "Cross-Connections"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.reachability.groups",
+   "en": "Groups"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.reachability.groups.default.behavior",
+   "en": "Default Behavior"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.selection.area.range.x",
+   "en": "Range (x)"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.selection.area.range.y",
+   "en": "Range (y)"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.selection.area.range.z",
+   "en": "Range (z)"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.blocking",
+   "en": "Blocking"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.dependencies",
+   "en": "Dependencies"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.generation",
+   "en": "Generation"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.generation.id",
+   "en": "Generation ID"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.id",
+   "en": "Structure ID"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.metadata",
+   "en": "Metadata"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.orientation",
+   "en": "Orientation"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.transformers",
+   "en": "Transformers"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.variables",
+   "en": "Local Toggles"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.variables.chance",
+   "en": "Chance"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.variables.id",
+   "en": "Identifier"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.structure.variables.logical",
+   "en": "Logical"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ensureBlocks",
+   "en": "Ensure Blocks"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.id",
+   "en": "Transformer ID"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.multi",
+   "en": "Multiple"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.natural",
+   "en": "Natural Floor"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.natural.naturalExpansionDistance",
+   "en": "Distance"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.natural.naturalExpansionRandomization",
+   "en": "Randomization"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.naturalAir",
+   "en": "Natural Air"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.naturalAir.naturalExpansionDistance",
+   "en": "Distance"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.naturalAir.naturalExpansionRandomization",
+   "en": "Randomization"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.negativeSpace",
+   "en": "Negative Space"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.propertyReplace",
+   "en": "Replace Property"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.replaceAll",
+   "en": "Replace"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins",
+   "en": "Ruins"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.cobwebs",
+   "en": "Cobweb Growth"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.decay.base",
+   "en": "Base Decay"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.decay.chaos",
+   "en": "Chaos"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.decay.density",
+   "en": "Density"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.decay.direction",
+   "en": "Direction"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.erosion",
+   "en": "Erosion"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.gravity",
+   "en": "Gravity"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.vines",
+   "en": "Vine Growth"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.villagereplace",
+   "en": "Village Specific"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.worldscript",
+   "en": "World Script"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.command",
+   "en": "Run Command"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.holder",
+   "en": "Holder"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.holder.point.1",
+   "en": "Position 1"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.holder.point.2",
+   "en": "Position 2"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.holder.self",
+   "en": "Self Block"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.mazeGen",
+   "en": "Generate Maze"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.multi",
+   "en": "Multiple"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.strucGen",
+   "en": "Generate Structure"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.worldscript.strucGen.simple.generators",
+   "en": "Generators"
+  },
+  {
+   "namespace": "rftools",
+   "key": "key.categories.rftools",
+   "en": "RFTools"
+  },
+  {
+   "namespace": "rftools",
+   "key": "key.debugDumpNBTBlock",
+   "en": "Dump NBT for Selected Block"
+  },
+  {
+   "namespace": "rftools",
+   "key": "key.debugDumpNBTItem",
+   "en": "Dump NBT for Held Item"
+  },
+  {
+   "namespace": "rftools",
+   "key": "key.porterNextDestination",
+   "en": "Next Destination for Porter"
+  },
+  {
+   "namespace": "rftools",
+   "key": "key.porterPrevDestination",
+   "en": "Previous Destination for Porter"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "keybind.simplyjetpacks.category",
+   "en": "Simply Jetpacks 2"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "keybind.simplyjetpacks.charger",
+   "en": "Toggle Jetpack Charger"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "keybind.simplyjetpacks.emergency_hover",
+   "en": "Toggle Emergency Hover Mode"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "keybind.simplyjetpacks.engine",
+   "en": "Toggle Jetpack/Fluxpack Engine"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "keybind.simplyjetpacks.gui",
+   "en": "Toggle Jetpack/Fluxpack GUI"
+  },
+  {
+   "namespace": "simplyjetpacks",
+   "key": "keybind.simplyjetpacks.hover",
+   "en": "Toggle Hover Mode"
+  },
+  {
+   "namespace": "waila",
+   "key": "waila.keybind.liquid",
+   "en": "Show liquids"
+  },
+  {
+   "namespace": "waila",
+   "key": "waila.keybind.recipe",
+   "en": "Show recipe"
+  },
+  {
+   "namespace": "waila",
+   "key": "waila.keybind.usage",
+   "en": "Show usage"
+  },
+  {
+   "namespace": "waila",
+   "key": "waila.keybind.wailaconfig",
+   "en": "Config screen"
+  },
+  {
+   "namespace": "waila",
+   "key": "waila.keybind.wailadisplay",
+   "en": "Show/Hide"
+  }
+ ]
+}

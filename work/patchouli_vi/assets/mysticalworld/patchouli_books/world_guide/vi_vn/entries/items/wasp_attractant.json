@@ -1,0 +1,18 @@
+{
+  "name": "Wasp Attractant",
+  "icon": "mysticalworld:wasp_attractant",
+  "category": "items",
+  "pages": [
+    {
+      "type": "crafting",
+      "link_recipe": true,
+      "recipe": "mysticalworld:wasp_attractant",
+      "text": "Hỗn hợp protein và đường có tỷ lệ vừa đủ để thu hút ong bắp cày!"
+    },
+    {
+      "type": "spotlight",
+      "item": "mysticalworld:wasp_attractant",
+      "text": "Có thể bôi chất dẫn dụ lên hầu hết các loại oak tree (oak thường và dark oak). Ấu trùng được ong bắp cày tiêm vào sẽ nhanh chóng tạo ra một $(l:items/gall_apple)gall apple$()."
+    }
+  ]
+}

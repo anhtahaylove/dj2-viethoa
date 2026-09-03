@@ -1,0 +1,16 @@
+{
+  "title": "The lost pages",
+  "text": [
+    {
+      "text": "Chào mừng đến với ấn bản thứ hai của Materials and You: Sinh tồn từ ngày đầu tiên và những ngày sau đó. Đáng tiếc là có vẻ một số trang đã bị thất lạc!"
+    },
+    {
+      "text": "Cuốn sách này hiện chưa hoàn chỉnh, nhưng đã có đầy đủ vật liệu và thuộc tính bổ trợ cho công cụ. Các phiên bản sau sẽ bổ sung thêm thông tin, vì vậy thỉnh thoảng hãy quay lại kiểm tra nhé!",
+      "paragraph": true
+    },
+    {
+      "text": "À, nếu bạn đang thắc mắc Copper, Aluminum,... đã đi đâu: TConstruct chỉ thêm quặng Cobalt và Ardite vào Nether, không còn tự tạo các loại quặng thông thường nữa. Tuy nhiên, mod vẫn tự động hỗ trợ mọi mod khác có thêm chúng.",
+      "paragraph": true
+    }
+  ]
+}

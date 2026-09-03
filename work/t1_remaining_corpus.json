@@ -1,0 +1,4297 @@
+[
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.configurator.mode.0",
+  "en": "Set Path"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.configurator.mode.1",
+  "en": "Apply Configuration"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.configurator.mode.2",
+  "en": "Clear Configurations"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.crystal",
+  "en": "Molecular formula"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.drainstaff.energy.dread",
+  "en": "Dreadlands Energy"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.drainstaff.energy.omothol",
+  "en": "Omothol Energy"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.drainstaff.energy.shadow",
+  "en": "Shadow Energy"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.soulreaper",
+  "en": "Souls harvested"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.staff.mode.1",
+  "en": "Mode"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.stonetablet.contents",
+  "en": "%d stacks"
+ },
+ {
+  "namespace": "abyssalcraft",
+  "key": "tooltip.stonetablet.cursed",
+  "en": "Cursed"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.completeTrials",
+  "en": "A Botanist's Dream"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftCoalGen",
+  "en": "Cool Generator"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftCoffeeMachine",
+  "en": "Addiction in cups"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftCrusher",
+  "en": "Doublin' up!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftDoubleCrusher",
+  "en": "Double doublin' up!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftEmpowerer",
+  "en": "Infusion Altar"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftEnergyface",
+  "en": "Zoom, Zoom, CF!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftFireworkBox",
+  "en": "Bang Boom Bang"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftItemInterface",
+  "en": "Show your face"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftLaserRelay",
+  "en": "Relayed, not delayed"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftLaserRelayAdvanced",
+  "en": "Energetic expansion"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftLaserRelayExtreme",
+  "en": "Mad with power"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftLaserRelayItem",
+  "en": "Conducting information"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftLeafGen",
+  "en": "Munchdew?"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftLiquiface",
+  "en": "Zoom, Zoom, Fluids!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftPhantomface",
+  "en": "Zoom, Zoom, Items!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.craftReconstructor",
+  "en": "Bzzzzrrrrt"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.getCrystalsMilestone",
+  "en": "Reconstruction Master"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.getUnProbed",
+  "en": "Sneaky!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.makeCrystal",
+  "en": "Crystal clear"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.nameSmileyCloud",
+  "en": "Your best friend"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.openBooklet",
+  "en": "Knowledge Bringer!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.openBookletMilestone",
+  "en": "Bookworm!"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.openTreasureChest",
+  "en": "Underwater Dungeon"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.actuallyadditions.pickUpCoffee",
+  "en": "Makes you addicted"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "achievement.page.actuallyadditions",
+  "en": "Actually Additions"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.edition",
+  "en": "Edition"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.hudDisplay.page",
+  "en": "Page"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.1",
+  "en": "Actually Additions"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.2",
+  "en": "Actual Additions"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.3",
+  "en": "Actually Addiction"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.4",
+  "en": "Actual Edition"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.5",
+  "en": "Actual Addition"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.6",
+  "en": "Actually Addons"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.1.7",
+  "en": "Additional Addons"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.booklet.manualName.2",
+  "en": "Manual"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.autoSplitItems.off",
+  "en": "Auto-Split Items Off"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.autoSplitItems.on",
+  "en": "Auto-Split Items On"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.coffee",
+  "en": "Coffee"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.ignoreMeta",
+  "en": "Ignoring Metadata"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.ignoreMod",
+  "en": "Mod Mode Off"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.ignoreNBT",
+  "en": "Ignoring NBT"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.ignoreOredict",
+  "en": "Ignoring OreDictionary"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.inbound",
+  "en": "INBOUND"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.ok",
+  "en": "Ok"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.outbound",
+  "en": "OUTBOUND"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.respectMeta",
+  "en": "Respecting Metadata"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.respectMod",
+  "en": "Mod Mode On"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.respectNBT",
+  "en": "Respecting NBT"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.respectOredictHard",
+  "en": "Hard Respecting OreDictionary"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.respectOredictSoft",
+  "en": "Soft Respecting OreDictionary"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.smart",
+  "en": "Smart Whitelist"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.gui.the",
+  "en": "the"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.laserRelay.energy.extra",
+  "en": "Energy Flow"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.laserRelay.fluid.extra",
+  "en": "Fluid Flow"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.laserRelay.item.extra",
+  "en": "Priority"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.laserRelay.mode.both",
+  "en": "Both Directions"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.noLens",
+  "en": "No Lens"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.placer.sides.1",
+  "en": "Placement Sides"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.redstoneMode.deactivation",
+  "en": "Deactivation"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.redstoneMode.name",
+  "en": "Redstone Mode"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "info.actuallyadditions.redstoneMode.pulse",
+  "en": "Pulse"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "tooltip.actuallyadditions.disabled",
+  "en": "Disabled Object"
+ },
+ {
+  "namespace": "actuallyadditions",
+  "key": "tooltip.actuallyadditions.previouslyBag",
+  "en": "Previously \"Bag\""
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.analyzer",
+  "en": "Specimen"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.closed",
+  "en": "Closed"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.discoveredSeeds",
+  "en": "Discovered Seeds"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.gain",
+  "en": "Gain"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.growth",
+  "en": "Growth"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.growthStage",
+  "en": "Growthstage"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.material",
+  "en": "Material"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.mature",
+  "en": "Mature"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.none",
+  "en": "none"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.open",
+  "en": "Open"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.seed",
+  "en": "Seed"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.soil",
+  "en": "Soil"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.state",
+  "en": "State"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.storage",
+  "en": "Locked Seed"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.strength",
+  "en": "Strength"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.unidentified",
+  "en": "Unidentified"
+ },
+ {
+  "namespace": "agricraft",
+  "key": "agricraft_tooltip.waterLevel",
+  "en": "Water level"
+ },
+ {
+  "namespace": "astralsorcery",
+  "key": "config.astralsorcery.category.astralsorcery.tooltip",
+  "en": "General Configuration"
+ },
+ {
+  "namespace": "astralsorcery",
+  "key": "jei.additional_info.starlight",
+  "en": "+ starlight"
+ },
+ {
+  "namespace": "atum",
+  "key": "tooltip.atum.minutesRemaining",
+  "en": "%d Minutes Remaining"
+ },
+ {
+  "namespace": "atum",
+  "key": "tooltip.atum.usesRemaining",
+  "en": "%d Uses Remaining"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.box_of_sealed_evil",
+  "en": "Surprise Mechanics~"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.contract_bound",
+  "en": "Bound to %s"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.contract_items",
+  "en": "%d/%d %s Obtained"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.devouring_rage_entities",
+  "en": "%d/%d Livestocks Killed"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.poppet.bound",
+  "en": "Bound to %s"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.silver_armor_description.name",
+  "en": "Protects against undead"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.bewitchment.waystone.unbound",
+  "en": "Not bound"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.lantern_lit",
+  "en": "Lit"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "tooltip.leonards_wand.uses",
+  "en": "%d uses remaining"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.anchorremove",
+  "en": "Anchor Removed"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.anchorrender",
+  "en": "Render Anchored"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.building.placement.atop",
+  "en": "On Top"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.building.placement.inside",
+  "en": "Inside"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.connectedarea",
+  "en": "Connected Area"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.connectedsurface",
+  "en": "Connected Surface"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.copied",
+  "en": "Area Copied"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.fuzzymode",
+  "en": "Fuzzy Mode"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.invalidblock",
+  "en": "Invalid Block"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.mirrored",
+  "en": "Blocks Mirrored"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.raytrace_fluid",
+  "en": "Raytracing Fluid"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.rotated",
+  "en": "Blocks Rotated"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "message.gadget.toolrange",
+  "en": " Tool Range"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.anchor",
+  "en": "Anchor"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.block",
+  "en": "Block"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.connected",
+  "en": "Connected"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.connected_area",
+  "en": "Connected Area"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.connected_surface",
+  "en": "Connected Surface"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.copypaste.opengui",
+  "en": "Edit Placement"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.destroy.overlay",
+  "en": "Overlay"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.destroyshowoverlay",
+  "en": "Showing Overlay"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.energy",
+  "en": "Energy"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.fuzzy",
+  "en": "Fuzzy"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.mirror",
+  "en": "Mirror"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.mode",
+  "en": "Mode"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.range",
+  "en": "Range"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.raytrace_fluid",
+  "en": "Raytrace Fluid"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.rotate",
+  "en": "Rotate"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.gadget.undo",
+  "en": "Undo"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.pasteContainer.amount",
+  "en": "Amount"
+ },
+ {
+  "namespace": "buildinggadgets",
+  "key": "tooltip.template.name",
+  "en": "Name"
+ },
+ {
+  "namespace": "cofh",
+  "key": "chat.cofh.command.reloadworldgen.syntax",
+  "en": "/cofh reloadworldgen"
+ },
+ {
+  "namespace": "cofh",
+  "key": "chat.cofh.command.unloadchunk.syntax",
+  "en": "/cofh unloadchunk"
+ },
+ {
+  "namespace": "cofh",
+  "key": "chat.cofh.command.version.syntax",
+  "en": "/cofh version"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.access",
+  "en": "Access"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.accessPrivate",
+  "en": "Owner Only"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.accessPublic",
+  "en": "Public Access"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.accessRestricted",
+  "en": "Restricted"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.accessTeam",
+  "en": "Team Only"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.amount",
+  "en": "Amount"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.anotherplayer",
+  "en": "Another Player"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.area",
+  "en": "Area"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.arrows",
+  "en": "Arrows"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.augmentation",
+  "en": "Augmentation"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.blank",
+  "en": "Blank"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.capacity",
+  "en": "Capacity"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.chance",
+  "en": "Chance"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.charge",
+  "en": "Charge"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.configuration",
+  "en": "Configuration"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.contents",
+  "en": "Contents"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.controlStatus",
+  "en": "Control Status"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.damageAttack",
+  "en": "Attack Damage"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.damageFlux",
+  "en": "Flux Damage"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.disabled",
+  "en": "Disabled"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.duration",
+  "en": "Duration"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.empty",
+  "en": "Empty"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.enabled",
+  "en": "Enabled"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.energy",
+  "en": "Energy"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.energyConsume",
+  "en": "Power Usage"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.energyMax",
+  "en": "Maximum Power"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.energyProduce",
+  "en": "Power Output"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.energyStored",
+  "en": "Energy Stored"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.experience",
+  "en": "Experience"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter",
+  "en": "Filter"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.list.off",
+  "en": "Blacklist"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.list.on",
+  "en": "Whitelist"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.metadata.off",
+  "en": "Ignore Metadata"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.metadata.on",
+  "en": "Use Metadata"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.nbt.off",
+  "en": "Ignore NBT"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.nbt.on",
+  "en": "Use NBT"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.oreDict.off",
+  "en": "Ignore Ore Dictionary"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.filter.oreDict.on",
+  "en": "Use Ore Dictionary"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.fluid",
+  "en": "Fluid"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.fluids",
+  "en": "Fluids"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.high",
+  "en": "High"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.ignored",
+  "en": "Ignored"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.infinite",
+  "en": "Infinite"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.infiniteEnergy",
+  "en": "Infinite RF"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.infiniteFluid",
+  "en": "Infinite Fluid"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.infiniteSource",
+  "en": "Infinite Source"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.input",
+  "en": "Input"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.item",
+  "en": "Item"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.items",
+  "en": "Items"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.level",
+  "en": "Level"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.locked",
+  "en": "Locked"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.low",
+  "en": "Low"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.modeChange",
+  "en": "to Change Mode"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.none",
+  "en": "None"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.output",
+  "en": "Output"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.owner",
+  "en": "Owner"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.perUse",
+  "en": "Per Use"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.potency",
+  "en": "Potency"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.radius",
+  "en": "Radius"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.receive",
+  "en": "Receive"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.redstoneControl",
+  "en": "Redstone Control"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.security",
+  "en": "Security"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.send",
+  "en": "Send"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.signalDisabled",
+  "en": "Signal: §4Disabled§r"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.signalEnabledHigh",
+  "en": "Signal: §aEnabled§7, High§r"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.signalEnabledLow",
+  "en": "Signal: §aEnabled§7, Low§r"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.signalRequired",
+  "en": "Signal Required"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.steam",
+  "en": "Steam"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.steamConsume",
+  "en": "Steam Usage"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.steamMax",
+  "en": "Maximum Steam"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.steamProduce",
+  "en": "Steam Output"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.steamStored",
+  "en": "Steam Stored"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.stored",
+  "en": "Stored"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.tutorial",
+  "en": "Tutorial"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.unlocked",
+  "en": "Unlocked"
+ },
+ {
+  "namespace": "cofh",
+  "key": "info.cofh.upgradeRequired",
+  "en": "Upgrade Required"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "chat.cyclopscore.command.invalidArguments",
+  "en": "Invalid Arguments"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "chat.cyclopscore.command.invalidSubcommand",
+  "en": "Invalid Subcommand"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.biome.tooltip",
+  "en": "Biome generation settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.block.tooltip",
+  "en": "Block settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.core.tooltip",
+  "en": "Core settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.enchantment.tooltip",
+  "en": "Enchantment settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.entity.tooltip",
+  "en": "Entity settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.fluid.tooltip",
+  "en": "Fluid settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.general.tooltip",
+  "en": "General settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.item.tooltip",
+  "en": "Item settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.machine.tooltip",
+  "en": "Machine settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.mob.tooltip",
+  "en": "Mob settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "config.cyclopscore.potion.tooltip",
+  "en": "Potion settings"
+ },
+ {
+  "namespace": "cyclopscore",
+  "key": "general.cyclopscore.info.enabled",
+  "en": "§aEnabled"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "message.karos.laugh",
+  "en": "Hahahaha"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.ammo.infinite",
+  "en": "Infinite Ammo"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.arcana",
+  "en": "Consumes %s Arcana"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.arcana.regen",
+  "en": "Replenishes %s Arcana"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.arcana_regen",
+  "en": "Arcana Regeneration"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.block_protection",
+  "en": "Block Damage Protection"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.damage_reduction",
+  "en": "%s%% Damage Reduction"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.explosion_protection",
+  "en": "Explosion Protection"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.fire_protection",
+  "en": "Fire Protection"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.fly",
+  "en": "Flight"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.health_regen",
+  "en": "Health Regeneration"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.hunger",
+  "en": "Refills Hunger"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.iceika",
+  "en": "Iceika"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.massive_buff",
+  "en": "Massive Buff"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.melee_damage",
+  "en": "+%s Melee Damage"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.night_vision",
+  "en": "Night Vision"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.poison_protection",
+  "en": "Poison Resistance"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.ranged_damage",
+  "en": "+%s%% Ranged Damage"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.step_assist",
+  "en": "Step Assist"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.swim",
+  "en": "Swim Faster"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.underwater",
+  "en": "Breathe Underwater"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.armor_info.wither_protection",
+  "en": "Wither Protection"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.damage.arcana",
+  "en": "%s Arcana Damage"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.damage.melee",
+  "en": "%s Melee Damage"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.damage.ranged",
+  "en": "%s Ranged Damage"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.dimension",
+  "en": "Dimension: %s"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.food.heal",
+  "en": "Replenishes %s Health"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.food.pet",
+  "en": "Pet Food"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.food.saturation",
+  "en": "%s Saturation"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.ghostbane.damage",
+  "en": "13 Attack Damage"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.ghostbane.health",
+  "en": "20 Health"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.instant_consumption",
+  "en": "Instant Consumption"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.noblock",
+  "en": "Cannot Block"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.noprotection",
+  "en": "No Protection"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.serenade_striker",
+  "en": "Shoots Lightning"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.shots.explosive",
+  "en": "Explosive Projectiles"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.shots.homing",
+  "en": "Homing Projectiles"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.staff.bounce",
+  "en": "Bouncing Projectile"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.uses",
+  "en": "%s Uses Remaining"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.uses.infinite",
+  "en": "Infinite Uses"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.uses.single",
+  "en": "Single Use"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.vethean",
+  "en": "Vethean"
+ },
+ {
+  "namespace": "divinerpg",
+  "key": "tooltip.vilestorm",
+  "en": "Poisons Enemies"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.awakenedblock",
+  "en": "It’s all in the ritual!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.chest",
+  "en": "Never enough Storage!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.core",
+  "en": "This is where it begins"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.core2",
+  "en": "Not Good Enough!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.core3",
+  "en": "Expense vs. Power"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dChest",
+  "en": "Fly like an eagle!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.daxe",
+  "en": "One giant Chop for tree Kind!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dboots",
+  "en": "Higher and Higher!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dbow",
+  "en": "Now you’re playing with Power!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dhelm",
+  "en": "Gliding through water!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dhoe",
+  "en": "Kick it up a Notch! -BAM-"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dislocator",
+  "en": "Endermen got nothin’"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dislocator2",
+  "en": "Ender-ruler!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dissenchanter",
+  "en": "Only What I Want!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dleggs",
+  "en": "Dance like a Butterfly!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dpick",
+  "en": "Mine With Authority!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dshovel",
+  "en": "Moving Mountains"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dstaff",
+  "en": "With your powers combined!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dsword",
+  "en": "Sting Like a Bee!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.dust",
+  "en": "The Start of something BIG!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.ecore",
+  "en": "It keeps going, and going, and going"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.flux",
+  "en": "1.21 jiggawatts!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.flux2",
+  "en": "Phenomenal Cosmic Power! itty bitty living space."
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.heart",
+  "en": "Heart of the Dragon!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.ingot",
+  "en": "Better than Diamond!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.manual",
+  "en": "Knowledge to the Max!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.particles",
+  "en": "OOOOH Sparkles!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.resurrection",
+  "en": "Brimming with Antici-pation!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.soul",
+  "en": "Reaper!!!!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.sundial",
+  "en": "Timekeeper"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wboots",
+  "en": "Feather Fall"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wbow",
+  "en": "Snipers at the Ready!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wchest",
+  "en": "High Resistance"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.weather",
+  "en": "Who Needs Mother Nature"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.whelm",
+  "en": "Free Breathing!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wleggs",
+  "en": "Run like the wind"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wpick",
+  "en": "Nothing like Diamond"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wshovel",
+  "en": "Pro Digger!"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "achievement.draconicevolution.wsword",
+  "en": "Better Weaponry"
+ },
+ {
+  "namespace": "draconicevolution",
+  "key": "draconicevolution.achievementPage.name",
+  "en": "Draconic Evolution"
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.timer",
+  "en": "Startup took %sm %ss."
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.update.desc",
+  "en": "Make sure you visit the modpack page soon to grab the latest. Update so you don't miss out on the new goodies the developers have added!"
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.update.mainmenu",
+  "en": "Continue to Main Menu"
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.update.newversion",
+  "en": "-> Available Version: [ %s ]"
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.update.oldversion",
+  "en": "-> Current Version: [ %s ]"
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.update.openurl",
+  "en": "More Info (Opens Browser!)"
+ },
+ {
+  "namespace": "endermodpacktweaks",
+  "key": "msg.endermodpacktweaks.update.title",
+  "en": "An update is available for %s!"
+ },
+ {
+  "namespace": "enderutilities",
+  "key": "enderutilities.tooltip.item.selectedlinkcrystal.short",
+  "en": "LC:"
+ },
+ {
+  "namespace": "enderutilities",
+  "key": "enderutilities.tooltip.item.selectedmemorycard.short",
+  "en": "MC:"
+ },
+ {
+  "namespace": "erebus",
+  "key": "tooltip.erebus.dimension",
+  "en": "Dimension: %s"
+ },
+ {
+  "namespace": "erebus",
+  "key": "tooltip.erebus.gliderglidekey",
+  "en": "Gliding Key"
+ },
+ {
+  "namespace": "erebus",
+  "key": "tooltip.erebus.gliderpoweredkey",
+  "en": "Flying Key"
+ },
+ {
+  "namespace": "erebus",
+  "key": "tooltip.erebus.sprintleggingstier",
+  "en": "Tier %s"
+ },
+ {
+  "namespace": "erebus",
+  "key": "tooltip.erebus.whetstone_2",
+  "en": "Un-enchanted"
+ },
+ {
+  "namespace": "erebus",
+  "key": "tooltip.erebus.whetstonesharpness",
+  "en": "Sharpness Level %s"
+ },
+ {
+  "namespace": "evilcraft",
+  "key": "chat.evilcraft.boss_display.charge",
+  "en": "%s Charge"
+ },
+ {
+  "namespace": "evilcraft",
+  "key": "chat.evilcraft.command.farting_disabled",
+  "en": "Farting disabled"
+ },
+ {
+  "namespace": "evilcraft",
+  "key": "chat.evilcraft.command.farting_enabled",
+  "en": "Farting enabled"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.crafting_table",
+  "en": "Decoration"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.eject",
+  "en": "Eject"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.empty",
+  "en": "Empty"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.lamp_glowstone",
+  "en": "Glowstone"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.lamp_luminessence",
+  "en": "Luminessence"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.limited_input",
+  "en": "Limited Input"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.num_items",
+  "en": "%s Items"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.trimmed_crystaltine",
+  "en": "Crystaltine Trimmed"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.trimmed_diamond",
+  "en": "Diamond Trimmed"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.trimmed_emerald",
+  "en": "Emerald Trimmed"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.trimmed_gold",
+  "en": "Gold Trimmed"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.trimmed_iron",
+  "en": "Iron Trimmed"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.trimmed_ultimate",
+  "en": "Ultimate Trimmed"
+ },
+ {
+  "namespace": "extendedcrafting",
+  "key": "tooltip.ec.unlimited_input",
+  "en": "Unlimited Input"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.boomerang",
+  "en": "Boomerang"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.builders.wand",
+  "en": "Builders Wand"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.chunk.loader",
+  "en": "Chunk Loader"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.crusher",
+  "en": "Crusher"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.cursed.lasso",
+  "en": "Cursed Lasso"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.destruction.wand",
+  "en": "Destruction Wand"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.dye.of.the.moon",
+  "en": "Dye of the Moon"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.fire.mill",
+  "en": "Fire Mill"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.furnace",
+  "en": "Furnace"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.generator",
+  "en": "Generator"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.golden.lasso",
+  "en": "Golden Lasso"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.indexer",
+  "en": "Indexer"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.lava.generator",
+  "en": "Lava Generator"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.lava.xumachinegenerators",
+  "en": "Lava XUMachineGenerators"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.luminescent.potential",
+  "en": "Luminescent Potential"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.lunar.panel",
+  "en": "Lunar Panel"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.machina.magnifica",
+  "en": "Machina Magnifica"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.magical.wood",
+  "en": "Magical Wood"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.manual.mill",
+  "en": "Manual Mill"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.mining.upgrade",
+  "en": "Mining Upgrade"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.pipes",
+  "en": "Pipes!"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.power.resonator",
+  "en": "Power Resonator"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.powered.coal",
+  "en": "Powered Coal"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.powered.glass",
+  "en": "Powered Glass"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.powered.stone",
+  "en": "Powered Stone"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.remote.indexing",
+  "en": "Remote Indexing"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.screen",
+  "en": "Screen"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.solar.panel",
+  "en": "Solar Panel"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.speed.upgrade",
+  "en": "Speed Upgrade"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.spotlight",
+  "en": "Spotlight"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.stack.upgrade",
+  "en": "Stack Upgrade"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.sun.crystal",
+  "en": "Sun Crystal"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.techtree.start",
+  "en": "Tech-Tree Start"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.transfer.node.upgrades",
+  "en": "Transfer Node Upgrades"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.transfer.nodes",
+  "en": "Transfer Nodes"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.villager.contract",
+  "en": "Villager Contract"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.water.mill",
+  "en": "Water Mill"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.wind.mill",
+  "en": "Wind Mill"
+ },
+ {
+  "namespace": "extrautils2",
+  "key": "achievement.xu2.wrench",
+  "en": "Wrench"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.info.id",
+  "en": "ID: %s"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.info.members",
+  "en": "Members: %s"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.info.owner",
+  "en": "Owner: %s"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.info.uid",
+  "en": "UID: %s"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.info.usage",
+  "en": "/team info <team>"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.msg.usage",
+  "en": "/team msg <message...>"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.chunks.info.not_claimed",
+  "en": "Not claimed"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.chunks.info.text",
+  "en": "Chunk %d:%d in %s: %s"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.chunks.info.usage",
+  "en": "/chunks info"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.info.usage",
+  "en": "/ranks info <rank|player>"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.server_info.usage",
+  "en": "/server_info"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "achievement.asteroids",
+  "en": "To The Asteroid Belt"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "achievement.mars",
+  "en": "To Mars!"
+ },
+ {
+  "namespace": "galacticraftplanets",
+  "key": "achievement.venus",
+  "en": "To Venus!"
+ },
+ {
+  "namespace": "hammercore",
+  "key": "chat.hammercore:newversion.clickdwn",
+  "en": "Download"
+ },
+ {
+  "namespace": "hammercore",
+  "key": "info.hammercore:changed_mode",
+  "en": "Charging"
+ },
+ {
+  "namespace": "hammercore",
+  "key": "info.hammercore:energy_stored",
+  "en": "RF Stored"
+ },
+ {
+  "namespace": "hammercore",
+  "key": "info.hammercore:witherproof",
+  "en": "Wither-proof"
+ },
+ {
+  "namespace": "immersiveengineering",
+  "key": "desc.immersiveengineering.info.chance",
+  "en": "Chance:"
+ },
+ {
+  "namespace": "immersiveengineering",
+  "key": "desc.immersiveengineering.info.mininglvl.2",
+  "en": "§cRedstone"
+ },
+ {
+  "namespace": "immersiveengineering",
+  "key": "desc.immersiveengineering.info.mininglvl.3",
+  "en": "§dObsidian"
+ },
+ {
+  "namespace": "industrialforegoing",
+  "key": "conveyor.upgrade.error.name",
+  "en": "Invalid Conveyor Upgrade"
+ },
+ {
+  "namespace": "integratedtunnels",
+  "key": "config.integratedtunnels.capability.tooltip",
+  "en": "Capability settings"
+ },
+ {
+  "namespace": "integratedtunnels",
+  "key": "config.integratedtunnels.core.tooltip",
+  "en": "Core settings"
+ },
+ {
+  "namespace": "integratedtunnels",
+  "key": "config.integratedtunnels.general.tooltip",
+  "en": "General settings"
+ },
+ {
+  "namespace": "jei",
+  "key": "config.jei.search.tooltipSearchMode",
+  "en": "#Tooltip"
+ },
+ {
+  "namespace": "jei",
+  "key": "config.jei.search.tooltipSearchMode.comment",
+  "en": "Search mode for Tooltips (prefix: #)"
+ },
+ {
+  "namespace": "jeresources",
+  "key": "jer.config.hiddenTabs.description",
+  "en": "Tabs added by JER are 'dungeon', 'enchantment', 'mob', 'villager', worldgen' and 'plant'"
+ },
+ {
+  "namespace": "journeymap",
+  "key": "jm.config.tooltip_format",
+  "en": "%1$s%2$s"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftBattery",
+  "en": "Lightning on the Go"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftCell",
+  "en": "A Powerful Battery Indeed"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftCrusher",
+  "en": "The Daily Grind"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftFurnace",
+  "en": "Call Me Chef Thor"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftGenerator",
+  "en": "Give Me More Power!"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftGuide",
+  "en": "Knowledge is Key"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftInfuser",
+  "en": "Voltaic Artifice"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftKinetic",
+  "en": "Going Mobile"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftMiner",
+  "en": "Automation is Key"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftReallocator",
+  "en": "Enchanting Wizard"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftRod",
+  "en": "An Electrifying Start!"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftTerminal",
+  "en": "Channeling the Power"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:craftWireless",
+  "en": "Spreading Out"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:getElectricium",
+  "en": "High Voltage Hardware"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:infuseMystic",
+  "en": "Underworld Champion"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:infuseSkyfather",
+  "en": "Angering the Gods"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:infuseSpecialSword",
+  "en": "Stonebound Infusion"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:killDemon",
+  "en": "To Resist the Gods"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:mineUnderworldOre",
+  "en": "A Dark Land of Riches!"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:mysticArmor",
+  "en": "One With the Gods"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:mysticHammer",
+  "en": "Divine Overkill"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:perfectCell",
+  "en": "Perfect Cell"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:reachUnderworld",
+  "en": "To Step Into the Abyss"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:specialSwordKill",
+  "en": "Stone Unleashed"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:swingGolfClub",
+  "en": "Par for the Course"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "achievement.lightningcraft:upgradeCell",
+  "en": "Supermachinery"
+ },
+ {
+  "namespace": "lightningcraft",
+  "key": "subtitle.mob.underworld_ghast.warn",
+  "en": "Underghast fires"
+ },
+ {
+  "namespace": "loottweaker",
+  "key": "loottweaker.config.warnings.category",
+  "en": "Warnings"
+ },
+ {
+  "namespace": "loottweaker",
+  "key": "loottweaker.config.warnings.deprecation",
+  "en": "Deprecation"
+ },
+ {
+  "namespace": "loottweaker",
+  "key": "loottweaker.config.warnings.newTableMinecraftNamespace",
+  "en": "newTable() Minecraft Namespace"
+ },
+ {
+  "namespace": "mekanism",
+  "key": "tooltip.hp",
+  "en": "HP"
+ },
+ {
+  "namespace": "modulardiversity",
+  "key": "tooltip.anchor.spawn",
+  "en": "From spawnpoint"
+ },
+ {
+  "namespace": "modulardiversity",
+  "key": "tooltip.x.exact",
+  "en": "x%1$s"
+ },
+ {
+  "namespace": "modulardiversity",
+  "key": "tooltip.y.exact",
+  "en": "y%1$s"
+ },
+ {
+  "namespace": "modulardiversity",
+  "key": "tooltip.z.exact",
+  "en": "z%1$s"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.energy.type.fe",
+  "en": "FE"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.energy.type.gt_eu",
+  "en": "EU"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.energy.type.ic2_eu",
+  "en": "EU"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.energyhatch.ic2.any",
+  "en": "Any"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.energyhatch.ic2.powerrate",
+  "en": "EU/t"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.energyhatch.storage",
+  "en": "Stores %s FE"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.fluidhatch.empty",
+  "en": "Empty"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.fluidhatch.fluid",
+  "en": "[Fluid]"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.fluidhatch.gas",
+  "en": "[Gas]"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.fluidhatch.tank",
+  "en": "%smb / %smb"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.fluidhatch.tank.gas",
+  "en": "%s / %s"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.0.name",
+  "en": "ULV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.1.name",
+  "en": "LV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.10.name",
+  "en": "UEV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.11.name",
+  "en": "UIV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.12.name",
+  "en": "UXV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.2.name",
+  "en": "MV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.3.name",
+  "en": "HV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.4.name",
+  "en": "EV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.5.name",
+  "en": "IV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.6.name",
+  "en": "LuV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.7.name",
+  "en": "ZPM"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.8.name",
+  "en": "UV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.ic2.powertier.9.name",
+  "en": "UHV"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.itembus.slot",
+  "en": "1 Slot"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.itembus.slots",
+  "en": "%s Slots"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.machinery.blueprint.required",
+  "en": "Requires Blueprint"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.machinery.blueprint.upgrades",
+  "en": "Upgrades"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.machinery.empty",
+  "en": "Empty"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "tooltip.machinery.fuel.item",
+  "en": "BurnTime: %s"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.absorption",
+  "en": "Absorption"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.antivenom",
+  "en": "Antivenom"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.applicable_to",
+  "en": "Applicable To"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.attack_aoe",
+  "en": "Attack AOE"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.axe",
+  "en": "Axe"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.blast_resistant",
+  "en": "Blast Resistant"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.boots",
+  "en": "Boots"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.bow",
+  "en": "Bow"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.burn_time",
+  "en": "Burn Time"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.charm_slot",
+  "en": "Charm Slot"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.chestplate",
+  "en": "Chestplate"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.craftable",
+  "en": "Craftable"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.damage",
+  "en": "Damage"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.draw_speed",
+  "en": "Draw Speed"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.drop_chance",
+  "en": "Drop Chance"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.durability",
+  "en": "Durability"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.efficiency",
+  "en": "Efficiency"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.empty",
+  "en": "Empty"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.fire_resistance",
+  "en": "Fire Resistance"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.flight",
+  "en": "Flight"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.for",
+  "en": "for"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.gives_buffs",
+  "en": "Gives Buffs"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.gives_debuffs",
+  "en": "Gives Debuffs"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.helmet",
+  "en": "Helmet"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.hoe",
+  "en": "Hoe"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.hold",
+  "en": "Hold"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.inferium",
+  "en": "Inferium"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.intermedium",
+  "en": "Intermedium"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.jump_boost",
+  "en": "Jump Boost"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.leggings",
+  "en": "Leggings"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.material",
+  "en": "Material"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.miners_vision",
+  "en": "Miner's Vision"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.mining_aoe",
+  "en": "Mining AOE"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.night_vision",
+  "en": "Night Vision"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.pickaxe",
+  "en": "Pickaxe"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.prudentium",
+  "en": "Prudentium"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.quick_draw",
+  "en": "Quick Draw"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.rainbow",
+  "en": "Rainbow"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.range",
+  "en": "Range"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.reaping_aoe",
+  "en": "Reaping AOE"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.resistance",
+  "en": "Resistance"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.scythe",
+  "en": "Scythe"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.scything_aoe",
+  "en": "Scything AOE"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.set_bonus",
+  "en": "Set Bonus"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.shearing_aoe",
+  "en": "Shearing AOE"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.shears",
+  "en": "Shears"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.shovel",
+  "en": "Shovel"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.sickle",
+  "en": "Sickle"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.speed",
+  "en": "Speed"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.step_assist",
+  "en": "Step Assist"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.strength",
+  "en": "Strength"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.strength2",
+  "en": "Strength 2"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.superium",
+  "en": "Superium"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.supremium",
+  "en": "Supremium"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.sword",
+  "en": "Sword"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.tier",
+  "en": "Tier"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.tilling_aoe",
+  "en": "Tilling AOE"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.triple_shot",
+  "en": "Triple Shot"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.unlimited",
+  "en": "Unlimited"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.uses_left",
+  "en": "Uses Left"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.water_breathing",
+  "en": "Water Breathing"
+ },
+ {
+  "namespace": "mysticalagriculture",
+  "key": "tooltip.ma.wither_resistance",
+  "en": "Wither Resistance"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.crashes.errorNotificationDuration",
+  "en": "Error Notification Duration"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.crashes.problemAction.warningScreen",
+  "en": "Warning Screen"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph1.line1",
+  "en": "Minecraft did not crash, but there may still be issues such"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph1.line2",
+  "en": "as world corruption, broken features, or further crashes."
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph1.line3",
+  "en": "Possible causes have been identified:"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph3.line1",
+  "en": "If this is a modpack, report the link to the pack's author;"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph3.line2",
+  "en": "otherwise, you're encouraged to report the link to the"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph3.line3",
+  "en": "identified mod's author(s) to help them fix the issue."
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph3.line4",
+  "en": "You can keep playing but may encounter errors. This warning"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.new.paragraph3.line5",
+  "en": "can be disabled in Mods > FermiumASM > Config > Crashes."
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph1.line1",
+  "en": "This did not cause a crash, but there will likely still be"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph1.line2",
+  "en": "consequences such as world corruption or broken features."
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph1.line3",
+  "en": "The following mod(s) have been identified as potential causes:"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph3.line1",
+  "en": "Click the \"Get link\" button to open it in your browser. You're"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph3.line2",
+  "en": "encouraged to send this report to the mod's author to help"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph3.line3",
+  "en": "them fix the issue. You can keep playing, but be aware that"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph3.line4",
+  "en": "you will likely encounter some problems later on. This warning"
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.paragraph3.line5",
+  "en": "can be disabled in Mods > FermiumASM > Config > Crashes."
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.summary",
+  "en": "Minecraft ran into a problem."
+ },
+ {
+  "namespace": "normalasm",
+  "key": "normalasm.warnscreen.title",
+  "en": "Potential problem found!"
+ },
+ {
+  "namespace": "patchouli",
+  "key": "patchouli.gui.lexicon.progress_tooltip.secret",
+  "en": "Plus %d Secrets"
+ },
+ {
+  "namespace": "patchouli",
+  "key": "patchouli.gui.lexicon.progress_tooltip.secret1",
+  "en": "Plus 1 Secret"
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.edit_repo_loc.info",
+  "en": "In order to use edit mode you must clone the documentation repository and specify the location of the cloned ModDocs folder"
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.et_fluid.info",
+  "en": "If false the \"Explain This\" function will ignore fluids unless there are no other blocks within reaching distance."
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.max_tabs.info",
+  "en": "This setting allows you to set the maximum number of tabs that can be opened simultaneously."
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.reload_documentation.info",
+  "en": "Checks for and downloads any documentation updates then reloads the GUI."
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.reload_from_disk.info",
+  "en": "Reloads all documentation from disk."
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.set_pi_language.info",
+  "en": "By default PI uses whatever language minecraft is using but this option allows you to override that and set a custom language."
+ },
+ {
+  "namespace": "projectintelligence",
+  "key": "pi.config.set_pi_language_note.info",
+  "en": "Please note. Many languages will most likely not be supported by some mods. If you would like to help with translations learn how you can help by checking out the PI main page."
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.large.error",
+  "en": "The selection is too big! (And if it weren't, this command would probably take a few days to run!)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.large.warn",
+  "en": "The selection is very big! This might take a while."
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsightinfo.get",
+  "en": "%s %s, ID: %s"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsightinfo.lookup",
+  "en": "Sight Info"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsightinfo.structure",
+  "en": "%s %s, Seed: %s, ID: %s"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsightinfo.unknown",
+  "en": "Unknown sight UUID!"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.configgui.ctgy.general.tooltip",
+  "en": "General Settings"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.configgui.ctgy.visual.tooltip",
+  "en": "Visual Settings"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration",
+  "en": "Vanilla Decoration"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.title",
+  "en": "Vanilla Decoration"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.big_mushroom",
+  "en": "Big Mushroom"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.big_mushroom.tooltip",
+  "en": "Big Mushrooms"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.cactus",
+  "en": "Cactus"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.cactus.tooltip",
+  "en": "Cacti"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.desert_well",
+  "en": "Desert Well"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.fossil",
+  "en": "Fossil"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.fossil.tooltip",
+  "en": "Fossils"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.mineshaft",
+  "en": "Mineshaft"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.nether_bridge",
+  "en": "Nether Bridge Fortress"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.ocean_monument",
+  "en": "Ocean Monument"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.scattered_feature",
+  "en": "Scattered Feature"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.stronghold",
+  "en": "Stronghold"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.tree",
+  "en": "Tree"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.tree.tooltip",
+  "en": "Trees"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.decoration.types.village",
+  "en": "Village"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent",
+  "en": "Maze Component"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.exits",
+  "en": "Exits"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.mazeid",
+  "en": "Maze ID"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.path.invert",
+  "en": "Invert"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.path.side",
+  "en": "Side"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.position.x",
+  "en": "Position (x)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.position.y",
+  "en": "Position (y)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.position.z",
+  "en": "Position (z)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.reachability",
+  "en": "Reachability"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.rooms",
+  "en": "Rooms"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.mazeComponent.title",
+  "en": "In Maze: %s"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.natural",
+  "en": "Natural"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.natural.category",
+  "en": "Category"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.natural.limitation.context.dimension",
+  "en": "Per Dimension"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.natural.limitation.context.world",
+  "en": "Per World"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.natural.limitation.context.x_chunks",
+  "en": "Every X Chunks"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.natural.limitations",
+  "en": "Limitations"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.sapling",
+  "en": "Sapling"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.sapling.title",
+  "en": "Sapling"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static",
+  "en": "Static"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.pattern",
+  "en": "Pattern"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.pattern.repeat.x",
+  "en": "Repeat (x)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.pattern.repeat.z",
+  "en": "Repeat (y)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.pattern.rshift.x",
+  "en": "Random shift (x)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.pattern.rshift.z",
+  "en": "Random shift (z)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.spawn",
+  "en": "From Spawn"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.summary.nospawn",
+  "en": "At %s, %s"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.summary.pattern",
+  "en": "Every %s, %s blocks"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.static.summary.spawn",
+  "en": "From Spawn %s, %s"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.structureList",
+  "en": "Structure List"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.structureList.front",
+  "en": "Front"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.structureList.id",
+  "en": "List ID"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.structureList.title",
+  "en": "In List %s"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla",
+  "en": "In Structure"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla.amount.pervillage",
+  "en": "Amount (per v.)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla.amount.scaled",
+  "en": "Amount (scaled)"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla.front",
+  "en": "Front"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla.title",
+  "en": "In Complex Structure"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla.type",
+  "en": "Type"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.generationInfo.vanilla.type.village",
+  "en": "Village"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "reccomplex.preset.description",
+  "en": "Description"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.analog",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.booster",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.builder",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.coalgenerator",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.composer",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.counter",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.digit",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.elevator",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.endergenic",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.environmental_controller",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.infuser",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.invchecker",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.itemfilter",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.liquid_monitor",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.locator",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.pearl_injector",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.projector",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.relay",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.remote_scanner",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.rf_monitor",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.scanner",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.security_manager",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.sensor",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.sequencer",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.shiftmessage",
+  "en": "<Press Shift>"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.spawner",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.threelogic",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.timer",
+  "en": "\\"
+ },
+ {
+  "namespace": "rftools",
+  "key": "message.rftools.wire",
+  "en": "\\"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.disabled",
+  "en": "disabled"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.enabled",
+  "en": "enabled"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.fluxpack.engine_mode",
+  "en": "Fluxpack Engine %s"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.jetpack.charger_mode",
+  "en": "Charger Mode %s"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.jetpack.engine_mode",
+  "en": "Jetpack Engine %s"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.jetpack.hover_mode",
+  "en": "Hover Mode %s"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "chat.simplyjetpacks.not_available",
+  "en": "not available"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.chargerRate",
+  "en": "Charger Rate"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.charger_mode",
+  "en": "Charger Mode"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.disabled",
+  "en": "Disabled"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.enabled",
+  "en": "Enabled"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energy.infinite",
+  "en": "Infinite Energy"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energy.none",
+  "en": "None"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energyPerTick",
+  "en": "%s RF/t"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energyReceive",
+  "en": "Receive"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energySend",
+  "en": "Send"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energyUsage",
+  "en": "Energy Usage"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.energyWithMax",
+  "en": "%s/%s RF"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.holdShift.shift",
+  "en": "Shift"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.hover_mode",
+  "en": "Hover Mode"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.no",
+  "en": "No"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.off",
+  "en": "Off"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.on",
+  "en": "On"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.particles",
+  "en": "Particles"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.particles.0",
+  "en": "Default"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.particles.1",
+  "en": "None"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.particles.2",
+  "en": "Smoke"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.particles.3",
+  "en": "Rainbow"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.state",
+  "en": "State"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.tier",
+  "en": "Tier %d"
+ },
+ {
+  "namespace": "simplyjetpacks",
+  "key": "tooltip.simplyjetpacks.yes",
+  "en": "Yes"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.contentretained",
+  "en": "Contents Retained"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.craftitem",
+  "en": "Crafting item."
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.energy.capacity",
+  "en": "Capacity: %,d FE"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.energy.efficiency",
+  "en": "Efficiency: %,d%%"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.energy.generation",
+  "en": "Generation: %,d FE/tick"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.energy.stored1",
+  "en": "Stored: %,d FE"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.energy.stored2",
+  "en": "Stored: %,d/%,d FE"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.energy.transfer",
+  "en": "Transfer: %,d FE/tick"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.maximum",
+  "en": "Maximum"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.shift",
+  "en": "Shift"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.solar.panel.upgrade",
+  "en": "Solar panel upgrade"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.sun.intensity",
+  "en": "Light Level: %d%%"
+ },
+ {
+  "namespace": "solarflux",
+  "key": "info.solarflux.upgrades.installed",
+  "en": "Upgrades"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.buttonShieldBash",
+  "en": "Sneak + Left-Click"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.dev.unimplemented",
+  "en": "Not Yet Implemented!"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.feCapacity",
+  "en": "%,d/%,d FE"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.onBlock",
+  "en": "On Block: %s"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.protection",
+  "en": "Max Protection: %d"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.rfCapacity",
+  "en": "%,d/%,d RF"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields.uiCapacity",
+  "en": "%,d/%,d µI"
+ },
+ {
+  "namespace": "spartanshields",
+  "key": "tooltip.spartanshields:buttonShieldBash",
+  "en": "Left-Click"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "tooltip.thaumicenergistics.device_offline",
+  "en": "Device Offline"
+ },
+ {
+  "namespace": "thaumicenergistics",
+  "key": "tooltip.thaumicenergistics.device_online",
+  "en": "Device Online"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.capacitance",
+  "en": "Capacitance"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.duct.crafting",
+  "en": "Crafting Item."
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.duct.fluid",
+  "en": "Transfers Fluids."
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.duct.item",
+  "en": "Transfers Items."
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.duct.structure",
+  "en": "Provides Structure."
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.antiSpam.0",
+  "en": "Allow Over-sending"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.antiSpam.1",
+  "en": "Prevent Over-sending"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.metadata",
+  "en": "Metadata"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.metadata.off",
+  "en": "Use Metadata"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.metadata.on",
+  "en": "Ignore Metadata"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.modSorting",
+  "en": "Mod Owner"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.modSorting.off",
+  "en": "Use Mod Owner"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.modSorting.on",
+  "en": "Ignore Mod Owner"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.nbt",
+  "en": "NBT"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.nbt.off",
+  "en": "Use NBT"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.nbt.on",
+  "en": "Ignore NBT"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.options",
+  "en": "Filter Options"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.oreDict",
+  "en": "Ore Dictionary"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.oreDict.off",
+  "en": "Use Ore Dictionary"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.oreDict.on",
+  "en": "Ignore Ore Dictionary"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.routeType.0",
+  "en": "Nearest-First"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.routeType.1",
+  "en": "Furthest-First"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.routeType.2",
+  "en": "Random"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.routeType.3",
+  "en": "Round Robin"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.whiteList",
+  "en": "Blacklist"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.whiteList.off",
+  "en": "Whitelist"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.whiteList.on",
+  "en": "Blacklist"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.filter.zeroRetainSize",
+  "en": "Infinite"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.0",
+  "en": "Red"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.1",
+  "en": "Green"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.10",
+  "en": "Yellow"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.11",
+  "en": "Light Blue"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.12",
+  "en": "Magenta"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.13",
+  "en": "Orange"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.14",
+  "en": "White"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.15",
+  "en": "Black"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.2",
+  "en": "Brown"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.3",
+  "en": "Blue"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.4",
+  "en": "Purple"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.5",
+  "en": "Cyan"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.6",
+  "en": "Light Gray"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.7",
+  "en": "Gray"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.8",
+  "en": "Pink"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.color.9",
+  "en": "Lime"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.gridRS",
+  "en": "Duct Power"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.invert.0",
+  "en": "Scaled"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.invert.1",
+  "en": "Inverted Scaled"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.invert.2",
+  "en": "Threshold"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.invert.3",
+  "en": "Inverted Threshold"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.relayRS",
+  "en": "Relay Power"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.threshold",
+  "en": "Threshold >="
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.type.0",
+  "en": "Redstone Input"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.type.1",
+  "en": "Redstone Output"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.relay.type.2",
+  "en": "Comparator Input"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.servo.extractRate",
+  "en": "Extraction Rate"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.servo.maxStackSize",
+  "en": "Max Stack Size"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.servo.redstoneExt",
+  "en": "Requires Redstone Signal"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.servo.redstoneInt",
+  "en": "Internal Redstone Control"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.servo.speedBoost",
+  "en": "Speed Boost"
+ },
+ {
+  "namespace": "thermaldynamics",
+  "key": "info.thermaldynamics.transfer",
+  "en": "Transfer"
+ },
+ {
+  "namespace": "universaltweaks",
+  "key": "msg.universaltweaks.cheats.disabled",
+  "en": "Cheats are now §cdisabled"
+ },
+ {
+  "namespace": "universaltweaks",
+  "key": "msg.universaltweaks.cheats.enabled",
+  "en": "Cheats are now §aenabled"
+ },
+ {
+  "namespace": "universaltweaks",
+  "key": "msg.universaltweaks.sleep.disabled",
+  "en": "Sleeping is disabled"
+ },
+ {
+  "namespace": "universaltweaks",
+  "key": "msg.universaltweaks.sleep.spawnpoint",
+  "en": "Spawn point set"
+ },
+ {
+  "namespace": "universaltweaks",
+  "key": "msg.universaltweaks.tweaks.pickupnotification.xp",
+  "en": "Experience"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "info.valkyrielib.assembled",
+  "en": "Assembled"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "info.valkyrielib.duration",
+  "en": "Duration"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "info.valkyrielib.forinfo",
+  "en": "For Info"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "info.valkyrielib.owner",
+  "en": "Owner"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "info.valkyrielib.shift",
+  "en": "SHIFT"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "tooltip.valkyrielib.shiftmoreinfo",
+  "en": "Hold Shift"
+ },
+ {
+  "namespace": "valkyrielib",
+  "key": "tooltip.valkyrielib.witherproof",
+  "en": "Wither Proof"
+ },
+ {
+  "namespace": "waila",
+  "key": "client.msg.norecipe",
+  "en": "No recipe found."
+ },
+ {
+  "namespace": "waila",
+  "key": "client.msg.nousage",
+  "en": "No usage found."
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.career",
+  "en": "Career: %s"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.comparator",
+  "en": "Comparator"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.delay",
+  "en": "Delay"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.demands",
+  "en": "Demands"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.empty",
+  "en": "<Empty>"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.growth",
+  "en": "Growth"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.growth.value",
+  "en": "%.0f %%"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.health",
+  "en": "Health"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.mature",
+  "en": "Mature"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.off",
+  "en": "Off"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.offers",
+  "en": "Offers"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.on",
+  "en": "On"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.power",
+  "en": "Power"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.record",
+  "en": "Record"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.state",
+  "en": "State"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.substractor",
+  "en": "Substractor"
+ },
+ {
+  "namespace": "waila",
+  "key": "hud.msg.toomuch",
+  "en": "Too many..."
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.axe",
+  "en": "Axe"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.block",
+  "en": "Block"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.chest",
+  "en": "Chest"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.chisel",
+  "en": "Chisel"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.crowbar",
+  "en": "Crowbar"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.adulttime",
+  "en": "Adulthood"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.nexttime",
+  "en": "Next stage"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.stage",
+  "en": "Stage"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.stage.adult",
+  "en": "Adult"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.stage.egg",
+  "en": "Egg"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.stage.hatchling",
+  "en": "Hatchling"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.dragonmounts.stage.juvenile",
+  "en": "Juvenile"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.enchPower",
+  "en": "Enchanting Power"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.enchdesc.addedby",
+  "en": "Added by"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.enchdesc.name",
+  "en": "Enchantment"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.false",
+  "en": "§4False"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.feet",
+  "en": "Feet"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.armor",
+  "en": "Armor"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.blastresist",
+  "en": "Blast Resist"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.breedingitem",
+  "en": "Breedable"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.breedingtime",
+  "en": "Breeding Cooldown"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.enchpower",
+  "en": "Enchant Power"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.growingage",
+  "en": "Growing Cooldown"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.hardness",
+  "en": "Hardness"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.harvestable",
+  "en": "Harvestable"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.progression",
+  "en": "Progression"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.showtier",
+  "en": "Tier"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.sitting",
+  "en": "Sitting"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.tamed",
+  "en": "Tamed"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.generic.tooltype",
+  "en": "Tool"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.head",
+  "en": "Head"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.item",
+  "en": "Item"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.legs",
+  "en": "Legs"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.mainhand",
+  "en": "Main Hand"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.name",
+  "en": "Name"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.no",
+  "en": "§4✖"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.offhand",
+  "en": "Off Hand"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.pickaxe",
+  "en": "Pickaxe"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.scoop",
+  "en": "Scoop"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.shovel",
+  "en": "Shovel"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.star",
+  "en": "★"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.sword",
+  "en": "Sword"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.true",
+  "en": "§aTrue"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.burntime",
+  "en": "Burn Time"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.career",
+  "en": "Career"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.experience",
+  "en": "Experience"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.fuel",
+  "en": "Fuel"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.fuse",
+  "en": "Fuse"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.input",
+  "en": "Input"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.vanilla.output",
+  "en": "Output"
+ },
+ {
+  "namespace": "wawla",
+  "key": "tooltip.wawla.yes",
+  "en": "§a✔"
+ }
+]

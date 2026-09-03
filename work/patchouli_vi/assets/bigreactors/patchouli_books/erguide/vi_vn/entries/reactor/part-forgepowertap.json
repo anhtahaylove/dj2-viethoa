@@ -1,0 +1,29 @@
+{
+  "name": "Redstone Flux Power Tap",
+  "icon": "bigreactors:reactorpowertaprf",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reactorpowertaprf",
+      "link_recipe": true,
+      "title": "Redstone Flux Power Tap",
+      "text": "Redstone Flux Power Tap cho phép bạn lấy năng lượng từ Reactor được $(l:reactor/passive)làm mát thụ động$(/l).$(br2)Power Tap này có thể xuất năng lượng qua các $(l:misc/powersystem)hệ thống năng lượng$(/l) Redstone Flux hoặc Forge Energy và chỉ có thể kết nối với đường ống hoặc máy móc tương thích với các hệ thống đó."
+    },
+    {
+      "type": "text",
+      "text": "Chỉ có thể dùng một loại Power Tap để xây dựng một Reactor."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:reactorpowertaprf",
+      "title": "Redstone Flux Power Tap"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mọi mặt (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không$(br)$(l)Hệ thống năng lượng:$() Redstone Flux và Forge Energy"
+    }
+  ]
+}

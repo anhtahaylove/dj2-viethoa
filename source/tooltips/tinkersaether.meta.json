@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "tinkersaether-1.4.1.jar",
+      "path": "assets/tinkersaether/lang/en_us.lang"
+    }
+  ]
+}

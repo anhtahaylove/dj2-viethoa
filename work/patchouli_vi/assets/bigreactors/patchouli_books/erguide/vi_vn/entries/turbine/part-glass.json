@@ -1,0 +1,25 @@
+{
+  "name": "Glass",
+  "icon": "bigreactors:turbineglass",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbineglass",
+      "link_recipe": true,
+      "title": "Glass",
+      "text": "Glass là khối trang trí có thể dùng thay cho khối $(l:turbine/part-casing)Housing$(/l) để quan sát bên trong Turbine."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bigreactors:turbineglass_vanillaglass",
+      "title": "Glass"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() không$(br)$(l)Vị trí hợp lệ:$() mặt bất kỳ (không nằm trên khung)$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

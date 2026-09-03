@@ -1,0 +1,5 @@
+enderstorage.command.no_arguments=Invalid number of arguments
+enderstorage.command.no_colour=Invalid color: %s
+enderstorage.command.no_freq=Invalid freq
+enderstorage.command.usage=enderstorage <freq>|(<colour> <colour> <colour>) [owner]
+enderstorage.serverop=Operator

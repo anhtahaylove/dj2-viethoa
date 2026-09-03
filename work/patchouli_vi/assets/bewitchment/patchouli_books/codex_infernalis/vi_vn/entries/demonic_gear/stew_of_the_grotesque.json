@@ -1,0 +1,16 @@
+{
+  "name": "Stew of the Grotesque",
+  "category": "demonic_gear",
+  "icon": "bewitchment:stew_of_the_grotesque",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một hỗn hợp ghê tởm gồm nước dùng lưu huỳnh nóng bỏng, vài loài cây có đặc tính độc đáo và nhiều miếng… tốt nhất đừng nên hỏi. Uống thứ nước kinh tởm này trước mặt những con quỷ hùng mạnh sẽ chứng tỏ lòng trung thành của bạn, khiến chúng công nhận bạn xứng đáng được chia sẻ một phần sức mạnh của chúng."
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:stew_of_the_grotesque",
+      "text": "Khi ở trong một coven, chỉ một thành viên cần uống hỗn hợp này để cả coven có thể tiếp cận sức mạnh của con quỷ."
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "chapter_index": 5,
+  "title_key": "dj2.quest.ql.5.title",
+  "chapter_title_en": "8. Exploration III",
+  "desc_key": "dj2.quest.ql.5.desc",
+  "chapter_desc_en": "Float through the Aether, freeze in Iceika, conquer the End, and fade in the Deep Dark.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.5.title",
+      "en": "8. Exploration III"
+    },
+    {
+      "key": "dj2.quest.ql.5.desc",
+      "en": "Float through the Aether, freeze in Iceika, conquer the End, and fade in the Deep Dark."
+    },
+    {
+      "key": "dj2.quest.db.1092.title",
+      "en": "Purple Aura"
+    },
+    {
+      "key": "dj2.quest.db.1092.desc",
+      "en": "Combine some Skyroot Remedy, Aechor Petal, Enchanted Gravitite, Aerogel & some Purple Dye to create this gooey material..."
+    },
+    {
+      "key": "dj2.quest.db.1093.title",
+      "en": "It's REALLY aching now..."
+    },
+    {
+      "key": "dj2.quest.db.1093.desc",
+      "en": "Once you've emptied an Aechor Plant, defeat it for its drop, the Aechor Petal!"
+    },
+    {
+      "key": "dj2.quest.db.1094.title",
+      "en": "You are the Remedyyy"
+    },
+    {
+      "key": "dj2.quest.db.1094.desc",
+      "en": "Enchant your Skyroot Poison Bucket into a Skyroot Remedy Bucket! You can drink this to clear any Poison effect from yourself, or use it for crafting.%n%nNote that it might take multiple Ambrosium Shards to fully craft this, so just keep a stack of them in the fuel slot."
+    },
+    {
+      "key": "dj2.quest.db.1095.title",
+      "en": "You're hot then you're cold"
+    },
+    {
+      "key": "dj2.quest.db.1095.desc",
+      "en": "Place some Lava in the Aether! It'll immediately freeze into Aerogel which you can mine up...%n%n§6Note:§r Later you'll need to automate this. You can use any fluid placer or a dispenser to automate it now, or later on you get access to mechanical users which can make Aerogel too.%n%n'Cause you're hot then you're cold,%nYou're yes then you're no,%nYou're in then you're out,%nYou're up then you're down,%nYou're wrong when it's right,%nIt's black and it's white,%nWe fight, we break up,%nTurn Lava to Ice!"
+    },
+    {
+      "key": "dj2.quest.db.1096.title",
+      "en": "Pink Power!"
+    },
+    {
+      "key": "dj2.quest.db.1096.desc",
+      "en": "Create some Enchanted Gravitite Blocks using your Altar! Placing one of these blocks below the Altar will make it work twice as fast and use half as many Ambrosium Shards."
+    },
+    {
+      "key": "dj2.quest.db.1097.title",
+      "en": "Ice ee you!"
+    },
+    {
+      "key": "dj2.quest.db.1097.desc",
+      "en": "Find some Workshop Lamps spawning in small groups on some Coalstone Pillars!"
+    },
+    {
+      "key": "dj2.quest.db.1098.title",
+      "en": "It's Christmas time already?!"
+    },
+    {
+      "key": "dj2.quest.db.1098.desc",
+      "en": "Craft a Snow Globe to enter Iceika! Build a portal out of Snow Blocks in the shape of a regular Nether Portal (with a 2x3 inner area). Then light the portal with your Snow Globe!"
+    },
+    {
+      "key": "dj2.quest.db.1099.title",
+      "en": "It's aching...! For the plant."
+    },
+    {
+      "key": "dj2.quest.db.1099.desc",
+      "en": "Find some Aechor Plants that randomly spawn on the surface of Aether islands! They have light cyan petals and usually spawn in small groups. Watch out, once you get close, they'll shoot poison darts at you. Once you get close, Right Click on them with your Skyroot Bucket to obtain Skyroot Poison. Each Plant can be Right Clicked on several times before they run out of Poison. Make sure to collect a lot of it."
+    },
+    {
+      "key": "dj2.quest.db.1100.title",
+      "en": "The result of your work"
+    },
+    {
+      "key": "dj2.quest.db.1100.desc",
+      "en": "Now that you have defeated all three Aether bosses, you can craft an Altar! Note that the Aether Power Core has 64 durability, so you can craft up to a stack of Enchanters. Just like the Freezer, this machine also accepts inputs pushed in through any side or the top, and you can pull out the result from the bottom. However, if you don't want to automate it yet, it might be smarter to put an Enchanted Gravitite Block below the machine. This way it'll work twice as fast and use half the Ambrosium Shards."
+    },
+    {
+      "key": "dj2.quest.db.1101.title",
+      "en": "Its periodic symbol is Dr"
+    },
+    {
+      "key": "dj2.quest.db.1101.desc",
+      "en": "Though Draconium Ore is available in other dimensions, it's in much greater quantity in the End. It can be found on the Main Island, Outer End Islands & End Comets. Mine up some of it!"
+    },
+    {
+      "key": "dj2.quest.db.1102.title",
+      "en": "Get to the End already!"
+    },
+    {
+      "key": "dj2.quest.db.1102.desc",
+      "en": "Let the Eyes of Ender guide you to the End Portal! Activate it and enter it...%n%nThough I thought I didn't have to tell you this... Aren't you a professional Minecraft player?!%n%nThe rewarded bottles are to collect Dragon's Breath. Don't forget to nab some!"
+    },
+    {
+      "key": "dj2.quest.db.1103.title",
+      "en": "Ice lay them!"
+    },
+    {
+      "key": "dj2.quest.db.1103.desc",
+      "en": "Slay some of the creatures in Iceika to obtain their precious Ice Shards!"
+    },
+    {
+      "key": "dj2.quest.db.1104.title",
+      "en": "Fancy jewelry"
+    },
+    {
+      "key": "dj2.quest.db.1104.desc",
+      "en": "Craft Steel or Golden Rings and Pendants and turn them into Ice Rings and Pendants in your Freezer!"
+    },
+    {
+      "key": "dj2.quest.db.1105.title",
+      "en": "A compact refrigerator"
+    },
+    {
+      "key": "dj2.quest.db.1105.desc",
+      "en": "Craft an Aether Freezer! Fuel it with Icestone, and if you want to automate it, insert items from any side or top, and pull the result from the bottom using a Hopper!"
+    },
+    {
+      "key": "dj2.quest.db.1106.title",
+      "en": "Fly like a... fly!"
+    },
+    {
+      "key": "dj2.quest.db.1106.desc",
+      "en": "After you've defeated the Ender Dragon, travel to the End Isles, find an End City, and loot the Elytra!"
+    },
+    {
+      "key": "dj2.quest.db.1107.title",
+      "en": "Egg-tually useful"
+    },
+    {
+      "key": "dj2.quest.db.1107.desc",
+      "en": "After you've defeated the Ender Drakyboo, collect the Dragon Egg! What could be inside...!?"
+    },
+    {
+      "key": "dj2.quest.db.1108.title",
+      "en": "Pet it until it explodes!"
+    },
+    {
+      "key": "dj2.quest.db.1108.desc",
+      "en": "After entering the End, you might have noticed this cute black drakyboo flapping around in the sky. Now, your job is to keep petting it until its Health Bar decreases to basically none and it releases cool shiny purple rays 'n stuff.%n%nThen collect its Dragon Heart. Easy peasy!"
+    },
+    {
+      "key": "dj2.quest.db.1109.title",
+      "en": "Hallelujah! It's rainin' amber!"
+    },
+    {
+      "key": "dj2.quest.db.1109.desc",
+      "en": "Craft a Gravitite or Valkyrie Axe and break some Golden Oak Tree logs to obtain some Golden Amber!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nIt's raining amber! Hallelujah!%nIt's raining amber! Amen!%nI'm gonna go out to run and let myself get%nAbsolutely soaking weeeeet!%n%nIt's raining amber! Hallelujah!%nIt's raining amber! Every specimen!%nTall, blonde, dark, and lean%nRough and tough and strong and meeeeaaaan!"
+    },
+    {
+      "key": "dj2.quest.db.1110.title",
+      "en": "Treasures of the Aether"
+    },
+    {
+      "key": "dj2.quest.db.1110.desc",
+      "en": "Dig up some Zanite Gemstones, Ambrosium Shards, and Gravitite Ore from the Aether underground! Watch out for Gravitite Ores... they float."
+    },
+    {
+      "key": "dj2.quest.db.1111.title",
+      "en": "GP comin' at ya"
+    },
+    {
+      "key": "dj2.quest.db.1111.desc",
+      "en": "Create some GP Powder from your Festive Powder, then duplicate it via crafting!%n%nYou can later automate the duplication recipe with a single RFTools Crafter. Setup 2 recipes for crafting GP Powder, one on Keep/Int, the other on Keep/ExtC. Fill the bottom two rows with the duplication ingredients, and leave 1 slot for GP Powder. Once all of these ingredients are in place, hit \"R\" to make the machine remember where the items should go. The slot with GP Powder will stay on 63 GP Powder at all times, and the rest will go in the output slot. Now you just need to pump in the ingredients and pump out the GP Powder (no need for a filter)!"
+    },
+    {
+      "key": "dj2.quest.db.1112.title",
+      "en": "No more Christmas!"
+    },
+    {
+      "key": "dj2.quest.db.1112.desc",
+      "en": "The Santa Armor set is great and all, but Christmas time is nearing its end... But hey, maybe you can reuse your Santa gear for something else...?%n%nLook up the steps for crafting some Festive Powder in JEI, and create some!"
+    },
+    {
+      "key": "dj2.quest.db.1113.title",
+      "en": "Roots in the Sky"
+    },
+    {
+      "key": "dj2.quest.db.1113.desc",
+      "en": "Chop some Golden Oak or Skyroot Trees and craft up some Skyroot Buckets!"
+    },
+    {
+      "key": "dj2.quest.db.1114.title",
+      "en": "Land in the Skies"
+    },
+    {
+      "key": "dj2.quest.db.1114.desc",
+      "en": "Create a portal frame out of Glowstone Blocks with an inner area of 2x3 blocks (just like a simple Nether Portal), then activate it with a Water Bucket. To actually enter the Aether, you'll need to Right Click onto an Aether Portal block with the Crown of Skies. This will grant you access to the Aether forever, through any Aether portal.%n%nOnce you have entered the dimension, get your Book of Lore from the quest reward. This is a useful tool for checking what each Aether item and block does. Simply place the item/block inside the book to get a short description for it.%n%nFinally, don't worry about falling off an island - just like all other dimensions, you'll just wrap around and be teleported to the top of the world! If you have Slime Boots on, this shouldn't be an issue."
+    },
+    {
+      "key": "dj2.quest.db.1115.title",
+      "en": "Dig & Fight!"
+    },
+    {
+      "key": "dj2.quest.db.1115.desc",
+      "en": "Find a dungeon underground in Iceika! They spawn quite commonly, uniformly on any height level. Consider using the Roots Augment Spell modified with Light Drifter to help you find a dungeon. Find a dungeon chest and loot some of the Snowflakes and Snowflake Shurikens that are inside. You can either use the Shurikens for damage or craft them into more Snowflakes!"
+    },
+    {
+      "key": "dj2.quest.db.1116.title",
+      "en": "Toothbreaker"
+    },
+    {
+      "key": "dj2.quest.db.1116.desc",
+      "en": "Fold some Gold in the Enchanted Berries! Unfortunately this will get rid of the great taste and make it inedible though..."
+    },
+    {
+      "key": "dj2.quest.db.1117.title",
+      "en": "Makes it taste waaay better!"
+    },
+    {
+      "key": "dj2.quest.db.1117.desc",
+      "en": "Enchant some Blueberries in your Enchanter. 100%% guaranteed better taste!"
+    },
+    {
+      "key": "dj2.quest.db.1118.title",
+      "en": "Very peculiar"
+    },
+    {
+      "key": "dj2.quest.db.1118.desc",
+      "en": "\"I sold 'er to an older!\""
+    },
+    {
+      "key": "dj2.quest.db.1119.title",
+      "en": "Cavez++"
+    },
+    {
+      "key": "dj2.quest.db.1119.desc",
+      "en": "Craft a Portal to the Deep Dark! This is a mining world, so it's the best place to set up your Quarry with some kind of item teleportation back to your base. You'll also need to send it power.%nBut make sure to bring torches or some kind of lighting, because the darkness inside the dimension will constantly damage you!"
+    },
+    {
+      "key": "dj2.quest.db.1121.title",
+      "en": "Our Ore Hour!"
+    },
+    {
+      "key": "dj2.quest.db.1121.desc",
+      "en": "Mine up some Resonant End Stone to obtain Resonant Clathrate! This is used for Applied Energistics Fluid Storage Cells and Fluid-related items."
+    },
+    {
+      "key": "dj2.quest.db.1122.title",
+      "en": "Fruit of the vocalists"
+    },
+    {
+      "key": "dj2.quest.db.1122.desc",
+      "en": "Travel to the End Islands and punch a Chorus Plant to obtain a bunch of Chorus Fruit! Build yourself up higher to obtain some Chorus Flowers!"
+    },
+    {
+      "key": "dj2.quest.db.1123.title",
+      "en": "Jingle!"
+    },
+    {
+      "key": "dj2.quest.db.1123.desc",
+      "en": "Combine Enchanted Golden Berries and Lead Rods into Stems then ultimately a Necklace. Fancy!"
+    },
+    {
+      "key": "dj2.quest.db.1124.title",
+      "en": "The Silver Dungeon"
+    },
+    {
+      "key": "dj2.quest.db.1124.desc",
+      "en": "Find a huge cathedral floating in the sky! This is the Silver Dungeon. Enter it and defeat at least 10 Valkyries. They'll each drop a Victory Medal. Then work your way to the final room, located on the opposite side of the main entrance. You'll find the Valkyrie Queen inside, who you can only challenge if you Right Click on her with 10 Victory Medals, to show that you are worthy to fight her.%n%nShe can teleport around and turn invisible during the fight, and send out area of effect orbs that damage the player. It's recommended to constantly push her away, or use building blocks to give you a temporary hiding place to heal up.%n%nWhen defeated, she'll drop a Silver Key. Using this you can unlock the Silver Treasure Chest to earn a Silver Aether Coin and a bunch of Valkyrie Metal."
+    },
+    {
+      "key": "dj2.quest.db.1125.title",
+      "en": "Aether's delight"
+    },
+    {
+      "key": "dj2.quest.db.1125.desc",
+      "en": "Find some Blueberry Bushes! Break them to obtain their Berry. If you want to relocate them, break them again."
+    },
+    {
+      "key": "dj2.quest.db.1126.title",
+      "en": "Brrr, it's cold, don't touch it"
+    },
+    {
+      "key": "dj2.quest.db.1126.desc",
+      "en": "Find some Icestone underground in the Aether! It's about as rare as Iron Ore in the overworld but spawns in larger veins."
+    },
+    {
+      "key": "dj2.quest.db.1127.title",
+      "en": "( ( O ) )"
+    },
+    {
+      "key": "dj2.quest.db.1127.desc",
+      "en": "It resonates with great power... THIS must be the source of energy...!"
+    },
+    {
+      "key": "dj2.quest.db.1128.title",
+      "en": "Roll 'em down"
+    },
+    {
+      "key": "dj2.quest.db.1128.desc",
+      "en": "Enchant some Holystone to create some Healing Stones! They can be eaten to gain Regeneration I for half a minute. Or you can use them to progress further..."
+    },
+    {
+      "key": "dj2.quest.db.1129.title",
+      "en": "No need for Coal, it's built in!"
+    },
+    {
+      "key": "dj2.quest.db.1129.desc",
+      "en": "Obtain a Coalstone Furnace from Villager houses in Iceika! Although these Furnaces cook slowly, they don't require any fuel to function."
+    },
+    {
+      "key": "dj2.quest.db.1130.title",
+      "en": "The Bronze Dungeon"
+    },
+    {
+      "key": "dj2.quest.db.1130.desc",
+      "en": "Find an opening on the side of a larger Aether island! You'll know if you've found a Bronze Dungeon, if the walls are made out of Carved Stone. Get to the end and awaken the Slider! This boss slides on walls and can only be damaged with a Pickaxe. Make sure to bring some Health Potions, Golden Apples, and good armor to the fight, because this boss can be pretty tough!%n%nOnce you've defeated the Slider, it'll drop a Bronze Key. Open the reward chest to find one Bronze Aether Coin inside!"
+    },
+    {
+      "key": "dj2.quest.db.1131.title",
+      "en": "Spew! Spew! Fill! Fill!"
+    },
+    {
+      "key": "dj2.quest.db.1131.desc",
+      "en": "During your Ender Dragon petting mission, collect some Dragon's Breath!%n%nIf you missed the opportunity to do so, you can resummon the Ender Dragon with 4 End Crystals on either side of the portal.%n%nIf you're having trouble collecting some because of Botania's Ender Air Bottles, try the following: Do NOT Right Click on blocks, instead, angle your clicks so you only reach the purple Dragon's Breath particles, and NOT the blocks below."
+    },
+    {
+      "key": "dj2.quest.db.1132.title",
+      "en": "The most frustrating boss"
+    },
+    {
+      "key": "dj2.quest.db.1132.desc",
+      "en": "Find a smaller floating island covered with Golden Oak Trees and the Gold Dungeon inside, with only one boss: the Sun Spirit. To initiate the fight, you'll need to talk to him several times... but you might want to prepare first.%n%nIf you've never done this fight before, this might take you a while, depending on how good your aim is. So prepare with multiple Fire Resistance and Healing Potions.%n%nFirstly, you cannot damage this boss with any regularly obtainable weapon or projectile, you can only damage it with projectiles called \"Icey Balls\" that randomly spawn from the Sun Spirit during the fight. However, both the boss and the iceballs randomly bounce around, which makes it hard to hit the iceballs into the Sun Spirit. Also, you can't wait too long, the iceballs will break a short time after spawning. Meanwhile, Fire Ball projectiles will also spawn and bounce around in the room. Make sure that neither the boss, nor the Fire Balls hit you. But especially watch out for the boss, as it deals a lot of damage on contact.%n%nYou'll need to hit iceballs into the Sun Spirit 10 times to defeat it. Once you've successfully done so, it'll drop a Golden Key. Open the Treasure Chest that appeared to obtain the Golden Aether Coin!"
+    },
+    {
+      "key": "dj2.quest.db.1133.title",
+      "en": "I Valk-ed right into them"
+    },
+    {
+      "key": "dj2.quest.db.1133.desc",
+      "en": "Obtain some Valkyrie Metal Ingots and Nuggets from Silver Dungeon Chests!"
+    },
+    {
+      "key": "dj2.quest.db.1135.title",
+      "en": "Ho-ho-ho!"
+    },
+    {
+      "key": "dj2.quest.db.1135.desc",
+      "en": "Find a Village house in Iceika! Enter it (you can open the Steel Door with a Right Click, no need to bust in by breaking it). Find the Workshop Merchant (red NPC) and trade some Snowflakes for the full set of Santa Armor!"
+    }
+  ]
+}

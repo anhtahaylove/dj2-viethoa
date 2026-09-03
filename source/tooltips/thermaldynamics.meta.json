@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+      "path": "assets/thermaldynamics/lang/en_US.lang"
+    }
+  ]
+}

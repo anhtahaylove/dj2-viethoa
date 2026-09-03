@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "demagnetize-1.12.2-1.1.2.jar",
+      "path": "assets/demagnetize/lang/en_US.lang"
+    }
+  ]
+}

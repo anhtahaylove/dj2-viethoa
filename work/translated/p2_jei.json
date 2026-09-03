@@ -1,0 +1,22 @@
+{
+  "jei.tooltip.config": "Cấu hình JEI",
+  "jei.tooltip.show.recipes": "Hiển thị công thức",
+  "jei.tooltip.delete.item": "Nhấp để xóa",
+  "jei.tooltip.liquid.amount": "%,d mB",
+  "jei.tooltip.transfer": "Di chuyển vật phẩm",
+  "jei.tooltip.item.colors": "Màu sắc: %s",
+  "jei.tooltip.shapeless.recipe": "Công thức vô định hình",
+  "jei.tooltip.bookmarks": "Dấu trang JEI",
+  "jei.tooltip.error.recipe.transfer.missing": "Thiếu vật phẩm",
+  "key.jei.toggleOverlay": "Hiện/ẩn JEI",
+  "key.jei.focusSearch": "Chọn thanh tìm kiếm",
+  "key.jei.showRecipe": "Hiển thị công thức",
+  "key.jei.showUses": "Hiển thị cách sử dụng",
+  "key.jei.recipeBack": "Hiển thị công thức đã xem trước đó",
+  "key.jei.toggleCheatMode": "Bật/tắt chế độ gian lận",
+  "key.jei.toggleEditMode": "Bật/tắt chế độ ẩn/chỉnh sửa",
+  "key.jei.previousPage": "Hiển thị trang trước",
+  "key.jei.nextPage": "Hiển thị trang tiếp theo",
+  "key.jei.bookmark": "Thêm/xóa nguyên liệu khỏi dấu trang",
+  "key.jei.toggleBookmarkOverlay": "Hiện/ẩn nguyên liệu đã đánh dấu"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Imp",
+  "category": "lesser_demons",
+  "icon": "bewitchment:heart",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Imp là những ác quỷ cấp thấp, thường phục vụ một lãnh chúa ma quỷ và là nền tảng của xã hội ác quỷ. Chúng là loại lesser demon phổ biến nhất có chút trí tuệ, gần tương đương với tầng lớp nông dân của ác quỷ."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:imp",
+      "scale": 0.75
+    },
+    {
+      "type": "text",
+      "title": "Triệu hồi",
+      "text": "Triệu hồi một Imp, một loại ác quỷ nhỏ. Cũng phải đổ máu gà trong vòng tròn để thỏa mãn Imp và bắt đầu nghi lễ."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:conjure_imp",
+      "name": "Conjure Imp"
+    }
+  ]
+}

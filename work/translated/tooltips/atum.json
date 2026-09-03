@@ -1,0 +1,9 @@
+{
+  "chat.atum.disabled": "Tính năng tạo cổng Scarab đã bị vô hiệu hóa",
+  "chat.atum.enemies": "Có quá nhiều kẻ địch ở gần nên không thể lục chiếc rương này",
+  "chat.atum.summonPharaoh": "được triệu hồi bởi",
+  "chat.atum.killPharaoh": "bị giết bởi",
+  "chat.atum.cannotSpawnPharaoh": "Pharaoh trở mình trong sarcophagus",
+  "chat.atum.water.evaporated": "Nước trong vật chứa của bạn đã bốc hơi",
+  "chat.atum.spinningWheel.recipeInProgress": "Spinning Wheel đã chứa nguyên liệu đầu vào (%s)"
+}

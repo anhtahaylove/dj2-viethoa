@@ -1,0 +1,25 @@
+{
+  "modifier": "luck",
+  "text": [
+    {
+      "text": "Khảm lapis lên công cụ là lễ vật dành cho các vị thần may mắn. Họ sẽ ban cho công cụ của bạn Fortune lớn và nhiều chiến lợi phẩm."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Với vũ khí tầm xa, nó phải nằm trên vật phóng."
+    }
+  ],
+  "effects": [
+    "Adds fortune or looting",
+    "Dùng tool có cơ hội tăng độ may mắn",
+    "Adding more lapis only uses one modifier",
+    "Không tương thích với Silky"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

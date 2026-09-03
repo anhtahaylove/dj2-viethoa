@@ -1,0 +1,70 @@
+{
+  "name": "Wildroot Growth",
+  "icon": "roots:ritual_wildroot_growth",
+  "category": "rituals",
+  "read_by_default": true,
+  "flag": "roots:ritual_wildroot_growth",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Ẩn chứa trong $(l:herbs/wildroot)wildroot$() là ký ức về cái cây mà nó từng là một phần.$(br2)Nghi lễ này khai thác ký ức đó, giải phóng sức mạnh để mọc nên một cây wildwood lớn.$(br2)$(info) Lá cây Wildwood rơi ra wildroot thay vì cây non.$(br2)$(warning) Cần có một cây wildroot đã trưởng thành hoàn toàn ở gần."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_wildroot_growth",
+      "text": "Vì là nghi lễ $(l:rituals/tiers)$(bold)bậc I$(), nghi lễ này $(l:rituals/ritual_wildroot_growth#multiblock)yêu cầu một cây wildroot đã trưởng thành hoàn toàn$()."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "C": "roots:wildroot_crop[age=7]"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            " C 0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Nghi lễ cần một cây wildroot đã trưởng thành hoàn toàn để mọc thành cây."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời lượng:$() Nghi lễ kéo dài $(ritual:wildroot_growth/SECONDS/duration) giây và sau $(ritual:wildroot_growth/SECONDS/interval) giây, nó sẽ cố mọc một cái cây từ cây wildroot đã trưởng thành hoàn toàn ở gần.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ tìm cây trồng trong khu vực rộng $(ritual:wildroot_growth/radius_x) và $(ritual:wildroot_growth/radius_z) khối theo chiều ngang, cùng $(ritual:wildroot_growth/radius_y) khối theo chiều dọc."
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "resources/wildwood",
+        "herbs/wildroot"
+      ]
+    }
+  ]
+}

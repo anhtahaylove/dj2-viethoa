@@ -1,0 +1,25 @@
+{
+  "name": "Housing",
+  "icon": "bigreactors:turbinehousing",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:turbinehousing",
+      "link_recipe": true,
+      "title": "Housing",
+      "text": "Housing là khối xây dựng cơ bản của Turbine.$(br2)Chúng cần thiết để dựng khung, đỡ $(l:turbine/rotor)Rotor$(/l) và cũng được dùng để chế tạo các bộ phận khác. Bạn cũng có thể dùng Housing để lấp các mặt của Turbine nếu không thích dùng quá nhiều kính.$(br2)Bạn sẽ phải chế tạo rất nhiều khối này."
+    },
+    {
+      "type": "crafting",
+      "recipe2": "bigreactors:turbinehousing",
+      "title": "Housing"
+    },
+    {
+      "type": "part_usage",
+      "text": "$(l)Bắt buộc:$() cần để dựng khung và $(l:turbine/rotor)Rotor$(/l)$(br)$(l)Vị trí hợp lệ:$() bất kỳ$(br)$(l)Giao diện đồ họa:$() không"
+    }
+  ]
+}

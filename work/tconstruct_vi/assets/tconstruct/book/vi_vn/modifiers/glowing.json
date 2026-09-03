@@ -1,0 +1,17 @@
+{
+  "modifier": "glowing",
+  "text": [
+    {
+      "text": "Một ít glowstone và một ender eye ma thuật. Rõ ràng là nó có thể cảm nhận mức ánh sáng."
+    }
+  ],
+  "effects": [
+    "Đặt một nguồn sáng khi độ sáng xuống thấp",
+    "Costs durability"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer",
+    "tconstruct:broadsword"
+  ]
+}

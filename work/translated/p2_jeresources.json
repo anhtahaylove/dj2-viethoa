@@ -1,0 +1,20 @@
+{
+  "jer.config.itemsPerColumn.title": "Số vật phẩm mỗi cột",
+  "jer.config.itemsPerColumn.description": "Thay đổi số lượng vật phẩm mỗi cột trong giao diện hầm ngục và sinh vật của JEI",
+  "jer.config.itemsPerRow.title": "Số vật phẩm mỗi hàng",
+  "jer.config.itemsPerRow.description": "Thay đổi số lượng vật phẩm mỗi hàng trong giao diện hầm ngục của JEI",
+  "jer.config.enchantsBlacklist.title": "Danh sách đen phù phép",
+  "jer.config.enchantsBlacklist.description": "Loại các phù phép trong danh sách đen khỏi giao diện phù phép của JEI",
+  "jer.config.diyData.title": "Sử dụng dữ liệu DIY trong các giao diện",
+  "jer.config.diyData.description": "Mã tương thích tích hợp sẽ không được tải và các tệp JSON sẽ được tải (cần khởi động lại MC)",
+  "jer.config.dimensionsBlacklist.title": "Danh sách đen chiều không gian",
+  "jer.config.dimensionsBlacklist.description": "Loại các chiều không gian trong danh sách đen khỏi quá trình quét phân tích của JEI",
+  "jer.config.showDevData.title": "Hiển thị thông tin bổ sung",
+  "jer.config.showDevData.description": "Chủ yếu dành cho nhà phát triển modpack. Các tính năng bao gồm nhưng không giới hạn ở số khối trung bình mỗi chunk, ID thực thể, ...",
+  "jer.config.hiddenTabs.title": "Ẩn các thẻ do JER thêm vào",
+  "jer.page": "Trang",
+  "jer.of": "trên",
+  "jer.stacks": "%s chồng",
+  "jer.lightLevel": "Mức ánh sáng",
+  "jer.dim.no": "Không có chiều không gian sinh ra hợp lệ"
+}

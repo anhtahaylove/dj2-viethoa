@@ -1,0 +1,526 @@
+0|A rod to create cobble
+1|Hatch your own animals
+2|Stronger brews with new effects
+3|A system to manage inventories
+4|View and request items from a Corporea network
+5|Request items from a Corporea network via redstone
+6|Request items from a Corporea network via chat
+7|Intercept Corporea requests and send redstone signals
+8|Memory for re-doing Corporea requests
+9|Accessories that don't provide power
+10|A way to craft automatically
+11|Portable crafting, fast or with a grid
+12|A faster bow that creates arrows from Mana
+13|Moves items with wind
+14|Mana from life
+15|Just what it says, really
+16|This dirt is for walking
+17|A rod to create dirt
+18|Dispensers planting seeds
+19|Equally split Mana between multiple pools
+20|Charm mobs that attack you
+21|A rod to find ores
+22|Sweep to the side to dodge attacks
+23|Damages adult animals
+24|Harder, better, faster, stronger
+25|Manasteel equivalent gear with special properties
+26|Definitely a message. Yup
+27|What's beyond the gate
+28|Advanced Mana Lenses with new abilities |K:Mana Lens
+29|Some lore on why we are where we are
+30|Some end-themed decoration
+31|Throwable bottles that create End Stone |K:End Stone
+32|A dagger that cuts through endermen like butter
+33|Look activated redstone detector
+34|Ender Chest access anywhere |K:Ender Chest
+35|Mana from fuel
+36|Mana from TNT
+37|A rod to change blocks
+38|Ignites and speeds up Furnaces
+39|Flowers that use mana for beneficial powers
+40|Powerful, short range regeneration
+41|A pumpkin that can spawn blazes
+42|A burning Thorn Chakram |K:Thorn Chakram
+43|A rod to create circles of flame
+44|Bigger brew containers
+45|The ability to fly... for a bit
+46|A trusty pouch to hold your floral goodness
+47|Smaller flowers with a smaller range
+48|Changing how long flowers take to work
+49|The roots of your studies
+50|The true power of a Flügel
+51|Harvest crops and uproot grass with mana bursts
+52|Flowers that consume resources to make mana
+53|Summon the Guardian of Gaia for GREAT JUSTICE! |K:Guardian of Gaia
+54|Your new challenge
+55|Shear sheep and milk cows with mana bursts
+56|Send minecarts flying
+57|A pickaxe with built-in silk touch for glass
+58|Prevents explosions from damaging the world
+59|Mana from food
+60|Reap all grass and crops around you
+61|Seeds to create Grass, Podzol and Mycelium
+62|A rod to lift and throw mobs
+63|Create any player's head
+64|Turns mobs against each other
+65|Picks up items
+66|A simple timer, using the sands of time
+67|Mana from water
+68|Walk on water, by making ice
+69|Brews on an area of effect
+70|Endless supply of nourishment
+71|Exactly what it says on the tin
+72|Find items in chests, minecarts and villager trades
+73|Creates more Mystical Flowers
+74|Keeps mobs out
+75|Cloaks to judge opponents
+76|Ivy that can be attached to items to keep them after death
+77|Mana from cake
+78|Open the treasury
+79|Prevent all knockback damage
+80|Raise parts of your world as floating islands
+81|Fire resistance, somewhat
+82|Varied augmentations for your spreaders
+83|What you're reading right now, dummy
+84|A stronger bow that regenerates using Mana
+85|The power to be here, and there, and over there too
+86|Conjures dungeon loot
+87|Fly through the skies
+88|Start off with Mana
+89|Pull items towards you
+90|Turn A into B. Exchange may or may not be equivalent
+91|Portable Mana Spreader, with lenses! |K:Mana Spreader
+92|Manastorm Charge go BOOM. BOOM BOOM. BOOMBOOMBOOMBOOMBOOMBOOM |K:Manastorm Charge
+93|Duplicate your resources with mana
+94|Detects Mana Bursts and emits Redstone signals |K:Mana Burst
+95|Using mana to enchant your tools
+96|Iron-tier equipment that repairs itself with Mana
+97|Remote Portable Mana Access
+98|Portable Mana Storage
+99|Destroys all mana that comes into it
+100|A flower for classifying mana loss or income
+101|Cloth armor that regenerates with mana and provides a boost to rod powers
+102|Creates new stone types
+103|Mine faster with Haste
+104|A rod to pew pew
+105|An essential tool for viewing flowers' radiuses
+106|Mana from leaves
+107|Touch fuzzy, but don't get dizzy
+108|Mana from slime
+109|Mass binding flowers to a spot
+110|A bucket that destroys anything that comes inside
+111|A simple device to drop things
+112|Creates ores from stone
+113|Creates nether ores from netherrack
+114|An elusive object that powers up flowers
+115|Pavement for road building
+116|Make your armor and baubles invisible
+117|Remote piston extension
+118|Spawn more pixie friends (warning: friends might suicide spontaneously)
+119|Disguisable platform you can fall down in
+120|Makes animals breed
+121|Mana storage for the masses
+122|This is not a web framework
+123|Seeing the numbers in mana
+124|Switch a Mana Burst's effective Lens on the fly |K:Mana Burst
+125|Creator of Livingwood and Livingrock, among others |K:Livingrock | Livingwood
+126|Mana from flowers
+127|A rod to create rainbow bridges, and fancy building blocks
+128|Places blocks down
+129|Reach farther, build farther
+130|Remote inventories and other remote things
+131|A spreader that fires on a Redstone pulse
+132|Ivy that can be attached to items to have them regenerate durability
+133|They're real after all
+134|A myth? Or reality?
+135|Converts Mana into Energy
+136|Create runes for stronger flowers and items
+137|A tool to help create circles
+138|Things dropping other things
+139|Shiny flowers and floating flowers
+140|Mana from shulkers
+141|A rod to create dirt, in the sky
+142|Slime chunk detector
+143|A rod to smelt blocks
+144|Creates spaces where the Ring of Magnetization doesn't work |K:Ring of Magnetization
+145|Control augments on sparks with redstone
+146|Upgrade your Sparks to allow for better functionality
+147|A mantle infused with this Constellation makes the wearer as one with water; protecting from knockback attacks, granting underwater breathing, and allowing handling of tools like there was no water at all.
+148|Reflecting this Constellation's light onto water makes it softly bubble, and sea life seems much more abundant under it's rays.
+149|Helmets exposed to Octans provide oxygen from the water to the wearer, and drinking this Constellation's light causes gills to grow for a short time.
+150|Powered by Starlight, this ritual attracts fish in nearby water blocks, allowing them to be easily harvested. |K:Starlight
+151|A mantle infused with this Constellation's light will often manifest Starlight into animated tools, mimicking the wearer's behavior when breaking blocks with a pickaxe, chopping down trees with an axe, or even striking enemies with weapons. |K:Starlight
+152|The irresistible and unnaturally impulsive rays of this set of stars are only visible during the darkest or brightest nights.
+153|Focusing these conjuring energies on a bow summons forth unlimited ammunition. The same energies summons vigor to anyone who drinks potions exposed to the Constellation's light.
+154|Immersing the nearby area in the diffused light of this Constellation conjurs all kinds of beings to life.
+155|The light of this Constellation endures, even across the vast distances it travels, like an unstoppable otherworldly juggernaut.
+156|Weapons and equipment bathed in the light of this constellation not only make the wearer more durable, but are themselves more durable. Drinking of this light can help you outlast the most devious of attacks.
+157|Drawing in your available resources can result in fueling increased focus.
+158|This Attunement eases the burdens of travel by reducing your weight enough to ride the currents of the wind, allowing you to fly like one would with an elytra.
+159|Bathing in the rays of this Constellation make everything feel slower, while seeming to make you faster in whatever you do.
+160|The essence of this Constellation's light increases speed of the drinker, whereas boots imbued with its light reduce the speed of impacts with the ground.
+161|This ritual improves the mobility of all within, allowing movement in ways not normally possible for those without wings.
+162|Light from this Constellation invokes rage and aggression in those bathed in it, even from the far depths of the Astral.
+163|The best defense is an aggressive offense for wielders of equipment bathed in this light. Potions imbued with this Constellation are often nicknamed "Liquid Courage".
+164|Burning the candle at both ends may provide for more illumination, but it invites the following darkness all the faster.
+165|Ore-Spawning: Aevitas Ore Perk
+166|Fluids: Neromantic Prime |K:Neromantic Prime
+167|Blacklist: Herdable Animals
+168|Ore-Spawning: Mineralis Ritual
+169|'Trash to Treasure'-Perk Replacement List
+170|Ore-Spawning: Treasure Shrine
+171|There is nothing here.
+172|Tuned to %s
+173|Collects Starlight from %s |K:Starlight
+174|Trait of %s
+175|Ritual Trait Modifier:
+176|Starlight Crafting Altar |K:Starlight Crafting Altar
+177|Luminous Crafting Table |K:Luminous Crafting Table
+178|Alignment Charge Rate
+179|Boosting Crystal Yield
+180|Boosting Growing Speed
+181|Illuminated Block Strength
+182|Infused Tool Powers
+183|Ancient Shrine Locations |K:Ancient Shrine
+184|Colors and Operation
+185|Weapons and Ores
+186|Spawn Types and Rarity
+187|Cannibalism and Reach
+188|Difference Within Bonuses.
+189|Influencing Through Harvest
+190|Impact of Mythical Creatures
+191|+%s Chaos Resistance
+192|§7Click to see recipe
+193|CTRL + leftclick to copy
+194|Gained Knowledge about: %s
+195|The constellation %s vanishes out of sight.
+196|A strange constellation is drawn on this scroll.
+197|Discovering it should provide additional clues.
+198|Something is shining inside the casing.
+199|Right-click to open.
+200|The scroll has some pale scribblings on it.
+201|Right-click to add it to your tome.
+202|The scroll appears to be blank.
+203|Chance to double output: %s
+204|Hover over one of the clusters and zoom in
+205|using the scroll wheel or %s and %s
+206|Contains knowledge from %s
+207|Contains massive knowledge
+208|An empty and sparkly scroll
+209|Linked %s to %s!
+210|Unlinked %s from %s!
+211|Unlinked all links!
+212|<Hold SHIFT for more details>
+213|Sharpened (%s increased Damage)
+214|Requires focused light from %s
+215|Gain experience by building things
+216|More Perk Effect
+217|Gain experience by taking damage
+218|Increased Melee Damage
+219|Increased Mining Speed
+220|Increased Maximum Life
+221|Increased Movement Speed
+222|Greater Increased Perk Effect
+223|Increased Perk Effect
+224|Increased Perk Effect
+225|Increased Perk Effect
+226|Increased Projectile Damage
+227|Astral Sorcery: Thaumcraft Compat
+228|Other tree roots may be unlocked without
+229|requiring a connection to the existing perks
+230|Grants 3 additional Perk Points
+231|Increased Critical Hit Chance and Multiplier
+232|Increased Melee Damage and Critical Hit Chance
+233|Increased Projectile Damage and Critical Hit Chance
+234|Increases and decreases to Perk Experience
+235|apply to Perk Effect instead at 50%% of their value.
+236|You can only unlock 1 Focus Perk.
+237|Gain +3%% increased Perk Effect per allocated Perk.
+238|Other modifiers to Perk Effect no longer apply.
+239|You can only unlock 1 Focus Perk.
+240|+5%% more Perk Experience per unspent Perk Point.
+241|You can only unlock 1 Focus Perk.
+242|Gain +1%% Perk Effect per unsealed allocated Perk.
+243|You cannot gain Perk Experience.
+244|You can only unlock 1 Focus Perk.
+245|More Perk Effect
+246|Gain experience by dealing damage
+247|Place the block in the world.
+248|Pick up the block in the world.
+249|Pick Up Block
+250|Export energy if the boolean is true
+251|Import energy if the boolean is true
+252|Export fluids if the boolean is true
+253|Export All Fluids
+254|Import fluids if the boolean is true
+255|Import All Fluids
+256|Export items if the boolean is true
+257|Export All Items
+258|Import items if the boolean is true
+259|Import All Items
+260|Click with any item.
+261|Click with an empty hand.
+262|Place all item blocks in the world.
+263|Place All Item Blocks
+264|Pick up all item blocks in the world.
+265|Pick Up All Item Blocks
+266|Export energy to the facing entities if the boolean is true
+267|Export All Energy To Entities
+268|Import energy from the facing entities if the boolean is true
+269|Import All Energy From Entities
+270|Export fluid to the facing entities if the boolean is true
+271|Export All Fluid To Entities
+272|Import fluid from the facing entities if the boolean is true
+273|Import All Fluid From Entities
+274|Export items to the facing entities if the boolean is true
+275|Export All Items To Entities
+276|Import items from the facing entities if the boolean is true
+277|Import All Items From Entities
+278|Place all items into the world.
+279|Place All Item Entities
+280|Pick up all items from the world.
+281|Pick Up All Item Entities
+282|Place all fluids in the world.
+283|Place All Fluids
+284|Pick up all fluids in the world.
+285|Pick Up All Fluids
+286|Export the given fluid.
+287|Import the given fluid.
+288|Export the given fluid to the facing entities.
+289|Export Fluid To Entities
+290|Import the given fluid from the facing entities.
+291|Import Fluid From Entities
+292|Place the given fluid in the world.
+293|Pick up the given fluid in the world.
+294|Pick Up Fluid
+295|Export the given amount of energy each tick.
+296|Export Energy Amount
+297|Import the given amount of energy each tick.
+298|Import Energy Amount
+299|Export the given amount of fluids each tick.
+300|Export Fluid Amount
+301|Import the given amount of fluids each tick.
+302|Import Fluid Amount
+303|Export the given amount of items each tick.
+304|Export Item Amount
+305|Import the given amount of items each tick.
+306|Import Item Amount
+307|Export items to the given slot. -1 is any slot, -2 or less is no slot.
+308|Export Item Slot
+309|Import items from the given slot. -1 is any slot, -2 or less is no slot.
+310|Import Item Slot
+311|Click with the given amount of items.
+312|Export the given amount of Energy to the facing entities each tick.
+313|Export Energy Amount To Entities
+314|Import the given amount of energy from the facing entities each tick.
+315|Import Energy Amount From Entities
+316|Export the given amount of fluid to the facing entities each tick.
+317|Export Fluid Amount To Entities
+318|Import the given amount of fluid from the facing entities each tick.
+319|Import Fluid Amount From Entities
+320|Export the given amount of items to the facing entities each tick.
+321|Export Item Amount To Entities
+322|Import the given amount of items from the facing entities each tick.
+323|Import Item Amount From Entities
+324|Place the given amount of items into the world.
+325|Place Item Entities
+326|Pick up the given amount of items from the world.
+327|Pick Up Item Entities
+328|Export the given item.
+329|Import the given item.
+330|["Click for... [",{"text":"Download","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to automatically download the latest version","color":"green"}},"clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/botania-ceu/download/latest"}},"] [",{"text":"Website","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the mod's website","color":"green"}},"clickEvent":{"action":"open_url","value":"https://www.curseforge.com/minecraft/mc-mods/botania-ceu"}},"] [",{"text":"Changelog","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the version's Changelog","color":"green"}},"clickEvent":{"action":"open_url","value":"https://github.com/TeamDimensional/Botania-CEu"}},"]"]
+331|Wings: One-Winged Angel
+332|Wings: Ice Fairy
+333|Wings: Black Snow Princess
+334|Wings: Lord of the Pit
+335|Wings: Mega Ultra Chicken
+336|Wings: The One
+337|Bound Block Wireframe
+338|Charging Animation Enabled
+339|Enable Smokey Quartz |K:Smokey Quartz
+340|Enable Botania's F3 debug information
+341|Enable Portal Particles
+342|Enable Ender Pickpocketing
+343|Enable Fallen Kanade |K:Fallen Kanade
+344|Fancy Skybox in non-GoG Worlds
+345|Flugel Tiara Flight Bar Height
+346|Flight Bar Height with Breath Bar
+347|Flower Force Checking
+348|Flower Particle Frequency
+349|Alternate Flower Textures
+350|Garden of Glass
+351|Not recommended for Botania newcomers
+352|Adds a new catalyst
+353|The default list of catalysts is empty, which has a special behavior of "any seeds can be used as a catalyst". This special behavior is removed when any items are added as catalysts.
+354|Removes a catalyst
+355|Petal Apothecary Catalysts |K:Petal Apothecary
+356|Adds a new catalyst, making it impossible to use it in Runic Altar recipes |K:Runic Altar
+357|Removes a catalyst and makes it possible to use this item in Runic Altar recipes |K:Runic Altar
+358|Runic Altar Catalysts |K:Runic Altar
+359|Adds a retained item
+360|Removes a retained item
+361|Runic Altar Retained Items |K:Runic Altar
+362|Blocks required underneath the plate, or blocks that will be created under the plate when the recipe is done. The replacement blocks may be `null`, which makes the recipe keep that block intact
+363|Starting color of the particles displayed when executing the recipe
+364|Mana cost of the recipe. 1 mana pool is 1 million
+365|Ending color of the particles displayed when executing the recipe
+366|Terrestrial Agglomeration Plate |K:Terrestrial Agglomeration Plate
+367|that `input` IIngredients cannot contain the items configured as Runic Altar's catalysts (default is Livingrock) |K:Runic Altar | Livingrock
+368|Bore Lens Harvest Level
+369|Weight Lens Harvest Level
+370|Lexicon Justified Text
+371|Lexicon Rotating Items
+372|3D Lexicon Render
+373|Inverted Magnet Ring Controls
+374|Mana Bar Height
+375|Enable Mana Enchanter |K:Mana Enchanter
+376|Enable Mana Fluxfield |K:Mana Fluxfield
+377|Silent Mana Spreaders |K:Mana Spreader
+378|Enable Matrix Mode
+379|Passive Wither Time
+380|Use Subtle Power System
+381|Use Old Pylon Model
+382|Lexica Wiki Lookup Offline Mode
+383|Lexica Quick Lookup Uses Shift Key
+384|Enable Tooltip References
+385|Enable Ring of Odin Fire Resist |K:Ring of Odin
+386|Enable Shader Usage
+387|Spreader Pos Shift
+388|Spreader Trace Time
+389|Enable Static Floating Flowers
+390|TC Infusion Stabilizers |K:Stabilizer
+391|Thermalily Needs Obsidian |K:Thermalily
+392|Use Vanilla Particle Config
+393|Enable Version Checking
+394|Enable Static Wand Beam
+395|Worldgen Flower Density
+396|Worldgen Flower Patch Chance
+397|Worldgen Flower Patch Size
+398|Worldgen Flower Quantity
+399|Worldgen Flower Tall Chance
+400|Worldgen Mushroom Quantity
+401|Drop Redstine Grenade after use
+402|Rejuvenated Flesh blood usage |K:Rejuvenated Flesh
+403|Rejuvenated Flesh capacity |K:Rejuvenated Flesh
+404|Sanguinary Envir. Acc. blood usage
+405|Sanguinary Pedestal blood multiplier |K:Sanguinary Pedestal
+406|Spiked Plate damage |K:Spiked Plate
+407|Spiked Plate MB mob multiplier |K:Spiked Plate
+408|Spirit Furnace boss blood usage |K:Spirit Furnace
+409|Spirit Furnace blood usage |K:Spirit Furnace
+410|Spirit Furnace death sounds |K:Spirit Furnace
+411|Spirit Furnace custom mob drops |K:Spirit Furnace
+412|Spirit Furnace custom player drops |K:Spirit Furnace
+413|Spirit Furnace player blood usage |K:Spirit Furnace
+414|Spirit Furnace boss entity cook time |K:Spirit Furnace
+415|Spirit Furnace villager emerald chance |K:Spirit Furnace
+416|Spirit Reanimator clear on revival |K:Spirit Reanimator
+417|Spirit Reanimator blood usage |K:Spirit Reanimator
+418|Spirit Reanimator reanimation time |K:Spirit Reanimator
+419|Vein Sword durability |K:Vein Sword
+420|Vein Sword blood boost |K:Vein Sword
+421|Vengeance area of effect size
+422|Vengeance Spirit toggle chance |K:Vengeance Spirit
+423|Vengeance Pickaxe fortune level |K:Vengeance Pickaxe
+424|Vengeance Pickaxe vengeance level |K:Vengeance Pickaxe
+425|Vengeance ring area of effect size
+426|Vengeance Spirits always visible in creative |K:Vengeance Spirit
+427|Vengeance Spirit blacklist |K:Vengeance Spirit
+428|Vengeance Spirit spawn chance on item use |K:Vengeance Spirit
+429|Vengeance Spirit spawn limit |K:Vengeance Spirit
+430|Vengeance Spirit spawn area limit |K:Vengeance Spirit
+431|Humanoid flesh drop chance
+432|World generation settings
+433|Shift-info for blocks
+434|Box of Eternal Closure contents |K:Box of Eternal Closure
+435|Actual inner blocks
+436|Using a &1Dark Gem&0 and a piece of &1Iron&0, I was able to create very sharp and durable &1Spikes&0. Mobs don't seem to like them very much... |K:Dark Gem
+437|Using some &1Iron&0, &1Dark Gems&0 and a piece of &1Glass&0, it is possible to construct a strong container that is able to hold fluids. It is possible to place these tanks somewhere, or hold them in your inventory. |K:Dark Gem
+438|When it is placed somewhere, you can right-click which gives it a purple-ish glow, and it seems to open up a hole at the bottom of the tank which is able to automatically fill tanks, item containers and players carrying containers underneath it.
+439|Shift + right-clicking with the tank in your hand and not aiming at a block (because you know you will just place the tank down if you would do so) will enable a special mode to make it automatically try to fill any container you are currently holding if it can accept that fluid.
+440|It looks like it can hold about sixteen buckets. If that is too limiting for you, these tanks seem to be expandable by placing multiple ones inside a crafting table, no fluids seem to go lost in this process.
+441|This small block can showcase your favorite items and blocks. It seems to support any wood type, and it can be placed with any rotation you want. You can pipe items in and out from the bottom or the top.
+442|Interaction from all other sides of the block will be delegated to the item itself, so you can interact with its inventory, fluids, energy, ...
+443|Combining some &1Sugar&0 and &1Gunpowder&0 will result in a weird dust that doesn’t seem to be very useful at the moment, hence the name. Although this might change one day. |K:Gunpowder
+444|Crafting tables can be inconvenient sometimes when at remote locations. It looks like the &1Crushed Dark Gems&0 give the power to craft things from within your inventory! Attaching some kind of chest to it gives an easy internal inventory, even your &1Ender Chest&0 seems to work. Power users might be happy with this item, since it can be bound to a hotkey. Using that same hotkey when the gui is open will clear your inventory, and using the hotkey with shift will balance all the items currently inside the grid. There is a toggle button available that allows you to switch between the return targets when shift-removing items from the crafting grid, you can choose between either the inner item inventory or your player inventory. |K:Crushed Dark Gem | Ender Chest
+445|Striking it with lightning seems to make it bound to reality so that it can’t be destroyed or disappear when dropped.
+446|Some people might find regular &1Glass&0 too bright. Combining some glass with a &1Dark Gem&0 seems to make a special type of glass that almost completely reduces the amount of light that gets through. I am still able to look through the glass though, very strange... |K:Dark Gem
+447|Combining several shiny mundane items will result in a sphere that seems to possess some awesome powers, I might discover a way to harness these powers in the near future. It looks like the power can be inverted by using some &1Dark Gems&0. |K:Dark Gem
+448|Some &1Spikes&0 and a &1Plate&0 will result in a plate which will damage any mob walking over it, me and my peers don’t seem to take any damage though. The powers of the &1Dark Gem&0 seems to ensure killing mobs in this process to drop the same things when killed by any player. |K:Dark Gem
+449|For your convenience, they also give off a redstone signal when a mob is taking damage.
+450|Nothing is more annoying than swapping tools around when trying to break blocks, and the suddenly having to fight incoming mobs.
+451|Combining some &1Spikes&0 allows you to break almost all soft materials very quickly. At the same time, any mobs that come creeping by can also be attacked with sufficient power.
+452|A Strange New World
+453|Our world is made up of &1Biomes&0, many different variantions exist. Unfortunately, we can not choose the location of these &1Biomes&0, or at least not always.
+454|One of the abilities of the &1Environmental Accumulator&0 is that it can accept special &1Biome Extract Bottles&0 which it can fill with the &1Biome&0 the machine is currently placed in. These bottles can be thrown anywhere on the ground to transform that area to the given biome. |K:Environmental Accumulator | Biome Extract Bottle
+455|One major disadvantage of the &1Environmental Accumulator&0 is that it will degrade its biome over time, so the bottles coming out of it will become pretty useless. If only there was an alternative way to craft these &1Biome Extracts&0 without bad effects... |K:Environmental Accumulator | Biome Extract
+456|This world is filled with all sorts of resources, this I have known for a long time... But today I have made a new discovery, there is an ore in this world, with a somewhat dark shine to it, it makes me think of precious gems, but I sense a very obscure presence within them. Hitting them with an iron pick axe seems to be the minimal requirement to get some of these gems. There also seems to appear some kind of rather strange dust, when I mine them, I’m sure I will find a use for this dust soon enough. It appears that Fortune levels increase the chance of getting these dusts.
+457|&1Brooms&0 are made of three main parts. The &1Rod&0 is the basis of your broom, this will influence its main properties. A &1Brush&0 is needed to make the Broom maneuvarable. Finally, a &1Cap&0 is needed to balance your &1Broom&0.
+458|All possible &1Broom&0 parts must be created using the &1Bare Rod, Brush&0 and &1Cap&0, this can be done by combining these three parts of any material in any crafting grid. Parts made from different materials seem to have different properties. All possible properties will be explained in the following section after that I will give an overview of all &1Broom&0 parts.
+459|When flying with the &1Broom&0, make sure that it has enough &4Blood&0 at all times, otherwise the &1Broom&0 will slow down significantly.
+460|&l&nAcceleration&r&NThe higher this value, the faster the &1Broom&0 will accelerate.
+461|&l&nBouncy&r&NColliding entities will be bounced away, depending on this modifier value.
+462|&l&nDamage&r&NThe damage that will be afflicted onto colliding mobs. The faster the &1Broom&0 is flying, the higher this damage will be.
+463|&l&nEfficiency&r&NA higher modifier value will result in a higher chance that nood &4Blood&0 needs to be consumed.
+464|&l&nFlame&r&NAny colliding entity will be lit on fire.
+465|&l&nHungerer&r&NColliding entities will experience sudden hunger.
+466|&l&nIcy&r&NSlows down colliding entities.
+467|In this section, I will list all modifier effects I have discovered during my adventures. They can be applied to an existing &1Broom&0 by combining it in any crafting grid. Once the modifier is applied, there is no way to remove it again from the &1Broom&0.
+468|&l&nKamikaze&r&NWhen colliding with an entity the &1Broom&0 will explode. It is very unlikely that a mounted player would survive something like this.
+469|&l&nLevitation&r&NThe higher this value, the faster the &1Broom&0 can fly up.
+470|&l&nLuck&r&NThis ability makes the mounted player more lucky when killing mobs and breaking blocks.
+471|&l&nManeuverability&r&NHow fast a &1Broom&0 can rotate.
+472|&l&nModifier Count&r&NThe maximum amount of modifiers a &1Broom&0 can have.
+473|&l&nParticles&r&NHow much particles should be emitted from the &1Broom&0 when flying.
+474|&l&nSmash&r&NThis is used to enable the &1Broom&0 to break blocks when flying. Higher values can break harder blocks.
+475|&l&nSpeed&r&NThe top speed of a &1Broom&0.
+476|&l&nThoughness&r&NHigher modifier values will make the &1Broom&0 less influencable by external factors during movement.
+477|&l&nSwimming&r&NThis makes the &1Broom&0 better maneuverable in liquids.
+478|&l&nWitherer&r&NThe wither effect will be applied to colliding entities.
+479|&l&nWither Shield&r&NThe higher the modifier value, the larger the chance that the mounted player will be protected from incoming projectiles.
+480|Various materials can be used to make broom parts. Their tooltip shows what base modifiers will be present on the resulting &1Broom&0 after crafting.
+481|I was able to construct a special ring that can apply the &1Promises&0 of &Productivity&0 and &1Velocity&0 which allows you to walk faster, jump higher and step more easily on blocks. Just hold this item anywhere inside your inventory to gain its effects. Note that this step assist can be avoided by holding &oShift&r.
+482|I was able to combine the &1Burning Gemstone&0 with a &1Dark Stick&0 to make a special torch that seems to absorb any spawning &1Vengeance Spirits&0 in its light area. Note that any spirits spawned outside the area will still be able to wander in this area though, but a simple mundane wall should be able to solve that. |K:Vengeance Spirit | Dark Stick
+483|Items that use &4Blood&0 mostly have an internal container that can hold some &4Blood&0 which can be filled using the &1Blood Infuser&0 or by activating auto-supply mode on other tools and holding the item to fill in your hand. When using these items, it will drain some &4Blood&0. When that item has ran out of &4Blood&0, it will try to drain &4Blood&0 from other containers in your inventory, or it will stop functioning if no such item can be found. |K:Blood Infuser
+484|Getting rid of bad potion effects can be a pain. This pendant is able to remove any bad effect at the cost of some &4Blood&0. Worse effects cost more &4Blood&0. It even seems to extinguish fire, but I wouldn’t recommend swimming in lava just yet. You will need a special kind of string to craft this, which can be created by combining regular string with a small fragment of gold.
+485|This item is able to attract items and experience orbs in a certain area. This area can be changed by right-clicking it, enabling or disabling it is done with a simple shift + right-click. Items that are attracted from nearby consumes little to no &4Blood&0, but items from further away will require some more &4Blood&0. Sneaking will avoid kineticating items.
+486|Reversing the recipe will give the opposite version of this item which is able to repel items and experience orbs.
+487|After making the &1Invigorating Pendant&0, I started thinking. What if it would be possible to not only remove, but also apply effects? This new pendant is able to hold one &1Potion&0, and by using &4Blood&0 it will continuously apply its effect to you. I noticed that some effects cost more &4Blood&0 than the others. You can insert new &1Potions&0 by simply right-clicking with the item. |K:Invigorating Pendant
+488|Sceptre of Thunder |K:Sceptre of Thunder
+489|I feel oddly at peace when there are thunderstorms. That is why I made a simple tool that can spawn such storms. This item can however be used only once, making this a rather expensive process.
+490|I’ve discovered a way to reuse the technology from the &1Vengeance Ring&0 into a pickaxe. This seems to drastically reduce the durability of the pickaxe though. But it has an interesting side-effect that when crafted will have the ability to trigger an enormous &1Fortune&0. |K:Vengeance Ring
+491|Mace of Destruction |K:Mace of Destruction
+492|This is a variant of the &1Mace of Distortion&0, the force that is released by this mace is actually a powerful explosion. The longer you charge the mace, the bigger the explosion will be. Increasing the power level of this mace will increase the starting power of the explosion, so you can charge even more. |K:Mace of Distortion
+493|Mace of Distortion |K:Mace of Distortion
+494|Holding right-click with this mace will build up a circular sphere around it that, when released, will trigger a force upon all other entities within that sphere knocking them back and causing some damage as long as the mace has enough &4Blood&0. Shift + right-clicking it will cycle through the different power levels, each higher level will cause more damage, but at the same time cost more &4Blood&0.
+495|Simular to &oItem Importers&r and &oItem Exporters&r, &lWorld Item Importers&r and &lWorld Item Exporters&r can respectively pick up items from the world into your item network and place items into the world from your item network. Furthermore, these can also be used to interact with dropped items that have inventories, such as &oShulker Boxes&r. |K:Item Importer
+496|The &lBlock World Importers&r and &lBlock World Exporters&r allow you to place blocks and break them. Various aspect properties such as silk touching are available.
+497|The &lEnergy World Importers&r and &lFluid World Exporters&r help you interact with entities that have an energy buffer, such as dropped batteries.
+498|With &lFluid World Importers&r and &lFluid World Exporters&r, you can place fluid source blocks, pick them up and interact with entities that are a tank, such as dropped tank items. Various aspect properties exists to change things like whether or not a block update should be caused.
+499|&lItem World Importers&r and &lItem World Exporters&r can be used to place items in the world, pick them up, and interact with entities that have an inventory, such as dropped Shulker Boxes and Donkeys. Various aspect properties exists to change things like dispensing, throw-velocity, pickup delay, pitch and yaw.
+500|Exports energy from the network
+501|Exports fluids from the network
+502|Exports items from the network
+503|Place blocks into the world
+504|World Block Exporter
+505|Place energy into the world
+506|World Energy Exporter
+507|Place fluids into the world
+508|World Fluid Exporter
+509|Place items into the world
+510|World Item Exporter
+511|Imports energy into the network
+512|Imports fluids into the network
+513|Imports items into the network
+514|Pick up blocks from the world
+515|World Block Importer
+516|Pick up energy from the world
+517|World Energy Importer
+518|Pick up fluids from the world
+519|World Fluid Importer
+520|Pick up items from the world
+521|World Item Importer |K:Item Importer
+522|Attaches an energy holder to the network
+523|Attaches an fluid tank to the network
+524|Attaches an item inventory to the network
+525|Simulates player actions

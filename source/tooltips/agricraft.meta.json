@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+      "path": "assets/agricraft/lang/en_us.lang"
+    }
+  ]
+}

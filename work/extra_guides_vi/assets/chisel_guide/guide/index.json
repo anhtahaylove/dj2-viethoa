@@ -1,0 +1,17 @@
+[
+  {
+    "text": "The Chisel!",
+    "color": "gold",
+    "bold": true
+  },
+  null,
+  "Chisel là mod bổ sung công cụ Chisel. Nhấp chuột phải khi cầm Iron Chisel hoặc Diamond Chisel để mở giao diện. Đặt một block vào ô lớn nhất ở góc trên bên trái để bắt đầu đục!",
+  {
+    "id": "image",
+    "image": "chisel:textures/items/chisel_iron.png"
+  },
+  {
+    "id": "image",
+    "image": "chisel:textures/items/chisel_diamond.png"
+  }
+]

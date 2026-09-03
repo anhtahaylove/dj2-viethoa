@@ -1,0 +1,23 @@
+{
+  "name": "Beetle",
+  "icon": "mysticalworld:carapace",
+  "category": "creatures",
+  "flag": "roots:beetle",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "beetle",
+      "breed": "Nhân giống: bằng Melon.",
+      "tame": "Thuần hóa: bằng Melon Seeds.",
+      "blurb": "Cúi người và nhấp chuột phải bằng tay không để đặt Beetle lên vai bạn!"
+    },
+    {
+      "type": "entity",
+      "name": "Beetle",
+      "entity": "mysticalworld:entity_beetle",
+      "scale": 1.5,
+      "offset": -0.3,
+      "text": "Lại cúi người và nhấp chuột phải bằng tay không để đặt chúng xuống."
+    }
+  ]
+}

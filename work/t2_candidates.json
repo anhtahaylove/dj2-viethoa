@@ -1,0 +1,2960 @@
+{
+ "rows": [
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.tieredenergycontainer",
+   "en": "Tiered Energy Container"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "gui.abyssalcraft.statetransformer.insert",
+   "en": "Insert"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "gui.abyssalcraft.statetransformer.extract",
+   "en": "Extract"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.crystallizer.nei",
+   "en": "Crystallization"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.transmutator.nei",
+   "en": "Transmutation"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.engraver.nei",
+   "en": "Coin Engraving"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.materializer.nei",
+   "en": "Materialization"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.rituals.nei",
+   "en": "Necronomicon Ritual"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "container.abyssalcraft.upgrade.nei",
+   "en": "Upgrade Kit"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "gui.acjei.category.fuel.transmutator",
+   "en": "Transmutator Fuel"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "gui.acjei.category.fuel.crystallizer",
+   "en": "Crystallizer Fuel"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.ritual.antiPotionAoE",
+   "en": "Antimatter Eradication"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.ritual.corEnchantment",
+   "en": "Coralium Infusion"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.ritual.dreEnchantment",
+   "en": "Dread Infusion"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.ritual.resurrection",
+   "en": "Dark Resurrection"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.ritual.massEnchantment",
+   "en": "Mass Enchantment"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.lifedrain",
+   "en": "Life Drain"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.entropy",
+   "en": "Entropy"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.mining",
+   "en": "Mining"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.detachment",
+   "en": "Detachment"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.stealvigor",
+   "en": "Steal Vigor"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.sirenssong",
+   "en": "Siren's Song"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.oozeremoval",
+   "en": "Ooze Removal"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.teleporthostiles",
+   "en": "Sacrificial Interdiction"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.displayRoutes",
+   "en": "Display Routes"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac.spell.floating",
+   "en": "Floating"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_dimensions",
+   "en": "Dimensions"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_biomes",
+   "en": "Biomes"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_biomegen",
+   "en": "Biome Generation"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_biomespawn",
+   "en": "Biome Spawning"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_biomeweight",
+   "en": "Biome Weight"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_general",
+   "en": "General"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_worldgen",
+   "en": "Worldgen"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_silly_settings",
+   "en": "Silly Settings"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_blocks",
+   "en": "Blocks"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_mod_compat",
+   "en": "Mod Compatibility"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_wet_noodle",
+   "en": "Wet Noodle"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_modules",
+   "en": "Modules"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "ac_spells",
+   "en": "Spells"
+  },
+  {
+   "namespace": "abyssalcraft",
+   "key": "key.abyssalcraft.category",
+   "en": "AbyssalCraft"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_blocks",
+   "en": "Aether Blocks"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_tools",
+   "en": "Aether Tools"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_weapons",
+   "en": "Aether Weapons"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_armor",
+   "en": "Aether Armor"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_food",
+   "en": "Aether Foods"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_accessories",
+   "en": "Aether Accessories"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_material",
+   "en": "Aether Materials"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.aether_misc",
+   "en": "Aether Miscellaneous"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "tab.accessories.name",
+   "en": "Accessories"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.queen.dialog.2",
+   "en": "Nevermind"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.queen.answer.2",
+   "en": "Goodbye adventurer."
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.sun_altar.time",
+   "en": "Select Time"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "title.aether_legacy.slider.name",
+   "en": "the Slider"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.button.halo",
+   "en": "Halo:"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.button.glow",
+   "en": "Developer Glow:"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.button.aether_cape",
+   "en": "Aether Cape:"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.button.gloves",
+   "en": "Gloves:"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.button.glove_size",
+   "en": "Glove Size:"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.aether_menu.normal_theme",
+   "en": "Normal Theme"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.aether_menu.aether_theme",
+   "en": "Aether Theme"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "gui.aether_trivia.pro_tip",
+   "en": "Pro Tip:"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.gameplay_changes",
+   "en": "Gameplay Changes"
+  },
+  {
+   "namespace": "aether_legacy",
+   "key": "aether_legacy.general.visual_options",
+   "en": "Visual Options"
+  },
+  {
+   "namespace": "agricraft",
+   "key": "agricraft_nei.mutation.title",
+   "en": "Crop Mutation"
+  },
+  {
+   "namespace": "agricraft",
+   "key": "agricraft_nei.cropProduct.title",
+   "en": "Crop Produce"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "jei.category.infuser",
+   "en": "Starlight Infusion"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "jei.category.transmutation",
+   "en": "Starlight Transmutation"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.bm.research.name",
+   "en": "Research"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.bm.constellations.name",
+   "en": "Constellations"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.bm.perks.name",
+   "en": "Perks"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.bm.knowledge.name",
+   "en": "Knowledge"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.c.unmapped",
+   "en": "Unknown"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.cst.enchantments",
+   "en": "Refraction Table:"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.cst.ritual",
+   "en": "Ritual Effect:"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "gui.journal.cst.capeeffect",
+   "en": "Mantle Effect:"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.discidia",
+   "en": "Discidia"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.armara",
+   "en": "Armara"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.vicio",
+   "en": "Vicio"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.aevitas",
+   "en": "Aevitas"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.evorsio",
+   "en": "Evorsio"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.mineralis",
+   "en": "Mineralis"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.lucerna",
+   "en": "Lucerna"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.horologium",
+   "en": "Horologium"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.octans",
+   "en": "Octans"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.bootes",
+   "en": "Bootes"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.fornax",
+   "en": "Fornax"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.pelotrio",
+   "en": "Pelotrio"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.gelu",
+   "en": "Gelu"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.ulteria",
+   "en": "Ulteria"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.alcara",
+   "en": "Alcara"
+  },
+  {
+   "namespace": "astralsorcery",
+   "key": "astralsorcery.constellation.vorux",
+   "en": "Vorux"
+  },
+  {
+   "namespace": "atum",
+   "key": "container.trap",
+   "en": "Trap"
+  },
+  {
+   "namespace": "atum",
+   "key": "gui.atum.rotations",
+   "en": "x%s"
+  },
+  {
+   "namespace": "atum",
+   "key": "jei.item.atum.emmerDough",
+   "en": "Crafted by combining Emmer Flour with water"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "jei.ritual",
+   "en": "Ritual"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "jei.ritual.startingPower",
+   "en": "Starting Power: %d"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "jei.ritual.runningPower",
+   "en": "Running Power: %d"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "jei.cauldron",
+   "en": "Cauldron"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "jei.brew",
+   "en": "Brew"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "jei.incense",
+   "en": "Incense"
+  },
+  {
+   "namespace": "bewitchment",
+   "key": "research.MATSTUDSILVER.title",
+   "en": "Material Studies: Silver"
+  },
+  {
+   "namespace": "bibliocraft",
+   "key": "book.title",
+   "en": "Title"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "bigger.creating.shape.control",
+   "en": "Shape Control"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "bigger.creating.shape.control.state.shaped",
+   "en": "Shaped"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "bigger.creating.shape.control.state.shapeless",
+   "en": "Shapeless"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "container.bigcraftingtable.name",
+   "en": "Big Crafting Table"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "container.bigcreatingtable.name",
+   "en": "Big Creating Table"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "container.hugecraftingtable.name",
+   "en": "Huge Crafting Table"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "container.hugecreatingtable.name",
+   "en": "Huge Creating Table"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "container.giantcraftingtable.name",
+   "en": "Giant Crafting Table"
+  },
+  {
+   "namespace": "biggercraftingtables",
+   "key": "container.giantcreatingtable.name",
+   "en": "Giant Creating Table"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.wellOfSufferingRitual",
+   "en": "Well of Suffering"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.regenerationRitual",
+   "en": "Ritual of Regeneration"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.magneticRitual",
+   "en": "Ritual of Magnetism"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.interdictionRitual",
+   "en": "Ritual of Interdiction"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.containmentRitual",
+   "en": "Ritual of Containment"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.speedRitual",
+   "en": "Ritual of Speed"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.suppressionRitual",
+   "en": "Ritual of Suppression"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.expulsionRitual",
+   "en": "Aura of Expulsion"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.pumpRitual",
+   "en": "Hymn of Syphoning"
+  },
+  {
+   "namespace": "bloodmagic",
+   "key": "ritual.bloodmagic.groundingRitual",
+   "en": "Ritual of Grounding"
+  },
+  {
+   "namespace": "botania",
+   "key": "nei.options.keys.gui.botania_corporea_request",
+   "en": "Corporea Request"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.flowerFarm",
+   "en": "Flower Farm"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.recordFarm",
+   "en": "Record Farm"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.cobbleGen",
+   "en": "Cobble Generator"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.battery",
+   "en": "Mana Battery"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.apothecaryRefill",
+   "en": "Apothecary Refiller"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.treeFarm",
+   "en": "Tree Farm"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.animalFarm",
+   "en": "Animal Farm"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.orechid",
+   "en": "Automated Orechid"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.mobTower",
+   "en": "Spawning Tower"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.entropinnyumSetup",
+   "en": "Entropinnyum Setup"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.spectrolusSetup",
+   "en": "Spectrolus Setup"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.potionBrewer",
+   "en": "Automated Brewing"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.kekimurusSetup",
+   "en": "Kekimurus Setup"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.autoQuarry",
+   "en": "Automated Quarry"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.challenge.runeCrafter",
+   "en": "Rune Crafter"
+  },
+  {
+   "namespace": "botania",
+   "key": "botania.page.preventingDecay0",
+   "en": "no"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_hunt",
+   "en": "Edit Hunt Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_meeting",
+   "en": "Edit Meeting Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_loot_groups",
+   "en": "Edit Loot Groups"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_loot_entries",
+   "en": "Edit Loot Entries"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_retrieval",
+   "en": "Edit Retrieval Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_crafting",
+   "en": "Edit Crafting Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_scoreboard",
+   "en": "Edit Scoreboard Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_advancement",
+   "en": "Edit Advancement Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.title.edit_tame",
+   "en": "Edit Tame Task"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.btn.select_mob",
+   "en": "Select Mob"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.btn.add_remove_drops",
+   "en": "Add/Remove Drops"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.btn.edit_items",
+   "en": "Add/Remove Items"
+  },
+  {
+   "namespace": "bq_standard",
+   "key": "bq_standard.btn.consume",
+   "en": "Consume: %s"
+  },
+  {
+   "namespace": "cofh",
+   "key": "tab.cofh.friendList.2",
+   "en": "Friends not provided."
+  },
+  {
+   "namespace": "cyclopscore",
+   "key": "gui.waila.cyclopscore.logConfig",
+   "en": "Logs"
+  },
+  {
+   "namespace": "cyclopscore",
+   "key": "infobook.cyclopscore.keybindings",
+   "en": "Key Bindings"
+  },
+  {
+   "namespace": "cyclopscore",
+   "key": "infobook.cyclopscore.keybinding",
+   "en": "Key Binding"
+  },
+  {
+   "namespace": "cyclopscore",
+   "key": "gui.cyclopscore.rewards",
+   "en": "Rewards"
+  },
+  {
+   "namespace": "divinerpg",
+   "key": "container.iceika_chest",
+   "en": "Iceika Chest"
+  },
+  {
+   "namespace": "draconicevolution",
+   "key": "modwiki.style.menu",
+   "en": "Menu"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.action.header.pre",
+   "en": "§e"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.range.header.pre",
+   "en": "§eRange: §f"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.redstone.header.pre",
+   "en": "§eCurrently: §f"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.paint.header",
+   "en": "§ePainted with:"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.owner.header",
+   "en": "§eOwner:"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.rf.header.maxin",
+   "en": "§eMax Input:"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.rf.header.maxout",
+   "en": "§eMax Output:"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.rf.header.avg",
+   "en": "§eI/O:"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.tank.header.input.pre",
+   "en": "§eInput Tank: §f"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.tank.header.output.pre",
+   "en": "§eOutput Tank: §f"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.top.tank.header.storage.pre",
+   "en": "§f"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.0",
+   "en": "Remarkable Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.1",
+   "en": "Unremarkable Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.2",
+   "en": "Found Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.3",
+   "en": "Lost Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.4",
+   "en": "Ancient Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.5",
+   "en": "Magic Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.6",
+   "en": "Capacitor of Holding"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.11",
+   "en": "Something wonderful"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.12",
+   "en": "A Capacitor. Maybe"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.13",
+   "en": "Heaven Cent"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.16",
+   "en": "Shocking Contraption"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.17",
+   "en": "Technomagical Marvel"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.18",
+   "en": "Unnamed Thing"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.19",
+   "en": "Thing"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.20",
+   "en": "Something"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.loot.capacitor.title.21",
+   "en": "Nothing"
+  },
+  {
+   "namespace": "enderutilities",
+   "key": "enderutilities.placement_properties.title",
+   "en": "Placement Properties"
+  },
+  {
+   "namespace": "erebus",
+   "key": "container.antInventory",
+   "en": "Ant Command Control"
+  },
+  {
+   "namespace": "erebus",
+   "key": "container.silo",
+   "en": "Silo Location"
+  },
+  {
+   "namespace": "erebus",
+   "key": "key.erebus.glide",
+   "en": "Glide"
+  },
+  {
+   "namespace": "erebus",
+   "key": "key.erebus.poweredglide",
+   "en": "Glider Lift"
+  },
+  {
+   "namespace": "erebus",
+   "key": "key.erebus.beetleram",
+   "en": "Beetle Ram Attack"
+  },
+  {
+   "namespace": "erebus",
+   "key": "key.erebus.beetlemine",
+   "en": "Stag Beetle Dig"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "key.categories.evilcraft",
+   "en": "Evil Craft"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "key.evilcraft.fart",
+   "en": "Toggle Farting"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "gui.exalted_crafting",
+   "en": "Exalted Crafting"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "gui.waila.tank_config",
+   "en": "Tank contents"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "gui.waila.broom_info_config",
+   "en": "Broom info"
+  },
+  {
+   "namespace": "evilcraft",
+   "key": "gui.nei.fluids",
+   "en": "Fluids"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "container.ec.table_basic",
+   "en": "Basic Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "container.ec.table_advanced",
+   "en": "Advanced Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "container.ec.table_elite",
+   "en": "Elite Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "container.ec.table_ultimate",
+   "en": "Ultimate Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "container.ec.ender_crafter",
+   "en": "Ender Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.table_crafting_3x3",
+   "en": "Basic Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.table_crafting_5x5",
+   "en": "Advanced Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.table_crafting_7x7",
+   "en": "Elite Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.table_crafting_9x9",
+   "en": "Ultimate Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.combination_crafting",
+   "en": "Combination Crafting"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.compressor",
+   "en": "Quantum Compression"
+  },
+  {
+   "namespace": "extendedcrafting",
+   "key": "jei.ec.ender_crafting",
+   "en": "Ender Crafting"
+  },
+  {
+   "namespace": "extracells",
+   "key": "extracells.gui.craft",
+   "en": "Craft"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "team_config.ftblib.display",
+   "en": "Display"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "team_config.ftblib.display.title",
+   "en": "Title"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "team_config.ftblib.free_to_join",
+   "en": "Free to Join"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "sidebar_button.ftblib.my_team",
+   "en": "My Team"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.general.button_daytime",
+   "en": "Button Daytime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "ftbutilities.general.button_nighttime",
+   "en": "Button Nighttime"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "permission.ftbutilities.badge",
+   "en": "Badge"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "permission.ftbutilities.claims.max_chunks",
+   "en": "Max Claimable Chunks"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "permission.ftbutilities.claims.blocked_dimensions",
+   "en": "Blocked Claiming Dimensions"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "permission.ftbutilities.chunkloader.max_chunks",
+   "en": "Max Loadable Chunks"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "permission.ftbutilities.chunkloader.offline_timer",
+   "en": "Chunkloader Offline Timer"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "sidebar_button.ftbutilities.toggle.gamemode",
+   "en": "Toggle Gamemode"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "sidebar_button.ftbutilities.toggle.rain",
+   "en": "Toggle Rain"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "sidebar_button.ftbutilities.heal",
+   "en": "Heal"
+  },
+  {
+   "namespace": "ftbutilities",
+   "key": "key.ftbutilities.nbt",
+   "en": "Edit NBT"
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "container.oxygendistributor.name",
+   "en": "Oxygen Distributor"
+  },
+  {
+   "namespace": "galacticraftcore",
+   "key": "container.parachest.name",
+   "en": "Para-chest"
+  },
+  {
+   "namespace": "galacticraftplanets",
+   "key": "container.slimeling_inventory.name",
+   "en": "Slimeling Inventory"
+  },
+  {
+   "namespace": "groovyscript",
+   "key": "key.categories.groovyscript",
+   "en": "GroovyScript"
+  },
+  {
+   "namespace": "groovyscript",
+   "key": "keybind.groovyscript.reload",
+   "en": "Reload Scripts and JEI"
+  },
+  {
+   "namespace": "groovyscript",
+   "key": "keybind.groovyscript.quick_reload",
+   "en": "Reload Scripts (skip JEI)"
+  },
+  {
+   "namespace": "groovyscript",
+   "key": "keybind.groovyscript.copy",
+   "en": "Copy focused"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "keybind.hammercorerenderstack",
+   "en": "[HC] Render Item"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.generation",
+   "en": "Generation"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.consumption",
+   "en": "Consumption"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.burntime",
+   "en": "Burn Time"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.energy",
+   "en": "Energy"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.process",
+   "en": "Process"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.fept",
+   "en": "FE/tick"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore.feps",
+   "en": "FE/sec"
+  },
+  {
+   "namespace": "hammercore",
+   "key": "gui.hammercore:calculatron",
+   "en": "Calculatron vVERSION"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "key": "gui.integratedtunnels.partsettings.channel.interface",
+   "en": "Interface Channel"
+  },
+  {
+   "namespace": "integratedtunnels",
+   "key": "aspect.aspecttypes.integratedtunnels.integer.item.slot.name",
+   "en": "Item Slot"
+  },
+  {
+   "namespace": "jeresources",
+   "key": "jer.dungeon.title",
+   "en": "Dungeon Chests"
+  },
+  {
+   "namespace": "jeresources",
+   "key": "jer.enchantments.title",
+   "en": "Enchantments"
+  },
+  {
+   "namespace": "jeresources",
+   "key": "jer.plant.title",
+   "en": "Plant Drops"
+  },
+  {
+   "namespace": "jeresources",
+   "key": "jer.worldgen.title",
+   "en": "World Gen"
+  },
+  {
+   "namespace": "jeresources",
+   "key": "jer.mob.title",
+   "en": "Mob Drops"
+  },
+  {
+   "namespace": "jeresources",
+   "key": "jer.villager.title",
+   "en": "Villager Trades"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.fullscreen.title",
+   "en": "Full-screen Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.minimap.title",
+   "en": "Mini Map"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.webmap.title",
+   "en": "Web Map"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.blueprint",
+   "en": "Blueprint Found: %s"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.blueprint.none",
+   "en": "None"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.structure",
+   "en": "Structure Found: %s"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.structure.none",
+   "en": "None"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.status",
+   "en": "Status:"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.status.missing_structure",
+   "en": "Missing structure"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.status.no_recipe",
+   "en": "No matching recipe found"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.status.crafting",
+   "en": "Processing..."
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "gui.controller.status.crafting.progress",
+   "en": "Progress: %s"
+  },
+  {
+   "namespace": "modularmachinery",
+   "key": "jei.category.preview",
+   "en": "Structure Preview"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "key": "container.ma.inferium_furnace.name",
+   "en": "Inferium Furnace"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "key": "container.ma.prudentium_furnace.name",
+   "en": "Prudentium Furnace"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "key": "container.ma.intermedium_furnace.name",
+   "en": "Intermedium Furnace"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "key": "container.ma.superium_furnace.name",
+   "en": "Superium Furnace"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "key": "container.ma.supremium_furnace.name",
+   "en": "Supremium Furnace"
+  },
+  {
+   "namespace": "mysticalagriculture",
+   "key": "container.ma.ultimate_furnace.name",
+   "en": "Ultimate Furnace"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.gui.getLink",
+   "en": "Get link"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.gui.failed",
+   "en": "[Failed]"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.gui.keepPlaying",
+   "en": "Keep playing"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.gui.restart",
+   "en": "Restart Minecraft"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.gui.disabledByConfig",
+   "en": "Disabled by config"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashscreen.title",
+   "en": "Minecraft crashed!"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.initerrorscreen.title",
+   "en": "Minecraft failed to start!"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.fixes",
+   "en": "Enable/Disable Fixes"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashes",
+   "en": "Crash Options"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashes.disableReturnToMainMenu",
+   "en": "Disable Return to Main Menu"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashes.scheduledTaskproblemAction",
+   "en": "Scheduled task exception action"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashes.replaceErrorNotifications",
+   "en": "Replace Error Notifications"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashes.hasteURL",
+   "en": "Haste URL"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.fixes.bugFixes",
+   "en": "Optimizations and vanilla bug fixes"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.fixes.crashFixes",
+   "en": "Crash improvements"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.fixes.modSupport",
+   "en": "Mod support"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.fixes.profiler",
+   "en": "Profiler improvements"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.fixes.textureFixes",
+   "en": "Texture optimizations"
+  },
+  {
+   "namespace": "openblocks",
+   "key": "openblocks.misc.mode.panel",
+   "en": "Panel"
+  },
+  {
+   "namespace": "openmods",
+   "key": "openmodslib.gui.watch_video",
+   "en": "Watch video"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.manual.introduction.header",
+   "en": "Introduction"
+  },
+  {
+   "namespace": "projecte",
+   "key": "pe.manual.img_alchchest.header",
+   "en": "alchchest.png"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.style.menu.prop",
+   "en": "Menu"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.style.header.prop",
+   "en": "Header"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.pagebtn.verified",
+   "en": "Verified"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.page.cm.page_options",
+   "en": "Page Options"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.page.cm.override_lang",
+   "en": "Override page language"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.page.cm.override_mod_lang",
+   "en": "Override mod language"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.page.cm.override_mod_version",
+   "en": "Override Mod Version"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.update_manager.title",
+   "en": "PI Update Manager"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.gui_in_gui.display_doc",
+   "en": "PI"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.decay.title",
+   "en": "Decay"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.transformer.ruins.other.title",
+   "en": "Other"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.move.title",
+   "en": "Move"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.placer.factors.limit.rays.move.title.mark",
+   "en": "Mark"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.keybinds.pouch",
+   "en": "Open Pouch"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.keybinds.quiver",
+   "en": "Open Quiver"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.absorption",
+   "en": "Absorption"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.additional_target1",
+   "en": "Auxiliary"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.additional_target2",
+   "en": "Ancillary"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.amplified_healing",
+   "en": "Amplified Healing"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.amplified_saturation",
+   "en": "Amplification"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.animal_savior",
+   "en": "Animal Savior"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.antivenom",
+   "en": "Antivenom"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.aquaplane",
+   "en": "Aquaplane"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.arboreal_bypass",
+   "en": "Arboreal Bypass"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.armor_i",
+   "en": "Clothier"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.armor_ii",
+   "en": "Armorer"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.augment_slow_fall",
+   "en": "Slow Fall"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.avalanche",
+   "en": "Avalanche"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.barkskin",
+   "en": "Barkskin"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.big_bellied",
+   "en": "Big-Bellied"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.bitter_luck",
+   "en": "Bitter Luck"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.blaze",
+   "en": "Blaze"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.blazing_speed",
+   "en": "Blazing Speed"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.blue_light",
+   "en": "Blue Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.boost_drops",
+   "en": "Drop Boost"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.boosting_trap",
+   "en": "Boosting Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.bottled_goods",
+   "en": "Bottle Goods"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.brown_light",
+   "en": "Brown Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.bubble_amplified",
+   "en": "Amplification"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.bubble_knockback",
+   "en": "Knockback"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.burning_ray",
+   "en": "Burning Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.chem_trails",
+   "en": "Chem Trails"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.chthonic",
+   "en": "Chthonic"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.cooked_goods",
+   "en": "Cooked Goods"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.decaying_light",
+   "en": "Decaying Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.deeper",
+   "en": "Deeper"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.deluminator",
+   "en": "Deluminator"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.dewebbing",
+   "en": "Dewebbing"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.disarm_duumvirate",
+   "en": "Duumvirate"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.distributed_healing",
+   "en": "Distributed Healing"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.draining_stop",
+   "en": "Draining Stop"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.earthen_radius",
+   "en": "Radius"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.embiggening",
+   "en": "Embiggening"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.empowering_trap",
+   "en": "Empowering Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.eternal_flame",
+   "en": "Eternal Flame"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_absorb",
+   "en": "Excess: Absorb"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_damage",
+   "en": "Excess: Damage"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_growth",
+   "en": "Excess: Grow"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_heal",
+   "en": "Excess: Heal"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_levitation",
+   "en": "Excess: Levitate"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_purification",
+   "en": "Excess: Purify"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.excess_stone_skin",
+   "en": "Excess: Stone"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.extended_geas",
+   "en": "Extended Geas"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.extended_harvest",
+   "en": "Extended Harvest"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.faithful_sharing",
+   "en": "Faithful Sharing"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.false_night",
+   "en": "False Night"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.fiery_harvest",
+   "en": "Fiery Harvest"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.fire_cloud",
+   "en": "Fire Cloud"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.fire_trap",
+   "en": "Fire Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.fixed_light",
+   "en": "Fixed Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.flaming_wind",
+   "en": "Flaming Wind"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.floating_cinders",
+   "en": "Floating Cinders"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.flower_child",
+   "en": "Flower Child"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.flower_harvester",
+   "en": "Flower Harvester"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.flower_spreading",
+   "en": "Floral Reproduction"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.fortunate_scythe",
+   "en": "Fortunate"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.freed_familiars",
+   "en": "Freed Familiars"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.freezing_rain",
+   "en": "Freezing Rain"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.friendly_earth",
+   "en": "Friendly Earth"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.ghostly_trap",
+   "en": "Ghostly Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.glowing_ray",
+   "en": "Glowing Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.grass_harvester",
+   "en": "Grass Harvest"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.green_flame",
+   "en": "Green Flame"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.green_light",
+   "en": "Green Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.grounded_wind",
+   "en": "Grounded Wind"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.harvest_silk_touch",
+   "en": "Silk Touch"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.haste",
+   "en": "Haste"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.hasty_escape",
+   "en": "Hasty Escape"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.healing_cloud",
+   "en": "Healing Cloud"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.healing_rain",
+   "en": "Healing Rain"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.healing_ray",
+   "en": "Healing Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.hydration",
+   "en": "Hydration"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.ice_age",
+   "en": "Ice Age"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.icicles",
+   "en": "Icicles"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.ignification",
+   "en": "Ignification"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.increased_speed",
+   "en": "Swift"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.incubation",
+   "en": "Incubation"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.inferno",
+   "en": "Inferno"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.inflammatory_bubble",
+   "en": "Inflammatory Bubble"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.inversion",
+   "en": "Inversion"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.iron_excess",
+   "en": "Iron Excess"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.iron_gut",
+   "en": "Iron Gut"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.item_updraft",
+   "en": "Item Updraft"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.jaunt",
+   "en": "Jaunt"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.larger_trap",
+   "en": "Larger Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.leaf_harvester",
+   "en": "Leaf Harvester"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.levitating_bubble",
+   "en": "Levitating Bubble"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.light_drifter",
+   "en": "Light Drifter"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.lightened_load",
+   "en": "Lightened Load"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.lightning_strikes",
+   "en": "Lightning Strikes"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.liquid_lurch",
+   "en": "Liquid Lurch"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.liquid_repulsion",
+   "en": "Liquid Repulsion"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.magnetic_harvest",
+   "en": "Magnetic Harvest"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.magnetic_harvester",
+   "en": "Magnetic Harvester"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.magnetic_radiance",
+   "en": "Magnetic Radiance"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.magnetic_ray",
+   "en": "Magnetic Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.magnetic_storm",
+   "en": "Magnetic Storm"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.magnetism",
+   "en": "Magnetism"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.minor_halt",
+   "en": "Minor Halt"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.momentum",
+   "en": "Momentum"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.moon_bubble",
+   "en": "Moon Bubble"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.moonfall",
+   "en": "Moonfall"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.moss_harvest",
+   "en": "Moss Harvester"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.mossy_leaves",
+   "en": "Mossy Leaves"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.mushroom_harvester",
+   "en": "Mushroom Harvester"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.nondetection",
+   "en": "Nondetection"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.ore_infusion",
+   "en": "Ore Infusion"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.overtime",
+   "en": "Overtime"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_cloud",
+   "en": "Peaceful Cloud"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_dance",
+   "en": "Peaceful Dance"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_drain",
+   "en": "Peaceful Drain"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_flame",
+   "en": "Peaceful Flame"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_passage",
+   "en": "Peaceful Passage"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_radiance",
+   "en": "Peaceful Radiance"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_storm",
+   "en": "Peaceful Storm"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_trap",
+   "en": "Peaceful Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.peaceful_winds",
+   "en": "Peaceful Winds"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.petal_overflow",
+   "en": "Petal Overflow"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.pink_light",
+   "en": "Pink Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poison_hands",
+   "en": "Poison Hands"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poison_protection",
+   "en": "Poison Protection"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poison_storm",
+   "en": "Poison Storm"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poisoned_fire",
+   "en": "Poisoned Fire"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poisoned_harvest",
+   "en": "Poisoned Harvest"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poisonous_breeze",
+   "en": "Poisonous Breeze"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.poisonous_trap",
+   "en": "Poisonous Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.purple_flame",
+   "en": "Purple Flame"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.purple_light",
+   "en": "Purple Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.pyroclastic_cloud",
+   "en": "Pyroclastic Cloud"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.radius_boost",
+   "en": "Radius Boost"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.rampant_breeding",
+   "en": "Rampant Breeding"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.rampant_growth_i",
+   "en": "Rampant Growth"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.rampant_growth_ii",
+   "en": "Rapid Growth"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.reach",
+   "en": "Reach"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_daggers",
+   "en": "React: Daggers"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_drift",
+   "en": "React: Drift"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_fire",
+   "en": "React: Fire"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_poison",
+   "en": "React: Posion"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_radiance",
+   "en": "React: Radiance"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_slow",
+   "en": "React: Slow"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.react_weakness",
+   "en": "React: Weakness"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.reactive_jolt",
+   "en": "Reactive Jolt"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.red_light",
+   "en": "Red Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.reflective_bubble",
+   "en": "Reflective Bubble"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.regenerative_sky",
+   "en": "Regenerative Sky"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.regrowth",
+   "en": "Regrowth"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.reject_nature",
+   "en": "Reject Nature"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.repelling_trap",
+   "en": "Repelling Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.repulsive_bubble",
+   "en": "Repulsive Bubble"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.root_lover",
+   "en": "Roots Lover"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.scattered_goods",
+   "en": "Scattered Goods"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.second_wind",
+   "en": "Second Wind"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_animals",
+   "en": "Sense Animals"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_containers",
+   "en": "Sense Containers"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_home",
+   "en": "Sense Home"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_hostiles",
+   "en": "Sense Hostiles"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_liquids",
+   "en": "Sense Liquid"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_ores",
+   "en": "Sense Ores"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_plants",
+   "en": "Sense Plants"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_spawners",
+   "en": "Sense Spawners"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sense_time",
+   "en": "Sense Time"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.shatter_fortune",
+   "en": "Fortune"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.shatter_silk_touch",
+   "en": "Silk Touch"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.shatter_void",
+   "en": "Voiding"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.sickly_ray",
+   "en": "Sickly Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.silk_scythe",
+   "en": "Silk Touch"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slow_fall",
+   "en": "Slow Fall"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slow_falling",
+   "en": "Slow Falling"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slow_fire",
+   "en": "Slow Fire"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slowing",
+   "en": "Slowing Cloud"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slowing_drain",
+   "en": "Slowing Drain"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slowing_ray",
+   "en": "Slowing Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.slowing_trap",
+   "en": "Slowing Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.smelting_ray",
+   "en": "Smelting Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.spectral_drain",
+   "en": "Spectral Drain"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.speed",
+   "en": "Speed"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.spider_unsuffrage",
+   "en": "Spider Unsuffrage"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.spirit_bubble",
+   "en": "Spirit Bubble"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.spiritual_duality",
+   "en": "Spiritual Duality"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.spread",
+   "en": "Spread"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.stoneskin",
+   "en": "Stoneskin"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.strong_gusts",
+   "en": "Strong Gusts"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.suction",
+   "en": "Suction"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.taller",
+   "en": "Taller Third"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.targeted_drain",
+   "en": "Targeted Drain"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.targeted_harvest",
+   "en": "Targeted Harvest"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.thoughtful",
+   "en": "Thoughtful Consumption"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.time_slip",
+   "en": "Time Slip"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.undead_rejection",
+   "en": "Undead Rejection"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.underwater_increase",
+   "en": "Underwater Increase"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.unholy_command",
+   "en": "Unholy Command"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.unholy_vanquisher",
+   "en": "Unholy Vanquisher"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.verticality",
+   "en": "Verticality"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.waterfall",
+   "en": "Waterfall"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.weakened_response",
+   "en": "Weakening"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.weakening_cloud",
+   "en": "Weakening"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.weakening_thorns",
+   "en": "Weakening Thorns"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.weakening_trap",
+   "en": "Weakening Trap"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.weakness",
+   "en": "Weakness"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.wider",
+   "en": "Wider"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.wider_ray",
+   "en": "Wider Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.withering",
+   "en": "Withering"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.withering_ray",
+   "en": "Withering Ray"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.yellow_light",
+   "en": "Yellow Light"
+  },
+  {
+   "namespace": "roots",
+   "key": "roots.modifiers.modifiers.yield",
+   "en": "Yield"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.partcrafter.name",
+   "en": "Part Crafter"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.castchest.name",
+   "en": "Cast Chest"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.smeltery.name",
+   "en": "Smeltery"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.searedfurnace.name",
+   "en": "Seared Furnace"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.tinkertank.name",
+   "en": "Tinker Tank"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.jei.smelting.title",
+   "en": "Smelting"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.jei.alloy.title",
+   "en": "Alloying"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.jei.casting.title",
+   "en": "Casting"
+  },
+  {
+   "namespace": "tconstruct",
+   "key": "gui.jei.drying.title",
+   "en": "Drying"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.gui.scans",
+   "en": "Scan:"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.gui.redstone",
+   "en": "Redstone Control"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.gui.scan_sun",
+   "en": "Sun"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.gui.scan_moon",
+   "en": "Moon"
+  },
+  {
+   "namespace": "thaumicaugmentation",
+   "key": "thaumicaugmentation.gui.scan_stars",
+   "en": "Stars"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.essentia_terminal",
+   "en": "Essentia Terminal"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.arcane_terminal",
+   "en": "Arcane Terminal"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.vis_required",
+   "en": "Vis cost: %s"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.vis_required_out_of",
+   "en": "Vis cost: %s/%s"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.vis_available",
+   "en": "%s Available"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.vis_discount",
+   "en": "%s%% Discount"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.insert_knowledge_core",
+   "en": "Insert a Knowledge Core"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.knowledge_core_is_blank",
+   "en": "The Knowledge Core is blank"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.recipe_already_stored",
+   "en": "The recipe is already stored"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.recipe_not_arcane",
+   "en": "The recipe is not arcane"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "gui.thaumicenergistics.no_recipe",
+   "en": "No recipe selected"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.base_energistics.title",
+   "en": "Thaumic Energistics"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.digisentia.title",
+   "en": "Digi-Sentia"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.essentiastorage1k.title",
+   "en": "Digisentia Storage"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.essentiastorage4k.title",
+   "en": "Bigger Digisentia Storage"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.essentiastorage16k.title",
+   "en": "Larger Digisentia Storage"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.essentiastorage64k.title",
+   "en": "Massive Digisentia Storage"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.essentiabuses.title",
+   "en": "Digisentia Transportation"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.essentiaterminal.title",
+   "en": "Essentia Monitoring"
+  },
+  {
+   "namespace": "thaumicenergistics",
+   "key": "research.infusionprovider.title",
+   "en": "Infusion Provider"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "key": "gui.thermaldynamics.transport.config",
+   "en": "Config"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "key": "gui.thermaldynamics.transport.name",
+   "en": "Viaduct Network"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "key": "gui.thermaldynamics.transport.noDest",
+   "en": "No Destinations"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "key": "gui.thermaldynamics.transport.unnamed",
+   "en": "Unnamed"
+  },
+  {
+   "namespace": "thermaldynamics",
+   "key": "gui.thermaldynamics.transport.waiting",
+   "en": "Waiting for Info"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.clearPreference",
+   "en": "Clear Preference"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.nextEntry",
+   "en": "Next Entry"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.prevEntry",
+   "en": "Previous Entry"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.search",
+   "en": "Search"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.setPreference",
+   "en": "Set Preference"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.singleEntry",
+   "en": "Only One Entry"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.study",
+   "en": "Lexicon - Knowledge"
+  },
+  {
+   "namespace": "thermalfoundation",
+   "key": "gui.thermalfoundation.lexicon.transmute",
+   "en": "Lexicon - Transmutation"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "keybind.universaltweaks.clear_toasts",
+   "en": "Clear Toasts"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "keybind.universaltweaks.dismount",
+   "en": "Dismount"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "keybind.universaltweaks.narrator",
+   "en": "Toggle Narrator"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.cheats.enabled",
+   "en": "Cheats: ON"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.cheats.disabled",
+   "en": "Cheats: OFF"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.allow_flight",
+   "en": "Allow Flight"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.allow_pvp",
+   "en": "Allow PVP"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.max_players",
+   "en": "Max Players"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.online_mode",
+   "en": "Online Mode"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.online_mode_desc",
+   "en": "Disabling this will allow unauthenticated connections"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.port",
+   "en": "Listening Port"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.spawn_animals",
+   "en": "Spawn Animals"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "btn.universaltweaks.lanserverproperties.spawn_npcs",
+   "en": "Spawn NPCs"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "gui.universaltweaks.cyclic.ender_book.page",
+   "en": "Page %s / %s"
+  },
+  {
+   "namespace": "universaltweaks",
+   "key": "tweakedexcavation.jei.mineral.average.Infinite",
+   "en": "Average Mineral yield: Infinite"
+  },
+  {
+   "namespace": "valkyrielib",
+   "key": "guide.valkyrielib.title.commonreq",
+   "en": "Common Requirements"
+  },
+  {
+   "namespace": "valkyrielib",
+   "key": "guide.valkyrielib.title.modifiers",
+   "en": "Modifiers"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.button.simple",
+   "en": "Simple"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.button.advanced",
+   "en": "Advanced"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.button.set",
+   "en": "set"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.button.colour",
+   "en": "Phase Shift"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.button.setname",
+   "en": "Set Name"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.button.remname",
+   "en": "Remove"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.label.value",
+   "en": "Value"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.label.name",
+   "en": "Frequency Name"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.label.colour",
+   "en": "Spectrum"
+  },
+  {
+   "namespace": "wrcbe",
+   "key": "wrcbe.label.freq",
+   "en": "Frequency"
+  }
+ ],
+ "excluded": {
+  "protected": 202,
+  "registry_name": 46,
+  "no_words": 12,
+  "dev_only": 2735
+ }
+}

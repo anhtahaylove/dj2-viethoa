@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "jei_1.12.2-4.16.1.302.jar",
+      "path": "assets/jei/lang/en_us.lang"
+    }
+  ]
+}

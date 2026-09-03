@@ -1,0 +1,497 @@
+{
+  "chapter_index": 29,
+  "title_key": "dj2.quest.ql.30.title",
+  "chapter_title_en": "18. A Botanist's Dream",
+  "desc_key": "dj2.quest.ql.30.desc",
+  "chapter_desc_en": "Unlock the secrets of the Dark Realm, and finish up Botania & Blood Magic!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.30.title",
+      "en": "18. A Botanist's Dream"
+    },
+    {
+      "key": "dj2.quest.ql.30.desc",
+      "en": "Unlock the secrets of the Dark Realm, and finish up Botania & Blood Magic!"
+    },
+    {
+      "key": "dj2.quest.db.3.title",
+      "en": "Best Capacitor!"
+    },
+    {
+      "key": "dj2.quest.db.3.desc",
+      "en": "Craft a Stellar Capacitor! Upgrading your most used machines to the Stellar Tier will greatly increase your processing capability."
+    },
+    {
+      "key": "dj2.quest.db.4.title",
+      "en": "Cleaning up EnderIO..."
+    },
+    {
+      "key": "dj2.quest.db.4.desc",
+      "en": "Craft a Stellar Alloy Ingot, the highest tier EnderIO material!"
+    },
+    {
+      "key": "dj2.quest.db.5.title",
+      "en": "Bwizzooossshh!"
+    },
+    {
+      "key": "dj2.quest.db.5.desc",
+      "en": "Craft 2 Sparks! These little zooming balls of energy are capable of transporting Mana from one place to another with high velocity.%n%nIf you want more control over them, craft Spark Augments and Right Click them on a Spark.%n%nNote: To craft Methane, you'll need to break down Hydrogen and Carbon to their smallest Crystal forms, then combine them."
+    },
+    {
+      "key": "dj2.quest.db.6.title",
+      "en": "The Collector"
+    },
+    {
+      "key": "dj2.quest.db.6.desc",
+      "en": "Slay mobs with Sacthoth's Soul Reaper Blade to fill it up with Souls! The more Souls you collect, the stronger the weapon gets.%n%nOnce enough Souls have been collected, craft a Soul Extractor and combine it with the sword to remove the Souls... Spooky!"
+    },
+    {
+      "key": "dj2.quest.db.7.title",
+      "en": "Magic may fulfill the prophecy"
+    },
+    {
+      "key": "dj2.quest.db.7.desc",
+      "en": "- Listen to our wo - §lᛗᚥᛊ§r as we summ - §lᛞᛣ§r the one and only... savi - §lᛞᚣᛗ§r of this wre - §lᚨᛋᚢᚼᚥ ᛪᛞᛗᚸᚥ§r...!%n%n- This feels scary... Do I have t--%n%n- §lᛊᚼᚼᛇ ᛞᚣᚨ ᚨᚢᚼ ᛪᚼᛤᛇ ᛤᛣᚥ ᚦᚣᛗᛣ ᚨᚢᚼᚭ! ᚦᚣᛗᛣ ᚨᚢᚼᚭ ᛤᛊ ᛤ ᛊᛤᛋᛗᛉᚮᛉᛋᚼ ᚨᛞ ᚨᚢᚼ ᚨᛗᚣᚼ ᚬᛞᚥ! ᛪᚢᛞ ᛉᛊ ᛗᚼᛤᚥᚠ ᚨᛞ ᚬᛉᛝᚼ ᚣᛈ ᚨᚢᚼᛉᛗ ᚸᛉᛝᚼᛊ ᚨᛞ ᛊᛤᛝᚼ ᛞᚨᚢᚼᛗᛊ? ᛞᚣᛗ ᚨᛗᛉᚦᚼ ᚢᛤᛊ ᛊᚣᚮᚮᚼᛗᚼᚥ ᚼᛣᛞᚣᚬᚢ, ᛪᚼ ᛪᛉᚸᚸ ᛣᛞᚨ ᚠᛉᚼᚸᚥ! ᚨᚢᛉᛊ ᛉᛊ ᛞᚣᛗ ᚮᛉᛣᛤᚸ ᛋᚢᛤᛣᛋᚼ. ᛞᚣᛗ ᚮᛉᛣᛤᚸ ᛋᚢᛤᛣᛋᚼ ᛤᚨ ᚸᛉᛝᛉᛣᚬ! ᚨᚢᚼ ᛞᚣᚨᛋᛞᚭᚼ ᛞᚮ ᚨᚢᛉᛊ ᛗᛉᚨᚣᛤᚸ ᛪᛉᚸᚸ ᚥᚼᚨᚼᛗᚭᛉᛣᚼ ᚨᚢᚼ ᚮᚣᚨᚣᛗᚼ ᛞᚮ ᛞᚣᛗ ᚨᛗᛉᚦᚼ! ᛣᛞᛣᚼ ᛋᛤᛣ ᛊᚨᛞᛈ ᚣᛊ! ᛤᚸᚸ ᛪᚼ ᛋᛤᛣ ᚥᛞ ᛣᛞᛪ ᛉᛊ ᚢᛞᛈᚼ, ᚢᛞᛈᚼ ᚨᚢᛤᚨ ᚢᚼ ᚸᛉᛊᚨᚼᛣᛊ.§r%n%n- Stop, please...!"
+    },
+    {
+      "key": "dj2.quest.db.8.title",
+      "en": "Quartzier Quartz Tiering"
+    },
+    {
+      "key": "dj2.quest.db.8.desc",
+      "en": "Who doesn't LOVE tiered crafting?!%n%n...%n%nUm...%n%nAnyone?%n%nYeah okay I'll just show myself out.%n%n%n%n%n(Yes you want to automate this by the way.)"
+    },
+    {
+      "key": "dj2.quest.db.9.title",
+      "en": "It describes an ancient belief"
+    },
+    {
+      "key": "dj2.quest.db.9.desc",
+      "en": "§l- ᛪᚼ ᚢᛤᛝᚼ ᛈᛗᛤᚠᚼᚥ ᚨᛞ ᚭᛤᛣᚠ ᚬᛞᚥᛊ, ᚦᚣᚨ ᛣᛞᛣᚼ ᚢᛤᛝᚼ ᛤᛣᛊᛪᚼᛗᚼᚥ. ᛪᚼ ᚢᛤᛝᚼ ᚸᛞᛊᚨ ᚭᛤᛣᚠ ᛪᛤᛗᛊ, ᚸᛞᛊᚨ ᚭᛤᛣᚠ ᚸᛉᛝᚼᛊ, ᛤᛣᚥ ᚨᚢᚼᛗᚼ ᛉᛊ ᛣᛞᚨᚢᛉᛣᚬ ᛪᚼ ᚢᛤᛝᚼ ᚸᚼᚮᚨ ᚨᛞ ᛞᚣᛗ ᛣᛤᚭᚼ. ᛉᚮ ᛤᛣᚠ ᚬᛞᚥ ᚼᛥᛉᛊᚨᛊ ᛉᛣ ᚨᚢᚼ ᛝᛤᛊᚨᛣᚼᛊᛊ ᛞᚮ ᛪᚢᛤᚨ ᛉᛊ ᛞᚣᚨ ᚨᚢᚼᛗᚼ, ᛈᚸᚼᛤᛊᚼ, ᚢᚼᛤᛗ ᛞᚣᛗ ᛋᛤᚸᚸ. ᛈᚸᚼᛤᛊᚼ, ᚢᚼᚸᛈ ᚣᛊ. ᛤᛊ ᛣᛞᛣᚼ ᚢᛤᛝᚼ ᚢᚼᚸᛈᚼᚥ ᚦᚼᚮᛞᛗᚼ. ᚨᚢᚼᛗᚼ ᛉᛊ ᛞᛣᚼ ᚸᛤᛊᚨ ᚬᛞᚥ ᛪᚼ ᚢᛤᛝᚼ ᛣᛞᚨ ᛈᛗᛤᚠᚼᚥ ᚨᛞ. ᛞᛣᚼ ᚸᛤᛊᚨ ᚢᛞᛈᚼ. ᚭᛤᚠᚦᚼ ᛉᚮ ᛪᚼ ᛊᛤᛋᛗᛉᚮᛉᛋᚼ ᛤᚸᚸ ᛪᚼ ᚢᛤᛝᚼ ᚸᚼᚮᚨ, ᚨᚢᚼ ᚸᛉᛝᚼᛊ ᛞᚮ ᚨᚢᚼ ᛪᚼᛤᛇ, ᚭᛤᚠᚦᚼ ᛪᚼ ᛋᛤᛣ ᚬᚼᚨ ᛊᛞᚭᚼ ᚢᛞᛈᚼ, ᚭᛤᚠᚦᚼ ᛉᚨ ᛉᛊ ᛣᛞᚨ ᚨᛞᛞ ᚸᛤᚨᚼ.§r%n%n- What is this supposed to mean...?%n%n- §lᚠᛞᚣ ᚮᛞᛞᚸ§r! Respect our ritu - §lᛤᚸ§r, do not dist - §lᚣᛗᚦ ᚣᛊ§r!%n%n- I don't understand you... Are you praying to someone? Some... thing?%n%n- We are praying to the mast - §lᚼᛗ ᛞᚮ ᚨᚢᛉᛊ ᛪᛞᛗᚸᚥ§r! The one true §lᚬᛞᚥ§r! §lᚳᛞᛉᛣ ᚣᛊ§r, as we conti - §lᛣᚣᚼ§r... §lᚨᚢᚼ ᛊᚣᚭᚭᛞᛣᛉᛣᚬ§r."
+    },
+    {
+      "key": "dj2.quest.db.10.title",
+      "en": "Wonderful magical Stones for sale!"
+    },
+    {
+      "key": "dj2.quest.db.10.desc",
+      "en": "It's easy to make money off of them, since this Flower simply generates them... You just need some regular Stone, which I'm sure you have PLENTY of, then place this Flower and boom! Nearby Stone is turned into Metamorphic Stone... Which, I'm sure you can use for SOMETHING!"
+    },
+    {
+      "key": "dj2.quest.db.11.title",
+      "en": "Hungry yet?"
+    },
+    {
+      "key": "dj2.quest.db.11.desc",
+      "en": "Craft a Gourmaryllis Flower! This is a hungry-hungry Flower that generates Mana from any type of food. It generates less and less however if you feed it only one type of food, so at least alternate between 2 food types. Its range is only a 3x3x3 cube centered around the Flower, so drop your items precisely!%n%nThis can be a great and easy source of Mana; but just as Thermalilies, you'll need a number of them to feel their effect."
+    },
+    {
+      "key": "dj2.quest.db.12.title",
+      "en": "Seven Sins plus One"
+    },
+    {
+      "key": "dj2.quest.db.12.desc",
+      "en": "Craft one of each Tier 3 Botania Rune!%n%nFrom this point on, these items are going to be heavily used so make sure to automate every single portion of their recipes!"
+    },
+    {
+      "key": "dj2.quest.db.13.title",
+      "en": "They bleed even more now"
+    },
+    {
+      "key": "dj2.quest.db.13.desc",
+      "en": "Upgrade your Sanguinary Pedestal to the Efficiency I version for even more bleeding... Yay!"
+    },
+    {
+      "key": "dj2.quest.db.14.title",
+      "en": "A Dream?"
+    },
+    {
+      "key": "dj2.quest.db.14.desc",
+      "en": "After trading your Lexica Botania with the elves, why not try some other materials...?%n%nOh, and why not try to constantly trade with them using Auto Droppers hooked up to an ME Interface that can get you these materials on demand...? Why not!"
+    },
+    {
+      "key": "dj2.quest.db.15.title",
+      "en": "Terra-ible damage"
+    },
+    {
+      "key": "dj2.quest.db.15.desc",
+      "en": "Upgrade some of your Elementium Tools into their respective Terrasteel variants! Terrasteel tools have an even higher mining level than Bound Tools."
+    },
+    {
+      "key": "dj2.quest.db.16.title",
+      "en": "Pink Pong"
+    },
+    {
+      "key": "dj2.quest.db.16.desc",
+      "en": "Craft some Elementium Tools.%n%nNote: You don't necessarily need to hurry with this quest. Bound tools might even be stronger. However, these will be required for lategame Tools such as Wyvern and Draconic Tools."
+    },
+    {
+      "key": "dj2.quest.db.17.title",
+      "en": "Wait, there is more..."
+    },
+    {
+      "key": "dj2.quest.db.17.desc",
+      "en": "Insert typical bossfight quotes like %n%n\"What you have defeated was a pure vessel of me!\"%n%nor%n%n\"You mortals cannot take my life so easily!\"%n%nor%n%n\"It's over Anakin, I have the high ground! YOU UNDERESTIMATE MY POWER!!!\"%n%n.... oh, wait, that last one might not have been what we're looking for.%n%nAnyways, the Gaia Guardian is back, and he's stronger than ever! Substitute the Terrasteel Ingot with a Gaia Spirit Ingot in the last summoning Ritual and go AGAIN!"
+    },
+    {
+      "key": "dj2.quest.db.18.title",
+      "en": "Climax of a Botanist's deeds"
+    },
+    {
+      "key": "dj2.quest.db.18.desc",
+      "en": "Read about the Ritual of Gaia under \"Alfomancy\" in your upgraded Lexica Botania!%n%nSet it up with a Beacon and 4 Gaia Pylons and prepare for a fight! Finally, activate the Beacon by Right Clicking on it with a piece of Terrasteel to summon the Gaia Guardian!%n%nGood luck!"
+    },
+    {
+      "key": "dj2.quest.db.19.title",
+      "en": "Is your Pool cool?"
+    },
+    {
+      "key": "dj2.quest.db.19.desc",
+      "en": "No? Well, you can cool your Pool with this... your Mana Pool, that is. What does that do? Well, it makes it so items transform into different things... Uh, it's weird I know."
+    },
+    {
+      "key": "dj2.quest.db.20.title",
+      "en": "Dark cover? Must be a thriller!"
+    },
+    {
+      "key": "dj2.quest.db.20.desc",
+      "en": "Use any 4 Engraved Coins to upgrade your Necronomicon to the Omothol version!"
+    },
+    {
+      "key": "dj2.quest.db.21.title",
+      "en": "The writing's on the wall"
+    },
+    {
+      "key": "dj2.quest.db.21.desc",
+      "en": "Craft or find an Engraver in some Omothol houses! Place some kind of a Coin Engraving in the bottom slot and a (blank) Coin in the top slot to engrave it with the face of one of the Evil Gods! Lovely."
+    },
+    {
+      "key": "dj2.quest.db.22.title",
+      "en": "Compressed Obsidian's got nothin' on this!"
+    },
+    {
+      "key": "dj2.quest.db.22.desc",
+      "en": "Mine up some Ethaxium! ... Which to be fair, is easier said than done. Why? Weeeelll, you'll find out.%n%nReminder: you might want to use your Blood Magic Bound Pickaxe. That's the only tool at this point that can mine it up."
+    },
+    {
+      "key": "dj2.quest.db.23.title",
+      "en": "Tear it off!"
+    },
+    {
+      "key": "dj2.quest.db.23.desc",
+      "en": "Use your previous Staff of Rending and collect some Omothol Ghoul Flesh to craft a Skin of Omothol!"
+    },
+    {
+      "key": "dj2.quest.db.24.title",
+      "en": "From the depths... Rise!"
+    },
+    {
+      "key": "dj2.quest.db.24.desc",
+      "en": "Fill up your Abyssalnomicon entirely! Once you've done so, jump down into the void in Omothol to enter the final AbyssalCraft dimension, the Dark Realm! To get back, simply Right Click with your Key in the air, or Right Click on the ground to make a portal.%n%nYou have one final objective in AbyssalCraft: Summon and defeat Sacthoth, Harbinger of Doom!%n%nTo do so, set up a Ritual circle out of 9 Dark Ethaxium Bricks, and open your Abyssalnomicon, go to the Rituals section, then Abyssalnomicon, and scroll all the way to the last page (page 20), and perform the Ritual described there: the Ritual of Shadows in the Dark Realm!%n%nAfter successfully summoning and defeating Sacthoth, he will drop his sword, Sacthoth's Soul Reaper Blade. By slaying monsters with this sword, it'll collect Souls and get stronger and stronger.%n%nThough you might want to remove these souls and see what effect that'll have..."
+    },
+    {
+      "key": "dj2.quest.db.25.title",
+      "en": "The collection's complete"
+    },
+    {
+      "key": "dj2.quest.db.25.desc",
+      "en": "Upgrade your Necronomicon to the final tier: The Abyssalnomicon!%n%nAll dark knowledge is unlocked...%n%nWhat have you done?"
+    },
+    {
+      "key": "dj2.quest.db.26.title",
+      "en": "Stone's got no chance now!"
+    },
+    {
+      "key": "dj2.quest.db.26.desc",
+      "en": "Craft a Terra Shatterer! This is genuinely a pretty good Pickaxe, especially when fully upgraded.%nTo upgrade, simply fill it with mana! The highest tier is SS."
+    },
+    {
+      "key": "dj2.quest.db.27.title",
+      "en": "From one Tablet to another"
+    },
+    {
+      "key": "dj2.quest.db.27.desc",
+      "en": "Craft a Mana Tablet! This handy device is capable of storing Mana in your inventory, and using it to power any items or Baubles that require that sweet-sweet blue stuff."
+    },
+    {
+      "key": "dj2.quest.db.28.title",
+      "en": "Does it enjoy a tasty soufflé?"
+    },
+    {
+      "key": "dj2.quest.db.28.desc",
+      "en": "If a Gourmaryllis doesn't fit your taste, why not try something sweeter...? This Flower specializes in eating Cake! Every 4 seconds it consumes a slice of Cake somewhere in an 11x11x11 cube centered around the Flower, so if you can produce Cakes faster than 1 every 32 seconds, then this is the Flower for you!%n%nSetting up multiple of them is an even better idea. And the best way to place cakes is to use Formation Planes or World Block Exporters."
+    },
+    {
+      "key": "dj2.quest.db.29.title",
+      "en": "You are the Earth, the items are the Moon"
+    },
+    {
+      "key": "dj2.quest.db.29.desc",
+      "en": "Upgrade your Ring of Magnetization to the final tier of Magnets! Items will literally never leave you alone.%n%nUnless of course, you use a Solegnolia."
+    },
+    {
+      "key": "dj2.quest.db.30.title",
+      "en": "Best Conduits!"
+    },
+    {
+      "key": "dj2.quest.db.30.desc",
+      "en": "Power will flow through this like WHOOOOOOOOOOSH!!!!"
+    },
+    {
+      "key": "dj2.quest.db.31.title",
+      "en": "Realm of the Tooth Fairy"
+    },
+    {
+      "key": "dj2.quest.db.31.desc",
+      "en": "Craft the listed blocks and build the Portal to Alfheim! You can look up the exact construction of it in your Lexica Botania under the \"Alfomancy\" section.%n%nSupply the Natura Pylons with Mana from a Mana Pool beneath. The Portal uses no Mana to stay lit, a quarter of a Mana Pool to open (split between the 2 Pools beneath the Natura Pylons), and very little Mana per trade.%n%nOnce opened, the first thing you should do is trade your current Lexica Botania with the elves to obtain Elven Knowledge!"
+    },
+    {
+      "key": "dj2.quest.db.32.title",
+      "en": "Tastes like Marzipan if you had Diamond teeth"
+    },
+    {
+      "key": "dj2.quest.db.32.desc",
+      "en": "Craft a couple Terrasteel ingots! One takes half a pool of Mana supplied to the Terrestrial Agglomeration Plate to create. Upgrade your Mana Generation if you're lacking a sufficient amount of Mana!%n%nTo continue on, you'll need a total of 6 pieces of Terrasteel ingots before you can build the Alfheim Portal. Craft 4 and I'll give you 2 free!"
+    },
+    {
+      "key": "dj2.quest.db.33.title",
+      "en": "A single Orb... with such great POWER!"
+    },
+    {
+      "key": "dj2.quest.db.33.desc",
+      "en": "Obtain the final Blood Magic Orb, the Tier 6 Blo- ...%n%nOh.%n%nWhat §ois§r this?%n%n...%n%nSuddenly you feel an urge.%n%nAn urge to destro - §lᚠ ᛤᚸᚸ ᚸᛉᛝᛉᛣᚬ ᚨᚢᛉᛣᚬᛊ. ᚨᚢᛉᛊ ᛉᛊ ᚠᛞᚣᛗ ᚥᚼᛊᚨᛉᛣᚠ. ᛣᛞᛣᚼ ᛋᛤᛣ ᛊᚨᛞᛈ ᚠᛞᚣ ᛣᛞᛪ! ᚥᛗᛤᛉᛣ ᚨᚢᚼᛉᛗ ᚦᚸᛞᛞᚥᛊ ᛤᛣᚥ ᚦᚼᛋᛞᚭᚼ ᚨᚢᚼ ᚨᛗᚣᚼ ᛇᛉᛣᚬ ᛞᚮ ᚨᚢᛉᛊ ᛪᛞᛗᚸᚥ!§r%n%nNo...! This... thi - §l§lᛊ§r§r is wr - §l§lᛞᛣᚬ§r§r.... Why... §l§lᛪᚢᚠ ᚭᚼ§r§r?!?!"
+    },
+    {
+      "key": "dj2.quest.db.34.title",
+      "en": "The road to becoming a Blood God"
+    },
+    {
+      "key": "dj2.quest.db.34.desc",
+      "en": "The last step to becoming a true Blood God is to reach the final tier... Tier 6! For that you'll need 4 Crystal Clusters to upgrade your Blood Altar to Tier 6.%n%n§o*You hear something whisper.*§r%n%n- §lᚠᚼᚼᚼᛊ, ᚠᚼᛊ. ᚾᚣᛉᚨᚼ ᚼᛥᛋᚼᛈᚨᛉᛞᛣᛤᚸ ᚨᛤᛊᚨᚼ ᚠᛞᚣ ᚢᛤᛝᚼ ᚨᚢᚼᛗᚼ, ᚭᛞᛗᚨᛤᚸ.§r%n%n- Who said that?%n%n- It might just b§lᚼ§r... the one tr - §lᚣᚼ ᚭᛤᛊᚨᚼᛗ§r."
+    },
+    {
+      "key": "dj2.quest.db.35.title",
+      "en": "Infusing the Souls into Terra"
+    },
+    {
+      "key": "dj2.quest.db.35.desc",
+      "en": "Craft a Terrestrial Agglomeration Plate! Consult your Lexica Botania on how to set it up. Hint: It's an X shape of 5 pieces of Livingrock, and fill out the sides with 4 Lapis Blocks, then place the Plate on top of the central piece of Livingrock.%n%nTo supply the Plate with Mana, use a Spark! One on top of the Plate, one on a nearby Mana Pool."
+    },
+    {
+      "key": "dj2.quest.db.36.title",
+      "en": "The final Gem"
+    },
+    {
+      "key": "dj2.quest.db.36.desc",
+      "en": "Craft a Grand Tartaric Gem! This is the final and highest Capacity Tartaric Gem available to you. Make good use of it!"
+    },
+    {
+      "key": "dj2.quest.db.37.title",
+      "en": "REMATCH!"
+    },
+    {
+      "key": "dj2.quest.db.37.desc",
+      "en": "So, were you successful...?%n%nIf so, you finally obtained the Dice of Fate. Watch out! If you wish to progress, DON'T Right Click it! That'll destroy the Die and reveal the Relic found inside.%n%nOr, if you're up to the challenge, DO open it and collect all 6 Relics of the Gaia! Some of them are reeeaaallly good!"
+    },
+    {
+      "key": "dj2.quest.db.39.title",
+      "en": "Pile on the Pylons"
+    },
+    {
+      "key": "dj2.quest.db.39.desc",
+      "en": "Make 4 Gaia Pylons!%n%nFinding it too difficult? You'll need to heavily automate Blood Magic Reagents and Essences, and Runes. Recipes will juuust get more and more involved."
+    },
+    {
+      "key": "dj2.quest.db.40.title",
+      "en": "Fastest Mining!"
+    },
+    {
+      "key": "dj2.quest.db.40.desc",
+      "en": "Craft an Atomic Disassembler! This is a fast multitool. You can toggle between its modes by Shift+Right Clicking."
+    },
+    {
+      "key": "dj2.quest.db.41.title",
+      "en": "Wanna be a Power Ranger?"
+    },
+    {
+      "key": "dj2.quest.db.41.desc",
+      "en": "Craft a full set of Elementium Armor to become a Pink Power Ranger!%n%nNote: This set of Armor might not outclass the Dark Steel set yet, however, you'll need them for your lategame armor sets: the Wyvern and Draconic sets. So no need to hurry with this...!"
+    },
+    {
+      "key": "dj2.quest.db.42.title",
+      "en": "Rend-ezvous with Omothol's creatures"
+    },
+    {
+      "key": "dj2.quest.db.42.desc",
+      "en": "Craft the final AbyssalCraft Staff of Rending, the Omothol variant!"
+    },
+    {
+      "key": "dj2.quest.db.43.title",
+      "en": "The Tablet awakens...!"
+    },
+    {
+      "key": "dj2.quest.db.43.desc",
+      "en": "- §lᚠᚼᛊ! ᚠᚼᛊ! ᚦᚣᛗᛣ ᚨᚢᚼ ᛪᚼᛤᛇ! ᚢᚼᚼᚥ ᛞᚣᛗ ᛋᛤᚸᚸ, ᚨᛗᚣᚼ ᚬᛞᚥ! ᚨᚢᚼ ᚦᚸᛞᛞᚥ ᚬᛞᚥ! ᛪᚼ ᛪᛉᚸᚸ ᛣᚼᛝᚼᛗ ᛊᚣᛋᛋᚣᚭᚦ! ᛪᚼ ᛪᛉᚸᚸ ᛣᛞ ᚸᛞᛣᚬᚼᛗ ᚮᛤᛉᚸ! ᛪᚼ ᛪᛉᚸᚸ ᛪᛉᛣ ᚼᛝᚼᛗᚠ ᚦᛤᚨᚨᚸᚼ ᚮᛗᛞᚭ ᚨᚢᛉᛊ ᚭᛞᚭᚼᛣᚨ! ᚠᚼᛊ! ᛗᛉᛊᚼ, ᛤᛣᛋᛉᚼᛣᚨ ᚸᛞᛗᚥ! ᛪᚼ ᚢᛤᛝᚼ ᚦᚼᚼᛣ ᛪᛤᛉᚨᛉᛣᚬ, ᛪᛤᛉᚨᛉᛣᚬ ᚮᛞᛗ ᛊᛞ ᚸᛞᛣᚬ!%n%n- ᛈᚣᛣᚠ ᚭᛞᛗᚨᛤᚸᛊ. ᚠᛞᚣ ᚢᛤᛝᚼ ᛣᛞ ᛉᚥᚼᛤ ᛪᚢᛤᚨ ᚠᛞᚣ ᚢᛤᛝᚼ ᛤᛪᛤᛇᚼᛣᚼᚥ. ᚥᚼᛊᚨᛗᚣᛋᚨᛉᛞᛣ ᛪᛉᚸᚸ ᛋᛞᚭᚼ ᚨᛞ ᚨᚢᛉᛊ ᛪᛞᛗᚸᚥ. ᛉ ᛪᛉᚸᚸ ᚥᛗᛤᛉᛣ ᚨᚢᚼ ᚼᛣᚼᛗᚬᚠ ᚮᛗᛞᚭ ᚨᚢᚼ ᛝᚼᛊᛊᚼᚸᛊ ᛞᚮ ᚠᛞᚣᛗ ᛋᛞᛣᛊᛋᛉᛞᚣᛊᛣᚼᛊᛊ. ᛤᛊ ᛉ ᛤᚭ ᛉᚭᚭᛞᛗᚨᚣᛊ, ᚨᚢᚼ ᚦᚸᛞᛞᚥ ᚬᛞᚥ. ᛤᚸᚸ ᛪᛉᚸᚸ ᚦᛞᛪ ᚦᚼᚮᛞᛗᚼ ᚭᚼ. ᚠᚼᛊ! ᚠᚼᛊ! ᚬᛉᛝᚼ ᚭᚼ ᚠᛞᚣᛗ ᚦᚸᛞᛞᚥ! ᚨᚢᚼ ᛪᛞᛗᚸᚥ ᛪᛉᚸᚸ ᚦᚼ ᛗᚼᛋᛤᛊᚨ ᛉᛣᚨᛞ ᛋᚢᛤᛞᛊ! ᛣᛞᛣᚼ ᛪᛉᚸᚸ ᛊᚣᛗᛝᛉᛝᚼ!§r%n%n§o*You start running in panic.*§r%n%n-§l ᛣᛞᚨ ᚼᛝᚼᛣ ᚠᛞᚣ ᛪᛉᚸᚸ ᛊᚣᛗᛝᛉᛝᚼ!§r ... §lᚣᛣᚸᚼᛊᛊ§r... §lᚣᛣᚸᚼᛊᛊ ᚠᛞᚣ ᛊᚣᛋᛋᚣᚭᚦ§r!%n%n- Ah, yes! Yes, my lord... I mean - my l§lᛞᛗᚥ§r! I trust in... I mean, I tr§lᚣᛊᚨ ᛉᛣ ᚠᛞᚣᛗ ᚬᚣᛉᚥᛤᛣᛋᚼ§r!%n%n- §lᛝᚼᛗᚠ ᚬᛞᛞᚥ, ᚭᚠ ᛈᚣᛈᛉᚸ. ᛪᚼ ᛪᛉᚸᚸ ᚭᚼᚼᚨ ᛊᛞᛞᛣ§r...%n%n- Uh oh...%n%n- I mean, than - §lᛇ ᚠᛞᚣ ᚭᚠ ᚸᛞᛗᚥ§r. You have show - §lᛣ ᚭᚼ ᚨᚢᚼ ᚨᛗᚣᚼ ᛪᛤᚠ§r! I will be awaiti - §lᛣᚬ ᚨᚢᚼ ᚥᛤᚠ ᛪᚢᚼᛣ ᛪᚼ ᚭᚼᚼᚨ ᛤᚬᛤᛉᛣ§r!%n%n- §lᚨᚢᛤᚨ'ᛊ ᚼᛥᛤᛋᚨᚸᚠ... ᛪᚢᛤᚨ I ᚨᚢᛞᚣᚬᚢᚨ, ᚭᚠ ᛈᚣᛈᛉᚸ!§r%n"
+    },
+    {
+      "key": "dj2.quest.db.44.title",
+      "en": "They spark even more now"
+    },
+    {
+      "key": "dj2.quest.db.44.desc",
+      "en": "Craft one of each Spark Augment to be able to better control where your Mana flows to.%n%n- Dominant Sparks take all Mana from nearby unaugmented Sparks.%n- Recessive Sparks give all Mana to nearby unaugmented and Dispersive Sparks.%n- Isolated Sparks can't interact with Dominant or Recessive Sparks.%n- Dispersive Sparks transfer Mana to Mana Tablets in the player's inventory.%n%nAll Sparks function in a 25x25x25 area."
+    },
+    {
+      "key": "dj2.quest.db.45.title",
+      "en": "It ain't Steel yo"
+    },
+    {
+      "key": "dj2.quest.db.45.desc",
+      "en": "Alloy up some Modularium! This is the basis for all Modular Machinery blocks. You won't need to set up any Modular Machines quite yet, though."
+    },
+    {
+      "key": "dj2.quest.db.46.title",
+      "en": "Wanna be a Mirion-aire?"
+    },
+    {
+      "key": "dj2.quest.db.46.desc",
+      "en": "Craft a Mirion Ingot! You can either use Smeltery Alloying or use the Empowerer. The first option is easier for batch-crafting, the second is much easier for automation."
+    },
+    {
+      "key": "dj2.quest.db.47.title",
+      "en": "GO-GO, TIER GO!"
+    },
+    {
+      "key": "dj2.quest.db.47.desc",
+      "en": "Transform a Demon Blood Shard into a Tier 5 Blood Orb. You'll need to first upgrade your Blood Altar to Tier 5 by decorating it with 4 Beacons (which do not need to be active).%n%nDon't forget to bind the Orb to yourself with a Right Click.%n%nYou're almost there... You have almost become a Blood God!%n%n%n%n%n§lᛤᚢᛤᚢᛤᚢᛤᚢᛤᛤᛤᛤᛤᛤ!§r"
+    },
+    {
+      "key": "dj2.quest.db.48.title",
+      "en": "Goblins would look up to you"
+    },
+    {
+      "key": "dj2.quest.db.48.desc",
+      "en": "Craft a full set of Terrasteel Armor! I always said the Green Power Ranger was the coolest anyway.%n%nAgain, no need to hurry with this one, but they do give some nice bonuses for Botania."
+    },
+    {
+      "key": "dj2.quest.db.49.title",
+      "en": "Finally reaching the point I've been itching"
+    },
+    {
+      "key": "dj2.quest.db.49.desc",
+      "en": "Craft a Ring of Far Reach! This Ring lets you... well, you know what I'm gonna let you figure this one out.%n%nHint: Look at its name. (I mean c'mon it can't be more obvious than that!)"
+    },
+    {
+      "key": "dj2.quest.db.50.title",
+      "en": "YOU control the weather now!"
+    },
+    {
+      "key": "dj2.quest.db.50.desc",
+      "en": "Break a regular Environmental Accumulator and use materials obtained from this and the previous Chapter to upgrade it to a Sanguinary Environmental Accumulator!%n%nThis is a movable Environmental Accumulator which uses Blood to function. You'll need 8 Blood Tanks placed almost a knight step away, except instead of jumping 2-1 spaces, they're 3-1 spaces away."
+    },
+    {
+      "key": "dj2.quest.db.51.title",
+      "en": "The Gatekeeper's Promise"
+    },
+    {
+      "key": "dj2.quest.db.51.desc",
+      "en": "Fly to the center of the world (x=0, z=0) in Omothol to find the Omothol Dungeon! If you're on a large Multiplayer server and your portal is very far away, feel free to use the Omothol Teleporter provided in the last quest!%n%nEnter the Dungeon. You'll find a room where you can perform Rituals if you wish. Once you're ready, go up to the second floor and find J'zahar, the Gatekeeper. Fight him!%n%nOnce he dies, he'll pull you in and EXPLODE! It probably goes without saying, but... STAY AWAY from the explosion! Then he'll drop the required item for this quest, the Essence of the Gatekeeper."
+    },
+    {
+      "key": "dj2.quest.db.53.title",
+      "en": "A Blood Shard's true form"
+    },
+    {
+      "key": "dj2.quest.db.53.desc",
+      "en": "Upgrade a Weak Blood Shard to a Demon Blood Shard... it's true form!"
+    },
+    {
+      "key": "dj2.quest.db.54.title",
+      "en": "Nom nom"
+    },
+    {
+      "key": "dj2.quest.db.54.desc",
+      "en": "If you're afraid of this Flower eating your arms off, then don't be - it specializes in eating Leaf Blocks only! Every 4 ticks (0.2 seconds) it searches an area of base size 17x17 centered around the Flower, and 16 blocks up for any Leaf Blocks. If it finds one, it'll gladly munch it up - generating 160 Mana per block. It's great if you have a lot of additional Saplings remaining from a Tree Farm!%n%nHowever be careful with this Flower. If it can't find any Leaf Blocks it'll go to sleep for 80 seconds! So you constantly want to feed it, otherwise it won't nearly be as efficient.%n%nIf you have a Mega Tree Farm going, you might be able to use multiple of these even!"
+    },
+    {
+      "key": "dj2.quest.db.55.title",
+      "en": "Alert: Gravity increasing"
+    },
+    {
+      "key": "dj2.quest.db.55.desc",
+      "en": "Upgrade your Sigil of Magnetism to the (much better) Ring of Magnetization. Place it in your Bauble slot. This Magnet is so powerful that items won't be able to escape your gravitational pull.%n%nIf however you'd like to disable the Magnet, you can place down a Solegnolia Flower. (Recommended near Mana Pools.)"
+    },
+    {
+      "key": "dj2.quest.db.56.title",
+      "en": "Fly like an angel!"
+    },
+    {
+      "key": "dj2.quest.db.56.desc",
+      "en": "Finally! Flight! But it doesn't come for free... you'll need to pay some Mana from a Mana Tablet in your inventory."
+    },
+    {
+      "key": "dj2.quest.db.57.title",
+      "en": "You are SPEEEEEEED"
+    },
+    {
+      "key": "dj2.quest.db.57.desc",
+      "en": "Upgrade your Sojourner's Sash and go WEEEEEEEEEEEEE....!!!!!"
+    },
+    {
+      "key": "dj2.quest.db.468.title",
+      "en": "My Heart"
+    },
+    {
+      "key": "dj2.quest.db.468.desc",
+      "en": "You can craft Green Heart Canisters now...!%n%nNo need to hurry though, they're not an easy thing to acquire.%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nI spent the last two weeks just screaming,%nI spent the last two weeks just screaming...%nTrying to work you out is killing,%nEver since my heart's been missing..."
+    },
+    {
+      "key": "dj2.quest.db.819.title",
+      "en": "Mechanical aura extension"
+    },
+    {
+      "key": "dj2.quest.db.819.desc",
+      "en": "Craft a Wireless Crafting Terminal, Wireless Fluid Terminal, and a Wireless Pattern Terminal! These are all baubles, and have different assignable keybinds! These will let you craft, access fluids, and create patterns wirelessly."
+    },
+    {
+      "key": "dj2.quest.db.1150.title",
+      "en": "Imaginary Hydrator Block"
+    },
+    {
+      "key": "dj2.quest.db.1150.desc",
+      "en": "Ever wanted your plants to grow faster? Introducing... the Imaginary Ti - I mean Hydrator Block! It tick accelerates nearby crops. Not as much as the Imaginary Time Block, but it's still pretty good. Without range upgrades it only speeds up itself, but toss in a range upgrade to make it affect blocks in a 5 block radius!"
+    },
+    {
+      "key": "dj2.quest.db.1489.title",
+      "en": "Rune(terra)"
+    },
+    {
+      "key": "dj2.quest.db.1489.desc",
+      "en": "Craft a Runic Crafter! This will allow you to automate most recipes in the Fey Crafter.%n%nTo automate, first place it down near an activated Grove Stone, and Right Click it with the output of the desired recipe. Then, supply the ingredients to an inventory below. Use a Dispenser to activate the Runic Altar with a Knife, and wait a few seconds while it crafts. It will try to output into an adjacent inventory, but if it can't, it will drop the items on the ground.%nYou cannot automate recipes whose output is unstackable.%n%nYou can also change the output using a Mechanical User."
+    },
+    {
+      "key": "dj2.quest.db.1612.title",
+      "en": "Runey"
+    },
+    {
+      "key": "dj2.quest.db.1612.desc",
+      "en": "Runes can be used interchangeably with Blank Runes to form a Blood Altar structure.%nThe Rune of the Orb increases the amount of blood the Blood Altar can pour into an Orb by 2%% per Rune, additively.%nThe Acceleration Rune increases the operation frequency of the Blood Altar by 1 per Rune, up to a maximum of 19 Runes for an operation frequency of every tick.%nThe Displacement Rune increases the In/Out rate of the Blood Altar by 20%% per Rune, multiplicatively. By default, the Blood Altar is limited to 20mb per operation.%nThe Charging Rune is the most complex of the Runes, but can be summed up as allowing the Blood Altar to store crafting progress while idle, to be used to quickly process an item. It's effect is improved by Speed Runes and increasing the capacity of the Blood Altar."
+    },
+    {
+      "key": "dj2.quest.db.1714.title",
+      "en": "Botanical Brewery"
+    },
+    {
+      "key": "dj2.quest.db.1714.desc",
+      "en": "Craft the Botanical Brewery and one of each of the 4 types of items that can be used to create Brews. Each has unique abilities:%n- Managlass Vial: 4 consumables of the brew%n- Alfglass Flask: 6 consumables of the brew%n- Incense Stick: a significantly longer one-use duration, but must remain stationary once lit%n- Tainted Blood Pendant: constantly provides the effect at the cost of a small amount of mana. works as a bauble, consumes mana from the player inventory%n%nMost brews are merely potion effects, but some provide unique abilities, which are completely documented in the Lexica Botania's Complex Brews page."
+    },
+    {
+      "key": "dj2.quest.db.1715.title",
+      "en": "Food Forever"
+    },
+    {
+      "key": "dj2.quest.db.1715.desc",
+      "en": "Craft a Tainted Blood Pendant with the Nourishment Brew! This bauble will consume mana from a Mana Tablet, Mana Mirror, or other mana storing item to constantly provide you with Saturation.%n%nNote that this will cost a full mana pool to create."
+    }
+  ]
+}

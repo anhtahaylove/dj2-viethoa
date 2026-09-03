@@ -1,0 +1,16 @@
+{
+  "name": "Hệ thống năng lượng",
+  "icon": "minecraft:redstone_block",
+  "category": "bigreactors:misc",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Theo thiết kế, các máy phát năng lượng của Extreme Reactors không bị ràng buộc với bất kỳ hệ thống năng lượng cụ thể nào hiện có trong thế giới Minecraft.$(br2)Năng lượng được tạo ra rồi được Power Tap chuyển đổi tức thời khi lấy khỏi bộ đệm năng lượng bên trong."
+    },
+    {
+      "type": "text",
+      "text": "Các Power Tap được lắp trong Reactor hoặc Turbine sẽ xác định hệ thống năng lượng đầu ra của máy.$(br2)Hiện tại, mod cung cấp $(l:reactor/part-forgepowertap)Forge Energy Power Tap$(/l), dùng để truyền các đơn vị $(bold)Forge Energy$().$(br2)Có thể dễ dàng hỗ trợ các hệ thống năng lượng khác bằng cách thêm loại Power Tap mới."
+    }
+  ]
+}

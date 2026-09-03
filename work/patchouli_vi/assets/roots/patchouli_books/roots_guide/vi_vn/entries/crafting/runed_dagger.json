@@ -1,0 +1,23 @@
+{
+  "name": "Runed Dagger",
+  "icon": "roots:runed_dagger",
+  "category": "crafting_armor_tools_runed",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cứng cáp và bền bỉ, vẫn có khả năng tự hồi phục nhưng chậm hơn nhiều so với các công cụ khác.$(br2)$(info) Vừa là một $(l:crafting/knives)con dao$() vừa là vũ khí mạnh, gây hiệu ứng chảy máu có thể cộng dồn tối đa 3 lần."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_dagger"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/knives"
+      ]
+    }
+  ]
+}

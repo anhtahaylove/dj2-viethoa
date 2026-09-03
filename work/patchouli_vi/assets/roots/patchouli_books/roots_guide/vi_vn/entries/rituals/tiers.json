@@ -1,0 +1,48 @@
+{
+  "name": "Ritual Tiers",
+  "icon": "roots:runed_acacia",
+  "category": "rituals_ritual",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Hệ thống cấp bậc cho biết cần thêm bao nhiêu thiết bị, bao gồm $(l:rituals/standing_stones)standing stones, ritual pillars$() hoặc các thiết bị khác, để hoàn thành nghi lễ.$(br2)$(info) Mọi nghi lễ từ cấp 1 trở lên đều có bố cục multiblock, có thể được hiển thị trực quan để dễ thiết lập hơn.$(br2)$(l:rituals/catalyst_plates)Catalyst plates$() không được tính khi xác định cấp bậc của nghi lễ."
+    },
+    {
+      "title": "Nghi lễ đơn giản",
+      "type": "spotlight",
+      "item": "roots:pyre",
+      "text": "Những nghi lễ này không cần thêm thành phần nào để hoạt động bình thường, nên được xếp vào 'cấp 0'.$(li)$(l:rituals/ritual_flower_growth)Flower Growth$()$(li)$(l:rituals/ritual_frost_lands)Frost Lands$()$(li)$(l:rituals/ritual_gathering)Gathering$()"
+    },
+    {
+      "title": "Cấp I",
+      "type": "spotlight",
+      "item": "roots:runestone",
+      "text": "Những nghi lễ này cần thêm một thành phần để hoạt động.$(li)$(l:rituals/ritual_divine_protection)Divine Protection$()$(li)$(l:rituals/ritual_germination)Germination$()$(li)$(l:rituals/ritual_grove_supplication)Grove Supplication$()$(li)$(l:rituals/ritual_healing_aura)Healing Aura$()$(li)$(l:rituals/ritual_overgrowth)Overgrowth$()$(li)$(l:rituals/ritual_summon_creatures)Summon Creatures$()$(li)$(l:rituals/ritual_transmutation)Transmutation$()$(li)$(l:rituals/ritual_wildroot_growth)Wildroot Growth$()"
+    },
+    {
+      "title": "Cấp II",
+      "type": "spotlight",
+      "item": "roots:chiseled_runestone",
+      "text": "Những nghi lễ này cần thêm hai thành phần để hoạt động.$(li)$(l:rituals/ritual_heavy_storms)Heavy Storms$()$(li)$(l:rituals/ritual_purity)Purity$()$(li)$(l:rituals/ritual_windwall)Windwall$()"
+    },
+    {
+      "title": "Cấp III",
+      "type": "spotlight",
+      "item": "roots:runed_acacia",
+      "text": "Những nghi lễ này cần thêm ba thành phần để hoạt động.$(li)$(l:rituals/ritual_animal_harvest)Animal Harvest$()"
+    },
+    {
+      "title": "Cấp IV",
+      "type": "spotlight",
+      "item": "roots:chiseled_runed_obsidian",
+      "text": "Đây là những nghi lễ phức tạp nhất, cần thêm bốn thành phần để hoạt động.$(li)$(l:rituals/ritual_fire_storm)Fire Storm$()$(li)$(l:rituals/ritual_spreading_forest)Spreading Forest$()$(li)$(l:rituals/ritual_warding_protection)Warding Protection$()"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "rituals/introduction"
+      ]
+    }
+  ]
+}

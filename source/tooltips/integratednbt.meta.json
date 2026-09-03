@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "integratednbt-1.2.2.jar",
+      "path": "assets/integratednbt/lang/en_us.lang"
+    }
+  ]
+}

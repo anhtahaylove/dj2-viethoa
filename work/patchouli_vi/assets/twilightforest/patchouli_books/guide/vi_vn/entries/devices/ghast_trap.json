@@ -1,0 +1,19 @@
+{
+  "name": "Ghast Trap",
+  "icon": "twilightforest:tower_device:10",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6250,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Ghast Trap",
+      "item": "twilightforest:tower_device:10",
+      "text": "Đúng như tên gọi, có vẻ mục đích duy nhất của thiết bị này là bẫy Ghast. Cấp tín hiệu Redstone cho nó dường như không có tác dụng; có lẽ nó cần một nguồn năng lượng nào đó?"
+    },
+    {
+      "type": "text",
+      "text": "Đây chính là thứ tôi cần! Nếu tôi tiêu diệt đủ số Ghastling yếu ớt quanh một trong những chiếc bẫy này, nó sẽ hấp thụ năng lượng từ những con bị hạ. Thiết bị phát ra tiếng leng keng khe khẽ; khi âm thanh đủ lớn, tôi có thể dùng tín hiệu Redstone để kích hoạt nó, kéo giật Ghast khỏi bầu trời và hút cả sinh lực của chúng."
+    }
+  ]
+}

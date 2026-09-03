@@ -1,0 +1,14 @@
+{
+  "chisel.tooltip.blockname": "%1$s (%2$s)",
+  "chisel.tooltip.power.pertick": "%s FE/t",
+  "chisel.tooltip.power.stored": "%s/%s FE",
+  "container.autochisel.title": "Auto Chisel",
+  "container.chisel.hitech.preview.hollow": "Rỗng",
+  "container.chisel.hitech.preview.single": "Đơn",
+  "container.chisel.title": "Chisel",
+  "item.chisel.chisel.desc.gui": "%sNhấp chuột phải%s để mở GUI",
+  "item.chisel.chisel.desc.lc1": "%sNhấp chuột trái%s để đục Block trong thế giới",
+  "item.chisel.chisel.desc.lc2": "%sChọn Block đích%s bằng cách để Chisel trong túi đồ",
+  "item.chisel.chisel.desc.modes": "Có nhiều chế độ đục.",
+  "item.chisel.chisel.desc.modes.selected": "Chế độ đã chọn: %s"
+}

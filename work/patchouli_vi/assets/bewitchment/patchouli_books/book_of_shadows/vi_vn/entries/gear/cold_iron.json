@@ -1,0 +1,35 @@
+{
+  "name": "Cold Iron",
+  "category": "gear",
+  "icon": "bewitchment:cold_iron_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Khắc tinh của Oberon và các linh hồn nói chung, đây là loại sắt được rèn trong ngọn lửa lạnh để giữ nguyên bản chất thuần khiết, nhờ đó có sức mạnh áp chế linh hồn."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/cold_iron_helmet",
+      "recipe2": "bewitchment:equipment/armor/cold_iron_chestplate"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/cold_iron_leggings",
+      "recipe2": "bewitchment:equipment/armor/cold_iron_boots"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_sword",
+      "recipe2": "bewitchment:equipment/tool/cold_iron_pickaxe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_hoe",
+      "recipe2": "bewitchment:equipment/tool/cold_iron_axe"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/cold_iron_shovel"
+    }
+  ]
+}

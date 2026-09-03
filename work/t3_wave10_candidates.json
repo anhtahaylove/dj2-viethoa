@@ -1,0 +1,812 @@
+[
+ {
+  "namespace": "baubles",
+  "key": "baubles.command.applied",
+  "en": "Applied the command.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.add",
+  "en": "%s is added to %s's curses",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.clear",
+  "en": "Took all curses from %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.empty",
+  "en": "%s does not have any curses active",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.get",
+  "en": "%s's curse(s): %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.nocurse",
+  "en": "%s does not have the curse %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.null",
+  "en": "%s is not a curse",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.curse.remove",
+  "en": "%s has been removed from %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.execute",
+  "en": "%s's fortune has been applied",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.execute.fail",
+  "en": "%s's fortune failed to apply, condition not met!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.get",
+  "en": "%s's fortune: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.nofortune",
+  "en": "%s does not have a fortune",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.null",
+  "en": "%s is not a fortune",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.remove",
+  "en": "%s's fortune has been removed",
+  "tier": "T3"
+ },
+ {
+  "namespace": "bewitchment",
+  "key": "commands.fortune.set",
+  "en": "%s's fortune was set to %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "chiselsandbits",
+  "key": "commands.setbit.cannotChiselBlock",
+  "en": "Block cannot be chiseled.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "chiselsandbits",
+  "key": "commands.setbit.invalidState",
+  "en": "Invalid Bit Type",
+  "tier": "T3"
+ },
+ {
+  "namespace": "chiselsandbits",
+  "key": "commands.setbit.noChange",
+  "en": "The bit couldn't be placed",
+  "tier": "T3"
+ },
+ {
+  "namespace": "chiselsandbits",
+  "key": "commands.setbit.outOfWorld",
+  "en": "Cannot place block outside of the world",
+  "tier": "T3"
+ },
+ {
+  "namespace": "chiselsandbits",
+  "key": "commands.setbit.spaceOccupied",
+  "en": "Bit cannot be placed space is occupied",
+  "tier": "T3"
+ },
+ {
+  "namespace": "chiselsandbits",
+  "key": "commands.setbit.success",
+  "en": "Bit placed",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.list.teams",
+  "en": "List of all teams (%d):",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.status.cant_set",
+  "en": "Status can't be set!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "commands.team.status.set",
+  "en": "Status for %s set to %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftblib",
+  "key": "sidebar_button.ftblib.settings",
+  "en": "Client Settings",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "admin_panel.ftbutilities.config",
+  "en": "Edit Config",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.chunks.claim_as.not_server_team",
+  "en": "Team %s is not a server team! Use /team create_server_team <name>",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.mute.muted",
+  "en": "You are muted!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.nbtedit.too_large",
+  "en": "NBT size too large!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ping.integrated_server",
+  "en": "Integrated Server",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.add.text",
+  "en": "Added rank %s as parent for %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.create.added",
+  "en": "Rank %s added!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.create.id_exists",
+  "en": "Rank '%s' already exists!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.create.id_invalid",
+  "en": "Invalid rank ID: '%s'. It must be alphanumeric & lowercase!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.delete.deleted",
+  "en": "Rank %s deleted",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.get_permission.text",
+  "en": "%s for %s is %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.not_found",
+  "en": "Rank '%s' not found!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.remove.text",
+  "en": "Removed rank %s as parent from %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.ranks.set_permission.set",
+  "en": "%s for %s set to %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.rec.not_recording",
+  "en": "%s is no longer recording!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "ftbutilities",
+  "key": "commands.rec.recording",
+  "en": "%s is now recording!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "jecalculation",
+  "key": "jecalculation.command.state.active",
+  "en": "Server active.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "jecalculation",
+  "key": "jecalculation.command.state.inactive",
+  "en": "Server inactive.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "loottweaker",
+  "key": "loottweaker.commands.dump.target.noTarget",
+  "en": "Nothing in range",
+  "tier": "T3"
+ },
+ {
+  "namespace": "loottweaker",
+  "key": "loottweaker.commands.dump.unknownSubcommand",
+  "en": "Unknown subcommand %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "mekanism",
+  "key": "cmd.mek.chunk.flush",
+  "en": "%d chunks unloaded",
+  "tier": "T3"
+ },
+ {
+  "namespace": "modularmachinery",
+  "key": "command.modularmachinery.hand.empty",
+  "en": "Please hold an item to get the data from.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.misc.command.flim_flam_failed",
+  "en": "Flim-flamming failed!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.misc.command.invalid",
+  "en": "Invalid command arguments",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openblocks",
+  "key": "openblocks.misc.command.no_flim_flam",
+  "en": "Invalid flim-flam name",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.calc_executed_count",
+  "en": "Executed %d commands",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.calc_function_defined",
+  "en": "Defined function %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.calc_invalid_key",
+  "en": "Invalid property name",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.calc_invalid_name",
+  "en": "Invalid calculator name",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.calc_stack_size",
+  "en": "Stack size: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.calc_stack_underflow",
+  "en": "Calculator stack underflow",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.cancelled",
+  "en": "Config change cancelled!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.invalid_command",
+  "en": "Invalid command '%s'",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.no_enough_args",
+  "en": "Not enough arguments",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.not_enough_arguments",
+  "en": "Not enough arguments",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.unknown_modid",
+  "en": "Unknown mod id",
+  "tier": "T3"
+ },
+ {
+  "namespace": "openmods",
+  "key": "openmodslib.command.unknown_value",
+  "en": "Unknown config value",
+  "tier": "T3"
+ },
+ {
+  "namespace": "projecte",
+  "key": "pe.command.showbag.offline.uuid",
+  "en": "Malformed UUID",
+  "tier": "T3"
+ },
+ {
+  "namespace": "quark",
+  "key": "commands.quarkconfig.invalid_category",
+  "en": "The category %s doesn't exist",
+  "tier": "T3"
+ },
+ {
+  "namespace": "quark",
+  "key": "commands.quarkconfig.invalid_property",
+  "en": "The property %s.%s doesn't exist",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.biomedict.get",
+  "en": "Biome Types for %s: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.biomedict.get.number",
+  "en": "Lookup (%s biomes)",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.biomedict.list",
+  "en": "Biomes of Type %s: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.biomedict.list.number",
+  "en": "Lookup (%s types)",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.dimensiondict.get",
+  "en": "Dimension Types for %d: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.dimensiondict.get.number",
+  "en": "Lookup (%s dimensions)",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.dimensiondict.list",
+  "en": "Dimensions of Type %s: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.dimensiondict.list.number",
+  "en": "Lookup (%s types)",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.didhide",
+  "en": "Hidden GUI - %s?",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.noEntityInfo",
+  "en": "The sender doesn't handle structure info!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.noOperation",
+  "en": "No currently queued operation",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.noSelection",
+  "en": "The sender doesn't handle selections!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rc.queuedOp",
+  "en": "Operation in preview - %s or %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcarea.select",
+  "en": "Select this area",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rccancel.run",
+  "en": "Cancel the operation",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcconfirm.run",
+  "en": "Run the operation",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcdecorateone.none",
+  "en": "No suitable structures found!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcforgetall.success",
+  "en": "Forgot %s structures!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcimportschematic.format",
+  "en": "The file '%s' has an unsupported format (%s)",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcimportschematic.missing",
+  "en": "The file '%s' was not found in %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rclist.next",
+  "en": "Next Page",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rclist.none",
+  "en": "No Structures",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rclist.previous",
+  "en": "Previous Page",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rclookup.reply.generates",
+  "en": "%s: §bGenerates§r, by: %s, is %s, %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rclookup.reply.nolink",
+  "en": "§oNo link provided§r",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rclookup.reply.silent",
+  "en": "%s: §bInactive§r, by: %s, is %s, %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcmap.nonvirtual",
+  "en": "Cannot map with this command!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcmap.nonvirtual.arguments",
+  "en": "Cannot map with these command arguments!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcmapall.result",
+  "en": "Saved %s elements to %s. %s failed. %s skipped.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcpreview.invalid",
+  "en": "Invalid preview type",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcpreview.success",
+  "en": "Preview type set to '%s'",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcreopen.fail",
+  "en": "Failed to reopen GUI!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcreopen.nogui",
+  "en": "No GUI to reopen!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcreopen.run",
+  "en": "Re-Open GUI",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcretro.count",
+  "en": "Retro-Generated %s chunks!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsave.nodirectory",
+  "en": "No such directory id!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsave.noregistry",
+  "en": "No such registry id!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsaveall.result",
+  "en": "Saved %s elements to %s. %s failed.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcsearch.empty",
+  "en": "No results!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcvisual.disabled",
+  "en": "'%s' successfully disabled",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.rcvisual.enabled",
+  "en": "'%s' successfully enabled",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.selectCopy.success",
+  "en": "Copied (%s) to clipboard",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.selectModify.invalidMetadata",
+  "en": "Metadata must be entered like '0,1,5', but was '%s'",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.selectModify.noSelection",
+  "en": "Player does not have a complete selection",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.selectSet.size",
+  "en": "Size: %s (%s blocks)",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.strucExportSchematic.success",
+  "en": "Exported schematic to %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.strucGen.failure",
+  "en": "The structure failed to spawn: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.strucGen.noStructure",
+  "en": "No structure registered by the name of '%s'",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.strucImport.noStructure",
+  "en": "No structure registered by the name of '%s'",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.strucPaste.noClipboard",
+  "en": "You have to copy an area first!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.strucReload.success",
+  "en": "Reloaded all %s files.",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.structure.notGeneric",
+  "en": "Structure '%s' is not generic!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.structure.notRegistered",
+  "en": "No structure found by name '%s'!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.whatisthis.many",
+  "en": "This is any, or all of: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.whatisthis.none",
+  "en": "There is nothing here!",
+  "tier": "T3"
+ },
+ {
+  "namespace": "reccomplex",
+  "key": "commands.whatisthis.one",
+  "en": "This is: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "thaumicaugmentation",
+  "key": "thaumicaugmentation.command.fixaura.aura_regen_done",
+  "en": "Aura regeneration complete",
+  "tier": "T3"
+ },
+ {
+  "namespace": "thaumicaugmentation",
+  "key": "thaumicaugmentation.command.invalid_arg",
+  "en": "Invalid argument",
+  "tier": "T3"
+ },
+ {
+  "namespace": "thaumicaugmentation",
+  "key": "thaumicaugmentation.command.invalid_command",
+  "en": "Invalid subcommand",
+  "tier": "T3"
+ },
+ {
+  "namespace": "thaumicaugmentation",
+  "key": "thaumicaugmentation.command.makefracture.done",
+  "en": "Fractures created",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.center",
+  "en": "Center of feature: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.chunk",
+  "en": "Are in feature chunk: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.nearest",
+  "en": "The nearest feature is %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.not_in_twilight_forest",
+  "en": "You are not in the Twilight Forest dimension",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.structure.conquer.status",
+  "en": "Structure conquer flag: %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.structure.conquer.update",
+  "en": "Structure conquer flag was %s, changing to %s",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.structure.inside",
+  "en": "You are in the structure for that feature",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.structure.outside",
+  "en": "You are not in the structure for that feature",
+  "tier": "T3"
+ },
+ {
+  "namespace": "twilightforest",
+  "key": "commands.tffeature.structure.required",
+  "en": "You are not in a structure",
+  "tier": "T3"
+ },
+ {
+  "namespace": "universaltweaks",
+  "key": "cmd.universaltweaks.time.set",
+  "en": "DIM %s: Set the time to %s",
+  "tier": "T3"
+ }
+]

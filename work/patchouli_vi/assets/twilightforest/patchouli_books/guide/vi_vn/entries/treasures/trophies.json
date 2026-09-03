@@ -1,0 +1,67 @@
+{
+  "name": "Trophies",
+  "icon": "twilightforest:trophy_pedestal",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/trophies",
+  "sortnum": 2310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thông tin về Trophy"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_trophy_pedestal",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:quest_ram",
+      "text": "Chú cừu — biết ơn vì bữa tiệc — đã ban tặng một... bản sao đầu của nó. Đôi khi, tốt hơn hết là đừng tìm hiểu quá sâu về những chuyện thế này. Trophy có thể được đặt để thể hiện niềm yêu thích ẩm thực len hảo hạng, thậm chí còn có thể đội làm mũ. Quả là phần thưởng thỏa đáng cho một công việc hoàn thành tốt... Có lẽ vậy."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_naga",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_lich",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "spotlight",
+      "title": "Minoshroom Trophy",
+      "item": "twilightforest:trophy:6",
+      "advancement": "twilightforest:progress_labyrinth",
+      "text": "Chiến lợi phẩm của Minoshroom, được trao cho những ai đã đánh bại con quái thú trong Labyrinth. Dù được bọc sắt, nó vẫn xứng đáng với trận chiến cam go bằng sức mạnh, hoặc trí tuệ đấu sức mạnh, tùy cách Minoshroom bị hạ."
+    },
+    {
+      "type": "spotlight",
+      "title": "Hydra Trophy",
+      "item": "twilightforest:trophy:2",
+      "advancement": "twilightforest:progress_hydra",
+      "text": "Một chiến lợi phẩm mô phỏng một trong nhiều chiếc đầu của Hydra. Dù chặt một đầu chỉ khiến nhiều đầu khác mọc ra, phần thưởng từ trận chiến nảy lửa này là bằng chứng rằng quái thú có đầu tái sinh vẫn có thể bị tiêu diệt. Có vẻ miệng của Trophy sẽ mở ra khi bên dưới không có bề mặt rắn."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_knights",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_ur_ghast",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_yeti",
+      "text": "đủ thứ linh tinh"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:progress_glacier",
+      "text": "đủ thứ linh tinh"
+    }
+  ]
+}

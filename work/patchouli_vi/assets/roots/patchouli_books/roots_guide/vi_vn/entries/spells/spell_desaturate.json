@@ -1,0 +1,97 @@
+{
+  "name": "Desaturate",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_desaturate\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_desaturate",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Là phép bổ trợ cho $(l:spells/spell_saturate)Saturate$(), Desaturate chuyển các đùi thức ăn thành hồi máu trực tiếp, dù tỷ lệ hao hụt hơi cao hơn so với chờ hồi phục tự nhiên.$(br2)Các modifier có thể tăng tỷ lệ này hoặc chuyển phần năng lượng dư sang tác động đến thế giới xung quanh bạn."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_desaturate"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:amplified_saturation",
+      "anchor": "amplified_saturation"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_heal",
+      "anchor": "excess_heal"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_growth",
+      "anchor": "excess_growth"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_absorb",
+      "anchor": "excess_absorb"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_damage",
+      "anchor": "excess_damage"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_levitation",
+      "anchor": "excess_levitation"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:thoughtful",
+      "anchor": "thoughtful"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_stone_skin",
+      "anchor": "excess_stone_skin"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_desaturate",
+      "modifier": "roots:excess_purification",
+      "anchor": "excess_purification"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:desaturate/SECONDS/cooldown) giây.$(br2)$(bold)Tỷ lệ:$() Với mỗi đùi thức ăn tiêu thụ, bạn hồi $(spell:desaturate/HEART/multiplier) tim. Khi dùng modifier $(modifier:amplified_saturation)$(), bạn sẽ hồi $(spell:desaturate/HEART/amplified_multiplier) tim mỗi đùi.$(br2)$(bold)Phạm vi:$() Mọi hiệu ứng nhắm đến các sinh vật khác đều tác động trong phạm vi $(spell:desaturate/radius_x) và $(spell:desaturate/radius_z) khối theo chiều ngang, cùng $(spell:desaturate/radius_y) khối theo chiều dọc.$(br2)$(bold)Hồi máu ôn hòa:$() Với"
+    },
+    {
+      "type": "text",
+      "text": "modifier $(modifier:excess_heal)$(), tối đa $(spell:desaturate/heal_targets) thực thể không thù địch được hồi lượng máu dư.$(br2)$(bold)Sinh trưởng:$() Với modifier $(modifier:excess_growth)$(), tối đa $(spell:desaturate/growth_count) cây được thúc đẩy sinh trưởng trong tối đa $(spell:desaturate/growth_ticks) tick với mỗi điểm hồi máu dư.$(br2)$(bold)Lá chắn:$() Với modifier $(modifier:excess_absorb)$(), bạn nhận Absorption $(spell:desaturate/ROMAN/shield_amplifier) trong $(spell:desaturate/SECONDS/shield_base_duration) giây với mỗi điểm hồi máu dư.$(br2)$(bold)Sát thương:$() Với modifier $(modifier:excess_damage)$(), tối đa $(spell:desaturate/damage_targets)"
+    },
+    {
+      "type": "text",
+      "text": "sinh vật thù địch trong phạm vi chịu sát thương bằng lượng dư.$(br2)$(bold)Bay lên:$() Với modifier $(modifier:excess_levitation)$(), tối đa $(spell:desaturate/levitation_targets) sinh vật thù địch nhận Levitation I trong $(spell:desaturate/SECONDS/levitation_duration) giây với mỗi điểm hồi máu dư.$(br2)$(bold)Kháng cự:$() Với modifier $(modifier:excess_stone_skin)$(), bạn nhận Resistance $(spell:desaturate/ROMAN/resistance_amplifier) trong $(spell:desaturate/SECONDS/resistance_base_duration) giây với mỗi điểm hồi máu dư."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Thanh tẩy:$() Với modifier $(modifier:excess_purification)$(), mỗi điểm hồi máu vượt mức (làm tròn lên) sẽ loại bỏ một hiệu ứng thuốc tiêu cực khỏi bạn.$(br2)$(bold)Chu đáo:$() Khi modifier $(modifier:thoughtful)$() hoạt động, phép chỉ tiêu thụ đủ số đùi thức ăn để hồi đầy máu, tránh hồi vượt mức."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/spirit_herb",
+        "herbs/terra_moss"
+      ]
+    }
+  ]
+}

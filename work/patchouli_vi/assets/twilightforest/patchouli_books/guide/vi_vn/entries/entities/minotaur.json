@@ -1,0 +1,23 @@
+{
+  "name": "Minotaur",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:minotaur\"}}",
+  "category": "entities",
+  "advancement": "twilightforest:alt/entities/minotaur",
+  "sortnum": 5020,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:minotaur",
+      "text": ""
+    },
+    {
+      "type": "text",
+      "text": "Những quái thú hình người lang thang trong Labyrinth. Các sinh vật nửa bò nửa người này dùng Golden Axe để phá tan phòng tuyến. Chúng lao tới cực nhanh và khi đi theo nhóm, dễ dàng áp đảo cả những nhà thám hiểm thận trọng."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/minotaur_axe_gold",
+      "text": "Hãy cẩn thận với Minotaur cầm Golden Minotaur Axe. Chúng tuy hiếm gặp, nhưng vũ khí khác biệt này cực kỳ nguy hiểm và gây nhiều sát thương hơn."
+    }
+  ]
+}

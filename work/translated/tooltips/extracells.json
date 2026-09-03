@@ -1,0 +1,18 @@
+{
+  "extracells.tooltip.storage.physical.types": "Đã dùng %s trong số %s loại vật phẩm.",
+  "extracells.tooltip.storage.physical.bytes": "Đã dùng %s trong số %s byte vật phẩm.",
+  "extracells.tooltip.storage.physical.content": "Chứa %s vật phẩm.",
+  "extracells.tooltip.storage.gas.bytes": "Đã dùng %s trong số %s byte khí.",
+  "extracells.tooltip.storage.gas.content": "Chứa %s khí.",
+  "extracells.tooltip.storage.gas.types": "Đã dùng %s trong số %s loại khí.",
+  "extracells.tooltip.storage.container.0": "Chế độ: Placement Mode",
+  "extracells.tooltip.storage.container.1": "Chế độ: Equal Trade Mode (1*1)",
+  "extracells.tooltip.storage.container.2": "Chế độ: Equal Trade Mode (3*3)",
+  "extracells.tooltip.onlyblocks": "Không thể đặt vật phẩm! Hãy cho một khối vào BLOCK-Container",
+  "extracells.tooltip.oredict": "Tên Ore Dictionary",
+  "extracells.tooltip.installed": "Đã lắp:",
+  "extracells.tooltip.deprecated1": "Vật phẩm này đã lỗi thời",
+  "extracells.tooltip.deprecated2": "Được thay thế bằng %s từ Applied Energistics 2",
+  "extracells.tooltip.deprecated.part": "Đặt vào lưới chế tạo để chuyển đổi",
+  "extracells.tooltip.deprecated.cell": "Làm trống cell này bằng ME IO Port, rồi tách thành các thành phần để chuyển đổi"
+}

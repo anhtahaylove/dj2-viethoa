@@ -1,0 +1,19 @@
+{
+  "name": "Cypress",
+  "category": "trees",
+  "icon": "bewitchment:cypress_sapling",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Cypress",
+      "text": "Một loài cây cao, sẫm màu, mọc ở những vùng có cây lá kim như Taigas. Loài cây này gắn liền với cái chết và thế giới bên kia, đồng thời rất cần thiết để tạo ra Ebb of Death fume. Dù vậy, chổi làm từ gỗ của nó giúp người cưỡi tạm thời nhận hiệu ứng Resistance khi bay."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/cypress.png"
+      ],
+      "border": true
+    }
+  ]
+}

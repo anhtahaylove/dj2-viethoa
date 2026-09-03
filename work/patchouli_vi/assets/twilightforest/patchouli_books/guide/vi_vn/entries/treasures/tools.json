@@ -1,0 +1,48 @@
+{
+  "name": "Tools",
+  "icon": "twilightforest:ironwood_pickaxe",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/tools",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thế giới này tràn ngập phép thuật, nên tôi đoán rằng việc dùng vật liệu nơi đây để chế tạo có thể tạo ra các công cụ sở hữu sẵn những năng lực ma thuật vốn thường chỉ có được nhờ phù phép."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/ironwood_tool_set",
+      "text": "Ironwood Tools"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/steeleaf_tool_set",
+      "text": "Steeleaf Tools"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/fiery_tool_set",
+      "text": "Fiery Tools"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/fiery_tool_set",
+      "text": "Fiery Tools"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/knightmetal_tool_set",
+      "text": "Knightly Tools"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/ice_sword",
+      "text": "Ice Sword"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/giant_tool_set",
+      "text": "Giant Tools"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cleaver",
+  "category": "lesser_demons",
+  "icon": "minecraft:leather",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cleaver là những thuộc hạ mang hình dạng minotaur của Moloch, Gluttonous Bull-King. Giống Great Minotaur, Cleaver tuần tra các hành lang như mê cung trong nether fortress, tìm thịt tươi và những linh hồn lạc lối để ăn thịt. Chúng mang theo một lưỡi đao khổng lồ để mổ xẻ mọi sinh vật sống bắt gặp trên đường."
+    },
+    {
+      "type": "text",
+      "text": "Ngoài lưỡi đao đồ tể, chúng còn có thể dùng sừng húc xuyên con mồi và hàm răng dữ tợn xé nát da thịt. Cleaver có mối thù không đội trời chung với Bafometyr vì cả hai Lesser Demon đều tranh giành quyền kiểm soát tàn tích fortress. Cleaver chỉ tôn trọng vua của chúng, các cận vệ của ngài và những kẻ mặc Besmirched Robes; chúng cũng sẵn lòng giao dịch với các cận vệ của nhà vua."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:cleaver",
+      "scale": 0.8,
+      "text": "$(o)Những Đứa Con của Golden Calf"
+    }
+  ]
+}

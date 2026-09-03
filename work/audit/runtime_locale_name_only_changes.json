@@ -1,0 +1,698 @@
+[
+  {
+    "file": "appliedenergistics2/01.json",
+    "key": "gui.appliedenergistics2.security.extract.name",
+    "old": "Withdraw",
+    "new": "Rút"
+  },
+  {
+    "file": "appliedenergistics2/01.json",
+    "key": "gui.appliedenergistics2.security.inject.name",
+    "old": "Deposit",
+    "new": "Nạp"
+  },
+  {
+    "file": "appliedenergistics2/01.json",
+    "key": "gui.appliedenergistics2.security.craft.name",
+    "old": "Craft",
+    "new": "Chế tạo"
+  },
+  {
+    "file": "appliedenergistics2/01.json",
+    "key": "gui.appliedenergistics2.security.build.name",
+    "old": "Build",
+    "new": "Xây dựng"
+  },
+  {
+    "file": "appliedenergistics2/01.json",
+    "key": "gui.appliedenergistics2.security.security.name",
+    "old": "Security",
+    "new": "Bảo mật"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.flowGate.name",
+    "old": "Flow Control",
+    "new": "Điều khiển dòng chảy"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.flowGateCurrentFlow.name",
+    "old": "Flow",
+    "new": "Dòng chảy"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.flowGateRSLow.name",
+    "old": "Redstone Signal Low",
+    "new": "Tín hiệu redstone thấp"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.flowGateRSHigh.name",
+    "old": "Redstone Signal High",
+    "new": "Tín hiệu redstone cao"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.increment.name",
+    "old": "Increment value by",
+    "new": "Tăng giá trị thêm"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.decrement.name",
+    "old": "Decrement value by",
+    "new": "Giảm giá trị đi"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "gui.de.pressOrScroll.name",
+    "old": "Press Or Scroll",
+    "new": "Nhấn hoặc cuộn"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorNVActive.name",
+    "old": "Night Vision",
+    "new": "Nhìn trong đêm"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorNVLock.name",
+    "old": "Lock Night Vision",
+    "new": "Khóa nhìn trong đêm"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorFlightLock.name",
+    "old": "Lock Flight",
+    "new": "Khóa bay"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorInertiaCancellation.name",
+    "old": "Inertia Cancellation",
+    "new": "Triệt tiêu quán tính"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorSpeedMult.name",
+    "old": "Move Speed Modifier",
+    "new": "Hệ số tốc độ di chuyển"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorJumpMult.name",
+    "old": "Jump Height Modifier",
+    "new": "Hệ số độ cao nhảy"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorHillStep.name",
+    "old": "Hill Step",
+    "new": "Bước lên dốc"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorSprintOnly.name",
+    "old": "Reduce When Walking",
+    "new": "Giảm khi đi bộ"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ArmorFlightSpeedMult.name",
+    "old": "Flight Speed Modifier",
+    "new": "Hệ số tốc độ bay"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ToolDigMultiplier.name",
+    "old": "Dig Speed",
+    "new": "Tốc độ đào"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ToolDigAOE.name",
+    "old": "Size",
+    "new": "Kích thước"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ToolDigDepth.name",
+    "old": "Dig Depth",
+    "new": "Độ sâu đào"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.WeaponAttackAOE.name",
+    "old": "Attack A.O.E",
+    "new": "Phạm vi tấn công"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.ToolVoidJunk.name",
+    "old": "Void Junk",
+    "new": "Hủy rác"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.AxeTreeMode.name",
+    "old": "Tree Mode",
+    "new": "Chế độ đốn cây"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BaseSafeAOE.name",
+    "old": "AOE Safe Mode",
+    "new": "Chế độ an toàn AOE"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.VerticalAcceleration.name",
+    "old": "Vertical Acceleration",
+    "new": "Gia tốc theo chiều dọc"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.EffectiveOnSprint.name",
+    "old": "Effective while sprinting",
+    "new": "Có hiệu lực khi chạy nước rút"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.GogglesOfRevealing.name",
+    "old": "Magical Sense",
+    "new": "Cảm nhận phép thuật"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowArrowSpeedModifier.name",
+    "old": "Arrow Velocity Modifier",
+    "new": "Hệ số vận tốc mũi tên"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowAutoFire.name",
+    "old": "Auto Fire",
+    "new": "Tự động bắn"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowArrowDamage.name",
+    "old": "Base Damage",
+    "new": "Sát thương cơ bản"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowExplosionPower.name",
+    "old": "Explosive Power",
+    "new": "Sức nổ"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowShockWavePower.name",
+    "old": "Shock Wave Power",
+    "new": "Sức mạnh sóng xung kích"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowEnergyBolt.name",
+    "old": "Arrow of Draconic Fire",
+    "new": "Mũi tên Draconic Fire"
+  },
+  {
+    "file": "draconicevolution/02.json",
+    "key": "button.de.BowZoomModifier.name",
+    "old": "Magnification",
+    "new": "Độ phóng đại"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.rocket.inv.name",
+    "old": "Inventory / Fuel",
+    "new": "Kho đồ / Nhiên liệu"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.rocket.launch.name",
+    "old": "Launch",
+    "new": "Phóng"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.rocket.turn.name",
+    "old": "Turn left-right",
+    "new": "Rẽ trái-phải"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.rocket.updown.name",
+    "old": "Turn up-down",
+    "new": "Hướng lên-xuống"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.add_players.name",
+    "old": "Add Player(s)",
+    "new": "Thêm người chơi"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.back.name",
+    "old": "Back",
+    "new": "Quay lại"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.brush_radius.name",
+    "old": "Brush Radius",
+    "new": "Bán kính cọ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.brush_size.name",
+    "old": "Brush Size",
+    "new": "Kích thước cọ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.close.name",
+    "old": "Close",
+    "new": "Đóng"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.customize.name",
+    "old": "Customize Flag",
+    "new": "Tùy chỉnh cờ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.eraser_radius.name",
+    "old": "Eraser Radius",
+    "new": "Bán kính tẩy"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.eraser_size.name",
+    "old": "Eraser Size",
+    "new": "Kích thước tẩy"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.global_stats.name",
+    "old": "View Global Stats",
+    "new": "Xem thống kê toàn cầu"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.invite_player.name",
+    "old": "Invite Player",
+    "new": "Mời người chơi"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.rem_players.name",
+    "old": "Remove Player(s)",
+    "new": "Loại người chơi"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.remove.name",
+    "old": "Remove",
+    "new": "Loại bỏ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.remove_player.name",
+    "old": "Remove Player",
+    "new": "Loại người chơi"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.rename.name",
+    "old": "Rename Team",
+    "new": "Đổi tên đội"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.send_invite.name",
+    "old": "Send Invite",
+    "new": "Gửi lời mời"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.server_stats.name",
+    "old": "View Server Stats",
+    "new": "Xem thống kê máy chủ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.create.title.name",
+    "old": "Space Race Manager",
+    "new": "Trình quản lý Space Race"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.join.member_count.name",
+    "old": "%d members",
+    "new": "%d thành viên"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.join.name",
+    "old": "Join",
+    "new": "Tham gia"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.join.owner.name",
+    "old": "Owner",
+    "new": "Chủ sở hữu"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.space_race.join.title.name",
+    "old": "Join Space Race",
+    "new": "Tham gia Space Race"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.active.name",
+    "old": "Active",
+    "new": "Hoạt động"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.air_lock_closed.name",
+    "old": "Air Lock Closed",
+    "new": "Khóa khí đã đóng"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.air_lock_open.name",
+    "old": "Air Lock Open",
+    "new": "Khóa khí đã mở"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.blockedfully.name",
+    "old": "Sun is Not Visible",
+    "new": "Không thấy Mặt Trời"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.blockedpartial.name",
+    "old": "Sun Partially Visible",
+    "new": "Thấy một phần Mặt Trời"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.check_pending.name",
+    "old": "Check Pending",
+    "new": "Đang chờ kiểm tra"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.check_starting.name",
+    "old": "Check Starting",
+    "new": "Đang bắt đầu kiểm tra"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.checking_seal.name",
+    "old": "Checking Seal",
+    "new": "Đang kiểm tra độ kín"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.collecting.name",
+    "old": "Collecting",
+    "new": "Đang thu thập"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.collectingenergy.name",
+    "old": "Collecting Energy",
+    "new": "Đang thu năng lượng"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.compressing.name",
+    "old": "Compressing",
+    "new": "Đang nén"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.disabled.name",
+    "old": "Disabled",
+    "new": "Đã vô hiệu hóa"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.fulltank.name",
+    "old": "Oxygen Tank Full",
+    "new": "Oxygen Tank đã đầy"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.generating.name",
+    "old": "Generating",
+    "new": "Đang tạo"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.hull_heat.name",
+    "old": "Hull Heat",
+    "new": "Nhiệt thân tàu"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.idle.name",
+    "old": "Idle",
+    "new": "Chờ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.missingleaves.name",
+    "old": "Not Enough Leaf Blocks",
+    "new": "Không đủ khối lá"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.missingoxygen.name",
+    "old": "Not Enough Oxygen",
+    "new": "Không đủ oxy"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.missingpower.name",
+    "old": "Not Enough Power",
+    "new": "Không đủ điện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.missingpower.short.name",
+    "old": "No Power",
+    "new": "Không có điện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.missingtank.name",
+    "old": "No Valid Oxygen Tank",
+    "new": "Không có Oxygen Tank hợp lệ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.nofuel.name",
+    "old": "No Fuel to Load!",
+    "new": "Không có nhiên liệu để nạp!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.noinvtarget.name",
+    "old": "No Inventory on Target!",
+    "new": "Mục tiêu không có kho đồ!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.noitems.name",
+    "old": "No Items to Load!",
+    "new": "Không có vật phẩm để nạp!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.nooil.name",
+    "old": "No Oil",
+    "new": "Không có dầu"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.not_generating.name",
+    "old": "Not Generating",
+    "new": "Không tạo"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.notargetload.name",
+    "old": "No Target to Load Into!",
+    "new": "Không có mục tiêu để nạp vào!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.notargetunload.name",
+    "old": "No Target to Unload!",
+    "new": "Không có mục tiêu để dỡ ra!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.off.name",
+    "old": "OFF",
+    "new": "TẮT"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.on.name",
+    "old": "ON",
+    "new": "BẬT"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.raining.name",
+    "old": "Raining",
+    "new": "Đang mưa"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.ready.name",
+    "old": "Ready",
+    "new": "Sẵn sàng"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.refining.name",
+    "old": "Refining",
+    "new": "Đang tinh chế"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.running.name",
+    "old": "Running",
+    "new": "Đang chạy"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.sealed.name",
+    "old": "Sealed",
+    "new": "Đã bịt kín"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.sealerblocked.name",
+    "old": "Output Vent Blocked!",
+    "new": "Lỗ thông khí đầu ra bị chặn!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.sun_visible.name",
+    "old": "Sun Visible",
+    "new": "Thấy Mặt Trời"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.tank_empty.name",
+    "old": "Oxygen Tank Empty",
+    "new": "Oxygen Tank đã cạn"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.targetempty.name",
+    "old": "Target Vehicle is Empty!",
+    "new": "Phương tiện mục tiêu đang trống!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.targetfull.name",
+    "old": "Target Vehicle is Full!",
+    "new": "Phương tiện mục tiêu đã đầy!"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.unknown.name",
+    "old": "Unknown",
+    "new": "Không rõ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.status.unsealed.name",
+    "old": "Area Too Big / Unsealed",
+    "new": "Khu vực quá lớn / Chưa bịt kín"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "gui.title.air_lock.name",
+    "old": "%s's Air Lock Controller",
+    "new": "Air Lock Controller của %s"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.map.name",
+    "old": "Galaxy Map",
+    "new": "Bản đồ thiên hà"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.sensortoggle.name",
+    "old": "Toggle Sensor Goggles Mode",
+    "new": "Chuyển chế độ Sensor Goggles"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.spaceshipinv.name",
+    "old": "Open Spaceship Inventory",
+    "new": "Mở kho đồ tàu vũ trụ"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.vehiclebackward.name",
+    "old": "Vehicle Backward Key",
+    "new": "Phím lùi phương tiện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.vehicledown.name",
+    "old": "Vehicle Down Key",
+    "new": "Phím hạ phương tiện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.vehicleforward.name",
+    "old": "Vehicle Forward Key",
+    "new": "Phím tiến phương tiện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.vehicleleft.name",
+    "old": "Vehicle Left Key",
+    "new": "Phím sang trái phương tiện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.vehicleright.name",
+    "old": "Vehicle Right Key",
+    "new": "Phím sang phải phương tiện"
+  },
+  {
+    "file": "galacticraftcore/02.json",
+    "key": "keybind.vehicleup.name",
+    "old": "Vehicle Up Key",
+    "new": "Phím nâng phương tiện"
+  },
+  {
+    "file": "mekanism/02.json",
+    "key": "tooltip.name",
+    "old": "Name",
+    "new": "Tên"
+  }
+]

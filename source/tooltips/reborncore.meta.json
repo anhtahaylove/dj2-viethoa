@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "RebornCore-1.12.2-3.19.5-universal.jar",
+      "path": "assets/reborncore/lang/en_us.lang"
+    }
+  ]
+}

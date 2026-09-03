@@ -1,0 +1,98 @@
+{
+  "name": "Tự động hóa nghi lễ",
+  "icon": "roots:pyre",
+  "category": "rituals_ritual",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Có thể đưa nguyên liệu vào nghi lễ bằng cách đặt một kho chứa chúng bên dưới Pyre (xem sơ đồ).$(br2)Khi Pyre trống, nguyên liệu sẽ được hút vào. Nếu tìm thấy nguyên liệu phù hợp khi nghi lễ kết thúc, Pyre sẽ tiêu thụ chúng và bắt đầu lại.$(br2)$(warning) Bạn phải tự bắt đầu nghi lễ đầu tiên để khóa Pyre vào nghi lễ đó trước khi có thể tự động hóa."
+    },
+    {
+      "type": "multiblock",
+      "name": "Vị trí kho chứa",
+      "multiblock": {
+        "mapping": {
+          "0": "minecraft:chest",
+          "R": "roots:pyre"
+        },
+        "pattern": [
+          [
+            " ",
+            "R",
+            " "
+          ],
+          [
+            " ",
+            "0",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ],
+          [
+            " ",
+            " ",
+            " "
+          ]
+        ]
+      },
+      "text": "Kho chứa nào cũng dùng được, miễn là nằm ngay bên dưới Pyre."
+    },
+    {
+      "type": "text",
+      "title": "Khởi động",
+      "text": "Ngoài việc nghi lễ tự tiếp tục khi có nguyên liệu hợp lệ, bạn còn có thể tự động khởi động Pyre bằng cách đặt lửa trên bất kỳ khối nào trong khu vực 3x3 quanh nó. (Xem sơ đồ)$(br2)$(info) Lửa không nằm trên khối nguồn lửa sẽ bị tiêu thụ và dập tắt để khởi động nghi lễ.$(br2)$(warning) Hiện tính năng này chỉ hoạt động với lửa vanilla."
+    },
+    {
+      "type": "multiblock",
+      "name": "Vị trí đặt lửa",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "G": "minecraft:grass",
+          "I": "minecraft:torch"
+        },
+        "pattern": [
+          [
+            "     ",
+            "     ",
+            "     "
+          ],
+          [
+            " III ",
+            " III ",
+            " III "
+          ],
+          [
+            " III ",
+            " I0I ",
+            " III "
+          ],
+          [
+            " GGG ",
+            " GGG ",
+            " GGG "
+          ],
+          [
+            "     ",
+            "     ",
+            "     "
+          ]
+        ]
+      },
+      "text": "Mọi vị trí có đuốc và khối cỏ bên dưới trong sơ đồ đều có thể dùng để tự động hóa bằng lửa."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/pyres",
+        "rituals/introduction",
+        "rituals/standing_stones"
+      ]
+    }
+  ]
+}

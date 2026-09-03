@@ -1,0 +1,10 @@
+# This project ships .lang/.json files whose bytes are the deliverable.
+#
+# Minecraft 1.12.2 splits tooltips on the literal two-character sequence \n;
+# a real U+000A inside a .lang value terminates the entry instead, so the rest
+# of the line silently vanishes in game. Release artifacts are also verified by
+# SHA256, so any end-of-line rewrite by git would both corrupt content and
+# invalidate every published checksum.
+#
+# Therefore: git must never translate line endings in this repository.
+* -text

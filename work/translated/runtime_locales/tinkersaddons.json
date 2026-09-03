@@ -1,0 +1,18 @@
+{
+  "modifier.auto-repair.desc": "§oTự Sửa Như Ngày Xưa §r\\nBạn đâu ngờ mình lại nhớ thứ này, phải không nào?",
+  "modifier.auto-repair.name": "Amelioration",
+  "modifier.bonus-modifier_1.name": "Bonus Modifier Toolkit",
+  "modifier.bonus-modifier_2.name": "Bonus Modifier Toolkit",
+  "modifier.bonus-modifier_3.name": "Bonus Modifier Toolkit",
+  "modifier.bonus-modifier_4.name": "Bonus Modifier Toolkit",
+  "tinkersaddons.amelioration_tome.description": "§2Thuộc Tính Tự Sửa Chữa§r",
+  "tinkersaddons.amelioration_tome.name": "Amelioration Tome",
+  "tinkersaddons.diamond_toolkit.description": "§3Cho Thêm Một Thuộc Tính§r",
+  "tinkersaddons.diamond_toolkit.name": "Diamond Toolkit",
+  "tinkersaddons.ender_toolkit.description": "§3Cho Thêm Một Thuộc Tính§r",
+  "tinkersaddons.ender_toolkit.name": "Ender Toolkit",
+  "tinkersaddons.gold_toolkit.description": "§3Cho Thêm Một Thuộc Tính§r",
+  "tinkersaddons.gold_toolkit.name": "Gold Toolkit",
+  "tinkersaddons.iron_toolkit.description": "§3Cho Thêm Một Thuộc Tính§r",
+  "tinkersaddons.iron_toolkit.name": "Iron Toolkit"
+}

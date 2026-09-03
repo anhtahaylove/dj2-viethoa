@@ -1,0 +1,74 @@
+{
+  "name": "Grove Supplication",
+  "icon": "roots:ritual_grove_supplication",
+  "category": "rituals",
+  "priority": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Khẩn cầu nguồn năng lượng của thế giới Fey vẫn còn lưu lại nơi đây để neo giữ một $(l:crafting/grove_stone)Grove Stone$().$(br2)Sau khi được neo giữ, khối đá sẽ phát sáng, chuyển động và tạo ra các hạt lá; một số hạt sẽ bay đến những $(l:crafting/fey_crafter)Fey Crafter$() gần đó.$(br2)Khối đá cũng sẽ bắt đầu tạo ra cỏ và các loài hoa hiếm."
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_grove_supplication",
+      "text": "Là một nghi lễ $(l:rituals/tiers)$(bold)bậc I$(), nghi lễ cần $(l:rituals/ritual_grove_supplication#multiblock)một Grove Stone$() để phát huy hiệu lực."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:pyre",
+          "1": "roots:grove_stone[facing=north,half=bottom,valid=false]",
+          "2": "roots:grove_stone[facing=north,half=middle,valid=false]",
+          "3": "roots:grove_stone[facing=north,half=top,valid=false]"
+        },
+        "pattern": [
+          [
+            "       ",
+            "       ",
+            "       ",
+            "3      ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "2      ",
+            "       ",
+            "       ",
+            "       "
+          ],
+          [
+            "       ",
+            "       ",
+            "       ",
+            "1  0   ",
+            "       ",
+            "       ",
+            "       "
+          ]
+        ]
+      },
+      "text": "Nghi lễ cần một $(l:rituals/grove_stone)Grove Stone$() chưa hoạt động để kích hoạt."
+    },
+    {
+      "type": "text",
+      "title": "Chi tiết nghi lễ",
+      "text": "$(bold)Thời gian:$() Nghi lễ kéo dài $(ritual:grove_supplication/SECONDS/duration) giây. Nếu không tìm thấy grove stone chưa kích hoạt ở gần khi nghi lễ kết thúc, nghi lễ sẽ thất bại.$(br2)$(bold)Phạm vi:$() Nghi lễ sẽ tìm grove stone trong khu vực rộng $(ritual:grove_supplication/radius_x) và $(ritual:grove_supplication/radius_z) khối theo chiều ngang, cùng $(ritual:grove_supplication/radius_y) khối theo chiều dọc."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/grove_stone",
+        "crafting/fey_crafter",
+        "crafting/runic_crafter"
+      ]
+    }
+  ]
+}

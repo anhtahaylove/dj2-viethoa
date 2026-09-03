@@ -1,0 +1,229 @@
+{
+ "rows": [
+  {
+   "namespace": "baubles",
+   "key": "baubles.command.help.usage",
+   "en": "  /baubles help"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.empty",
+   "en": "Empty"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.filled",
+   "en": "Filled"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.leftalt",
+   "en": "Left Alt"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.leftshift",
+   "en": "Left Shift"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.nobind",
+   "en": "No Key Bind"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.rightalt",
+   "en": "Right Alt"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.rightshift",
+   "en": "Right Shift"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.sort",
+   "en": "Condense and Combine"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.trash.invalid",
+   "en": "Cannot delete %s"
+  },
+  {
+   "namespace": "chiselsandbits",
+   "key": "mod.chiselsandbits.help.trashitem",
+   "en": "Delete only %s"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.block_powered_spawner.note.areaFull",
+   "en": "Too many mobs"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.block_powered_spawner.note.noLocationAtAll",
+   "en": "No viable space"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.block_powered_spawner.note.noLocationFound",
+   "en": "No space found"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noAxe",
+   "en": "No Axe"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noCapacitor",
+   "en": "No Capacitor"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noHoe",
+   "en": "No Hoe"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noPower",
+   "en": "No Power"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noSeeds",
+   "en": "No Seeds"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noShears",
+   "en": "No Shears"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noTreetap",
+   "en": "No Treetap"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.noWater",
+   "en": "No Water"
+  },
+  {
+   "namespace": "enderio",
+   "key": "enderio.farm.note.outputFull",
+   "en": "Output Full"
+  },
+  {
+   "namespace": "ftblib",
+   "key": "ftblib.lang.team.notification.hide",
+   "en": "Hide this Message"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.bugsorting",
+   "en": "Not working?"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.bugsorting.pt4",
+   "en": "\"inventory.fastclick\" and \"combined.improbable\""
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.backward",
+   "en": "(Backwards)"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.click",
+   "en": "Click"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.craftone",
+   "en": "Craft to inventory"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.drop",
+   "en": "Drop"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.everything",
+   "en": "Move everything"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.forward",
+   "en": "(Forward)"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.hotbar",
+   "en": "Move to hotbar"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.oneitem",
+   "en": "Move one item"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.onestack",
+   "en": "Move one stack"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.or",
+   "en": "or"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.selectconfig",
+   "en": "Select sorting configuration"
+  },
+  {
+   "namespace": "inventorytweaks",
+   "key": "invtweaks.help.shortcuts.title",
+   "en": "Shortcuts help"
+  },
+  {
+   "namespace": "journeymap",
+   "key": "jm.common.help",
+   "en": "Help..."
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.crashes.problemAction.notification",
+   "en": "Notification"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.debug.switch_profiler.help",
+   "en": "F3 + S = Cycle client <-> integrated server profiler"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.notification.title.mod",
+   "en": "%s ran into a problem!"
+  },
+  {
+   "namespace": "normalasm",
+   "key": "normalasm.notification.title.unknown",
+   "en": "An unknown problem occured!"
+  },
+  {
+   "namespace": "projectintelligence",
+   "key": "pi.style.hover.prop",
+   "en": "Mouseover"
+  },
+  {
+   "namespace": "reccomplex",
+   "key": "reccomplex.save.submit.hover",
+   "en": "Submit to Repository"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "chiselsandbits-14.33.jar",
+      "path": "assets/chiselsandbits/lang/en_us.lang"
+    }
+  ]
+}

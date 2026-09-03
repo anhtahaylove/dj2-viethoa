@@ -1,0 +1,12 @@
+{
+  "requious.jei.recipe.excavator": "Các mạch Excavator",
+  "requious.jei.recipe.activate_block_or_entity": "Kích hoạt Block hoặc Entity",
+  "requious.jei.recipe.metamorphic": "Chuyển đổi Marimorphosis",
+  "requious.jei.recipe.charge": "Nạp Item",
+  "requious.jei.recipe.configure": "Cấu hình Block",
+  "requious.jei.recipe.explore_world": "Khám phá thế giới",
+  "requious.jei.recipe.beacon_base": "Đế Beacon",
+  "requious.jei.recipe.enervation_dynamo": "Enervation Dynamo",
+  "requious.jei.recipe.roots_entity_spawning": "Hỗ trợ triệu hồi Entity của Roots",
+  "requious.jei.recipe.roots_block_conversion": "Hỗ trợ chuyển đổi Block của Roots"
+}

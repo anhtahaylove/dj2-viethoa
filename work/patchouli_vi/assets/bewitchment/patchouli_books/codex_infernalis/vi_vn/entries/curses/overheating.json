@@ -1,0 +1,12 @@
+{
+  "name": "Overheating",
+  "category": "curses",
+  "icon": "minecraft:fire_charge",
+  "pages": [
+    {
+      "type": "bewitchment:curse_recipe",
+      "recipe": "bewitchment:overheating",
+      "text": "Khiến cơ thể mục tiêu chịu nhiệt kém hơn nhiều, làm họ ngẫu nhiên bốc cháy trong các quần xã nóng và nhận thêm sát thương từ lửa cùng dung nham."
+    }
+  ]
+}

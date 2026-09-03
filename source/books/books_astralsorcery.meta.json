@@ -1,0 +1,10 @@
+{
+  "namespace": "astralsorcery",
+  "english_locale": "en_US",
+  "jar": "astralsorcery-1.12.2-1.10.27.jar",
+  "paths": [
+    "assets/astralsorcery/lang/en_US.lang"
+  ],
+  "keys": 167,
+  "sha256": "1d61a7366a2a6b17640202cbdac6a87ebdaaa277f3d3718b5247a142d52d390a"
+}

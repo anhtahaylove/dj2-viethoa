@@ -1,0 +1,5 @@
+# Safe player-facing tooltip/prose candidates.
+chat.thermalfoundation.augment.install.failure=Unable to install augment.
+chat.thermalfoundation.augment.install.success=Augment successfully installed!
+chat.thermalfoundation.upgrade.install.failure=Unable to upgrade block.
+chat.thermalfoundation.upgrade.install.success=Block successfully upgraded!

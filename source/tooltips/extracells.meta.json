@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "ExtraCells-1.12.2-2.6.7.jar",
+      "path": "assets/extracells/lang/en_us.lang"
+    }
+  ]
+}

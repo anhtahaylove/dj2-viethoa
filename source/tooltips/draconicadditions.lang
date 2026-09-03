@@ -1,0 +1,9 @@
+# Safe player-facing tooltip/prose candidates.
+config.field.shirtSafetyCutoff.description=Allows you to set the point where this shirt will stop functioning and preserve your remaining life.\n\nNote\: This is counted in HP, or half-hearts.
+config.field.shirtEntropyActivate.description=Allows you to set at what entropy percent the shirt will start stealing your life to fuel your shields.
+config.field.armorChaosInjection.description=This setting controls the rate at which chaos will be injected into your bloodstream when you activate it.\n\nThe faster the injection, the harder it is for the shielding to keep your body intact.  The more chaos you have in your blood, the more powerful you become, but the longer it takes to remove.
+item.draconicadditions\:chaosItem.lore=The Chaos hasn't been stabilized yet!
+item.draconicadditions\:infused_potato.lore=Infused, but not yet powered...
+item.draconicadditions\:infused_potato.lore2=Maybe it needs a jumpstart?
+item.draconicadditions\:potato.lore=While the wild growth was unexpected,
+item.draconicadditions\:potato.lore2=it's now energized. Strange, but still useful.

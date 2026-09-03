@@ -1,0 +1,6 @@
+{
+  "name": "Cauldron và Pha chế",
+  "description": "Chủ yếu dùng để tạo ra những loại thuốc nâng cao mà Brewing Stand thông thường không thể sánh được. Một số vật phẩm khác có thể được đun và kết hợp trong Cauldron để tạo thành vật phẩm mới. Cauldron cần năng lượng phép thuật và phải có lửa bên dưới mới hoạt động. Có thể ném Wood Ash vào bất cứ lúc nào để làm sạch Cauldron. Ngoài ra, Cauldron còn có thể dùng để chế biến một số món ăn.",
+  "icon": "bewitchment:textures/gui/patchouli/icons/book_of_shadows/cauldron.png",
+  "sortnum": 4
+}

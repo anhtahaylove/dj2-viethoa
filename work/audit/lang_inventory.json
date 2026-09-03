@@ -1,0 +1,1188 @@
+{
+  "acintegration": [
+    {
+      "jar": "AbyssalCraft Integration-1.12.2-1.11.3.jar",
+      "path": "assets/acintegration/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "abyssalcraft": [
+    {
+      "jar": "AbyssalCraft-1.12.2-1.10.4.jar",
+      "path": "assets/abyssalcraft/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "actuallyadditions": [
+    {
+      "jar": "ActuallyAdditions-1.12.2-r152.jar",
+      "path": "assets/actuallyadditions/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "aenetvistool": [
+    {
+      "jar": "AE-Net-Vis-Tool-1.12.2-1.0.3.0-universal.jar",
+      "path": "assets/aenetvistool/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "appliedenergistics2": [
+    {
+      "jar": "ae2-uel-v0.56.4.jar",
+      "path": "assets/appliedenergistics2/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "aether_legacy": [
+    {
+      "jar": "aether-1.12.2-v1.5.4.1.jar",
+      "path": "assets/aether_legacy/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "agricraft": [
+    {
+      "jar": "agricraft-2.12.0-1.12.2-b2.jar",
+      "path": "assets/agricraft/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "akashictome": [
+    {
+      "jar": "AkashicTome-1.2-12.jar",
+      "path": "assets/akashictome/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "alchemistry": [
+    {
+      "jar": "alchemistry-1.12.2-42.jar",
+      "path": "assets/alchemistry/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "astralsorcery": [
+    {
+      "jar": "astralsorcery-1.12.2-1.10.27.jar",
+      "path": "assets/astralsorcery/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "atum": [
+    {
+      "jar": "Atum-1.12.2-2.0.20.jar",
+      "path": "assets/atum/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "autoreglib": [
+    {
+      "jar": "AutoRegLib-1.3-32.jar",
+      "path": "assets/autoreglib/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "avaritia": [
+    {
+      "jar": "Avaritia-1.12.2-3.3.0.37-universal.jar",
+      "path": "assets/avaritia/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "avaritiaddons": [
+    {
+      "jar": "Avaritiaddons-1.12.2-1.2.jar",
+      "path": "assets/avaritiaddons/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "badmobs": [
+    {
+      "jar": "BadMobs-1.12.2-1.1.40.jar",
+      "path": "assets/badmobs/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "base": [
+    {
+      "jar": "base-1.12.2-3.14.0.jar",
+      "path": "assets/base/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "bno": [
+    {
+      "jar": "BasicNetherOres-1.12.2-1.0.5.0.jar",
+      "path": "assets/bno/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "bhc": [
+    {
+      "jar": "baubley-heart-canisters-1.12.2-1.2.3.jar",
+      "path": "assets/bhc/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "betterbuilderswands": [
+    {
+      "jar": "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
+      "path": "assets/betterbuilderswands/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "betternether": [
+    {
+      "jar": "betternether-0.1.8.6.jar",
+      "path": "assets/betternether/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "betterp2p": [
+    {
+      "jar": "betterp2p-1.12.2-1.2.3-extended_life.jar",
+      "path": "assets/betterp2p/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "betterquesting": [
+    {
+      "jar": "BetterQuesting-3.5.329.jar",
+      "path": "assets/betterquesting/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "bewitchment": [
+    {
+      "jar": "bewitchment-1.12.2-0.0.22.65.jar",
+      "path": "assets/bewitchment/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "bibliocraft": [
+    {
+      "jar": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+      "path": "assets/bibliocraft/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "biggercraftingtables": [
+    {
+      "jar": "BiggerCraftingTables-1.12.2-2.3b.jar",
+      "path": "assets/biggercraftingtables/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "biometweaker": [
+    {
+      "jar": "BiomeTweaker-1.12.2-3.2.369.jar",
+      "path": "assets/biometweaker/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "bloodmagic": [
+    {
+      "jar": "BloodMagic-1.12.2-2.4.3-105.jar",
+      "path": "assets/bloodmagic/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "bloodmagicguide": [
+    {
+      "jar": "BloodMagic-1.12.2-2.4.3-105.jar",
+      "path": "assets/bloodmagicguide/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "bnbgaminglib": [
+    {
+      "jar": "BNBGamingLib-1.12.2-2.17.6.jar",
+      "path": "assets/bnbgaminglib/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "bookshelf": [
+    {
+      "jar": "Bookshelf-1.12.2-2.3.590.jar",
+      "path": "assets/bookshelf/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "botania": [
+    {
+      "jar": "botania-r1.10-372.jar",
+      "path": "assets/botania/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "bqtweaker": [
+    {
+      "jar": "BQTweaker-1.3.5.jar",
+      "path": "assets/bqtweaker/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "brandonscore": [
+    {
+      "jar": "BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+      "path": "assets/brandonscore/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "baubles": [
+    {
+      "jar": "Bubbles-2.4.10.jar",
+      "path": "assets/baubles/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "buildinggadgets": [
+    {
+      "jar": "BuildingGadgets-2.8.4.jar",
+      "path": "assets/buildinggadgets/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "chisel_guide": [
+    {
+      "jar": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "path": "assets/chisel_guide/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "chisel": [
+    {
+      "jar": "Chisel-MC1.12.2-1.0.2.45.jar",
+      "path": "assets/chisel/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "chiselsandbits": [
+    {
+      "jar": "chiselsandbits-14.33.jar",
+      "path": "assets/chiselsandbits/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "cofh": [
+    {
+      "jar": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "path": "assets/cofh/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "cofhworld": [
+    {
+      "jar": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "path": "assets/cofhworld/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "commoncapabilities": [
+    {
+      "jar": "CommonCapabilities-1.12.2-2.4.8.jar",
+      "path": "assets/commoncapabilities/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "craftingtweaks": [
+    {
+      "jar": "CraftingTweaks_1.12.2-8.1.9.jar",
+      "path": "assets/craftingtweaks/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "crafttweaker": [
+    {
+      "jar": "CraftTweaker2-1.12-4.1.20.711.jar",
+      "path": "assets/crafttweaker/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "cucumber": [
+    {
+      "jar": "Cucumber-1.12.2-1.1.3.jar",
+      "path": "assets/cucumber/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "cyclopscore": [
+    {
+      "jar": "CyclopsCore-1.12.2-1.6.7.jar",
+      "path": "assets/cyclopscore/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "danknull": [
+    {
+      "jar": "DankNull-1.12.2-1.7.101.jar",
+      "path": "assets/danknull/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "demagnetize": [
+    {
+      "jar": "demagnetize-1.12.2-1.1.2.jar",
+      "path": "assets/demagnetize/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "divinerpg": [
+    {
+      "jar": "DivineRPG-1.7.1.jar",
+      "path": "assets/divinerpg/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "dj2addons": [
+    {
+      "jar": "dj2addons-1.2.1.1.1.jar",
+      "path": "assets/dj2addons/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "draconicadditions": [
+    {
+      "jar": "Draconic-Additions-1.12.2-1.15.1.39-universal.jar",
+      "path": "assets/draconicadditions/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "draconicevolution": [
+    {
+      "jar": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+      "path": "assets/draconicevolution/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "endercore": [
+    {
+      "jar": "EnderCore-1.12.2-0.5.78.jar",
+      "path": "assets/endercore/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "enderio": [
+    {
+      "jar": "EnderIO-1.12.2-5.3.72.jar",
+      "path": "assets/enderio/lang/en_us.lang",
+      "locale": "en_us"
+    },
+    {
+      "jar": "EnderIO-endergy-1.12.2-5.3.72.jar",
+      "path": "assets/enderio/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "gasconduits": [
+    {
+      "jar": "EnderIO-conduits-mekanism-1.12.2-5.3.72.jar",
+      "path": "assets/gasconduits/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "endermodpacktweaks": [
+    {
+      "jar": "endermodpacktweaks-0.5.11.jar",
+      "path": "assets/endermodpacktweaks/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "enderstorage": [
+    {
+      "jar": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+      "path": "assets/enderstorage/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "enderutilities": [
+    {
+      "jar": "enderutilities-1.12.2-0.7.15.jar",
+      "path": "assets/enderutilities/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "erebus": [
+    {
+      "jar": "Erebus-1.0.32.jar",
+      "path": "assets/erebus/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "evilcraft": [
+    {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraft/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "evilcraftcompat": [
+    {
+      "jar": "EvilCraft-1.12.2-0.10.78.jar",
+      "path": "assets/evilcraftcompat/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "extendedcrafting": [
+    {
+      "jar": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+      "path": "assets/extendedcrafting/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "extracells": [
+    {
+      "jar": "ExtraCells-1.12.2-2.6.7.jar",
+      "path": "assets/extracells/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "extracpus": [
+    {
+      "jar": "extracpus-1.12.2-1.2.1.jar",
+      "path": "assets/extracpus/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "extrautils2": [
+    {
+      "jar": "extrautils2-1.12-1.9.9.jar",
+      "path": "assets/extrautils2/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "bigreactors": [
+    {
+      "jar": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+      "path": "assets/bigreactors/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "normalasm": [
+    {
+      "jar": "fermiumasm-5.31.jar",
+      "path": "assets/normalasm/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "multipart": [
+    {
+      "jar": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+      "path": "assets/multipart/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "framedcompactdrawers": [
+    {
+      "jar": "framedcompactdrawers-1.2.7.jar",
+      "path": "assets/framedcompactdrawers/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "ftbbackups": [
+    {
+      "jar": "FTBBackups-1.1.0.1.jar",
+      "path": "assets/ftbbackups/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "ftblib": [
+    {
+      "jar": "FTBLib-5.4.7.2.jar",
+      "path": "assets/ftblib/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "ftbutilities": [
+    {
+      "jar": "FTBUtilities-5.4.1.131.jar",
+      "path": "assets/ftbutilities/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "galacticraftcore": [
+    {
+      "jar": "Galacticraft-1.12.2-4.0.7.jar",
+      "path": "assets/galacticraftcore/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "galacticraftplanets": [
+    {
+      "jar": "Galacticraft-1.12.2-4.0.7.jar",
+      "path": "assets/galacticraftplanets/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "groovyscript": [
+    {
+      "jar": "groovyscript-1.4.3.jar",
+      "path": "assets/groovyscript/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "guideapi": [
+    {
+      "jar": "Guide-API-1.12-2.1.8-63.jar",
+      "path": "assets/guideapi/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "gbook": [
+    {
+      "jar": "Guidebook-1.12.2-2.9.5.jar",
+      "path": "assets/gbook/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "hammercore": [
+    {
+      "jar": "HammerLib-1.12.2-12.2.58.jar",
+      "path": "assets/hammercore/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "waila": [
+    {
+      "jar": "Hwyla-1.8.26-B41_1.12.2.jar",
+      "path": "assets/waila/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "immersiveengineering": [
+    {
+      "jar": "ImmersiveEngineering-0.12-98.jar",
+      "path": "assets/immersiveengineering/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "industrialforegoing": [
+    {
+      "jar": "industrialforegoing-1.12.2-1.12.13-237.jar",
+      "path": "assets/industrialforegoing/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "integratedderivative": [
+    {
+      "jar": "integratedderivative-1.1.2.jar",
+      "path": "assets/integratedderivative/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "integrateddynamics": [
+    {
+      "jar": "IntegratedDynamics-1.12.2-1.1.11.jar",
+      "path": "assets/integrateddynamics/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "integrateddynamicscompat": [
+    {
+      "jar": "IntegratedDynamics-1.12.2-1.1.11.jar",
+      "path": "assets/integrateddynamicscompat/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "integratednbt": [
+    {
+      "jar": "integratednbt-1.2.2.jar",
+      "path": "assets/integratednbt/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "integratedtunnels": [
+    {
+      "jar": "IntegratedTunnels-1.12.2-1.6.14.jar",
+      "path": "assets/integratedtunnels/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "inventorytweaks": [
+    {
+      "jar": "InventoryTweaks-1.63.jar",
+      "path": "assets/inventorytweaks/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "ironchest": [
+    {
+      "jar": "ironchest-1.12.2-7.0.72.847.jar",
+      "path": "assets/ironchest/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "jei": [
+    {
+      "jar": "jei_1.12.2-4.16.1.302.jar",
+      "path": "assets/jei/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "journeymap": [
+    {
+      "jar": "journeymap-1.12.2-5.7.1p3.jar",
+      "path": "assets/journeymap/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "jecalculation": [
+    {
+      "jar": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+      "path": "assets/jecalculation/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "justenoughreactors": [
+    {
+      "jar": "JustEnoughReactors-1.12.2-1.1.3.61.jar",
+      "path": "assets/justenoughreactors/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "knowledgeshare": [
+    {
+      "jar": "knowledgeshare-1.1.jar",
+      "path": "assets/knowledgeshare/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "lightningcraft": [
+    {
+      "jar": "lightningcraft-2.9.7_1.jar",
+      "path": "assets/lightningcraft/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "loottweaker": [
+    {
+      "jar": "LootTweaker-0.4.1+MC1.12.2.jar",
+      "path": "assets/loottweaker/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "mekanism": [
+    {
+      "jar": "Mekanism-1.12.2-9.8.3.390.jar",
+      "path": "assets/mekanism/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "testdummy": [
+    {
+      "jar": "MmmMmmMmmMmm-1.12-1.14.jar",
+      "path": "assets/testdummy/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "moartinkers": [
+    {
+      "jar": "moartinkers-0.6.0.jar",
+      "path": "assets/moartinkers/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "mob_grinding_utils": [
+    {
+      "jar": "MobGrindingUtils-0.3.13.jar",
+      "path": "assets/mob_grinding_utils/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "modulardiversity": [
+    {
+      "jar": "Modular Diversity-1.8.jar",
+      "path": "assets/modulardiversity/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "modularmachinery": [
+    {
+      "jar": "modularmachinery-1.12.2-1.10.0.jar",
+      "path": "assets/modularmachinery/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "modularmagic": [
+    {
+      "jar": "modularmagic-1.4.0.jar",
+      "path": "assets/modularmagic/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "moretweaker": [
+    {
+      "jar": "MoreTweaker-1.0.19.jar",
+      "path": "assets/moretweaker/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "mysticalagradditions": [
+    {
+      "jar": "MysticalAgradditions-1.12.2-1.3.2.jar",
+      "path": "assets/mysticalagradditions/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "mysticalagriculture": [
+    {
+      "jar": "MysticalAgriculture-1.12.2-1.7.5.jar",
+      "path": "assets/mysticalagriculture/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "mysticallib": [
+    {
+      "jar": "mysticallib-1.12.2-1.13.0.jar",
+      "path": "assets/mysticallib/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "mysticalworld": [
+    {
+      "jar": "mysticalworld-1.12.2-1.11.0.jar",
+      "path": "assets/mysticalworld/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "natura": [
+    {
+      "jar": "natura-legacy-1.12.2-4.4.1.jar",
+      "path": "assets/natura/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "naturescompass": [
+    {
+      "jar": "NaturesCompass-1.12.2-1.8.5.jar",
+      "path": "assets/naturescompass/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "omniwand": [
+    {
+      "jar": "omniwand-1.12.2-2.0.4.jar",
+      "path": "assets/omniwand/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "openblocks": [
+    {
+      "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+      "path": "assets/openblocks/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "openmods": [
+    {
+      "jar": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
+      "path": "assets/openmods/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "oreexcavation": [
+    {
+      "jar": "OreExcavation-1.4.150.jar",
+      "path": "assets/oreexcavation/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "p455w0rdslib": [
+    {
+      "jar": "p455w0rdslib-1.12.2-2.3.161.jar",
+      "path": "assets/p455w0rdslib/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "packagedauto": [
+    {
+      "jar": "PackagedAuto-1.12.2-1.0.5.19.jar",
+      "path": "assets/packagedauto/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "patchouli": [
+    {
+      "jar": "Patchouli-1.0-23.6.jar",
+      "path": "assets/patchouli/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "planetprogression": [
+    {
+      "jar": "PlanetProgression-1.12.2-0.4.8.jar",
+      "path": "assets/planetprogression/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "plustic": [
+    {
+      "jar": "plustic-8.0.3.jar",
+      "path": "assets/plustic/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "projecte": [
+    {
+      "jar": "ProjectE-1.12.2-PE1.4.1.jar",
+      "path": "assets/projecte/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "projectintelligence": [
+    {
+      "jar": "ProjectIntelligence-1.12.2-1.0.9.28-universal.jar",
+      "path": "assets/projectintelligence/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "projectred": [
+    {
+      "jar": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
+      "path": "assets/projectred/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "quantumflux": [
+    {
+      "jar": "quantumflux-1.12.2-2.0.18.jar",
+      "path": "assets/quantumflux/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "quark": [
+    {
+      "jar": "QuarkRotN-r1.6-191.jar",
+      "path": "assets/quark/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "reborncore": [
+    {
+      "jar": "RebornCore-1.12.2-3.19.5-universal.jar",
+      "path": "assets/reborncore/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "reccomplex": [
+    {
+      "jar": "RecurrentComplex-1.4.8.6.jar",
+      "path": "assets/reccomplex/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "mcopts": [
+    {
+      "jar": "RecurrentComplex-1.4.8.6.jar",
+      "path": "assets/mcopts/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "requious": [
+    {
+      "jar": "Requious Frakto-0.12.jar",
+      "path": "assets/requious/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "restrictedportals": [
+    {
+      "jar": "restrictedportals-1.12-0.6.3.jar",
+      "path": "assets/restrictedportals/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "rftools": [
+    {
+      "jar": "rftools-1.12-7.73.jar",
+      "path": "assets/rftools/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "rftoolsdim": [
+    {
+      "jar": "rftoolsdim-1.12-5.71.jar",
+      "path": "assets/rftoolsdim/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "roots": [
+    {
+      "jar": "Roots-1.12.2-3.1.9.2.jar",
+      "path": "assets/roots/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "simplevoidworld": [
+    {
+      "jar": "Simple-Void-World-1.12-1.2.0.9-universal.jar",
+      "path": "assets/simplevoidworld/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "simple_trophies": [
+    {
+      "jar": "simpletrophies-1.2.2.1.jar",
+      "path": "assets/simple_trophies/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "simplybackpacks": [
+    {
+      "jar": "simplybackpacks-1.4.9.jar",
+      "path": "assets/simplybackpacks/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "simplyjetpacks": [
+    {
+      "jar": "SimplyJetpacks2-1.12.2-2.2.20.0.jar",
+      "path": "assets/simplyjetpacks/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "solarflux": [
+    {
+      "jar": "SolarFluxReborn-1.12.2-12.4.11.jar",
+      "path": "assets/solarflux/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "spartanshields": [
+    {
+      "jar": "SpartanShields-1.12.2-1.5.5.jar",
+      "path": "assets/spartanshields/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "bq_standard": [
+    {
+      "jar": "StandardExpansion-3.4.173.jar",
+      "path": "assets/bq_standard/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "storagedrawers": [
+    {
+      "jar": "StorageDrawers-1.12.2-5.5.0.jar",
+      "path": "assets/storagedrawers/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "supersoundmuffler": [
+    {
+      "jar": "supersoundmuffler-revived_1.12.2_1.0.2.10.jar",
+      "path": "assets/supersoundmuffler/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "tconstruct": [
+    {
+      "jar": "TConstruct-1.12.2-2.13.0.183.jar",
+      "path": "assets/tconstruct/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "teslacorelib": [
+    {
+      "jar": "tesla-core-lib-1.12.2-1.0.18.jar",
+      "path": "assets/teslacorelib/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "thaumcraft": [
+    {
+      "jar": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+      "path": "assets/thaumcraft/lang/en_us.lang",
+      "locale": "en_us"
+    },
+    {
+      "jar": "ThaumcraftFix-1.12.2-1.1.11.jar",
+      "path": "assets/thaumcraft/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "thaumcraftfix": [
+    {
+      "jar": "ThaumcraftFix-1.12.2-1.1.11.jar",
+      "path": "assets/thaumcraftfix/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "thaumicaugmentation": [
+    {
+      "jar": "ThaumicAugmentation-1.12.2-2.1.14.jar",
+      "path": "assets/thaumicaugmentation/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "thaumicenergistics": [
+    {
+      "jar": "thaumicenergistics-extended_life-2.2.7.jar",
+      "path": "assets/thaumicenergistics/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "tcinventoryscan": [
+    {
+      "jar": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
+      "path": "assets/tcinventoryscan/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "thermaldynamics": [
+    {
+      "jar": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+      "path": "assets/thermaldynamics/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "thermalexpansion": [
+    {
+      "jar": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "path": "assets/thermalexpansion/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "thermalfoundation": [
+    {
+      "jar": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "path": "assets/thermalfoundation/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "tickcentral": [
+    {
+      "jar": "TickCentral-3.2.jar",
+      "path": "assets/tickcentral/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "tinkersaddons": [
+    {
+      "jar": "Tinkers' Addons-1.12.1-1.0.7.jar",
+      "path": "assets/tinkersaddons/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "tinkersaether": [
+    {
+      "jar": "tinkersaether-1.4.1.jar",
+      "path": "assets/tinkersaether/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "tinkersjei": [
+    {
+      "jar": "tinkersjei-1.2.jar",
+      "path": "assets/tinkersjei/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "tombmanygraves": [
+    {
+      "jar": "TombManyGraves-1.12-4.2.0.jar",
+      "path": "assets/tombmanygraves/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "toolprogression": [
+    {
+      "jar": "toolprogression-1.12.2-1.6.12.jar",
+      "path": "assets/toolprogression/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "torchmaster": [
+    {
+      "jar": "torchmaster_1.12.2-1.8.5.0.jar",
+      "path": "assets/torchmaster/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "totemic": [
+    {
+      "jar": "Totemic-1.12.2-0.11.7.jar",
+      "path": "assets/totemic/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "traverse": [
+    {
+      "jar": "Traverse-1.12.2-1.6.0-69.jar",
+      "path": "assets/traverse/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "twilightforest": [
+    {
+      "jar": "twilightforest-1.12.2-3.15.1.jar",
+      "path": "assets/twilightforest/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "uberconduitprobe": [
+    {
+      "jar": "uberconduitprobe-1.0.3.jar",
+      "path": "assets/uberconduitprobe/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "undergroundbiomes": [
+    {
+      "jar": "UndergroundBiomesConstructs-1.12-1.3.14.jar",
+      "path": "assets/undergroundbiomes/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "universaltweaks": [
+    {
+      "jar": "UniversalTweaks-1.12.2-1.20.0.jar",
+      "path": "assets/universaltweaks/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "valkyrielib": [
+    {
+      "jar": "valkyrielib-1.12.2-2.0.20.1.jar",
+      "path": "assets/valkyrielib/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "wanionlib": [
+    {
+      "jar": "WanionLib-1.12.2-2.9.jar",
+      "path": "assets/wanionlib/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "wawla": [
+    {
+      "jar": "Wawla-1.12.2-2.6.275.jar",
+      "path": "assets/wawla/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "wrcbe": [
+    {
+      "jar": "WR-CBE-1.12.2-2.3.2.33-universal.jar",
+      "path": "assets/wrcbe/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ],
+  "zenutils": [
+    {
+      "jar": "zenutils-1.27.2.jar",
+      "path": "assets/zenutils/lang/en_us.lang",
+      "locale": "en_us"
+    }
+  ],
+  "zerocore": [
+    {
+      "jar": "zerocore-1.12.2-0.1.2.9.jar",
+      "path": "assets/zerocore/lang/en_US.lang",
+      "locale": "en_US"
+    }
+  ]
+}

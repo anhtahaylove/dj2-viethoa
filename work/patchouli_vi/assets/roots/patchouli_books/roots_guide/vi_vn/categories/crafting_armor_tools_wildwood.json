@@ -1,0 +1,7 @@
+{
+  "name": "Công cụ Wildwood",
+  "parent": "crafting_armor_tools",
+  "sortnum": 4,
+  "description": "Phần này nói về các công cụ làm từ Wildwood cứng chắc.$(br2)$(info) Mọi công cụ Wildwood đều có thể được sửa bằng Wildwood Bark trong Anvil hoặc $(l:crafting/imbuer)Imbuer$().",
+  "icon": "roots:wildwood_quiver"
+}

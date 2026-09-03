@@ -1,0 +1,17 @@
+{
+  "modifier": "extratrait",
+  "text": [
+    {
+      "text": "Lấy một bộ phận công cụ và dập nó lên công cụ! Giống như thay bộ phận, nhưng tốt hơn! Công cụ nhận thêm các đặc tính của bộ phận đó bên cạnh những đặc tính sẵn có, nhưng không nhận chỉ số."
+    }
+  ],
+  "effects": [
+    "Thêm trait của một part khác",
+    "Trait tương đương với việc thay chính part đó",
+    "Phần khảm này là vĩnh viễn và không thể đổi",
+    "Requires no modifier"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe"
+  ]
+}

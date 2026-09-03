@@ -1,0 +1,49 @@
+{
+  "name": "Chế tạo",
+  "icon": "roots:runic_crafter",
+  "category": "automation",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cả $(l:crafting/fey_crafter)fey crafter$() lẫn $(l:crafting/runic_crafter)runic crafter$() dùng cơ chế tự động hóa đều có thể được tự động hóa bằng dispenser chứa knife.$(br2)Tín hiệu redstone truyền tới dispenser sẽ bắt đầu quá trình chế tạo nếu có công thức phù hợp.$(br2)$(info) Vì runic crafter lấy nguyên liệu từ kho đồ bên dưới, việc tự động hóa đơn giản các công thức chế tạo rất dễ dàng."
+    },
+    {
+      "type": "multiblock",
+      "anchor": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "roots:runic_crafter",
+          "C": "minecraft:chest",
+          "D": "minecraft:dispenser[facing=east]",
+          "1": "roots:grove_stone[facing=north,half=bottom,valid=true]",
+          "2": "roots:grove_stone[facing=north,half=middle,valid=true]",
+          "3": "roots:grove_stone[facing=north,half=top,valid=true]"
+        },
+        "pattern": [
+          [
+            "3  ",
+            "   "
+          ],
+          [
+            "2D ",
+            " 0C"
+          ],
+          [
+            "1  ",
+            " C "
+          ]
+        ]
+      },
+      "text": "Runic crafter sẽ đưa thành phẩm vào bất kỳ kho đồ liền kề nào trong khu vực 3x3, ngoại trừ kho đồ ngay bên dưới."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/grove_stones"
+      ]
+    }
+  ]
+}

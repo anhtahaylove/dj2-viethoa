@@ -1,0 +1,21 @@
+{
+  "name": "Mystic Feather",
+  "icon": "roots:mystic_feather",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:mystic_feather",
+      "link_recipe": true,
+      "text": "Có thể tìm thấy chúng trên những sinh vật có lông vũ của cõi Fey và thu thập bằng cách dùng $(l:crafting/runic_shears)runic shears$() lên các thực thể phù hợp trong thế giới của chúng ta.$(br2)Xem danh sách đầy đủ trong $(sources:roots:mystic_feather)JEI$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/runic_shears"
+      ]
+    }
+  ]
+}

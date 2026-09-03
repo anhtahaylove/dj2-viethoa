@@ -1,0 +1,53 @@
+{
+  "name": "General Biomes",
+  "icon": "twilightforest:magic_map_empty",
+  "category": "biomes",
+  "advancement": "twilightforest:alt/biomes/general_biomes",
+  "sortnum": 1000,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Thông tin chung về biome. Những biome này không có gì thực sự đặc biệt."
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/twilight_forest",
+      "text": "Twilight Forest"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/firefly_forest",
+      "text": "Firefly Forest"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/twilight_clearing",
+      "text": "Twilight Clearing"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/oak_savannah",
+      "text": "Oak Savannah"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/dense_twilight_forest",
+      "text": "Dense Twilight Forest"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/mushroom_forest",
+      "text": "Mushroom Forest"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/deep_mushroom_forest",
+      "text": "Dense Mushroom Forest"
+    },
+    {
+      "type": "text",
+      "advancement": "twilightforest:alt/biomes/twilight_lake",
+      "text": "Những gì ẩn chứa trong các Hồ này vẫn là một bí ẩn. Ngoài lượng nước dồi dào, chúng dường như không có gì đặc biệt. Tương truyền rằng một ngày nào đó, một hòn đảo có thể xuất hiện giữa hồ. Ai biết trên đó sẽ có gì?"
+    }
+  ]
+}

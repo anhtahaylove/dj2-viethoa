@@ -1,0 +1,20 @@
+{
+  "tool": "longbow",
+  "text": [
+    {
+      "text": "Longbow là vũ khí hoàn hảo để tiêu diệt mục tiêu từ xa. Nó bắn chậm nhưng rất uy lực."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Hoàn hảo để tận dụng lợi thế vị trí, bạn chỉ cần bắn trúng."
+    }
+  ],
+  "properties": [
+    "Requires a Tool Forge",
+    "Uses Tinkers' Arrows",
+    "Slow but hits hard",
+    "Có thể dùng Arrow thường, nhưng kém hiệu quả hơn"
+  ]
+}

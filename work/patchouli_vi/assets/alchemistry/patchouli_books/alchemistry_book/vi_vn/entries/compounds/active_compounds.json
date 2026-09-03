@@ -1,0 +1,49 @@
+{
+  "name": "Danh sách hợp chất có hoạt tính",
+  "icon": "alchemistry:compound:54",
+  "category": "compounds_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:54",
+      "title": "Potassium Cyanide",
+      "text": "Cực độc, không được ăn!"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:21",
+      "title": "Psilocybin",
+      "text": "Cho người dùng khả năng nhìn trong bóng tối, hiệu ứng chậm chạp và sự trân trọng những chi tiết nhỏ bé của thiên nhiên"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:58",
+      "title": "Penicillin",
+      "text": "Xóa mọi hiệu ứng trạng thái của người dùng và hồi một ít máu"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:55",
+      "title": "Epinephrine",
+      "text": "Người dùng nhận khả năng nhìn trong bóng tối và được tăng tốc độ"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:59",
+      "title": "Caffeine",
+      "text": "Người dùng nhận khả năng nhìn trong bóng tối và được tăng tốc độ, giống như Epinephrine"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:56",
+      "title": "Cocaine",
+      "text": "Người dùng có thể nhảy và chạy nhanh như báo săn"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:57",
+      "title": "Acetylsalicylic Acid",
+      "text": "Hồi cho người dùng 2,5 tim"
+    }
+  ]
+}

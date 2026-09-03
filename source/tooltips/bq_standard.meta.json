@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "StandardExpansion-3.4.173.jar",
+      "path": "assets/bq_standard/lang/en_US.lang"
+    }
+  ]
+}

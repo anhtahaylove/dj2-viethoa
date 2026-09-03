@@ -1,0 +1,102 @@
+{
+  "name": "Sky Soarer",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_sky_soarer\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_sky_soarer",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sky Soarer khiến bạn bay theo hướng đang nhìn, với lực đẩy kéo dài vài giây.$(br2)$(warning) Hãy cẩn thận khi chưa bật modifier $(modifier:friendly_earth)$(), vì bạn sẽ chịu sát thương khi rơi.$(br2)Các modifier khác cho phép bạn xuyên qua lá, tăng lực đẩy hoặc phóng thẳng lên trời."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_sky_soarer"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:slow_fall",
+      "anchor": "slow_fall"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:arboreal_bypass",
+      "anchor": "arboreal_bypass"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:momentum",
+      "anchor": "momentum"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:verticality",
+      "anchor": "verticality"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:jaunt",
+      "anchor": "jaunt"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:regenerative_sky",
+      "anchor": "regenerative_sky"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:chem_trails",
+      "anchor": "chem_trails"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:eternal_flame",
+      "anchor": "eternal_flame"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:friendly_earth",
+      "anchor": "friendly_earth"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_sky_soarer",
+      "modifier": "roots:aquaplane",
+      "anchor": "aquaplane"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:sky_soarer/SECONDS/cooldown) giây.$(br2)$(bold)Thời lượng:$() Lực đẩy kéo dài $(spell:sky_soarer/SECONDS/lifetime) giây. Khi bật modifier $(modifier:eternal_flame)$(), lực đẩy kéo dài thêm $(spell:sky_soarer/SECONDS/extended_lifetime) giây.$(br2)$(bold)Chuyển động:$() Hệ số chuyển động mặc định là $(spell:sky_soarer/amplifier). Khi bật modifier $(modifier:momentum)$(), hệ số này tăng thêm $(spell:sky_soarer/extended_amplifier).$(br2)$(bold)Dịch chuyển:$() Khi bật modifier $(modifier:jaunt)$()"
+    },
+    {
+      "type": "text",
+      "text": ", thay vì bay vút đi, bạn sẽ được dịch chuyển $(spell:sky_soarer/jaunt_distance) khối theo hướng đang nhìn và đáp xuống khối gần nhất phía trên hoặc dưới.$(br2)$(bold)Thẳng đứng:$() Khi bật modifier $(modifier:verticality)$(), thay vì di chuyển theo hướng đang nhìn, bạn sẽ được phóng thẳng lên trên.$(br2)$(bold)Ngang:$() Với modifier $(modifier:aquaplane)$(), bạn sẽ di chuyển theo phương ngang về hướng đang nhìn mà không di chuyển theo chiều dọc."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Lá cây:$() Với modifier $(modifier:arboreal_bypass)$(), bạn sẽ xuyên qua mọi vật liệu dạng lá như thể chúng là không khí.$(br2)$(bold)Rơi:$() Với modifier $(modifier:friendly_earth)$(), bạn không chịu sát thương khi rơi trong $(spell:sky_soarer/SECONDS/fall_duration) giây sau khi lực đẩy kết thúc.$(br2)$(bold)Rơi chậm:$() Khi bật modifier $(modifier:slow_fall)$(), bạn nhận Slow Fall I trong $(spell:sky_soarer/SECONDS/slow_fall_duration) giây.$(br2)$(bold)Hồi phục:$() Khi bật modifier $(modifier:regenerative_sky)$()"
+    },
+    {
+      "type": "text",
+      "text": ", bạn nhận Regeneration $(spell:sky_soarer/ROMAN/regen_amplifier) trong $(spell:sky_soarer/SECONDS/regen_duration) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/cloud_berry"
+      ]
+    }
+  ]
+}

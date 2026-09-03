@@ -1,0 +1,28 @@
+{
+  "name": "The Fey",
+  "icon": "roots:pereskia",
+  "category": "concepts",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù từng gắn kết chặt chẽ với thế giới của chúng ta (xem $(l:concepts/wild_magic)My History of Wild Magic$()), The Fey là một thế giới hoàn toàn riêng biệt. Nơi đó ẩn chứa nguồn sức mạnh lớn, tiếp thêm quyền năng cho nhiều sinh vật vĩ đại đến từ The Fey.$(br2)Các tài liệu cổ nhắc đến việc giao thương và qua lại giữa các thế giới, nhưng không rõ điều đó được thực hiện bằng cách nào và hoạt động đi lại, giao thương đã diễn ra nhiều đến mức nào."
+    },
+    {
+      "type": "text",
+      "text": "Có nhiều lời đồn và câu chuyện cho rằng một số thứ trong thế giới của chúng ta vốn đến từ The Fey, nhưng cũng có bằng chứng phản bác điều này.$(br2)Ví dụ, $(l:herbs/pereskia)Pereskia$() thường được gọi là 'fairy flower', nhưng dù có thể làm những sinh vật ấy thích thú, nó chỉ đơn giản là một loài hoa nở rộ nhờ wild magic.$(br2)Mặt khác, những sinh vật thực vật đáng yêu mang tên Sprouts dường như là hậu duệ của The Fey."
+    },
+    {
+      "type": "text",
+      "text": "Giữ tư duy cởi mở là điều thiết yếu. Khi gặp thứ gì đó được cho là 'đến từ The Fey', bạn hoàn toàn có lý khi nghi vấn.$(br2)Khi nghe nói một phép thuật bắt nguồn 'từ The Fey', hãy nhớ rằng wild magic đã hùng mạnh từ trước cả khi Order of Druids tồn tại.$(br2)Tuy nhiên, trong lúc hoài nghi, hãy nhớ rằng có lẽ giống như Sprouts, thế giới của chúng ta QUẢ THẬT còn có những thứ khác sinh ra từ The Fey."
+    },
+    {
+      "type": "entity",
+      "name": "The Sprout",
+      "entity": "mysticalworld:entity_sprout",
+      "scale": 1,
+      "offset": 0,
+      "text": "Một ví dụ phổ biến về thực vật có tri giác."
+    }
+  ]
+}

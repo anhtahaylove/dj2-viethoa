@@ -1,0 +1,16 @@
+{
+  "name": "Hellhound",
+  "category": "nethers_firstborn",
+  "icon": "bewitchment:tongue_of_dog",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Đúng như tên gọi, Hellhound trông như những con sói địa ngục với cặp sừng và bộ lông rực lửa. Dù chỉ hơn loài sâu hại ma quỷ đôi chút, Hellhound thường có địa vị cao hơn Feuerwurm, con mồi mà chúng săn bắt. Hellhound được cho là họ hàng địa ngục của Black Dog."
+    },
+    {
+      "type": "entity",
+      "entity": "bewitchment:hellhound",
+      "scale": 0.5
+    }
+  ]
+}

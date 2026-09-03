@@ -1,0 +1,15 @@
+{
+  "name": "Smoking Block",
+  "icon": "twilightforest:fire_jet:0",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/smoking_block",
+  "sortnum": 5050,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Smoking Block",
+      "item": "twilightforest:fire_jet:0",
+      "text": "Đứng trên những khối này có vẻ tương đối an toàn. Lòng bàn chân tôi không phồng rộp và da cũng không bỏng, nhưng hít phải khói thì chẳng dễ chịu chút nào. Thứ này dường như có thể tự duy trì mà không cần nhiệt; liệu nó có hữu ích không nhỉ?"
+    }
+  ]
+}

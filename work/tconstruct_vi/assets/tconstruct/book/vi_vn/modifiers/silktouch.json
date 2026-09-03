@@ -1,0 +1,23 @@
+{
+  "modifier": "silktouch",
+  "text": [
+    {
+      "text": "Thêm một cục vàng lớn cùng một bó dây dường như khiến công cụ có đặc tính mượt như lụa."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Không thể tin đây không phải bơ!"
+    }
+  ],
+  "effects": [
+    "Cho phép thu hoạch trực tiếp nguyên block",
+    "Không tương thích với Luck hoặc Auto-Smelt",
+    "Single use"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer"
+  ]
+}

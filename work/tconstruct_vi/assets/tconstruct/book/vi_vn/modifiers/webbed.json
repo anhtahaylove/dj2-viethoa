@@ -1,0 +1,18 @@
+{
+  "modifier": "webbed",
+  "text": [
+    {
+      "text": "Đống mạng nhện dính nhớp ấy hẳn phải có ích gì đó. Hãy dùng chúng để làm chậm kẻ địch!"
+    }
+  ],
+  "effects": [
+    "Each level increases slow duration",
+    "Slow-motion",
+    "Multi level"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:arrow"
+  ]
+}

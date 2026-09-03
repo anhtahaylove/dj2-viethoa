@@ -1,0 +1,102 @@
+{
+  "name": "Rose Thorns",
+  "icon": "roots:spell_icon{spell_storage:{s:\"roots:spell_rose_thorns\"}}",
+  "category": "spells",
+  "read_by_default": true,
+  "flag": "roots:spell_rose_thorns",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Bằng những tua gai xoắn của bụi hoa hồng, phép này cho phép bạn tạo một cái bẫy trên mặt đất tại vị trí đang nhìn.$(br2)Bẫy sẽ kích hoạt khi có thực thể đến gần, gây sát thương và đẩy lùi chúng.$(br2)Bạn có thể dùng các biến thể để điều chỉnh kích thước và hiệu ứng của bẫy."
+    },
+    {
+      "type": "spell_template",
+      "spell": "spell_rose_thorns"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:larger_trap",
+      "anchor": "larger_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:peaceful_trap",
+      "anchor": "peaceful_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:weakening_trap",
+      "anchor": "weakening_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:repelling_trap",
+      "anchor": "repelling_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:ghostly_trap",
+      "anchor": "ghostly_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:poisonous_trap",
+      "anchor": "poisonous_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:boosting_trap",
+      "anchor": "boosting_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:fire_trap",
+      "anchor": "fire_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:empowering_trap",
+      "anchor": "empowering_trap"
+    },
+    {
+      "type": "spell_modifier_template",
+      "spell": "spell_rose_thorns",
+      "modifier": "roots:slowing_trap",
+      "anchor": "slowing_trap"
+    },
+    {
+      "type": "text",
+      "title": "Cấu hình phép",
+      "text": "$(bold)Hồi chiêu:$() Phép có thời gian hồi là $(spell:rose_thorns/SECONDS/cooldown) giây.$(br2)$(bold)Thời gian tồn tại:$() Sau khi được đặt và kích hoạt, bẫy sẽ tồn tại trong $(spell:rose_thorns/SECONDS/trap_duration).$(br2)$(bold)Sát thương:$() Bẫy gây $(spell:rose_thorns/HEART/damage) tim sát thương.$(br2)$(bold)Kích thước:$() Khi bật biến thể $(modifier:larger_trap)$(), bán kính bẫy sẽ tăng, nên thực thể không cần đến quá gần để kích hoạt bẫy."
+    },
+    {
+      "type": "text",
+      "text": "$(bold)Đẩy lùi:$() Khi bật biến thể $(modifier:repelling_trap)$(), các thực thể chịu tác động của bẫy sẽ bị đẩy lùi với lực $(spell:rose_thorns/knockback).$(br2)$(bold)Ôn hòa:$() Khi bật biến thể $(modifier:peaceful_trap)$(), bẫy chỉ tác động đến thực thể thù địch.$(br2)$(bold)Weakness:$() Khi bật biến thể $(modifier:weakening_trap)$(), thực thể chịu sát thương còn nhận Weakness $(spell:rose_thorns/ROMAN/weakness_amplifier) trong $(spell:rose_thorns/SECONDS/weakness_duration).$(br2)$(bold)Undead:$() Khi bật biến thể $(modifier:ghostly_trap)$()"
+    },
+    {
+      "type": "text",
+      "text": "Undead chịu thêm $(spell:rose_thorns/HEART/undead_damage) tim sát thương.$(br2)$(bold)Poison:$() Khi bật biến thể $(modifier:poisonous_trap)$(), thực thể chịu tác động của bẫy nhận Poison $(spell:rose_thorns/ROMAN/poison_amplifier) trong $(spell:rose_thorns/SECONDS/poison_duration) giây.$(br2)$(bold)Hất tung:$() Khi bật biến thể $(modifier:boosting_trap)$(), thực thể bị hất thẳng lên với lực $(spell:rose_thorns/knock_up).$(br2)$(bold)Lửa:$() Khi bật biến thể $(modifier:fire_trap)$(), thực thể chịu sát thương sẽ bị thiêu đốt trong"
+    },
+    {
+      "type": "text",
+      "text": "$(spell:rose_thorns/fire_duration) giây.$(br2)$(bold)Strength:$() Khi bật biến thể $(modifier:empowering_trap)$(), người thi triển nhận Strength $(spell:rose_thorns/ROMAN/strength_amplifier) trong $(spell:rose_thorns/SECONDS/strength_duration) giây khi bẫy được kích hoạt.$(br2)$(bold)Slowness:$() Khi bật biến thể $(modifier:slowing_trap)$(), thực thể chịu sát thương nhận Slowness $(spell:rose_thorns/ROMAN/slowness_amplifier) trong $(spell:rose_thorns/SECONDS/slowness_duration) giây."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/modifiers",
+        "herbs/terra_moss"
+      ]
+    }
+  ]
+}

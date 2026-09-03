@@ -1,0 +1,20 @@
+{
+  "name": "Barrows",
+  "icon": "minecraft:stonebrick:1",
+  "category": "locations",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Barrows",
+      "text": "Từng là nơi chôn cất người chết, những địa điểm này đã hoang phế theo năm tháng. Không ai biết kho báu — hay người chết — có còn ở đó hay không."
+    },
+    {
+      "type": "image",
+      "title": "A Barrow",
+      "text": "Một nơi để khám phá.",
+      "images": [
+        "mysticalworld:textures/barrow.png"
+      ]
+    }
+  ]
+}

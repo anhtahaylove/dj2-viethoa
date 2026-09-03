@@ -1,0 +1,21 @@
+{
+  "modifier": "mending_moss",
+  "text": [
+    {
+      "text": "Một ít moss đã mọc trên các cạnh mòn của công cụ. Phù phép nó bằng một ít XP sẽ khiến moss hòa vào công cụ và dần phục hồi công cụ."
+    }
+  ],
+  "effects": [
+    "Stores XP picked up",
+    "Max. Amount stored increases with modifier level",
+    "Từ từ tự sửa tool theo thời gian",
+    "Phải nằm ở hotbar hoặc tay phụ mới tự sửa",
+    "Multiple levels"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:broadsword",
+    "tconstruct:shortbow",
+    "tconstruct:arrow"
+  ]
+}

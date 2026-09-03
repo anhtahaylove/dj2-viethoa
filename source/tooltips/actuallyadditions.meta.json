@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_US",
+  "sources": [
+    {
+      "jar": "ActuallyAdditions-1.12.2-r152.jar",
+      "path": "assets/actuallyadditions/lang/en_US.lang"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "Atum-1.12.2-2.0.20.jar",
+      "path": "assets/atum/lang/en_us.lang"
+    }
+  ]
+}

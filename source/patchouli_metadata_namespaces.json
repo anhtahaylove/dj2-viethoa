@@ -1,0 +1,15 @@
+{
+  "guide.alchemistry.title": "alchemistry",
+  "guide.alchemistry.landing": "alchemistry",
+  "item.bewitchment.codex_infernalis.name": "bewitchment",
+  "info.bewitchment.codex_infernalis.landing": "bewitchment",
+  "item.bewitchment.book_of_shadows.name": "bewitchment",
+  "info.bewitchment.book_of_shadows.landing": "bewitchment",
+  "guide.lclanding_text.name": "lightningcraft",
+  "mysticalworld.guidebook.name": "mysticalworld",
+  "mysticalworld.guidebook.landing_text": "mysticalworld",
+  "item.roots.roots_guide.name": "roots",
+  "info.roots.roots_guide.landing": "roots",
+  "item.twilightforest.guide.name": "twilightforest",
+  "item.lightningcraft:guide_0.name": "lightningcraft"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Magic Beans",
+  "icon": "twilightforest:magic_beans",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/magic_beans",
+  "sortnum": 8010,
+  "pages": [
+    {
+      "title": "Magic Beans",
+      "type": "twilightforest:headed_spotlight",
+      "item": "twilightforest:magic_beans",
+      "text": "Những hạt đậu này thật khổng lồ! Rõ ràng loại đậu lớn đến vậy không thể phát triển tốt trên đất thường. Nếu chúng xuất hiện ở đây thì môi trường sống tự nhiên của chúng hẳn cũng nằm đâu đó quanh vùng cao nguyên này."
+    },
+    {
+      "type": "spotlight",
+      "advancement": "twilightforest:alt/treasures/magic_beanstalk",
+      "item": "twilightforest:huge_stalk",
+      "text": "Những hạt đậu lập tức phản ứng với độ màu mỡ đáng kinh ngạc của đất, tạo nên một cảnh tượng vô cùng ngoạn mục. Cây đậu mọc thành hình dáng gợi nhớ đến một cầu thang thô sơ, như đang thì thầm thúc giục tôi tiếp tục trèo lên. Không làm gì sai thì chẳng có gì phải sợ, thế là tôi lon ton bước tiếp và vui vẻ hát vang."
+    }
+  ]
+}

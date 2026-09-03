@@ -1,0 +1,19 @@
+{
+  "atum.commands.weather.sandstorm": "Đang chuyển thời tiết sang bão cát",
+  "atum.configGui.atumStart": "Bắt đầu ở Atum",
+  "atum.configGui.atumStartPortal": "Tạo cổng vào Atum",
+  "atum.configGui.atumStartStructure": "Cấu trúc khởi đầu Atum",
+  "atum.configGui.dimensionID": "Atum Dimension ID",
+  "atum.configGui.fog": "Sương mù Atum",
+  "atum.configGui.portalCreation": "Atum Portal",
+  "container.trap": "Trap",
+  "death.attack.assassinated": "%1$s bị ám sát",
+  "jei.item.atum.emmerDough": "Chế tạo bằng cách kết hợp Emmer Flour với nước",
+  "mods.tips.atum.1": "Ngươi sẽ chết.",
+  "mods.tips.atum.2": "Bạn có thể tự tạo Stoneguard và Stonewarden để giúp phòng thủ căn cứ!",
+  "mods.tips.atum.3": "Mỗi Pharaoh có những khả năng đặc biệt riêng",
+  "mods.tips.atum.4": "Đôi khi có thể tìm thấy Scarab trong Deadwood Log",
+  "mods.tips.atum.5": "Wanderer Helmet sẽ giúp bạn nhìn rõ hơn",
+  "tooltip.atum.minutesRemaining": "Còn %d Phút",
+  "tooltip.atum.usesRemaining": "Còn %d Lượt Dùng"
+}

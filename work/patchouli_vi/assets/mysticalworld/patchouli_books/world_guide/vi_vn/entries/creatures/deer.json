@@ -1,0 +1,23 @@
+{
+  "name": "Deer",
+  "icon": "mysticalworld:venison",
+  "category": "creatures",
+  "flag": "roots:deer",
+  "pages": [
+    {
+      "type": "animal_spawn_info",
+      "animal": "deer",
+      "breed": "Nhân giống: bằng Wheat.",
+      "tame": "Thuần hóa: Không thuần hóa được.",
+      "blurb": ""
+    },
+    {
+      "type": "entity",
+      "name": "Deer",
+      "entity": "mysticalworld:entity_deer",
+      "scale": 0.6,
+      "offset": 0.4,
+      "text": "Những Deer này là một đàn hiền lành gồm cả con cái lẫn con đực."
+    }
+  ]
+}

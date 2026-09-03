@@ -1,0 +1,122 @@
+[
+  {
+    "file": "bloodmagic/02.json",
+    "key": "commands.bloodmagic.network.usage",
+    "value": "/bloodmagic network [syphon|add|get|fill|cap] player [amount]"
+  },
+  {
+    "file": "bloodmagic/02.json",
+    "key": "commands.bloodmagic.network.add.usage",
+    "value": "/bloodmagic network add [player] [amount]"
+  },
+  {
+    "file": "bloodmagic/02.json",
+    "key": "commands.bloodmagic.network.set.usage",
+    "value": "/bloodmagic network set [player] [amount]"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.fullSpring",
+    "value": "Ritual of the Full Spring"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.greenGrove",
+    "value": "Ritual of the Green Grove"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.highJump",
+    "value": "Ritual of the High Jump"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.featheredKnife",
+    "value": "Ritual of the Feathered Knife"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.harvest",
+    "value": "Reap of the Harvest Moon"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.meteor",
+    "value": "Mark of the Falling Tower"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.downgrade",
+    "value": "Penance of the Leadened Soul"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.crystalSplit",
+    "value": "Resonance of the Faceted Crystal"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.portal",
+    "value": "The Gate of the Fold"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.altarBuilder",
+    "value": "The Assembly of the High Altar"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.crystalHarvest",
+    "value": "Crack of the Fractured Crystal"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.forsakenSoul",
+    "value": "Gathering of the Forsaken Souls"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.livingEvolution",
+    "value": "Ritual of the Living Evolution"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.upgradeRemove",
+    "value": "Ritual of the Cleansing Soul"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.fullStomach",
+    "value": "Ritual of the Satiated Stomach"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.eternalSoul",
+    "value": "Ritual of the Eternal Soul"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.ritual.featheredEarth",
+    "value": "Ritual of the Feathered Earth"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.architect.greenGrove",
+    "value": "Sigil of the Green Grove"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.architect.fastMiner",
+    "value": "Sigil of the Fast Miner"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.architect.lamp",
+    "value": "Sigil of the Blood Lamp"
+  },
+  {
+    "file": "bloodmagicguide/01.json",
+    "key": "guide.bloodmagic.entry.architect.bridge",
+    "value": "Sigil of the Phantom Bridge"
+  }
+]

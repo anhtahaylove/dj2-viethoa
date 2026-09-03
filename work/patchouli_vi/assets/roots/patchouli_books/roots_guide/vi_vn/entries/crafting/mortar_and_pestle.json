@@ -1,0 +1,37 @@
+{
+  "name": "Mortar & Pestle",
+  "icon": "roots:mortar",
+  "category": "crafting",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Dù gồm hai vật riêng biệt, khi kết hợp lại, Mortar & Pestle là dụng cụ thiết yếu của mọi wild mage.$(br2)$(info) Mortar & Pestle được $(l:spells/introduction)dùng để tạo spell dust$() cùng một số $(l:crafting/mortar_and_pestle#resources)tài nguyên quan trọng$().$(br2)Toàn bộ các công dụng thông thường khác của Mortar & Pestle đều được liệt kê $(uses:roots:mortar)trong JEI$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "roots:mortar",
+      "recipe2": "roots:pestle"
+    },
+    {
+      "type": "text",
+      "title": "Tài nguyên quan trọng",
+      "anchor": "resources",
+      "text": "Một số tài nguyên quan trọng có thể chế tạo bằng Mortar & Pestle gồm:$(li)$(l:resources/runic_dust)Runic dust$() được xử lý từ $(l:resources/runestone)runestone$().$(li)$(l:resources/petals)Petals$() có thể được chế tạo từ bất kỳ tổ hợp hoa thấp hoặc hoa cao nào.$()$(br2)Các tài nguyên Vanilla hữu ích khác có thể tạo ra gồm:$(li)Bone meal từ xương (cho nhiều sản phẩm hơn).$(li)Có thể tạo trực tiếp Flint từ gravel."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Blaze powder từ blaze rods (cho nhiều sản phẩm hơn).$(li)Magma creams từ magma blocks.$(li)Sugar từ sugar cane (cho nhiều sản phẩm hơn).$(li)Silk thread từ silkworm cocoons (dù không hiệu quả bằng spindle).$(li)Orange dye từ cà rốt.$(br2)Như đã đề cập, mọi công thức, kể cả những công thức do modpack thêm hoặc điều chỉnh, đều có thể được tìm thấy $(uses:roots:mortar)trong JEI$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "automation/mortar_and_pestle",
+        "resources/flour",
+        "resources/petals",
+        "resources/runic_dust"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Slime",
+  "category": "cauldron_and_brewing",
+  "icon": "minecraft:slime_ball",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Đôi khi rất khó tìm Slime, nhưng giờ bạn có thể tạo ra chúng trong cauldron!"
+    },
+    {
+      "type": "bewitchment:cauldron_recipe",
+      "recipe": "bewitchment:slimeball",
+      "text": "Dính nhớp."
+    }
+  ]
+}

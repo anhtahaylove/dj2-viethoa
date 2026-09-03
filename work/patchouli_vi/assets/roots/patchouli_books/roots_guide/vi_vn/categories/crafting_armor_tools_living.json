@@ -1,0 +1,7 @@
+{
+  "name": "Living Tools",
+  "parent": "crafting_armor_tools",
+  "sortnum": 1,
+  "description": "Danh mục này mô tả cách chế tạo và sử dụng các Living Tools trong fey crafter.$(br2)$(info) Mọi Living Tools còn có thể được sửa bằng bất kỳ loại Roots bark nào khi dùng đe hoặc $(l:crafting/imbuer)imbuer$().",
+  "icon": "roots:living_pickaxe"
+}

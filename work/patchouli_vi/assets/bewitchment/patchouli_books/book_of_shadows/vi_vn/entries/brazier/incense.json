@@ -1,0 +1,46 @@
+{
+  "name": "Incense",
+  "category": "brazier",
+  "icon": "bewitchment:brazier",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Kết hợp một số loại thảo mộc với [Dragon’s Blood Resin], châm lửa rồi ngủ trong làn khói sẽ khiến phù thủy thức dậy với tinh thần phấn chấn và giác quan nhạy bén hơn. Khói sẽ bao phủ phạm vi bán kính 5 mét quanh Brazier."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:vitality",
+      "text": "Cường hóa thể chất và máu thịt của người dùng, giúp họ gây nhiều sát thương hơn và chịu ít sát thương hơn."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:deftness",
+      "text": "Tăng tốc độ và sự nhanh nhẹn của người dùng."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:invigorating",
+      "text": "Tăng độ bền bỉ tổng thể của người dùng và giúp họ phá khối nhanh hơn."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:cats_eye",
+      "text": "Kích thích thị giác của người dùng, giúp họ nhìn trong bóng tối như loài mèo."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:fullness",
+      "text": "Giúp người dùng lâu đói hơn và chịu được nhiều đòn hơn."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:intensity",
+      "text": "Khi được đốt trong một Brazier riêng bên cạnh Brazier chứa loại hương khác, nó sẽ tăng cường hiệu lực của loại hương đó. Không tương thích với Concentration."
+    },
+    {
+      "type": "bewitchment:incense_recipe",
+      "recipe": "bewitchment:concentration",
+      "text": "Làm khói từ Brazier gần đó đặc và đậm hơn, giúp hiệu ứng kéo dài lâu hơn nhiều. Không tương thích với Intensity."
+    }
+  ]
+}

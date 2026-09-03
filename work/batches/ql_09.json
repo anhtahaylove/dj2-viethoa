@@ -1,0 +1,545 @@
+{
+  "chapter_index": 9,
+  "title_key": "dj2.quest.ql.9.title",
+  "chapter_title_en": "12. Actual Technology",
+  "desc_key": "dj2.quest.ql.9.desc",
+  "chapter_desc_en": "Zap your way into Actually Additions, and unlock Spawners and JetPlates!",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.9.title",
+      "en": "12. Actual Technology"
+    },
+    {
+      "key": "dj2.quest.ql.9.desc",
+      "en": "Zap your way into Actually Additions, and unlock Spawners and JetPlates!"
+    },
+    {
+      "key": "dj2.quest.db.310.title",
+      "en": "Locating the Totem"
+    },
+    {
+      "key": "dj2.quest.db.310.desc",
+      "en": "The Woodland Mansion Locator Token will find you the nearest Woodland Mansion!%nYou will need to kill the Evokers inside to get their Totems of Undying.%n%nAlternatively, you can summon Evokers via Root's Summoning Ritual!%n%n§6Note:§r If you're playing on a server that doesn't allow you to find or get to a Woodland Mansion, you will need to use the Ritual.%n%n§6Note:§r Only one of the two tasks has to be completed."
+    },
+    {
+      "key": "dj2.quest.db.311.title",
+      "en": "Heart of \"Gold\""
+    },
+    {
+      "key": "dj2.quest.db.311.desc",
+      "en": "Craft 10 Orange Heart Canisters. Drop these into your Heart Amulet and gain another 20 max HP!"
+    },
+    {
+      "key": "dj2.quest.db.1326.title",
+      "en": "Shot Hot Spot"
+    },
+    {
+      "key": "dj2.quest.db.1326.desc",
+      "en": "All energy relays can wirelessly transmit power over 15 blocks, and through any material.%nThe basic relay can transfer 1000 RF/tick."
+    },
+    {
+      "key": "dj2.quest.db.1327.title",
+      "en": "Large Charge Urge"
+    },
+    {
+      "key": "dj2.quest.db.1327.desc",
+      "en": "It's time to use the Empowerer to empower your Crystals! Place the Crystal you want to empower on the Empowerer, and the other four items on Display Stands:%n%n- for Restonia Crystal: Signalum Gear, Redstone Alloy Ingot, Bricks, Infernal Bulb%n%n- for Palis Crystal: Lead Gear, Prismarine Shard, Moonglow Leaf, Enderium Base%n%n- for Void Crystal: Dark Bimetal Gear, Invar Gear, Flint, Charcoal%n%n- for Enori Crystal: Iron Gear, Steel Gear, Snow, Silicon%n%n- for Glod Crystal: Lumium Gear, Energized Bimetal Gear, Wildewheet, Blaze Rod%n%n- for Diamatine Crystal: Platinum Gear, Vivid Alloy Ingot, Cloud Berry, Clay%n%n- for Emeradic Crystal: Vibrant Bimetal Gear, Congealed Slime Block, Spirit Herb, Cactus."
+    },
+    {
+      "key": "dj2.quest.db.1328.title",
+      "en": "Charge the base"
+    },
+    {
+      "key": "dj2.quest.db.1328.desc",
+      "en": "Twice the range. Your whole base will be covered!"
+    },
+    {
+      "key": "dj2.quest.db.1329.title",
+      "en": "Charge the room"
+    },
+    {
+      "key": "dj2.quest.db.1329.desc",
+      "en": "Charges players within 24 blocks in every direction. Right Click to show its range in-world.%n%nNo, you cannot use it to shock someone else."
+    },
+    {
+      "key": "dj2.quest.db.1330.title",
+      "en": "Charge the world"
+    },
+    {
+      "key": "dj2.quest.db.1330.desc",
+      "en": "You can place one of these on each side of the Enhanced Wireless Charging Antenna, doubling its charging distance in that direction. Cannot be placed on the bottom."
+    },
+    {
+      "key": "dj2.quest.db.1331.title",
+      "en": "Wand-ering"
+    },
+    {
+      "key": "dj2.quest.db.1331.desc",
+      "en": "The Staff of Traveling allows you to teleport a couple blocks forward, at the cost of power.%nDo note that you will still suffer from fall damage if you are not careful.%n%nIt can also teleport you up to 200 blocks to a Travel Anchor, so long as the Travel Anchor is loaded."
+    },
+    {
+      "key": "dj2.quest.db.1332.title",
+      "en": "Darkest of Souls"
+    },
+    {
+      "key": "dj2.quest.db.1332.desc",
+      "en": "Imbue Soularium with some Dark Steel and a bit of Elevation.%n%nWhat do you mean you can't?%nFine, just use an ingot of Elevatium."
+    },
+    {
+      "key": "dj2.quest.db.1333.title",
+      "en": "Over 9000"
+    },
+    {
+      "key": "dj2.quest.db.1333.desc",
+      "en": "Craft an Empowerer and 4 Display Stands! The Display Stands you have crafted must be placed exactly 3 blocks away from the Empowerer along the four cardinal directions.%nThe Empowerer is a crafting system that consumes power and specialized items from the display stands in a display of light, empowerering the item atop the Empowerer."
+    },
+    {
+      "key": "dj2.quest.db.1334.title",
+      "en": "Better-y than a Capacitor"
+    },
+    {
+      "key": "dj2.quest.db.1334.desc",
+      "en": "Using your Advanced Coil, craft a Single Battery and upgrade to a Double Battery!"
+    },
+    {
+      "key": "dj2.quest.db.1335.title",
+      "en": "Not quite Ethical"
+    },
+    {
+      "key": "dj2.quest.db.1335.desc",
+      "en": "Using the Atomic Reconstructor you can convert:%nQuartz Block -> Ethetic Quartz%nChiseled Quartz Block -> Ethetic Green Quartz"
+    },
+    {
+      "key": "dj2.quest.db.1336.title",
+      "en": "Vibrant Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1336.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag.%n%n%nAtricos won't check here, please help I'm trapped and he's forcing me to write some of these! ONLY YOU CAN SAVE ME!"
+    },
+    {
+      "key": "dj2.quest.db.1337.title",
+      "en": "Energetic Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1337.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1338.title",
+      "en": "Even smarter Item relocator"
+    },
+    {
+      "key": "dj2.quest.db.1338.desc",
+      "en": "It works similarly to the basic Item Laser Relay, except it now has a GUI that opens when you click it, allowing you to filter input and output items with precision."
+    },
+    {
+      "key": "dj2.quest.db.1339.title",
+      "en": "Aight. Am smarter now."
+    },
+    {
+      "key": "dj2.quest.db.1339.desc",
+      "en": "When attached to inventories, the Item Laser Relay can see all the items inside.%nYou can link different Item Laser Relays within 15 blocks of each other together to form a network.%nThis network will do nothing, however, until you attach it to an Item Interface."
+    },
+    {
+      "key": "dj2.quest.db.1341.title",
+      "en": "Flux-Infused JetPlate"
+    },
+    {
+      "key": "dj2.quest.db.1341.desc",
+      "en": "The Flux-Infused JetPlate can hold up to 60 Million RF, can fly horizontally and vertically even faster than previous jetpacks, gives a large amount of armor, and can charge held items. %nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your JetPlate.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1342.title",
+      "en": "Fluxed Thruster"
+    },
+    {
+      "key": "dj2.quest.db.1342.desc",
+      "en": "A crafting ingredient.%n%nThe other statement is true."
+    },
+    {
+      "key": "dj2.quest.db.1343.title",
+      "en": "It's all the Range nowadays"
+    },
+    {
+      "key": "dj2.quest.db.1343.desc",
+      "en": "The Range Upgrade can be used on any Laser to increase its range from 15 to 35. The connection uses the distance of the shortest range, so both ends of the Laser will require this Upgrade."
+    },
+    {
+      "key": "dj2.quest.db.1344.title",
+      "en": "Case and Point"
+    },
+    {
+      "key": "dj2.quest.db.1344.desc",
+      "en": "It's time to craft an Iron Casing to begin your journey into Actually Additions!%n%nNote: Almost all the recipes in the Actually Additions book are not the actual recipes."
+    },
+    {
+      "key": "dj2.quest.db.1345.title",
+      "en": "Jakimfett would be proud"
+    },
+    {
+      "key": "dj2.quest.db.1345.desc",
+      "en": "The Atomic Reconstructor fires lasers that atomically reconstruct what they hit. This works on multiple stacks of items at once, but requires power for each item converted.%nBy default, it will auto-fire once every few seconds. Right Click with a redstone torch to toggle its activation mode.%nThe Atomic Reconstructor can alter many items, and it is best to check JEI to get the full list."
+    },
+    {
+      "key": "dj2.quest.db.1346.title",
+      "en": "Crystal Allies"
+    },
+    {
+      "key": "dj2.quest.db.1346.desc",
+      "en": "Alloy up a Vivid Alloy Ingot, Grains of Piezallity, and an Elevatium Ingot to get a wonderful Crystalline Alloy Ingot."
+    },
+    {
+      "key": "dj2.quest.db.1347.title",
+      "en": "Gone Floating"
+    },
+    {
+      "key": "dj2.quest.db.1347.desc",
+      "en": "Once, long ago, there was a story about a magical material that could contain near infinite power.%nThat's not this material, this one just hovers a bit...%n%nBut, you'll need a lot of it throughout the pack, and there are progressively easier recipes for it that get unlocked in the following Chapters. For now, you'll need to use the Atomic Reconstructor recipe."
+    },
+    {
+      "key": "dj2.quest.db.1348.title",
+      "en": "Phantom Tandem"
+    },
+    {
+      "key": "dj2.quest.db.1348.desc",
+      "en": "Without being bound to a block, Phantomfaces do nothing!%nFor the low, low price of a Right Click on the target block and a Shift+Right Click on the Phantomface you desire, you can have them actually do something!"
+    },
+    {
+      "key": "dj2.quest.db.1349.title",
+      "en": "Phantom Fandom"
+    },
+    {
+      "key": "dj2.quest.db.1349.desc",
+      "en": "The Phantomface works as a remote access point for an inventory within 16 blocks.%nManipulation of items maintains its directionality.%nYou can place up to three Phantom Boosters on top of the Phantomface to increase its range up to a maximum of 128 blocks."
+    },
+    {
+      "key": "dj2.quest.db.1350.title",
+      "en": "Electrical Steel Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1350.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1351.title",
+      "en": "Shine bright like a Bundle"
+    },
+    {
+      "key": "dj2.quest.db.1351.desc",
+      "en": "You're beautiful, like Bundles in the Sky...%n%nEmpower your Crystal Bundle further! Maximum Empowerment!"
+    },
+    {
+      "key": "dj2.quest.db.1352.title",
+      "en": "Mmhhhm, chunky"
+    },
+    {
+      "key": "dj2.quest.db.1352.desc",
+      "en": "The Experience Solidifier can turn your experience into solidified lumps of goo.%nYou can consume this Solidified Experience by Right Clicking it, and can consume a whole stack if you also hold Shift.%nThough seeing as you've already been rewarded quite a lot of this stuff, you probably know how to use it.%nThough with this machine you can automate the creation of this goo and use it to empower some Crystal Bundles!"
+    },
+    {
+      "key": "dj2.quest.db.1353.title",
+      "en": "Just stick them together"
+    },
+    {
+      "key": "dj2.quest.db.1353.desc",
+      "en": "Craft a Crystal Bundle!"
+    },
+    {
+      "key": "dj2.quest.db.1354.title",
+      "en": "Hardened Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1354.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1355.title",
+      "en": "Leadstone Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1355.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1356.title",
+      "en": "Rollup goldrub"
+    },
+    {
+      "key": "dj2.quest.db.1356.desc",
+      "en": "Not all the glitters is Glod..."
+    },
+    {
+      "key": "dj2.quest.db.1357.title",
+      "en": "Resonant Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1357.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1358.title",
+      "en": "Reinforced Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1358.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1359.title",
+      "en": "Zip Zoop"
+    },
+    {
+      "key": "dj2.quest.db.1359.desc",
+      "en": "Link Telepads using the Telepad Linking Card. Does not take power, but only teleports players on it when it gets a redstone signal.%nDoes not work across dimensions."
+    },
+    {
+      "key": "dj2.quest.db.1360.title",
+      "en": "Send it"
+    },
+    {
+      "key": "dj2.quest.db.1360.desc",
+      "en": "The Telepad Block is a 3x3 multiblock that consumes power and Dew of the Void to teleport you anywhere. To specify the place, use the resulting Location Printout from using the Coordinate Selector at your desired coordinates. To store more than one place, use the Dialing Device.%nThis also works as a Travel Anchor."
+    },
+    {
+      "key": "dj2.quest.db.1361.title",
+      "en": "An ever-expanding Chest"
+    },
+    {
+      "key": "dj2.quest.db.1361.desc",
+      "en": "Craft an Item Interface! This block is capable of interacting with all Chests or other storage devices that have Item Laser Relays connected to them. You can use any pipe that can push or pull into the Item Interface or any connected Chest to wirelessly transfer items between the two. The more Chests connected, the more storage space you can access with the Item Interface. In that sense, it's like an ever-expanding Chest!"
+    },
+    {
+      "key": "dj2.quest.db.1362.title",
+      "en": "Return it"
+    },
+    {
+      "key": "dj2.quest.db.1362.desc",
+      "en": "Bind to a Telepad by Shift+Right Clicking it, and hold Right Click to return to the Telepad. Costs power and Dew of the Void for each operation."
+    },
+    {
+      "key": "dj2.quest.db.1363.title",
+      "en": "Swipe your card"
+    },
+    {
+      "key": "dj2.quest.db.1363.desc",
+      "en": "Right Click on a QuantumFlux Teleporter to remember it, and Right Click on a different QuantumFlux Teleporter to link them together."
+    },
+    {
+      "key": "dj2.quest.db.1364.title",
+      "en": "Luck is on your side"
+    },
+    {
+      "key": "dj2.quest.db.1364.desc",
+      "en": "Craft both tiers of Fortune Augments! To have Fortune Two enabled, you must also have Fortune One.%n%nIt works just like normal Fortune, okay?"
+    },
+    {
+      "key": "dj2.quest.db.1365.title",
+      "en": "The Thrill of the Drill"
+    },
+    {
+      "key": "dj2.quest.db.1365.desc",
+      "en": "The Drill is a mining tool that mines with the effectiveness of both a Shovel and a Diamond Pickaxe. It uses 100 RF per block mined, and has a number of possible upgrades, including speed and fortune.%nShift+Right Click with the Drill in hand to view your upgrades and upgrade slots."
+    },
+    {
+      "key": "dj2.quest.db.1366.title",
+      "en": "IT'S MOB FARM TIME!"
+    },
+    {
+      "key": "dj2.quest.db.1366.desc",
+      "en": "The Powered Spawner is an incredibly powerful block, but it takes some effort to use.%nFirst, capture a mob of your choice you want to auto-spawn in a Soul Vial. Then, bind the mob in the Soul Vial to a Broken Spawner through a Soul Binder. Now, combine the rebound Broken Spawner with a Powered Spawner in an anvil. Finally, place the Powered Spawner down, put a capacitor in it (the capacitor will affect the speed and quantity of mobs spawned), and provide it power.%nProbably want to do this where the mobs will get automatically killed. Would hate to see another world explode due to an insane amount of mobs."
+    },
+    {
+      "key": "dj2.quest.db.1367.title",
+      "en": "Dark Soularium Thruster"
+    },
+    {
+      "key": "dj2.quest.db.1367.desc",
+      "en": "A crafting ingredient.%n%nThe other statement is false."
+    },
+    {
+      "key": "dj2.quest.db.1368.title",
+      "en": "Underwater Rest Stops"
+    },
+    {
+      "key": "dj2.quest.db.1368.desc",
+      "en": "Travel Anchors are blocks that allow easy teleportation between them by shifting or jumping. They have a maximum range of 100 blocks.%nYou can change its name and how it appears by Right Clicking on it.%nThey do not require power for any operation."
+    },
+    {
+      "key": "dj2.quest.db.1369.title",
+      "en": "Even Better Capacitors"
+    },
+    {
+      "key": "dj2.quest.db.1369.desc",
+      "en": "The 4th and 5th tiers of capacitors. These can be inserted into any EnderIO machine that accepts capacitors, and greatly buff its effects, speed, and power capacity."
+    },
+    {
+      "key": "dj2.quest.db.1370.title",
+      "en": "Call it"
+    },
+    {
+      "key": "dj2.quest.db.1370.desc",
+      "en": "Can store and teleport players to multiple places through the Telepad placed in its range."
+    },
+    {
+      "key": "dj2.quest.db.1371.title",
+      "en": "> Spe- >> Spee- >>> Speeed!"
+    },
+    {
+      "key": "dj2.quest.db.1371.desc",
+      "en": "Craft all 3 tiers of Drill Speed Augments! To have Speed Two enabled, you must also have Speed One. The same is true for Speed Three with Speed Two.%nEach Speed Augment increases the power usage per block and increases the speed of the Drill. At Speed Three, you instantly mine stone, but consume 400 RF per block mined."
+    },
+    {
+      "key": "dj2.quest.db.1372.title",
+      "en": "Let's face it"
+    },
+    {
+      "key": "dj2.quest.db.1372.desc",
+      "en": "Craft some specialized versions of the Phantomface! These work the same way, but with Power, Fluids, or Redstone Signal instead."
+    },
+    {
+      "key": "dj2.quest.db.1373.title",
+      "en": "Conductive Iron Jetpack"
+    },
+    {
+      "key": "dj2.quest.db.1373.desc",
+      "en": "Each tier of jetpack has a higher power storage capacity, faster vertical movement, and faster horizontal movement than the previous. There is no difference in functionality within a tier. You can upgrade a jetpack with armor plating so it will also provide armor to you.%nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your jetpack.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1374.title",
+      "en": "Configuration Commencing!"
+    },
+    {
+      "key": "dj2.quest.db.1374.desc",
+      "en": "The Laser Wrench allows you to link Lasers of the same type.%nIt can also disconnect, but what monster would want to do that?"
+    },
+    {
+      "key": "dj2.quest.db.1375.title",
+      "en": "Ender Splendour"
+    },
+    {
+      "key": "dj2.quest.db.1375.desc",
+      "en": "Allows you to witness the majesty of the end, in block form."
+    },
+    {
+      "key": "dj2.quest.db.1376.title",
+      "en": "Arrange the range"
+    },
+    {
+      "key": "dj2.quest.db.1376.desc",
+      "en": "Phantom Boosters can be placed on top of a number of blocks, increasing their range for each placed atop it, to a maximum of three."
+    },
+    {
+      "key": "dj2.quest.db.1377.title",
+      "en": "The Tesseract 2: 1.12.2"
+    },
+    {
+      "key": "dj2.quest.db.1377.desc",
+      "en": "Allows for inter-dimension transportation of power, fluid, and items. Requires a capacitor to function."
+    },
+    {
+      "key": "dj2.quest.db.1378.title",
+      "en": "Dark Soularium JetPlate"
+    },
+    {
+      "key": "dj2.quest.db.1378.desc",
+      "en": "The Dark Soularium JetPlate can hold up to 60 Million RF, can fly horizontally and vertically even faster than previous jetpacks, gives a large amount of armor, and can charge held items. %nLook at your keybinds for Simply Jetpacks 2 to change the default settings of your JetPlate.%n%nIMPORTANT: You can still take fall damage. Tapping space just before you would land cancels this, but may not be doable if there is any amount of lag."
+    },
+    {
+      "key": "dj2.quest.db.1379.title",
+      "en": "Pew-pew!"
+    },
+    {
+      "key": "dj2.quest.db.1379.desc",
+      "en": "Using the Atomic Reconstructor you can convert:%nRedstone -> Restonia Crystal%nLapis -> Palis Crystal%nCoal -> Void Crystal%nIron -> Enori Crystal%nGold -> Glod Crystal%nDiamond -> Diamatine Crystal%nEmerald -> Emeradic Crystal"
+    },
+    {
+      "key": "dj2.quest.db.1380.title",
+      "en": "Works like Silver Shoes"
+    },
+    {
+      "key": "dj2.quest.db.1380.desc",
+      "en": "The Portable Teleporter is a hand-held device that allows you to teleport to any already existing Teleporter"
+    },
+    {
+      "key": "dj2.quest.db.1381.title",
+      "en": "Not your father's portal!"
+    },
+    {
+      "key": "dj2.quest.db.1381.desc",
+      "en": "The Mekanism Teleporter is a 4x3 multiblock structure, with the Teleporter block in the middle on the bottom, and a hollow 2x1 in the middle for the player to walk though.%nIt works like the channel system you are familiar with in the rest of Mekanism, and requires power."
+    },
+    {
+      "key": "dj2.quest.db.1382.title",
+      "en": "Caveman Eviction"
+    },
+    {
+      "key": "dj2.quest.db.1382.desc",
+      "en": "Craft both tiers of Drill Mining Augments! To have 5 by 5 enabled, you must also have 3 by 3.%nAs expected, 3 by 3 and 5 by 5 increase the mining size of the Drill. They also increase the RF per block cost, and decrease mining speed.%nWhen mining downwards with the 5 by 5, it will only mine one lower, instead of two.%nYou can hold Shift to only mine one block."
+    },
+    {
+      "key": "dj2.quest.db.1383.title",
+      "en": "Find it"
+    },
+    {
+      "key": "dj2.quest.db.1383.desc",
+      "en": "When using this with a piece of paper in your inventory, it creates a Location Printout, which can then be used in the Telepad or a Dialing Device to teleport to that location.%nMake sure to name it something that you will understand later."
+    },
+    {
+      "key": "dj2.quest.db.1384.title",
+      "en": "Roll it up!"
+    },
+    {
+      "key": "dj2.quest.db.1384.desc",
+      "en": "Wrap some Crystalline Brown Slime Ingots around your new Enori Crystal - who knows what it will make?"
+    },
+    {
+      "key": "dj2.quest.db.1385.title",
+      "en": "Worry not: Items on the way!"
+    },
+    {
+      "key": "dj2.quest.db.1385.desc",
+      "en": "If the player that placed the Player Interface down is within 32 blocks, Power can be inserted into the block to charge items in the players inventory, and items can be inserted and extracted, starting with the hotbar.%nYou can place up to three Phantom Boosters on top of the Player Interface to increase its range up to a maximum of 256 blocks."
+    },
+    {
+      "key": "dj2.quest.db.1386.title",
+      "en": "Even Better Conduits"
+    },
+    {
+      "key": "dj2.quest.db.1386.desc",
+      "en": "These conduits will allow you to transfer even more power!"
+    },
+    {
+      "key": "dj2.quest.db.1387.title",
+      "en": "Fully Shot-graded"
+    },
+    {
+      "key": "dj2.quest.db.1387.desc",
+      "en": "Upgrade your Energy Laser Relay all the way to the Extreme variant! All Energy Relays can wirelessly transmit power over 15 blocks, and through any material.%nThe Advanced relay can transfer 10,000 RF/tick.%nThe Extreme Relay can transfer 100,000 RF/tick."
+    },
+    {
+      "key": "dj2.quest.db.1388.title",
+      "en": "Put down the Drill"
+    },
+    {
+      "key": "dj2.quest.db.1388.desc",
+      "en": "Craft a Block Placing Augment for the Drill! Before inserting this upgrade into the Drill, Right Click with it. When inside the Drill, Right Clicking with the Drill will attempt to place any block that is in that slot of your hotbar. Now you'll never need to stop holding your beloved Drill!"
+    },
+    {
+      "key": "dj2.quest.db.1448.title",
+      "en": "Overcharged air particles"
+    },
+    {
+      "key": "dj2.quest.db.1448.desc",
+      "en": "Craft a Wireless RF Transmitter from Extra Utilities! When supplied with power, it redistributes the power wirelessly within a 4 block radius. No more cables! It's pretty handy. Simply Right Click it to turn it on or off."
+    },
+    {
+      "key": "dj2.quest.db.1706.title",
+      "en": "A-VOID-ing responsibility"
+    },
+    {
+      "key": "dj2.quest.db.1706.desc",
+      "en": "Is your base getting laggy? Do you no longer wish to observe the beauty of the overworld? Well do I have to solution for you!%n%nIntroducing: The Void! For only $3.99/month*, you get to live inside a dimension of absolutely NOTHING! Isn't it great?!%n%n%n%n%n%n* Each Right Click onto the Portal block may cost additional fees like Portal Transfer Channel Keep-up Tax, Worker's chargebacks, Teleposition Safety Regulation Fees in accordance with the Teleportation Act of 1999, Sanity Refurbation Check, and more. Please consult our your tax advisor for more information."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Witches' Robes",
+  "category": "gear",
+  "icon": "bewitchment:witches_hat",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Witches' Robes là trang phục được những người thực hành Witchcraft ưa chuộng. Tuy bản thân khá bình thường, những bộ áo choàng này có thể được cải biến để cường hóa các trường phái cụ thể của thuật pháp."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/witches_hat",
+      "recipe2": "bewitchment:equipment/armor/witches_cowl"
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/armor/witches_robes",
+      "recipe2": "bewitchment:equipment/armor/witches_pants"
+    }
+  ]
+}

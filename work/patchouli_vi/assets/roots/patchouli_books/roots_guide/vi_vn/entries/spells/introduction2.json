@@ -1,0 +1,74 @@
+{
+  "name": "Giới thiệu về Modifier",
+  "icon": "minecraft:writable_book",
+  "category": "spells",
+  "priority": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tạo và quản lý phép là một hệ thống phức tạp, được chia thành nhiều chương.$(li)$(l:spells/introduction)Phần giới thiệu đầu tiên trình bày các khái niệm cơ bản, bao gồm truyền phép.$()$(li)Chương này trình bày cơ chế áp dụng modifier$()$(li)$(l:spells/modifiers)Công dụng thực tế của modifier và phép$()$(li)$(l:spells/library)Cơ chế và công dụng của Spell Library$()."
+    },
+    {
+      "type": "text",
+      "text": "Mỗi phép có một chức năng riêng. Modifier có thể thay đổi hoặc tăng cường chức năng đó. Phần này trình bày cách áp dụng modifier bằng Imposer.$(br2)$(warning) Xem $(l:spells/modifiers)mục này$() để biết chi phí và các chức năng khác của modifier.$(br2)$(info) Khi đã $(l:spells/introduction2#unlock)mở khóa$(), modifier sẽ được mở vĩnh viễn cho mọi Staff của bạn."
+    },
+    {
+      "type": "crafting",
+      "title": "Imposer",
+      "anchor": "imposer",
+      "recipe": "roots:imposer",
+      "text": "Đặt một Staff vào Imposer ($(l:spells/library)đã chọn phép$()) cho phép bạn vừa thêm modifier dùng chung, vừa bật chúng cho Staff này.$(br2)$(info) Khi Staff đang nằm trong Imposer, hãy cầm $(l:crafting/knives)Knife$() và nhấp chuột phải vào Imposer để mở giao diện."
+    },
+    {
+      "type": "image",
+      "title": "Imposer: Chọn phép",
+      "images": [
+        "roots:textures/gui/patchouli/imposer_spell_select.png"
+      ],
+      "text": "Giao diện ban đầu của Imposer: nhấp vào một phép để chỉnh sửa."
+    },
+    {
+      "type": "image",
+      "title": "Imposer: Chỉnh sửa bổ trợ",
+      "images": [
+        "roots:textures/gui/patchouli/imposer_modifier_edit.png"
+      ],
+      "text": "Sau khi nhấp vào một phép. [Có kho đồ người chơi nhưng không hiển thị.]"
+    },
+    {
+      "type": "text",
+      "title": "Chỉnh sửa bổ trợ",
+      "text": "Như trong ảnh, bạn có thể nhấp vào một phép để mở màn hình chỉnh sửa bổ trợ. Nút 'Quay lại' sẽ đưa bạn về màn hình chọn phép.$(br2)Màu viền quanh bổ trợ cùng chú giải $(l:spells/introduction2#colours)sẽ cung cấp thông tin.$()$(br2)$(info) Ô màu xám nghĩa là thảo mộc này không có bổ trợ."
+    },
+    {
+      "type": "text",
+      "title": "Mở khóa bổ trợ",
+      "anchor": "unlock",
+      "text": "Quá trình mở khóa bổ trợ rất đơn giản. Bạn cần có thảo mộc tương ứng trong kho đồ khi truy cập Imposer.$(br2)$(info) Shift-nhấp vào thảo mộc để tự động điền vào ô, hoặc nhấp để đặt nó vào ô.$(br2)$(info) Sau khi mở khóa, bổ trợ này sẽ được mở khóa vĩnh viễn trong thư viện phép và mọi staff bạn mở."
+    },
+    {
+      "anchor": "colours",
+      "type": "text",
+      "title": "Màu sắc & chú giải",
+      "text": "Màu vàng và chú giải 'Bổ trợ chưa được mở khóa' nghĩa là bổ trợ hiện có thể mở khóa.$(br2)$(info) Đặt thảo mộc tương ứng vào ô để mở khóa.$(br2)Màu đỏ và chú giải 'Bổ trợ chưa được bật' nghĩa là bổ trợ đã được mở khóa nhưng chưa bật.$(br2)$(info) Chỉ cần nhấp vào ô để bật."
+    },
+    {
+      "type": "text",
+      "title": "Màu sắc & chú giải",
+      "text": "Màu xanh lá và không có chú giải bổ sung nghĩa là bổ trợ đang bật.$(br2)$(info) Nhấp vào ô để tắt.$(br2)Màu tím và chú giải 'Bổ trợ xung đột' nghĩa là bổ trợ này xung đột với bổ trợ khác nên không thể bật.$(br2)$(info) Tắt các bổ trợ được đề cập hoặc giữ Alt khi nhấp để tự động tắt chúng."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/introduction",
+        "spells/library",
+        "spells/modifiers",
+        "crafting/staff",
+        "crafting/gramary",
+        "crafting/imposer"
+      ]
+    }
+  ]
+}

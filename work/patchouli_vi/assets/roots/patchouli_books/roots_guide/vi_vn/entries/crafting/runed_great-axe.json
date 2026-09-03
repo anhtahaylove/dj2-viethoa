@@ -1,0 +1,26 @@
+{
+  "name": "Runed Great-Axe",
+  "icon": "roots:runed_axe",
+  "category": "crafting_armor_tools_runed",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Cứng cáp và bền bỉ, vẫn có khả năng tự hồi phục nhưng chậm hơn nhiều so với các công cụ khác.$(br2)$(info) Chiếc rìu này có cấp khai thác tương đương công cụ kim cương.$(br2)$(info) Đáng chú ý nhất, chiếc rìu này không chỉ phá một khối mà phá cả vùng 3x3."
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "runed_axe"
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "crafting/fey_crafter",
+        "crafting/terrastone_axe",
+        "crafting/living_axe",
+        "resources/runed_obsidian"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "key": "dj2.quest.ql.28.title",
+    "title": "2. Dancing on a Totem Pole",
+    "desc": "Khám phá Totemic và chiến đấu với boss Baykok."
+  },
+  {
+    "key": "dj2.quest.db.6.title",
+    "title": "The Collector",
+    "desc": "Tiêu diệt mob bằng Sacthoth's Soul Reaper Blade để lấp đầy thanh kiếm bằng các Soul! Bạn càng thu thập nhiều Soul, vũ khí càng trở nên mạnh mẽ.%n%nSau khi đã thu thập đủ Soul, hãy chế tạo một Soul Extractor rồi kết hợp nó với thanh kiếm để lấy các Soul ra... Rùng rợn thật!"
+  },
+  {
+    "key": "dj2.quest.db.302.title",
+    "title": "Part of the Golden Club",
+    "desc": "Chế tạo một Golden Club! Bạn chỉ cần một chiếc, nhưng có thể làm thêm nếu muốn.%n%nVung nó trong không khí sẽ tiêu hao 2 độ bền để triệu hồi sét! Nếu muốn dùng nó vào việc gì đó hữu ích (ngoài việc làm cảnh), hãy nhớ sử dụng nó KHI ĐANG TRỎ VÀO một khối. Điều này là bắt buộc để tạo LE (Lightning Energy), nhưng các phép biến đổi bằng sét cũng có thể được thực hiện bởi những nguồn sét khác."
+  },
+  {
+    "key": "dj2.quest.db.356.title",
+    "title": "Structure Projector",
+    "desc": "Khi nhấp chuột phải vào khối tiêu điểm của một cấu trúc, Sextant sẽ hiển thị hình ảnh ảo của cấu trúc đó để giúp bạn xây dựng.%n%n(Khi nhấp chuột phải ở nơi khác, nó sẽ mở bản đồ sao. Bình thường thì bản đồ này sẽ giúp bạn tìm các cấu trúc Astral Sorcery, nhưng màààà các cấu trúc đó đã bị vô hiệu hóa trong gói mod này. Xin lỗi nhé!)"
+  },
+  {
+    "key": "dj2.quest.db.358.title",
+    "title": "Starlight acquisition acceleration modification",
+    "desc": "Vì các cấu trúc Astral Sorcery đã bị vô hiệu hóa, chúng ta cần một cách để chế tạo Collector Crystal. Phương pháp này khá đắt đỏ và cho bạn một Crystal tương đối tốt, nhưng những phương pháp sắp tới sẽ giúp việc này rẻ hơn rất nhiều.%n%nDù vậy, hãy chế tạo Collector Crystal cụ thể này trong Elite Crafting Table 7x7 của bạn, rồi đặt nó tại một vị trí thích hợp.%n%nNếu hướng nó về phía Starlight Altar, nó sẽ tăng lượng Starlight bên trong, giúp việc chế tạo trở nên dễ dàng hơn — thậm chí có thể cho phép thực hiện những công thức nhỏ vào ban ngày!"
+  },
+  {
+    "key": "dj2.quest.db.428.title",
+    "title": "Compressor Automation",
+    "desc": "Chế tạo các vật liệu cần thiết được liệt kê bên phải để xây dựng một Ultimate Compressor! Đây là biến thể NHANH hơn RẤT NHIỀU so với mọi Galacticraft Compressor cơ bản, và nó vẫn có thể chế tạo ngay cả khi nguyên liệu đầu vào bị dồn ứ thành vài chồng. Tuyệt vời!"
+  },
+  {
+    "key": "dj2.quest.db.443.title",
+    "title": "The PenULTIMATE Crafting Table",
+    "desc": "Chế tạo Crafting Table 9x9 đầu tiên của bạn!%n%nNhưng dường như vẫn còn thiếu thứ gì đó...%n%nNó vẫn chưa đủ EXTREME..."
+  },
+  {
+    "key": "dj2.quest.db.444.title",
+    "title": "Yet Another Machiavellian Machine Frame (YAMMF)",
+    "desc": "Tôi thề đây là cấp Machine Frame cuối cùng rồi... Lần này chắc chắn! Chắc chắắắắắắắắắắn.....!!"
+  },
+  {
+    "key": "dj2.quest.db.452.title",
+    "title": "\"Ultimate\" Crafting Table",
+    "desc": "Chính là nó...%n%nCuối cùng cũng đủ TỘT ĐỈNH rồi!%n%nĐiểm khác biệt là...%n%nNhiều SỨC MẠNH hơn!%n%nĐúúúúng vậy!%n%nMình có thể chế tạo những vật phẩm CÒN MẠNH HƠN NỮA trong này...!%n%nGiờ thì không gì có thể ngăn cản mình!"
+  },
+  {
+    "key": "dj2.quest.db.640.title",
+    "title": "The Enderest of Enderer Pearls",
+    "desc": "Chế tạo một Infused Enderpearl! Tự động hóa việc này là lựa chọn có lợi nhất cho bạn."
+  },
+  {
+    "key": "dj2.quest.db.743.title",
+    "title": "Quasi Quantum Supercomputer Singularity",
+    "desc": "Nâng cấp Creative Powercell bằng một số vi mạch sẽ cho phép bạn tạo ra 100,000 RF/tick. Khá hơn rồi, nhưng vẫn chưa \"Creative\" cho lắm."
+  },
+  {
+    "key": "dj2.quest.db.824.title",
+    "title": "Sand Collector",
+    "desc": "Thu thập một ít Sand bằng Ore Excavator!"
+  },
+  {
+    "key": "dj2.quest.db.825.title",
+    "title": "Gravel Collector",
+    "desc": "Thu thập một ít Gravel bằng Ore Excavator!"
+  },
+  {
+    "key": "dj2.quest.db.826.title",
+    "title": "Clay Collector",
+    "desc": "Thu thập một ít Clay bằng Ore Excavator!"
+  },
+  {
+    "key": "dj2.quest.db.1231.title",
+    "title": "Emperor of Empowerer",
+    "desc": "Chế tạo bốn bản cho mỗi loại trong cả 5 bậc Empowered Dark Steel Upgrade! Chúng có thể được áp dụng lần lượt lên Dark Steel Armor. Đây là những nâng cấp cần thiết để mở khóa các nâng cấp khác và giúp bộ giáp của bạn tiêu hao năng lượng thay vì độ bền khi chịu đòn.%n%nĐể áp dụng những nâng cấp này, bạn cần sử dụng Dark Steel Anvil. Chỉ cần mặc món giáp cần nâng cấp, rồi dùng các thẻ trong giao diện của Anvil để áp dụng chúng.%n%n§6Lưu ý:§r Empowered Tier thứ 5 chỉ có thể áp dụng cho End Steel Armor và Stellar Armor.%n%n§6Lưu ý 2:§r Nhiệm vụ này thực ra có 2 yêu cầu; bạn có thể hoàn thành bằng cách nộp Dark Steel Upgrade chưa kích hoạt HOẶC đã kích hoạt."
+  },
+  {
+    "key": "dj2.quest.db.1270.title",
+    "title": "Oxygen & Hydrogen!",
+    "desc": "Chế tạo một Electrolytic Separator! Dùng một loại ống nào đó để đưa Water vào máy, đồng thời cấp năng lượng cho máy. Máy sẽ phân tách Water thành Hydrogen và Oxygen. Để vận chuyển các loại khí này, hãy dùng Mekanism Pressurized Tube. Để lưu trữ chúng, hãy dùng Mekanism Gas Tank. Bạn có thể tìm thấy các nhiệm vụ dành cho chúng ở bên phải nhiệm vụ này."
+  },
+  {
+    "key": "dj2.quest.db.1377.title",
+    "title": "The Tesseract 2: 1.12.2",
+    "desc": "Cho phép vận chuyển năng lượng, chất lỏng và vật phẩm xuyên không gian giữa các chiều. Cần có capacitor để hoạt động."
+  },
+  {
+    "key": "dj2.quest.db.1735.title",
+    "title": "Sacrificing Starlight",
+    "desc": "Hãy sử dụng sức mạnh vô biên của chính thiên giới để phục vụ những mục đích huyền thuật của bạn!%n%nKhi đặt một Attuned Crystal lên trên Ritual Pedestal, bạn sẽ khiến Ritual Pedestal phát ra hiệu ứng dựa trên Constellation mà viên pha lê đã được đồng điệu. Attuned Crystal sẽ dần suy hao và mất hiệu lực khi nó §4nứt vỡ§r. Có thể sửa chữa Fractured Crystals bằng cách thả chúng vào Liquid Starlight.%n%nĐặt một Ritual Anchor cao hơn Pedestal 5 khối sẽ cho phép chuyển hiệu ứng đến một Ritual Anchor đã ghép cặp ở nơi khác, giúp bạn vận dụng Ritual chính xác hơn.%n%nDẫn thêm Starlight về phía Ritual Pedestal sẽ gia tăng sức mạnh của nghi lễ, mặc dù để đạt hiệu suất tối đa, bạn phải đặt các Lenses phía trên nghi lễ nhằm phản chiếu ánh sáng khúc xạ. Điều này cũng làm Attuned Crystal nứt vỡ nhanh hơn.%n%n%nMỗi trạng thái Attunement với Major Constellations và Minor Constellations đều có hiệu ứng riêng đáng để khám phá. Thay vì tạo ra một hiệu ứng riêng biệt, Faint Constellations áp dụng hiệu ứng bổ trợ cho hiệu ứng của Major Constellation hoặc Minor Constellation. Một trong các Faint Constellations sẽ tha hóa nghi lễ, khiến hiệu ứng của nó bị đảo ngược.%n%n%n%nKhi được đồng điệu với Major Constellation hoặc Minor Constellation:%n%n§6Discidia§r, các thực thể không phải chủ sở hữu liên tục nhận sát thương. Khi bị Corrupted, các thực thể được hồi máu và nhận Resistance, còn chủ sở hữu phải chịu sát thương.%n§6Armara§r, ngăn mob xuất hiện, đẩy các vật thể bay ra xa và ban Resistance cho mọi thực thể. Khi bị Corrupted, ban nhiều hiệu ứng có lợi cho mọi thực thể không phải người chơi và khiến chúng rơi ra nhiều vật phẩm hơn đáng kể khi bị tiêu diệt.%n§6Vicio§r, người chơi có được khả năng bay. Khi bị Corrupted, người chơi mất khả năng bay và nhận Mining Fatigue cùng Slowness.%n§6Aevitas§r, các thực thể nhận hiệu ứng thuốc Regeneration và cây trồng được tăng tốc độ sinh trưởng. Khi bị Corrupted, các thực thể nhận nhiều hiệu ứng tiêu cực và cây trồng bị phá hủy.%n§6Evorsio§r, phá các khối. Khi bị Corrupted, thay vào đó sẽ đặt nhiều loại khối khác nhau.%n§6Lucerna§r, ngăn mob xuất hiện. Khi bị Corrupted, ngăn màn đêm trôi qua.%n§6Mineralis§r, tạo ra quặng ngẫu nhiên trong khu vực. Khi bị Corrupted, cố gắng tạo chính những loại quặng đó tại vị trí đang có thực thể.%n§6Horologium§r, tăng tốc độ tick của Tile Entities, được biểu thị bằng các hạt hiệu ứng. Chúng không thể bao gồm bất kỳ khối Applied Energistics 2 nào hoặc phần lớn khối Astral Sorcery. Khi bị Corrupted, ngăn các thực thể và Tile Entities di chuyển — điều này có thể ảnh hưởng đến boss.%n§6Octans§r, tạo ra vật phẩm thu được từ câu cá. Khi bị Corrupted, đặt nước trong khu vực và tạo ra vật phẩm thu được từ câu cá.%n§6Bootes§r, tạo ra những vật phẩm mà một con vật sẽ rơi ra nếu bị giết nhưng không giết nó. Khi bị Corrupted, khiến động vật rơi ra nhiều vật phẩm hơn đáng kể khi bị giết, rồi giết chúng.%n§6Fornax§r, nung chảy các khối trong thế giới. Khi bị Corrupted, thay vào đó sẽ đóng băng chất lỏng.%n§6Pelotrio§r, triệu hồi những mob có thể xuất hiện hợp lệ tại vị trí hiện tại. Khi bị Corrupted, biến đổi thực thể giữa các dạng và khiến mob rơi ra nhiều vật phẩm hơn đáng kể khi bị tiêu diệt.%n%nKhi được đồng điệu với Faint Constellation:%n%n§6Gelu§r, tăng phạm vi ảnh hưởng nhưng giảm hiệu lực.%n§6Ulteria§r, khuếch đại đáng kể hiệu ứng nhưng giảm phạm vi.%n§6Alcara§r, Corrupt nghi lễ, khuếch đại hiệu ứng và tăng phạm vi, nhưng làm Attuned Crystal nứt vỡ nhanh hơn đáng kể.%n§6Vorux§r, khuếch đại hiệu ứng và tăng phạm vi, nhưng làm Attuned Crystal nứt vỡ nhanh hơn một chút."
+  }
+]

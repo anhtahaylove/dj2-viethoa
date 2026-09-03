@@ -1,0 +1,27 @@
+{
+  "name": "Loot Bags",
+  "icon": "roots:reliquary",
+  "category": "resources",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:reliquary",
+      "link_recipe": true,
+      "text": "Bạn có thể lấy được các vật chứa từ Twilight grove, nơi cư ngụ của ma và linh hồn, bên trong có nhiều vật phẩm giá trị: Reliquary và Spirit Bag.$(br2)Cách đơn giản nhất là dùng modifier $(modifier:gifts_of_undeath)$() cho phép $(l:spells/spell_harvest)Harvest$().$(br2)$(info) Ngoài các nguồn mặc định, chúng có thể còn đến từ những nguồn khác."
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:spirit_bag",
+      "link_recipe": true,
+      "text": "Bạn có thể dùng JEI để xem danh sách tất cả vật phẩm có thể nhận được từ $(uses:roots:reliquary)Reliquaries$() và $(uses:roots:spirit_bag)Spirit Bags$()."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/spell_harvest"
+      ]
+    }
+  ]
+}

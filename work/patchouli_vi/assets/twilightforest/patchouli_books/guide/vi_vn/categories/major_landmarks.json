@@ -1,0 +1,7 @@
+{
+  "parent": "twilightforest:world",
+  "name": "Địa danh Chính",
+  "description": "Đến lúc hạ gục các trùm rồi!",
+  "icon": "twilightforest:magic_map",
+  "sortnum": 2000
+}

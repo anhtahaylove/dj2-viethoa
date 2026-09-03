@@ -1,0 +1,23 @@
+{
+  "name": "Athame and Boline",
+  "category": "magic_overview",
+  "icon": "bewitchment:athame",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Một con dao găm nghi lễ linh thiêng, theo truyền thống có cán màu đen. Sinh vật bị giết bằng Athame có thể rơi ra các nguyên liệu độc đáo. Athame cũng được dùng để hỗ trợ việc triệu gọi."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/athame"
+    },
+    {
+      "type": "text",
+      "text": "Một chiếc liềm thường có cán màu trắng. Boline có thể thu hoạch vật phẩm từ sinh vật mà không gây hại, chẳng hạn như lông từ raven hoặc sợi từ sheep. Nó cũng được dùng khi tiến hành các nghi lễ thiên về tự nhiên."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bewitchment:equipment/tool/boline"
+    }
+  ]
+}

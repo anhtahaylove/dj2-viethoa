@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "CommonCapabilities-1.12.2-2.4.8.jar",
+      "path": "assets/commoncapabilities/lang/en_us.lang"
+    }
+  ]
+}

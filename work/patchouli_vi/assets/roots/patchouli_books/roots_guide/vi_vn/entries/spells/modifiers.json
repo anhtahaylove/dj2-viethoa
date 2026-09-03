@@ -1,0 +1,38 @@
+{
+  "name": "Modifiers",
+  "icon": "roots:imbuer",
+  "category": "spells",
+  "priority": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Việc tạo và quản lý phép thuật là một hệ thống phức tạp, được chia thành nhiều chương.$(li)$(l:spells/introduction)Phần giới thiệu đầu tiên trình bày các khái niệm cơ bản, bao gồm cả imbuing.$()$(li)$(l:spells/introduction2)Phần giới thiệu thứ hai trình bày cơ chế áp dụng modifier$()$(li)Mục này trình bày công dụng thực tế của modifier và phép thuật$()$(li)$(l:spells/library)Cơ chế và công dụng của spell library$()."
+    },
+    {
+      "type": "text",
+      "text": "Sau khi được áp dụng cho một phép thuật, modifier sẽ có trong library của bạn và mọi staff chứa phép thuật đó. Bạn có thể dùng $(l:crafting/imposer)imposer$() hoặc $(l:spells/library)spell library$() để bật hoặc tắt modifier.$(br2)Mỗi modifier tiêu tốn loại thảo dược tương ứng, một số còn tăng hoặc giảm tổng chi phí của phép thuật.$(br2)Chi phí của các modifier đang bật sẽ cộng dồn, khiến phép thuật có thể trở nên rất tốn kém."
+    },
+    {
+      "type": "text",
+      "title": "Xung đột",
+      "text": "$(warning) Không phải modifier nào cũng có thể dùng cùng nhau.$(br2)Khi bật một modifier, màu đánh dấu của các modifier khác có thể chuyển sang tím.$(br2)Điều này cho biết các modifier đó xung đột và bạn không thể bật chúng.$(br2)$(info) Chỉ có thể bật chúng sau khi tắt modifier gây xung đột."
+    },
+    {
+      "type": "text",
+      "text": "Chú giải của modifier bị xung đột sẽ cho biết modifier nào gây ra xung đột.$(br2)$(info) Để thao tác nhanh, bạn có thể giữ [Alt] khi nhấp vào một modifier để bật nó và tắt mọi modifier xung đột.$(br2)Ngoài ra, bạn có thể tùy ý kết hợp các modifier, miễn là cung cấp đủ thảo dược cần thiết."
+    },
+    {
+      "type": "relations",
+      "anchor": "related",
+      "entries": [
+        "spells/introduction",
+        "spells/introduction2",
+        "spells/library",
+        "crafting/staff",
+        "crafting/gramary",
+        "crafting/imposer"
+      ]
+    }
+  ]
+}

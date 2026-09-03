@@ -1,0 +1,673 @@
+{
+  "chapter_index": 7,
+  "title_key": "dj2.quest.ql.7.title",
+  "chapter_title_en": "10. Machines go Brr",
+  "desc_key": "dj2.quest.ql.7.desc",
+  "chapter_desc_en": "Crank through Thermal Expansion and EnderIO, and unlock the End dimension.",
+  "entries": [
+    {
+      "key": "dj2.quest.ql.7.title",
+      "en": "10. Machines go Brr"
+    },
+    {
+      "key": "dj2.quest.ql.7.desc",
+      "en": "Crank through Thermal Expansion and EnderIO, and unlock the End dimension."
+    },
+    {
+      "key": "dj2.quest.db.126.title",
+      "en": "<3"
+    },
+    {
+      "key": "dj2.quest.db.126.desc",
+      "en": "Craft a Heart Amulet! This is an item equippable in one of your Bauble slots, and can hold up to 10 of each Heart Canister type."
+    },
+    {
+      "key": "dj2.quest.db.248.title",
+      "en": "Rainbow mode: ACTIVATED"
+    },
+    {
+      "key": "dj2.quest.db.248.desc",
+      "en": "Craft a Painting Machine. This will let you disguise facades as other blocks, along with other painting shenanigans, like appearing to be in GalactiCraft by painting your EnderIO Helmet as a glass block."
+    },
+    {
+      "key": "dj2.quest.db.308.title",
+      "en": "The pack maker's favorite Ingot"
+    },
+    {
+      "key": "dj2.quest.db.308.desc",
+      "en": "What's darker than Steel?%n%n...%n%nA lot of things, actually. Like, I don't know, a spruce tree log, a lump of coal, a black hole, or my winter coat.%n%nBuuut this as well."
+    },
+    {
+      "key": "dj2.quest.db.1134.title",
+      "en": "It never blinks"
+    },
+    {
+      "key": "dj2.quest.db.1134.desc",
+      "en": "Craft some Eyes of Ender in your Induction Smelter. Use them to find the End Portal!%n%nThe End Exploration related quests are located in Exploration III."
+    },
+    {
+      "key": "dj2.quest.db.1194.title",
+      "en": "Cinnabar Ore's finally useful"
+    },
+    {
+      "key": "dj2.quest.db.1194.desc",
+      "en": "Use Cinnabar Ore with Liquid Cryotheum in the Fluid Transposer to get a bunch of Cinnabar!"
+    },
+    {
+      "key": "dj2.quest.db.1195.title",
+      "en": "Bring the vacuum cleaner"
+    },
+    {
+      "key": "dj2.quest.db.1195.desc",
+      "en": "Craft all 4 types of Thermal Expansion Dusts!%n%n- To obtain Blizz Powder for Cryotheum, use your Fluid Transposer with Snowballs and Liquid XP.%n%n- To obtain Blitz Powder for Aerotheum, use your Fluid Transposer with Niter and Liquid XP. To get Niter, simply Pulverize Sandstone.%n%n- To get Basalz Powder for Petrotheum, use your Fluid Transposer with Pulverized Obsidian and Liquid XP."
+    },
+    {
+      "key": "dj2.quest.db.1196.title",
+      "en": "Processor overload"
+    },
+    {
+      "key": "dj2.quest.db.1196.desc",
+      "en": "Use Mithril Ingots to create Operator Processors! These are used in Fluid Storage related AE2 items."
+    },
+    {
+      "key": "dj2.quest.db.1197.title",
+      "en": "It takes everything"
+    },
+    {
+      "key": "dj2.quest.db.1197.desc",
+      "en": "Use your Arc Furnace or Alloy Smelter to craft some Mithril Ingots! It takes 1 Mana Dust, 1 Demonlord Ingot and 1 Platinum Ingot to craft one."
+    },
+    {
+      "key": "dj2.quest.db.1198.title",
+      "en": "More energy storage options"
+    },
+    {
+      "key": "dj2.quest.db.1198.desc",
+      "en": "Craft a regular Energy Cell Frame and make it into an Energy Cell! You can upgrade them with Upgrade Kits, but it might be easier to craft them directly."
+    },
+    {
+      "key": "dj2.quest.db.1199.title",
+      "en": "Dark and Energetic"
+    },
+    {
+      "key": "dj2.quest.db.1199.desc",
+      "en": "Create Refined Fuel using your Fractionating Still, then Fluid Transpose it onto some Dark Ingots to create Energized Dark Ingots!"
+    },
+    {
+      "key": "dj2.quest.db.1200.title",
+      "en": "Beats Psychic types"
+    },
+    {
+      "key": "dj2.quest.db.1200.desc",
+      "en": "Craft some Dark Ingots! You can find Bitumen underground. To obtain Tar, you can either:%n%n- Use a Fractionating Still with Oil (found underground), Crude Oil (obtained from Bitumen) or Liquifacted Coal (obtained from Pulverized Coal); or%n%n- Use DivineRPG Tar and Slimeballs in a Fluid Transposer."
+    },
+    {
+      "key": "dj2.quest.db.1201.title",
+      "en": "Strengthen up!"
+    },
+    {
+      "key": "dj2.quest.db.1201.desc",
+      "en": "Upgrade an Extra Utilities Machine Block to a Thermal Expansion one!%n%nApply your various wrenches and similar tools to the rewarded Omniwand to easily swap between them."
+    },
+    {
+      "key": "dj2.quest.db.1202.title",
+      "en": "More Processing time!"
+    },
+    {
+      "key": "dj2.quest.db.1202.desc",
+      "en": "Use some Coated Clathrate to create some Estimation Processors!"
+    },
+    {
+      "key": "dj2.quest.db.1203.title",
+      "en": "It's a gem, it's a pebble!"
+    },
+    {
+      "key": "dj2.quest.db.1203.desc",
+      "en": "Craft some Coated Clathrate either in the Induction Smelter or the Fluid Transposer!%n%nYou need to have visited the End for Resonant Clathrate."
+    },
+    {
+      "key": "dj2.quest.db.1204.title",
+      "en": "It's so... shiny!"
+    },
+    {
+      "key": "dj2.quest.db.1204.desc",
+      "en": "Use Cinnabar and Nickel Ore in your Induction Smelter to get Platinum with 100%% chance!"
+    },
+    {
+      "key": "dj2.quest.db.1205.title",
+      "en": "Induction intentions"
+    },
+    {
+      "key": "dj2.quest.db.1205.desc",
+      "en": "Craft an Induction Smelter! With this machine, you can create alloys that only take 2 inputs. For these types (like Bronze, Electrum, Invar, or Vibrant Alloy), the Induction Smelter will do a great job, as it's really fast when fully upgraded."
+    },
+    {
+      "key": "dj2.quest.db.1206.title",
+      "en": "Call yourself Bob Rosin"
+    },
+    {
+      "key": "dj2.quest.db.1206.desc",
+      "en": "Craft some Rosin in a Fractionating Still! To get Resin, use either an Arboreal Extractor (recommended, since it's free and will generate passively), or a Sawmill with a Resin Funnel Augment."
+    },
+    {
+      "key": "dj2.quest.db.1207.title",
+      "en": "Ressin' around"
+    },
+    {
+      "key": "dj2.quest.db.1207.desc",
+      "en": "Craft a Resin Funnel Augment! Apply it to your Sawmill to be able to create Resin. Check which Wood types give Resin in JEI (simply check the usages for this Augment), since that's the type of fluid you'll need in the future."
+    },
+    {
+      "key": "dj2.quest.db.1208.title",
+      "en": "Tree fluid, we glooin'"
+    },
+    {
+      "key": "dj2.quest.db.1208.desc",
+      "en": "Craft an Arboreal Extractor! To use it, place it next to the bottom of a naturally grown tree. Different tree types will provide different types of fluids, you are looking for Resin. To see which tree type gives which fluid, you can check the usages for the \"Augment: Resin Funnel\" item, since the same types of trees yield Resin in a Sawmill. However, I recommend this method for obtaining large amounts of Resin, since this is free and will passively generate.%n%nAdditionally, if you insert any type of Phyto-Gro into the left slot of the machine, you'll get double / triple / quadruple output from your Extractor."
+    },
+    {
+      "key": "dj2.quest.db.1209.title",
+      "en": "Auto Crop Farms!"
+    },
+    {
+      "key": "dj2.quest.db.1209.desc",
+      "en": "Craft a Farming Station! Place it in the center of a crop field, give it power and a hoe, set its output, and watch it work! Auto crop farms, hurray!"
+    },
+    {
+      "key": "dj2.quest.db.1210.title",
+      "en": "Coarsen up!"
+    },
+    {
+      "key": "dj2.quest.db.1210.desc",
+      "en": "Soulificate your Machine Chassis to gain access to more machines from EnderIO!"
+    },
+    {
+      "key": "dj2.quest.db.1211.title",
+      "en": "See you Plater!"
+    },
+    {
+      "key": "dj2.quest.db.1211.desc",
+      "en": "Craft a Compactor! This is the best way to automatically make all the various types of Plates and Gears."
+    },
+    {
+      "key": "dj2.quest.db.1212.title",
+      "en": "Reinforce up!"
+    },
+    {
+      "key": "dj2.quest.db.1212.desc",
+      "en": "Craft a Device Frame! This is used in all the Thermal Expansion Devices (surprise-surprise), which are Machines that usually don't need any power to function."
+    },
+    {
+      "key": "dj2.quest.db.1213.title",
+      "en": "Items & energy both needed?"
+    },
+    {
+      "key": "dj2.quest.db.1213.desc",
+      "en": "Combine Hardened Fluxducts and Itemducts to obtain some Signalum-Plated Itemducts. These pipes can transmit both power and items at the same time. You'll need to use Servos if you want to transmit items."
+    },
+    {
+      "key": "dj2.quest.db.1214.title",
+      "en": "Some energy needed?"
+    },
+    {
+      "key": "dj2.quest.db.1214.desc",
+      "en": "Craft some of the most basic Fluxducts Thermal Expansion has to offer: The Leadstone Fluxducts! They can transmit RF Power, but not a lot of it."
+    },
+    {
+      "key": "dj2.quest.db.1215.title",
+      "en": "The Ultimate Dust"
+    },
+    {
+      "key": "dj2.quest.db.1215.desc",
+      "en": "Craft together RF Powder, Pyrotheum Dust, Cryotheum Dust, Aerotheum Dust & Petrotheum Dust to obtain some Mana Dust!"
+    },
+    {
+      "key": "dj2.quest.db.1216.title",
+      "en": "Rigidify up!"
+    },
+    {
+      "key": "dj2.quest.db.1216.desc",
+      "en": "You haven't crafted enough Machine Frames yet, so for that reason, craft another. Lovely, isn't it!?"
+    },
+    {
+      "key": "dj2.quest.db.1217.title",
+      "en": "When Inducting doesn't cut it"
+    },
+    {
+      "key": "dj2.quest.db.1217.desc",
+      "en": "Craft a Basic Alloy Smelter! This is a cheaper version of the Arc Furnace in multiple cases, but it can only handle 3 inputs. But hey, 3 is more than what the Induction Smelter could handle!"
+    },
+    {
+      "key": "dj2.quest.db.1218.title",
+      "en": "Up-up-up-uppppgraaaade!!!"
+    },
+    {
+      "key": "dj2.quest.db.1218.desc",
+      "en": "Craft all 4 upgrade kits! Use them to upgrade a Basic machine to Resonant tier by Right Clicking on it! The advantage of upgrading the machine tier is that you can apply more Augments to the machine. While a Basic machine can only take one Augment, Hardened, Reinforced, Signalum, and Resonant machines can take three, five, seven, and nine Augments respectively. The most useful Augment is likely the Auxiliary Reception Coil, which speeds up the machine."
+    },
+    {
+      "key": "dj2.quest.db.1219.title",
+      "en": "Can't turn off the tap!"
+    },
+    {
+      "key": "dj2.quest.db.1219.desc",
+      "en": "Upgrade your Fluid Conduits into Ender Fluid Conduits! These are one of the best types of Fluid Conduits available."
+    },
+    {
+      "key": "dj2.quest.db.1220.title",
+      "en": "Turn on the tap!"
+    },
+    {
+      "key": "dj2.quest.db.1220.desc",
+      "en": "Craft some Fluid Conduits! Though not the best without upgrading them to the next tier, they can still be used in the same blockspace as Item & Energy Conduits."
+    },
+    {
+      "key": "dj2.quest.db.1221.title",
+      "en": "4th way to crush"
+    },
+    {
+      "key": "dj2.quest.db.1221.desc",
+      "en": "Craft a Pulverizer! It's probably the best crushing machine you'll get, especially when fully upgraded to Resonant tier, and provided with 9 Auxiliary Reception Coil upgrades.%n%nYou can also easily setup its side configurations to input and output items from/to your storage."
+    },
+    {
+      "key": "dj2.quest.db.1222.title",
+      "en": "Slicin', Splicin', and Sacrificin'"
+    },
+    {
+      "key": "dj2.quest.db.1222.desc",
+      "en": "Enticing pricing you have there... It's an Icing to the cake! Consider Slice'n'Splicing? If so, craft a Slice'n'Splice! Give it an Axe and some Shears (a good option is the Dark Steel variant for both), and sacrifice some mob skulls to craft some items with it! If you haven't made a Beheading Upgrade from Mob Grinding Utils yet, now would be a great time!"
+    },
+    {
+      "key": "dj2.quest.db.1223.title",
+      "en": "A lot of energy needed?"
+    },
+    {
+      "key": "dj2.quest.db.1223.desc",
+      "en": "Upgrade your Fluxducts all the way to the Resonant variant! This type of Fluxduct can transmit a lot of power!"
+    },
+    {
+      "key": "dj2.quest.db.1224.title",
+      "en": "HP from Mana"
+    },
+    {
+      "key": "dj2.quest.db.1224.desc",
+      "en": "Craft a Red Heart Canister! Your player can equip at most 10 of these and get 1 extra full Heart of health per Canister!"
+    },
+    {
+      "key": "dj2.quest.db.1225.title",
+      "en": "Fluidic Relocation"
+    },
+    {
+      "key": "dj2.quest.db.1225.desc",
+      "en": "Craft a Fluid Transposer! When used in conjunction with a Magma Crucible, you can use some kind of an input item and some kind of fluid provided by the Crucible to craft new items. This machine will be heavily used from now on, so make sure to at least semi-automate it. You can also craft Treated Wood and Coated Clathrate cheaper with this machine.%n%nSome recipes, particularly potion recipes, may not appear correctly in JEI. These recipes still function as you would expect, the issue is purely visual."
+    },
+    {
+      "key": "dj2.quest.db.1226.title",
+      "en": "Fluids on the way!"
+    },
+    {
+      "key": "dj2.quest.db.1226.desc",
+      "en": "Craft some Hardened Fluiducts to be able to transport Fluids easily!"
+    },
+    {
+      "key": "dj2.quest.db.1227.title",
+      "en": "Rapid access!"
+    },
+    {
+      "key": "dj2.quest.db.1227.desc",
+      "en": "Craft some Signalum-Plated Impulse Itemducts by filling up the previous tier with Glowstone! Items travel more rapidly through Glowstone and you can still transmit power through this cable as well."
+    },
+    {
+      "key": "dj2.quest.db.1228.title",
+      "en": "Capped off for more power"
+    },
+    {
+      "key": "dj2.quest.db.1228.desc",
+      "en": "Craft an Enhanced SAG Mill for even more crushing power!"
+    },
+    {
+      "key": "dj2.quest.db.1229.title",
+      "en": "Fortificate up!"
+    },
+    {
+      "key": "dj2.quest.db.1229.desc",
+      "en": "I heard you like Machine Chassis', so I put some Machine Chassis' in your Machine Chassis' so you can enjoy more Machine Chassis' along the way!"
+    },
+    {
+      "key": "dj2.quest.db.1230.title",
+      "en": "I saw. I milled. I conquered."
+    },
+    {
+      "key": "dj2.quest.db.1230.desc",
+      "en": "Craft a Sawmill! This machine is capable of turning Wood into more Planks than simply crafting them in your Crafting Window, and is also capable of making Sawdust, used in some recipes."
+    },
+    {
+      "key": "dj2.quest.db.1231.title",
+      "en": "Emperor of Empowerer"
+    },
+    {
+      "key": "dj2.quest.db.1231.desc",
+      "en": "Craft four of all 5 tiers of Empowered Dark Steel Upgrades! They can be applied to Dark Steel Armor one after another. These are needed for other upgrades and to make your armor set take energy instead of durability on hit.%n%nTo apply these upgrades, you need to use a Dark Steel Anvil. Simply have the armor piece equipped and use the tabs in the GUI of the Anvil to be able to apply them.%n%n§6Note:§r The 5th Empowered Tier is only applicable for End Steel and Stellar Armor.%n%n§6Note 2:§r This quest actually has 2 Tasks, you can either complete it by submitting the deactivated OR the activated Dark Steel Upgrades."
+    },
+    {
+      "key": "dj2.quest.db.1232.title",
+      "en": "Riches get a great armor set"
+    },
+    {
+      "key": "dj2.quest.db.1232.desc",
+      "en": "Once you've accumulated a lot of Dark Steel and Enderium, you can make the best midgame armor set: The Dark Steel Set!%n%nNow, without upgrades you might not think this set is that powerful, but just type \"Dark Steel Upgrade\" into JEI to see the sheer amount of upgrade options available. Pretty much all of them are useful, so get on with the crafting!%n%nAlso, don't forget that this armor is still enchantable besides being upgradable."
+    },
+    {
+      "key": "dj2.quest.db.1233.title",
+      "en": "Better than tanks"
+    },
+    {
+      "key": "dj2.quest.db.1233.desc",
+      "en": "Craft an 1k ME Fluid Storage Component! Making this into a Cell will allow you to store liquids in your ME System. You can access these with a Fluid Terminal."
+    },
+    {
+      "key": "dj2.quest.db.1234.title",
+      "en": "Best way to enchant"
+    },
+    {
+      "key": "dj2.quest.db.1234.desc",
+      "en": "Craft an Enchanter! To see the available recipes, click the Paper icon on the top right of its GUI. You can now get any Enchantment with the appropriate payment! No longer do you need to get lucky in the Enchantment Table."
+    },
+    {
+      "key": "dj2.quest.db.1235.title",
+      "en": "Much better than tanks"
+    },
+    {
+      "key": "dj2.quest.db.1235.desc",
+      "en": "Craft a 4k ME Fluid Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1236.title",
+      "en": "Stiffen up!"
+    },
+    {
+      "key": "dj2.quest.db.1236.desc",
+      "en": "Dig down to the bottom of the overworld and light up some of the Bedrock! Once the fire extinguishes, some Grains of Infinity will pop off. Collect them!%n%nI wonder if you'll have to automate this process... Hmmm... (Yes, yes you do.)%n%nThen use the grains you've obtained to craft a Simple Machine Chassis from EnderIO!"
+    },
+    {
+      "key": "dj2.quest.db.1237.title",
+      "en": "One item after another"
+    },
+    {
+      "key": "dj2.quest.db.1237.desc",
+      "en": "Craft some Item Conduits! They are the EnderIO way to transport items, and probably one of the best ways in general, since they can be used in the same blockspace as other EnderIO Conduits. You can also use Extraction Speed Upgrades and Item Filters in them. You can also simply toggle Round Robin mode on to distribute items equally between outputs and turn Self Feed mode on to be able to push items back into the container you were pulling them from."
+    },
+    {
+      "key": "dj2.quest.db.1238.title",
+      "en": "Tanks? Pfwah, get them out..."
+    },
+    {
+      "key": "dj2.quest.db.1238.desc",
+      "en": "Craft a 64k ME Fluid Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1239.title",
+      "en": "A lot better than tanks"
+    },
+    {
+      "key": "dj2.quest.db.1239.desc",
+      "en": "Craft a 16k ME Fluid Storage Component!"
+    },
+    {
+      "key": "dj2.quest.db.1240.title",
+      "en": "Hoarding and sorting"
+    },
+    {
+      "key": "dj2.quest.db.1240.desc",
+      "en": "Craft a Basic Item Filter then upgrade it to an Advanced Item Filter. Apply them to your Item Conduits and guess what they do...!%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%n%nNo, I'm not gonna tell you. You really have to guess."
+    },
+    {
+      "key": "dj2.quest.db.1241.title",
+      "en": "I'll Swallow Your Soul!"
+    },
+    {
+      "key": "dj2.quest.db.1241.desc",
+      "en": "Craft a Soul Binder! Use Soul Vials with mob souls inside and other input items to infuse the soul into the item! Spooky!"
+    },
+    {
+      "key": "dj2.quest.db.1242.title",
+      "en": "Caught you!"
+    },
+    {
+      "key": "dj2.quest.db.1242.desc",
+      "en": "Craft a Soul Vial! Use it to catch mobs. You can later use them for crafting with the Soul Binder, or soon enough - to automatically spawn more of them... See Chapter 13: Ender Upgrades."
+    },
+    {
+      "key": "dj2.quest.db.1243.title",
+      "en": "4th way to smelt"
+    },
+    {
+      "key": "dj2.quest.db.1243.desc",
+      "en": "Craft a Redstone Furnace! It's a pretty great smelting machine, especially when fully upgraded to Resonant tier, and provided with 9 Auxiliary Reception Coil upgrades.%n%nYou can also easily set up its side configurations to input and output items from/to your storage."
+    },
+    {
+      "key": "dj2.quest.db.1244.title",
+      "en": "External Fluid Storage"
+    },
+    {
+      "key": "dj2.quest.db.1244.desc",
+      "en": "Instead of crafting Fluid Storage Cells, you can choose to store your Fluids in external tanks or drums that might have a larger capacity. For this purpose, you can use an ME Fluid Storage Bus."
+    },
+    {
+      "key": "dj2.quest.db.1245.title",
+      "en": "Like a stewpot, but hotter"
+    },
+    {
+      "key": "dj2.quest.db.1245.desc",
+      "en": "Craft a Magma Crucible! This machine can turn many solid items into its liquid form. You'll mostly need to use it to provide various liquids for the Fluid Transposer."
+    },
+    {
+      "key": "dj2.quest.db.1246.title",
+      "en": "Incapacitate"
+    },
+    {
+      "key": "dj2.quest.db.1246.desc",
+      "en": "Craft all 3 tiers of regular EnderIO Capacitors! They can be used in all non-basic EnderIO machines to increase their production speed. Even higher tier Capacitors will be available later."
+    },
+    {
+      "key": "dj2.quest.db.1247.title",
+      "en": "Bigger and better"
+    },
+    {
+      "key": "dj2.quest.db.1247.desc",
+      "en": "You thought the Alloy Smelter was gonna be that slow?! Well, no longer! Introducing: The Enhanced Alloy Smelter, which is more than twice as fast."
+    },
+    {
+      "key": "dj2.quest.db.1248.title",
+      "en": "Accessing your fluids"
+    },
+    {
+      "key": "dj2.quest.db.1248.desc",
+      "en": "Craft a Fluid Terminal! Through this you can see all stored Fluids in your ME System, and manually import and export a couple of buckets at once. Though I recommend Fluid Export and Import Buses for this job, especially if you're working with larger amounts."
+    },
+    {
+      "key": "dj2.quest.db.1249.title",
+      "en": "Upgraded and stronger"
+    },
+    {
+      "key": "dj2.quest.db.1249.desc",
+      "en": "Smelt some Dark Steel in your Basic Alloy Smelter to be able to craft an actual Alloy Smelter! This machine can be upgraded with Capacitors for faster production."
+    },
+    {
+      "key": "dj2.quest.db.1250.title",
+      "en": "Got a cold"
+    },
+    {
+      "key": "dj2.quest.db.1250.desc",
+      "en": "Craft a Glacial Precipitator! With this machine, you can automatically create Snow, Ice, or Packed Ice out of Water! Simply feed it Water with an Aqueous Accumulator, an Unending Bowl, or an Endervoir, give it some power and watch it work!"
+    },
+    {
+      "key": "dj2.quest.db.1251.title",
+      "en": "Banking the power"
+    },
+    {
+      "key": "dj2.quest.db.1251.desc",
+      "en": "Craft a Basic Capacitor Bank. It can store some power, but you likely want to upgrade it further!"
+    },
+    {
+      "key": "dj2.quest.db.1252.title",
+      "en": "Thirsty? I have the solution!"
+    },
+    {
+      "key": "dj2.quest.db.1252.desc",
+      "en": "Craft an Aqueous Accumulator! Place at least 2 Water Source blocks next to it. This is a fast way to generate a lot of Water for a couple of your machines."
+    },
+    {
+      "key": "dj2.quest.db.1253.title",
+      "en": "Favorite operation: Division"
+    },
+    {
+      "key": "dj2.quest.db.1253.desc",
+      "en": "Craft a Fractionating Still! This machine is used for multiple progression-related crafts. It can turn various liquids into solids and other liquids. It can also be used with an Alchemical Retort Augment to increase the level of potions beyond II.%n%n§6§lNote:§r The JEI recipes for filling potions may not appear correctly, but still works."
+    },
+    {
+      "key": "dj2.quest.db.1254.title",
+      "en": "The Best XP Storage"
+    },
+    {
+      "key": "dj2.quest.db.1254.desc",
+      "en": "Craft an Experience Obelisk! You can pump Liquid XP in and out from it, or simply use the ingame GUI to store or gain XP with some simple button presses."
+    },
+    {
+      "key": "dj2.quest.db.1255.title",
+      "en": "Velocity: acquired!"
+    },
+    {
+      "key": "dj2.quest.db.1255.desc",
+      "en": "Craft some Extract Speed Upgrades. You can apply these to your Item Conduits for faster extraction. (Incredible, I know!)"
+    },
+    {
+      "key": "dj2.quest.db.1256.title",
+      "en": "Most important upgrades"
+    },
+    {
+      "key": "dj2.quest.db.1256.desc",
+      "en": "I laid out the most important Dark Steel Upgrades: the ones that make this armor set pretty powerful. Craft them and apply them in a Dark Steel Anvil!%n%n§6Note:§r This quest actually has 2 Tasks, you can either complete it by submitting the deactivated OR the activated Dark Steel Upgrades."
+    },
+    {
+      "key": "dj2.quest.db.1257.title",
+      "en": "Just don't Vat yourself!"
+    },
+    {
+      "key": "dj2.quest.db.1257.desc",
+      "en": "Craft an Enhanced Vat! You'll need many of the EnderIO Liquids crafted by this machine to continue in the following chapters."
+    },
+    {
+      "key": "dj2.quest.db.1258.title",
+      "en": "Hot stuff"
+    },
+    {
+      "key": "dj2.quest.db.1258.desc",
+      "en": "Craft an Igneous Extruder! Using this machine you can mix Lava and Water to create various stones like Cobblestone, Obsidian, Basalt, or many of the Underground Biomes Stone variants! Simply feed it Lava and Water and watch it work! Note: For Obsidian, Lava does get consumed. For the others, it doesn't."
+    },
+    {
+      "key": "dj2.quest.db.1259.title",
+      "en": "Zwoom..! - goes the power."
+    },
+    {
+      "key": "dj2.quest.db.1259.desc",
+      "en": "Craft some Ender Energy Conduits! These are the highest tier Energy Conduits that are available to you currently, and the best ones for the job! Later you'll be able to make even better Energy Conduits from EnderIO Endergy."
+    },
+    {
+      "key": "dj2.quest.db.1260.title",
+      "en": "Plugging in"
+    },
+    {
+      "key": "dj2.quest.db.1260.desc",
+      "en": "Craft some Energy Conduits! Use them as an upgrade base for higher tier EnderIO Energy Conduits."
+    },
+    {
+      "key": "dj2.quest.db.1261.title",
+      "en": "New settings §r=§r Old settings"
+    },
+    {
+      "key": "dj2.quest.db.1261.desc",
+      "en": "Craft a Redprint! You can use it to copy a machine's side configurations to a new machine. When placing a machine with it in your offhand, it will auto-apply its configuration. It also works on Servos, Retrievers, and Filters. It can save you a lot of time."
+    },
+    {
+      "key": "dj2.quest.db.1262.title",
+      "en": "Crafting Time!"
+    },
+    {
+      "key": "dj2.quest.db.1262.desc",
+      "en": "Make an ME Crafting Terminal! Upgrade your old ME Terminal to be able to directly craft using your items in your ME System!"
+    },
+    {
+      "key": "dj2.quest.db.1263.title",
+      "en": "Ocean currents on the way!"
+    },
+    {
+      "key": "dj2.quest.db.1263.desc",
+      "en": "Upgrade your Hardened Fluiducts to Super-Laminar Fluiducts for limitless fluid transfer!"
+    },
+    {
+      "key": "dj2.quest.db.1264.title",
+      "en": "5th way to crush"
+    },
+    {
+      "key": "dj2.quest.db.1264.desc",
+      "en": "Craft a SAG Mill! Though the Pulverizer might be the best when fully upgraded, this machine isn't far behind! Later the Enhanced version with higher tier Capacitors can do the job pretty much as good as a fully upgraded Pulverizer."
+    },
+    {
+      "key": "dj2.quest.db.1265.title",
+      "en": "Huge power banking!"
+    },
+    {
+      "key": "dj2.quest.db.1265.desc",
+      "en": "Craft some Capacitor Banks together to obtain a Vibrant Capacitor Bank! The advantage of using them over any other mod's power storage options, is that you can create a huge multiblock of Capacitor Banks that can store even more power!"
+    },
+    {
+      "key": "dj2.quest.db.1266.title",
+      "en": "Stockpilin' the energy!"
+    },
+    {
+      "key": "dj2.quest.db.1266.desc",
+      "en": "Craft a Resonant Energy Cell Frame, fill it up, and craft it into a Resonant Energy Cell! To find Energy Cell recipes, look up the usages of the Invar Gear, Electrum Gear, Signalum Gear, (or in this case) the Enderium Gear. It might be easier to craft them directly rather than upgrading them."
+    },
+    {
+      "key": "dj2.quest.db.1267.title",
+      "en": "Speed is key"
+    },
+    {
+      "key": "dj2.quest.db.1267.desc",
+      "en": "Craft 9 Auxiliary Reception Coil Augments. This is the maximum amount you can apply to a Resonant machine!%n%nBasic machines can accept 1,%nHardened machines can accept 3,%nReinforced machines can accept 5,%nSignalum machines can accept 7,%nand Resonant machines can accept 9."
+    },
+    {
+      "key": "dj2.quest.db.1268.title",
+      "en": "Fluid in, fluid out!"
+    },
+    {
+      "key": "dj2.quest.db.1268.desc",
+      "en": "Craft an ME Fluid Import Bus and an ME Fluid Export Bus! They work just like their item counterparts, except for Fluids."
+    },
+    {
+      "key": "dj2.quest.db.1642.title",
+      "en": "Endervoir, but better"
+    },
+    {
+      "key": "dj2.quest.db.1642.desc",
+      "en": "Craft an Unending Bowl! This block has the exact same functionality as the Endervoir, but it only occupies 1 block of space."
+    },
+    {
+      "key": "dj2.quest.db.1702.title",
+      "en": "Introduction to destruction transduction"
+    },
+    {
+      "key": "dj2.quest.db.1702.desc",
+      "en": "Craft a Destruction Gadget! Similarly to the Building Gadget, this tool needs to be charged. Then simply Shift+Right Click to open its GUI and select the area which you need to remove.%n%n§c§lWARNING:§r DO NOT ACCIDENTALLY USE THIS NEAR YOUR INFRASTRUCTURE. IT §lVOIDS§r BLOCKS IT MINES."
+    },
+    {
+      "key": "dj2.quest.db.1731.title",
+      "en": "Super Probe: ON SALE LIMITED TIME OFFER GET YOURS NOW"
+    },
+    {
+      "key": "dj2.quest.db.1731.desc",
+      "en": "Craft an §2Uber Conduit Probe§r! Sure, you could just settle for a §ebland§r, §enormal§r §bConduit Probe§r, but if you want to be a True EnderIO Conduit Power User (a good thing to be (give us money)) the §2Uber Conduit Probe§r is a must-have, possibly even a must-have-two! (moneymoneymoneymo-)%n%nWhile a §ebland§r, §eboring§r, §esad§r §bConduit Probe§r can copy and paste a single conduit connection (§cLAME!§r), the §6innovative§r, §6enthralling§r, §6bombastic§r §2Uber Conduit Probe§r can paste over a large area, targeting only the conduit connections with the same direction (§dAWE-INSPIRING!§r). The §2Uber Conduit Probe's§r §6majestic§r, §6powerful§r aura refuses to handle such menial things, such as copying an individual connection (§cPLEBIAN!§r) or diagnosing the network status (§cNERD!§r), leaving such §elowbrow§r, §ederivative§r tasks to the §ebasic§r §bConduit Probe§r."
+    }
+  ]
+}

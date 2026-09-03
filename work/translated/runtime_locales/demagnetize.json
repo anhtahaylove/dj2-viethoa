@@ -1,0 +1,13 @@
+{
+  "description.demagnetize.demagnetizer.1": "Demagnetizer ngăn nam châm hút vật phẩm từ các mod khác nhau hút đồ xung quanh nó.",
+  "description.demagnetize.demagnetizer.2": "Có thể lọc hoặc điều khiển bằng redstone.",
+  "description.demagnetize.demagnetizer.3": "Advanced Demagnetizer có phạm vi rộng hơn và nhiều ô lọc hơn.",
+  "label.demagnetize.demagnetizer.blacklist.name": "Vật phẩm bị cấm",
+  "label.demagnetize.demagnetizer.filter.name": "Bộ lọc",
+  "label.demagnetize.demagnetizer.range.name": "Phạm vi",
+  "label.demagnetize.demagnetizer.rsignored.name": "Bỏ Qua Redstone",
+  "label.demagnetize.demagnetizer.rsoff.name": "Redstone Tắt",
+  "label.demagnetize.demagnetizer.rson.name": "Redstone Bật",
+  "label.demagnetize.demagnetizer.whitelist.name": "Vật phẩm được phép",
+  "tooltip.demagnetize.configured.name": "Đã cấu hình"
+}

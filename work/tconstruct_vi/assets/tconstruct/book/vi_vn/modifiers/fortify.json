@@ -1,0 +1,17 @@
+{
+  "modifier": "fortify",
+  "text": [
+    {
+      "text": "Cứng hơn, tốt hơn, nhanh hơn, mạnh hơn! Công cụ sẽ có cùng cấp khai thác với vật liệu được dùng."
+    }
+  ],
+  "effects": [
+    "Increases Mining level",
+    "Mining Level depends on material used",
+    "Can also downgrade level",
+    "Requires no modifier"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe"
+  ]
+}

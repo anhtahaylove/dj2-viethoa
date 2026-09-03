@@ -1,0 +1,5 @@
+{
+  "gui.redbook.description.p1": "Redstone Book được dùng cùng Bookcase để phát tín hiệu redstone. Khi được đặt lên Bookcase, tín hiệu redstone sẽ phát ra từ mọi mặt trừ mặt trước. Cường độ tín hiệu phụ thuộc vào ô mà sách chiếm trên Bookcase. ",
+  "gui.redbook.description.p2": "Bookcase có 16 ô, ô 1 ở góc trên bên trái và ô 16 ở góc dưới bên phải. Nếu Redstone Book được đặt vào ô 1, Bookcase sẽ không phát tín hiệu redstone. Nếu Redstone Book được đặt vào ô 2, Bookcase sẽ phát tín hiệu redstone có cường độ 1. Mỗi ô tiếp theo tăng cường độ thêm 1, cho đến ô 16 phát tín hiệu redstone ở cường độ tối đa 15.",
+  "gui.recipe.description": "Thêm mô tả."
+}

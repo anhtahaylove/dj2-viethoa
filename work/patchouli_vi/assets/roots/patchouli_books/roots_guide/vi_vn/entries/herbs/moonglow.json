@@ -1,0 +1,24 @@
+{
+  "name": "Moonglow Leaf",
+  "icon": "roots:moonglow_leaf",
+  "category": "herbs",
+  "read_by_default": true,
+  "turnin": "roots:moonglow_leaf",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Từng chỉ nảy mầm ở nơi ánh trăng cô đọng chiếu xuống mặt đất, nay nó có thể được tái tạo trong sức nóng của $(l:crafting/pyres)pyre$().$(br2)Sau khi được chế tạo, cây này lại có thể $(l:herbs/moonglow_leaf#anchor)tái tạo$().$(br2)Thường gắn liền với chạng vạng, nó là cầu nối giữa ánh sáng và bóng tối. Thảo dược này thậm chí có thể dùng để thao túng chính thời gian."
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "moonglow_leaf"
+    },
+    {
+      "type": "crafting",
+      "title": "Khả năng tái tạo",
+      "recipe": "roots:moonglow_seed",
+      "anchor": "renew",
+      "text": "Sau khi thu được, lá có thể được tách thành hạt giống và trồng trên bất kỳ đất canh tác nào hỗ trợ cây trồng thông thường.$(br2)Khi trưởng thành thành một cụm lá đan xen, thu hoạch sẽ cho thêm hạt giống."
+    }
+  ]
+}

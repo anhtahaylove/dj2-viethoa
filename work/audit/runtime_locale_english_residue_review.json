@@ -1,0 +1,17 @@
+[
+  {
+    "file": "bloodmagic/02.json",
+    "key": "jei.bloodmagic.recipe.minimumSouls",
+    "value": "Tối thiểu: %1$,.2f Will"
+  },
+  {
+    "file": "bloodmagicguide/02.json",
+    "key": "guide.bloodmagic.entry.demon.snare",
+    "value": "Demon Will and Snares"
+  },
+  {
+    "file": "bloodmagicguide/02.json",
+    "key": "guide.bloodmagic.entry.demon.gauge",
+    "value": "Demon Will Aura Gauge"
+  }
+]

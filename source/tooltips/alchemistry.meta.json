@@ -1,0 +1,9 @@
+{
+  "english_locale": "en_us",
+  "sources": [
+    {
+      "jar": "alchemistry-1.12.2-42.jar",
+      "path": "assets/alchemistry/lang/en_us.lang"
+    }
+  ]
+}

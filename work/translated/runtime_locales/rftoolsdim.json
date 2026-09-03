@@ -1,0 +1,17 @@
+{
+  "achievement.dimletMaster": "Bậc Thầy Dimlet!",
+  "achievement.dimletMaster.desc": "Ghép một dimlet mới từ các bộ phận",
+  "achievement.firstDimension": "Một Thế Giới Mới Đang Chờ",
+  "achievement.firstDimension.desc": "Xây dựng một chiều không gian mới",
+  "achievement.researching": "Tiến Sĩ Dimlet!",
+  "achievement.researching.desc": "Nghiên cứu một dimlet chưa xác định",
+  "achievement.scrambled": "Đã Trộn Lẫn!",
+  "achievement.scrambled.desc": "Trộn lẫn ba dimlet",
+  "achievement.smallBits": "Bao Nhiêu Là Bộ Phận!",
+  "achievement.smallBits.desc": "Tháo rã một dimlet thành các bộ phận",
+  "achievement.specialOres": "Thợ Mỏ Kỳ Lạ!",
+  "achievement.specialOres.desc": "Khai thác Dimensional Shards",
+  "achievement.theFirstStep": "Bước Nhỏ Đến Thế Giới Lớn",
+  "achievement.theFirstStep.desc": "Tìm dimlet chưa xác định đầu tiên của bạn",
+  "death.dimension.powerfailure": "%s chết trong một thế giới đang sụp đổ!"
+}
