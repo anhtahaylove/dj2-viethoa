@@ -1,8 +1,8 @@
 {
   "zip": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\build\\DJ2_Viet_Hoa_2.23.4.zip",
-  "bytes": 1912416,
-  "sha1": "dfa60f173a9fd7005ebb1a6785f257bcec281872",
-  "sha256": "2d18f7d544e1a7f332c77c03e0cbade80a1f7706f82bd363b3d8dcfd65dc9d54",
+  "bytes": 1918293,
+  "sha1": "d112f24f9a310dfbe475495a430e1e535608cfe7",
+  "sha256": "3b88ba1c066bdf03518d838b5358496ba505a7cb19b8fba3079823e8259248b2",
   "entries": 833,
   "crc_bad": null,
   "duplicate_paths": 0,
@@ -13,12 +13,12 @@
   "tconstruct_vi_files": 67,
   "missing_expected": [],
   "deterministic": true,
-  "second_sha256": "2d18f7d544e1a7f332c77c03e0cbade80a1f7706f82bd363b3d8dcfd65dc9d54",
+  "second_sha256": "3b88ba1c066bdf03518d838b5358496ba505a7cb19b8fba3079823e8259248b2",
   "client_bundle": {
     "zip": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\build\\DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip",
-    "bytes": 1843983,
-    "sha1": "2e26d518a3e3bc0a81ca35e04b125c6d006615c7",
-    "sha256": "beb4d5dd2780938544d0b9f81bb40e7c8e6adf0f7b9ddc872aa4c3f2f7cc90b1",
+    "bytes": 1849896,
+    "sha1": "e62ca416fdae836522e32f830172c1ad52ef9cdb",
+    "sha256": "a1c9aa1aaf24e7ce2479bffd07d98fdf6730699cc1fdbbaf2a669277ffa923fd",
     "crc_ok": true,
     "missing_required": [],
     "triumph_count": 27

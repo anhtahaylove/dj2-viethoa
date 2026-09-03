@@ -72,6 +72,11 @@ CONSISTENCY_EXEMPT = {
                                               # EVERY key holding it is listed. integrateddynamics
                                               # and thaumcraftfix keep `World` as a
                                               # data-type / registry word
+    "extrautils2.text.globe.biome.ocean",      # Globe biome readout naming the vanilla
+                                               # ocean biome -> "Đại dương". The colliding
+                                               # key is astralsorcery's Octans constellation
+                                               # lore, where "Ocean" is the constellation's
+                                               # protected proper name and stays English
     "reccomplex.mazerule.connect.end",         # maze-rule path endpoint, the pair of
                                                # reccomplex.mazerule.connect.start ->
                                                # "Bắt đầu". The colliding keys name
