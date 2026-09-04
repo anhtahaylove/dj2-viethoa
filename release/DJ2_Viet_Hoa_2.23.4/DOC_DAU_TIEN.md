@@ -38,9 +38,9 @@ Gói Client đã đặt sẵn hai mục này.
 
 ## Có gì trong bản này
 
-- **27.722 dòng** văn bản đã dịch, trải trên **168 mod**
-- **579 trang** sách Patchouli
-- **3.561 dòng** nhiệm vụ BetterQuesting
+- **22.618 dòng** văn bản đã dịch, trải trên **169 mod**
+- **581 trang** sách Patchouli
+- **3.532 dòng** nhiệm vụ BetterQuesting
 - Font Việt vẽ riêng, dấu rõ ở cỡ chữ nhỏ
 - Mẹo màn hình chờ, bảng thông tin khi ngắm khối, giao diện JEI
 - Trọn bộ Tinkers' Construct: mô tả công cụ, modifier, vật liệu
@@ -59,8 +59,8 @@ tiếng Anh gốc rồi so với nội dung gói này.
 | Tài liệu chỉ dành cho lập trình viên | 2.772 |
 | Chuỗi rỗng | 51 |
 | **Phần thực sự cần dịch** | **27.075** |
-| Đã dịch | 20.119 |
-| **Tỷ lệ** | **74,3%** |
+| Đã dịch | 22.618 |
+| **Tỷ lệ** | **83,5%** |
 
 Phần đã dịch được chọn theo mức độ người chơi hay gặp: toàn bộ nhiệm vụ,
 sách hướng dẫn, tiến trình chơi chính và giao diện dùng thường xuyên.
@@ -74,17 +74,18 @@ trên là cách đo đúng, sinh ra từ `tools/measure_coverage.py`.
 | Nhóm | Số dòng | Gặp khi nào |
 |---|---:|---|
 | Tooltip, tin nhắn, thành tựu | 0 | Chơi bình thường |
-| Nhãn giao diện, JEI, phím tắt | 827 | Mở giao diện mod |
-| Màn hình cấu hình, lệnh, công cụ quản trị | 475 | Chủ yếu cho chủ server |
-| Chuỗi lẻ chưa phân nhóm | 3.079 | Rải rác |
+| Nhãn giao diện, JEI, phím tắt | 270 | Mở giao diện mod |
+| Màn hình cấu hình, lệnh, công cụ quản trị | 189 | Chủ yếu cho chủ server |
+| Chuỗi lẻ chưa phân nhóm | 563 | Rải rác |
 
 Ngoài bốn nhóm trên còn **2.772 dòng** chỉ dành cho lập trình viên —
 `groovyscript` (tài liệu API) và `chisel` (tên biến thể khối). Nhóm này không
 xuất hiện trong lối chơi bình thường và không nằm trong kế hoạch dịch.
 
-Thêm **2.377 dòng** hiện để nguyên tiếng Anh trong gói. Đợt rà soát gần nhất
-đã đọc thủ công 124 dòng khả nghi nhất: 123 dòng là danh từ riêng hoặc tên
-kỹ thuật giữ đúng chủ đích, 1 dòng là bỏ sót thật và đã sửa.
+Thêm **3.280 dòng** hiện để nguyên tiếng Anh trong gói. Đợt rà soát gần nhất
+đã soi toàn bộ 3.286 dòng loại này: 1.756 dòng được đọc thủ công theo ngữ cảnh
+từng mod, tìm ra 6 dòng bỏ sót thật và đã sửa. Số còn lại là danh từ riêng, tên
+phím, đơn vị hoặc thuật ngữ kỹ thuật giữ tiếng Anh có chủ đích.
 
 ---
 
