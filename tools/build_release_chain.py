@@ -18,13 +18,21 @@ serving any more. Chaining the steps removes the chance to skip one by hand.
     python tools/build_release_chain.py --tests "176 passed"
     python tools/build_release_chain.py --dry-run      # just list the steps
 
-Validation and verification stay outside this script on purpose: validators
-must run BEFORE a build to be worth anything, and `verify_release.py` reads the
-`release/` tree, which is populated by a separate publishing decision.
+The chain also syncs `release/` as its last step. That directory is what git
+tracks as the shipped release, and it had no owning script: the manifest and
+the verification reports sat three waves stale, describing a pack that had been
+rebuilt twice, while every gate stayed green because the tests read `build/`.
+Use `--no-sync` to build without touching it.
+
+Validation stays outside this script on purpose -- validators must run BEFORE a
+build to be worth anything. `verify_release.py` also stays outside: it is the
+independent check that this script did its job, and a script that verified its
+own output would prove nothing.
 """
 from __future__ import annotations
 
 import argparse
+import hashlib
 import subprocess
 import sys
 import time
@@ -48,6 +56,28 @@ STEPS = (
     ("build_final_acceptance.py", "acceptance record"),
 )
 
+# Generated in build/, but shipped from release/ -- and nothing owned the copy.
+# The manifest and the three verification reports each sat unrefreshed for
+# three waves, still describing the wave-18 pack (1,931,901 bytes) while the
+# artifacts next to them had been rebuilt twice. Every gate stayed green: the
+# tests read the build/ copies, and SHA256SUMS.txt lists only the ZIPs.
+SYNCED_EVIDENCE = (
+    "FINAL_ACCEPTANCE_CURRENT.json",
+    "RELEASE_MANIFEST_CURRENT.json",
+    "client_bundle_verification.json",
+    "publish_verification.json",
+    "release_verification.json",
+)
+
+# Hashed into SHA256SUMS.txt, in the order the file lists them.
+ARTIFACTS = (
+    "DJ2_Viet_Hoa_2.23.4.zip",
+    "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip",
+    "DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip",
+)
+
+RELEASE_DIR = ROOT / "release" / "DJ2_Viet_Hoa_2.23.4"
+
 # Only this step takes the test summary; passing it to the others would fail.
 TESTS_ARG_STEP = "build_final_acceptance.py"
 
@@ -70,11 +100,56 @@ def run_step(script: str, label: str, tests: str | None = None) -> dict:
     }
 
 
+def sync_release_dir() -> dict:
+    """Copy the artifacts and their evidence files into release/.
+
+    Kept inside the chain because doing it by hand is what failed: publishing
+    fans out to the hosted copies and leaves release/ alone, so the directory
+    git tracks as the shipped release drifted away from the build silently.
+    Byte-for-byte copies only -- this never regenerates content, so a file that
+    the build did not produce cannot appear here.
+    """
+    report = {"copied": [], "unchanged": [], "absent": []}
+    RELEASE_DIR.mkdir(parents=True, exist_ok=True)
+
+    for name in ARTIFACTS + SYNCED_EVIDENCE:
+        source = ROOT / "build" / name
+        if not source.is_file():
+            report["absent"].append(name)
+            continue
+        target = RELEASE_DIR / name
+        payload = source.read_bytes()
+        if target.is_file() and target.read_bytes() == payload:
+            report["unchanged"].append(name)
+            continue
+        target.write_bytes(payload)
+        report["copied"].append(name)
+
+    # Regenerate the checksums from the bytes now in release/, not from build/,
+    # so the file certifies what it sits beside.
+    lines = []
+    for name in ARTIFACTS:
+        target = RELEASE_DIR / name
+        if target.is_file():
+            digest = hashlib.sha256(target.read_bytes()).hexdigest()
+            lines.append(f"{digest}  {name}")
+    if lines:
+        (RELEASE_DIR / "SHA256SUMS.txt").write_text(
+            "\n".join(lines) + "\n", encoding="utf-8", newline="\n"
+        )
+    return report
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--tests",
         help="test summary to record in the acceptance file, e.g. '176 passed'",
+    )
+    parser.add_argument(
+        "--no-sync",
+        action="store_true",
+        help="build without refreshing release/ (leaves the shipped copy stale)",
     )
     parser.add_argument(
         "--dry-run",
@@ -86,6 +161,8 @@ def main() -> int:
     if args.dry_run:
         for index, (script, label) in enumerate(STEPS, start=1):
             print(f"{index}. {script:32} {label}")
+        if not args.no_sync:
+            print(f"{len(STEPS) + 1}. {'(sync release/)':32} copy artifacts + evidence, rehash SHA256SUMS.txt")
         return 0
 
     for index, (script, label) in enumerate(STEPS, start=1):
@@ -108,9 +185,23 @@ def main() -> int:
             return outcome["returncode"]
         print(f"ok ({outcome['seconds']}s)")
 
+    if args.no_sync:
+        print("\nSkipped release/ sync (--no-sync).")
+    else:
+        print(f"[{len(STEPS) + 1}/{len(STEPS) + 1}] sync release/ ... ", end="", flush=True)
+        report = sync_release_dir()
+        print(
+            f"ok ({len(report['copied'])} copied, "
+            f"{len(report['unchanged'])} already current)"
+        )
+        for name in report["copied"]:
+            print(f"    updated  {name}")
+        for name in report["absent"]:
+            print(f"    MISSING in build/: {name}", file=sys.stderr)
+
     print("\nAll steps completed. Next:")
     print("  python -m pytest tools/ -q")
-    print("  python tools/verify_release.py        # after syncing release/")
+    print("  python tools/verify_release.py")
     return 0
 
 

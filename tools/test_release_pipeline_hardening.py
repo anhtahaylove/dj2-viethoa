@@ -19,6 +19,11 @@ def load_module(name, path):
     return module
 
 
+release_chain_test = load_module(
+    "release_chain_test", ROOT / "tools" / "build_release_chain.py"
+)
+
+
 class FinalAcceptanceTests(unittest.TestCase):
     """README calls FINAL_ACCEPTANCE_CURRENT.json the proof of the shipped build.
 
@@ -54,25 +59,64 @@ class FinalAcceptanceTests(unittest.TestCase):
             f"disk, so it proves nothing about the shipped release: {drift}",
         )
 
-    def test_the_tracked_release_copy_matches_the_generated_one(self):
-        """`release/` carries the copy git tracks as shipped evidence.
+    def test_every_synced_evidence_file_matches_its_generated_copy(self):
+        """release/ is the shipped evidence; build/ is untracked scratch.
 
-        build_final_acceptance.py only writes build/, so the tracked copy went
-        three waves without being refreshed and certified a pack that had been
-        rebuilt twice since. The build/ copy is untracked scratch, so the
-        tracked one is what anybody auditing the release actually reads.
+        Five files are generated into build/ and tracked from release/. Nothing
+        owned that copy, so the manifest and the three verification reports each
+        went three waves stale, describing the wave-18 pack while the artifacts
+        beside them had been rebuilt twice. Nothing caught it: the other tests
+        read the build/ copies, and SHA256SUMS.txt lists only the ZIPs.
+
+        Driven off release_chain_test.SYNCED_EVIDENCE so a file added to the
+        chain is covered here automatically instead of needing a new test.
         """
-        generated = self.ACCEPTANCE.read_bytes()
-        shipped = (
-            ROOT / "release" / "DJ2_Viet_Hoa_2.23.4" / "FINAL_ACCEPTANCE_CURRENT.json"
-        ).read_bytes()
+        release_dir = ROOT / "release" / "DJ2_Viet_Hoa_2.23.4"
+        drift = []
+        for name in release_chain_test.SYNCED_EVIDENCE:
+            generated = ROOT / "build" / name
+            shipped = release_dir / name
+            if not generated.is_file():
+                continue
+            if not shipped.is_file():
+                drift.append(f"{name}: missing from release/")
+                continue
+            if (
+                hashlib.sha256(shipped.read_bytes()).hexdigest()
+                != hashlib.sha256(generated.read_bytes()).hexdigest()
+            ):
+                drift.append(f"{name}: release/ copy differs from build/")
         self.assertEqual(
-            hashlib.sha256(shipped).hexdigest(),
-            hashlib.sha256(generated).hexdigest(),
-            "the tracked acceptance record under release/ differs from the one "
-            "build_final_acceptance.py generated, so the shipped evidence "
-            "describes a different build than the artifacts beside it",
+            [], drift,
+            "tracked release evidence disagrees with what the build produced, "
+            f"so it describes a different build than the artifacts beside it: {drift}",
         )
+
+    def test_checksums_cover_the_artifacts_actually_in_release(self):
+        """SHA256SUMS.txt must hash the release/ bytes, not build/ bytes.
+
+        It lists only the three ZIPs, which is why the evidence files could
+        drift undetected; this asserts the part it does cover is honest.
+        """
+        release_dir = ROOT / "release" / "DJ2_Viet_Hoa_2.23.4"
+        sums = release_dir / "SHA256SUMS.txt"
+        self.assertTrue(sums.is_file(), "release/ has no SHA256SUMS.txt")
+        listed = {}
+        for line in sums.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                digest, name = line.split(None, 1)
+                listed[name.strip().lstrip("*")] = digest
+        self.assertEqual(
+            sorted(listed), sorted(release_chain_test.ARTIFACTS),
+            "SHA256SUMS.txt does not list exactly the release artifacts",
+        )
+        for name, digest in listed.items():
+            target = release_dir / name
+            self.assertTrue(target.is_file(), f"{name} listed but absent")
+            self.assertEqual(
+                hashlib.sha256(target.read_bytes()).hexdigest(), digest,
+                f"{name}: SHA256SUMS.txt certifies bytes that are not on disk",
+            )
 
     def test_acceptance_describes_the_font_mode_actually_shipped(self):
         record = json.loads(self.ACCEPTANCE.read_text(encoding="utf-8"))

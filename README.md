@@ -49,7 +49,7 @@ thêm `--list <namespace>` để xem chi tiết từng mod.
 | `work/runtime_locale_sources/` | Nửa English tương ứng, giữ key set 1:1 với bản dịch |
 | `work/protected_terms.json` | Thuật ngữ bắt buộc giữ English, được validator kiểm tự động |
 | `tools/` | Script build, validator, installer và test |
-| `release/` | Artifact phát hành hiện hành (không track trong Git) |
+| `release/` | Artifact phát hành hiện hành; ZIP không track, còn manifest/acceptance/verification/checksum thì có (bằng chứng đã ship) |
 
 ### Công cụ kiểm tra bổ sung
 
@@ -252,7 +252,8 @@ python tools/validate_runtime_locales.py
 python tools/validate_translated_locales.py
 python tools/check_line_endings.py
 
-# 2. Dựng toàn bộ artifact theo đúng thứ tự (coverage -> pack -> ... -> acceptance)
+# 2. Dựng artifact + tự đồng bộ release/ (coverage -> pack -> ... -> acceptance -> sync)
+#    Bước cuối copy artifact và 5 file bằng chứng sang release/ rồi tạo lại SHA256SUMS.txt.
 python tools/build_release_chain.py
 # xem thứ tự mà không chạy: python tools/build_release_chain.py --dry-run
 

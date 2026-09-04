@@ -3,22 +3,22 @@
   "release": "DJ2 Việt hóa 2.23.4",
   "artifacts": {
     "DJ2_Viet_Hoa_2.23.4.zip": {
-      "bytes": 1931901,
+      "bytes": 1937500,
       "entries": 833,
-      "sha1": "64ceafbdfac56ccefab750a1830569ab2d6dddfb",
-      "sha256": "506221a023b22b0eec75299681564d5df8913d1035988a7827a2524415094ab4"
+      "sha1": "06e68548e59e9c15f635b3254fdbdc48a700af91",
+      "sha256": "9c590af7744075785f48c1be777533f2411c6ef5bf4704876228d1b3f1fa8924"
     },
     "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip": {
-      "bytes": 1863581,
+      "bytes": 1869550,
       "entries": 42,
-      "sha1": "a003bedbbb43d72ea469c3ab3156d97c81152db6",
-      "sha256": "14c35b0b4fd711c26f41b18ce6b0e0838911687bd0e5c46ed9802843f9162f7f"
+      "sha1": "bae8506945a7f1272a7731e14f383d9b6ddf8d2e",
+      "sha256": "0ec5817d04d52ab3e3403b193267f8d8222c5c4d5af05068aabd4ddc41b07c72"
     },
     "DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip": {
-      "bytes": 1839299,
+      "bytes": 1845266,
       "entries": 7,
-      "sha1": "1284ccbafc7093072ef37e3933baa845825479ad",
-      "sha256": "c3c1f8c3c37dc984460a67a6ae469fc5a70ef59243d71bf0efbe06be596463e3"
+      "sha1": "6b08fe3f1c01cbc3ff0966f655c7806a116b63ff",
+      "sha256": "cd972337590bd3a7dd9ac838f002cc1bcae092621635f9e64051f60b7d2a3c9c"
     }
   },
   "verification": {
