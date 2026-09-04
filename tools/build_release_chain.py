@@ -44,16 +44,24 @@ TOOLS = ROOT / "tools"
 # In dependency order. The acceptance record is deliberately last: it hashes the
 # artifacts the preceding steps produce, so it is only truthful once they exist.
 STEPS = (
-    # Coverage first: it regenerates work/coverage_report.json and
-    # work/missing_by_tier.json from the stores, so the numbers quoted in the
-    # README and the acceptance record describe the artifacts built below.
+    # Coverage first: it regenerates work/coverage_report.json from the stores,
+    # so the numbers quoted in the README and the acceptance record describe the
+    # artifacts built below.
     ("measure_coverage.py", "coverage report"),
+    # tier_missing.py writes work/missing_by_tier.json, which the README gate
+    # reads for its per-tier table. It used to run only by hand, so the tier
+    # counts could describe a different wave than the coverage totals above.
+    ("tier_missing.py", "untranslated tiers"),
     ("build_pack.py", "resource pack"),
     ("build_client_overlays.py", "client overlays"),
     ("build_client_bundle.py", "client bundle"),
     ("build_server_overlay.py", "server overlay"),
     ("build_release_manifest.py", "release manifest"),
     ("build_final_acceptance.py", "acceptance record"),
+    # Last, and after coverage has refreshed the stores: DOC_DAU_TIEN.md is the
+    # file players read first, it is prose that no builder rewrites, and it went
+    # three waves quoting a build that no longer existed.
+    ("check_readme_numbers.py", "README figures"),
 )
 
 # Generated in build/, but shipped from release/ -- and nothing owned the copy.

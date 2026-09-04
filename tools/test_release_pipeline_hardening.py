@@ -22,6 +22,9 @@ def load_module(name, path):
 release_chain_test = load_module(
     "release_chain_test", ROOT / "tools" / "build_release_chain.py"
 )
+readme_numbers_test = load_module(
+    "readme_numbers_test", ROOT / "tools" / "check_readme_numbers.py"
+)
 
 
 class FinalAcceptanceTests(unittest.TestCase):
@@ -250,6 +253,63 @@ class ReleasePipelineHardeningTests(unittest.TestCase):
         for name, item in data["artifacts"].items():
             path = ROOT / "build" / name
             self.assertEqual(item["sha256"], hashlib.sha256(path.read_bytes()).hexdigest())
+
+
+class ReadmeFigureTests(unittest.TestCase):
+    """DOC_DAU_TIEN.md is prose no builder rewrites, so it drifts silently.
+
+    It shipped for three waves quoting 20,119 translated lines and 74.3%
+    coverage while the stores held 22,618 and 83.5%, and every gate stayed
+    green because no gate read it. These tests pin the checker itself: that it
+    reads live data rather than constants, and that the chain still runs it.
+    """
+
+    def test_every_documented_figure_is_derived_from_real_data(self):
+        # Not a golden list: each expectation must come back from the coverage
+        # report, the tier file, the quest store or the built pack. A checker
+        # that hard-coded today's numbers would pass while the document rots.
+        coverage = json.loads((ROOT / "work" / "coverage_report.json").read_text(encoding="utf-8"))
+        figures = {label: want for label, _, want in readme_numbers_test.expected()}
+        self.assertEqual(figures["coverage percent"],
+                         str(coverage["coverage_pct"]).replace(".", ","))
+        self.assertEqual(figures["translated lines"],
+                         readme_numbers_test.vi(coverage["translated"]))
+        self.assertEqual(figures["identical to English"],
+                         readme_numbers_test.vi(coverage["identical_to_english"]))
+        self.assertGreaterEqual(len(figures), 17)
+
+    def test_the_shipped_document_matches_the_current_data(self):
+        self.assertEqual(readme_numbers_test.main(), 0)
+
+    def test_a_stale_figure_fails_the_check(self):
+        document = readme_numbers_test.DOC
+        original = document.read_bytes()
+        # The exact drift that shipped: the wave-18 coverage percentage.
+        mutated = original.replace("**83,5%**".encode("utf-8"),
+                                   "**74,3%**".encode("utf-8"), 1)
+        self.assertNotEqual(mutated, original, "mutation did not change the file")
+        try:
+            document.write_bytes(mutated)
+            self.assertEqual(readme_numbers_test.main(), 1)
+        finally:
+            document.write_bytes(original)
+        self.assertEqual(document.read_bytes(), original)
+
+    def test_the_chain_runs_the_readme_check_after_coverage(self):
+        scripts = [script for script, _ in release_chain_test.STEPS]
+        self.assertIn("check_readme_numbers.py", scripts)
+        # The figures come from the stores, so coverage and the tier file must
+        # be regenerated before the document is judged against them.
+        self.assertLess(scripts.index("measure_coverage.py"),
+                        scripts.index("check_readme_numbers.py"))
+        self.assertLess(scripts.index("tier_missing.py"),
+                        scripts.index("check_readme_numbers.py"))
+
+    def test_the_tier_file_the_readme_quotes_is_built_by_the_chain(self):
+        # missing_by_tier.json fed the README's per-tier table while only ever
+        # being written by hand, so the tiers could describe a different wave
+        # than the totals beside them.
+        self.assertIn("tier_missing.py", [script for script, _ in release_chain_test.STEPS])
 
 
 if __name__ == "__main__":
