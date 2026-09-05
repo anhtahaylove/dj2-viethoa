@@ -166,7 +166,13 @@ class FinalAcceptanceTests(unittest.TestCase):
             ("client_bundle", "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"),
         ):
             shipped = release_dir / name
-            if not shipped.is_file() or key not in report:
+            if not shipped.is_file():
+                drift.append(f"{key}: {name} is missing from release/")
+                continue
+            if key not in report:
+                # An absent section is not a clean one: it means publish never
+                # recorded this artifact, so nothing here would be compared.
+                drift.append(f"{key}: publish record has no entry for {name}")
                 continue
             payload = shipped.read_bytes()
             if report[key].get("bytes") != len(payload):
@@ -175,7 +181,9 @@ class FinalAcceptanceTests(unittest.TestCase):
                     f"{name} is {len(payload)}"
                 )
             digest = hashlib.sha256(payload).hexdigest()
-            if report[key].get("sha256") not in (None, digest):
+            if report[key].get("sha256") != digest:
+                # None was tolerated here, which let a record carrying no digest
+                # at all count as agreeing with the artifact.
                 drift.append(f"{key}: report sha256 does not match {name}")
         self.assertEqual(
             [], drift,
