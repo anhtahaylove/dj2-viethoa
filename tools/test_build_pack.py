@@ -413,7 +413,10 @@ class BuildPackTests(unittest.TestCase):
             for lang_path in sorted((ROOT / source_dir).glob("*.lang")):
                 json_path = ROOT / target_dir / f"{lang_path.stem}.json"
                 if not json_path.exists():
-                    continue
+                    # Every source file here is translated. A missing store means the
+                    # store was lost, not that this file is exempt -- skipping would
+                    # quietly drop it from the check.
+                    self.fail(f"missing translation store: {json_path.relative_to(ROOT)}")
                 source = {}
                 for line in lang_path.read_text(encoding="utf-8").splitlines():
                     if "=" not in line or line.lstrip().startswith("#"):
@@ -503,7 +506,10 @@ class BuildPackTests(unittest.TestCase):
             for lang_path in sorted((ROOT / source_dir).glob("*.lang")):
                 json_path = ROOT / target_dir / f"{lang_path.stem}.json"
                 if not json_path.exists():
-                    continue
+                    # Every source file here is translated. A missing store means the
+                    # store was lost, not that this file is exempt -- skipping would
+                    # quietly drop it from the check.
+                    self.fail(f"missing translation store: {json_path.relative_to(ROOT)}")
                 source = {}
                 for line in lang_path.read_text(encoding="utf-8").splitlines():
                     if "=" not in line or line.lstrip().startswith("#"):
@@ -621,7 +627,10 @@ class BuildPackTests(unittest.TestCase):
             for lang_path in sorted((ROOT / source_dir).glob("*.lang")):
                 json_path = ROOT / target_dir / f"{lang_path.stem}.json"
                 if not json_path.exists():
-                    continue
+                    # Every source file here is translated. A missing store means the
+                    # store was lost, not that this file is exempt -- skipping would
+                    # quietly drop it from the check.
+                    self.fail(f"missing translation store: {json_path.relative_to(ROOT)}")
                 source = {}
                 for line in lang_path.read_text(encoding="utf-8").splitlines():
                     if "=" not in line or line.lstrip().startswith("#"):

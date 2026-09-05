@@ -82,6 +82,11 @@ class FinalAcceptanceTests(unittest.TestCase):
             generated = ROOT / "build" / name
             shipped = release_dir / name
             if not generated.is_file():
+                # build/ is scratch: empty on a fresh clone, and stripped
+                # whenever the chain aborts part way. Skipping here made the
+                # comparison vanish rather than fail, so a release/ copy with
+                # the wrong bytes passed as long as its build/ twin was gone.
+                drift.append(f"{name}: no build/ copy to compare against")
                 continue
             if not shipped.is_file():
                 drift.append(f"{name}: missing from release/")
