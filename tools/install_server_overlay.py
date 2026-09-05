@@ -17,13 +17,8 @@ PROJECT = Path(__file__).resolve().parents[1]
 DEFAULT_SERVER = PROJECT.parent / "Divine_Journey_2.23.4_Server_Pack"
 DEFAULT_OVERLAY = PROJECT / "build" / "DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip"
 SHARED = PROJECT / "source" / "server_shared"
-DIRECT_ENTRIES = (
-    "config/tips.cfg",
-    "scripts/JEI/Excavator.zs",
-    "scripts/ContentTweaker/ContentTweakerItems.zs",
-    "scripts/ModSpecific/ContentTweakerRecipes.zs",
-    "resourcepack/DJ2_Viet_Hoa_2.23.4.zip",
-)
+# Metadata for a human reader, not runtime content the server loads.
+DOC_ENTRIES = ("HUONG_DAN_SERVER.txt", "SERVER_OVERLAY_MANIFEST.json")
 # Legacy publishers also wrote these copies. Keep them byte-identical so a
 # helper pointed at any of them can never serve a pack that fails the
 # declared resource-pack-sha1 check.
@@ -59,7 +54,24 @@ def install(server=DEFAULT_SERVER, overlay=DEFAULT_OVERLAY, backup_root=None):
     with zipfile.ZipFile(overlay) as archive:
         if archive.testzip() is not None:
             raise RuntimeError("Server overlay CRC failure")
-        for rel in DIRECT_ENTRIES:
+        # Install everything the overlay ships. A hardcoded tuple meant a
+        # newly shipped file was never installed: HandFramingUses.zs was
+        # added to the overlay and stayed out of the list, so the server
+        # only received it because an unrelated publish step copied it.
+        members = [n for n in archive.namelist()
+                   if not n.endswith('/') and n not in DOC_ENTRIES]
+        # The manifest and guide describe this directory, so a stale copy
+        # misreports what is installed. Refresh them too, but keep them
+        # out of `members` so the report lists runtime content only.
+        for rel in DOC_ENTRIES:
+            if rel in archive.namelist():
+                dst = server / rel
+                if dst.exists():
+                    old = backup / rel
+                    old.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copy2(dst, old)
+                _atomic_write(dst, archive.read(rel))
+        for rel in members:
             dst = server / rel
             if dst.exists():
                 old = backup / rel
@@ -101,7 +113,7 @@ def install(server=DEFAULT_SERVER, overlay=DEFAULT_OVERLAY, backup_root=None):
             temp.unlink(missing_ok=True)
             raise RuntimeError(f"Unexpected FTBUtilities fields: {changed}")
         os.replace(temp, ftb)
-    report = {"backup": str(backup), "resource_pack_sha1": sha1, "direct_entries": list(DIRECT_ENTRIES), "pack_aliases_synced": aliases, "ftbutilities_merged": ftb.exists()}
+    report = {"backup": str(backup), "resource_pack_sha1": sha1, "installed_entries": members, "pack_aliases_synced": aliases, "ftbutilities_merged": ftb.exists()}
     (backup / "install-report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     return report
 

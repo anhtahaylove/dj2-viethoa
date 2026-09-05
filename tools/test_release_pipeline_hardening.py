@@ -467,6 +467,56 @@ class ReleasePipelineHardeningTests(unittest.TestCase):
         )
 
 
+class ServerOverlayInstallTests(unittest.TestCase):
+    def test_the_installer_covers_every_file_the_overlay_ships(self):
+        """A hardcoded install list silently strands newly shipped files.
+
+        The installer copied a fixed tuple of five paths while the overlay
+        shipped eight. HandFramingUses.zs was added to the overlay and never
+        added here, so the server only ever received it because an unrelated
+        publish step happened to copy it -- an edit to that script would not
+        have reached the server at all.
+        """
+        overlay = ROOT / "build" / "DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip"
+        if not overlay.is_file():
+            self.fail(f"the overlay must be built before this check: {overlay}")
+        installer = load_module("install_server_overlay",
+                                ROOT / "tools" / "install_server_overlay.py")
+        with zipfile.ZipFile(overlay) as archive:
+            shipped = {n for n in archive.namelist() if not n.endswith("/")}
+        covered = set(installer.DOC_ENTRIES)
+        runtime = shipped - covered
+        self.assertTrue(runtime, "the overlay must ship runtime content")
+        # Nothing may be listed as documentation unless the overlay ships it.
+        self.assertTrue(
+            covered <= shipped,
+            f"installer names files the overlay does not ship: {sorted(covered - shipped)}",
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            server = Path(tmp) / "server"
+            for rel in sorted(shipped):
+                target = server / rel
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(b"stale")
+            # The installer also rewrites server.properties and merges
+            # ftbutilities.cfg; give it the real files to work against.
+            for rel in ("server.properties", "config/ftbutilities.cfg"):
+                real = SERVER / rel
+                if real.is_file():
+                    target = server / rel
+                    target.parent.mkdir(parents=True, exist_ok=True)
+                    target.write_bytes(real.read_bytes())
+            installer.install(server=server, overlay=overlay,
+                              backup_root=Path(tmp) / "backup")
+            with zipfile.ZipFile(overlay) as archive:
+                stranded = [rel for rel in sorted(shipped)
+                            if (server / rel).read_bytes() != archive.read(rel)]
+        self.assertEqual(
+            [], stranded,
+            "every file the overlay ships must be installed, not just a fixed list",
+        )
+
+
 class ReadmeFigureTests(unittest.TestCase):
     """DOC_DAU_TIEN.md is prose no builder rewrites, so it drifts silently.
 
