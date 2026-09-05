@@ -7,10 +7,22 @@ TARGETS=[SERVER/'resourcepack'/PACK.name,SERVER/'resourcepacks'/PACK.name]
 def digest(p,kind):
  h=hashlib.new(kind);h.update(p.read_bytes());return h.hexdigest()
 def atomic_copy(src,dst):
+ # The staging file is written next to the destination so the rename stays on
+ # one volume, but that directory is the one the HTTP host serves. Windows
+ # refuses the replace while the host has the pack open, and without cleanup a
+ # 1.9 MB temp file is left sitting in the served directory.
  dst.parent.mkdir(parents=True,exist_ok=True)
  with tempfile.NamedTemporaryFile(dir=str(dst.parent),delete=False) as f:
   f.write(src.read_bytes());tmp=Path(f.name)
- tmp.replace(dst)
+ try:
+  tmp.replace(dst)
+ except PermissionError as exc:
+  tmp.unlink(missing_ok=True)
+  raise SystemExit(
+   f'Cannot replace {dst.name}: it is open elsewhere (the resource-pack host '
+   'serves this directory). Stop the host, publish, then start it again.\n'
+   f'Original error: {exc}'
+  ) from exc
 def main():
  if not PACK.exists() or not BUNDLE.exists():raise SystemExit('missing build artifacts')
  with zipfile.ZipFile(PACK) as z:

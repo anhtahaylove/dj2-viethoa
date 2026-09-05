@@ -333,6 +333,37 @@ class ReleasePipelineHardeningTests(unittest.TestCase):
             "a refused rebuild must leave the previous artifact byte-identical",
         )
 
+    def test_publish_leaves_no_debris_when_the_host_holds_the_pack(self):
+        """A refused publish must not drop a stray temp file in the served dir.
+
+        atomic_copy stages the new pack beside the destination so the rename
+        stays on one volume -- but that directory is the one the HTTP host
+        serves. Windows refuses the replace while the host has the pack open,
+        and an uncleaned staging file leaves a second 1.9 MB archive sitting in
+        the directory players download from.
+        """
+        served = SERVER / "resourcepack" / "DJ2_Viet_Hoa_2.23.4.zip"
+        if not served.is_file():
+            self.skipTest("no published pack to lock")
+        before = served.read_bytes()
+        with zipfile.ZipFile(served):
+            result = subprocess.run(
+                [sys.executable, str(ROOT / "tools" / "publish_release.py")],
+                cwd=ROOT,
+                capture_output=True,
+                text=True,
+            )
+        self.assertNotEqual(
+            result.returncode, 0, "publish must fail while the pack is locked"
+        )
+        self.assertEqual(
+            before, served.read_bytes(), "the served pack must be untouched"
+        )
+        debris = sorted(p.name for p in served.parent.glob("tmp*"))
+        self.assertEqual(
+            [], debris, f"publish left staging files behind: {debris}"
+        )
+
 
 class ReadmeFigureTests(unittest.TestCase):
     """DOC_DAU_TIEN.md is prose no builder rewrites, so it drifts silently.
