@@ -1,6 +1,8 @@
 import hashlib
 import importlib.util
 import json
+import sys
+import subprocess
 import re
 import tempfile
 import unittest
@@ -294,6 +296,42 @@ class ReleasePipelineHardeningTests(unittest.TestCase):
         for name, item in data["artifacts"].items():
             path = ROOT / "build" / name
             self.assertEqual(item["sha256"], hashlib.sha256(path.read_bytes()).hexdigest())
+
+    def test_build_refuses_to_overwrite_a_locked_artifact(self):
+        """A held-open ZIP must abort the build, not produce a hybrid archive.
+
+        Windows cannot unlink a file another process has open. The builder used
+        to let that PermissionError escape from pathlib, but only after the
+        rebuild had already begun -- the ZIP on disk ended up neither the old
+        release nor the new one, hashing differently from both. Every evidence
+        check then disagreed for a reason none of them could name, and the
+        obvious reading (a non-deterministic build) was wrong.
+        """
+        pack = ROOT / "build" / "DJ2_Viet_Hoa_2.23.4.zip"
+        if not pack.is_file():
+            self.skipTest("no built pack to lock")
+        before = pack.read_bytes()
+        with zipfile.ZipFile(pack):
+            result = subprocess.run(
+                [sys.executable, str(ROOT / "tools" / "build_pack.py")],
+                cwd=ROOT,
+                capture_output=True,
+                text=True,
+            )
+        self.assertNotEqual(
+            result.returncode, 0, "the build must fail while the ZIP is locked"
+        )
+        message = (result.stderr or "") + (result.stdout or "")
+        self.assertIn(
+            "holding it open",
+            message,
+            "the failure must name the cause, not surface a bare WinError",
+        )
+        self.assertEqual(
+            before,
+            pack.read_bytes(),
+            "a refused rebuild must leave the previous artifact byte-identical",
+        )
 
 
 class ReadmeFigureTests(unittest.TestCase):

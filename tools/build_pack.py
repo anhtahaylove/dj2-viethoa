@@ -301,6 +301,29 @@ def add_advancement_literals(stage, report):
     report["advancement_literals"] = {"files": count, "errors": 0}
 
 
+def drop_previous_artifact(output):
+    """Remove the previous ZIP, refusing to overwrite one another process holds.
+
+    Windows will not unlink a file that is still open elsewhere. Without this
+    the failure surfaces as a bare WinError 32 traceback inside pathlib, and a
+    partial overwrite produces a ZIP that is neither the old release nor the
+    new one -- it hashes differently from both, so every downstream evidence
+    check disagrees for a reason none of them can explain.
+    """
+    output.parent.mkdir(parents=True, exist_ok=True)
+    if not output.exists():
+        return
+    try:
+        output.unlink()
+    except PermissionError as exc:
+        raise SystemExit(
+            f"Cannot replace {output.name}: another process is holding it open.\n"
+            "Close whatever is reading the ZIP (a Python session with an open\n"
+            "zipfile.ZipFile, an archive viewer, an editor preview) and re-run."
+            f"\nOriginal error: {exc}"
+        ) from exc
+
+
 def build(output=None, stage=None):
     output = Path(output) if output is not None else ZIP_OUT
     stage = Path(stage) if stage is not None else STAGE
@@ -308,9 +331,7 @@ def build(output=None, stage=None):
     # a validation error or a raised exception leaves the old ZIP on disk, and
     # the next pipeline step hashes, publishes and serves the previous release
     # while reporting the new one.
-    output.parent.mkdir(parents=True, exist_ok=True)
-    if output.exists():
-        output.unlink()
+    drop_previous_artifact(output)
     if stage.exists():
         shutil.rmtree(stage)
     stage.mkdir(parents=True)
@@ -358,9 +379,7 @@ def build(output=None, stage=None):
         "language": {"vi_vn": {"name": "Tiếng Việt", "region": "Việt Nam", "bidirectional": False}},
     }
     (stage / "pack.mcmeta").write_text(json.dumps(pack_meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    output.parent.mkdir(parents=True, exist_ok=True)
-    if output.exists():
-        output.unlink()
+    drop_previous_artifact(output)
     with zipfile.ZipFile(output, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
         for path in sorted(stage.rglob("*")):
             if path.is_file():
