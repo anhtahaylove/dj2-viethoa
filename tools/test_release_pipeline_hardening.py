@@ -517,6 +517,40 @@ class ServerOverlayInstallTests(unittest.TestCase):
         )
 
 
+class SharedSourceCoverageTests(unittest.TestCase):
+    # ftbutilities.cfg is merged key-by-key into the server's existing config
+    # rather than shipped whole, and the manifest describes the source tree.
+    NOT_SHIPPED_WHOLE = {"SOURCE_MANIFEST.json", "config/ftbutilities.cfg"}
+
+    def test_every_shared_source_file_is_shipped_or_declared_exempt(self):
+        """A translated file added to source/ must not silently go unshipped.
+
+        SHARED_ENTRIES is a hand-maintained list. Adding a file to
+        source/server_shared/ without adding it there produced a green suite
+        while the file reached neither the overlay nor the client -- the exact
+        gap that kept HandFramingUses.zs out of the installer.
+        """
+        overlay = load_module("build_server_overlay",
+                               ROOT / "tools" / "build_server_overlay.py")
+        on_disk = {
+            path.relative_to(SHARED).as_posix()
+            for path in SHARED.rglob("*") if path.is_file()
+        }
+        self.assertTrue(on_disk, f"no shared source files found under {SHARED}")
+        unshipped = on_disk - set(overlay.SHARED_ENTRIES) - self.NOT_SHIPPED_WHOLE
+        self.assertEqual(
+            set(), unshipped,
+            "shared source files reach no artifact; add them to SHARED_ENTRIES "
+            f"or to NOT_SHIPPED_WHOLE with a reason: {sorted(unshipped)}",
+        )
+        # An exemption must name a file that exists, or it is hiding a typo.
+        stale = self.NOT_SHIPPED_WHOLE - on_disk
+        self.assertEqual(set(), stale, f"exemption names missing files: {sorted(stale)}")
+        # Every declared entry must exist on disk.
+        missing = set(overlay.SHARED_ENTRIES) - on_disk
+        self.assertEqual(set(), missing, f"SHARED_ENTRIES names missing files: {sorted(missing)}")
+
+
 class ReadmeFigureTests(unittest.TestCase):
     """DOC_DAU_TIEN.md is prose no builder rewrites, so it drifts silently.
 
