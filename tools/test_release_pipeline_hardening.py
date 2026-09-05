@@ -245,6 +245,28 @@ class FinalAcceptanceTests(unittest.TestCase):
                     f"{name} must name the jar it could not read",
                 )
 
+    def test_coverage_refuses_to_measure_past_an_unreadable_jar(self):
+        """A jar coverage cannot open must abort it, not shrink in_scope.
+
+        Every English line inside a skipped jar leaves the denominator, so a
+        corrupt download makes coverage climb. That is the one failure that
+        reads as progress, and it feeds every figure in DOC_DAU_TIEN.md.
+        """
+        source = (ROOT / "tools" / "measure_coverage.py").read_text(encoding="utf-8")
+        self.assertNotIn(
+            "except zipfile.BadZipFile:\n            continue", source,
+            "measure_coverage must not skip jars it cannot read",
+        )
+        self.assertIn(
+            "cannot read mod jar", source,
+            "measure_coverage must name the jar it could not read",
+        )
+        for fragment in ("cannot read {member}", "cannot parse {member}"):
+            self.assertIn(
+                fragment, source,
+                "measure_coverage must abort on unreadable lang members too",
+            )
+
 
 class ReleasePipelineHardeningTests(unittest.TestCase):
     def test_client_bundle_uses_only_canonical_shared_inputs(self):

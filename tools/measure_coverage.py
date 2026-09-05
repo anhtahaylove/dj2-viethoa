@@ -57,10 +57,13 @@ def read_english() -> dict[str, dict[str, str]]:
     merged: dict[str, dict[str, str]] = {}
     pattern = re.compile(r"^assets/([^/]+)/lang/en_us\.(lang|json)$", re.IGNORECASE)
     for jar in sorted(MODS.glob("*.jar")):
+        # Every English line in a jar this cannot open drops out of in_scope,
+        # so a corrupt jar shrinks the denominator and coverage climbs. That
+        # reads exactly like progress. Refuse to measure instead.
         try:
             archive = zipfile.ZipFile(jar)
-        except zipfile.BadZipFile:
-            continue
+        except (zipfile.BadZipFile, OSError) as exc:
+            raise SystemExit(f"cannot read mod jar {jar.name}: {exc}") from exc
         with archive:
             members = sorted(
                 (m for m in archive.namelist() if pattern.match(m)),
@@ -70,13 +73,17 @@ def read_english() -> dict[str, dict[str, str]]:
                 namespace = pattern.match(member).group(1)
                 try:
                     raw = archive.read(member).decode("utf-8-sig")
-                except (KeyError, UnicodeDecodeError):
-                    continue
+                except (KeyError, UnicodeDecodeError, OSError) as exc:
+                    raise SystemExit(
+                        f"cannot read {member} from {jar.name}: {exc}"
+                    ) from exc
                 if member.lower().endswith(".json"):
                     try:
                         parsed = json.loads(raw)
-                    except json.JSONDecodeError:
-                        continue
+                    except json.JSONDecodeError as exc:
+                        raise SystemExit(
+                            f"cannot parse {member} from {jar.name}: {exc}"
+                        ) from exc
                     locale = {k: v for k, v in parsed.items() if isinstance(v, str)} \
                         if isinstance(parsed, dict) else {}
                 else:
