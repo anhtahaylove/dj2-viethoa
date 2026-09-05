@@ -178,6 +178,32 @@ class FinalAcceptanceTests(unittest.TestCase):
             f"shipped beside it, so re-run tools/publish_release.py: {drift}",
         )
 
+    def test_acceptance_keeps_the_measured_suite_result(self):
+        """Regenerating without --tests must not erase a measured result.
+
+        The chain rebuilds this record on every run. When a run omitted
+        --tests, the placeholder overwrote a real summary like "206 passed",
+        destroying the evidence that the suite was ever run -- and the chain
+        still exited 0, so nothing flagged the loss.
+        """
+        with tempfile.TemporaryDirectory() as tmp:
+            record = Path(tmp) / "FINAL_ACCEPTANCE_CURRENT.json"
+            subprocess.run(
+                [sys.executable, str(ROOT / "tools" / "build_final_acceptance.py"),
+                 "--output", str(record), "--tests", "206 passed"],
+                cwd=ROOT, capture_output=True, text=True, check=True,
+            )
+            subprocess.run(
+                [sys.executable, str(ROOT / "tools" / "build_final_acceptance.py"),
+                 "--output", str(record)],
+                cwd=ROOT, capture_output=True, text=True, check=True,
+            )
+            kept = json.loads(record.read_text(encoding="utf-8"))["tests"]
+            self.assertEqual(
+                "206 passed", kept,
+                "a run without --tests must carry the measured result forward",
+            )
+
 
 class ReleasePipelineHardeningTests(unittest.TestCase):
     def test_client_bundle_uses_only_canonical_shared_inputs(self):

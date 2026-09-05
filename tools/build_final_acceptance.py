@@ -58,10 +58,28 @@ def _font_mode() -> str:
     )
 
 
+PLACEHOLDER_TESTS = "run `python -m unittest discover -s tools -p \"test_*.py\"`"
+
+
+def previous_tests(output) -> str | None:
+    """Return the test summary already recorded, if there is a real one.
+
+    The chain regenerates this record on every run, so a run without --tests
+    used to overwrite a measured result ("206 passed") with the placeholder.
+    That silently destroys the evidence that the suite was ever run, and the
+    chain still exits 0. Carry the previous summary forward instead.
+    """
+    try:
+        recorded = json.loads(Path(output).read_text(encoding="utf-8")).get("tests")
+    except (OSError, ValueError):
+        return None
+    return recorded if recorded and recorded != PLACEHOLDER_TESTS else None
+
+
 def build(output=OUTPUT, tests: str | None = None) -> dict:
     record = {
         "generated": datetime.datetime.now().replace(microsecond=0).isoformat(),
-        "tests": tests or "run `python -m unittest discover -s tools -p \"test_*.py\"`",
+        "tests": tests or previous_tests(output) or PLACEHOLDER_TESTS,
         "verify_release": "python tools/verify_release.py",
         "verify_server_delivery": "python tools/verify_server_delivery.py",
         "fixes": {
@@ -95,8 +113,14 @@ def build(output=OUTPUT, tests: str | None = None) -> dict:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--tests", help="result of the regression suite, e.g. '70 passed'")
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=OUTPUT,
+        help="where to write the record (defaults to build/FINAL_ACCEPTANCE_CURRENT.json)",
+    )
     args = parser.parse_args()
-    print(json.dumps(build(tests=args.tests), ensure_ascii=False, indent=2))
+    print(json.dumps(build(output=args.output, tests=args.tests), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":
