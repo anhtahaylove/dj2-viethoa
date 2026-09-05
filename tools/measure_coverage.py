@@ -108,8 +108,15 @@ def main() -> int:
     english = read_english()
     pack = read_pack()
 
+    # A mod may declare a key that another mod actually owns and ships. Looking
+    # only inside the declaring namespace counted those as missing even though
+    # the player sees Vietnamese, which understated coverage.
+    shipped_anywhere: dict[str, str] = {}
+    for entries in pack.values():
+        shipped_anywhere.update(entries)
+
     total = name_like = dev_only = empty = 0
-    in_scope = translated = identical = missing = 0
+    in_scope = translated = identical = missing = cross_namespace = 0
     for namespace, entries in english.items():
         shipped = pack.get(namespace, {})
         for key, value in entries.items():
@@ -125,6 +132,10 @@ def main() -> int:
                 continue
             in_scope += 1
             vi = shipped.get(key)
+            if vi is None:
+                vi = shipped_anywhere.get(key)
+                if vi is not None:
+                    cross_namespace += 1
             if vi is None:
                 missing += 1
             elif vi == value:
@@ -142,6 +153,7 @@ def main() -> int:
         "translated": translated,
         "identical_to_english": identical,
         "missing": missing,
+        "shipped_under_other_namespace": cross_namespace,
         "coverage_pct": round(pct, 1),
         "pack_lang_keys": sum(len(v) for v in pack.values()),
     }

@@ -38,7 +38,7 @@ Gói Client đã đặt sẵn hai mục này.
 
 ## Có gì trong bản này
 
-- **22.618 dòng** văn bản đã dịch, trải trên **169 mod**
+- **22.767 dòng** văn bản đã dịch, trải trên **169 mod**
 - **581 trang** sách Patchouli
 - **3.532 dòng** nhiệm vụ BetterQuesting
 - Font Việt vẽ riêng, dấu rõ ở cỡ chữ nhỏ
@@ -60,8 +60,8 @@ tiếng Anh gốc rồi so với nội dung gói này.
 | Tài liệu chỉ dành cho lập trình viên | 2.772 |
 | Chuỗi rỗng | 51 |
 | **Phần thực sự cần dịch** | **27.075** |
-| Đã dịch | 22.618 |
-| **Tỷ lệ** | **83,5%** |
+| Đã dịch | 22.767 |
+| **Tỷ lệ** | **84,1%** |
 
 Phần đã dịch được chọn theo mức độ người chơi hay gặp: toàn bộ nhiệm vụ,
 sách hướng dẫn, tiến trình chơi chính và giao diện dùng thường xuyên.
@@ -83,9 +83,11 @@ Ngoài bốn nhóm trên còn **2.772 dòng** chỉ dành cho lập trình viên
 `groovyscript` (tài liệu API) và `chisel` (tên biến thể khối). Nhóm này không
 xuất hiện trong lối chơi bình thường và không nằm trong kế hoạch dịch.
 
-Thêm **3.280 dòng** hiện để nguyên tiếng Anh trong gói. Đợt rà soát gần nhất
+Thêm **3.286 dòng** hiện để nguyên tiếng Anh trong gói. Đợt rà soát gần nhất
 đã soi toàn bộ 3.286 dòng loại này: 1.756 dòng được đọc thủ công theo ngữ cảnh
-từng mod, tìm ra 6 dòng bỏ sót thật và đã sửa. Số còn lại là danh từ riêng, tên
+từng mod, tìm ra 6 dòng bỏ sót thật và đã sửa. Sáu dòng gần nhất được bổ sung
+vào nhóm này là mã locale, tên mũi tên hiệu ứng và tên Aspect Thaumcraft, đều
+thuộc diện giữ tiếng Anh. Số còn lại là danh từ riêng, tên
 phím, đơn vị hoặc thuật ngữ kỹ thuật giữ tiếng Anh có chủ đích.
 
 ---

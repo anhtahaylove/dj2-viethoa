@@ -496,8 +496,15 @@ class ReadmeFigureTests(unittest.TestCase):
     def test_a_stale_figure_fails_the_check(self):
         document = readme_numbers_test.DOC
         original = document.read_bytes()
-        # The exact drift that shipped: the wave-18 coverage percentage.
-        mutated = original.replace("**83,5%**".encode("utf-8"),
+        # Drift the coverage percentage the document currently states. Pinning
+        # a literal here meant the test broke whenever coverage legitimately
+        # moved, so read the live figure instead of hardcoding one.
+        report = json.loads(
+            (ROOT / "work" / "coverage_report.json").read_text(encoding="utf-8"))
+        current = f"**{report['coverage_pct']:.1f}%**".replace(".", ",")
+        self.assertIn(current.encode("utf-8"), original,
+                      f"the document should state the measured coverage {current}")
+        mutated = original.replace(current.encode("utf-8"),
                                    "**74,3%**".encode("utf-8"), 1)
         self.assertNotEqual(mutated, original, "mutation did not change the file")
         try:
