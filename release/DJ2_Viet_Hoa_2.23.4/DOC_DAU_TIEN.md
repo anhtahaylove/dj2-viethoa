@@ -44,6 +44,7 @@ Gói Client đã đặt sẵn hai mục này.
 - Font Việt vẽ riêng, dấu rõ ở cỡ chữ nhỏ
 - Mẹo màn hình chờ, bảng thông tin khi ngắm khối, giao diện JEI
 - Trọn bộ Tinkers' Construct: mô tả công cụ, modifier, vật liệu
+- **26 tên cúp** thành tựu và các script hiển thị trong JEI
 
 ---
 

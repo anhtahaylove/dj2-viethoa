@@ -14,6 +14,11 @@ CLIENT_OVERLAY = ROOT / "dj2-viethoa" / "work" / "client_overlay_vi"
 SERVER_SCRIPT_OVERLAYS = (
     "scripts/JEI/Excavator.zs",
     "scripts/ContentTweaker/ContentTweakerItems.zs",
+    # The server already runs the Vietnamese copy of this one. It was left out
+    # of the client bundle, so singleplayer and the integrated server still
+    # printed the biome counter in English while multiplayer printed Vietnamese.
+    "scripts/ModSpecific/ContentTweakerRecipes.zs",
+    "scripts/Unique/HandFramingUses.zs",
 )
 OUTPUT = BUILD / "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"
 
@@ -30,8 +35,11 @@ Cấu trúc sẽ tự vào:
 - config/defaultoptions/options.txt
 - config/crash_assistant/config.toml
 - config/triumph/script/triumph/dj2/*.txt
+- config/triumph/functions/triumph/*.txt
 - scripts/JEI/Excavator.zs
 - scripts/ContentTweaker/ContentTweakerItems.zs
+- scripts/ModSpecific/ContentTweakerRecipes.zs
+- scripts/Unique/HandFramingUses.zs
 
 Sau khi giải nén, giao diện chính, ngôn ngữ mặc định, resource pack mặc định,
 MOTD/TPA và các lớp script Việt hóa sẽ được đồng bộ. Gói không thay đổi quest progression,

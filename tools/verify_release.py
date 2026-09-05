@@ -2,6 +2,7 @@
 import hashlib
 import importlib.util
 import json
+import re
 import tempfile
 import zipfile
 from pathlib import Path
@@ -13,6 +14,7 @@ BUNDLE = BUILD / "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"
 SERVER_OVERLAY = BUILD / "DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip"
 RELEASE_DIR = ROOT / "release" / "DJ2_Viet_Hoa_2.23.4"
 REPORT = BUILD / "release_verification.json"
+VIETNAMESE = re.compile("[\u00c0-\u1ef9]")
 
 
 def digest(path, name):
@@ -61,6 +63,19 @@ def inspect_bundle(path):
     with zipfile.ZipFile(path) as zf:
         names = set(zf.namelist())
         bad = zf.testzip()
+        # Trophy names live in NBT inside give commands, not in a .lang file, so
+        # coverage never sees them. Counting files is not enough: an untranslated
+        # functions/ overlay still has the right file count. Gate the actual text.
+        trophy_total = 0
+        trophy_untranslated = []
+        for name in sorted(names):
+            if not name.startswith("config/triumph/functions/triumph/"):
+                continue
+            text = zf.read(name).decode("utf-8")
+            for literal in re.findall(r'TrophyName:"([^"]*)"', text):
+                trophy_total += 1
+                if not VIETNAMESE.search(literal):
+                    trophy_untranslated.append({"file": name, "name": literal})
     return {
         "zip": str(path),
         "bytes": path.stat().st_size,
@@ -69,6 +84,8 @@ def inspect_bundle(path):
         "crc_ok": bad is None,
         "missing_required": sorted(required - names),
         "triumph_count": sum(name.startswith("config/triumph/script/triumph/dj2/") for name in names),
+        "trophy_total": trophy_total,
+        "trophy_untranslated": trophy_untranslated,
     }
 
 
@@ -162,6 +179,7 @@ def main():
     bundle = report["client_bundle"]
     bad = report["crc_bad"] or report["duplicate_paths"] or report["casefold_collisions"] or report["missing_expected"] or not report["deterministic"]
     bad = bad or not bundle["crc_ok"] or bundle["missing_required"] or bundle["triumph_count"] != 27
+    bad = bad or bundle["trophy_total"] != 26 or bundle["trophy_untranslated"]
     pub = report["published_release"]
     if pub["exists"]:
         bad = bad or pub["stale"] or pub["missing"] or pub["checksum_mismatch"]

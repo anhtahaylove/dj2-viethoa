@@ -311,6 +311,71 @@ class ReadmeFigureTests(unittest.TestCase):
         # than the totals beside them.
         self.assertIn("tier_missing.py", [script for script, _ in release_chain_test.STEPS])
 
+    def test_shipped_trophy_names_are_vietnamese(self):
+        """Trophy names are NBT literals inside give commands, not lang keys.
+
+        config/triumph/script/ (the advancement titles) was translated while
+        config/triumph/functions/ (the trophy handed out as the reward) was
+        missed: half of one feature shipped in Vietnamese. Coverage cannot see
+        these strings at all, so nothing failed. Gate the shipped bytes.
+        """
+        bundle = ROOT / "build" / "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"
+        vietnamese = re.compile("[\u00c0-\u1ef9]")
+        found = []
+        with zipfile.ZipFile(bundle) as archive:
+            for name in archive.namelist():
+                if not name.startswith("config/triumph/functions/triumph/"):
+                    continue
+                text = archive.read(name).decode("utf-8")
+                found.extend(re.findall(r'TrophyName:"([^"]*)"', text))
+        self.assertEqual(len(found), 26)
+        self.assertEqual([n for n in found if not vietnamese.search(n)], [])
+
+    def test_trophy_overlay_only_rewrites_the_display_name(self):
+        """The give command carries item ids, counts and colours beside the name.
+
+        A careless rewrite would corrupt the NBT and silently break the reward,
+        so everything except TrophyName must stay byte-identical to upstream.
+        """
+        upstream = SERVER / "config" / "triumph" / "functions" / "triumph"
+        overlay = ROOT / "work" / "client_overlay_vi" / "config" / "triumph" / "functions" / "triumph"
+
+        def placeholder(text):
+            return re.sub(r'TrophyName:"[^"]*"', 'TrophyName:"X"', text)
+
+        checked = 0
+        for source in sorted(upstream.glob("*.txt")):
+            translated = overlay / source.name
+            self.assertTrue(translated.is_file(), source.name)
+            self.assertEqual(placeholder(source.read_text(encoding="utf-8")),
+                             placeholder(translated.read_text(encoding="utf-8")),
+                             source.name)
+            checked += 1
+        self.assertEqual(checked, 27)
+
+    def test_client_ships_every_shared_script_the_server_ships(self):
+        """The server overlay and the client bundle must agree on shared scripts.
+
+        ContentTweakerRecipes.zs was translated and shipped to the server while
+        the client bundle kept the English copy, so the same biome counter read
+        Vietnamese in multiplayer and English in singleplayer. Neither builder
+        could see the other, so nothing caught the split.
+        """
+        server = load_module("build_server_overlay_scripts", ROOT / "tools" / "build_server_overlay.py")
+        client = load_module("build_client_bundle_scripts", ROOT / "tools" / "build_client_bundle.py")
+        shared_on_server = {e for e in server.SHARED_ENTRIES if e.startswith("scripts/")}
+        self.assertTrue(shared_on_server)
+        self.assertEqual(shared_on_server - set(client.SERVER_SCRIPT_OVERLAYS), set())
+
+    def test_shipped_scripts_are_the_translated_copies(self):
+        """Both bundles must carry the reviewed overlay, not the upstream file."""
+        bundle = ROOT / "build" / "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"
+        client = load_module("build_client_bundle_bytes", ROOT / "tools" / "build_client_bundle.py")
+        with zipfile.ZipFile(bundle) as archive:
+            for relative in client.SERVER_SCRIPT_OVERLAYS:
+                self.assertEqual(archive.read(relative),
+                                 (SHARED / relative).read_bytes(), relative)
+
 
 if __name__ == "__main__":
     unittest.main()

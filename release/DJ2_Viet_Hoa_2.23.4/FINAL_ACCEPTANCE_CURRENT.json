@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T00:55:43",
-  "tests": "199 passed",
+  "generated": "2026-09-05T08:33:14",
+  "tests": "run `python -m unittest discover -s tools -p \"test_*.py\"`",
   "verify_release": "python tools/verify_release.py",
   "verify_server_delivery": "python tools/verify_server_delivery.py",
   "fixes": {
@@ -20,16 +20,16 @@
       "sha256": "9c590af7744075785f48c1be777533f2411c6ef5bf4704876228d1b3f1fa8924"
     },
     "client_bundle": {
-      "bytes": 1869550,
-      "entries": 42,
-      "sha1": "bae8506945a7f1272a7731e14f383d9b6ddf8d2e",
-      "sha256": "0ec5817d04d52ab3e3403b193267f8d8222c5c4d5af05068aabd4ddc41b07c72"
+      "bytes": 1908826,
+      "entries": 71,
+      "sha1": "06ac7357d4942aead11b455ea8167424ba7ae362",
+      "sha256": "3248eb1c14347961feafee2ff93248c3bd884a351844affeca1539f2188c2b84"
     },
     "server_overlay": {
-      "bytes": 1845266,
-      "entries": 7,
-      "sha1": "6b08fe3f1c01cbc3ff0966f655c7806a116b63ff",
-      "sha256": "cd972337590bd3a7dd9ac838f002cc1bcae092621635f9e64051f60b7d2a3c9c"
+      "bytes": 1847553,
+      "entries": 8,
+      "sha1": "3a79e1cd19e8ebd6f1d77bf2523705675db0ce85",
+      "sha256": "65082404c0ecbada1f3b61c991834b487d663fed3e0ae7209a786cf18f68f20e"
     }
   }
 }
