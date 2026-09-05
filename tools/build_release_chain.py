@@ -171,6 +171,7 @@ def main() -> int:
             print(f"{index}. {script:32} {label}")
         if not args.no_sync:
             print(f"{len(STEPS) + 1}. {'(sync release/)':32} copy artifacts + evidence, rehash SHA256SUMS.txt")
+            print(f"{len(STEPS) + 2}. {'verify_release.py':32} verify release/, then resync its report")
         return 0
 
     for index, (script, label) in enumerate(STEPS, start=1):
@@ -196,7 +197,11 @@ def main() -> int:
     if args.no_sync:
         print("\nSkipped release/ sync (--no-sync).")
     else:
-        print(f"[{len(STEPS) + 1}/{len(STEPS) + 1}] sync release/ ... ", end="", flush=True)
+        # Twice, deliberately. verify_release.py compares release/ against
+        # build/, so it needs the ZIPs already synced; but it writes
+        # release_verification.json afterwards, and that report is itself
+        # shipped from release/. One sync can satisfy one of those, never both.
+        print(f"[{len(STEPS) + 1}/{len(STEPS) + 2}] sync release/ ... ", end="", flush=True)
         report = sync_release_dir()
         print(
             f"ok ({len(report['copied'])} copied, "
@@ -206,6 +211,20 @@ def main() -> int:
             print(f"    updated  {name}")
         for name in report["absent"]:
             print(f"    MISSING in build/: {name}", file=sys.stderr)
+
+        print(f"[{len(STEPS) + 2}/{len(STEPS) + 2}] verify + resync ... ", end="", flush=True)
+        outcome = run_step("verify_release.py", "release verification", args.tests)
+        if outcome["returncode"] != 0:
+            print(f"FAILED (exit {outcome['returncode']})")
+            if outcome["stdout"]:
+                print(outcome["stdout"].rstrip())
+            if outcome["stderr"]:
+                print(outcome["stderr"].rstrip(), file=sys.stderr)
+            return outcome["returncode"]
+        second = sync_release_dir()
+        print(f"ok ({len(second['copied'])} copied)")
+        for name in second["copied"]:
+            print(f"    updated  {name}")
 
     print("\nAll steps completed. Next:")
     print("  python -m pytest tools/ -q")

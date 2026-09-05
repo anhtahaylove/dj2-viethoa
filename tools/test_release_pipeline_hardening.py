@@ -135,6 +135,47 @@ class FinalAcceptanceTests(unittest.TestCase):
             "shipped options.txt enables it",
         )
 
+    def test_publish_evidence_describes_the_artifacts_it_ships_beside(self):
+        """publish_verification.json is written by a hand-run, not by the chain.
+
+        publish_release.py copies the pack to the hosted paths and downloads it
+        back over HTTP, so it cannot run headless inside the chain. That left it
+        as the one synced evidence file nothing regenerates: it kept describing
+        an 1,869,550-byte client bundle after the bundle grew to 1,908,826, and
+        the sync step happily copied the stale report into release/ because a
+        byte-identical copy is all it checks.
+
+        Hash equality against build/ cannot catch this -- both copies are stale
+        together. Compare the report against the ZIPs instead.
+        """
+        release_dir = ROOT / "release" / "DJ2_Viet_Hoa_2.23.4"
+        report_path = release_dir / "publish_verification.json"
+        if not report_path.is_file():
+            self.skipTest("publish_verification.json has not been produced yet")
+        report = json.loads(report_path.read_text(encoding="utf-8"))
+        drift = []
+        for key, name in (
+            ("resource_pack", "DJ2_Viet_Hoa_2.23.4.zip"),
+            ("client_bundle", "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"),
+        ):
+            shipped = release_dir / name
+            if not shipped.is_file() or key not in report:
+                continue
+            payload = shipped.read_bytes()
+            if report[key].get("bytes") != len(payload):
+                drift.append(
+                    f"{key}: report says {report[key].get('bytes')} bytes, "
+                    f"{name} is {len(payload)}"
+                )
+            digest = hashlib.sha256(payload).hexdigest()
+            if report[key].get("sha256") not in (None, digest):
+                drift.append(f"{key}: report sha256 does not match {name}")
+        self.assertEqual(
+            [], drift,
+            "the publish record describes different artifacts than the ones "
+            f"shipped beside it, so re-run tools/publish_release.py: {drift}",
+        )
+
 
 class ReleasePipelineHardeningTests(unittest.TestCase):
     def test_client_bundle_uses_only_canonical_shared_inputs(self):
