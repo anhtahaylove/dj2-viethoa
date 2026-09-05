@@ -41,10 +41,15 @@ def main():
  m=re.search(r'(?m)^resource-pack=(.*)$',text)
  url=m.group(1).strip().replace('\\:',':') if m else ''
  http={}
- if url:
-  with urllib.request.urlopen(url,timeout=30) as response:
-   body=response.read();http={'status':response.status,'bytes':len(body),'sha1':hashlib.sha1(body).hexdigest()}
-  if http['status']!=200 or http['sha1']!=sha1:raise SystemExit('HTTP resource pack does not match')
+ if not url:
+  # The record's only measured field is this download. Writing the report with
+  # http={} would keep server_properties_sha1_matches=True and exit 0, so the
+  # file would still read as a successful publish while the proof that anyone
+  # can actually fetch the pack had been replaced by nothing. Refuse instead.
+  raise SystemExit('server.properties has no resource-pack URL, so the publish cannot be verified')
+ with urllib.request.urlopen(url,timeout=30) as response:
+  body=response.read();http={'status':response.status,'bytes':len(body),'sha1':hashlib.sha1(body).hexdigest()}
+ if http['status']!=200 or http['sha1']!=sha1:raise SystemExit('HTTP resource pack does not match')
  report={'resource_pack':{'path':str(PACK),'bytes':PACK.stat().st_size,'sha1':sha1,'sha256':sha256},'client_bundle':{'path':str(BUNDLE),'bytes':BUNDLE.stat().st_size,'sha1':digest(BUNDLE,'sha1'),'sha256':digest(BUNDLE,'sha256')},'published':[str(x) for x in TARGETS],'http':http,'server_properties_sha1_matches':True}
  (BUILD/'publish_verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
  print(json.dumps(report,ensure_ascii=False,indent=2))

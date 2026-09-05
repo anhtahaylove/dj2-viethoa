@@ -204,6 +204,27 @@ class FinalAcceptanceTests(unittest.TestCase):
                 "a run without --tests must carry the measured result forward",
             )
 
+    def test_publish_refuses_to_record_an_unverified_release(self):
+        """No resource-pack URL must abort, not write an empty http block.
+
+        The report's only measured field is the HTTP fetch. Writing it with
+        http={} kept server_properties_sha1_matches=True and exited 0, so the
+        record still read as a successful publish while the proof that the
+        pack is reachable had been silently replaced by nothing.
+        """
+        source = (ROOT / "tools" / "publish_release.py").read_text(encoding="utf-8")
+        self.assertIn(
+            "raise SystemExit('server.properties has no resource-pack URL",
+            source,
+            "publish must abort when it cannot verify the served pack",
+        )
+        guard = source.index("if not url:")
+        write = source.index("publish_verification.json")
+        self.assertLess(
+            guard, write,
+            "the guard must run before the record is written, not after",
+        )
+
 
 class ReleasePipelineHardeningTests(unittest.TestCase):
     def test_client_bundle_uses_only_canonical_shared_inputs(self):
