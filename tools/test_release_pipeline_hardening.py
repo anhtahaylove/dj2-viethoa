@@ -225,6 +225,26 @@ class FinalAcceptanceTests(unittest.TestCase):
             "the guard must run before the record is written, not after",
         )
 
+    def test_lang_gates_refuse_to_skip_an_unreadable_jar(self):
+        """A jar a gate cannot open must abort it, not shrink its evidence.
+
+        Both width gates compare against the official translations shipped
+        inside the mod jars. Swallowing the read error and continuing left
+        them green while quietly measuring against fewer jars than they
+        believed, which is the failure mode the whole audit kept finding.
+        """
+        for name in ("check_button_widths.py", "check_multiline_tooltips.py"):
+            source = (ROOT / "tools" / name).read_text(encoding="utf-8")
+            with self.subTest(gate=name):
+                self.assertNotIn(
+                    "except Exception:\n            continue", source,
+                    f"{name} must not skip jars it cannot read",
+                )
+                self.assertIn(
+                    "cannot read mod jar", source,
+                    f"{name} must name the jar it could not read",
+                )
+
 
 class ReleasePipelineHardeningTests(unittest.TestCase):
     def test_client_bundle_uses_only_canonical_shared_inputs(self):

@@ -92,10 +92,13 @@ def official_translations():
     """Every non-English .lang shipped inside the mod jars, keyed by lang key."""
     out = collections.defaultdict(dict)
     for jar in sorted(MODS.glob("*.jar")):
+        # A jar that will not open costs this gate every official translation
+        # inside it. Skipping quietly leaves the gate green while it silently
+        # compares against less than it thinks, so stop and name the file.
         try:
             z = zipfile.ZipFile(jar)
-        except Exception:
-            continue
+        except (zipfile.BadZipFile, OSError) as exc:
+            raise SystemExit(f"cannot read mod jar {jar.name}: {exc}") from exc
         for name in z.namelist():
             m = re.search(r"/lang/([a-z]{2}_[a-z]{2})\.lang$", name, re.I)
             if not m:
@@ -105,8 +108,8 @@ def official_translations():
                 continue
             try:
                 text = z.read(name).decode("utf-8", errors="replace")
-            except Exception:
-                continue
+            except (zipfile.BadZipFile, OSError) as exc:
+                raise SystemExit(f"cannot read {name} from {jar.name}: {exc}") from exc
             for key, value in parse_lang(text).items():
                 out[key].setdefault(code, value)
     return out

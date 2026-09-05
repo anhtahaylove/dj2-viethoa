@@ -89,10 +89,12 @@ def official_reference(width):
     samples = collections.Counter()
     source = {}
     for jar in sorted((INSTANCE / "mods").glob("*.jar")):
+        # Same reasoning as check_button_widths: a jar this gate cannot open
+        # is evidence it never measured, not evidence of nothing to measure.
         try:
             archive = zipfile.ZipFile(jar)
-        except Exception:
-            continue
+        except (zipfile.BadZipFile, OSError) as exc:
+            raise SystemExit(f"cannot read mod jar {jar.name}: {exc}") from exc
         with archive:
             for name in archive.namelist():
                 match = re.match(r"assets/([^/]+)/lang/([^/]+)\.lang$", name)
@@ -101,8 +103,8 @@ def official_reference(width):
                 namespace = match.group(1)
                 try:
                     text = archive.read(name).decode("utf-8", errors="replace")
-                except Exception:
-                    continue
+                except (zipfile.BadZipFile, OSError) as exc:
+                    raise SystemExit(f"cannot read {name} from {jar.name}: {exc}") from exc
                 for key, value in parse_lang(text).items():
                     if "\\n" not in value:
                         continue
