@@ -1,13 +1,20 @@
-# Full test suite on every push.
+# The tests that need nothing but this repository, on every push.
 #
-# Nothing here reads the local Divine Journey 2 install. The tools resolve mod
-# JARs under %APPDATA%/ElyPrismLauncher, but every test works from sources
-# already extracted into the repo -- verified by running the suite with APPDATA
-# pointed at a directory that does not exist: 215 passed, 0 skipped.
+# Not the whole suite, because most of it cannot run here. It is integration
+# work bound to a machine with the game installed: it reads the ZIP under
+# build/, the server pack extracted into %TEMP%, and the mod JARs in the
+# launcher instance. Rebuilding any of that needs the vanilla client jar for
+# font metrics, which no runner has. tools/conftest.py skips those tests when
+# build/ holds no pack, so a clean checkout reports skips instead of 40
+# failures and 14 collection errors that are all missing inputs.
 #
-# Windows, because the pack is built and shipped there and the bugs that
-# reached users were platform-specific: CRLF creep from write_text() and
-# cleanup failing on a file another process still holds open.
+# What still runs is everything that reads files tracked in git: format tokens
+# and colour codes, line endings, tier reports, cross-store conflicts, runtime
+# source extraction, and the pipeline invariants -- including the test pinning
+# measure_coverage.py after the builder whose ZIP it opens.
+#
+# Before a release, run the suite locally with the pack built; the skips turn
+# back into real assertions there.
 name: tests
 
 on:
@@ -17,7 +24,7 @@ on:
 jobs:
   suite:
     runs-on: windows-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -33,12 +40,11 @@ jobs:
       - name: Line endings
         run: python tools/check_line_endings.py
 
-      - name: Full suite
+      - name: Tests that read only tracked sources
         run: python -m pytest -q --no-header
 
-      # The suite must not leave scratch beside the release artifact. A build
-      # that failed on a locked ZIP used to skip its own cleanup and seed a
-      # .partial on every run; this fails the job if that returns.
+      # A build that failed on a locked ZIP used to skip its own cleanup and
+      # seed a .partial beside the release artifact on every run.
       - name: No scratch left behind
         shell: bash
         run: |

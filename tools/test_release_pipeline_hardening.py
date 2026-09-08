@@ -630,6 +630,40 @@ class ReadmeFigureTests(unittest.TestCase):
         self.assertLess(scripts.index("build_pack.py"),
                         scripts.index("measure_coverage.py"))
 
+    def test_the_artifact_skip_list_names_tests_that_exist(self):
+        """conftest.py skips by literal name; a rename must not silently stop it.
+
+        The names there decide what runs on a checkout with no built pack. A
+        stale entry skips nothing and the test fails in CI for a missing ZIP;
+        this catches the rename instead.
+        """
+        import conftest
+
+        source = (ROOT / "tools" / "test_release_pipeline_hardening.py").read_text(
+            encoding="utf-8"
+        )
+        defined = set(re.findall(r"def (test_\w+)\(", source))
+        listed = conftest.NEEDS_ARTIFACTS_TESTS
+        self.assertEqual(
+            listed - defined,
+            set(),
+            "conftest.NEEDS_ARTIFACTS_TESTS names tests that no longer exist",
+        )
+
+        modules = {p.stem for p in (ROOT / "tools").glob("test_*.py")}
+        self.assertEqual(
+            conftest.NEEDS_ARTIFACTS - modules,
+            set(),
+            "conftest.NEEDS_ARTIFACTS names modules that no longer exist",
+        )
+
+        classes = set(re.findall(r"^class (\w+)\(", source, re.MULTILINE))
+        self.assertEqual(
+            conftest.NEEDS_ARTIFACTS_CLASSES - classes,
+            set(),
+            "conftest.NEEDS_ARTIFACTS_CLASSES names classes that no longer exist",
+        )
+
     def test_the_tier_file_the_readme_quotes_is_built_by_the_chain(self):
         # missing_by_tier.json fed the README's per-tier table while only ever
         # being written by hand, so the tiers could describe a different wave

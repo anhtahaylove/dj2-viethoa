@@ -35,7 +35,15 @@ def _pages():
     return pages
 
 
-PAGES = _pages()
+# This module reads the built pack, and building it needs the vanilla client
+# jar for font metrics -- available on a workstation with the game installed,
+# not on CI. Skip there rather than erroring at import time, so the rest of
+# the suite still runs. Every other test works from sources in the repository.
+if PACK.exists():
+    PAGES = _pages()
+else:
+    PAGES = None
+    raise unittest.SkipTest(f"pack not built: {PACK}")
 
 
 def mask(char):
