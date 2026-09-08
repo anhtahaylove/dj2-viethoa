@@ -434,6 +434,18 @@ class ReleasePipelineHardeningTests(unittest.TestCase):
             pack.read_bytes(),
             "a refused rebuild must leave the previous artifact byte-identical",
         )
+        # The cleanup handler used to call drop_previous_artifact() before
+        # _discard_partials(). On this very path that call raises SystemExit a
+        # second time, so the scratch removal never ran and every suite run
+        # seeded .partial debris beside the shipped ZIP.
+        debris = sorted(
+            path.name
+            for path in (ROOT / "build").glob("*")
+            if "partial" in path.name
+        )
+        self.assertEqual(
+            debris, [], "a refused rebuild must not leave scratch copies behind"
+        )
 
     def test_publish_leaves_no_debris_when_the_host_holds_the_pack(self):
         """A refused publish must not drop a stray temp file in the served dir.

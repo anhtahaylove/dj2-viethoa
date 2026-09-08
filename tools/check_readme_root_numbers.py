@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+import subprocess
 import sys
 import zipfile
 from pathlib import Path
@@ -22,7 +23,10 @@ ROOT = Path(__file__).resolve().parents[1]
 DOC = ROOT / "README.md"
 COVERAGE = ROOT / "work" / "coverage_report.json"
 TIERS = ROOT / "work" / "missing_by_tier.json"
-ACCEPTANCE = ROOT / "release" / "DJ2_Viet_Hoa_2.23.4" / "FINAL_ACCEPTANCE_CURRENT.json"
+# Read the build/ copy: the chain writes it at step 8 and only syncs it into
+# release/ at step 11, AFTER this gate runs. Pointing at release/ here made
+# the gate judge the previous run and deadlock the chain against itself.
+ACCEPTANCE = ROOT / "build" / "FINAL_ACCEPTANCE_CURRENT.json"
 PACK = ROOT / "build" / "DJ2_Viet_Hoa_2.23.4.zip"
 
 
@@ -79,6 +83,22 @@ def expected() -> list[tuple[str, str, str]]:
     if match is None:
         raise SystemExit(f"cannot read pass count from tests field: {tests_field!r}")
     pytest_passed = int(match.group(1))
+
+    # This gate compares the README against the acceptance file, so a stale
+    # count in BOTH files keeps it green while both disagree with reality.
+    # Anchor the number to the suite itself: collect the real test count.
+    collected = subprocess.run(
+        [sys.executable, "-m", "pytest", "--collect-only", "-q"],
+        cwd=ROOT, capture_output=True, text=True,
+    )
+    found = re.search(r"(\d+) tests? collected", collected.stdout or "")
+    if found is None:
+        raise SystemExit("cannot collect the test suite to verify the count")
+    if int(found.group(1)) != pytest_passed:
+        raise SystemExit(
+            f"acceptance file says {pytest_passed} passed but the suite has "
+            f"{found.group(1)} tests; rerun pytest and refresh the evidence"
+        )
 
     return [
         ("coverage percent",

@@ -146,7 +146,11 @@ class BuildFailureSafetyTests(unittest.TestCase):
             build_pack.add_bitmap_font = explode
             try:
                 with self.assertRaises(RuntimeError):
-                    build_pack.build(output=output)
+                    # Keep the scratch tree in the temp dir as well: with no
+                    # explicit stage it defaults into the real build/, and
+                    # this test makes the build explode on purpose, so a
+                    # .partial- tree was left behind in the live output.
+                    build_pack.build(output=output, stage=Path(td) / "stage")
             finally:
                 build_pack.add_bitmap_font = original
 
@@ -268,7 +272,9 @@ class BuildPackTests(unittest.TestCase):
     def setUpClass(cls):
         cls._td = tempfile.TemporaryDirectory()
         cls._path = Path(cls._td.name) / "test.zip"
-        build_pack.build(output=cls._path)
+        # stage= must stay inside the temp dir: the default points into the
+        # real build/, so every suite run seeded a .partial- tree there.
+        build_pack.build(output=cls._path, stage=Path(cls._td.name) / "stage")
 
     @classmethod
     def tearDownClass(cls):

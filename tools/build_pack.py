@@ -352,12 +352,16 @@ def build(output=None, stage=None):
     try:
         code = _build_into(output, final_stage, stage)
     except BaseException:
-        drop_previous_artifact(output)
+        # Discard the scratch copies FIRST. drop_previous_artifact() raises
+        # SystemExit when another process holds the ZIP open, and that is a
+        # failure path we reach on purpose; running it first meant the retry
+        # raised out of the handler and left both scratches behind forever.
         _discard_partials(output, stage)
+        drop_previous_artifact(output)
         raise
     if code != 0:
-        drop_previous_artifact(output)
         _discard_partials(output, stage)
+        drop_previous_artifact(output)
     return code
 
 
