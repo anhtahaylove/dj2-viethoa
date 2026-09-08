@@ -9,16 +9,17 @@ space is a legal flag — which makes a naive regex read "50% slower" as the tok
 "% s". Excluding the space flag is what turns 22 phantom findings into 0.
 """
 import re
+import sys
 import zipfile
 from collections import defaultdict
 from pathlib import Path
 
-ROOT = Path(r'C:/huuhungn/huuhungn-PC/mc_server_pack/dj2-viethoa')
+ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / 'tools'))
+import instance_paths  # noqa: E402
+
 PACK = ROOT / 'build/DJ2_Viet_Hoa_2.23.4.zip'
-INSTANCE = Path(
-    r'C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher'
-    r'/instances/Divine Journey 2/minecraft'
-)
+INSTANCE = instance_paths.instance_dir()
 
 TOKEN = re.compile(r'%(?:\d+\$)?[-#+0,(]*\d*(?:\.\d+)?[sdfnbxeo%]')
 COLOUR = re.compile(r'§.')

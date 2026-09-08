@@ -115,34 +115,48 @@ _PROTECTED_INDEX_CACHE = {}
 
 
 def _protected_index(protected):
-    """Group protected terms by their first character.
+    """Group protected terms by their first two characters.
 
     Scanning all ~14k terms for every translated key cost ~33s of each build.
-    `term in s` can only hold when the term's first character occurs in `s`,
-    so grouping on that character keeps the test exact -- including the
-    substring matches (`Undercreep` inside `Undercreeps`) that a word-level
-    index would silently drop -- while skipping most of the list.
+    `term in s` can only hold when the term's opening characters occur in `s`,
+    so grouping on them keeps the test exact -- including the substring
+    matches (`Undercreep` inside `Undercreeps`) that a word-level index would
+    silently drop -- while skipping most of the list.
+
+    Two characters rather than one: the busiest single letter holds 1505 of
+    the terms, a bigram 525, and the leftover `term in s` calls were still the
+    largest cost in the chain. Terms shorter than two characters cannot be
+    keyed this way, so they stay in a list that is always scanned; there are
+    none today, and one would otherwise vanish from the check.
     """
     key = id(protected)
     cached = _PROTECTED_INDEX_CACHE.get(key)
     if cached is not None and cached[0] is protected:
-        return cached[1]
+        return cached[1], cached[2]
     index = {}
+    short = []
     for term in protected:
-        if term:
-            index.setdefault(term[0], []).append(term)
-    _PROTECTED_INDEX_CACHE[key] = (protected, index)
-    return index
+        if len(term) >= 2:
+            index.setdefault(term[:2], []).append(term)
+        elif term:
+            short.append(term)
+    _PROTECTED_INDEX_CACHE[key] = (protected, index, short)
+    return index, short
 
 
 def _protected_candidates(protected, source):
     """Every protected term that occurs in `source`, exactly as `in` would find it."""
     if not protected:
         return ()
-    index = _protected_index(protected)
-    hits = []
-    for first in set(source):
-        bucket = index.get(first)
+    index, short = _protected_index(protected)
+    hits = [term for term in short if term in source]
+    seen = set()
+    for position in range(len(source) - 1):
+        bigram = source[position:position + 2]
+        if bigram in seen:
+            continue
+        seen.add(bigram)
+        bucket = index.get(bigram)
         if bucket:
             hits.extend(term for term in bucket if term in source)
     return hits

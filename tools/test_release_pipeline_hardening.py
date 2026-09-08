@@ -691,6 +691,14 @@ class ReadmeFigureTests(unittest.TestCase):
                 text,
             )
 
+        # The index is keyed on two characters, so a one-character term has no
+        # bucket to live in and would drop out of the check entirely. None are
+        # in the corpus today, which is exactly why nothing else would notice.
+        self.assertEqual(
+            set(validate_lang._protected_candidates({"Q"}, "a Q drive")),
+            {"Q"},
+        )
+
     def test_the_artifact_skip_list_matches_what_actually_needs_artifacts(self):
         """The list must follow the code, not the other way round.
 

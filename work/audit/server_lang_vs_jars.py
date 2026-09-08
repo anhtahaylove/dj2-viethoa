@@ -5,14 +5,17 @@ Both can drift from the client, so this checks the server's jars against the
 server's pack rather than assuming the client audit covers it.
 """
 import re
+import sys
 import zipfile
 from collections import defaultdict
 from pathlib import Path
 
-SERVER = Path(r'C:/huuhungn/huuhungn-PC/mc_server_pack/Divine_Journey_2.23.4_Server_Pack')
-CLIENT_PACK = Path(
-    r'C:/huuhungn/huuhungn-PC/mc_server_pack/dj2-viethoa/build/DJ2_Viet_Hoa_2.23.4.zip'
-)
+ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / 'tools'))
+import instance_paths  # noqa: E402
+
+SERVER = ROOT.parent / 'Divine_Journey_2.23.4_Server_Pack'
+CLIENT_PACK = ROOT / 'build/DJ2_Viet_Hoa_2.23.4.zip'
 
 TOKEN = re.compile(r'%(?:\d+\$)?[-#+0,(]*\d*(?:\.\d+)?[sdfnbxeo%]')
 COLOUR = re.compile(r'§.')
@@ -113,10 +116,7 @@ print(f'SHA-1 client pack: {client_sha}')
 print(f'Giong nhau: {"CO" if server_sha == client_sha else "KHONG"}')
 
 # Are the server's jars the same set as the client's?
-client_mods = Path(
-    r'C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher'
-    r'/instances/Divine Journey 2/minecraft/mods'
-)
+client_mods = instance_paths.mods_dir()
 server_names = {p.name for p in (SERVER / 'mods').glob('*.jar')}
 client_names = {p.name for p in client_mods.glob('*.jar')}
 only_server = sorted(server_names - client_names)

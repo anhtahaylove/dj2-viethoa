@@ -27,6 +27,20 @@ for gate in check_line_endings check_readme_numbers check_readme_root_numbers; d
     fi
 done
 
+# The protected-term index is an exactness claim, not a preference: `validate`
+# skips most of the ~14k terms per string, and a wrong index drops real errors
+# silently rather than failing. These two tests replay it over the tracked
+# stores in under a second and need no mod JARs, so they belong here with the
+# gates above rather than only in the 3-minute suite.
+INDEX_TESTS="tools/test_release_pipeline_hardening.py"
+if [ -f "$INDEX_TESTS" ] && "$PY" -c "import pytest" 2>/dev/null; then
+    if ! out="$("$PY" -m pytest "$INDEX_TESTS" -q --no-header \
+                    -k protected_term_index 2>&1)"; then
+        printf "pre-commit: protected term index FAILED\n%s\n" "$out" >&2
+        fail=1
+    fi
+fi
+
 if [ "$fail" -ne 0 ]; then
     echo "" >&2
     echo "Commit blocked. Fix the gate above, or pass --no-verify to skip." >&2
