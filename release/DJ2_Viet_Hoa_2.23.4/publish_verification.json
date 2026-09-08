@@ -1,15 +1,15 @@
 {
   "resource_pack": {
     "path": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\build\\DJ2_Viet_Hoa_2.23.4.zip",
-    "bytes": 1937712,
-    "sha1": "142ee905006bc2bf437acf9cde86c81ec3b168cb",
-    "sha256": "12ffe68566d824119773030553ea5671ee7455d75350b6aed2ebf91e015518f8"
+    "bytes": 1937806,
+    "sha1": "1314e52522dcf841de7c73204bdb310f2a4120c7",
+    "sha256": "6a13fc137e0958889ec7bf0ce653c333e0023e4c551391753cc1dcc6aae85a43"
   },
   "client_bundle": {
     "path": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\build\\DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip",
-    "bytes": 1910731,
-    "sha1": "85f58e6647b4a11963816b5d7ea66fbc884e9175",
-    "sha256": "726164de11929358d6dfc60831db33a805a91c5783c517db0a39508d1228cf52"
+    "bytes": 1910833,
+    "sha1": "2c06df6fea67fb0571a4de0d273169c158d99cdd",
+    "sha256": "ccfc3c9631cdd353770d63825b038fecc9c15cb2adad589fe377fa5d642b0e16"
   },
   "published": [
     "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\Divine_Journey_2.23.4_Server_Pack\\resourcepack\\DJ2_Viet_Hoa_2.23.4.zip",
@@ -17,8 +17,8 @@
   ],
   "http": {
     "status": 200,
-    "bytes": 1937712,
-    "sha1": "142ee905006bc2bf437acf9cde86c81ec3b168cb"
+    "bytes": 1937806,
+    "sha1": "1314e52522dcf841de7c73204bdb310f2a4120c7"
   },
   "server_properties_sha1_matches": true
 }

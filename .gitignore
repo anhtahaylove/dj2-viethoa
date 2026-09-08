@@ -31,6 +31,8 @@ __pycache__/
 /work/elyprism-effective-ui-gaps.json
 /work/session-home-dj2-hits.json
 /work/identical_english_audit.json
+/work/audit/thaumcraft_fix_drift.json
+/work/audit/thaumcraft_fix_reword.json
 
 # Poster art is a rebuildable ~1MB binary; font PNGs stay as release evidence
 release/**/*Poster*.png

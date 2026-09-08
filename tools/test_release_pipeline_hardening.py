@@ -535,6 +535,66 @@ class SharedSourceCoverageTests(unittest.TestCase):
     # rather than shipped whole, and the manifest describes the source tree.
     NOT_SHIPPED_WHOLE = {"SOURCE_MANIFEST.json", "config/ftbutilities.cfg"}
 
+    # Stores that still hold text no jar ships: the mod updated its wording and
+    # the store was never resynced. Pre-existing debt, measured here so it can
+    # only shrink. thaumcraft is deliberately absent -- it was resynced, and a
+    # regression there means the harvest order broke again.
+    SOURCE_DRIFT_BUDGET = {
+        "abyssalcraft": 6, "actuallyadditions": 6, "astralsorcery": 1,
+        "bloodmagic": 4, "botania": 46, "draconicevolution": 4, "evilcraft": 2,
+        "galacticraftcore": 1, "immersiveengineering": 2, "mekanism": 5,
+        "modularmachinery": 1, "projecte": 2, "reccomplex": 1, "roots": 5,
+        "solarflux": 1, "wailaharvestability": 2,
+    }
+
+    def test_no_source_drifts_further_from_the_jar_than_its_budget(self):
+        """A rewritten source file must not quietly normalise its values.
+
+        parse_lang keeps trailing spaces verbatim because the game does: a
+        research page ending "...and Warp. " runs into the next sentence
+        without that space. Rewriting the thaumcraft store to resync it
+        dropped the trailing space on 19 keys, and nothing caught it -- the
+        pack still built, every gate stayed green, and the audit read the
+        now-shorter source as correct while the translation was "fixed" to
+        match the damage. Compare against the jars, which are the authority.
+        """
+        extract = load_module("extract_runtime_sources",
+                              ROOT / "tools" / "extract_runtime_sources.py")
+        instance = load_module("instance_paths", ROOT / "tools" / "instance_paths.py")
+        try:
+            mods = instance.mods_dir()
+        except Exception:
+            self.skipTest("game install not resolvable on this machine")
+        if not mods.exists():
+            self.skipTest(f"mods dir missing: {mods}")
+
+        harvested = extract.harvest_jars(mods)
+        sources = ROOT / "work" / "runtime_locale_sources"
+        drift = {}
+        for path in sorted(sources.glob("*.lang")):
+            jar_values = harvested.get(path.stem.lower())
+            if not jar_values:
+                continue
+            count = sum(
+                1 for key, value in extract.parse_lang(
+                    path.read_text(encoding="utf-8")).items()
+                if key in jar_values and jar_values[key] != value
+            )
+            if count:
+                drift[path.stem] = count
+
+        worse = {
+            ns: n for ns, n in drift.items()
+            if n > self.SOURCE_DRIFT_BUDGET.get(ns, 0)
+        }
+        self.assertEqual({}, worse, "source drifted further from the jars")
+        # A budget that overshoots hides a fix; tighten it when debt is paid.
+        stale = {
+            ns: budget for ns, budget in self.SOURCE_DRIFT_BUDGET.items()
+            if budget > drift.get(ns, 0)
+        }
+        self.assertEqual({}, stale, "drift budget is now too generous; lower it")
+
     def test_a_later_jar_overrides_an_earlier_one_in_the_same_namespace(self):
         """Harvesting must resolve a shared namespace the way the game does.
 
