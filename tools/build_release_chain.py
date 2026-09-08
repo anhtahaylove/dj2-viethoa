@@ -47,12 +47,17 @@ STEPS = (
     # Coverage first: it regenerates work/coverage_report.json from the stores,
     # so the numbers quoted in the README and the acceptance record describe the
     # artifacts built below.
+    ("build_pack.py", "resource pack"),
+    # measure_coverage.py opens build/DJ2_Viet_Hoa_2.23.4.zip, which
+    # build_pack.py writes. Running it first measured the PREVIOUS run's
+    # pack: harmless while the pack was stable, but a stale or half-written
+    # ZIP put wrong totals into work/coverage_report.json and the README
+    # gates below then failed against numbers no source change explained.
     ("measure_coverage.py", "coverage report"),
     # tier_missing.py writes work/missing_by_tier.json, which the README gate
     # reads for its per-tier table. It used to run only by hand, so the tier
     # counts could describe a different wave than the coverage totals above.
     ("tier_missing.py", "untranslated tiers"),
-    ("build_pack.py", "resource pack"),
     ("build_client_overlays.py", "client overlays"),
     ("build_client_bundle.py", "client bundle"),
     ("build_server_overlay.py", "server overlay"),

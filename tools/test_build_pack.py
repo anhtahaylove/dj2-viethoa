@@ -1559,8 +1559,13 @@ class BuildPackTests(unittest.TestCase):
         try:
             self.assertEqual(first.read_bytes(), second.read_bytes())
         finally:
-            first_td.cleanup()
-            second_td.cleanup()
+            # Clean the second even if the first raises: on Windows a
+            # cleanup can fail on a handle another process still holds,
+            # and the later temp dir would then leak on every run.
+            try:
+                first_td.cleanup()
+            finally:
+                second_td.cleanup()
 
 
 if __name__ == "__main__":

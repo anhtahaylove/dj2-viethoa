@@ -620,6 +620,16 @@ class ReadmeFigureTests(unittest.TestCase):
         self.assertLess(scripts.index("tier_missing.py"),
                         scripts.index("check_readme_numbers.py"))
 
+    def test_coverage_is_measured_after_the_pack_it_reads_is_built(self):
+        # measure_coverage.py opens the built ZIP. Running it before
+        # build_pack.py measured the previous run's pack, so a stale or
+        # half-written archive wrote wrong totals into coverage_report.json
+        # and the README gates failed against figures no source change
+        # explained (namespaces 169 -> 153, coverage 84,1% -> 71,8%).
+        scripts = [script for script, _ in release_chain_test.STEPS]
+        self.assertLess(scripts.index("build_pack.py"),
+                        scripts.index("measure_coverage.py"))
+
     def test_the_tier_file_the_readme_quotes_is_built_by_the_chain(self):
         # missing_by_tier.json fed the README's per-tier table while only ever
         # being written by hand, so the tiers could describe a different wave

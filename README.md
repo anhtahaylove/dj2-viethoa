@@ -109,7 +109,7 @@ Font mặc định của Minecraft không có dấu tiếng Việt. Gói này k�
 | Dòng đã ship | 35.519 dòng, 169 mod |
 | Nợ dịch ưu tiên cao (T1) | **0** |
 | Còn lại | 270 nhãn giao diện phụ, 189 màn hình cấu hình, 547 chuỗi lẻ |
-| pytest | **214 passed**, 2 subtests |
+| pytest | **215 passed**, 2 subtests |
 | Gate build / EOL / verify | tất cả exit 0 |
 
 </div>
@@ -148,6 +148,23 @@ sẽ làm build **fail** — không có ngoại lệ ngầm.
 
 **Nguyên tắc kiểm tra:** thiếu dữ liệu để kiểm thì gate phải *fail*, không được
 coi "không tìm thấy lỗi" là "không có lỗi".
+
+**Thứ tự các bước có ý nghĩa.** `measure_coverage.py` mở ZIP do `build_pack.py`
+dựng, nên nó phải chạy *sau*. Trước đây nó chạy trước và đo pack của lần build
+trước — vô hại khi pack ổn định, nhưng một ZIP cũ hoặc ghi dở sẽ đẩy số sai vào
+báo cáo, rồi gate README fail với những con số không thay đổi nguồn nào giải
+thích được. Một test khoá ràng buộc này lại.
+
+**Kiểm tra tự động.** Cài hook chạy các gate nhanh trước mỗi commit:
+
+```bash
+git config core.hooksPath .githooks
+```
+
+Hook chạy trong vài giây (line endings, số liệu README) và chặn commit nếu
+lệch; `git commit --no-verify` để bỏ qua có chủ đích. Toàn bộ suite chạy trên
+GitHub Actions ở mỗi lần push (`.github/workflows/tests.yml`), kèm một bước
+kiểm `build/` không còn scratch sau khi test xong.
 
 </details>
 

@@ -1,0 +1,50 @@
+# Full test suite on every push.
+#
+# Nothing here reads the local Divine Journey 2 install. The tools resolve mod
+# JARs under %APPDATA%/ElyPrismLauncher, but every test works from sources
+# already extracted into the repo -- verified by running the suite with APPDATA
+# pointed at a directory that does not exist: 215 passed, 0 skipped.
+#
+# Windows, because the pack is built and shipped there and the bugs that
+# reached users were platform-specific: CRLF creep from write_text() and
+# cleanup failing on a file another process still holds open.
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  suite:
+    runs-on: windows-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Everything else is standard library.
+      - name: Install test dependencies
+        run: python -m pip install --disable-pip-version-check pytest Pillow
+
+      - name: Line endings
+        run: python tools/check_line_endings.py
+
+      - name: Full suite
+        run: python -m pytest -q --no-header
+
+      # The suite must not leave scratch beside the release artifact. A build
+      # that failed on a locked ZIP used to skip its own cleanup and seed a
+      # .partial on every run; this fails the job if that returns.
+      - name: No scratch left behind
+        shell: bash
+        run: |
+          found=$(ls -a build/ 2>/dev/null | grep -i partial || true)
+          if [ -n "$found" ]; then
+            echo "the suite left scratch in build/:" >&2
+            echo "$found" >&2
+            exit 1
+          fi
