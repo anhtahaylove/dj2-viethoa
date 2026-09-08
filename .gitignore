@@ -34,3 +34,9 @@ __pycache__/
 
 # Poster art is a rebuildable ~1MB binary; font PNGs stay as release evidence
 release/**/*Poster*.png
+
+# Credentials — never tracked. RCON password lives here.
+/work/secrets/
+
+# server.properties snapshots taken before edits (contain rcon password)
+/work/server-properties-backups/
