@@ -32,10 +32,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / "work/runtime_locale_sources"
-from instance_paths import mods_dir
-
-# Absent on a machine without the game; the callers that need it say so.
-INSTANCE_MODS = mods_dir(required=False) or Path("mods-not-installed")
+INSTANCE_MODS = Path(
+    "C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher/instances/"
+    "Divine Journey 2/minecraft/mods"
+)
 
 LANG_PATH = re.compile(r"^assets/([^/]+)/lang/en_us\.lang$", re.IGNORECASE)
 

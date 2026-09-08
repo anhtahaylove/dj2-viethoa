@@ -16,6 +16,34 @@ AMP = re.compile(r"&[0-9a-fk-orA-FK-OR]")
 # a stray CJK glyph is machine-translation debris ("làm môi介质 cho"), and
 # anything above the BMP has no glyph at all and renders as a white box.
 CJK_RANGES = ((0x3040, 0x30FF), (0x3400, 0x9FFF), (0xAC00, 0xD7AF))
+# Vietnamese and Latin text sits far below the first CJK range, so one
+# comparison against this bound skips the per-range scan for almost every
+# character. Keep it equal to the lowest CJK_RANGES start.
+_CJK_FLOOR = min(lo for lo, _ in CJK_RANGES)
+# Scanning every character in Python cost ~40s of each build. str.translate
+# runs the same test in C: map every suspect code point to None (a no-op for
+# translate) so a string with none of them returns unchanged, and only the
+# rare hit pays for the per-character loop below.
+_SUSPECT = dict.fromkeys(
+    [c for lo, hi in CJK_RANGES for c in range(lo, hi + 1)]
+)
+
+
+def _has_suspect_char(text):
+    """True when text may hold a CJK or non-BMP character.
+
+    A false positive costs one slow scan; a false negative would drop a real
+    error, so the test must stay at least as wide as the loop it guards.
+    Non-BMP characters are surrogate-free above 0xFFFF, and every one of them
+    is non-ASCII, so the ASCII shortcut is safe for both classes.
+    """
+    if text.isascii():
+        return False
+    if text.translate(_SUSPECT) != text:
+        return True
+    # A non-BMP character is the only thing that makes UTF-16 need two code
+    # units for one character, so this length comparison finds them in C.
+    return len(text.encode("utf-16-le")) != 2 * len(text)
 LOOKS_LIKE_KEY = re.compile(r"[a-z0-9_]+(\.[a-zA-Z0-9_]+){2,}")
 VN_DIACRITIC = re.compile(
     r"[ăâđêôơưĂÂĐÊÔƠƯáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]",
@@ -83,6 +111,43 @@ PROTECTED_TERM_EXEMPT_KEYS = {
 }
 
 
+_PROTECTED_INDEX_CACHE = {}
+
+
+def _protected_index(protected):
+    """Group protected terms by their first character.
+
+    Scanning all ~14k terms for every translated key cost ~33s of each build.
+    `term in s` can only hold when the term's first character occurs in `s`,
+    so grouping on that character keeps the test exact -- including the
+    substring matches (`Undercreep` inside `Undercreeps`) that a word-level
+    index would silently drop -- while skipping most of the list.
+    """
+    key = id(protected)
+    cached = _PROTECTED_INDEX_CACHE.get(key)
+    if cached is not None and cached[0] is protected:
+        return cached[1]
+    index = {}
+    for term in protected:
+        if term:
+            index.setdefault(term[0], []).append(term)
+    _PROTECTED_INDEX_CACHE[key] = (protected, index)
+    return index
+
+
+def _protected_candidates(protected, source):
+    """Every protected term that occurs in `source`, exactly as `in` would find it."""
+    if not protected:
+        return ()
+    index = _protected_index(protected)
+    hits = []
+    for first in set(source):
+        bucket = index.get(first)
+        if bucket:
+            hits.extend(term for term in bucket if term in source)
+    return hits
+
+
 def validate(src, tgt, protected, source_duplicates=(), target_duplicates=()):
     errors = []
     for key, lineno in source_duplicates:
@@ -108,8 +173,8 @@ def validate(src, tgt, protected, source_duplicates=(), target_duplicates=()):
         for url in URL.findall(s):
             if url not in t:
                 errors.append(Err("URL_LOST", key, f"mất link: {url}"))
-        for term in protected:
-            if term in s and term not in t:
+        for term in _protected_candidates(protected, s):
+            if term not in t:
                 if key in PROTECTED_TERM_EXEMPT_KEYS:
                     continue
                 errors.append(Err("PROTECTED_TERM", key, f"tên riêng/item bị đổi: {term!r}"))
@@ -145,8 +210,10 @@ def validate(src, tgt, protected, source_duplicates=(), target_duplicates=()):
             )
         # Ký tự CJK là rác dịch máy, không bao giờ là chủ ý; ngoài BMP thì
         # font không có glyph nên hiện ra ô vuông trắng.
-        for ch in t:
+        for ch in t if _has_suspect_char(t) else ():
             point = ord(ch)
+            if point < _CJK_FLOOR:
+                continue
             if any(lo <= point <= hi for lo, hi in CJK_RANGES):
                 errors.append(Err("CJK_CHAR", key, f"ký tự CJK: {ch!r}"))
                 break

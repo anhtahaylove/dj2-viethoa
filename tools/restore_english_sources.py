@@ -41,9 +41,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / "work/runtime_locale_sources"
-from instance_paths import instance_dir
-
-INSTANCE = instance_dir(required=False) or Path("instance-not-installed")
+INSTANCE = Path(
+    "C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher/instances/"
+    "Divine Journey 2/minecraft"
+)
 MODS = INSTANCE / "mods"
 RESOURCES = INSTANCE / "resources"
 

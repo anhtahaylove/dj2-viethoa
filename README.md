@@ -110,7 +110,7 @@ Font mặc định của Minecraft không có dấu tiếng Việt. Gói này k�
 | Dòng đã ship | 35.519 dòng, 169 mod |
 | Nợ dịch ưu tiên cao (T1) | **0** |
 | Còn lại | 270 nhãn giao diện phụ, 189 màn hình cấu hình, 547 chuỗi lẻ |
-| pytest | **217 passed**, 2 subtests |
+| pytest | **219 passed**, 2 subtests |
 | Gate build / EOL / verify | tất cả exit 0 |
 
 </div>
@@ -149,6 +149,25 @@ sẽ làm build **fail** — không có ngoại lệ ngầm.
 
 **Nguyên tắc kiểm tra:** thiếu dữ liệu để kiểm thì gate phải *fail*, không được
 coi "không tìm thấy lỗi" là "không có lỗi".
+
+**Nếu bản cài đặt game của bạn nằm chỗ khác.** `build_pack.py` đọc file JAR
+vanilla để lấy số đo font, nên nó cần biết launcher ở đâu. Mặc định nó tìm
+ElyPrism, Prism rồi MultiMC ở vị trí thông thường của hệ điều hành. Không thấy
+thì nó dừng và **liệt kê những thư mục đã thử** — không đoán ngầm. Chỉ đường
+bằng biến môi trường:
+
+```bash
+# cách 1: trỏ tới thư mục launcher, các đường dẫn còn lại tự suy ra
+export DJ2_LAUNCHER="/d/Games/PrismLauncher"
+
+# cách 2: trỏ thẳng từng thứ, dùng khi bố cục thư mục không theo chuẩn
+export DJ2_INSTANCE="/d/Games/instances/Divine Journey 2/minecraft"
+export DJ2_CLIENT_JAR="/d/Games/libs/minecraft-1.12.2-client.jar"
+```
+
+Tên instance mặc định là `Divine Journey 2`; thư mục game bên trong có thể là
+`minecraft` (ElyPrism) hoặc `.minecraft` (Prism, MultiMC) — cả hai đều được
+chấp nhận.
 
 **Thứ tự các bước có ý nghĩa.** `measure_coverage.py` mở ZIP do `build_pack.py`
 dựng, nên nó phải chạy *sau*. Trước đây nó chạy trước và đo pack của lần build

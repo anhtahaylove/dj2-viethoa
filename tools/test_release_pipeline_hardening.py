@@ -631,6 +631,66 @@ class ReadmeFigureTests(unittest.TestCase):
         self.assertLess(scripts.index("build_pack.py"),
                         scripts.index("measure_coverage.py"))
 
+    def test_the_protected_term_index_finds_what_a_full_scan_finds(self):
+        """The fast path must agree with `term in source` on real pack text.
+
+        Scanning all ~14k protected terms per key cost ~40s of every build, so
+        `validate` now groups terms by first character. The index is only sound
+        while it stays *exact*: an earlier word-level version was 5x faster and
+        silently dropped 58 keys, because `term in source` also matches inside
+        a word (`Undercreep` in `Undercreeps`) and across a colour code.
+        """
+        import json
+
+        sys.path.insert(0, str(ROOT / "tools"))
+        try:
+            import build_pack
+            import validate_lang
+        finally:
+            sys.path.pop(0)
+        protected = build_pack.PROTECTED
+        self.assertGreater(len(protected), 1000, "protected term list looks empty")
+
+        sources = sorted((ROOT / "work" / "runtime_locale_sources").glob("*.lang"))
+        self.assertTrue(sources, "no runtime locale sources to compare against")
+
+        compared = 0
+        for source_path in sources:
+            translated = ROOT / "work" / "translated" / f"{source_path.stem}.json"
+            if not translated.exists():
+                continue
+            entries, _ = build_pack.load_lang(source_path)
+            target = json.loads(translated.read_text(encoding="utf-8"))
+            for key, text in entries.items():
+                if key not in target:
+                    continue
+                compared += 1
+                self.assertEqual(
+                    set(validate_lang._protected_candidates(protected, text)),
+                    {term for term in protected if term in text},
+                    f"the index and a full scan disagree on {key}",
+                )
+        self.assertGreater(compared, 100, "compared too few strings to be meaningful")
+
+    def test_the_protected_term_index_survives_a_colour_code_and_a_word_prefix(self):
+        """Two shapes that a word-level index gets wrong, pinned by hand."""
+        sys.path.insert(0, str(ROOT / "tools"))
+        try:
+            import validate_lang
+        finally:
+            sys.path.pop(0)
+        protected = {"Electrotine Ore", "Undercreep", "Hang Glider"}
+        for text, expected in (
+            ("\u00a7rto summon a Meteor containing \u00a73Electrotine Ore\u00a7r.", {"Electrotine Ore"}),
+            ("\u00a7fDropped by Undercreeps in the Underworld.", {"Undercreep"}),
+            ("plain text with none of them", set()),
+        ):
+            self.assertEqual(
+                set(validate_lang._protected_candidates(protected, text)),
+                expected,
+                text,
+            )
+
     def test_the_artifact_skip_list_matches_what_actually_needs_artifacts(self):
         """The list must follow the code, not the other way round.
 
