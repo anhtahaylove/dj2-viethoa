@@ -1,5 +1,7 @@
 # DJ2 Việt hóa 2.23.4
 
+![Divine Journey 2 Việt hóa 2.23.4](https://raw.githubusercontent.com/anhtahaylove/dj2-viethoa/master/docs/poster.png)
+
 Bản Việt hóa cho **Divine Journey 2 v2.23.4** (Minecraft 1.12.2).
 
 Bản này ngoài phần dịch còn **sửa một lỗi công thức nung** khiến quặng đào ở
@@ -95,6 +97,8 @@ thế giới của modpack này.
 - Font Việt vẽ riêng, dấu rõ ở cỡ chữ nhỏ
 - Mẹo màn hình chờ, bảng thông tin khi ngắm khối, giao diện JEI
 - Trọn bộ Tinkers' Construct: mô tả công cụ, modifier, vật liệu
+
+![Bảng dấu tiếng Việt trong font](https://raw.githubusercontent.com/anhtahaylove/dj2-viethoa/master/docs/font_tone_marks.png)
 
 Độ phủ **84,1%** trên 27.075 dòng thực sự cần dịch.
 
