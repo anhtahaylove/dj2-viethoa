@@ -9,16 +9,16 @@
       "sha256": "9c590af7744075785f48c1be777533f2411c6ef5bf4704876228d1b3f1fa8924"
     },
     "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip": {
-      "bytes": 1908826,
-      "entries": 71,
-      "sha1": "06ac7357d4942aead11b455ea8167424ba7ae362",
-      "sha256": "3248eb1c14347961feafee2ff93248c3bd884a351844affeca1539f2188c2b84"
+      "bytes": 1909725,
+      "entries": 72,
+      "sha1": "4a540c984180cf1b5cbee319ceb084f4054def32",
+      "sha256": "da5627c6e8fd0729911ffb85f5358f985509aa6599d13c612396472a8c6ab6d6"
     },
     "DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip": {
-      "bytes": 1847553,
-      "entries": 8,
-      "sha1": "3a79e1cd19e8ebd6f1d77bf2523705675db0ce85",
-      "sha256": "65082404c0ecbada1f3b61c991834b487d663fed3e0ae7209a786cf18f68f20e"
+      "bytes": 1848500,
+      "entries": 9,
+      "sha1": "874ce648e9da47528ebf346706e69006b9602a4a",
+      "sha256": "40914b214d34fe3a07487db8377add1e7317967066c97ffa66105ed6bee487c4"
     }
   },
   "verification": {

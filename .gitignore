@@ -14,6 +14,7 @@
 /work/backup_*/
 /work/server-overlay-backups/
 /work/client-overlay-backups/
+/work/quark-config-backups/
 /work/*.zip
 
 # Hermes session transcripts and agent scratch — not project source

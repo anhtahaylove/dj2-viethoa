@@ -19,6 +19,8 @@ SERVER_SCRIPT_OVERLAYS = (
     # printed the biome counter in English while multiplayer printed Vietnamese.
     "scripts/ModSpecific/ContentTweakerRecipes.zs",
     "scripts/Unique/HandFramingUses.zs",
+    # Restores furnace smelting for copper ores the pack unification misses.
+    "scripts/Unique/FixCopperOreSmelting.zs",
 )
 OUTPUT = BUILD / "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip"
 
@@ -40,6 +42,7 @@ Cấu trúc sẽ tự vào:
 - scripts/ContentTweaker/ContentTweakerItems.zs
 - scripts/ModSpecific/ContentTweakerRecipes.zs
 - scripts/Unique/HandFramingUses.zs
+- scripts/Unique/FixCopperOreSmelting.zs
 
 Sau khi giải nén, giao diện chính, ngôn ngữ mặc định, resource pack mặc định,
 MOTD/TPA và các lớp script Việt hóa sẽ được đồng bộ. Gói không thay đổi quest progression,

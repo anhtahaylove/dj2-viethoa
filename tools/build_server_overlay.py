@@ -18,6 +18,7 @@ SHARED_ENTRIES = (
     "scripts/ContentTweaker/ContentTweakerItems.zs",
     "scripts/ModSpecific/ContentTweakerRecipes.zs",
     "scripts/Unique/HandFramingUses.zs",
+    "scripts/Unique/FixCopperOreSmelting.zs",
 )
 ALLOWED_ENTRIES = (*SHARED_ENTRIES, "resourcepack/DJ2_Viet_Hoa_2.23.4.zip", "SERVER_OVERLAY_MANIFEST.json", "HUONG_DAN_SERVER.txt")
 

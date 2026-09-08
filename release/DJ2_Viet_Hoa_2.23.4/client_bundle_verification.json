@@ -1,8 +1,8 @@
 {
   "file": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\build\\DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip",
-  "bytes": 1908826,
-  "sha1": "06ac7357d4942aead11b455ea8167424ba7ae362",
-  "sha256": "3248eb1c14347961feafee2ff93248c3bd884a351844affeca1539f2188c2b84",
+  "bytes": 1909725,
+  "sha1": "4a540c984180cf1b5cbee319ceb084f4054def32",
+  "sha256": "da5627c6e8fd0729911ffb85f5358f985509aa6599d13c612396472a8c6ab6d6",
   "entries": [
     "HUONG_DAN_CAI_DAT.txt",
     "config/CustomMainMenu/mainmenu.json",
@@ -74,6 +74,7 @@
     "scripts/ContentTweaker/ContentTweakerItems.zs",
     "scripts/JEI/Excavator.zs",
     "scripts/ModSpecific/ContentTweakerRecipes.zs",
+    "scripts/Unique/FixCopperOreSmelting.zs",
     "scripts/Unique/HandFramingUses.zs"
   ]
 }
