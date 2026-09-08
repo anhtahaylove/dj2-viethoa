@@ -47,6 +47,92 @@ class BuildFailureSafetyTests(unittest.TestCase):
     removed up front, before any work that can fail.
     """
 
+    def test_build_keeps_the_previous_pack_readable_until_it_is_replaced(self):
+        """A build in progress must never blank out the live pack tree.
+
+        The tests that assert against the built pack read
+        `build/DJ2_Viet_Hoa_*/assets/...`. When build() deleted that tree up
+        front and repopulated it over the next four minutes, a concurrent
+        reader saw an empty or half-written pack, so those tests failed with
+        "aspect keys regressed" and "totemic lost UI keys" -- failures that
+        disappeared on a re-run because nothing was actually wrong with the
+        pack. Staging into a `.partial` sibling keeps the previous complete
+        pack in place until the new one replaces it in a single step.
+        """
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            output = root / "pack.zip"
+            stage = root / "PackTree"
+            marker = stage / "assets" / "thaumcraft" / "lang" / "vi_vn.lang"
+            marker.parent.mkdir(parents=True)
+            marker.write_text("tc.aspect.previous=Bản cũ hoàn chỉnh\n", encoding="utf-8")
+            previous = marker.read_text(encoding="utf-8")
+
+            seen = []
+
+            original = build_pack.add_bitmap_font
+
+            def observe(*args, **kwargs):
+                # Mid-build: whatever a concurrent reader can see right now.
+                seen.append(marker.read_text(encoding="utf-8") if marker.is_file() else None)
+                return original(*args, **kwargs)
+
+            build_pack.add_bitmap_font = observe
+            try:
+                build_pack.build(output=output, stage=stage)
+            finally:
+                build_pack.add_bitmap_font = original
+
+            self.assertEqual(
+                seen,
+                [previous],
+                "a reader mid-build saw the live pack tree deleted or rewritten; "
+                "the previous pack must stay intact until the new one is complete",
+            )
+            self.assertTrue(marker.is_file(), "the pack tree vanished after the build")
+
+    def test_scratch_tree_is_invisible_to_the_pack_glob(self):
+        """Staging must not park a second match under `DJ2_Viet_Hoa_*`.
+
+        The first attempt at the atomic swap named the scratch tree
+        `DJ2_Viet_Hoa_2.23.4.partial`. That matches the glob the pack tests use
+        AND sorts after the real directory, so their `matches[-1]` resolved to
+        the tree still being written -- converting an intermittent race into a
+        guaranteed failure. The scratch name must fall outside the pattern.
+        """
+        import fnmatch
+
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            stage = root / "DJ2_Viet_Hoa_2.23.4"
+            marker = stage / "assets" / "thaumcraft" / "lang" / "vi_vn.lang"
+            marker.parent.mkdir(parents=True)
+            marker.write_text("tc.aspect.previous=x\n", encoding="utf-8")
+
+            during = []
+            original = build_pack.add_bitmap_font
+
+            def observe(*args, **kwargs):
+                during.extend(
+                    p.name
+                    for p in root.iterdir()
+                    if p.is_dir() and fnmatch.fnmatch(p.name, "DJ2_Viet_Hoa_*")
+                )
+                return original(*args, **kwargs)
+
+            build_pack.add_bitmap_font = observe
+            try:
+                build_pack.build(output=root / "pack.zip", stage=stage)
+            finally:
+                build_pack.add_bitmap_font = original
+
+            self.assertEqual(
+                during,
+                ["DJ2_Viet_Hoa_2.23.4"],
+                "the scratch tree matched the pack glob mid-build, so a reader "
+                f"taking the last match would read it: saw {during}",
+            )
+
     def test_failed_build_removes_the_previous_artifact(self):
         with tempfile.TemporaryDirectory() as td:
             output = Path(td) / "stale.zip"

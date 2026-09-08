@@ -325,13 +325,53 @@ def drop_previous_artifact(output):
 
 
 def build(output=None, stage=None):
+    """Build the pack, replacing the previous artifact atomically.
+
+    Two safety rules meet here and neither may be dropped:
+
+    * A failed build must not leave the previous ZIP on disk, or a caller that
+      ignores the return code hashes and publishes the *previous* release while
+      believing it shipped the new one.
+    * A running build must not make build/ unreadable. Deleting the live tree
+      up front meant anything reading it mid-build -- most visibly the pytest
+      cases that assert against the built pack -- saw a half-written pack and
+      failed for a reason that vanished on a re-run.
+
+    So the work happens in `.partial` siblings, the live copies are replaced in
+    one step on success, and any failure removes the stale artifact on the way
+    out.
+    """
     output = Path(output) if output is not None else ZIP_OUT
-    stage = Path(stage) if stage is not None else STAGE
-    # Drop the previous artifact before doing any work that can fail. Otherwise
-    # a validation error or a raised exception leaves the old ZIP on disk, and
-    # the next pipeline step hashes, publishes and serves the previous release
-    # while reporting the new one.
-    drop_previous_artifact(output)
+    final_stage = Path(stage) if stage is not None else STAGE
+    # The scratch tree must not sit where readers look. Tests and tooling glob
+    # `build/DJ2_Viet_Hoa_*/assets/...`; a sibling named `DJ2_Viet_Hoa_*.partial`
+    # matches that pattern AND sorts after the real directory, so `matches[-1]`
+    # would resolve to the tree still being written -- turning an intermittent
+    # race into a guaranteed failure. Prefix the name instead of suffixing it.
+    stage = final_stage.with_name(".partial-" + final_stage.name)
+    try:
+        code = _build_into(output, final_stage, stage)
+    except BaseException:
+        drop_previous_artifact(output)
+        _discard_partials(output, stage)
+        raise
+    if code != 0:
+        drop_previous_artifact(output)
+        _discard_partials(output, stage)
+    return code
+
+
+def _discard_partials(output, stage):
+    """Remove scratch copies so a failed build leaves nothing half-written."""
+    if stage.exists():
+        shutil.rmtree(stage, ignore_errors=True)
+    partial_zip = output.with_name(output.name + ".partial")
+    if partial_zip.exists():
+        partial_zip.unlink()
+
+
+def _build_into(output, final_stage, stage):
+    output.parent.mkdir(parents=True, exist_ok=True)
     if stage.exists():
         shutil.rmtree(stage)
     stage.mkdir(parents=True)
@@ -379,21 +419,33 @@ def build(output=None, stage=None):
         "language": {"vi_vn": {"name": "Tiếng Việt", "region": "Việt Nam", "bidirectional": False}},
     }
     (stage / "pack.mcmeta").write_text(json.dumps(pack_meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    drop_previous_artifact(output)
-    with zipfile.ZipFile(output, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+    # Write the ZIP beside its destination, validate it, and only then move it
+    # over the live artifact. Together with the staging swap below this keeps
+    # build/ readable throughout: readers see the old complete pack until the
+    # new complete pack replaces it in one step.
+    partial_zip = output.with_name(output.name + ".partial")
+    if partial_zip.exists():
+        partial_zip.unlink()
+    with zipfile.ZipFile(partial_zip, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
         for path in sorted(stage.rglob("*")):
             if path.is_file():
                 info = zipfile.ZipInfo(path.relative_to(stage).as_posix(), date_time=(2026, 8, 24, 0, 0, 0))
                 info.compress_type = zipfile.ZIP_DEFLATED
                 info.external_attr = 0o644 << 16
                 archive.writestr(info, path.read_bytes())
-    with zipfile.ZipFile(output) as archive:
+    with zipfile.ZipFile(partial_zip) as archive:
         bad = archive.testzip()
         if bad:
             raise RuntimeError(f"Corrupt zip member: {bad}")
         names = archive.namelist()
         if len(names) != len({name.casefold() for name in names}):
             raise RuntimeError("ZIP contains case-insensitive path collisions")
+    drop_previous_artifact(output)
+    partial_zip.replace(output)
+    if final_stage.exists():
+        shutil.rmtree(final_stage)
+    stage.replace(final_stage)
+    stage = final_stage
     print(json.dumps(report, ensure_ascii=False, indent=2))
     print(f"BUILT {output} bytes={output.stat().st_size}")
     return 0
