@@ -53,5 +53,7 @@
   "item.draconicevolution:wyvernLeggs.lore": "2Bạn thấy mình còn mạnh và nhanh hơn nữa\\nkhi đã truyền Draconium vào giáp chân kim cương",
   "item.draconicevolution:wyvernPick.lore": "2Cuốc tầm thường yếu quá\\nnhờ Draconium, bạn tăng cả phạm vi lẫn tốc độ đào.",
   "item.draconicevolution:wyvernShovel.lore": "2Mỗi lần một block? Không phải với Draconium!\\nnhanh hơn, vùng rộng hơn, đây mới chỉ là khởi đầu!",
-  "item.draconicevolution:wyvernSword.lore": "2Draconium bắt đầu khai mở tiềm năng của thanh kiếm\\nphạm vi và sức mạnh của kiếm được cải thiện."
+  "item.draconicevolution:wyvernSword.lore": "2Draconium bắt đầu khai mở tiềm năng của thanh kiếm\\nphạm vi và sức mạnh của kiếm được cải thiện.",
+  "modwiki.style.preset.black&white": "Đen & Trắng",
+  "modwiki.style.preset.white&black": "Trắng & Đen"
 }

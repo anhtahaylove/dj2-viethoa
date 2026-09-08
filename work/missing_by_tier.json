@@ -2791,18 +2791,6 @@
  },
  {
   "namespace": "astralsorcery",
-  "key": "perk.modifier.addition.add",
-  "en": " added",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
-  "key": "perk.modifier.addition.sub",
-  "en": " to",
-  "tier": "other"
- },
- {
-  "namespace": "astralsorcery",
   "key": "perk.modifier.format",
   "en": "%%1$s%%2$s %%3$s",
   "tier": "other"
@@ -3751,12 +3739,6 @@
  },
  {
   "namespace": "draconicevolution",
-  "key": "modwiki.style.preset.black&white",
-  "en": "Black & White",
-  "tier": "other"
- },
- {
-  "namespace": "draconicevolution",
   "key": "modwiki.style.preset.draconic",
   "en": "Draconic",
   "tier": "other"
@@ -3771,12 +3753,6 @@
   "namespace": "draconicevolution",
   "key": "modwiki.style.preset.transparent",
   "en": "Transparent",
-  "tier": "other"
- },
- {
-  "namespace": "draconicevolution",
-  "key": "modwiki.style.preset.white&black",
-  "en": "White & Black",
   "tier": "other"
  },
  {
@@ -4503,78 +4479,6 @@
   "namespace": "extrautils2",
   "key": "modifier.xu_xp_boost.name",
   "en": "Experience Boost",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "ftbutilities.general.scan_items_blacklist",
-  "en": "/scan_items Blacklist",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "ftbutilities.general.scan_items_whitelist",
-  "en": "/scan_items Whitelist",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.back.cooldown",
-  "en": "/back Cooldown Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.back.warmup",
-  "en": "/back Warmup Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.homes.cooldown",
-  "en": "/home Cooldown Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.homes.warmup",
-  "en": "/home Warmup Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.spawn.cooldown",
-  "en": "/spawn Cooldown Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.spawn.warmup",
-  "en": "/spawn Warmup Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.tpa.cooldown",
-  "en": "/tpa Cooldown Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.tpa.warmup",
-  "en": "/tpa Warmup Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.warps.cooldown",
-  "en": "/warp Cooldown Timer",
-  "tier": "other"
- },
- {
-  "namespace": "ftbutilities",
-  "key": "permission.ftbutilities.warps.warmup",
-  "en": "/warp Warmup Timer",
   "tier": "other"
  },
  {

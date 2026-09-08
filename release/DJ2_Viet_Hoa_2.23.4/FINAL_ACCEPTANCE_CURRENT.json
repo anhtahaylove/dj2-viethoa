@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T12:17:21",
+  "generated": "2026-09-08T14:35:08",
   "tests": "212 passed",
   "verify_release": "python tools/verify_release.py",
   "verify_server_delivery": "python tools/verify_server_delivery.py",
@@ -14,22 +14,22 @@
   },
   "artifacts": {
     "resource_pack": {
-      "bytes": 1937500,
+      "bytes": 1937712,
       "entries": 833,
-      "sha1": "06e68548e59e9c15f635b3254fdbdc48a700af91",
-      "sha256": "9c590af7744075785f48c1be777533f2411c6ef5bf4704876228d1b3f1fa8924"
+      "sha1": "142ee905006bc2bf437acf9cde86c81ec3b168cb",
+      "sha256": "12ffe68566d824119773030553ea5671ee7455d75350b6aed2ebf91e015518f8"
     },
     "client_bundle": {
-      "bytes": 1909725,
+      "bytes": 1910731,
       "entries": 72,
-      "sha1": "4a540c984180cf1b5cbee319ceb084f4054def32",
-      "sha256": "da5627c6e8fd0729911ffb85f5358f985509aa6599d13c612396472a8c6ab6d6"
+      "sha1": "85f58e6647b4a11963816b5d7ea66fbc884e9175",
+      "sha256": "726164de11929358d6dfc60831db33a805a91c5783c517db0a39508d1228cf52"
     },
     "server_overlay": {
-      "bytes": 1848500,
+      "bytes": 1849504,
       "entries": 9,
-      "sha1": "874ce648e9da47528ebf346706e69006b9602a4a",
-      "sha256": "40914b214d34fe3a07487db8377add1e7317967066c97ffa66105ed6bee487c4"
+      "sha1": "60f1d58ac0487f3fa6b81356e5a77437fcada1d4",
+      "sha256": "c159b96d8cf96abb2c0b4838cdb91524899226ee60df95115a87190c5f8e99db"
     }
   }
 }

@@ -115,3 +115,5 @@ knowledge.astralsorcery.fragment.constellation.alcara.trait.description=Rituals 
 knowledge.astralsorcery.fragment.constellation.vorux.potions.description=In exchange for instilling lethargy with tools this brew helps fight through lesser injuries and greatly increases damage from weapon swings.
 knowledge.astralsorcery.fragment.constellation.vorux.enchantments.description=All foes will find themselves at the mercy of your weapons, which will strike far harder than normal.
 knowledge.astralsorcery.fragment.constellation.vorux.trait.description=This constellation doubles ritual power and increases the reach of a ritual by three-quarters, but at the cost of increased fracturation of the ritual crystal.
+perk.modifier.addition.add=added
+perk.modifier.addition.sub=to

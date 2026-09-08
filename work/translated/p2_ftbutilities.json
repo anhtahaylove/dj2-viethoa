@@ -18,5 +18,17 @@
   "ftbutilities.login.enable_global_badges": "Bật huy hiệu toàn cục",
   "ftbutilities.login.enable_event_badges": "Bật huy hiệu sự kiện",
   "ftbutilities.login.motd": "MOTD",
-  "ftbutilities.login.starting_items": "Vật phẩm khởi đầu"
+  "ftbutilities.login.starting_items": "Vật phẩm khởi đầu",
+  "ftbutilities.general.scan_items_blacklist": "Danh sách chặn /scan_items",
+  "ftbutilities.general.scan_items_whitelist": "Danh sách cho phép /scan_items",
+  "permission.ftbutilities.back.cooldown": "Thời gian hồi lệnh /back",
+  "permission.ftbutilities.back.warmup": "Thời gian chờ lệnh /back",
+  "permission.ftbutilities.homes.cooldown": "Thời gian hồi lệnh /home",
+  "permission.ftbutilities.homes.warmup": "Thời gian chờ lệnh /home",
+  "permission.ftbutilities.spawn.cooldown": "Thời gian hồi lệnh /spawn",
+  "permission.ftbutilities.spawn.warmup": "Thời gian chờ lệnh /spawn",
+  "permission.ftbutilities.tpa.cooldown": "Thời gian hồi lệnh /tpa",
+  "permission.ftbutilities.tpa.warmup": "Thời gian chờ lệnh /tpa",
+  "permission.ftbutilities.warps.cooldown": "Thời gian hồi lệnh /warp",
+  "permission.ftbutilities.warps.warmup": "Thời gian chờ lệnh /warp"
 }

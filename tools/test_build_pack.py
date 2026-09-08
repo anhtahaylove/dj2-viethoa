@@ -155,7 +155,7 @@ class BuildPackTests(unittest.TestCase):
 
     def test_reviewed_p2_ui_batch_is_complete_and_packaged(self):
         namespaces = {
-            "ftbutilities": 20,
+            "ftbutilities": 32,
             "ftblib": 20,
             "ftbbackups": 30,
             "jei": 20,
@@ -174,7 +174,7 @@ class BuildPackTests(unittest.TestCase):
             self.assertEqual(list(target), list(source_entries), namespace)
             self.assertEqual(len(target), expected, namespace)
             total += expected
-        self.assertEqual(total, 165)
+        self.assertEqual(total, 177)
 
     """Build once per suite; all read-only assertions share the immutable ZIP."""
 

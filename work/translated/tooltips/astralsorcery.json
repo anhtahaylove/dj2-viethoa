@@ -114,5 +114,7 @@
   "knowledge.astralsorcery.fragment.constellation.alcara.trait.description": "Các nghi lễ bị tha hóa, và áp lực từ đó khiến tinh thể nghi lễ vỡ vụn như ngôi nhà bằng bài gặp gió mạnh ngay khi nhận được bất kỳ ánh sao nào.",
   "knowledge.astralsorcery.fragment.constellation.vorux.potions.description": "Đổi lại việc khiến công cụ trở nên trì trệ, loại dược này giúp chống chọi các vết thương nhẹ và tăng đáng kể sát thương từ những cú vung vũ khí.",
   "knowledge.astralsorcery.fragment.constellation.vorux.enchantments.description": "Mọi kẻ thù đều sẽ phải khuất phục trước vũ khí của bạn, với những đòn đánh mạnh hơn bình thường rất nhiều.",
-  "knowledge.astralsorcery.fragment.constellation.vorux.trait.description": "Chòm sao này tăng gấp đôi sức mạnh nghi lễ và tăng phạm vi nghi lễ thêm ba phần tư, nhưng đổi lại tinh thể nghi lễ sẽ nứt vỡ nhanh hơn."
+  "knowledge.astralsorcery.fragment.constellation.vorux.trait.description": "Chòm sao này tăng gấp đôi sức mạnh nghi lễ và tăng phạm vi nghi lễ thêm ba phần tư, nhưng đổi lại tinh thể nghi lễ sẽ nứt vỡ nhanh hơn.",
+  "perk.modifier.addition.add": "cộng",
+  "perk.modifier.addition.sub": "trừ"
 }

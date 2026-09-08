@@ -38,7 +38,7 @@ Gói Client đã đặt sẵn hai mục này.
 
 ## Có gì trong bản này
 
-- **22.767 dòng** văn bản đã dịch, trải trên **169 mod**
+- **22.783 dòng** văn bản đã dịch, trải trên **169 mod**
 - **581 trang** sách Patchouli
 - **3.532 dòng** nhiệm vụ BetterQuesting
 - Font Việt vẽ riêng, dấu rõ ở cỡ chữ nhỏ
@@ -60,7 +60,7 @@ tiếng Anh gốc rồi so với nội dung gói này.
 | Tài liệu chỉ dành cho lập trình viên | 2.772 |
 | Chuỗi rỗng | 51 |
 | **Phần thực sự cần dịch** | **27.075** |
-| Đã dịch | 22.767 |
+| Đã dịch | 22.783 |
 | **Tỷ lệ** | **84,1%** |
 
 Phần đã dịch được chọn theo mức độ người chơi hay gặp: toàn bộ nhiệm vụ,
@@ -77,7 +77,7 @@ trên là cách đo đúng, sinh ra từ `tools/measure_coverage.py`.
 | Tooltip, tin nhắn, thành tựu | 0 | Chơi bình thường |
 | Nhãn giao diện, JEI, phím tắt | 270 | Mở giao diện mod |
 | Màn hình cấu hình, lệnh, công cụ quản trị | 189 | Chủ yếu cho chủ server |
-| Chuỗi lẻ chưa phân nhóm | 563 | Rải rác |
+| Chuỗi lẻ chưa phân nhóm | 547 | Rải rác |
 
 Ngoài bốn nhóm trên còn **2.772 dòng** chỉ dành cho lập trình viên —
 `groovyscript` (tài liệu API) và `chisel` (tên biến thể khối). Nhóm này không
