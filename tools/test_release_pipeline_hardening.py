@@ -563,7 +563,9 @@ class SharedSourceCoverageTests(unittest.TestCase):
         instance = load_module("instance_paths", ROOT / "tools" / "instance_paths.py")
         try:
             mods = instance.mods_dir()
-        except Exception:
+        except (Exception, SystemExit):
+            # mods_dir raises SystemExit when no launcher is installed, which
+            # except Exception does not catch -- CI has no game install.
             self.skipTest("game install not resolvable on this machine")
         if not mods.exists():
             self.skipTest(f"mods dir missing: {mods}")
