@@ -25,10 +25,9 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "release/DJ2_Viet_Hoa_2.23.4/DJ2_Viet_Hoa_2.23.4.zip"
-INSTANCE = Path(
-    "C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher/instances/"
-    "Divine Journey 2/minecraft"
-)
+from instance_paths import instance_dir
+
+INSTANCE = instance_dir(required=False) or Path("instance-not-installed")
 PAIRS = (
     ("work/runtime_locale_sources", "work/translated/runtime_locales"),
     ("source/tooltips", "work/translated/tooltips"),

@@ -1,6 +1,7 @@
 import hashlib
 import importlib.util
 import json
+import os
 import sys
 import subprocess
 import re
@@ -629,6 +630,78 @@ class ReadmeFigureTests(unittest.TestCase):
         scripts = [script for script, _ in release_chain_test.STEPS]
         self.assertLess(scripts.index("build_pack.py"),
                         scripts.index("measure_coverage.py"))
+
+    def test_the_artifact_skip_list_matches_what_actually_needs_artifacts(self):
+        """The list must follow the code, not the other way round.
+
+        Checking that its entries still resolve catches a rename but not the
+        two ways it goes stale: a new test that opens build/ and is never
+        added, which fails CI for a missing ZIP, and an entry kept after its
+        test stops touching artifacts, which silently stops running there.
+
+        So run the suite with build/ pointed somewhere empty and compare what
+        actually fails against what the list claims. That is the same evidence
+        CI produces, gathered here before the push.
+        """
+        pack_names = [
+            "DJ2_Viet_Hoa_2.23.4.zip",
+            "DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip",
+            "DJ2_Viet_Hoa_2.23.4_Server_Overlay.zip",
+        ]
+        if not any((ROOT / "build" / name).is_file() for name in pack_names):
+            self.skipTest("needs a built pack to hide from the subprocess")
+
+        import conftest
+
+        with tempfile.TemporaryDirectory() as tmp:
+            # A real worktree, not a copy: the line-ending gate reads git
+            # state, so a plain file copy fails there for want of a
+            # repository and looks like a missing artifact.
+            mirror = Path(tmp) / "repo"
+            added = subprocess.run(
+                ["git", "worktree", "add", "--detach", str(mirror), "HEAD"],
+                cwd=ROOT,
+                capture_output=True,
+                text=True,
+            )
+            self.assertEqual(added.returncode, 0, added.stdout + added.stderr)
+            (mirror / "build").mkdir(exist_ok=True)
+
+            env = dict(os.environ)
+            # Hide the game install too, so the only difference is artifacts.
+            env["DJ2_LAUNCHER"] = str(Path(tmp) / "no-launcher")
+            result = subprocess.run(
+                [
+                    sys.executable,
+                    "-m",
+                    "pytest",
+                    "-q",
+                    "--no-header",
+                    "--tb=no",
+                    "-p",
+                    "no:cacheprovider",
+                    "tools",
+                ],
+                cwd=mirror,
+                env=env,
+                capture_output=True,
+                text=True,
+            )
+            subprocess.run(
+                ["git", "worktree", "remove", "--force", str(mirror)],
+                cwd=ROOT,
+                capture_output=True,
+                text=True,
+            )
+
+        failing = set(re.findall(r"^(?:FAILED|ERROR) \S+::(?:\w+::)?(\w+)", result.stdout, re.MULTILINE))
+        unlisted = failing - conftest.NEEDS_ARTIFACTS_TESTS
+        self.assertEqual(
+            unlisted,
+            set(),
+            "these tests fail without artifacts but conftest.py does not skip "
+            f"them, so CI will fail on them: {sorted(unlisted)}",
+        )
 
     def test_the_artifact_skip_list_names_tests_that_exist(self):
         """conftest.py skips by literal name; a rename must not silently stop it.

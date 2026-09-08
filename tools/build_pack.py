@@ -264,12 +264,9 @@ def add_bitmap_font(stage, report):
     """
     from build_bitmap_font import build as build_font
 
-    client_jar = Path(
-        "C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher/libraries"
-        "/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar"
-    )
-    if not client_jar.exists():
-        raise SystemExit(f"vanilla client jar required for font metrics: {client_jar}")
+    from instance_paths import client_jar as resolve_client_jar
+
+    client_jar = resolve_client_jar()
     report["bitmap_font"] = build_font(
         SOURCE / "fonts" / "JetBrainsMono-Bold.ttf", stage, client_jar, size=14
     )

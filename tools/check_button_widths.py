@@ -18,10 +18,9 @@ import json, re, sys, zipfile, collections
 
 ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "release/DJ2_Viet_Hoa_2.23.4/DJ2_Viet_Hoa_2.23.4.zip"
-MODS = Path(
-    "C:/Users/Administrator/AppData/Roaming/ElyPrismLauncher/instances/"
-    "Divine Journey 2/minecraft/mods"
-)
+from instance_paths import mods_dir
+
+MODS = mods_dir(required=False) or Path("mods-not-installed")
 PAIRS = (
     ("work/runtime_locale_sources", "work/translated/runtime_locales"),
     ("source/tooltips", "work/translated/tooltips"),

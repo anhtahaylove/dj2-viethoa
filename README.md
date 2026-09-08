@@ -10,6 +10,7 @@ dẫn và giao diện — phần chữ bạn thực sự phải đọc để ch�
 [![Tải bản mới nhất](https://img.shields.io/badge/T%E1%BA%A3i_v%E1%BB%81-v2.23.4-2ea44f?style=for-the-badge)](https://github.com/anhtahaylove/dj2-viethoa/releases/tag/v2.23.4)
 [![Coverage](https://img.shields.io/badge/Ph%E1%BA%A1m_vi_d%E1%BB%8Bch-84,1%25-blue?style=for-the-badge)](#số-liệu-thật)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-orange?style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/divine-journey-2)
+[![Kiểm thử](https://github.com/anhtahaylove/dj2-viethoa/actions/workflows/tests.yml/badge.svg)](https://github.com/anhtahaylove/dj2-viethoa/actions/workflows/tests.yml)
 
 </div>
 
@@ -109,7 +110,7 @@ Font mặc định của Minecraft không có dấu tiếng Việt. Gói này k�
 | Dòng đã ship | 35.519 dòng, 169 mod |
 | Nợ dịch ưu tiên cao (T1) | **0** |
 | Còn lại | 270 nhãn giao diện phụ, 189 màn hình cấu hình, 547 chuỗi lẻ |
-| pytest | **216 passed**, 2 subtests |
+| pytest | **217 passed**, 2 subtests |
 | Gate build / EOL / verify | tất cả exit 0 |
 
 </div>
