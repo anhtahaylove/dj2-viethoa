@@ -1,8 +1,8 @@
 {
   "file": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\build\\DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip",
-  "bytes": 1910731,
-  "sha1": "85f58e6647b4a11963816b5d7ea66fbc884e9175",
-  "sha256": "726164de11929358d6dfc60831db33a805a91c5783c517db0a39508d1228cf52",
+  "bytes": 1910810,
+  "sha1": "6fb279ed857e6d1d1e3ae348a317dbb2af3bb8a5",
+  "sha256": "6f4fb453e4b42297263931de4d72196170ddfcd51e79562999e7956636980b4c",
   "entries": [
     "HUONG_DAN_CAI_DAT.txt",
     "config/CustomMainMenu/mainmenu.json",

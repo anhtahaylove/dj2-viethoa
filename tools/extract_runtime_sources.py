@@ -105,8 +105,15 @@ def harvest_jars(mods_dir: Path) -> dict[str, dict[str, str]]:
                         # padding a fixed-size entry). There is nothing to
                         # translate, and harvesting them would report a
                         # permanent, unfixable gap on every future run.
+                        #
+                        # Last writer wins, matching how the game resolves a
+                        # namespace two mods both ship: ThaumcraftFix overrides
+                        # 172 of Thaumcraft's keys, and keeping the first jar
+                        # seen (alphabetically Thaumcraft) harvested text the
+                        # player never sees -- including three whose colour
+                        # codes differ, which the pack then failed to preserve.
                         if is_ui_key(key) and value.strip():
-                            bucket.setdefault(key, value)
+                            bucket[key] = value
         except zipfile.BadZipFile:
             continue
     return {ns: keys for ns, keys in harvested.items() if keys}

@@ -4,9 +4,9 @@
     "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\Divine_Journey_2.23.4_Server_Pack\\resourcepacks\\DJ2_Viet_Hoa_2.23.4.zip",
     "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\Divine_Journey_2.23.4_Server_Pack\\DJ2_Viet_Hoa_2.23.4.zip"
   ],
-  "bytes": 1937500,
-  "sha1": "06e68548e59e9c15f635b3254fdbdc48a700af91",
-  "sha256": "9c590af7744075785f48c1be777533f2411c6ef5bf4704876228d1b3f1fa8924",
+  "bytes": 1937781,
+  "sha1": "c1ea5c044c22b9ab400b337861d810db461498e2",
+  "sha256": "b02d7f860e82ce6f7bd8b46c021556135a1851b132e2bbf83163ae620dce0ccd",
   "property_updated": true,
   "http_verified": false,
   "http_error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>",
@@ -15,5 +15,5 @@
   "http_sha1": "",
   "cache_control": null,
   "content_length": null,
-  "backup": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\work\\backups\\publish-20260905-125658"
+  "backup": "C:\\huuhungn\\huuhungn-PC\\mc_server_pack\\dj2-viethoa\\work\\backups\\publish-20260909-030238"
 }

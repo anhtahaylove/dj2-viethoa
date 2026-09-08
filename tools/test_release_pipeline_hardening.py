@@ -535,6 +535,37 @@ class SharedSourceCoverageTests(unittest.TestCase):
     # rather than shipped whole, and the manifest describes the source tree.
     NOT_SHIPPED_WHOLE = {"SOURCE_MANIFEST.json", "config/ftbutilities.cfg"}
 
+    def test_a_later_jar_overrides_an_earlier_one_in_the_same_namespace(self):
+        """Harvesting must resolve a shared namespace the way the game does.
+
+        Two mods can ship the same namespace: ThaumcraftFix overrides 172 of
+        Thaumcraft's keys. Minecraft loads jars in order and the last one wins,
+        so keeping the first (alphabetically Thaumcraft) harvested English the
+        player never sees. Three of those keys differ in colour codes, so the
+        pack shipped a translation whose §o...§r pairs could not match, and the
+        audit reported it as a translation fault rather than a harvest one.
+        """
+        import zipfile
+
+        extract = load_module("extract_runtime_sources",
+                              ROOT / "tools" / "extract_runtime_sources.py")
+        with tempfile.TemporaryDirectory() as tmp:
+            mods = Path(tmp)
+            # Named so the overriding jar sorts *after* the base one, which is
+            # the case that used to silently lose.
+            for jar_name, value in (
+                ("Athaum-1.0.jar", "research.DEMO.stage.1=old §5text§0"),
+                ("Bthaum-1.0.jar", "research.DEMO.stage.1=new §o text §r more"),
+            ):
+                with zipfile.ZipFile(mods / jar_name, "w") as zf:
+                    zf.writestr("assets/demo/lang/en_us.lang", value)
+            harvested = extract.harvest_jars(mods)
+        self.assertEqual(
+            "new §o text §r more",
+            harvested["demo"]["research.DEMO.stage.1"],
+            "the later jar must win, as it does in game",
+        )
+
     def test_every_shared_source_file_is_shipped_or_declared_exempt(self):
         """A translated file added to source/ must not silently go unshipped.
 

@@ -1,0 +1,2402 @@
+[
+  {
+    "mod": "abyssalcraft",
+    "key": "necronomicon.information.goo",
+    "text": "The Great Old Ones",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "tooltip.eoa",
+    "text": "Eye of Asorah, The Fallen.",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.altarOfChagarothBottom",
+    "text": "Altar of Cha'garoth (bottom)",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.altarOfChagarothTop",
+    "text": "Altar of Cha'garoth (top)",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.asorahGatewayKey",
+    "text": "Asorah's Dreaded Gateway Key",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.depthsBoots",
+    "text": "Boots of The Depths",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.depthsChestplate",
+    "text": "Chestplate of The Depths",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.depthsHelmet",
+    "text": "Helmet of The Depths",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.depthsLeggings",
+    "text": "Leggings of The Depths",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.ecolAWupgrade",
+    "text": "Abyssal Wasteland Energy Collector",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.econAWupgrade",
+    "text": "Abyssal Wasteland Energy Container",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.epAWupgrade",
+    "text": "Abyssal Wasteland Energy Pedestal",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.erAWupgrade",
+    "text": "Abyssal Wasteland Energy Relay",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.jzaharStaff",
+    "text": "Staff of The Gatekeeper",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.saAWupgrade",
+    "text": "Abyssal Wasteland Sacrificial Altar",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.sorAWupgrade",
+    "text": "Abyssal Wasteland Staff of Rending",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.sorDLupgrade",
+    "text": "Dreadlands Staff of Rending",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "ac.ritual.sorOMTupgrade",
+    "text": "Omothol Staff of Rending",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "lingering_potion.effect.Antimatter",
+    "text": "Lingering Potion of Annihilation",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "lingering_potion.effect.Cplague",
+    "text": "Lingering Potion of Coralium Plague",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "lingering_potion.effect.Dplague",
+    "text": "Lingering Potion of Dread Plague",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "splash_potion.effect.Antimatter",
+    "text": "Splash Potion of Annihilation",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "splash_potion.effect.Cplague",
+    "text": "Splash Potion of Coralium Plague",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "splash_potion.effect.Dplague",
+    "text": "Splash Potion of Dread Plague",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "tipped_arrow.effect.Cplague",
+    "text": "Arrow of Coralium Plague",
+    "prose": false
+  },
+  {
+    "mod": "abyssalcraft",
+    "key": "tipped_arrow.effect.Dplague",
+    "text": "Arrow of Dread Plague",
+    "prose": false
+  },
+  {
+    "mod": "agricraft",
+    "key": "agricraft_gui.peripheral",
+    "text": "Computer Controlled Seed Analyzer",
+    "prose": false
+  },
+  {
+    "mod": "appliedenergistics2",
+    "key": "gui.appliedenergistics2.FluidInterfaceConfigurationTerminal",
+    "text": "Fluid Interface Configuration Terminal",
+    "prose": false
+  },
+  {
+    "mod": "appliedenergistics2",
+    "key": "gui.appliedenergistics2.IOBusesFluids",
+    "text": "ME Fluid Import/Export Bus",
+    "prose": false
+  },
+  {
+    "mod": "appliedenergistics2",
+    "key": "gui.appliedenergistics2.OreDictStorageBus",
+    "text": "Ore Dictionary Storage Bus",
+    "prose": false
+  },
+  {
+    "mod": "astralsorcery",
+    "key": "amulet.enchantment.add_to_specific.name",
+    "text": "+%s %s cho %s",
+    "prose": false
+  },
+  {
+    "mod": "avaritiaddons",
+    "key": "container.extreme_auto_crafter.name",
+    "text": "Auto Extreme Crafting Table",
+    "prose": false
+  },
+  {
+    "mod": "baubles",
+    "key": "baubles.command.slots.grow.usage",
+    "text": "/baubles slots grow <player> <type> <amount>",
+    "prose": false
+  },
+  {
+    "mod": "baubles",
+    "key": "baubles.command.slots.set.usage",
+    "text": "/baubles slots set <player> <type> <amount>",
+    "prose": false
+  },
+  {
+    "mod": "baubles",
+    "key": "baubles.command.slots.shrink.usage",
+    "text": "/baubles slots shrink <player> <type> <amount>",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.1127.title",
+    "text": "( ( O ) )",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.1467.title",
+    "text": "= Necronomicon + 1",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.464.title",
+    "text": "01010000 01100001 01100011 01101011 01100001 01100111 01100101",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.805.desc",
+    "text": "ᛊᚢᛞᛪ ᚭᚼ ᛪᚢᛤᚨ ᚠᛞᚣ ᚬᛞᚨ, ᚭᛞᛗᚨᛤᚸ!%n",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.814.desc",
+    "text": "ᛪᚼᚸᛋᛞᚭᚼ, ᚨᛞ ᚨᚢᚼ ᚮᛉᛣᛤᚸ ᚨᚼᛊᚨ. ᚨᚢᛉᛊ ᛞᛣᚼ ᛉᛊ ᛤ ᚥᚼᛋᚼᛈᚨᛉᛝᚼᚸᚠ ᛊᛉᚭᛈᚸᚼ ᛞᛣᚼ. ᛪᚢᛤᚨ ᛈᛤᛋᛇ ᛤᛗᚼ ᚠᛞᚣ ᛈᚸᛤᚠᛉᛣᚬ?%n%n█████████%n█████████%n█████████%n█████████%n█████████%n█████████%n█████████%n█████████%n█████████",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.743.title",
+    "text": "Quasi Quantum Supercomputer Singularity",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.769.title",
+    "text": "1 millibucket, 2 millibucket, 3 millibucket...",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "dj2.quest.db.1584.title",
+    "text": "Leng Keng, Leng Keng!",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "item.betterquesting.guide.name",
+    "text": "Better Questing Starter Guide",
+    "prose": false
+  },
+  {
+    "mod": "betterquesting",
+    "key": "tile.betterquesting.submit_station.name",
+    "text": "Object Submission Station (OSS)",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "advancements.bewitchment.argonaut.description",
+    "text": "FIREBOLT! FIREBOLT! FIREBOLT! FIREBOLT! FIREBOLT!",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "advancements.bewitchment.beast.title",
+    "text": "Das Tier in Mir",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "curse.bewitchment.lightning_rod",
+    "text": "Curse of Lightning Rod",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "curse.bewitchment.palor_pestilence",
+    "text": "Curse of Palor Pestilence",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "curse.bewitchment.solar_hatred",
+    "text": "Curse of Solar Hatred",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.biome_shift",
+    "text": "Rite of Shifting Seasons",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.call_of_the_wild",
+    "text": "Call of the Wild",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.cypress_broom",
+    "text": "Rite of the Rising Twigs",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.deluge",
+    "text": "Ritual of the Deluge",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.dragons_blood_broom",
+    "text": "Rite of the Rising Twigs",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.draw_large",
+    "text": "Ritual of the Greater Marks",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.draw_medium",
+    "text": "Ritual of the Marks",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.draw_small",
+    "text": "Ritual of the Lesser Marks",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.drought",
+    "text": "Ritual of the Parched Sands",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.elder_broom",
+    "text": "Rite of the Rising Twigs",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.frenzied_growth",
+    "text": "Ritual of Frenzied Growth",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.greater_curse_cleansing",
+    "text": "Rite of Greater Curse Cleansing",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.greater_hellmouth",
+    "text": "Rite of Greater Hellmouth",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.high_moon",
+    "text": "Ritual of the High Moon",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.hungry_flames",
+    "text": "Ritual of the Hungry Flames",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.juniper_broom",
+    "text": "Rite of the Rising Twigs",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.lesser_curse_cleansing",
+    "text": "Rite of Lesser Curse Cleansing",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.lesser_hellmouth",
+    "text": "Rite of Lesser Hellmouth",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.sands_of_time",
+    "text": "Ritual of the Sands of Time",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.solar_glory",
+    "text": "Ritual of Solar Glory",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.sowing_salt",
+    "text": "Rite of Blighted Lands",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.spiritual_rift",
+    "text": "Rite of the Spiritual Rift",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "ritual.bewitchment.teleport",
+    "text": "Rite of the Open Way",
+    "prose": false
+  },
+  {
+    "mod": "bewitchment",
+    "key": "tooltip.bewitchment.juniper_key_ring",
+    "text": "-> %d, %d, %d, %s",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakArmorStand.name",
+    "text": "Dark Oak Armor Stand",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakBookcaseCreative.name",
+    "text": "Dark Oak Creative Bookcase",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakFancySign.name",
+    "text": "Dark Oak Fancy Sign",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakFramedChest.name",
+    "text": "Dark Oak Framed Chest",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakFurniturePaneler.name",
+    "text": "Dark Oak Furniture Paneler",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakMapFrame.name",
+    "text": "Dark Oak Map Frame",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakPaintingFrameBorderless.name",
+    "text": "Dark Oak Painting Frame",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakPaintingFrameFancy.name",
+    "text": "Dark Oak Painting Frame",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakPaintingFrameFlat.name",
+    "text": "Dark Oak Painting Frame",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakPaintingFrameMiddle.name",
+    "text": "Dark Oak Painting Frame",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakPaintingFrameSimple.name",
+    "text": "Dark Oak Painting Frame",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakPotionShelf.name",
+    "text": "Dark Oak Potion Shelf",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "darkoakToolRack.name",
+    "text": "Dark Oak Tool Rack",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "lamp.hood1",
+    "text": "Light Gray Lamp Hood",
+    "prose": false
+  },
+  {
+    "mod": "bibliocraft",
+    "key": "lamp.hood10",
+    "text": "Light Blue Lamp Hood",
+    "prose": false
+  },
+  {
+    "mod": "biggercraftingtables",
+    "key": "container.autobigcraftingtable.name",
+    "text": "Auto Big Crafting Table",
+    "prose": false
+  },
+  {
+    "mod": "biggercraftingtables",
+    "key": "container.autogiantcraftingtable.name",
+    "text": "Auto Giant Crafting Table",
+    "prose": false
+  },
+  {
+    "mod": "biggercraftingtables",
+    "key": "container.autohugecraftingtable.name",
+    "text": "Auto Huge Crafting Table",
+    "prose": false
+  },
+  {
+    "mod": "bigreactors",
+    "key": "debug.bigreactors.fluidhelper.tank",
+    "text": "[%1$s] %2$s: %3$s, %4$d mB",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.usage",
+    "text": "/bloodmagic network [syphon|add|get|fill|cap] player [amount]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.syphon.usage",
+    "text": "/bloodmagic network syphon [player] [amount]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.add.usage",
+    "text": "/bloodmagic network add [player] [amount]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.set.usage",
+    "text": "/bloodmagic network set [player] [amount]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.get.usage",
+    "text": "/bloodmagic network get [player]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.fill.usage",
+    "text": "/bloodmagic network fill [player]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.cap.usage",
+    "text": "/bloodmagic network cap [player]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.network.tickethistory.usage",
+    "text": "/bloodmagic network tickethistory [player]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.orb.get.usage",
+    "text": "/bloodmagic orb get [player|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.orb.set.usage",
+    "text": "/bloodmagic orb set [player|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.teleposer.list.usage",
+    "text": "/bloodmagic teleposer list [player|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.teleposer.teleport.usage",
+    "text": "/bloodmagic teleposer teleport [ID|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.teleposer.teleportfocus.usage",
+    "text": "/bloodmagic teleposer teleportfocus [ID|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.teleposer.rmrf.usage",
+    "text": "/bloodmagic teleposer rmrf [ID|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.teleposer.remove.usage",
+    "text": "/bloodmagic teleposer remove [ID|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "commands.bloodmagic.teleposer.removeall.usage",
+    "text": "/bloodmagic teleposer removeall [player|?|help]",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.altarBuilderRitual",
+    "text": "The Assembly of the High Altar",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.animalGrowthRitual",
+    "text": "Ritual of the Shepherd",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.armourEvolveRitual",
+    "text": "Ritual of Living Evolution",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.condorRitual",
+    "text": "Reverence of the Condor",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.crushingRitual",
+    "text": "Ritual of the Crusher",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.crystalHarvestRitual",
+    "text": "Crack of the Fractured Crystal",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.crystalSplitRitual",
+    "text": "Resonance of the Faceted Crystal",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.downgradeRitual",
+    "text": "Penance of the Leadened Soul",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.ellipseRitual",
+    "text": "Focus of the Ellipsoid",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.eternalSoulRitual",
+    "text": "Cry of the Eternal Soul",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.featheredEarthRitual",
+    "text": "Ritual of the Feathered Earth",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.featheredKnifeRitual",
+    "text": "Ritual of the Feathered Knife",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.fellingRitual",
+    "text": "Crash of the Timberman",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.forsakenSoulRitual",
+    "text": "Gathering of the Forsaken Souls",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.fullStomachRitual",
+    "text": "Ritual of the Satiated Stomach",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.greenGroveRitual",
+    "text": "Ritual of the Green Grove",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.harvestRitual",
+    "text": "Reap of the Harvest Moon",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.jumpRitual",
+    "text": "Ritual of the High Jump",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.lavaRitual",
+    "text": "Serenade of the Nether",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.meteorRitual",
+    "text": "Mark of the Falling Tower",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.placerRitual",
+    "text": "Laying of the Filler",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.portalRitual",
+    "text": "The Gate of the Fold",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.upgradeRemoveRitual",
+    "text": "Sound of the Cleansing Soul",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.waterRitual",
+    "text": "Ritual of the Full Spring",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagic",
+    "key": "ritual.bloodmagic.zephyrRitual",
+    "text": "Call of the Zephyr",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.fullSpring",
+    "text": "Ritual of the Full Spring",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.lava",
+    "text": "Serenade of the Nether",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.greenGrove",
+    "text": "Ritual of the Green Grove",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.crusher",
+    "text": "Ritual of the Crusher",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.highJump",
+    "text": "Ritual of the High Jump",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.featheredKnife",
+    "text": "Ritual of the Feathered Knife",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.harvest",
+    "text": "Reap of the Harvest Moon",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.zephyr",
+    "text": "Call of the Zephyr",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.laying",
+    "text": "Laying of the Filler",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.timberman",
+    "text": "Crash of the Timberman",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.meteor",
+    "text": "Mark of the Falling Tower",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.downgrade",
+    "text": "Penance of the Leadened Soul",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.crystalSplit",
+    "text": "Resonance of the Faceted Crystal",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.portal",
+    "text": "The Gate of the Fold",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.altarBuilder",
+    "text": "The Assembly of the High Altar",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.ellipsoid",
+    "text": "Focus of the Ellipsoid",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.crystalHarvest",
+    "text": "Crack of the Fractured Crystal",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.forsakenSoul",
+    "text": "Gathering of the Forsaken Souls",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.animalGrowth",
+    "text": "Ritual of the Shephard",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.livingEvolution",
+    "text": "Ritual of the Living Evolution",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.upgradeRemove",
+    "text": "Ritual of the Cleansing Soul",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.fullStomach",
+    "text": "Ritual of the Satiated Stomach",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.eternalSoul",
+    "text": "Ritual of the Eternal Soul",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.condor",
+    "text": "Reverence of the Condor",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.ritual.featheredEarth",
+    "text": "Ritual of the Feathered Earth",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.inspectoris",
+    "text": "Inspectoris Scandalum (Block Reader)",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.runeSelfSacrifice",
+    "text": "Rune of Self Sacrifice",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.greenGrove",
+    "text": "Sigil of the Green Grove",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.fastMiner",
+    "text": "Sigil of the Fast Miner",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.affinity",
+    "text": "Sigil of Elemental Affinity",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.lamp",
+    "text": "Sigil of the Blood Lamp",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.upgradeTome",
+    "text": "Living Armour Upgrade Tomes",
+    "prose": false
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.runeOrb",
+    "text": "Rune of the Orb",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.severance",
+    "text": "Sigil of Ender Severance",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.bridge",
+    "text": "Sigil of the Phantom Bridge",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.architect.augmentedCapacity",
+    "text": "Rune of Augmented Capacity",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.demon.snare",
+    "text": "Demon Will and Snares",
+    "prose": true
+  },
+  {
+    "mod": "bloodmagicguide",
+    "key": "guide.bloodmagic.entry.demon.gauge",
+    "text": "Demon Will Aura Gauge",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.wand",
+    "text": "Wand of the Forest",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.forestEye",
+    "text": "Eye of the Ancients",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.forestDrum",
+    "text": "Drum of the Wild",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.gatherDrum",
+    "text": "Drum of the Gathering",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.canopyDrum",
+    "text": "Drum of the Canopy",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.dirtRod",
+    "text": "Rod of the Lands",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.terraformRod",
+    "text": "Rod of the Terra Firma",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.grassHorn",
+    "text": "Horn of the Wild",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.waterRod",
+    "text": "Rod of the Seas",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.rainbowRod",
+    "text": "Rod of the Bifrost",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.tornadoRod",
+    "text": "Rod of the Skies",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.fireRod",
+    "text": "Rod of the Hells",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.skyDirtRod",
+    "text": "Rod of the Highlands",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.diviningRod",
+    "text": "Rod of the Plentiful Mantle",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.gravityRod",
+    "text": "Rod of the Shaded Mesa",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.missileRod",
+    "text": "Rod of the Unstable Reservoir",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.cobbleRod",
+    "text": "Rod of the Depths",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.smeltRod",
+    "text": "Rod of the Molten Core",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.slimeBottle",
+    "text": "Slime in a Bottle",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.exchangeRod",
+    "text": "Rod of the Shifting Crust",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.miningRing",
+    "text": "Ring of the Mantle",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.reachRing",
+    "text": "Ring of Far Reach",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.divaCharm",
+    "text": "Charm of the Diva",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.dodgeRing",
+    "text": "Ring of Dexterous Motion",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.aIntro",
+    "text": "The Portal to Alfheim",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.gaiaRitualHardmode",
+    "text": "Ritual of Gaia II",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.relics",
+    "text": "The Relics of the Aesir",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.relicInfo",
+    "text": "The Relics of the Aesir II",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.infiniteFruit",
+    "text": "The Fruit of Grisaia",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.kingKey",
+    "text": "Key of the King's Law",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.flugelEye",
+    "text": "Eye of the Flügel",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.entry.elvenLore",
+    "text": "Elven Lore - The Shattering",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.subtitle.way",
+    "text": "O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "item.record.botania:gaia1.desc",
+    "text": "Kain Vinosec - Endure Emptiness",
+    "prose": false
+  },
+  {
+    "mod": "botania",
+    "key": "item.record.botania:gaia2.desc",
+    "text": "Kain Vinosec - Fight For Quiescence",
+    "prose": false
+  },
+  {
+    "mod": "botania",
+    "key": "advancement.botania:desuGun.desc",
+    "text": "ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN",
+    "prose": false
+  },
+  {
+    "mod": "botania",
+    "key": "advancement.botania:rankSSPick",
+    "text": "A Tale of Six Trillion Years and a Night",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "advancement.botania:spawnerMoverUse",
+    "text": "I can take off my (redacted)",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "advancement.botania:terrasteelPickup",
+    "text": "Dancer in the Dark",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.armorset.terrasteel.name",
+    "text": "Will of the Ancients",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.wings5",
+    "text": "Wings: Black Snow Princess",
+    "prose": false
+  },
+  {
+    "mod": "botania",
+    "key": "botania.wings6",
+    "text": "Wings: Lord of the Pit",
+    "prose": true
+  },
+  {
+    "mod": "botania",
+    "key": "botania.wings8",
+    "text": "Wings: Mega Ultra Chicken",
+    "prose": false
+  },
+  {
+    "mod": "botania",
+    "key": "thaumraftStabilizers.enabled",
+    "text": "Stabilizer cho TC Infusion",
+    "prose": false
+  },
+  {
+    "mod": "chiselsandbits",
+    "key": "mod.chiselsandbits.tapemeasure.chatmsg",
+    "text": "x: %s,  y: %s,  z: %s",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.flame_devourer_pendant.desc4",
+    "text": "Xem Codex Infernalis / Curses / Conflagration,",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.ignition.desc2",
+    "text": "Xem Codex Infernalis / Curses / Conflagration,",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.arcanium_base.desc3",
+    "text": "Mortum biome, Hell (Nether) biome, Magical Forest",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.bag_of_truth_locked.name",
+    "text": "Bag of Truth (Locked)",
+    "prose": true
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.farming_station.desc4",
+    "text": "/ Horn of the Wild, Actually Additions Farmer,",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.rare_earths.desc2",
+    "text": "Coal, Redstone, Quartz, Amber, Diamond;",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.rare_earths.desc5",
+    "text": "trong Infernal Furnace: Iron, Gold, Silver,",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.rare_earths.desc6",
+    "text": "Copper, Tin, Lead, Cinnabar.",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.bio_velocity.desc0",
+    "text": "- Solifuges (trong biome Ulterior Outback)",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.supernatural_velocity.desc0",
+    "text": "- Solifuges (trong biome Ulterior Outback)",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.exoskeleton_plate.desc2",
+    "text": "- Antlions (trong biome Volcanic Desert)",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.magma_crawler_eye.desc0",
+    "text": "- Magma Crawlers (trong Antlion Overlord Pyramids)",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.crop_sticks.desc1",
+    "text": "Ender IO Farming Station.",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "dj2.crop_sticks.desc4",
+    "text": "/ Horn of the Wild, Actually Additions Farmer,",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "tile.metamorphic_sandstone_chiseled.blueschist.name",
+    "text": "Blue Chiseled Schist Sandstone",
+    "prose": false
+  },
+  {
+    "mod": "crafttweaker",
+    "key": "tile.metamorphic_sandstone_chiseled.greenschist.name",
+    "text": "Green Chiseled Schist Sandstone",
+    "prose": false
+  },
+  {
+    "mod": "cucumber",
+    "key": "guide.cu.page_indicator",
+    "text": "Trang %s / %s",
+    "prose": false
+  },
+  {
+    "mod": "divine_journey_2",
+    "key": "tile.framedcompactdrawers.framed_slave.name",
+    "text": "Framed Controller Access Point",
+    "prose": false
+  },
+  {
+    "mod": "divine_journey_2",
+    "key": "ritual.divine_journey_2.tough_and_pure",
+    "text": "Rite of the Tough and Pure",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.grindingball.tooltip.line1",
+    "text": "%sSAG Mill Grinding Ball",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "material.end_steel.prefix",
+    "text": "%s of the End",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.advancement.start.2_simple_chassis_get.name",
+    "text": "The Third 'S' is Silent",
+    "prose": true
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.darksteel.upgrades.armor.legs",
+    "text": "Dark Steel Leg Armor",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.easteregg.piginabottle",
+    "text": "Bacon in a Bottle",
+    "prose": true
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.fluid.millibucket.format.of",
+    "text": "%s / %s mB",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.fluid.millibucket.format.ofname",
+    "text": "%s / %s mB %s",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.gui.conduit_probe.power.tracked_network.line2",
+    "text": "\\u0020- Kho Conduit: %s",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.gui.conduit_probe.power.tracked_network.line3",
+    "text": "\\u0020- Kho Capacitor Bank: %s",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.gui.enchantment_filter_big",
+    "text": "Big Enchantment Item Filter",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.gui.soul_filter_big",
+    "text": "Big Soul Item Filter",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.item_endergy_conduit_energetic_silver.name",
+    "text": "Energetic Silver Energy Conduit",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.item_endergy_conduit_pink_slime.name",
+    "text": "Crystalline Pink Slime Energy Conduit",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.loot.capacitor.title.7",
+    "text": "Capacitor of the Southern Winds",
+    "prose": true
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.loot.capacitor.title.8",
+    "text": "Capacitor of What is This Doing Here",
+    "prose": true
+  },
+  {
+    "mod": "enderio",
+    "key": "enderio.power.format.of",
+    "text": "%s / %s µI",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "lingering_potion.effect.enderio.confusion",
+    "text": "Lingering Potion of Confusion",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "lingering_potion.effect.enderio.floating",
+    "text": "Lingering Potion of Rising",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "lingering_potion.effect.enderio.withering",
+    "text": "Lingering Potion of Decay",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "splash_potion.effect.enderio.confusion",
+    "text": "Splash Potion of Confusion",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "splash_potion.effect.enderio.floating",
+    "text": "Splash Potion of Rising",
+    "prose": false
+  },
+  {
+    "mod": "enderio",
+    "key": "splash_potion.effect.enderio.withering",
+    "text": "Splash Potion of Decay",
+    "prose": false
+  },
+  {
+    "mod": "erebus",
+    "key": "advancement.erebus.exploration.antivenom.desc",
+    "text": "Pha Anti-venom trong Smoothie Maker.",
+    "prose": false
+  },
+  {
+    "mod": "erebus",
+    "key": "container.petrifiedChestDouble",
+    "text": "Large Petrified Wood Chest",
+    "prose": false
+  },
+  {
+    "mod": "evilcraft",
+    "key": "broom.parts.evilcraft.cap_gem_darkpower.name",
+    "text": "Dark Power Gem Cap",
+    "prose": false
+  },
+  {
+    "mod": "evilcraft",
+    "key": "broom.parts.evilcraft.cap_head_witherskeleton.name",
+    "text": "Wither Skeleton Skull Cap",
+    "prose": false
+  },
+  {
+    "mod": "evilcraft",
+    "key": "broom.parts.evilcraft.cap_metal_alubrass.name",
+    "text": "Aluminum Brass Metal Cap",
+    "prose": false
+  },
+  {
+    "mod": "evilcraft",
+    "key": "info_book.evilcraft.second_age.tools.blood_pearl_of_teleportation",
+    "text": "Blood Pearl of Teleportation",
+    "prose": true
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.fluid.IO",
+    "text": "ME Fluid Export/Import Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.fluid.plane",
+    "text": "ME Fluid Annihilation/Formation Plane",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.1024k.name",
+    "text": "1024k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.16k.name",
+    "text": "16k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.1k.name",
+    "text": "1k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.256k.name",
+    "text": "256k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.4096k.name",
+    "text": "4096k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.4k.name",
+    "text": "4k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.fluid.64k.name",
+    "text": "64k ME Fluid Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.1024k.name",
+    "text": "1024k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.16k.name",
+    "text": "16k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.1k.name",
+    "text": "1k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.256k.name",
+    "text": "256k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.4096k.name",
+    "text": "4096k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.4k.name",
+    "text": "4k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.gas.64k.name",
+    "text": "64k ME Gas Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.physical.1024k.name",
+    "text": "1024k ME Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.physical.16384k.name",
+    "text": "16384k ME Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.physical.256k.name",
+    "text": "256k ME Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.component.physical.4096k.name",
+    "text": "4096k ME Storage Component",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.1024k.name",
+    "text": "ME 1024k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.16k.name",
+    "text": "ME 16k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.1k.name",
+    "text": "ME 1k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.256k.name",
+    "text": "ME 256k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.4096k.name",
+    "text": "ME 4096k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.4k.name",
+    "text": "ME 4k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.64k.name",
+    "text": "ME 64k Fluid Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.fluid.portable.name",
+    "text": "ME Portable Fluid Storage",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.1024k.name",
+    "text": "ME 1024k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.16k.name",
+    "text": "ME 16k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.1k.name",
+    "text": "ME 1k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.256k.name",
+    "text": "ME 256k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.4096k.name",
+    "text": "ME 4096k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.4k.name",
+    "text": "ME 4k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.64k.name",
+    "text": "ME 64k Gas Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.gas.portable.name",
+    "text": "ME Portable Gas Storage",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.physical.1024k.name",
+    "text": "ME 1024k Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.physical.16384k.name",
+    "text": "ME 16384k Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.physical.256k.name",
+    "text": "ME 256k Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.item.storage.physical.4096k.name",
+    "text": "ME 4096k Storage Cell",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.battery.name",
+    "text": "ME Energy Cell Fixture",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.conversion.monitor.name",
+    "text": "ME Fluid Conversion Monitor",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.export.name",
+    "text": "ME Fluid Export Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.import.name",
+    "text": "ME Fluid Import Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.levelemitter.name",
+    "text": "ME Fluid Level Emitter",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.monitor.name",
+    "text": "ME Fluid Storage Monitor",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.plane.annihilation.name",
+    "text": "ME Fluid Annihilation Plane",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.plane.formation.name",
+    "text": "ME Fluid Formation Plane",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.fluid.storage.name",
+    "text": "ME Fluid Storage Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.gas.conversion.monitor.name",
+    "text": "ME Gas Conversion Monitor",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.gas.export.name",
+    "text": "ME Gas Export Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.gas.import.name",
+    "text": "ME Gas Import Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.gas.levelemitter.name",
+    "text": "ME Gas Level Emitter",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.gas.monitor.name",
+    "text": "ME Gas Storage Monitor",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.gas.storage.name",
+    "text": "ME Gas Storage Bus",
+    "prose": false
+  },
+  {
+    "mod": "extracells",
+    "key": "extracells.part.oredict.export.name",
+    "text": "ME Ore Dictionary Export Bus",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "achievement.xu2.dye.of.the.moon",
+    "text": "Dye of the Moon",
+    "prose": true
+  },
+  {
+    "mod": "extrautils2",
+    "key": "achievement.xu2.villager.contract.desc",
+    "text": "Head of Villager Soul Resources",
+    "prose": true
+  },
+  {
+    "mod": "extrautils2",
+    "key": "extrautils2.text.drum.s.s.s",
+    "text": "Drum: %s (%s / %s)",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "extrautils2.text.s.s.rf",
+    "text": "%s / %s RF",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "extrautils2.text.s.x.s.s.gp",
+    "text": "%s x %s: %s GP",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "extrautils2.text.x.s.y.s.z.s",
+    "text": "x = %s, y = %s, z = %s",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.doom",
+    "text": "Lingering Potion of Doom",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.fizzy.lifting",
+    "text": "Lingering Potion of Fizzy Lifting",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.gravity",
+    "text": "Lingering Potion of Gravity",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.gravity.long",
+    "text": "Lingering Potion of Gravity",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.greek.fire",
+    "text": "Lingering Potion of Greek Fire",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.love",
+    "text": "Lingering Potion of Love",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.purging",
+    "text": "Lingering Potion of Purging",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.relapse",
+    "text": "Lingering Potion of Relapse",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "lingering_potion.effect.xu2.second.chance",
+    "text": "Lingering Potion of Second Chance",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.doom",
+    "text": "Splash Potion of Doom",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.fizzy.lifting",
+    "text": "Splash Potion of Fizzy Lifting",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.gravity",
+    "text": "Splash Potion of Gravity",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.gravity.long",
+    "text": "Splash Potion of Gravity",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.greek.fire",
+    "text": "Splash Potion of Greek Fire",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.love",
+    "text": "Splash Potion of Love",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.purging",
+    "text": "Splash Potion of Purging",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.relapse",
+    "text": "Splash Potion of Relapse",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "splash_potion.effect.xu2.second.chance",
+    "text": "Splash Potion of Second Chance",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "tipped_arrow.effect.xu2.fizzy.lifting",
+    "text": "Arrow of Fizzy Lifting",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "tipped_arrow.effect.xu2.greek.fire",
+    "text": "Arrow of Greek Fire",
+    "prose": false
+  },
+  {
+    "mod": "extrautils2",
+    "key": "tipped_arrow.effect.xu2.second.chance",
+    "text": "Arrow of Second Chance",
+    "prose": false
+  },
+  {
+    "mod": "ftbbackups",
+    "key": "ftbbackups.lang.timer_progress",
+    "text": "[%d%% | %d / %d]",
+    "prose": false
+  },
+  {
+    "mod": "ftbutilities",
+    "key": "commands.chunks.info.text",
+    "text": "Chunk %d:%d trong %s: %s",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftcore",
+    "key": "gui.space_race.join.title.name",
+    "text": "Tham gia Space Race",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftcore",
+    "key": "gc.configgui.id_schematic_add_schematic",
+    "text": "Schematic ID \"Add Schematic\"",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftcore",
+    "key": "gc.configgui.id_schematic_moon_buggy",
+    "text": "Schematic ID Moon Buggy",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftcore",
+    "key": "gc.configgui.id_schematic_rocket_t1",
+    "text": "Schematic ID Tier 1 Rocket",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftplanets",
+    "key": "item.desh_pick_slime.description.name",
+    "text": "Can harvest Creeper eggs",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftplanets",
+    "key": "gc.configgui.id_schematic_cargo_rocket",
+    "text": "Schematic ID Cargo Rocket",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftplanets",
+    "key": "gc.configgui.id_schematic_rocket_t2",
+    "text": "Schematic ID Tier 2 Rocket",
+    "prose": false
+  },
+  {
+    "mod": "galacticraftplanets",
+    "key": "gc.configgui.id_schematic_rocket_t3",
+    "text": "Schematic ID Tier 3 Rocket",
+    "prose": false
+  },
+  {
+    "mod": "hammercore",
+    "key": "hc.splash.32",
+    "text": "\"Lewds with all the sexy dergs\" - Kenith",
+    "prose": true
+  },
+  {
+    "mod": "immersiveengineering",
+    "key": "ie.manual.entry.computer.sampleDrill.name",
+    "text": "Core Sample Drill ☎",
+    "prose": false
+  },
+  {
+    "mod": "immersiveengineering",
+    "key": "ie.manual.entry.computer.squeezerAndFermenter.name",
+    "text": "Fermenter & Squeezer ☎",
+    "prose": false
+  },
+  {
+    "mod": "industrialforegoing",
+    "key": "gui.industrialforegoing.side_config.villager_mob_imprisonment_tool",
+    "text": "Villager Mob Imprisonment Tool",
+    "prose": false
+  },
+  {
+    "mod": "integrateddynamics",
+    "key": "info_book.integrateddynamics.section.main",
+    "text": "On the Dynamics of Integration",
+    "prose": true
+  },
+  {
+    "mod": "integrateddynamics",
+    "key": "key.integrateddynamics.logic_programmer_focus_search",
+    "text": "Focus Search Logic Programmer",
+    "prose": false
+  },
+  {
+    "mod": "integrateddynamics",
+    "key": "key.integrateddynamics.logic_programmer_open_rename",
+    "text": "Rename Variable Logic Programmer",
+    "prose": false
+  },
+  {
+    "mod": "integrateddynamics",
+    "key": "operator.operators.integrateddynamics.cast.tooltip",
+    "text": "Cast %s sang %s",
+    "prose": false
+  },
+  {
+    "mod": "integrateddynamics",
+    "key": "aspect.aspects.integrateddynamics.read.list.thaumcraft.aspectcontainer.name",
+    "text": "Aspect Trong Aspect Container",
+    "prose": false
+  },
+  {
+    "mod": "integratedtunnels",
+    "key": "info_book.integratedtunnels.tutorials.world_block_importer_exporter",
+    "text": "World Block Importer Exporter",
+    "prose": false
+  },
+  {
+    "mod": "integratedtunnels",
+    "key": "info_book.integratedtunnels.tutorials.world_item_importer_exporter",
+    "text": "World Item Importer Exporter",
+    "prose": false
+  },
+  {
+    "mod": "jei",
+    "key": "jei.tooltip.liquid.amount.with.capacity",
+    "text": "%,d / %,d mB",
+    "prose": false
+  },
+  {
+    "mod": "moartinkers",
+    "key": "modifier.lightboost.name",
+    "text": "Power of the Sun",
+    "prose": true
+  },
+  {
+    "mod": "openblocks",
+    "key": "item.openblocks.info_book.name",
+    "text": "World Domination with OpenBlocks",
+    "prose": false
+  },
+  {
+    "mod": "plustic",
+    "key": "modifier.dprk.name",
+    "text": "Democratic People's Republic of Korea",
+    "prose": true
+  },
+  {
+    "mod": "plustic",
+    "key": "modifier.jetpackpancakehippos.name",
+    "text": "Jetpack Pancake Hippos (%s)",
+    "prose": false
+  },
+  {
+    "mod": "plustic",
+    "key": "modifier.musicofthespheres.name",
+    "text": "Music of the Spheres",
+    "prose": true
+  },
+  {
+    "mod": "plustic",
+    "key": "modifier.unnamed.name",
+    "text": "He Who Must Not Be Named",
+    "prose": true
+  },
+  {
+    "mod": "projecte",
+    "key": "pe.divining.thirdmax",
+    "text": "EMC Cao Ba: %s",
+    "prose": false
+  },
+  {
+    "mod": "quantumflux",
+    "key": "flair.item.netherBane",
+    "text": "Sabre of the Moon",
+    "prose": true
+  },
+  {
+    "mod": "roots",
+    "key": "item.roots.roots_guide.name",
+    "text": "The Magic of the Wilds",
+    "prose": false
+  },
+  {
+    "mod": "solarflux",
+    "key": "research_name.solarflux:void_metal_solar_panel",
+    "text": "Void Metal Solar Panel",
+    "prose": false
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "research.ESSENTIASMELTERVOID.title",
+    "text": "Void Metal Essentia Smelter",
+    "prose": false
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "research.BOOTSTRAVELLER.title",
+    "text": "Boots of the Traveler",
+    "prose": true
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "research.FOCUSMINE.title",
+    "text": "Focus Medium: Arcane Mine",
+    "prose": false
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "research.JARBRAIN.title",
+    "text": "Brain in a Jar",
+    "prose": true
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "research.SEALBREAK.title",
+    "text": "Control Seal: Block Breaker",
+    "prose": false
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "thaumcraft.subtitle.fly",
+    "text": "Taint Swarm vo ve",
+    "prose": false
+  },
+  {
+    "mod": "thaumcraft",
+    "key": "research.GOLEMBREAKER.title",
+    "text": "Golem Manipulation: Block Breaking",
+    "prose": false
+  },
+  {
+    "mod": "thaumicaugmentation",
+    "key": "thaumicaugmentation.research.card.rift_jar.title",
+    "text": "Rift in a Jar",
+    "prose": true
+  },
+  {
+    "mod": "thaumicaugmentation",
+    "key": "thaumicaugmentation.research.focus_shield.title",
+    "text": "Focus Effect: Void Shield",
+    "prose": false
+  },
+  {
+    "mod": "thaumicaugmentation",
+    "key": "thaumicaugmentation.research.starfield_glass_fracture.title",
+    "text": "Starfield Glass: Dimensional Fracture",
+    "prose": false
+  },
+  {
+    "mod": "thaumicaugmentation",
+    "key": "thaumicaugmentation.research.impulse_cannon_augment_railgun.title",
+    "text": "Impulse Cannon: Railgun Conversion",
+    "prose": false
+  },
+  {
+    "mod": "thaumicaugmentation",
+    "key": "thaumicaugmentation.research.thaumium_robes.title",
+    "text": "Robes of the Adept",
+    "prose": true
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.ceremony.totemic:depths",
+    "text": "Symphony of the Depths",
+    "prose": true
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.entry.depths",
+    "text": "Symphony of the Depths",
+    "prose": true
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.musicNeeded.crazyLarge",
+    "text": "♪ ♪ ♪ ♪ ♪ ♪",
+    "prose": false
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.musicNeeded.large",
+    "text": "♪ ♪ ♪ ♪ ♪",
+    "prose": false
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.musicNeeded.mediumLarge",
+    "text": "♪ ♪ ♪ ♪",
+    "prose": false
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.page.danseMacabre2",
+    "text": "November Spawned a Monster",
+    "prose": true
+  },
+  {
+    "mod": "totemic",
+    "key": "totemic.page.fertility1",
+    "text": "Lover I don't have to love",
+    "prose": true
+  },
+  {
+    "mod": "universaltweaks",
+    "key": "gui.universaltweaks.cyclic.ender_book.page",
+    "text": "Trang %s / %s",
+    "prose": false
+  },
+  {
+    "mod": "valkyrielib",
+    "key": "guide.valkyrielib.button.discord",
+    "text": "Tham gia Discord ValkyrieofNight",
+    "prose": false
+  }
+]
