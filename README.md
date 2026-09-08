@@ -1,270 +1,222 @@
-# Divine Journey 2 v2.23.4 — Việt hóa
+<div align="center">
 
-Bộ Việt hóa dành cho **Divine Journey 2 v2.23.4 / Minecraft 1.12.2**, gồm resource pack, gói cài client và overlay server có allowlist.
+<img src="docs/poster.png" alt="Divine Journey 2 - Việt hóa" width="720">
 
-Repo này chứa **mã nguồn và công cụ dựng**, không chứa artifact đã build: mọi
-zip, bundle và ảnh poster đều sinh lại được từ `source/` + `work/` bằng các
-script trong `tools/`.
+# Divine Journey 2 — Việt hóa 2.23.4
 
-## Tình trạng hiện tại
+**Bản dịch tiếng Việt cho modpack Divine Journey 2**, tập trung vào nhiệm vụ, hướng
+dẫn và giao diện — phần chữ bạn thực sự phải đọc để chơi.
 
-| Chỉ số | Giá trị |
+[![Tải bản mới nhất](https://img.shields.io/badge/T%E1%BA%A3i_v%E1%BB%81-v2.23.4-2ea44f?style=for-the-badge)](https://github.com/anhtahaylove/dj2-viethoa/releases/tag/v2.23.4)
+[![Coverage](https://img.shields.io/badge/Ph%E1%BA%A1m_vi_d%E1%BB%8Bch-84,1%25-blue?style=for-the-badge)](#số-liệu-thật)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-orange?style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/divine-journey-2)
+
+</div>
+
+---
+
+## Cài đặt trong 3 bước
+
+**Bạn chỉ cần file này:** [`DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip`](https://github.com/anhtahaylove/dj2-viethoa/releases/tag/v2.23.4)
+
+| Bước | Việc cần làm |
+|:---:|---|
+| **1** | Trong launcher, bấm chuột phải instance Divine Journey 2 → **Open Folder** |
+| **2** | Giải nén file ZIP trên vào đúng thư mục đó, chọn **ghi đè** khi được hỏi |
+| **3** | Vào game → **Options → Resource Packs** → bật gói **DJ2 Việt hóa** |
+
+> **Không cần tạo thế giới mới.** Bản Việt hóa không đụng vào save của bạn.
+
+<details>
+<summary><b>Chơi trên máy chủ? Bấm vào đây</b></summary>
+
+<br>
+
+Chủ server dùng thêm `DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip` để dịch
+phần chữ do server gửi xuống (tin nhắn lệnh, tên nhiệm vụ trong chat). Người chơi
+vẫn cài bản client như trên.
+
+Chi tiết cài đặt và kiểm tra sau khi cài nằm trong
+[ghi chú phát hành](release/DJ2_Viet_Hoa_2.23.4/GHI_CHU_PHAT_HANH.md).
+
+</details>
+
+---
+
+## Bản này có gì
+
+### Dịch những thứ bạn phải đọc
+
+- **Toàn bộ nhiệm vụ BetterQuesting** — mô tả, mục tiêu, phần thưởng, giao diện.
+- **Sách hướng dẫn** Patchouli, Tinkers' Construct, guide book các mod lớn.
+- **Tooltip, thành tựu, tin nhắn** hiện trong lúc chơi.
+- **Nhãn giao diện** của Astral Sorcery, EnderIO, Mekanism, Botania, ProjectE,
+  Thermal, JEI, FTB Utilities, Quark và nhiều mod khác.
+
+**35.519 dòng** đã dịch, trải trên **169 mod**.
+
+### Giữ tên tiếng Anh — có chủ đích
+
+Tên item, block, máy, mob, phép, nghi lễ và chòm sao **giữ nguyên tiếng Anh**.
+
+Lý do rất thực tế: bạn gõ `Copper Ingot` vào JEI thì ra kết quả, gõ "Thỏi Đồng"
+thì không. Mọi hướng dẫn, video và wiki về modpack này đều dùng tên tiếng Anh.
+Dịch tên item nghe thì hay, nhưng làm bạn không tra cứu được gì nữa.
+
+### Sửa một lỗi của chính modpack
+
+Bản này kèm bản vá cho một lỗi **có sẵn trong Divine Journey 2**, không liên quan
+đến việc dịch: **27 loại quặng** Copper, Tin, Nickel và Aluminum sinh ra trong đá
+của Underground Biomes (granite, andesite, limestone…) **không nung được trong lò**.
+
+<div align="center">
+
+| Kim loại | Số biến thể đá | Trạng thái |
+|---|:---:|:---:|
+| Copper | 9 | ✅ Đã sửa |
+| Tin | 6 | ✅ Đã sửa |
+| Nickel | 6 | ✅ Đã sửa |
+| Aluminum | 6 | ✅ Đã sửa |
+
+</div>
+
+Nguyên nhân: Underground Biomes tạo bản sao quặng theo từng loại đá và hỏi lò
+"quặng gốc nung ra gì?" — nhưng hỏi *trước khi* Thermal Foundation kịp đăng ký
+công thức nung, nên nhận về con số không. Máy nghiền và lò hồ quang không dính lỗi
+này vì chúng tra theo ore dictionary. Bản vá đăng ký lại đúng 27 công thức lúc
+server khởi động.
+
+---
+
+## Chất lượng hiển thị
+
+Font mặc định của Minecraft không có dấu tiếng Việt. Gói này kèm font đã dựng lại
+để dấu hiện đúng, không bị cắt hay chồng lên nhau:
+
+<div align="center">
+<img src="docs/font_tone_marks.png" alt="Bảng dấu tiếng Việt trong font" width="560">
+</div>
+
+---
+
+## Số liệu thật
+
+<div align="center">
+
+| | |
 |---|---|
-| Coverage | **83,5%** (22.618 / 27.075 khóa trong phạm vi) |
-| Backlog T2 / T3 / chưa phân tier | 270 / 189 / 563 |
-| Nợ dịch thật trong backlog | **0** (cả ba tier) |
-| Khóa trùng English đã rà | 3.280 (còn lại đều cố ý giữ English) |
-| Validator | 0 lỗi |
-| pytest | 192 passed |
-| `verify_release.py` | exit 0 |
+| Phạm vi dịch | **84,1%** (22.783 / 27.075 khóa trong phạm vi) |
+| Dòng đã ship | 35.519 dòng, 169 mod |
+| Nợ dịch ưu tiên cao (T1) | **0** |
+| Còn lại | 270 nhãn giao diện phụ, 189 màn hình cấu hình, 547 chuỗi lẻ |
+| pytest | **212 passed**, 2 subtests |
+| Gate build / EOL / verify | tất cả exit 0 |
 
-Backlog không phải là "nợ dịch" thuần: phần lớn dòng T2 còn lại là tên chòm sao
-Astral Sorcery, tên nghi lễ và phép AbyssalCraft/Blood Magic — những chuỗi **cố
-ý giữ English**. Con số coverage vì vậy sẽ không bao giờ chạm 100%.
+</div>
 
-Wave 20 đã rà hết cả ba tier bằng `tools/triage_other_tier.py`: **1.022 dòng
-còn lại đều cố ý giữ English, không còn nợ dịch nào**. Phân bố lý do:
+Phần chưa dịch là màn hình cấu hình, công cụ quản trị và chuỗi lẻ ít gặp — không
+phải nội dung bạn đọc khi chơi. Thêm **3.286 dòng** cố ý để nguyên tiếng Anh vì
+chúng là tên tra cứu được, và **561 dòng** tài liệu chỉ dành cho lập trình viên.
 
-| Lý do giữ English | T2 | T3 | `other` |
-|---|---|---|---|
-| Protected term / tên item, block, registry | 206 | — | 265 |
-| Tên riêng (chòm sao, nghi lễ, phép, brew, biome, potion, entity) | 41 | — | 131 |
-| Cú pháp lệnh người chơi phải gõ | — | 98 | 12 |
-| Tên mod bên thứ ba (`cfg.universaltweaks.*`) | — | 91 | — |
-| Khuôn format, ký hiệu, mã màu, đơn vị, notation | 12 | — | 61 |
-| Id nội bộ (shader, loot table, structure, transformer, style) | 1 | — | 46 |
-| Khuôn tên item (`%s Bolt`, GregTech) | — | — | 39 |
-| Tiêu đề màn hình lặp lại tên registry | 10 | — | 9 |
-| **Tổng** | **270** | **189** | **563** |
+---
 
-Chạy `python tools/triage_other_tier.py --tier <T2\|T3\|other>` để xem thống kê,
-thêm `--list <namespace>` để xem chi tiết từng mod.
+## Dành cho người muốn tự build
 
-## Cấu trúc thư mục
+<details>
+<summary><b>Cấu trúc kho và quy trình build</b></summary>
 
-| Đường dẫn | Nội dung |
-|---|---|
-| `source/` | Văn bản English trích từ modpack, dùng làm đầu vào chuẩn |
-| `work/translated/` | Bản dịch tiếng Việt, tách theo quest text và runtime locale |
-| `work/runtime_locale_sources/` | Nửa English tương ứng, giữ key set 1:1 với bản dịch |
-| `work/protected_terms.json` | Thuật ngữ bắt buộc giữ English, được validator kiểm tự động |
-| `tools/` | Script build, validator, installer và test |
-| `release/` | Artifact phát hành hiện hành; ZIP không track, còn manifest/acceptance/verification/checksum thì có (bằng chứng đã ship) |
+<br>
 
-### Công cụ kiểm tra bổ sung
-
-| Script | Mục đích |
-|---|---|
-| `tools/restore_english_sources.py` | Dựng lại nửa English của `work/runtime_locale_sources/` từ JAR và `resources/`. Chạy `--write` để ghi, không tham số để xem báo cáo. |
-| `tools/check_button_widths.py` | Đo bề rộng pixel chuỗi Việt bằng `glyph_sizes.bin` thật, so với bản English và mẫu tham chiếu, phát hiện nguy cơ tràn nút. |
-| `tools/triage_other_tier.py` | Phân loại backlog T2/T3/`other` thành "cố ý giữ English" và "nợ dịch thật", kèm thống kê lý do và namespace (`--tier`, `--list`). |
-| `tools/report_cross_store_conflicts.py` | Tìm khoá mà hai store **cùng nạp vào một namespace** lại có bản dịch khác nhau (exit 1 nếu có); `--all` in cả các cặp vô hại. |
-| `tools/test_extract_runtime_sources.py` | Ngoài test harvest, còn có `EnglishSourcePurityTests` chống việc `work/runtime_locale_sources/` bị nhiễm tiếng Việt trở lại. |
-
-## Artifact phát hành hiện hành
-
-Nằm trong `release/DJ2_Viet_Hoa_2.23.4/` sau khi chạy chuỗi build:
-
-- `DJ2_Viet_Hoa_2.23.4.zip` — resource pack dành cho client và server phân phối qua HTTP.
-- `DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip` — giải nén **trực tiếp vào thư mục `minecraft`** của instance; không có thư mục bọc ngoài.
-- `DJ2_Viet_Hoa_2.23.4_Server_Localization_Overlay.zip` — chỉ chứa các file server localization đã review; không chứa world, playerdata, tài khoản hay cấu hình mạng.
-- `RELEASE_MANIFEST_CURRENT.json` — hash/kích thước/entry count hiện hành.
-- `FINAL_ACCEPTANCE_CURRENT.json` — kết quả kiểm định cuối.
-- `SHA256SUMS.txt` — checksum của toàn bộ artifact.
-
-Metadata và artifact cũ được giữ trong `build/archive/`, không còn nằm lẫn ở release root.
-
-## Cài đặt client
-
-### Khuyến nghị
-
-1. Tắt Minecraft/launcher của instance.
-2. Sao lưu các file sẽ bị ghi đè.
-3. Giải nén `DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip` thẳng vào root `minecraft`.
-4. Mở game và kiểm tra:
-   - `Tiếng Việt (Việt Nam)` đang được chọn;
-   - `DJ2_Viet_Hoa_2.23.4.zip` đang bật;
-   - menu, Quest Book, JEI và tooltip hiển thị đúng dấu.
-
-Có thể cài riêng resource pack vào `resourcepacks`, nhưng Client ZIP còn mang theo menu, Default Options, Tips, script message và các overlay an toàn khác.
-
-## Cài đặt server
-
-```bash
-python tools/build_server_overlay.py
-python tools/install_server_overlay.py
-python tools/verify_server_delivery.py
+```
+source/            bản dịch gốc, là nguồn sự thật duy nhất
+  server_shared/   script CraftTweaker dùng chung cho client và server
+work/              công cụ đo đạc, phân tier, báo cáo
+tools/             validator, builder, gate kiểm tra
+release/           artifact đã đóng gói + checksum
+docs/              ảnh minh họa
 ```
 
-Installer:
-
-- tạo backup theo từng file;
-- chỉ cài các path trong allowlist;
-- merge riêng MOTD của FTBUtilities;
-- giữ nguyên mọi gameplay setting khác;
-- cập nhật riêng `resource-pack-sha1` theo bytes canonical;
-- không chạm world, BetterQuesting world DB, recipe/progression hoặc player data ngoài những script message đã review.
-
-Sau khi resource-pack helper chạy, phải tải ngược file qua URL đã cấu hình và xác minh HTTP bytes/SHA-1 trước khi cho người chơi kết nối.
-
-## Phạm vi Việt hóa
-
-- BetterQuesting quest text đầy đủ và UI BetterQuesting.
-- Tips, guide books, Patchouli/Tinkers manuals, advancement prose và tooltip đã review.
-- Client menu/default language/config và các message script an toàn.
-- Batch UI/command/status/help mới cho FTBUtilities, FTBLib, FTBBackups, JEI, JEI Utilities, JEI Resources, Ender Utilities, Actually Additions và Extra Utilities 2.
-- Nhãn giao diện Astral Sorcery (journal, perk), EnderIO, Mekanism, BiblioCraft,
-  Botania, Bewitchment, EvilCraft, ProjectE, Tinkers' Construct và Quark.
-- Biome-counter message được dịch nhưng vẫn giữ `Mortum`, `Hell`, `Magical Forest`, `Ocean` bằng English.
-
-Tên item, block, fluid, mob, biome, dimension, machine, multiblock, material, mod và proper name quan trọng tiếp tục giữ English để tra JEI/Wiki và tránh phá registry/parser.
-
-## Quy tắc dịch
-
-Bốn quy tắc quyết định một chuỗi được dịch hay giữ English:
-
-1. **Tên tra cứu được thì giữ English.** Item, block, máy, chất lỏng, nâng cấp,
-   mod và tên riêng đều giữ nguyên để người chơi còn gõ được vào JEI và wiki.
-   Trong batch EnderIO Dark Steel gần nhất, 58/74 dòng giữ English vì chúng là
-   tên nâng cấp chứ không phải câu.
-2. **Khuôn sinh tên vật phẩm thì giữ English.** Chuỗi như `%s Bolt`, `%s Ingot`
-   hay `Block of %s` là khuôn ghép tên registry, không phải nhãn giao diện.
-   Dịch chúng sẽ làm hỏng hàng loạt tên trong JEI.
-3. **Tiền lệ trong corpus thắng cách dịch mới.** Nếu một thuật ngữ đã có bản
-   dịch từng phát hành thì tái sử dụng, kể cả khi cách dịch mới nghe hay hơn.
-   Validator consistency là trọng tài cho quy tắc này.
-4. **`protected_terms.json` thắng tất cả.** Được kiểm tự động; không sửa file
-   này để một bản dịch đi qua được validator.
-
-Với chuỗi vừa có phần chung vừa có tên riêng thì dịch phần chung và giữ tên
-riêng: `Root: Aevitas` → `Cội: Aevitas`.
-
-Cú pháp lệnh giữ nguyên English vì người chơi phải gõ đúng từng ký tự
-(`/team create <id> [color]`); chỉ dịch phần văn bản trò chơi in ra.
-
-Đồng âm khác nghĩa xử lý bằng `CONSISTENCY_EXEMPT` trong
-`tools/validate_translated_locales.py`, kèm chú giải lý do — ví dụ `Ocean` là
-biome vanilla, khác `Ocean` là tên chòm sao Octans; hay `Pillar` là chế độ xây
-của Mercurial Eye, khác `Pillar` là tên hình dạng microblock.
-
-Một số chuỗi trông như từ nhưng không phải: `pe.transmutation.learned*` của
-ProjectE là animation hiện từng **ký tự** của chữ "Learned!", nên toàn bộ nhóm
-key này giữ English.
-
-## Lịch sử phát hành
-
-Mỗi wave đều đi hết chuỗi validator → build → publish → install → verify →
-pytest trước khi commit.
-
-| Commit | Nội dung | Coverage |
-|---|---|---|
-| `e7c76c1` | Đưa dự án vào Git, 2.535 file | — |
-| `3cb7738` | 64 nhãn config UniversalTweaks | — |
-| `8a45f78` | Sửa 2 khuôn tên item GregTech + 5 nhãn UI | 79,8% |
-| `70b3c1f` | 419 nhãn Astral Sorcery, Extra Utilities 2, EnderIO | 81,0% |
-| `936a6fc` | 438 nhãn thuộc 28 namespace | 82,0% |
-| `6613794` | 404 nhãn thuộc 8 namespace | 82,4% |
-| `f7dabd4` | Sửa tên đơn vị Quintillion trong EMC postfix | 82,4% |
-| `41ed0a0` | Cập nhật README theo wave 18 | 82,4% |
-| `d73eb7c` | Khôi phục nguồn English thật, sửa các lỗi bị che | 82,4% |
-| `d56786e` | 428 nhãn `other` thuộc 60 namespace, dọn xung đột cross-family | 83,5% |
-| `ee628a0` | Rà hết T2/T3/`other`: 0 nợ dịch còn lại, thêm pytest gate xung đột | 83,5% |
-| wave 21 | Rà 3.286 khóa trùng English (6 nợ ẩn), gate EOL, chuỗi build hợp nhất | 83,5% |
-
-Vài lỗi đáng nhớ mà các gate đã bắt được:
-
-- **Khuôn tên item bị dịch** (`8a45f78`): `base.part.bolt` và `base.part.round`
-  của GregTech là khuôn `%s Bolt`/`%s Round`, dịch chúng làm hỏng hàng loạt tên
-  trong JEI.
-- **Key tự bịa** (`70b3c1f`): trong lúc sửa consistency collision đã tạo một key
-  không tồn tại trong JAR; từ đó mọi sửa đổi phải kiểm `set(vi) ⊆ set(source)`.
-- **Dịch từng ký tự** (`6613794`): 16 key animation của ProjectE bị dịch theo
-  từng chữ cái và làm mất một key.
-- **Sai bậc đơn vị** (`f7dabd4`): `Quintillion` (10¹⁸) bị dịch thành "Tỷ tỷ"
-  trong khi chuỗi trước đó là 10¹² "Nghìn tỷ" → 10¹⁵ "Triệu tỷ"; test doubling
-  bắt được, giá trị đúng là "Nghìn triệu tỷ".
-- **Nguồn English bị nhiễm tiếng Việt** (wave 19): 7.014 khóa trong
-  `work/runtime_locale_sources/` chứa **bản dịch tiếng Việt thay vì English
-  gốc**. Vì mọi validator và test đều so `source` với `translated`, chúng thực
-  chất đang so tiếng Việt với chính nó — guard trở nên **mù hoàn toàn** trên
-  phần lớn corpus. Sau khi dựng lại nguồn từ JAR + `resources/`
-  (`tools/restore_english_sources.py`), các gate lập tức phát hiện 74 lỗi
-  consistency và 38 lỗi định dạng đã tồn tại từ nhiều wave trước, trong đó có
-  6 chuỗi CraftTweaker **mất toàn bộ mã màu `§`**. Bản dịch không mất chữ nào —
-  6.373/6.396 khóa vẫn khớp — nhưng bài học là: nếu một gate không bao giờ đỏ,
-  hãy nghi ngờ dữ liệu đầu vào của chính nó.
-- **Bundle lồng nhau bị cũ** (wave 19): `verify_release.py` chỉ hash các ZIP
-  ngoài, nên client bundle và server overlay từng mang resource pack **trước
-  wave 18** mà vẫn exit 0. Đã bổ sung `nested_pack_mismatch`: mở ZIP lồng, so
-  hash với bản standalone; gate được kiểm bằng cách cố tình chèn pack cũ và xác
-  nhận verify chuyển sang exit 1.
-- **Key `button.*` không phải lúc nào cũng là mặt nút** (wave 19): bốn khóa
-  `button.*.name` của Guide-API bị `check_button_widths.py` báo tràn khung suốt
-  nhiều wave. Đọc bytecode (`javap -c ButtonBack.class`) cho thấy chúng được
-  dùng trong `getHoveringText()` — tức là **tooltip khi rê chuột**, còn nút thật
-  chỉ là texture 18×10 không vẽ chữ. Tooltip không bị giới hạn bởi bề rộng nút,
-  nên đây là cảnh báo giả; đã thêm `NOT_BUTTON_FACE` kèm chú giải nguồn gốc.
-  Bài học: trước khi rút gọn một nhãn cho vừa khung, hãy xác minh trong mod xem
-  chuỗi đó có thật sự được vẽ lên mặt nút hay không.
-- **File dịch chết** (wave 19): `work/translated/p2_thermalexpansion.json` và
-  `work/translated/orphans-test.json` không nằm trong `include_stems` của
-  `build_pack.py`, nên **chưa bao giờ được ship**. Chúng vẫn tạo ra 22 "xung đột
-  cross-family" giả trong `report_cross_store_conflicts.py`. Điều đáng chú ý:
-  bản dịch trong file chết lại **đúng convention hơn** bản đang ship (sentence
-  case so với Title Case), nên trước khi xoá phải đối chiếu từng khoá — 20 nhãn
-  `thermalexpansion` đã được sửa theo tiền lệ corpus rồi mới xoá file.
-- **"Xung đột" giữa hai store không cùng namespace là báo giả** (wave 20):
-  `report_cross_store_conflicts.py` từng so mọi cặp store, nên 7.354 khoá trùng
-  giá trị và 28 khoá ở namespace khác nhau đều bị đếm là xung đột. Build merge
-  theo **từng namespace**, nên chỉ khi hai store cùng nạp vào một namespace mà
-  giá trị khác nhau thì mới có khoá bị ghi đè. Đã viết lại reporter dùng chung
-  `lang_family_specs()` với `build_pack.py` (một nguồn sự thật cho ánh xạ
-  store → namespace) và thêm `tools/test_report_cross_store_conflicts.py` để
-  chặn hồi quy; gate được kiểm bằng mutation: chèn một giá trị khác vào
-  `p2_roots.json` làm pytest exit 1, khôi phục thì xanh lại.
-- **Regex triage bỏ sót placeholder có số** (wave 20): `COMMAND` chỉ khớp
-  `<abc>`/`[abc]` nên `<x1> <y1> [dim1]` và `[params...]` bị coi là nợ dịch, dù
-  đó là cú pháp lệnh người chơi phải gõ. Sau khi mở rộng regex và bổ sung các
-  quy tắc suy ra từ corpus (giá trị là protected term của **bất kỳ** mod nào,
-  tiêu đề màn hình lặp lại tên registry cùng namespace, tên mod bên thứ ba,
-  khuôn format không còn chữ nào để dịch), backlog 1.022 dòng còn lại **không
-  còn nợ dịch nào**. Mọi quy tắc mới đều được kiểm ngược trên toàn corpus đã
-  ship để chắc chắn không có false positive (0 dòng đã dịch bị quy tắc mới
-  nhận nhầm là "giữ English").
-- **`OK` không dịch, nhưng `Confirm` thì dịch** (wave 20): hai khoá
-  `generic.ok.txt` và `singles.buildinggadgets.confirm` có giá trị English là
-  `OK`/`Ok`. Corpus cho thấy `Cancel` → `Hủy` và `Confirm` → `Xác Nhận`, nhưng
-  `OK` được giữ nguyên ở **mọi** vị trí đã ship (`actuallyadditions`, `waila`).
-  Bài học: quyết định theo tiền lệ của **chính chuỗi đó**, không suy từ chuỗi
-  cùng nhóm chức năng.
-- **`Void` là hai từ khác nhau** (wave 20): `roots.modifiers.modifiers.shatter_void`
-  = `Voiding` (động từ, "phá huỷ vật phẩm" → `Hủy Vật Phẩm`) còn
-  `forge.biome.tags.void.name` = `Void` (danh từ, "Hư không"). Khi dịch
-  `voiding_scythe` theo tiền lệ động từ, validator consistency báo lệch thuật
-  ngữ. Đây là homograph thật nên đã thêm `CONSISTENCY_EXEMPT` đúng khoá, và
-  mutation-test xác nhận exemption không che lệch ở các khoá `Void` khác.
-
-## Build và kiểm định
+Build lại toàn bộ:
 
 ```bash
-# 1. Kiểm tra bản dịch trước khi build
-python tools/validate_runtime_locales.py
-python tools/validate_translated_locales.py
-python tools/check_line_endings.py
-
-# 2. Dựng artifact + tự đồng bộ release/ (coverage -> pack -> ... -> acceptance -> sync)
-#    Bước cuối copy artifact và 5 file bằng chứng sang release/ rồi tạo lại SHA256SUMS.txt.
 python tools/build_release_chain.py
-# xem thứ tự mà không chạy: python tools/build_release_chain.py --dry-run
-
-# 3. Kiểm định
-python -m pytest tools/ -q
-python tools/verify_release.py
-python tools/verify_server_delivery.py
-
-# Đo tiến độ bất cứ lúc nào
-python tools/measure_coverage.py
-python tools/tier_missing.py
 ```
 
-Các gate kiểm tra key-set, duplicate/case-collision, placeholder `%`, mã màu `§`, URL/line control, UTF-8, JSON, CRC, deterministic bytes, Client ZIP root structure, canonical shared inputs, server allowlist, hosted bytes và SHA-1 khai báo.
+Chuỗi này chạy validator, dựng ba ZIP, tính SHA-256 và kiểm tra từng file trong
+artifact có khớp `source/` không. Bất kỳ file nguồn nào không tới được artifact
+sẽ làm build **fail** — không có ngoại lệ ngầm.
+
+**Nguyên tắc kiểm tra:** thiếu dữ liệu để kiểm thì gate phải *fail*, không được
+coi "không tìm thấy lỗi" là "không có lỗi".
+
+</details>
+
+<details>
+<summary><b>Quy tắc dịch</b></summary>
+
+<br>
+
+Bốn quy tắc quyết định một chuỗi được dịch hay giữ tiếng Anh:
+
+1. **Tên tra cứu được thì giữ tiếng Anh.** Item, block, máy, chất lỏng, nâng cấp,
+   mod, tên riêng — để người chơi còn gõ được vào JEI và wiki.
+2. **Khuôn sinh tên thì giữ tiếng Anh.** Chuỗi như `%s Bolt`, `%s Ingot`,
+   `Block of %s` là khuôn ghép tên registry, không phải nhãn giao diện.
+3. **Câu cho người đọc thì dịch.** Tooltip, mô tả nhiệm vụ, hướng dẫn, thông báo.
+4. **Thứ người chơi phải gõ thì giữ nguyên.** Cú pháp lệnh, tên tham số, key config.
+
+Ràng buộc kỹ thuật bắt buộc: giữ đúng thứ tự và số lượng token `%s`/`%d`/`%n`,
+giữ nguyên mã màu `§`, giữ nguyên URL, không tạo `%` trần, không xuống dòng thật
+trong giá trị, mã hóa UTF-8.
+
+</details>
+
+<details>
+<summary><b>Những lỗi các gate đã bắt được</b></summary>
+
+<br>
+
+Ghi lại vì mỗi lỗi đều sinh ra một gate mới:
+
+- **Khuôn tên item bị dịch** — `base.part.bolt` của GregTech là khuôn `%s Bolt`;
+  dịch nó làm hỏng hàng loạt tên trong JEI.
+- **Key tự bịa** — một lần sửa xung đột đã tạo key không tồn tại trong JAR. Từ đó
+  mọi thay đổi phải thỏa `set(vi) ⊆ set(source)`.
+- **Dịch từng ký tự** — 16 key animation của ProjectE bị dịch theo từng chữ cái.
+- **Sai bậc đơn vị** — `Quintillion` (10¹⁸) bị dịch thành "Tỷ tỷ" trong khi chuỗi
+  trước đó là 10¹⁵ "Triệu tỷ"; giá trị đúng là "Nghìn triệu tỷ".
+- **Nguồn English bị nhiễm tiếng Việt** — 7.014 khóa trong
+  `work/runtime_locale_sources/` chứa bản dịch thay vì English gốc. Vì mọi
+  validator đều so `source` với `translated`, chúng báo "sạch" trong khi lỗi vẫn
+  còn. Bài học: **kiểm chính nguồn sự thật trước khi tin kết quả kiểm.**
+- **Gate kiểm sai file** — `check_readme_numbers.py` kiểm `DOC_DAU_TIEN.md` chứ
+  không phải `README.md`, nên README giữ số liệu lỗi thời qua nhiều wave mà không
+  gate nào báo.
+
+</details>
+
+<details>
+<summary><b>Kiểm tra tính toàn vẹn</b></summary>
+
+<br>
+
+Mỗi bản phát hành đều kèm `SHA256SUMS.txt`. Kiểm tra sau khi tải:
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
+
+Bản v2.23.4 đã được tải ẩn danh từ GitHub Release và xác minh checksum khớp,
+đồng thời xác nhận script vá 27 quặng có mặt trong gói.
+
+</details>
+
+---
+
+<div align="center">
+
+**Việt hóa bởi huuhungn** · Modpack gốc: [Divine Journey 2](https://www.curseforge.com/minecraft/modpacks/divine-journey-2)
+
+Bản dịch này là dự án của người hâm mộ, không liên kết với tác giả modpack.
+
+</div>

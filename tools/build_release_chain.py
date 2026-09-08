@@ -61,7 +61,8 @@ STEPS = (
     # Last, and after coverage has refreshed the stores: DOC_DAU_TIEN.md is the
     # file players read first, it is prose that no builder rewrites, and it went
     # three waves quoting a build that no longer existed.
-    ("check_readme_numbers.py", "README figures"),
+    ("check_readme_numbers.py", "DOC_DAU_TIEN figures"),
+    ("check_readme_root_numbers.py", "README.md figures"),
 )
 
 # Generated in build/, but shipped from release/ -- and nothing owned the copy.

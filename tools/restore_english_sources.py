@@ -49,8 +49,13 @@ MODS = INSTANCE / "mods"
 RESOURCES = INSTANCE / "resources"
 
 VIETNAMESE = re.compile(
+    # Both cases: an all-caps Vietnamese string such as "XUỐNG" or "TIẾNG ỒN
+    # LỚN!" carries its diacritics on UPPERCASE vowels, and a lowercase-only
+    # class silently passes it through as if it were English.
     r"[ăâđêôơưĂÂĐÊÔƠƯáàảãạấầẩẫậắằẳẵặéèẻẽẹếềểễệíìỉĩị"
-    r"óòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]"
+    r"óòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ"
+    r"ÁÀẢÃẠẤẦẨẪẬẮẰẲẴẶÉÈẺẼẸẾỀỂỄỆÍÌỈĨỊ"
+    r"ÓÒỎÕỌỐỒỔỖỘỚỜỞỠỢÚÙỦŨỤỨỪỬỮỰÝỲỶỸỴ]"
 )
 LANG_MEMBER = re.compile(r"^assets/([\w.\-]+)/lang/en_us\.(lang|json)$", re.IGNORECASE)
 
