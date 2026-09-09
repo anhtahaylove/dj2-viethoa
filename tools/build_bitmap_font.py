@@ -220,6 +220,16 @@ def _fit_headroom(master):
     the blank separator rather than the ink. The body never moves, and each mark
     keeps both its shape and its horizontal offset — the cue that separates grave
     from acute, and tilde from circumflex.
+
+    One blank row is kept between the mark stack and the body whenever the cell
+    has a blank row to spare. A bold typeface draws the circumflex of 'Ấ' two
+    rows thick, so consuming every separator fuses mark and letter into one blob
+    and the accent stops reading as an accent.
+
+    A stack that cannot fit while keeping that separator falls back to the old
+    behaviour of closing up completely. Ink is never removed to make room:
+    'Ỗ' carries its tilde in two rows, and dropping either leaves a bitmap
+    identical to 'Ô'.
     """
     pixels = master.load()
     height = master.height
@@ -237,7 +247,11 @@ def _fit_headroom(master):
         y for y in range(inked[0], min(inked[-1], HEADROOM + GLYPH))
         if not any(rows[y])
     ]
-    for y in reversed(blanks[-overshoot:] if overshoot <= len(blanks) else blanks):
+    # Keep the separator closest to the body, but only when enough blanks remain
+    # to absorb the overshoot without it.
+    spare = blanks[:-1] if len(blanks) > overshoot else blanks
+
+    for y in reversed(spare[-overshoot:] if overshoot <= len(spare) else spare):
         rows.pop(y)
         rows.insert(0, [0] * GLYPH)
 

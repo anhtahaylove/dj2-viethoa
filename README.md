@@ -109,8 +109,8 @@ Font mặc định của Minecraft không có dấu tiếng Việt. Gói này k�
 | Phạm vi dịch | **84,1%** (22.783 / 27.075 khóa trong phạm vi) |
 | Dòng đã ship | 35.519 dòng, 169 mod |
 | Nợ dịch ưu tiên cao (T1) | **0** |
-| Còn lại | 270 nhãn giao diện phụ, 189 màn hình cấu hình, 547 chuỗi lẻ |
-| pytest | **221 passed**, 2 subtests |
+| Còn lại | 1.006 khóa giữ tiếng Anh có chủ đích: 270 tên khối/máy, 189 chuỗi lệnh, 547 tên vật phẩm |
+| pytest | **222 passed**, 2 subtests |
 | Gate build / EOL / verify | tất cả exit 0 |
 
 </div>

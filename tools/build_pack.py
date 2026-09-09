@@ -267,8 +267,15 @@ def add_bitmap_font(stage, report):
     from instance_paths import client_jar as resolve_client_jar
 
     client_jar = resolve_client_jar()
+    # Size 13, not the 14 that matches the cell height. A 14pt capital body fills
+    # rows 4..13, leaving no room for a stacked circumflex plus tone plus the
+    # blank row that keeps them apart, so 'Ấ' and 'Ồ' rendered as one solid blob.
+    # Dropping one point shortens the body enough for the separator to survive;
+    # measured over every accented letter it takes the touching count from 18 to
+    # 8, and the 8 that remain are ơ/ư, whose tone sits beside the horn exactly
+    # as it does in Mojang's own font.
     report["bitmap_font"] = build_font(
-        SOURCE / "fonts" / "JetBrainsMono-Bold.ttf", stage, client_jar, size=14
+        SOURCE / "fonts" / "JetBrainsMono-Bold.ttf", stage, client_jar, size=13
     )
 
 

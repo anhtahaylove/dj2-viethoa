@@ -3,7 +3,12 @@ import hashlib, json, re, shutil, tempfile, urllib.request, zipfile
 ROOT=Path(__file__).resolve().parents[2]
 PROJ=ROOT/'dj2-viethoa'; BUILD=PROJ/'build'; SERVER=ROOT/'Divine_Journey_2.23.4_Server_Pack'
 PACK=BUILD/'DJ2_Viet_Hoa_2.23.4.zip'; BUNDLE=BUILD/'DJ2_Viet_Hoa_2.23.4_Client_Extract_To_Instance.zip'
-TARGETS=[SERVER/'resourcepack'/PACK.name,SERVER/'resourcepacks'/PACK.name]
+# The pack sits in three places under the server pack: two resourcepack folders
+# the launcher reads, and the server-pack root, which is the copy the HTTP host
+# opens and streams to joining players. Publishing only the first two leaves the
+# root serving whatever build was current when the host last started, so players
+# download a pack older than the one on disk while every gate still reads green.
+TARGETS=[SERVER/'resourcepack'/PACK.name,SERVER/'resourcepacks'/PACK.name,SERVER/PACK.name]
 def digest(p,kind):
  h=hashlib.new(kind);h.update(p.read_bytes());return h.hexdigest()
 def atomic_copy(src,dst):

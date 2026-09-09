@@ -181,6 +181,35 @@ class ToneMarkDirectionTests(unittest.TestCase):
             "two different letters render as the same bitmap: " + "; ".join(collisions),
         )
 
+    def test_stacked_marks_keep_a_gap_above_the_letter(self):
+        """A tone stacked over a circumflex must not fuse into the letter body.
+
+        'Ấ' is a capital A, a circumflex and an acute in a 16px cell. Rasterised
+        one point too large the three run together and the screenshot reads as a
+        bold blob with no accent — the "dấu dính vào chữ" report. The letters
+        listed below each carry a two-mark stack, and every one of them must show
+        at least one blank row between the marks and the body.
+
+        ơ/ư are excluded on purpose: their tone sits beside the horn rather than
+        above it, so their ink is continuous top to bottom in Mojang's font too.
+        """
+        fused = []
+        for char in "ẢẦẤẨẪẬỀẾỂỄỆỒỐỔỖỘàáảãạẦẤỀẾỒỐ":
+            rows = mask(char)
+            inked = [y for y, row in enumerate(rows) if any(row)]
+            if not inked:
+                continue
+            y = inked[0]
+            while y < len(rows) and any(rows[y]):
+                y += 1
+            if y > inked[-1]:
+                fused.append(char)
+        self.assertEqual(
+            fused,
+            [],
+            "tone mark touches the letter body: " + " ".join(fused),
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
