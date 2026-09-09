@@ -92,11 +92,18 @@ server khởi động.
 ## Chất lượng hiển thị
 
 Font mặc định của Minecraft không có dấu tiếng Việt. Gói này kèm font đã dựng lại
-để dấu hiện đúng, không bị cắt hay chồng lên nhau:
+để dấu hiện đúng, không bị cắt hay chồng lên nhau. Bảng dưới sinh thẳng từ file
+pack đã build (`tools/render_font_tone_marks.py`), nên nó luôn là font bạn tải về:
 
 <div align="center">
 <img src="docs/font_tone_marks.png" alt="Bảng dấu tiếng Việt trong font" width="560">
 </div>
+
+Chữ dựng ở cỡ 13, không phải cỡ 14 cho khít ô 16px: thân chữ hoa cỡ 14 chiếm hết
+nên dấu mũ + dấu thanh bị ép dính vào thân. Ở cỡ 13, mọi chữ có dấu mũ (`ấ ồ ế`)
+đều có khoảng trắng ngăn dấu với thân, đúng như font gốc của Mojang. Riêng `ơ/ư`
+mang dấu thanh cạnh dấu móc nên nét liền từ trên xuống — bản thân Mojang cũng vẽ
+vậy.
 
 ---
 
